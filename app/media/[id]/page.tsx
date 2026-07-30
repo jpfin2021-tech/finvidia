@@ -7,7 +7,8 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import VideoModal from '@/components/video-modal';
 import { MediaItem, Video } from '@/types/database';
-import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users } from 'lucide-react';
+import { buildAmazonPrimeVideoLink, buildAmazonPhysicalBlurayLink, buildJustWatchLink } from '@/lib/affiliate';
+import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users, ShoppingBag, Film, Disc } from 'lucide-react';
 
 export function formatViewCount(views?: number): string {
   if (!views || views === 0) return '0 Views';
@@ -26,7 +27,8 @@ function generateCleanSlug(name: string): string {
 export default function MediaHubPage() {
   const params = useParams();
   const router = useRouter();
-  const mediaId = params?.id as string;
+  const rawId = params?.id as string;
+  const mediaId = Array.isArray(rawId) ? rawId[0] : rawId;
 
   const [media, setMedia] = useState<MediaItem | null>(null);
   const [reactions, setVideos] = useState<Video[]>([]);
@@ -190,6 +192,11 @@ export default function MediaHubPage() {
 
   const totalViewsCombined = reactions.reduce((sum, v) => sum + (v.view_count || 0), 0);
 
+  // Dynamic Partner Links
+  const amazonPrimeUrl = buildAmazonPrimeVideoLink(media.title, media.release_year);
+  const amazonPhysicalUrl = buildAmazonPhysicalBlurayLink(media.title);
+  const justWatchUrl = buildJustWatchLink(media.title);
+
   return (
     <div className="pt-16 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 pt-6">
@@ -201,7 +208,7 @@ export default function MediaHubPage() {
         </button>
       </div>
 
-      <div className="relative w-full min-h-[440px] bg-zinc-950 overflow-hidden my-4 border-b border-zinc-800 pb-8">
+      <div className="relative w-full min-h-[460px] bg-zinc-950 overflow-hidden my-4 border-b border-zinc-800 pb-8">
         <div className="absolute inset-0">
           <Image
             src={media.backdrop_url || media.poster_url || '/placeholder.png'}
@@ -337,6 +344,46 @@ export default function MediaHubPage() {
                 </div>
               </div>
             )}
+
+            {/* Monetized Stream / Buy Partner Links */}
+            <div className="pt-3 border-t border-zinc-800/80 mt-2">
+              <p className="text-[11px] font-black uppercase text-zinc-400 tracking-wider mb-2 flex items-center gap-1.5">
+                <ShoppingBag className="w-3.5 h-3.5 text-red-500" /> Watch Official Film (Stream / Rent / Buy):
+              </p>
+              <div className="flex flex-wrap items-center gap-2">
+                <a
+                  href={amazonPrimeUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-amber-500 hover:bg-amber-400 text-black text-xs font-extrabold px-3.5 py-2 rounded-lg transition-all flex items-center gap-1.5 shadow-md"
+                >
+                  <Film className="w-3.5 h-3.5 fill-black" />
+                  <span>Prime Video Digital</span>
+                  <ExternalLink className="w-3 h-3 text-black/70" />
+                </a>
+
+                <a
+                  href={amazonPhysicalUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-zinc-800 hover:bg-zinc-700 text-white text-xs font-bold px-3.5 py-2 rounded-lg border border-zinc-700 transition-all flex items-center gap-1.5 shadow-md"
+                >
+                  <Disc className="w-3.5 h-3.5 text-amber-400" />
+                  <span>4K Disc / Blu-ray</span>
+                  <ExternalLink className="w-3 h-3 text-zinc-400" />
+                </a>
+
+                <a
+                  href={justWatchUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-zinc-800 hover:bg-red-600 text-white text-xs font-bold px-3.5 py-2 rounded-lg border border-zinc-700 transition-all flex items-center gap-1.5 shadow-md"
+                >
+                  <span>JustWatch Streaming Guide</span>
+                  <ExternalLink className="w-3 h-3 text-zinc-400" />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
