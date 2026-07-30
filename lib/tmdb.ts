@@ -45,7 +45,8 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
   for (const title of titleList) {
     if (!title || title.trim().length < 2) continue;
 
-    if (/^(commentary|reaction|review|discussion|thoughts|vlog|recap|teabag|live|livestream|mailbag|mail)$/i.test(title.trim())) {
+    const cleanLower = title.toLowerCase().trim();
+    if (/^(first time|first time watching|first time reaction|commentary|reaction|review|discussion|thoughts|vlog|recap|teabag|live|livestream|mailbag|mail)$/i.test(cleanLower)) {
       continue;
     }
 
@@ -141,8 +142,9 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
         const movieTitle = movie.title || '';
 
         if (/^(live!|live|commentary)$/i.test(movieTitle.trim())) continue;
+        if (/^first time$/i.test(movieTitle.trim()) && movie.id !== 82693) continue; // Block fake "First Time" movie traps
         if (movie.id === 12204) continue; // Block 1980 animated Return of the King
-        if (movie.id === 74588 || /^lindsay lohan$/i.test(movieTitle)) continue; // Block 2011 Lindsay Lohan documentary trap
+        if (movie.id === 74588 || /^lindsay lohan$/i.test(movieTitle)) continue;
         if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue;
         if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue;
         if (movie.id === 252994 || /little rascals save the day/i.test(movieTitle)) continue;

@@ -49,7 +49,6 @@ export function generateCleanSlug(name: string): string {
 }
 
 export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[]; year?: number; isNonMovieVideo: boolean } {
-  // Strict filter blocking YouTube Shorts, trailers, clips, reviews, and non-reactions
   const nonMovieOrTvRegex = /#shorts?|#short|\bshorts?\b|\btiktok\b|\breels?\b|\bclip\b|\btrailer\b|\bteaser\b|\breview\b|\bspoiler\s*talk\b|\bnon-spoiler\b|ep\s*\d+|episodes?|season\s*\d+|s\d+e\d+|s\d+|\b\d+x\d+\b|tv\s*show|series|live\s+recap|q&a|q\s*&\s*a|qa|bracket|channel\ announcement|vlog|livestream|\blive\b|mailbag|mail|pick-a-flick|nintendo|trivia|podcast|update|tier\s+list|patreon|schedule|haul|tiktok|milestone|thanks|subscriber|game\ of\ thrones|coldplay|\b\d+-\d+\b|\bep[\d-]+\b|obi-wan|kenobi|mandalorian|andor|ahsoka|loki|wandavision|hawkeye|moon\ knight|she-hulk|secret\ invasion|stranger\ things|last\ of\ us|house\ of\ the\ dragon|white\ lotus|ted\ lasso|severance|silo|foundation|succession|yellowstone|peacemaker|the\ boys|gen\ v|fallout|shogun|bear|beef|squid\ game|daredevil|falcon\ and\ the\ winter\ soldier|ptsd|has\ ptsd|tattoos|tattoo|unboxing|music\s*video|official\s*video|official\s*audio|\balbum\b|\bsong\b|\btrack\b|\bmv\b|\bcover\b|\bremix\b|singing|concert|live\s*performance|music\s*reaction|storytime|grwm|apartment|tour|makeup|try\s*on|behind\s*the\s*scenes|bts|gameplay|walkthrough|anime|manga|subbed|dubbed|stunt|stunts|airplane\ stunt|promo|just\ watched|interview|cinematheque/i;
   
   if (nonMovieOrTvRegex.test(rawTitle)) {
@@ -90,7 +89,9 @@ export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[
 
     const isCommentary = /^(is|are|was|were|how|why|i|i'm|i've|i\s+was|this|what|my|so|a|unbelievable|insane|emotional|not\s+prepared|stunned|haven't|haven't\s+been|extended|part|commentary|teabag|live|just\s+watched|emotionally\s+wrecked\s+by)\b/i.test(cleaned);
 
-    if (cleaned.length > 1 && !isCommentary && cleaned.toLowerCase() !== 'first' && cleaned.toLowerCase() !== 'time') {
+    const isFirstTimeFiller = /^first\s*time$/i.test(cleaned);
+
+    if (cleaned.length > 1 && !isCommentary && !isFirstTimeFiller && cleaned.toLowerCase() !== 'first' && cleaned.toLowerCase() !== 'time') {
       candidates.push(cleaned);
     }
   }
@@ -99,7 +100,7 @@ export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[
     let beforeYear = cleanedTitle.substring(0, yearMatch.index).trim();
     beforeYear = beforeYear.replace(/.*(?:first[-_ ]*time[-_ ]*watching|first[-_ ]*time[-_ ]*reaction|reacting[-_ ]*to|movie[-_ ]*reaction|watching|reaction)\s*/gi, '');
     beforeYear = beforeYear.split(/\||\s+[-—–]\s+|—|–|!|\?/)[0].replace(/["'“”!]/g, '').trim();
-    if (beforeYear.length > 1) {
+    if (beforeYear.length > 1 && !/^first\s*time$/i.test(beforeYear)) {
       candidates.push(beforeYear);
     }
   }
@@ -257,7 +258,20 @@ export async function GET(request: Request) {
   const syncLogs: string[] = [];
 
   try {
-    // 1. HARD PURGE ALL SHORTS AND NON-REACTION VIDEOS FROM SUPABASE
+    // 1. HARD PURGE "FIRST TIME" FAKE MEDIA RECORD
+    const { data: firstTimeFakes } = await supabase
+      .from('media_items')
+      .select('id')
+      .ilike('title', 'First Time');
+
+    if (firstTimeFakes && firstTimeFakes.length > 0) {
+      const fakeIds = firstTimeFakes.map((m) => m.id);
+      await supabase.from('videos').delete().in('media_id', fakeIds);
+      await supabase.from('media_items').delete().in('id', fakeIds);
+      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake "First Time" media items.`);
+    }
+
+    // 2. HARD PURGE ALL SHORTS AND NON-REACTION VIDEOS
     const { data: shortsToDelete } = await supabase
       .from('videos')
       .select('id, title')
@@ -269,7 +283,7 @@ export async function GET(request: Request) {
       syncLogs.push(`Sanitized DB: Deleted ${shortIds.length} YouTube Shorts / trailer records.`);
     }
 
-    // 2. HARD PURGE FAKE & MISMATCHED MEDIA ITEMS
+    // 3. HARD PURGE FAKE & MISMATCHED MEDIA ITEMS
     const { data: badFakes } = await supabase
       .from('media_items')
       .select('id')
@@ -469,7 +483,7 @@ export async function GET(request: Request) {
       syncLogs.push(`${channelConfig.name}: Completed backlog (${movieReactionsMatched} new reactions synced).`);
     }
 
-    // 3. PURGE ORPHANED MEDIA ITEMS
+    // 4. PURGE ORPHANED MEDIA ITEMS
     await supabase.from('videos').delete().is('media_id', null);
     const allMedia = await fetchAllRowsPaginated(supabase, 'media_items', 'id, videos(id)');
     const orphanedIds = allMedia.filter((m: any) => !m.videos || m.videos.length === 0).map((m: any) => m.id);
@@ -478,7 +492,7 @@ export async function GET(request: Request) {
       syncLogs.push(`Purged ${orphanedIds.length} orphaned ghost media records.`);
     }
 
-    // 4. PRE-COMPUTE AND STORE CHANNEL AGGREGATE STATS
+    // 5. PRE-COMPUTE AND STORE CHANNEL AGGREGATE STATS
     const { data: allChannels } = await supabase.from('channels').select('id');
     if (allChannels) {
       const allVids = await fetchAllRowsPaginated(supabase, 'videos', 'channel_id, view_count');

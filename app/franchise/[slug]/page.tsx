@@ -7,7 +7,7 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import VideoModal from '@/components/video-modal';
 import { Video } from '@/types/database';
-import { Play, ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Clapperboard, Film } from 'lucide-react';
+import { Play, ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Clapperboard, Film, Calendar } from 'lucide-react';
 
 interface FranchiseDef {
   slug: string;
@@ -337,15 +337,16 @@ export default function FranchisePage() {
                   <div className="flex items-center justify-between gap-2 mb-2">
                     <Link
                       href={`/creators/${(video as any).channel_slug || 'creators'}`}
-                      className="text-[11px] font-bold text-red-400 hover:text-white bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded transition-colors truncate max-w-[160px]"
+                      className="text-[11px] font-bold text-red-400 hover:text-white bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded transition-colors truncate max-w-[150px]"
                     >
                       {(video as any).channel_name || 'Creator'}
                     </Link>
-                    {video.media_item && (
-                      <span className="text-[11px] text-amber-400 font-bold truncate">
-                        {video.media_item.title}
-                      </span>
-                    )}
+
+                    {/* YouTube Published Upload Date Badge */}
+                    <span className="text-[11px] text-zinc-400 font-medium flex items-center gap-1 flex-none">
+                      <Calendar className="w-3 h-3 text-red-500" />
+                      {new Date(video.published_at).toLocaleDateString()}
+                    </span>
                   </div>
 
                   <h3 className="font-bold text-sm text-white line-clamp-2 leading-snug group-hover:text-red-400 transition-colors">

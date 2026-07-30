@@ -6,10 +6,19 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import VideoModal from '@/components/video-modal';
-import { MediaItem, Video } from '@/types/database';
-import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users } from 'lucide-react';
+import { Video } from '@/types/database';
+import { Play, ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, CheckCircle2, Calendar, ArrowUp, ArrowDown } from 'lucide-react';
 
-export function formatViewCount(views?: number): string {
+interface CreatorDetails {
+  id: string;
+  name: string;
+  handle: string;
+  slug?: string;
+  avatar_url?: string;
+  yt_channel_id: string;
+}
+
+function formatViewCount(views?: number): string {
   if (!views || views === 0) return '0 Views';
   if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M Views`;
   if (views >= 1000) return `${Math.round(views / 1000)}K Views`;
@@ -23,340 +32,258 @@ function generateCleanSlug(name: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-export default function MediaHubPage() {
+export default function CreatorHubPage() {
   const params = useParams();
   const router = useRouter();
-  const mediaId = params?.id as string;
+  const rawIdentifier = params?.id as string;
+  const creatorIdentifier = Array.isArray(rawIdentifier) ? rawIdentifier[0] : rawIdentifier;
 
-  const [media, setMedia] = useState<MediaItem | null>(null);
-  const [reactions, setVideos] = useState<Video[]>([]);
+  const [creator, setCreator] = useState<CreatorDetails | null>(null);
+  const [videos, setVideos] = useState<Video[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
   const [reactionSort, setReactionSort] = useState<'views' | 'newest' | 'oldest'>('views');
-
-  const [userRating, setUserRating] = useState<number>(0);
-  const [hoverRating, setHoverRating] = useState<number>(0);
-  const [avgRating, setAvgRating] = useState<number>(0.0);
-  const [totalRatings, setTotalRatings] = useState<number>(0);
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   useEffect(() => {
-    async function loadMediaHub() {
-      if (!mediaId) return;
+    async function loadCreatorHub() {
+      if (!creatorIdentifier) return;
       setLoading(true);
       try {
         const supabase = createClient();
 
-        const { data: mediaData, error: mediaError } = await supabase
-          .from('media_items')
-          .select(`
-            id,
-            media_type,
-            title,
-            release_year,
-            studio_label,
-            synopsis,
-            poster_url,
-            backdrop_url,
-            media_directors (
-              directors (id, name, slug)
-            ),
-            media_actors (
-              actors (id, name, slug)
-            ),
-            media_genres (
-              genres (id, name, slug)
-            )
-          `)
-          .eq('id', mediaId)
-          .single();
+        const formattedSearchParam = creatorIdentifier.toLowerCase().trim();
+        const { data: chanData } = await supabase
+          .from('channels')
+          .select('id, name, handle, slug, avatar_url, yt_channel_id')
+          .or(`id.eq.${creatorIdentifier},handle.ilike.%${formattedSearchParam}%`)
+          .maybeSingle();
 
-        if (mediaError || !mediaData) {
-          console.error('Error fetching media hub:', mediaError);
+        let activeChan = chanData;
+
+        if (!activeChan) {
+          const { data: allChans } = await supabase.from('channels').select('*');
+          if (allChans) {
+            activeChan = allChans.find((c: any) => {
+              const cleanSlug = generateCleanSlug(c.name);
+              return (
+                cleanSlug === formattedSearchParam ||
+                c.name.toLowerCase().replace(/[^a-z0-9]+/g, '') === formattedSearchParam.replace(/[^a-z0-9]+/g, '') ||
+                c.handle.toLowerCase().replace('@', '') === formattedSearchParam.replace('@', '')
+              );
+            });
+          }
+        }
+
+        if (!activeChan) {
+          console.error('Creator profile not found for:', creatorIdentifier);
           setLoading(false);
           return;
         }
 
-        const formattedMedia: MediaItem = {
-          id: mediaData.id,
-          media_type: mediaData.media_type,
-          title: mediaData.title,
-          release_year: mediaData.release_year,
-          studio_label: mediaData.studio_label,
-          synopsis: mediaData.synopsis,
-          poster_url: mediaData.poster_url,
-          backdrop_url: mediaData.backdrop_url,
-          directors: (mediaData as any).media_directors?.map((md: any) => md.directors).filter(Boolean) || [],
-          actors: (mediaData as any).media_actors?.map((ma: any) => ma.actors).filter(Boolean) || [],
-          genres: (mediaData as any).media_genres?.map((mg: any) => mg.genres).filter(Boolean) || [],
-        };
+        setCreator(activeChan);
 
-        setMedia(formattedMedia);
+        let allVids: any[] = [];
+        let page = 0;
+        let hasMore = true;
 
-        const { data: videoData } = await supabase
-          .from('videos')
-          .select(`
-            id,
-            yt_video_id,
-            channel_id,
-            title,
-            description,
-            thumbnail_url,
-            published_at,
-            view_count,
-            ai_summary,
-            ai_timestamps,
-            individual_reactors,
-            channels (
+        while (hasMore) {
+          const { data, error } = await supabase
+            .from('videos')
+            .select(`
               id,
-              handle,
-              name,
-              avatar_url,
-              slug
-            )
-          `)
-          .eq('media_id', mediaId);
+              yt_video_id,
+              title,
+              description,
+              thumbnail_url,
+              published_at,
+              view_count,
+              media_items (id, title, release_year, poster_url)
+            `)
+            .eq('channel_id', activeChan.id)
+            .range(page * 1000, (page + 1) * 1000 - 1);
 
-        if (videoData) {
-          const formattedVideos: Video[] = videoData.map((v: any) => {
-            const chanName = v.channels?.name || 'Creator';
-            return {
-              id: v.id,
-              yt_video_id: v.yt_video_id,
-              channel_id: v.channel_id,
-              title: v.title,
-              description: v.description,
-              thumbnail_url: v.thumbnail_url,
-              published_at: v.published_at,
-              view_count: v.view_count || 0,
-              ai_summary: v.ai_summary,
-              ai_timestamps: v.ai_timestamps || [],
-              individual_reactors: v.individual_reactors || [],
-              channel_name: chanName,
-              channel_handle: v.channels?.handle,
-              channel_avatar: v.channels?.avatar_url,
-              channel_slug: v.channels?.slug || generateCleanSlug(chanName),
-              media_item: formattedMedia
-            } as any;
-          });
-
-          setVideos(formattedVideos);
+          if (error || !data || data.length === 0) {
+            hasMore = false;
+          } else {
+            allVids = allVids.concat(data);
+            if (data.length < 1000) hasMore = false;
+            page++;
+          }
         }
+
+        const formattedVideos: Video[] = allVids.map((v: any) => ({
+          id: v.id,
+          yt_video_id: v.yt_video_id,
+          channel_id: activeChan.id,
+          title: v.title,
+          description: v.description,
+          thumbnail_url: v.thumbnail_url,
+          published_at: v.published_at,
+          view_count: v.view_count || 0,
+          channel_name: activeChan.name,
+          channel_handle: activeChan.handle,
+          channel_avatar: activeChan.avatar_url,
+          channel_slug: activeChan.slug || generateCleanSlug(activeChan.name),
+          media_item: v.media_items ? {
+            id: v.media_items.id,
+            media_type: 'movie',
+            title: v.media_items.title,
+            release_year: v.media_items.release_year,
+            poster_url: v.media_items.poster_url,
+            backdrop_url: '',
+          } : undefined
+        }));
+
+        setVideos(formattedVideos);
       } catch (err) {
-        console.error('Error loading media hub:', err);
+        console.error('Error loading creator hub:', err);
       } finally {
         setLoading(false);
       }
     }
 
-    loadMediaHub();
-  }, [mediaId]);
+    loadCreatorHub();
+  }, [creatorIdentifier]);
 
-  const handleRateFilm = (stars: number) => {
-    setUserRating(stars);
-    const newTotal = totalRatings + 1;
-    const newAvg = Number(((avgRating * totalRatings + stars) / newTotal).toFixed(1));
-    setAvgRating(newAvg);
-    setTotalRatings(newTotal);
+  // Fast in-memory sort reversal (0ms)
+  const toggleSortDirection = () => {
+    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
+    setVideos((prev) => [...prev].reverse());
   };
 
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
         <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
-        <p className="text-sm font-medium">Loading Media Hub...</p>
+        <p className="text-sm font-medium">Loading Creator Profile...</p>
       </div>
     );
   }
 
-  if (!media) {
+  if (!creator) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 px-6 text-center text-zinc-400">
-        <h2 className="text-xl font-bold text-white">Media title not found</h2>
+        <h2 className="text-xl font-bold text-white">Creator channel not found</h2>
         <button
-          onClick={() => router.push('/browse')}
+          onClick={() => router.push('/creators')}
           className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg"
         >
-          Return to Directory
+          Return to Creator Directory
         </button>
       </div>
     );
   }
 
-  const sortedReactions = [...reactions].sort((a, b) => {
-    if (reactionSort === 'views') return (b.view_count || 0) - (a.view_count || 0);
-    if (reactionSort === 'oldest') return new Date(a.published_at).getTime() - new Date(b.published_at).getTime();
-    return new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
+  const sortedReactions = [...videos].sort((a, b) => {
+    let res = 0;
+    if (reactionSort === 'views') res = (b.view_count || 0) - (a.view_count || 0);
+    else if (reactionSort === 'oldest') res = new Date(a.published_at).getTime() - new Date(b.published_at).getTime();
+    else res = new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
+
+    return sortDirection === 'desc' ? res : -res;
   });
 
-  const totalViewsCombined = reactions.reduce((sum, v) => sum + (v.view_count || 0), 0);
+  const totalViewsCombined = videos.reduce((sum, v) => sum + (v.view_count || 0), 0);
+  const avgViewsPerVideo = videos.length > 0 ? Math.round(totalViewsCombined / videos.length) : 0;
 
   return (
-    <div className="pt-16 pb-20 min-h-screen bg-[#09090b]">
+    <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
+      {/* Top Back Navigation */}
       <div className="px-6 md:px-12 pt-6">
         <button
           onClick={() => router.back()}
           className="text-xs text-zinc-400 hover:text-white flex items-center gap-1.5 transition-colors font-semibold cursor-pointer"
         >
-          <ArrowLeft className="w-4 h-4" /> Back to Directory
+          <ArrowLeft className="w-4 h-4" /> Back to Creator Directory
         </button>
       </div>
 
-      <div className="relative w-full min-h-[440px] bg-zinc-950 overflow-hidden my-4 border-b border-zinc-800 pb-8">
-        <div className="absolute inset-0">
-          <Image
-            src={media.backdrop_url || media.poster_url || '/placeholder.png'}
-            alt={media.title}
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover object-center opacity-30 filter blur-[1px]"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#09090b] via-[#09090b]/70 to-transparent" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#09090b] via-[#09090b]/80 to-transparent" />
-        </div>
+      {/* Hero Header */}
+      <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
+        <div className="bg-gradient-to-r from-zinc-900 via-zinc-900 to-zinc-950 border border-zinc-800 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 shadow-2xl">
+          <div className="flex items-center gap-5">
+            <div className="relative w-16 h-16 md:w-24 md:h-24 rounded-full overflow-hidden bg-zinc-800 border-2 border-red-600 shadow-2xl flex-none">
+              {creator.avatar_url ? (
+                <Image
+                  src={creator.avatar_url}
+                  alt={creator.name}
+                  fill
+                  priority
+                  unoptimized
+                  sizes="96px"
+                  className="object-cover"
+                />
+              ) : (
+                <div className="w-full h-full bg-red-600 text-white font-black text-2xl flex items-center justify-center">
+                  {creator.name.charAt(0)}
+                </div>
+              )}
+            </div>
 
-        <div className="relative max-w-5xl z-20 pt-12 px-6 md:px-12 flex flex-col md:flex-row items-start md:items-end gap-6">
-          <div className="relative w-36 md:w-52 aspect-[2/3] rounded-xl overflow-hidden border-2 border-zinc-700 shadow-2xl flex-none hidden sm:block">
-            <Image
-              src={media.poster_url || '/placeholder.png'}
-              alt={media.title}
-              fill
-              sizes="(max-width: 768px) 144px, 208px"
-              className="object-cover"
-            />
+            <div>
+              <div className="flex items-center gap-2">
+                <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight">
+                  {creator.name}
+                </h1>
+                <CheckCircle2 className="w-6 h-6 text-red-500 fill-red-500/20 flex-none" />
+                <Sparkles className="w-5 h-5 text-amber-400 fill-amber-400" />
+              </div>
+              <p className="text-sm text-zinc-400 font-medium mt-0.5">{creator.handle}</p>
+              <a
+                href={`https://www.youtube.com/channel/${creator.yt_channel_id}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-xs text-red-400 hover:text-red-300 font-bold mt-2"
+              >
+                <span>Official YouTube Channel</span>
+                <ExternalLink className="w-3 h-3" />
+              </a>
+            </div>
           </div>
 
-          <div className="flex flex-col gap-3 flex-1">
-            <div className="flex flex-wrap items-center gap-2">
-              <span className="bg-red-600 text-white text-xs font-black uppercase px-2.5 py-1 rounded tracking-wider">
-                Official Film
-              </span>
-              {media.release_year > 0 && (
-                <span className="bg-zinc-800/90 text-zinc-300 text-xs font-bold px-2.5 py-1 rounded border border-zinc-700">
-                  {media.release_year}
-                </span>
-              )}
+          <div className="flex flex-wrap items-center gap-4 bg-black/60 border border-zinc-800 rounded-xl p-4">
+            <div className="pr-4 border-r border-zinc-800">
+              <p className="text-[10px] font-bold uppercase text-zinc-400">Indexed Movies</p>
+              <p className="text-xl font-black text-white flex items-center gap-1.5 mt-0.5">
+                <Tv className="w-4 h-4 text-red-500" />
+                {videos.length}
+              </p>
             </div>
-
-            <h1 className="text-3xl md:text-5xl font-black text-white tracking-tight leading-none">
-              {media.title}
-            </h1>
-
-            <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-zinc-300">
-              {media.directors?.[0] && (
-                <Link
-                  href={`/browse?q=${encodeURIComponent(media.directors[0].name)}`}
-                  className="flex items-center gap-1.5 font-medium hover:text-red-400 transition-colors group"
-                >
-                  <User className="w-4 h-4 text-red-500" />
-                  Director: <strong className="text-white underline decoration-zinc-600 group-hover:decoration-red-500">{media.directors[0].name}</strong>
-                </Link>
-              )}
-              {media.studio_label && (
-                <Link
-                  href={`/browse?q=${encodeURIComponent(media.studio_label)}`}
-                  className="flex items-center gap-1.5 font-medium hover:text-red-400 transition-colors group"
-                >
-                  <Building className="w-4 h-4 text-red-500" />
-                  Studio: <strong className="text-white underline decoration-zinc-600 group-hover:decoration-red-500">{media.studio_label}</strong>
-                </Link>
-              )}
+            <div className="pr-4 border-r border-zinc-800">
+              <p className="text-[10px] font-bold uppercase text-zinc-400">Total Views</p>
+              <p className="text-xl font-black text-amber-400 flex items-center gap-1.5 mt-0.5">
+                <Eye className="w-4 h-4 text-amber-400" />
+                {formatViewCount(totalViewsCombined)}
+              </p>
             </div>
-
-            {media.genres && media.genres.length > 0 && (
-              <div className="flex flex-wrap items-center gap-1.5 pt-0.5">
-                <Tag className="w-3.5 h-3.5 text-zinc-500 mr-0.5" />
-                {media.genres.map((g) => (
-                  <Link
-                    key={g.id}
-                    href={`/browse?genre=${g.slug}`}
-                    className="bg-zinc-800/80 hover:bg-amber-500 hover:text-black text-zinc-300 text-[11px] font-bold px-2.5 py-0.5 rounded border border-zinc-700/80 transition-all"
-                  >
-                    {g.name}
-                  </Link>
-                ))}
-              </div>
-            )}
-
-            <div className="flex items-center gap-3 bg-zinc-900/90 border border-zinc-800 rounded-lg px-3.5 py-2 w-fit mt-1">
-              <div className="flex items-center gap-1 text-amber-400">
-                <Star className="w-4 h-4 fill-amber-400" />
-                <span className="font-black text-sm text-white">
-                  {totalRatings > 0 ? avgRating : 'N/A'}
-                </span>
-                <span className="text-[11px] text-zinc-500">/ 5.0</span>
-              </div>
-
-              <div className="border-l border-zinc-700 h-4" />
-
-              <div className="flex items-center gap-1">
-                {[1, 2, 3, 4, 5].map((star) => (
-                  <button
-                    key={star}
-                    onClick={() => handleRateFilm(star)}
-                    onMouseEnter={() => setHoverRating(star)}
-                    onMouseLeave={() => setHoverRating(0)}
-                    className="p-0.5 transition-transform hover:scale-125 cursor-pointer"
-                    title={`Rate ${star} Stars`}
-                  >
-                    <Star
-                      className={`w-4 h-4 ${
-                        (hoverRating || userRating) >= star
-                          ? 'text-amber-400 fill-amber-400'
-                          : 'text-zinc-600'
-                      }`}
-                    />
-                  </button>
-                ))}
-              </div>
-
-              <span className="text-[10px] text-zinc-400 font-semibold">
-                {userRating > 0 ? 'Your Score Saved!' : totalRatings > 0 ? `(${totalRatings} votes)` : '(No votes yet)'}
-              </span>
+            <div>
+              <p className="text-[10px] font-bold uppercase text-zinc-400">Avg / Reaction</p>
+              <p className="text-xl font-black text-zinc-200 mt-0.5">
+                {formatViewCount(avgViewsPerVideo)}
+              </p>
             </div>
-
-            <p className="text-zinc-300 text-xs md:text-sm line-clamp-3 max-w-3xl leading-relaxed mt-1">
-              {media.synopsis || "Explore creator reactions and commentary for this title."}
-            </p>
-
-            {media.actors && media.actors.length > 0 && (
-              <div className="pt-1">
-                <p className="text-xs font-bold text-zinc-400 mb-1.5 flex items-center gap-1">
-                  <Users className="w-3.5 h-3.5 text-red-500" /> Key Cast:
-                </p>
-                <div className="flex flex-wrap items-center gap-1.5">
-                  {media.actors.map((actor) => (
-                    <Link
-                      key={actor.id}
-                      href={`/browse?q=${encodeURIComponent(actor.name)}`}
-                      className="bg-zinc-900/90 hover:bg-red-600 hover:text-white text-zinc-300 text-[11px] font-semibold px-2.5 py-1 rounded-md border border-zinc-800 transition-all"
-                    >
-                      {actor.name}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         </div>
       </div>
 
-      <div className="px-6 md:px-12 max-w-7xl mx-auto mt-10">
+      {/* Reaction Catalog Grid */}
+      <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-6 gap-4">
-          <div className="flex items-center gap-3">
-            <Tv className="w-6 h-6 text-red-600" />
-            <h2 className="text-xl md:text-2xl font-bold text-white uppercase tracking-wider flex items-center gap-2">
-              Available Reactions ({reactions.length})
-              {totalViewsCombined > 0 && (
-                <span className="text-xs normal-case font-normal text-zinc-400 bg-zinc-900 border border-zinc-800 px-2.5 py-1 rounded-full flex items-center gap-1">
-                  <Eye className="w-3.5 h-3.5 text-red-500" />
-                  {formatViewCount(totalViewsCombined)} Total
-                </span>
-              )}
-            </h2>
-          </div>
+          <h2 className="text-xl font-bold text-white uppercase tracking-wider flex items-center gap-2">
+            Movie Reactions ({videos.length})
+          </h2>
 
           <div className="flex items-center gap-2 text-xs text-zinc-400">
+            {/* Instant Sort Direction Toggle Button */}
+            <button
+              onClick={toggleSortDirection}
+              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+              title={`Toggle Sort Direction (${sortDirection === 'desc' ? 'Descending' : 'Ascending'})`}
+            >
+              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+            </button>
+
             <span>Sort Reactions:</span>
             <select
               value={reactionSort}
@@ -403,13 +330,18 @@ export default function MediaHubPage() {
               <div className="p-4 flex flex-col justify-between flex-1 gap-3">
                 <div>
                   <div className="flex items-center justify-between gap-2 mb-2">
-                    <Link
-                      href={`/creators/${(video as any).channel_slug || 'creators'}`}
-                      className="text-[11px] font-bold text-red-400 hover:text-white bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded transition-colors"
-                    >
-                      {(video as any).channel_name || 'Creator'}
-                    </Link>
-                    <span className="text-[11px] text-zinc-400 font-medium">
+                    {video.media_item ? (
+                      <Link
+                        href={`/media/${video.media_item.id}`}
+                        className="text-[11px] font-bold text-amber-400 hover:underline truncate max-w-[170px]"
+                      >
+                        {video.media_item.title} ({video.media_item.release_year})
+                      </Link>
+                    ) : <span />}
+
+                    {/* YouTube Upload Date Badge */}
+                    <span className="text-[11px] text-zinc-400 font-medium flex items-center gap-1 flex-none">
+                      <Calendar className="w-3 h-3 text-red-500" />
                       {new Date(video.published_at).toLocaleDateString()}
                     </span>
                   </div>
