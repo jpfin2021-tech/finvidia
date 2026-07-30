@@ -50,6 +50,27 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
     }
 
     try {
+      // Force Mean Girls (2004, TMDB ID 10625)
+      if (/\bmean\s*girls\b/i.test(title)) {
+        const detailUrl = `https://api.themoviedb.org/3/movie/10625?api_key=${apiKey}&append_to_response=credits`;
+        const detailRes = await fetch(detailUrl);
+        const detailData = await detailRes.json();
+        if (detailData && detailData.id) {
+          return {
+            tmdb_id: 10625,
+            title: detailData.title,
+            release_year: 2004,
+            synopsis: detailData.overview || '',
+            poster_url: detailData.poster_path ? `https://image.tmdb.org/t/p/w500${detailData.poster_path}` : '',
+            backdrop_url: detailData.backdrop_path ? `https://image.tmdb.org/t/p/original${detailData.backdrop_path}` : '',
+            studio: detailData.production_companies?.[0]?.name || 'Paramount Pictures',
+            directors: [{ id: 53123, name: 'Mark Waters' }],
+            actors: (detailData.credits?.cast || []).slice(0, 8).map((a: any) => ({ id: a.id, name: a.name })),
+            genres: (detailData.genres || []).map((g: any) => ({ id: g.id, name: g.name })),
+          };
+        }
+      }
+
       // Force Bruce Willis' Die Hard (1988, TMDB ID 562)
       if (/\bdie\s*hard\b/i.test(title)) {
         const detailUrl = `https://api.themoviedb.org/3/movie/562?api_key=${apiKey}&append_to_response=credits`;
@@ -121,6 +142,7 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
 
         if (/^(live!|live|commentary)$/i.test(movieTitle.trim())) continue;
         if (movie.id === 12204) continue; // Block 1980 animated Return of the King
+        if (movie.id === 74588 || /^lindsay lohan$/i.test(movieTitle)) continue; // Block 2011 Lindsay Lohan documentary trap
         if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue;
         if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue;
         if (movie.id === 252994 || /little rascals save the day/i.test(movieTitle)) continue;
