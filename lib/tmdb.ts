@@ -50,7 +50,7 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
     }
 
     try {
-      // Force Die Hard (1988, TMDB ID 562)
+      // Force Bruce Willis' Die Hard (1988, TMDB ID 562)
       if (/\bdie\s*hard\b/i.test(title)) {
         const detailUrl = `https://api.themoviedb.org/3/movie/562?api_key=${apiKey}&append_to_response=credits`;
         const detailRes = await fetch(detailUrl);
@@ -123,6 +123,8 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
         if (movie.id === 12204) continue; // Block 1980 animated Return of the King
         if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue;
         if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue;
+        if (movie.id === 252994 || /little rascals save the day/i.test(movieTitle)) continue;
+        if (/double crossed/i.test(movieTitle)) continue;
         if (/martin scorsese directs/i.test(movieTitle)) continue;
         if (/a tormented soul|impossible missions/i.test(movieTitle)) continue;
 

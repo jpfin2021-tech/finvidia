@@ -12,11 +12,11 @@ interface FranchiseDef {
   searchKeywords: string[];
 }
 
-// Exactly 6 major Hollywood franchises
+// 6 Major Franchises - MCU replaces Back To The Future
 const FRANCHISES: FranchiseDef[] = [
   { slug: 'lord-of-the-rings', name: 'The Lord of the Rings', searchKeywords: ['Lord of the Rings', 'Fellowship of the Ring', 'Two Towers', 'Return of the King'] },
+  { slug: 'mcu', name: 'Marvel Cinematic Universe', searchKeywords: ['Avengers', 'Iron Man', 'Thor', 'Captain America', 'Guardians of the Galaxy', 'Doctor Strange', 'Spider-Man', 'Black Panther', 'Infinity War', 'Endgame'] },
   { slug: 'john-wick', name: 'John Wick Franchise', searchKeywords: ['John Wick'] },
-  { slug: 'back-to-the-future', name: 'Back to the Future Trilogy', searchKeywords: ['Back to the Future'] },
   { slug: 'deadpool', name: 'Deadpool Collection', searchKeywords: ['Deadpool'] },
   { slug: 'harry-potter', name: 'Harry Potter Collection', searchKeywords: ['Harry Potter'] },
   { slug: 'star-wars', name: 'Star Wars Saga', searchKeywords: ['Star Wars'] },

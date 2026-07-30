@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import MediaCard from '@/components/media-card';
 import { createClient } from '@/lib/supabase/client';
 import { MediaItem } from '@/types/database';
-import { Search, ArrowUpDown, ArrowUp, ArrowDown, SlidersHorizontal, RefreshCw, ChevronLeft, ChevronRight, Users, Tag } from 'lucide-react';
+import { Search, ArrowUp, ArrowDown, SlidersHorizontal, RefreshCw, ChevronLeft, ChevronRight, Users, Tag } from 'lucide-react';
 
 const ITEMS_PER_PAGE = 24;
 
@@ -66,7 +66,7 @@ function BrowseContent() {
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [filterParam, genreParam, queryParam, sortBy, sortDirection]);
+  }, [filterParam, genreParam, queryParam, sortBy]);
 
   useEffect(() => {
     setLocalSearch(queryParam);
@@ -188,15 +188,16 @@ function BrowseContent() {
           }
 
           formatted.sort((a, b) => {
-            let res = 0;
-            if (sortBy === 'views') res = b.total_views - a.total_views;
-            else if (sortBy === 'avg_views') res = b.avg_views_per_reactor - a.avg_views_per_reactor;
-            else if (sortBy === 'reactions') res = b.video_count - a.video_count;
-            else if (sortBy === 'oc_year') res = b.release_year - a.release_year;
-            else res = a.title.localeCompare(b.title);
-
-            return sortDirection === 'desc' ? res : -res;
+            if (sortBy === 'views') return b.total_views - a.total_views;
+            if (sortBy === 'avg_views') return b.avg_views_per_reactor - a.avg_views_per_reactor;
+            if (sortBy === 'reactions') return b.video_count - a.video_count;
+            if (sortBy === 'oc_year') return b.release_year - a.release_year;
+            return a.title.localeCompare(b.title);
           });
+
+          if (sortDirection === 'asc') {
+            formatted.reverse();
+          }
 
           setMediaList(formatted);
         }
@@ -208,7 +209,13 @@ function BrowseContent() {
     }
 
     fetchMediaCatalog();
-  }, [filterParam, genreParam, queryParam, sortBy, sortDirection]);
+  }, [filterParam, genreParam, queryParam, sortBy]);
+
+  // Instant in-memory sort reversal without re-fetching
+  const toggleSortDirection = () => {
+    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
+    setMediaList((prev) => [...prev].reverse());
+  };
 
   const updateFilter = (newFilter: string) => {
     const params = new URLSearchParams(searchParams.toString());
@@ -288,9 +295,9 @@ function BrowseContent() {
           </div>
 
           <div className="flex items-center gap-2 text-xs text-zinc-400">
-            {/* Interactive Sort Direction Toggle Button */}
+            {/* Instant In-Memory Sort Direction Toggle Button */}
             <button
-              onClick={() => setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
+              onClick={toggleSortDirection}
               className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
               title={`Toggle Sort Direction (${sortDirection === 'desc' ? 'Descending' : 'Ascending'})`}
             >
