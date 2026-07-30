@@ -51,6 +51,27 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
     }
 
     try {
+      // Force Se7en / Seven (1995, TMDB ID 807)
+      if (/\b(se7en|seven)\b/i.test(title)) {
+        const detailUrl = `https://api.themoviedb.org/3/movie/807?api_key=${apiKey}&append_to_response=credits`;
+        const detailRes = await fetch(detailUrl);
+        const detailData = await detailRes.json();
+        if (detailData && detailData.id) {
+          return {
+            tmdb_id: 807,
+            title: detailData.title,
+            release_year: 1995,
+            synopsis: detailData.overview || '',
+            poster_url: detailData.poster_path ? `https://image.tmdb.org/t/p/w500${detailData.poster_path}` : '',
+            backdrop_url: detailData.backdrop_path ? `https://image.tmdb.org/t/p/original${detailData.backdrop_path}` : '',
+            studio: detailData.production_companies?.[0]?.name || 'New Line Cinema',
+            directors: [{ id: 7467, name: 'David Fincher' }],
+            actors: (detailData.credits?.cast || []).slice(0, 8).map((a: any) => ({ id: a.id, name: a.name })),
+            genres: (detailData.genres || []).map((g: any) => ({ id: g.id, name: g.name })),
+          };
+        }
+      }
+
       // Force Mean Girls (2004, TMDB ID 10625)
       if (/\bmean\s*girls\b/i.test(title)) {
         const detailUrl = `https://api.themoviedb.org/3/movie/10625?api_key=${apiKey}&append_to_response=credits`;
@@ -93,27 +114,6 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
         }
       }
 
-      // Force Peter Jackson's 2003 Return of the King (TMDB ID 122)
-      if (/return\s*of\s*the\s*king/i.test(title)) {
-        const detailUrl = `https://api.themoviedb.org/3/movie/122?api_key=${apiKey}&append_to_response=credits`;
-        const detailRes = await fetch(detailUrl);
-        const detailData = await detailRes.json();
-        if (detailData && detailData.id) {
-          return {
-            tmdb_id: 122,
-            title: detailData.title,
-            release_year: 2003,
-            synopsis: detailData.overview || '',
-            poster_url: detailData.poster_path ? `https://image.tmdb.org/t/p/w500${detailData.poster_path}` : '',
-            backdrop_url: detailData.backdrop_path ? `https://image.tmdb.org/t/p/original${detailData.backdrop_path}` : '',
-            studio: detailData.production_companies?.[0]?.name || 'New Line Cinema',
-            directors: [{ id: 108, name: 'Peter Jackson' }],
-            actors: (detailData.credits?.cast || []).slice(0, 8).map((a: any) => ({ id: a.id, name: a.name })),
-            genres: (detailData.genres || []).map((g: any) => ({ id: g.id, name: g.name })),
-          };
-        }
-      }
-
       let url = `https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&query=${encodeURIComponent(title)}&include_adult=false`;
       if (year) {
         url += `&year=${year}`;
@@ -142,8 +142,9 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
         const movieTitle = movie.title || '';
 
         if (/^(live!|live|commentary)$/i.test(movieTitle.trim())) continue;
-        if (/^first time$/i.test(movieTitle.trim()) && movie.id !== 82693) continue; // Block fake "First Time" movie traps
-        if (movie.id === 12204) continue; // Block 1980 animated Return of the King
+        if (/^first time$/i.test(movieTitle.trim()) && movie.id !== 82693) continue;
+        if (movie.id === 12204) continue;
+        if (movie.id === 832810 || /breaking barriers/i.test(movieTitle)) continue; // Block Morgan Freeman documentary trap
         if (movie.id === 74588 || /^lindsay lohan$/i.test(movieTitle)) continue;
         if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue;
         if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue;

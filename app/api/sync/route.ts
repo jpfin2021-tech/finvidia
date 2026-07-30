@@ -41,6 +41,17 @@ export const CHANNELS_TO_SYNC = [
   { name: 'Evie Reacts', handle: 'eviereacts', knownChannelId: null }
 ];
 
+// Helper to convert YouTube ISO 8601 duration (e.g., PT14M32S) to total seconds
+function parseISO8601Duration(durationStr: string): number {
+  if (!durationStr) return 0;
+  const match = durationStr.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  const hours = parseInt(match[1] || '0', 10);
+  const minutes = parseInt(match[2] || '0', 10);
+  const seconds = parseInt(match[3] || '0', 10);
+  return hours * 3600 + minutes * 60 + seconds;
+}
+
 export function generateCleanSlug(name: string): string {
   return name
     .toLowerCase()
@@ -49,7 +60,8 @@ export function generateCleanSlug(name: string): string {
 }
 
 export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[]; year?: number; isNonMovieVideo: boolean } {
-  const nonMovieOrTvRegex = /#shorts?|#short|\bshorts?\b|\btiktok\b|\breels?\b|\bclip\b|\btrailer\b|\bteaser\b|\breview\b|\bspoiler\s*talk\b|\bnon-spoiler\b|ep\s*\d+|episodes?|season\s*\d+|s\d+e\d+|s\d+|\b\d+x\d+\b|tv\s*show|series|live\s+recap|q&a|q\s*&\s*a|qa|bracket|channel\ announcement|vlog|livestream|\blive\b|mailbag|mail|pick-a-flick|nintendo|trivia|podcast|update|tier\s+list|patreon|schedule|haul|tiktok|milestone|thanks|subscriber|game\ of\ thrones|coldplay|\b\d+-\d+\b|\bep[\d-]+\b|obi-wan|kenobi|mandalorian|andor|ahsoka|loki|wandavision|hawkeye|moon\ knight|she-hulk|secret\ invasion|stranger\ things|last\ of\ us|house\ of\ the\ dragon|white\ lotus|ted\ lasso|severance|silo|foundation|succession|yellowstone|peacemaker|the\ boys|gen\ v|fallout|shogun|bear|beef|squid\ game|daredevil|falcon\ and\ the\ winter\ soldier|ptsd|has\ ptsd|tattoos|tattoo|unboxing|music\s*video|official\s*video|official\s*audio|\balbum\b|\bsong\b|\btrack\b|\bmv\b|\bcover\b|\bremix\b|singing|concert|live\s*performance|music\s*reaction|storytime|grwm|apartment|tour|makeup|try\s*on|behind\s*the\s*scenes|bts|gameplay|walkthrough|anime|manga|subbed|dubbed|stunt|stunts|airplane\ stunt|promo|just\ watched|interview|cinematheque/i;
+  // Strict filter blocking YouTube Shorts, trailers, clips, reviews, and non-reactions
+  const nonMovieOrTvRegex = /#shorts?|#short|\bshorts?\b|\btiktok\b|\breels?\b|\bclip\b|\btrailer\b|\bteaser\b|\breview\b|\breviews\b|\bspoiler\s*talk\b|\bnon-spoiler\b|ep\s*\d+|episodes?|season\s*\d+|s\d+e\d+|s\d+|\b\d+x\d+\b|tv\s*show|series|live\s+recap|q&a|q\s*&\s*a|qa|bracket|channel\ announcement|vlog|livestream|\blive\b|mailbag|mail|pick-a-flick|nintendo|trivia|podcast|update|tier\s+list|patreon|schedule|haul|tiktok|milestone|thanks|subscriber|game\ of\ thrones|coldplay|\b\d+-\d+\b|\bep[\d-]+\b|obi-wan|kenobi|mandalorian|andor|ahsoka|loki|wandavision|hawkeye|moon\ knight|she-hulk|secret\ invasion|stranger\ things|last\ of\ us|house\ of\ the\ dragon|white\ lotus|ted\ lasso|severance|silo|foundation|succession|yellowstone|peacemaker|the\ boys|gen\ v|fallout|shogun|bear|beef|squid\ game|daredevil|falcon\ and\ the\ winter\ soldier|ptsd|has\ ptsd|tattoos|tattoo|unboxing|music\s*video|official\s*video|official\s*audio|\balbum\b|\bsong\b|\btrack\b|\bmv\b|\bcover\b|\bremix\b|singing|concert|live\s*performance|music\s*reaction|storytime|grwm|apartment|tour|makeup|try\s*on|behind\s*the\s*scenes|bts|gameplay|walkthrough|anime|manga|subbed|dubbed|stunt|stunts|airplane\ stunt|promo|just\ watched|interview|cinematheque/i;
   
   if (nonMovieOrTvRegex.test(rawTitle)) {
     return { cleanTitles: [], isNonMovieVideo: true };
@@ -59,7 +71,7 @@ export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[
   const year = yearMatch ? parseInt(yearMatch[1], 10) : undefined;
 
   let cleanedTitle = rawTitle
-    .replace(/\b(extended(\s+edition)?|director'?s?\s*cut|uncut|remastered|4k\s*uhd|part\s*\d+|pt\s*\d+|full\s*movie|commentary|teabag|discussion|thoughts|after\s*thoughts|recap|review)\b/gi, '')
+    .replace(/\b(extended(\s+edition)?|director'?s?\s*cut|uncut|remastered|4k\s*uhd|part\s*\d+|pt\s*\d+|full\s*movie|commentary|teabag|discussion|thoughts|after\s*thoughts|recap|review|reviews)\b/gi, '')
     .replace(/\/\//g, '|');
 
   const candidates: string[] = [];
@@ -78,7 +90,7 @@ export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[
 
   for (const seg of rawSegments) {
     let cleaned = seg
-      .replace(/(?:first[-_ ]*time[-_ ]*watching|first[-_ ]*time[-_ ]*reaction(?:[-_ ]*to)?|reacting[-_ ]*to|movie[-_ ]*reaction|watching|reaction|review|commentary|maplenuts[-_ ]*reacts?)/gi, '')
+      .replace(/(?:first[-_ ]*time[-_ ]*watching|first[-_ ]*time[-_ ]*reaction(?:[-_ ]*to)?|reacting[-_ ]*to|movie[-_ ]*reaction|watching|reaction|review|reviews|commentary|maplenuts[-_ ]*reacts?)/gi, '')
       .replace(/\((?:19\d\d|20\d\d)\)/g, '')
       .replace(/^\d+\s*(hours?|hrs?|mins?|minutes?)\s*of\s+/i, '')
       .replace(/\b(is|was)\s+(a\s+)?(masterpiece|amazing|insane|crazy|mind\s*blowing|so\s*good|terrifying|a\s*work\s*of\s*art|peak|peak\s*cinema|incredible|unbelievable|wild|horrifying|masterclass|iconic|perfection|scary).*$/i, '')
@@ -88,7 +100,6 @@ export function extractCleanMovieTitle(rawTitle: string): { cleanTitles: string[
       .trim();
 
     const isCommentary = /^(is|are|was|were|how|why|i|i'm|i've|i\s+was|this|what|my|so|a|unbelievable|insane|emotional|not\s+prepared|stunned|haven't|haven't\s+been|extended|part|commentary|teabag|live|just\s+watched|emotionally\s+wrecked\s+by)\b/i.test(cleaned);
-
     const isFirstTimeFiller = /^first\s*time$/i.test(cleaned);
 
     if (cleaned.length > 1 && !isCommentary && !isFirstTimeFiller && cleaned.toLowerCase() !== 'first' && cleaned.toLowerCase() !== 'time') {
@@ -218,24 +229,27 @@ async function linkMediaCreditsAndGenres(supabase: any, mediaId: string, tmdbDat
   }
 }
 
-async function fetchYouTubeViewCounts(videoIds: string[], apiKey: string): Promise<Record<string, number>> {
-  const statsMap: Record<string, number> = {};
+// Fetches both view count AND video duration from YouTube Data API
+async function fetchYouTubeVideoDetails(videoIds: string[], apiKey: string): Promise<Record<string, { views: number; durationSeconds: number }>> {
+  const statsMap: Record<string, { views: number; durationSeconds: number }> = {};
   if (videoIds.length === 0) return statsMap;
 
   for (let i = 0; i < videoIds.length; i += 50) {
     const chunk = videoIds.slice(i, i + 50);
-    const url = `https://www.googleapis.com/youtube/v3/videos?part=statistics&id=${chunk.join(',')}&key=${apiKey}`;
+    const url = `https://www.googleapis.com/youtube/v3/videos?part=statistics,contentDetails&id=${chunk.join(',')}&key=${apiKey}`;
     try {
       const res = await fetch(url);
       const data = await res.json();
       if (data.items) {
         for (const item of data.items) {
           const views = item.statistics?.viewCount ? parseInt(item.statistics.viewCount, 10) : 0;
-          statsMap[item.id] = views;
+          const durationStr = item.contentDetails?.duration || '';
+          const durationSeconds = parseISO8601Duration(durationStr);
+          statsMap[item.id] = { views, durationSeconds };
         }
       }
     } catch (err) {
-      console.error('Error fetching video view stats:', err);
+      console.error('Error fetching video details:', err);
     }
   }
 
@@ -258,42 +272,29 @@ export async function GET(request: Request) {
   const syncLogs: string[] = [];
 
   try {
-    // 1. HARD PURGE "FIRST TIME" FAKE MEDIA RECORD
-    const { data: firstTimeFakes } = await supabase
-      .from('media_items')
-      .select('id')
-      .ilike('title', 'First Time');
-
-    if (firstTimeFakes && firstTimeFakes.length > 0) {
-      const fakeIds = firstTimeFakes.map((m) => m.id);
-      await supabase.from('videos').delete().in('media_id', fakeIds);
-      await supabase.from('media_items').delete().in('id', fakeIds);
-      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake "First Time" media items.`);
-    }
-
-    // 2. HARD PURGE ALL SHORTS AND NON-REACTION VIDEOS
-    const { data: shortsToDelete } = await supabase
-      .from('videos')
-      .select('id, title')
-      .or('title.ilike.%#shorts%,title.ilike.%#short%,title.ilike.%shorts%,title.ilike.%trailer%,title.ilike.%teaser%,title.ilike.%spoiler talk%,title.ilike.%non-spoiler%');
-
-    if (shortsToDelete && shortsToDelete.length > 0) {
-      const shortIds = shortsToDelete.map((v) => v.id);
-      await supabase.from('videos').delete().in('id', shortIds);
-      syncLogs.push(`Sanitized DB: Deleted ${shortIds.length} YouTube Shorts / trailer records.`);
-    }
-
-    // 3. HARD PURGE FAKE & MISMATCHED MEDIA ITEMS
+    // 1. HARD PURGE "FIRST TIME" & "MORGAN FREEMAN: BREAKING BARRIERS" FAKE MEDIA RECORDS
     const { data: badFakes } = await supabase
       .from('media_items')
       .select('id')
-      .or('title.ilike.%Lindsay Lohan%,title.ilike.%Double Crossed%,title.ilike.%The Little Rascals Save the Day%,title.ilike.%#Horror%,title.ilike.%1981年华北大阅兵%,title.ilike.%A Tormented Soul%,title.ilike.%Impossible Missions%,title.ilike.%Martin Scorsese Directs%,title.ilike.%American Cinematheque%');
+      .or('title.ilike.%First Time%,title.ilike.%Morgan Freeman: Breaking Barriers%,title.ilike.%Breaking Barriers%,title.ilike.%Lindsay Lohan%,title.ilike.%Double Crossed%,title.ilike.%The Little Rascals Save the Day%,title.ilike.%#Horror%,title.ilike.%1981年华北大阅兵%,title.ilike.%A Tormented Soul%,title.ilike.%Impossible Missions%,title.ilike.%Martin Scorsese Directs%,title.ilike.%American Cinematheque%');
 
     if (badFakes && badFakes.length > 0) {
       const fakeIds = badFakes.map((m) => m.id);
       await supabase.from('videos').delete().in('media_id', fakeIds);
       await supabase.from('media_items').delete().in('id', fakeIds);
       syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake/mismatched media records.`);
+    }
+
+    // 2. HARD PURGE ALL SHORTS AND NON-REACTION REVIEWS
+    const { data: shortsToDelete } = await supabase
+      .from('videos')
+      .select('id, title')
+      .or('title.ilike.%#shorts%,title.ilike.%#short%,title.ilike.%shorts%,title.ilike.%trailer%,title.ilike.%teaser%,title.ilike.%spoiler talk%,title.ilike.%non-spoiler%,title.ilike.%review%');
+
+    if (shortsToDelete && shortsToDelete.length > 0) {
+      const shortIds = shortsToDelete.map((v) => v.id);
+      await supabase.from('videos').delete().in('id', shortIds);
+      syncLogs.push(`Sanitized DB: Deleted ${shortIds.length} YouTube Shorts / review / trailer records.`);
     }
 
     let channelsToProcess = CHANNELS_TO_SYNC;
@@ -379,7 +380,7 @@ export async function GET(request: Request) {
         const validItems = playlistData.items.filter((item: any) => {
           const id = item.snippet?.resourceId?.videoId;
           const title = item.snippet?.title || '';
-          const isShort = /#shorts?|#short|\bshorts?\b|\btiktok\b|\breels?\b|\bclip\b|\btrailer\b|\bteaser\b/i.test(title);
+          const isShort = /#shorts?|#short|\bshorts?\b|\btiktok\b|\breels?\b|\bclip\b|\btrailer\b|\bteaser\b|\breview\b|\breviews\b/i.test(title);
           return id && title !== 'Private video' && title !== 'Deleted video' && !isShort;
         });
 
@@ -387,7 +388,7 @@ export async function GET(request: Request) {
           .map((item: any) => item.snippet.resourceId.videoId)
           .filter((id: string) => !existingVideoMap.has(id));
 
-        const viewStats = unindexedVideoIds.length > 0 ? await fetchYouTubeViewCounts(unindexedVideoIds, youtubeApiKey) : {};
+        const videoDetails = unindexedVideoIds.length > 0 ? await fetchYouTubeVideoDetails(unindexedVideoIds, youtubeApiKey) : {};
 
         for (const item of validItems) {
           const snippet = item.snippet;
@@ -398,10 +399,17 @@ export async function GET(request: Request) {
             continue;
           }
 
+          const details = videoDetails[ytVideoId] || { views: 0, durationSeconds: 0 };
+
+          // STRICT 10-MINUTE (600 SECONDS) MINIMUM DURATION GUARD
+          if (details.durationSeconds > 0 && details.durationSeconds < 600) {
+            continue;
+          }
+
           const description = snippet.description;
           const publishedAt = snippet.publishedAt;
           const thumbnailUrl = snippet.thumbnails?.high?.url || snippet.thumbnails?.default?.url;
-          const viewCount = viewStats[ytVideoId] || 0;
+          const viewCount = details.views;
 
           const { cleanTitles, year, isNonMovieVideo } = extractCleanMovieTitle(rawTitle);
 
