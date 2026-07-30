@@ -21,7 +21,6 @@ export default function HomePage() {
     try {
       const supabase = createClient();
 
-      // 1. Fetch media items flat
       let allMedia: any[] = [];
       let page = 0;
       let hasMore = true;
@@ -42,7 +41,6 @@ export default function HomePage() {
         }
       }
 
-      // 2. Fetch video counts and view sums flat
       let allVideos: any[] = [];
       let vidPage = 0;
       let vidHasMore = true;
@@ -50,7 +48,7 @@ export default function HomePage() {
       while (vidHasMore) {
         const { data, error } = await supabase
           .from('videos')
-          .select('id, media_id, view_count, published_at')
+          .select('id, media_id, view_count')
           .range(vidPage * 1000, (vidPage + 1) * 1000 - 1);
 
         if (error || !data || data.length === 0) {
@@ -97,9 +95,9 @@ export default function HomePage() {
       const sortedByViews = [...formatted].sort((a, b) => b.total_views - a.total_views);
       setTopRankedMovies(sortedByViews.slice(0, 18));
 
-      // Recent Cinema Releases
-      const sortedByNew = [...formatted].sort((a, b) => b.release_year - a.release_year);
-      setNewReactions(sortedByNew.slice(0, 18));
+      // NEWEST RELEASES: Descending strictly by official theatrical release year of the film
+      const sortedByReleaseDate = [...formatted].sort((a, b) => b.release_year - a.release_year);
+      setNewReactions(sortedByReleaseDate.slice(0, 18));
 
       // Random Discovery
       const shuffled = [...formatted].sort(() => 0.5 - Math.random());
@@ -133,16 +131,16 @@ export default function HomePage() {
           viewAllLink="/rankings"
         />
 
-        {/* Recently Added Cinema Reactions */}
+        {/* NEWEST RELEASES */}
         <CarouselRow
-          title="Recent Cinema Releases & Classics"
+          title="NEWEST RELEASES"
           mediaList={newReactions}
           viewAllLink="/browse?sort=oc_year"
         />
 
-        {/* Random Discovery */}
+        {/* RANDOMIZER (NEW TO YOU?) */}
         <CarouselRow
-          title="Random Discovery (Explore Something New)"
+          title="RANDOMIZER (NEW TO YOU?)"
           mediaList={randomDiscovery}
           onShuffle={handleShuffleDiscovery}
           viewAllLink="/browse"

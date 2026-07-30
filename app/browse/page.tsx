@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import MediaCard from '@/components/media-card';
 import { createClient } from '@/lib/supabase/client';
 import { MediaItem } from '@/types/database';
-import { Search, ArrowUpDown, SlidersHorizontal, RefreshCw, ChevronLeft, ChevronRight, Users, Tag } from 'lucide-react';
+import { Search, ArrowUpDown, ArrowUp, ArrowDown, SlidersHorizontal, RefreshCw, ChevronLeft, ChevronRight, Users, Tag } from 'lucide-react';
 
 const ITEMS_PER_PAGE = 24;
 
@@ -60,12 +60,13 @@ function BrowseContent() {
   const [genres, setGenres] = useState(DEFAULT_GENRES);
   const [loading, setLoading] = useState(true);
   const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'alpha' | 'oc_year'>(sortParam);
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
   const [localSearch, setLocalSearch] = useState(queryParam);
   const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [filterParam, genreParam, queryParam, sortBy]);
+  }, [filterParam, genreParam, queryParam, sortBy, sortDirection]);
 
   useEffect(() => {
     setLocalSearch(queryParam);
@@ -168,7 +169,6 @@ function BrowseContent() {
               const databaseMatch = m.genres?.some((g) => g.slug === cleanTarget || g.name.toLowerCase() === cleanTarget);
               if (databaseMatch) return true;
 
-              // Fallback keyword matching for complete genre coverage
               const titleLower = m.title.toLowerCase();
               return keywords.some((kw) => titleLower.includes(kw));
             });
@@ -188,11 +188,14 @@ function BrowseContent() {
           }
 
           formatted.sort((a, b) => {
-            if (sortBy === 'views') return b.total_views - a.total_views;
-            if (sortBy === 'avg_views') return b.avg_views_per_reactor - a.avg_views_per_reactor;
-            if (sortBy === 'reactions') return b.video_count - a.video_count;
-            if (sortBy === 'oc_year') return b.release_year - a.release_year;
-            return a.title.localeCompare(b.title);
+            let res = 0;
+            if (sortBy === 'views') res = b.total_views - a.total_views;
+            else if (sortBy === 'avg_views') res = b.avg_views_per_reactor - a.avg_views_per_reactor;
+            else if (sortBy === 'reactions') res = b.video_count - a.video_count;
+            else if (sortBy === 'oc_year') res = b.release_year - a.release_year;
+            else res = a.title.localeCompare(b.title);
+
+            return sortDirection === 'desc' ? res : -res;
           });
 
           setMediaList(formatted);
@@ -205,7 +208,7 @@ function BrowseContent() {
     }
 
     fetchMediaCatalog();
-  }, [filterParam, genreParam, queryParam, sortBy]);
+  }, [filterParam, genreParam, queryParam, sortBy, sortDirection]);
 
   const updateFilter = (newFilter: string) => {
     const params = new URLSearchParams(searchParams.toString());
@@ -285,18 +288,26 @@ function BrowseContent() {
           </div>
 
           <div className="flex items-center gap-2 text-xs text-zinc-400">
-            <ArrowUpDown className="w-3.5 h-3.5 text-red-500" />
+            {/* Interactive Sort Direction Toggle Button */}
+            <button
+              onClick={() => setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
+              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+              title={`Toggle Sort Direction (${sortDirection === 'desc' ? 'Descending' : 'Ascending'})`}
+            >
+              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+            </button>
+
             <span className="font-semibold">Sort By:</span>
             <select
               value={sortBy}
               onChange={(e: any) => setSortBy(e.target.value)}
               className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-2 focus:outline-none focus:border-red-600 cursor-pointer font-medium"
             >
-              <option value="views">Highest Total Reaction Views</option>
-              <option value="avg_views">Highest Avg Views per Reactor</option>
-              <option value="reactions">Most Creator Reactions Indexed</option>
+              <option value="views">Total Reaction Views</option>
+              <option value="avg_views">Avg Views per Reaction</option>
+              <option value="reactions">Total Reactions Indexed</option>
               <option value="alpha">Alphabetical by Film Title (A–Z)</option>
-              <option value="oc_year">Original Theatrical Release Year</option>
+              <option value="oc_year">Original Theatrical Release Date</option>
             </select>
           </div>
         </div>

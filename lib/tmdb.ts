@@ -100,8 +100,10 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
 
         if (/^(live!|live|commentary)$/i.test(movieTitle.trim())) continue;
         if (movie.id === 12204) continue; // Block 1980 animated Return of the King
+        if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue; // Block #Horror (2015) trap
+        if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue; // Block 1981 Chinese Military Parade trap
         if (/martin scorsese directs/i.test(movieTitle)) continue;
-        if (/a tormented soul|impossible missions/i.test(movieTitle)) continue; // Block actor documentary traps
+        if (/a tormented soul|impossible missions/i.test(movieTitle)) continue;
 
         let score = Math.max(
           calculateSimilarity(title, movieTitle),

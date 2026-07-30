@@ -12,6 +12,7 @@ interface FranchiseDef {
   searchKeywords: string[];
 }
 
+// Exactly 6 major Hollywood franchises
 const FRANCHISES: FranchiseDef[] = [
   { slug: 'lord-of-the-rings', name: 'The Lord of the Rings', searchKeywords: ['Lord of the Rings', 'Fellowship of the Ring', 'Two Towers', 'Return of the King'] },
   { slug: 'john-wick', name: 'John Wick Franchise', searchKeywords: ['John Wick'] },
@@ -19,7 +20,6 @@ const FRANCHISES: FranchiseDef[] = [
   { slug: 'deadpool', name: 'Deadpool Collection', searchKeywords: ['Deadpool'] },
   { slug: 'harry-potter', name: 'Harry Potter Collection', searchKeywords: ['Harry Potter'] },
   { slug: 'star-wars', name: 'Star Wars Saga', searchKeywords: ['Star Wars'] },
-  { slug: 'fast-and-furious', name: 'The Fast & The Furious', searchKeywords: ['Fast & Furious', 'Fast Five', 'Furious 7', 'Tokyo Drift'] },
 ];
 
 interface FranchiseDisplayData {
@@ -133,7 +133,6 @@ export default function FranchiseSection() {
             className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-2xl p-5 transition-all duration-300 hover:scale-[1.02] hover:shadow-2xl flex flex-col justify-between"
           >
             <div>
-              {/* Chronological Poster Carousel Strip */}
               <div className="flex items-center gap-2 overflow-x-auto pb-3 pt-1 no-scrollbar mb-4 border-b border-zinc-800">
                 {fran.posters.map((posterUrl, idx) => (
                   <div key={idx} className="relative w-16 aspect-[2/3] rounded-lg overflow-hidden bg-zinc-950 flex-none border border-zinc-700/80 shadow-md group-hover:border-red-600/50 transition-colors">

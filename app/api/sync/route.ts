@@ -256,56 +256,17 @@ export async function GET(request: Request) {
   const syncLogs: string[] = [];
 
   try {
-    // 1. HARD PURGE FAKE "MEL GIBSON: A TORMENTED SOUL" MEDIA ITEM
-    const { data: melGibsonFakes } = await supabase
+    // 1. HARD PURGE FAKE #HORROR & CHINESE MILITARY PARADE MEDIA ITEMS
+    const { data: badFakes } = await supabase
       .from('media_items')
       .select('id')
-      .or('title.ilike.%Mel Gibson: A Tormented Soul%,title.ilike.%A Tormented Soul%');
+      .or('title.ilike.%#Horror%,title.ilike.%1981年华北大阅兵%,title.ilike.%A Tormented Soul%,title.ilike.%Impossible Missions%,title.ilike.%Martin Scorsese Directs%');
 
-    if (melGibsonFakes && melGibsonFakes.length > 0) {
-      const fakeIds = melGibsonFakes.map((m) => m.id);
+    if (badFakes && badFakes.length > 0) {
+      const fakeIds = badFakes.map((m) => m.id);
       await supabase.from('videos').delete().in('media_id', fakeIds);
       await supabase.from('media_items').delete().in('id', fakeIds);
-      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake Mel Gibson documentary media items.`);
-    }
-
-    // 2. HARD PURGE FAKE "AMERICAN CINEMATHEQUE" Q&A RECORD
-    const { data: qaSessions } = await supabase
-      .from('media_items')
-      .select('id')
-      .or('title.ilike.%American Cinematheque%,title.ilike.%Ridley Scott Q&A%');
-
-    if (qaSessions && qaSessions.length > 0) {
-      const fakeIds = qaSessions.map((m) => m.id);
-      await supabase.from('videos').delete().in('media_id', fakeIds);
-      await supabase.from('media_items').delete().in('id', fakeIds);
-      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake Q&A media items.`);
-    }
-
-    // 3. HARD PURGE FAKE "MARTIN SCORSESE DIRECTS" RECORD
-    const { data: scorseseFakes } = await supabase
-      .from('media_items')
-      .select('id')
-      .or('title.ilike.%Martin Scorsese Directs%,title.ilike.%Scorsese Directs%');
-
-    if (scorseseFakes && scorseseFakes.length > 0) {
-      const fakeIds = scorseseFakes.map((m) => m.id);
-      await supabase.from('videos').delete().in('media_id', fakeIds);
-      await supabase.from('media_items').delete().in('id', fakeIds);
-      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake Martin Scorsese Directs promo media items.`);
-    }
-
-    // 4. HARD PURGE FAKE "TOM CRUISE: IMPOSSIBLE MISSIONS" RECORD
-    const { data: tomCruiseFakes } = await supabase
-      .from('media_items')
-      .select('id')
-      .or('title.ilike.%Tom Cruise: Impossible Missions%,title.ilike.%Tom Cruise Performs%');
-
-    if (tomCruiseFakes && tomCruiseFakes.length > 0) {
-      const fakeIds = tomCruiseFakes.map((m) => m.id);
-      await supabase.from('videos').delete().in('media_id', fakeIds);
-      await supabase.from('media_items').delete().in('id', fakeIds);
-      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake Tom Cruise promo media items.`);
+      syncLogs.push(`Sanitized DB: Purged ${fakeIds.length} fake/mismatched media records.`);
     }
 
     let channelsToProcess = CHANNELS_TO_SYNC;
@@ -494,12 +455,46 @@ export async function GET(request: Request) {
       syncLogs.push(`${channelConfig.name}: Completed backlog (${movieReactionsMatched} new reactions synced).`);
     }
 
+    // 2. PURGE ORPHANED VIDEOS & MEDIA
     await supabase.from('videos').delete().is('media_id', null);
     const allMedia = await fetchAllRowsPaginated(supabase, 'media_items', 'id, videos(id)');
     const orphanedIds = allMedia.filter((m: any) => !m.videos || m.videos.length === 0).map((m: any) => m.id);
     if (orphanedIds.length > 0) {
       await supabase.from('media_items').delete().in('id', orphanedIds);
       syncLogs.push(`Purged ${orphanedIds.length} orphaned ghost media records.`);
+    }
+
+    // 3. PRE-COMPUTE AND STORE CHANNEL AGGREGATE STATS FOR SUB-20MS CREATOR DIRECTORY RENDERING
+    const { data: allChannels } = await supabase.from('channels').select('id');
+    if (allChannels) {
+      const allVids = await fetchAllRowsPaginated(supabase, 'videos', 'channel_id, view_count');
+      const statsMap = new Map<string, { views: number; count: number }>();
+
+      for (const v of allVids) {
+        if (!v.channel_id) continue;
+        const views = v.view_count || 0;
+        if (!statsMap.has(v.channel_id)) {
+          statsMap.set(v.channel_id, { views, count: 1 });
+        } else {
+          const s = statsMap.get(v.channel_id)!;
+          s.views += views;
+          s.count += 1;
+        }
+      }
+
+      for (const c of allChannels) {
+        const stat = statsMap.get(c.id) || { views: 0, count: 0 };
+        const avg = stat.count > 0 ? Math.round(stat.views / stat.count) : 0;
+        await supabase
+          .from('channels')
+          .update({
+            total_views: stat.views,
+            video_count: stat.count,
+            avg_views_per_video: avg,
+          })
+          .eq('id', c.id);
+      }
+      syncLogs.push(`Cached aggregate metrics for all ${allChannels.length} creator profiles.`);
     }
 
     return NextResponse.json({
