@@ -50,7 +50,28 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
     }
 
     try {
-      // Force Peter Jackson's 2003 Return of the King (TMDB ID 122) over 1980 animated version
+      // Force Die Hard (1988, TMDB ID 562)
+      if (/\bdie\s*hard\b/i.test(title)) {
+        const detailUrl = `https://api.themoviedb.org/3/movie/562?api_key=${apiKey}&append_to_response=credits`;
+        const detailRes = await fetch(detailUrl);
+        const detailData = await detailRes.json();
+        if (detailData && detailData.id) {
+          return {
+            tmdb_id: 562,
+            title: detailData.title,
+            release_year: 1988,
+            synopsis: detailData.overview || '',
+            poster_url: detailData.poster_path ? `https://image.tmdb.org/t/p/w500${detailData.poster_path}` : '',
+            backdrop_url: detailData.backdrop_path ? `https://image.tmdb.org/t/p/original${detailData.backdrop_path}` : '',
+            studio: detailData.production_companies?.[0]?.name || '20th Century Fox',
+            directors: [{ id: 1090, name: 'John McTiernan' }],
+            actors: (detailData.credits?.cast || []).slice(0, 8).map((a: any) => ({ id: a.id, name: a.name })),
+            genres: (detailData.genres || []).map((g: any) => ({ id: g.id, name: g.name })),
+          };
+        }
+      }
+
+      // Force Peter Jackson's 2003 Return of the King (TMDB ID 122)
       if (/return\s*of\s*the\s*king/i.test(title)) {
         const detailUrl = `https://api.themoviedb.org/3/movie/122?api_key=${apiKey}&append_to_response=credits`;
         const detailRes = await fetch(detailUrl);
@@ -100,8 +121,8 @@ export async function searchAndFetchMovieMetadata(titles: string | string[], yea
 
         if (/^(live!|live|commentary)$/i.test(movieTitle.trim())) continue;
         if (movie.id === 12204) continue; // Block 1980 animated Return of the King
-        if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue; // Block #Horror (2015) trap
-        if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue; // Block 1981 Chinese Military Parade trap
+        if (movie.id === 364067 || /^#horror$/i.test(movieTitle)) continue;
+        if (movie.id === 424076 || /1981年华北大阅兵|阅兵/i.test(movieTitle)) continue;
         if (/martin scorsese directs/i.test(movieTitle)) continue;
         if (/a tormented soul|impossible missions/i.test(movieTitle)) continue;
 

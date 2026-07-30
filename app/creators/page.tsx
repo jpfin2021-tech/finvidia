@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { createClient } from '@/lib/supabase/client';
-import { Users, Eye, Tv, Search, ArrowUpDown, RefreshCw, CheckCircle2 } from 'lucide-react';
+import { Users, Eye, Tv, Search, ArrowUpDown, ArrowUp, ArrowDown, RefreshCw, CheckCircle2 } from 'lucide-react';
 
 interface CreatorItem {
   id: string;
@@ -28,6 +28,7 @@ export default function CreatorDirectoryPage() {
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'avg_views' | 'alpha'>('views');
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   useEffect(() => {
     async function fetchCreatorDirectory() {
@@ -35,7 +36,6 @@ export default function CreatorDirectoryPage() {
       try {
         const supabase = createClient();
 
-        // High-speed single SELECT query reading cached metrics
         const { data: channelsData, error } = await supabase
           .from('channels')
           .select('id, name, handle, avatar_url, slug, total_views, video_count, avg_views_per_video');
@@ -64,10 +64,13 @@ export default function CreatorDirectoryPage() {
   }, []);
 
   const sortedCreators = [...creators].sort((a, b) => {
-    if (sortBy === 'views') return b.total_views - a.total_views;
-    if (sortBy === 'reactions') return b.video_count - a.video_count;
-    if (sortBy === 'avg_views') return b.avg_views_per_video - a.avg_views_per_video;
-    return a.name.localeCompare(b.name);
+    let res = 0;
+    if (sortBy === 'views') res = b.total_views - a.total_views;
+    else if (sortBy === 'reactions') res = b.video_count - a.video_count;
+    else if (sortBy === 'avg_views') res = b.avg_views_per_video - a.avg_views_per_video;
+    else res = a.name.localeCompare(b.name);
+
+    return sortDirection === 'desc' ? res : -res;
   });
 
   const filteredCreators = sortedCreators.filter((c) => {
@@ -114,12 +117,20 @@ export default function CreatorDirectoryPage() {
         </div>
 
         <div className="flex items-center gap-2 text-xs text-zinc-400 self-end sm:self-center">
-          <ArrowUpDown className="w-3.5 h-3.5 text-red-500" />
+          {/* Interactive Sort Direction Toggle Button */}
+          <button
+            onClick={() => setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
+            className="p-2.5 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+            title={`Toggle Sort Direction (${sortDirection === 'desc' ? 'Descending' : 'Ascending'})`}
+          >
+            {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+          </button>
+
           <span className="font-semibold">Sort Creators:</span>
           <select
             value={sortBy}
             onChange={(e: any) => setSortBy(e.target.value)}
-            className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-2 focus:outline-none focus:border-red-600 cursor-pointer font-medium"
+            className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-2.5 focus:outline-none focus:border-red-600 cursor-pointer font-medium"
           >
             <option value="views">Total Reaction Views</option>
             <option value="reactions">Total Reactions Indexed</option>

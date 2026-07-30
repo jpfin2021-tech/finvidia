@@ -1,10 +1,10 @@
 "use client";
 
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Video } from '@/types/database';
-import { X, Calendar, User, Building, ExternalLink, Tv, CheckCircle2 } from 'lucide-react';
+import { X, Calendar, User, Building, ExternalLink, Tv, CheckCircle2, Sparkles, Clock } from 'lucide-react';
 
 interface VideoModalProps {
   video: Video | null;
@@ -19,13 +19,16 @@ function generateCleanSlug(name: string): string {
 }
 
 export default function VideoModal({ video, onClose }: VideoModalProps) {
+  const [seekSeconds, setSeekSeconds] = useState<number>(0);
+
   useEffect(() => {
+    setSeekSeconds(0);
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [onClose]);
+  }, [video, onClose]);
 
   if (!video) return null;
 
@@ -38,10 +41,16 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
   const director = mediaItem?.directors?.[0]?.name;
   const studio = mediaItem?.studio_label;
 
+  const aiSummary = (video as any).ai_summary;
+  const aiTimestamps: { time: string; seconds?: number; label: string }[] = (video as any).ai_timestamps || [];
+  const individualReactors: string[] = (video as any).individual_reactors || [];
+
+  const iframeSrc = `https://www.youtube.com/embed/${video.yt_video_id}?autoplay=1&rel=0${seekSeconds > 0 ? `&start=${seekSeconds}` : ''}`;
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 backdrop-blur-md p-3 md:p-6 animate-in fade-in duration-200">
       <div 
-        className="relative w-full max-w-5xl bg-zinc-950 rounded-2xl border border-zinc-800 shadow-2xl overflow-hidden flex flex-col max-h-[90vh]"
+        className="relative w-full max-w-5xl bg-zinc-950 rounded-2xl border border-zinc-800 shadow-2xl overflow-hidden flex flex-col max-h-[92vh]"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Modal Top Bar */}
@@ -87,10 +96,11 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
           </button>
         </div>
 
-        {/* Video Player */}
-        <div className="relative aspect-video w-full bg-black max-h-[58vh]">
+        {/* Main Video Player */}
+        <div className="relative aspect-video w-full bg-black max-h-[55vh]">
           <iframe
-            src={`https://www.youtube.com/embed/${video.yt_video_id}?autoplay=1&rel=0`}
+            key={seekSeconds}
+            src={iframeSrc}
             title={video.title}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -98,8 +108,40 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
           />
         </div>
 
-        {/* Bottom Informational Metadata Cards Grid */}
-        <div className="p-4 md:p-5 bg-zinc-900 border-t border-zinc-800 flex-none overflow-y-auto">
+        {/* Bottom Informational & AI Enrichment Metadata Section */}
+        <div className="p-4 md:p-5 bg-zinc-900 border-t border-zinc-800 flex-1 overflow-y-auto">
+          {/* AI Summary Banner */}
+          {aiSummary && (
+            <div className="mb-4 bg-red-950/30 border border-red-900/50 rounded-xl p-3 flex items-start gap-2.5">
+              <Sparkles className="w-4 h-4 text-amber-400 fill-amber-400 flex-none mt-0.5" />
+              <div>
+                <p className="text-[10px] font-black uppercase text-red-400 tracking-wider">AI Reaction Synopsis</p>
+                <p className="text-xs text-zinc-200 mt-0.5 leading-relaxed">{aiSummary}</p>
+              </div>
+            </div>
+          )}
+
+          {/* Interactive Chapter Markers (TOC) */}
+          {aiTimestamps.length > 0 && (
+            <div className="mb-4">
+              <p className="text-[10px] font-black uppercase text-zinc-400 tracking-wider mb-2 flex items-center gap-1">
+                <Clock className="w-3.5 h-3.5 text-red-500" /> Interactive Chapter TOC (Click to Seek):
+              </p>
+              <div className="flex flex-wrap items-center gap-2">
+                {aiTimestamps.map((ts, idx) => (
+                  <button
+                    key={idx}
+                    onClick={() => setSeekSeconds(ts.seconds || 0)}
+                    className="bg-zinc-950 hover:bg-red-600 hover:text-white text-zinc-300 text-xs font-bold px-3 py-1.5 rounded-lg border border-zinc-800 hover:border-red-600 transition-all cursor-pointer flex items-center gap-1.5 shadow-sm"
+                  >
+                    <span className="text-amber-400 font-mono text-[11px]">{ts.time}</span>
+                    <span>{ts.label}</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
             {/* 1. Creator Profile Badge */}
             <Link
@@ -113,6 +155,9 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
                 <p className="font-extrabold text-white group-hover:text-red-400 transition-colors truncate">
                   {creatorName}
                 </p>
+                {individualReactors.length > 0 && (
+                  <p className="text-[9px] text-zinc-400 truncate">({individualReactors.join(', ')})</p>
+                )}
               </div>
             </Link>
 
