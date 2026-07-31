@@ -125,7 +125,7 @@ function BrowseContent() {
         setMediaItems(formattedMedia);
       } catch (err) {
         console.error('Error loading browse directory:', err);
-      } font-medium {
+      } finally {
         setLoading(false);
       }
     }
