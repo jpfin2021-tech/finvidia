@@ -1,13 +1,8 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
+import React, { useState, useEffect, useMemo } from 'react';
 import { LoungeClient, FirstScreenPlaybackState, LoungeDevice } from '@/lib/lounge-client';
-import { Play, Pause, RotateCcw, RotateCw, Volume2, VolumeX, ChevronUp, ChevronDown, Tv, Sparkles, Radio, CheckCircle2 } from 'lucide-react';
-
-interface RemotePopoutProps {
-  loungeClient: LoungeClient;
-}
+import { Play, Pause, RotateCcw, RotateCw, ChevronDown, ChevronUp, Tv, Radio, CheckCircle2 } from 'lucide-react';
 
 function formatSeconds(seconds: number): string {
   const h = Math.floor(seconds / 3600);
@@ -20,12 +15,13 @@ function formatSeconds(seconds: number): string {
   return `${m}:${s < 10 ? '0' : ''}${s}`;
 }
 
-export default function RemotePopout({ loungeClient }: RemotePopoutProps) {
+export default function RemotePopout() {
+  const loungeClient = useMemo(() => new LoungeClient(), []);
+
   const [playbackState, setPlaybackState] = useState<FirstScreenPlaybackState>(
     loungeClient.getPlaybackState()
   );
   const [isExpanded, setIsExpanded] = useState(false);
-  const [device, setDevice] = useState<LoungeDevice | null>(null);
 
   useEffect(() => {
     // Subscribe to timecode telemetry from the TV
@@ -124,7 +120,7 @@ export default function RemotePopout({ loungeClient }: RemotePopoutProps) {
             <div className="flex items-center justify-center gap-6 my-2">
               <button
                 onClick={() => handleSeek(-10)}
-                className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform"
+                className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform cursor-pointer"
                 title="Skip Back 10 Seconds"
               >
                 <RotateCcw className="w-5 h-5" />
@@ -132,14 +128,14 @@ export default function RemotePopout({ loungeClient }: RemotePopoutProps) {
 
               <button
                 onClick={handleTogglePlayPause}
-                className="p-4 rounded-full bg-red-600 hover:bg-red-500 text-white shadow-xl shadow-red-950 active:scale-95 transition-transform"
+                className="p-4 rounded-full bg-red-600 hover:bg-red-500 text-white shadow-xl shadow-red-950 active:scale-95 transition-transform cursor-pointer"
               >
                 {isPlaying ? <Pause className="w-7 h-7 fill-current" /> : <Play className="w-7 h-7 fill-current ml-0.5" />}
               </button>
 
               <button
                 onClick={() => handleSeek(10)}
-                className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform"
+                className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform cursor-pointer"
                 title="Skip Forward 10 Seconds"
               >
                 <RotateCw className="w-5 h-5" />
@@ -161,10 +157,10 @@ export default function RemotePopout({ loungeClient }: RemotePopoutProps) {
             <div className="min-w-0">
               <p className="text-[10px] font-black uppercase text-red-500 tracking-wider flex items-center gap-1">
                 <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse" />
-                Playing on Shield Pro
+                First-Screen Sync Ready
               </p>
               <h4 className="font-extrabold text-xs text-white truncate">
-                Dune: Part Two (2024)
+                NVIDIA Shield / TV Remote
               </h4>
               <p className="text-[10px] text-zinc-400 font-mono">
                 {formatSeconds(playbackState.currentTimeSeconds)} / {formatSeconds(playbackState.durationSeconds)}
@@ -175,14 +171,14 @@ export default function RemotePopout({ loungeClient }: RemotePopoutProps) {
           <div className="flex items-center gap-2 flex-none" onClick={(e) => e.stopPropagation()}>
             <button
               onClick={handleTogglePlayPause}
-              className="p-2.5 rounded-full bg-red-600 text-white shadow-md active:scale-90 transition-transform"
+              className="p-2.5 rounded-full bg-red-600 text-white shadow-md active:scale-90 transition-transform cursor-pointer"
             >
               {isPlaying ? <Pause className="w-4 h-4 fill-current" /> : <Play className="w-4 h-4 fill-current ml-0.5" />}
             </button>
 
             <button
               onClick={() => setIsExpanded(!isExpanded)}
-              className="p-2 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white"
+              className="p-2 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white cursor-pointer"
             >
               <ChevronUp className={`w-5 h-5 transition-transform ${isExpanded ? 'rotate-180' : ''}`} />
             </button>

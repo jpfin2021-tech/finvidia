@@ -2,9 +2,6 @@ import type { Metadata } from 'next';
 import './globals.css';
 import Navbar from '@/components/navbar';
 import RemotePopout from '@/components/remote-popout';
-import { LoungeClient } from '@/lib/lounge-client';
-
-const loungeClient = new LoungeClient();
 
 export const metadata: Metadata = {
   title: 'FinVIDIA Movie Reactor Database',
@@ -21,7 +18,7 @@ export default function RootLayout({
       <body className="bg-[#09090b] text-white antialiased selection:bg-red-600 selection:text-white min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-1 pb-20">{children}</main>
-        <RemotePopout loungeClient={loungeClient} />
+        <RemotePopout />
       </body>
     </html>
   );
