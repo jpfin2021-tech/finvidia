@@ -15,6 +15,7 @@ interface CreatorItem {
   yt_channel_id: string;
   video_count: number;
   total_views: number;
+  avg_views_per_video: number;
 }
 
 function formatViews(views?: number): string {
@@ -35,12 +36,13 @@ export default function CreatorDirectoryPage() {
   const [creators, setCreators] = useState<CreatorItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchQuery] = useState('');
-  const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'name'>('views');
+  const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'name'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
-  // Pagination State
+  // Pagination State: 10 per page
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 18;
+  const [jumpPageInput, setJumpPageInput] = useState('1');
+  const itemsPerPage = 10;
 
   useEffect(() => {
     async function loadCreators() {
@@ -78,6 +80,7 @@ export default function CreatorDirectoryPage() {
         const formatted: CreatorItem[] = allChannels.map((c: any) => {
           const vids = c.videos || [];
           const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+          const count = vids.length;
 
           return {
             id: c.id,
@@ -86,8 +89,9 @@ export default function CreatorDirectoryPage() {
             slug: c.slug || generateCleanSlug(c.name),
             avatar_url: c.avatar_url,
             yt_channel_id: c.yt_channel_id,
-            video_count: vids.length,
+            video_count: count,
             total_views: totalViews,
+            avg_views_per_video: count > 0 ? Math.round(totalViews / count) : 0,
           };
         });
 
@@ -114,7 +118,8 @@ export default function CreatorDirectoryPage() {
 
   const sortedCreators = [...filteredCreators].sort((a, b) => {
     let res = 0;
-    if (sortBy === 'reactions') res = b.video_count - a.video_count;
+    if (sortBy === 'avg_views') res = b.avg_views_per_video - a.avg_views_per_video;
+    else if (sortBy === 'reactions') res = b.video_count - a.video_count;
     else if (sortBy === 'name') res = a.name.localeCompare(b.name);
     else res = b.total_views - a.total_views;
 
@@ -127,6 +132,20 @@ export default function CreatorDirectoryPage() {
     currentPage * itemsPerPage
   );
 
+  const handlePageChange = (newPage: number) => {
+    const validPage = Math.max(1, Math.min(totalPages, newPage));
+    setCurrentPage(validPage);
+    setJumpPageInput(validPage.toString());
+  };
+
+  const handlePageJumpSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const parsed = parseInt(jumpPageInput, 10);
+    if (!isNaN(parsed)) {
+      handlePageChange(parsed);
+    }
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
@@ -135,6 +154,44 @@ export default function CreatorDirectoryPage() {
       </div>
     );
   }
+
+  // Render Control Component
+  const renderPaginationControl = () => {
+    if (totalPages <= 1) return null;
+    return (
+      <div className="flex flex-wrap items-center justify-between gap-3 py-4 border-y border-zinc-800/80 my-4">
+        <button
+          disabled={currentPage === 1}
+          onClick={() => handlePageChange(currentPage - 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          <ChevronLeft className="w-4 h-4" /> Prev
+        </button>
+
+        <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
+          <span>Page</span>
+          <input
+            type="number"
+            min={1}
+            max={totalPages}
+            value={jumpPageInput}
+            onChange={(e) => setJumpPageInput(e.target.value)}
+            onBlur={handlePageJumpSubmit}
+            className="w-12 bg-zinc-900 border border-zinc-700 text-center font-bold text-white text-xs rounded-lg py-1 focus:outline-none focus:border-red-600"
+          />
+          <span>of <strong className="text-white">{totalPages}</strong></span>
+        </form>
+
+        <button
+          disabled={currentPage === totalPages}
+          onClick={() => handlePageChange(currentPage + 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          Next <ChevronRight className="w-4 h-4" />
+        </button>
+      </div>
+    );
+  };
 
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
@@ -149,15 +206,15 @@ export default function CreatorDirectoryPage() {
           </p>
         </div>
 
-        {/* Filter and Sort Bar */}
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+        {/* Filter & Sort Controls */}
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-4">
           <div className="relative w-full md:w-80">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
               placeholder="Search creator name or @handle..."
               value={searchTerm}
-              onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
+              onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
             />
           </div>
@@ -175,16 +232,21 @@ export default function CreatorDirectoryPage() {
             <span>Sort By:</span>
             <select
               value={sortBy}
-              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); }}
+              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
               className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
             >
               <option value="views">Total Reaction Views</option>
+              <option value="avg_views">Views Per Reaction</option>
               <option value="reactions">Most Reactions</option>
               <option value="name">Channel Name (A-Z)</option>
             </select>
           </div>
         </div>
 
+        {/* Top Pagination Control */}
+        {renderPaginationControl()}
+
+        {/* Creator List (10 per page) */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {paginatedCreators.map((creator) => (
             <Link
@@ -228,37 +290,15 @@ export default function CreatorDirectoryPage() {
 
                 <span className="flex items-center gap-1 text-amber-400">
                   <Eye className="w-3.5 h-3.5" />
-                  {formatViews(creator.total_views)}
+                  {formatViews(sortBy === 'avg_views' ? creator.avg_views_per_video : creator.total_views)}
                 </span>
               </div>
             </Link>
           ))}
         </div>
 
-        {/* Touch-Friendly Page Controls */}
-        {totalPages > 1 && (
-          <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
-            <button
-              disabled={currentPage === 1}
-              onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              <ChevronLeft className="w-4 h-4" /> Previous
-            </button>
-
-            <span className="text-xs font-bold text-zinc-400">
-              Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
-            </span>
-
-            <button
-              disabled={currentPage === totalPages}
-              onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              Next <ChevronRight className="w-4 h-4" />
-            </button>
-          </div>
-        )}
+        {/* Bottom Pagination Control */}
+        {renderPaginationControl()}
       </div>
     </div>
   );

@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Trophy, Eye, Tv, User, ChevronLeft, ChevronRight, Filter, ArrowUp, ArrowDown } from 'lucide-react';
+import { RefreshCw, Trophy, Eye, Tv, ChevronLeft, ChevronRight, Filter, ArrowUp, ArrowDown } from 'lucide-react';
 
 interface LeaderboardItem {
   id: string;
@@ -33,6 +33,7 @@ export default function LeaderboardPage() {
 
   // Pagination State
   const [currentPage, setCurrentPage] = useState(1);
+  const [jumpPageInput, setJumpPageInput] = useState('1');
   const itemsPerPage = 15;
 
   useEffect(() => {
@@ -74,7 +75,7 @@ export default function LeaderboardPage() {
           const vids = m.videos || [];
           const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
           const reactionCount = vids.length;
-          const directorName = m.media_directors?.[0]?.directors?.name || '—';
+          const directorName = m.media_directors?.[0]?.directors?.name || '';
 
           return {
             id: m.id,
@@ -121,6 +122,20 @@ export default function LeaderboardPage() {
     currentPage * itemsPerPage
   );
 
+  const handlePageChange = (newPage: number) => {
+    const validPage = Math.max(1, Math.min(totalPages, newPage));
+    setCurrentPage(validPage);
+    setJumpPageInput(validPage.toString());
+  };
+
+  const handlePageJumpSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const parsed = parseInt(jumpPageInput, 10);
+    if (!isNaN(parsed)) {
+      handlePageChange(parsed);
+    }
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
@@ -130,10 +145,47 @@ export default function LeaderboardPage() {
     );
   }
 
+  const renderPaginationControl = () => {
+    if (totalPages <= 1) return null;
+    return (
+      <div className="flex flex-wrap items-center justify-between gap-3 py-4 border-y border-zinc-800/80 my-4">
+        <button
+          disabled={currentPage === 1}
+          onClick={() => handlePageChange(currentPage - 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          <ChevronLeft className="w-4 h-4" /> Prev
+        </button>
+
+        <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
+          <span>Page</span>
+          <input
+            type="number"
+            min={1}
+            max={totalPages}
+            value={jumpPageInput}
+            onChange={(e) => setJumpPageInput(e.target.value)}
+            onBlur={handlePageJumpSubmit}
+            className="w-12 bg-zinc-900 border border-zinc-700 text-center font-bold text-white text-xs rounded-lg py-1 focus:outline-none focus:border-red-600"
+          />
+          <span>of <strong className="text-white">{totalPages}</strong></span>
+        </form>
+
+        <button
+          disabled={currentPage === totalPages}
+          onClick={() => handlePageChange(currentPage + 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          Next <ChevronRight className="w-4 h-4" />
+        </button>
+      </div>
+    );
+  };
+
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-4 md:px-12 max-w-5xl mx-auto my-6">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-zinc-800 pb-6 mb-6">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-zinc-800 pb-6 mb-4">
           <div>
             <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
               <Trophy className="w-8 h-8 text-amber-400 fill-amber-400" />
@@ -144,7 +196,6 @@ export default function LeaderboardPage() {
             </p>
           </div>
 
-          {/* Sort & Filter Options */}
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <button
               onClick={toggleSortDirection}
@@ -158,7 +209,7 @@ export default function LeaderboardPage() {
             <span>Sort By:</span>
             <select
               value={sortBy}
-              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); }}
+              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
               className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
             >
               <option value="views">Total Reaction Views</option>
@@ -169,6 +220,9 @@ export default function LeaderboardPage() {
             </select>
           </div>
         </div>
+
+        {/* Top Pagination Control */}
+        {renderPaginationControl()}
 
         {/* Leaderboard List */}
         <div className="space-y-3">
@@ -228,27 +282,28 @@ export default function LeaderboardPage() {
                     />
                   </div>
 
-                  {/* Title & Metadata */}
+                  {/* Title & Metadata Layout */}
                   <div className="flex-1 min-w-0 flex flex-col justify-between py-0.5">
                     <div>
-                      <div className="flex flex-wrap items-center gap-2 mb-1">
-                        <h2 className="font-black text-sm sm:text-base text-white group-hover:text-red-400 transition-colors leading-snug break-words">
-                          {item.title}
-                        </h2>
+                      {/* Line 1: Movie Title Only (Full Width to Wrap) */}
+                      <h2 className="font-black text-sm sm:text-base text-white group-hover:text-red-400 transition-colors leading-snug break-words mb-1">
+                        {item.title}
+                      </h2>
+
+                      {/* Line 2: Year Pill + Director Name */}
+                      <div className="flex items-center gap-2 text-[11px] text-zinc-400 font-medium">
                         {item.release_year > 0 && (
-                          <span className="text-[10px] font-extrabold text-zinc-400 bg-zinc-800 px-2 py-0.5 rounded border border-zinc-700/80 flex-none">
+                          <span className="text-[10px] font-extrabold text-zinc-300 bg-zinc-800 px-2 py-0.5 rounded border border-zinc-700/80 flex-none">
                             {item.release_year}
                           </span>
                         )}
+                        {item.director && (
+                          <span className="truncate text-zinc-300 font-semibold">{item.director}</span>
+                        )}
                       </div>
-
-                      <p className="text-[11px] text-zinc-400 font-medium flex items-center gap-1">
-                        <User className="w-3 h-3 text-red-500 flex-none" />
-                        <span className="truncate">Dir: {item.director}</span>
-                      </p>
                     </div>
 
-                    {/* Uniform Stats Bar */}
+                    {/* Stats Bar */}
                     <div className="flex items-center justify-between text-[11px] font-bold pt-2 mt-1 border-t border-zinc-800/80">
                       <span className="text-amber-400 flex items-center gap-1">
                         <Eye className="w-3.5 h-3.5" />
@@ -268,30 +323,8 @@ export default function LeaderboardPage() {
           })}
         </div>
 
-        {/* Touch-Friendly Page Controls */}
-        {totalPages > 1 && (
-          <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
-            <button
-              disabled={currentPage === 1}
-              onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              <ChevronLeft className="w-4 h-4" /> Previous
-            </button>
-
-            <span className="text-xs font-bold text-zinc-400">
-              Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
-            </span>
-
-            <button
-              disabled={currentPage === totalPages}
-              onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              Next <ChevronRight className="w-4 h-4" />
-            </button>
-          </div>
-        )}
+        {/* Bottom Pagination Control */}
+        {renderPaginationControl()}
       </div>
     </div>
   );

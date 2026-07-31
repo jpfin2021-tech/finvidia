@@ -47,6 +47,7 @@ export default function CreatorHubPage() {
 
   // Pagination State
   const [currentPage, setCurrentPage] = useState(1);
+  const [jumpPageInput, setJumpPageInput] = useState('1');
   const itemsPerPage = 12;
 
   useEffect(() => {
@@ -193,8 +194,59 @@ export default function CreatorHubPage() {
     currentPage * itemsPerPage
   );
 
+  const handlePageChange = (newPage: number) => {
+    const validPage = Math.max(1, Math.min(totalPages, newPage));
+    setCurrentPage(validPage);
+    setJumpPageInput(validPage.toString());
+  };
+
+  const handlePageJumpSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const parsed = parseInt(jumpPageInput, 10);
+    if (!isNaN(parsed)) {
+      handlePageChange(parsed);
+    }
+  };
+
   const totalViewsCombined = videos.reduce((sum, v) => sum + (v.view_count || 0), 0);
   const avgViewsPerVideo = videos.length > 0 ? Math.round(totalViewsCombined / videos.length) : 0;
+
+  const renderPaginationControl = () => {
+    if (totalPages <= 1) return null;
+    return (
+      <div className="flex flex-wrap items-center justify-between gap-3 py-4 border-y border-zinc-800/80 my-4">
+        <button
+          disabled={currentPage === 1}
+          onClick={() => handlePageChange(currentPage - 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          <ChevronLeft className="w-4 h-4" /> Prev
+        </button>
+
+        <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
+          <span>Page</span>
+          <input
+            type="number"
+            min={1}
+            max={totalPages}
+            value={jumpPageInput}
+            onChange={(e) => setJumpPageInput(e.target.value)}
+            onBlur={handlePageJumpSubmit}
+            className="w-12 bg-zinc-900 border border-zinc-700 text-center font-bold text-white text-xs rounded-lg py-1 focus:outline-none focus:border-red-600"
+          />
+          <span>of <strong className="text-white">{totalPages}</strong></span>
+        </form>
+
+        <button
+          disabled={currentPage === totalPages}
+          onClick={() => handlePageChange(currentPage + 1)}
+          className="px-3.5 py-1.5 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+        >
+          Next <ChevronRight className="w-4 h-4" />
+        </button>
+      </div>
+    );
+  };
 
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
@@ -275,7 +327,7 @@ export default function CreatorHubPage() {
       </div>
 
       <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-6 gap-4">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-4 gap-4">
           <h2 className="text-xl font-bold text-white uppercase tracking-wider flex items-center gap-2">
             Movie Reactions ({videos.length})
           </h2>
@@ -292,7 +344,7 @@ export default function CreatorHubPage() {
             <span>Sort Reactions:</span>
             <select
               value={reactionSort}
-              onChange={(e: any) => { setReactionSort(e.target.value); setCurrentPage(1); }}
+              onChange={(e: any) => { setReactionSort(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
               className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
             >
               <option value="views">Most Views (Highest Popularity)</option>
@@ -301,6 +353,9 @@ export default function CreatorHubPage() {
             </select>
           </div>
         </div>
+
+        {/* Top Pagination Control */}
+        {renderPaginationControl()}
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {paginatedReactions.map((video) => (
@@ -312,30 +367,8 @@ export default function CreatorHubPage() {
           ))}
         </div>
 
-        {/* Touch-Friendly Page Controls */}
-        {totalPages > 1 && (
-          <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
-            <button
-              disabled={currentPage === 1}
-              onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              <ChevronLeft className="w-4 h-4" /> Previous
-            </button>
-
-            <span className="text-xs font-bold text-zinc-400">
-              Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
-            </span>
-
-            <button
-              disabled={currentPage === totalPages}
-              onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
-              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
-            >
-              Next <ChevronRight className="w-4 h-4" />
-            </button>
-          </div>
-        )}
+        {/* Bottom Pagination Control */}
+        {renderPaginationControl()}
       </div>
 
       <VideoModal
