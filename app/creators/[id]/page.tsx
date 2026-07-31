@@ -146,10 +146,37 @@ export default function CreatorHubPage() {
     loadCreatorHub();
   }, [creatorIdentifier]);
 
-  // Fast in-memory sort reversal (0ms)
   const toggleSortDirection = () => {
     setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
     setVideos((prev) => [...prev].reverse());
+  };
+
+  const handleVideoCardClick = async (video: Video) => {
+    const token = localStorage.getItem('finvidia_lounge_token');
+
+    if (token) {
+      window.dispatchEvent(
+        new CustomEvent('finvidia_cast_start', { detail: { title: video.title, videoId: video.yt_video_id } })
+      );
+
+      const res = await fetch('/api/lounge/command', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          loungeToken: token,
+          command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: 0 },
+        }),
+      });
+
+      const data = await res.json();
+      if (!data.success && res.status === 401) {
+        localStorage.removeItem('finvidia_lounge_token');
+        alert('Pairing code expired. Please enter a fresh 12-digit code in YouTube Settings on your Shield Pro.');
+      }
+      return;
+    }
+
+    setSelectedVideo(video);
   };
 
   if (loading) {
@@ -189,7 +216,6 @@ export default function CreatorHubPage() {
 
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
-      {/* Top Back Navigation */}
       <div className="px-6 md:px-12 pt-6">
         <button
           onClick={() => router.back()}
@@ -199,7 +225,6 @@ export default function CreatorHubPage() {
         </button>
       </div>
 
-      {/* Hero Header */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
         <div className="bg-gradient-to-r from-zinc-900 via-zinc-900 to-zinc-950 border border-zinc-800 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 shadow-2xl">
           <div className="flex items-center gap-5">
@@ -267,7 +292,6 @@ export default function CreatorHubPage() {
         </div>
       </div>
 
-      {/* Reaction Catalog Grid */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-6 gap-4">
           <h2 className="text-xl font-bold text-white uppercase tracking-wider flex items-center gap-2">
@@ -275,7 +299,6 @@ export default function CreatorHubPage() {
           </h2>
 
           <div className="flex items-center gap-2 text-xs text-zinc-400">
-            {/* Instant Sort Direction Toggle Button */}
             <button
               onClick={toggleSortDirection}
               className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
@@ -301,12 +324,10 @@ export default function CreatorHubPage() {
           {sortedReactions.map((video) => (
             <div
               key={video.id}
-              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between"
+              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
+              onClick={() => handleVideoCardClick(video)}
             >
-              <div 
-                className="relative aspect-video w-full bg-black cursor-pointer overflow-hidden"
-                onClick={() => setSelectedVideo(video)}
-              >
+              <div className="relative aspect-video w-full bg-black overflow-hidden">
                 <Image
                   src={video.thumbnail_url}
                   alt={video.title}
@@ -333,13 +354,13 @@ export default function CreatorHubPage() {
                     {video.media_item ? (
                       <Link
                         href={`/media/${video.media_item.id}`}
+                        onClick={(e) => e.stopPropagation()}
                         className="text-[11px] font-bold text-amber-400 hover:underline truncate max-w-[170px]"
                       >
                         {video.media_item.title} ({video.media_item.release_year})
                       </Link>
                     ) : <span />}
 
-                    {/* YouTube Upload Date Badge */}
                     <span className="text-[11px] text-zinc-400 font-medium flex items-center gap-1 flex-none">
                       <Calendar className="w-3 h-3 text-red-500" />
                       {new Date(video.published_at).toLocaleDateString()}
@@ -352,17 +373,15 @@ export default function CreatorHubPage() {
                 </div>
 
                 <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
-                  <button
-                    onClick={() => setSelectedVideo(video)}
-                    className="text-white hover:text-red-400 font-semibold flex items-center gap-1 transition-colors cursor-pointer"
-                  >
-                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
-                  </button>
+                  <span className="text-white group-hover:text-red-400 font-semibold flex items-center gap-1 transition-colors">
+                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Play on TV
+                  </span>
 
                   <a
                     href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
                     target="_blank"
                     rel="noopener noreferrer"
+                    onClick={(e) => e.stopPropagation()}
                     className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
                   >
                     <span>YouTube</span>

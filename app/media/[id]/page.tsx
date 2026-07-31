@@ -161,6 +161,34 @@ export default function MediaHubPage() {
     setTotalRatings(newTotal);
   };
 
+  const handleVideoCardClick = async (video: Video) => {
+    const token = localStorage.getItem('finvidia_lounge_token');
+
+    if (token) {
+      window.dispatchEvent(
+        new CustomEvent('finvidia_cast_start', { detail: { title: video.title, videoId: video.yt_video_id } })
+      );
+
+      const res = await fetch('/api/lounge/command', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          loungeToken: token,
+          command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: 0 },
+        }),
+      });
+
+      const data = await res.json();
+      if (!data.success && res.status === 401) {
+        localStorage.removeItem('finvidia_lounge_token');
+        alert('Pairing code expired. Please re-enter a 12-digit code in YouTube Settings on your Shield Pro.');
+      }
+      return;
+    }
+
+    setSelectedVideo(video);
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
@@ -192,7 +220,6 @@ export default function MediaHubPage() {
 
   const totalViewsCombined = reactions.reduce((sum, v) => sum + (v.view_count || 0), 0);
 
-  // Dynamic Partner Links
   const amazonPrimeUrl = buildAmazonPrimeVideoLink(media.title, media.release_year);
   const amazonPhysicalUrl = buildAmazonPhysicalBlurayLink(media.title);
   const justWatchUrl = buildJustWatchLink(media.title);
@@ -345,7 +372,6 @@ export default function MediaHubPage() {
               </div>
             )}
 
-            {/* Monetized Stream / Buy Partner Links */}
             <div className="pt-3 border-t border-zinc-800/80 mt-2">
               <p className="text-[11px] font-black uppercase text-zinc-400 tracking-wider mb-2 flex items-center gap-1.5">
                 <ShoppingBag className="w-3.5 h-3.5 text-red-500" /> Watch Official Film (Stream / Rent / Buy):
@@ -421,12 +447,10 @@ export default function MediaHubPage() {
           {sortedReactions.map((video) => (
             <div
               key={video.id}
-              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between"
+              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
+              onClick={() => handleVideoCardClick(video)}
             >
-              <div 
-                className="relative aspect-video w-full bg-black cursor-pointer overflow-hidden"
-                onClick={() => setSelectedVideo(video)}
-              >
+              <div className="relative aspect-video w-full bg-black overflow-hidden">
                 <Image
                   src={video.thumbnail_url}
                   alt={video.title}
@@ -450,12 +474,9 @@ export default function MediaHubPage() {
               <div className="p-4 flex flex-col justify-between flex-1 gap-3">
                 <div>
                   <div className="flex items-center justify-between gap-2 mb-2">
-                    <Link
-                      href={`/creators/${(video as any).channel_slug || 'creators'}`}
-                      className="text-[11px] font-bold text-red-400 hover:text-white bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded transition-colors"
-                    >
+                    <span className="text-[11px] font-bold text-red-400 bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded truncate max-w-[150px]">
                       {(video as any).channel_name || 'Creator'}
-                    </Link>
+                    </span>
                     <span className="text-[11px] text-zinc-400 font-medium">
                       {new Date(video.published_at).toLocaleDateString()}
                     </span>
@@ -467,17 +488,15 @@ export default function MediaHubPage() {
                 </div>
 
                 <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
-                  <button
-                    onClick={() => setSelectedVideo(video)}
-                    className="text-white hover:text-red-400 font-semibold flex items-center gap-1 transition-colors cursor-pointer"
-                  >
-                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
-                  </button>
+                  <span className="text-white group-hover:text-red-400 font-semibold flex items-center gap-1 transition-colors">
+                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Play on TV
+                  </span>
 
                   <a
                     href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
                     target="_blank"
                     rel="noopener noreferrer"
+                    onClick={(e) => e.stopPropagation()}
                     className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
                   >
                     <span>YouTube</span>

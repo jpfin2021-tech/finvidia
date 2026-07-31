@@ -27,8 +27,7 @@ export default function RemotePopout() {
 
   useEffect(() => {
     const savedToken = localStorage.getItem('finvidia_lounge_token');
-    const savedScreenId = localStorage.getItem('finvidia_screen_id');
-    if (savedToken || savedScreenId) {
+    if (savedToken) {
       setIsConnected(true);
     }
 
@@ -57,16 +56,14 @@ export default function RemotePopout() {
 
       const data = await res.json();
 
-      if (data.success && data.loungeToken && data.screenId) {
+      if (data.success && data.loungeToken) {
         localStorage.setItem('finvidia_lounge_token', data.loungeToken);
-        localStorage.setItem('finvidia_screen_id', data.screenId);
-        localStorage.setItem('finvidia_pair_code', pairCodeInput.trim());
-
+        localStorage.setItem('finvidia_screen_id', data.screenId || '');
         setIsConnected(true);
         setShowPairModal(false);
         setPairCodeInput('');
       } else {
-        alert(data.error || 'Could not pair with TV code. Please verify the code in YouTube Settings on your Shield Pro.');
+        alert(data.error || 'Could not pair with TV code. Please check YouTube Settings on your Shield Pro.');
       }
     } catch (err) {
       alert('Error connecting to YouTube pairing service.');
@@ -78,17 +75,14 @@ export default function RemotePopout() {
   const handleUnlink = () => {
     localStorage.removeItem('finvidia_lounge_token');
     localStorage.removeItem('finvidia_screen_id');
-    localStorage.removeItem('finvidia_pair_code');
     setIsConnected(false);
     setIsExpanded(false);
-    setShowPairModal(false);
   };
 
   const dispatchRemoteCommand = async (command: any) => {
     const token = localStorage.getItem('finvidia_lounge_token') || '';
-    const screenId = localStorage.getItem('finvidia_screen_id') || '';
 
-    if (!token && !screenId) {
+    if (!token) {
       setShowPairModal(true);
       return;
     }
@@ -99,17 +93,17 @@ export default function RemotePopout() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           loungeToken: token,
-          screenId: screenId,
           command,
         }),
       });
 
       const data = await res.json();
-      if (data.refreshed && data.loungeToken) {
-        localStorage.setItem('finvidia_lounge_token', data.loungeToken);
-      }
-      if (!data.success && data.error) {
-        alert(data.error);
+      if (!data.success) {
+        if (res.status === 401) {
+          localStorage.removeItem('finvidia_lounge_token');
+          setIsConnected(false);
+          setShowPairModal(true);
+        }
       }
     } catch (err) {
       console.error('Command failed:', err);
@@ -130,7 +124,7 @@ export default function RemotePopout() {
 
   return (
     <>
-      {/* Pair / Unlink Code Modal */}
+      {/* Pair Code Modal */}
       {showPairModal && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md p-4">
           <div className="bg-zinc-950 border border-zinc-800 rounded-2xl p-6 max-w-sm w-full shadow-2xl relative">
@@ -144,20 +138,20 @@ export default function RemotePopout() {
             <div className="flex items-center gap-2 mb-3">
               <Tv className="w-6 h-6 text-red-600" />
               <h3 className="font-extrabold text-base text-white">
-                {isConnected ? 'Shield Pro Connected' : 'Pair First-Screen TV'}
+                {isConnected ? 'Shield Pro Linked' : 'Pair First-Screen TV'}
               </h3>
             </div>
 
             {isConnected ? (
               <div className="space-y-4">
                 <p className="text-xs text-zinc-400 leading-relaxed">
-                  Your mobile app is linked to your Shield Pro. Tapping reactions across FinVIDIA will send them directly to your TV.
+                  Your phone is linked to your Shield Pro. Tapping reactions across FinVIDIA will send them directly to your TV.
                 </p>
                 <button
                   onClick={handleUnlink}
-                  className="w-full bg-red-950/80 hover:bg-red-600 text-red-400 hover:text-white border border-red-900/50 font-bold text-xs py-3 rounded-xl transition-all flex items-center justify-center gap-2"
+                  className="w-full bg-red-950/80 hover:bg-red-600 text-red-400 hover:text-white border border-red-900/50 font-bold text-xs py-3 rounded-xl transition-all flex items-center justify-center gap-2 cursor-pointer"
                 >
-                  <Unlink className="w-4 h-4" /> Unlink & Re-enter TV Code
+                  <Unlink className="w-4 h-4" /> Unlink & Enter Fresh TV Code
                 </button>
               </div>
             ) : (
@@ -176,10 +170,10 @@ export default function RemotePopout() {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full bg-red-600 hover:bg-red-500 text-white font-bold text-xs py-3 rounded-xl transition-all flex items-center justify-center gap-2"
+                  className="w-full bg-red-600 hover:bg-red-500 text-white font-bold text-xs py-3 rounded-xl transition-all flex items-center justify-center gap-2 cursor-pointer"
                 >
                   {loading && <RefreshCw className="w-4 h-4 animate-spin" />}
-                  <span>Save & Link TV Forever</span>
+                  <span>Save & Link TV</span>
                 </button>
               </form>
             )}
@@ -202,13 +196,13 @@ export default function RemotePopout() {
                 <div className="flex items-center gap-2">
                   <button
                     onClick={() => setShowPairModal(true)}
-                    className="text-[11px] text-zinc-400 hover:text-white font-semibold underline pr-2"
+                    className="text-[11px] text-zinc-400 hover:text-white font-semibold underline pr-2 cursor-pointer"
                   >
                     TV Settings
                   </button>
                   <button
                     onClick={() => setIsExpanded(false)}
-                    className="p-1 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-white"
+                    className="p-1 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-white cursor-pointer"
                   >
                     <ChevronDown className="w-5 h-5" />
                   </button>
