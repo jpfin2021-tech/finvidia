@@ -39,10 +39,10 @@ export default function CreatorDirectoryPage() {
   const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'name'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
-  // Pagination State: 10 per page
+  // Pagination State: Updated to 12 per page
   const [currentPage, setCurrentPage] = useState(1);
   const [jumpPageInput, setJumpPageInput] = useState('1');
-  const itemsPerPage = 10;
+  const itemsPerPage = 12;
 
   useEffect(() => {
     async function loadCreators() {
@@ -155,7 +155,6 @@ export default function CreatorDirectoryPage() {
     );
   }
 
-  // Render Control Component
   const renderPaginationControl = () => {
     if (totalPages <= 1) return null;
     return (
@@ -246,7 +245,7 @@ export default function CreatorDirectoryPage() {
         {/* Top Pagination Control */}
         {renderPaginationControl()}
 
-        {/* Creator List (10 per page) */}
+        {/* Creator Grid (12 per page) */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {paginatedCreators.map((creator) => (
             <Link
