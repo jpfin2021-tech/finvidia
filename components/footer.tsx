@@ -24,6 +24,7 @@ export default function Footer() {
           <Link href="/browse" className="hover:text-red-500 transition-colors">Movies</Link>
           <Link href="/creators" className="hover:text-red-500 transition-colors">Creators</Link>
           <Link href="/rankings" className="hover:text-red-500 transition-colors">Leaderboard</Link>
+          <Link href="/faq" className="hover:text-red-500 transition-colors text-zinc-300">FAQ</Link>
         </nav>
       </div>
     </footer>
