@@ -1,24 +1,11 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
+    unoptimized: true,
     remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'image.tmdb.org',
-      },
-      {
-        protocol: 'https',
-        hostname: '*.mzstatic.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'i.ytimg.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'yt3.ggpht.com',
-      },
+      { protocol: 'https', hostname: 'i.ytimg.com' },
+      { protocol: 'https', hostname: 'yt3.ggpht.com' },
+      { protocol: 'https', hostname: 'image.tmdb.org' },
     ],
   },
 };
