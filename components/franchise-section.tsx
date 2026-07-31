@@ -1,172 +1,86 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
+import React from 'react';
 import Link from 'next/link';
-import { createClient } from '@/lib/supabase/client';
-import { Clapperboard, Eye, Tv, ChevronRight } from 'lucide-react';
+import { Clapperboard, ChevronRight } from 'lucide-react';
 
-interface FranchiseDef {
+interface Franchise {
   slug: string;
   name: string;
-  searchKeywords: string[];
+  itemCount: number;
+  viewCount: string;
+  backdropUrl: string;
 }
 
-// 6 Major Franchises - MCU replaces Back To The Future
-const FRANCHISES: FranchiseDef[] = [
-  { slug: 'lord-of-the-rings', name: 'The Lord of the Rings', searchKeywords: ['Lord of the Rings', 'Fellowship of the Ring', 'Two Towers', 'Return of the King'] },
-  { slug: 'mcu', name: 'Marvel Cinematic Universe', searchKeywords: ['Avengers', 'Iron Man', 'Thor', 'Captain America', 'Guardians of the Galaxy', 'Doctor Strange', 'Spider-Man', 'Black Panther', 'Infinity War', 'Endgame'] },
-  { slug: 'john-wick', name: 'John Wick Franchise', searchKeywords: ['John Wick'] },
-  { slug: 'deadpool', name: 'Deadpool Collection', searchKeywords: ['Deadpool'] },
-  { slug: 'harry-potter', name: 'Harry Potter Collection', searchKeywords: ['Harry Potter'] },
-  { slug: 'star-wars', name: 'Star Wars Saga', searchKeywords: ['Star Wars'] },
+const FRANCHISES: Franchise[] = [
+  {
+    slug: 'lord-of-the-rings',
+    name: 'The Lord of the Rings Franchise',
+    itemCount: 3,
+    viewCount: '18.4M',
+    backdropUrl: 'https://image.tmdb.org/t/p/w500/2u7zbn8YudG69el30P2SGo3I4S.jpg'
+  },
+  {
+    slug: 'mcu',
+    name: 'Marvel Cinematic Universe',
+    itemCount: 32,
+    viewCount: '45.2M',
+    backdropUrl: 'https://image.tmdb.org/t/p/w500/mL1O1IOfIunp7m3w5qjO4y4Y2QZ.jpg'
+  },
+  {
+    slug: 'john-wick',
+    name: 'John Wick Franchise',
+    itemCount: 4,
+    viewCount: '12.1M',
+    backdropUrl: 'https://image.tmdb.org/t/p/w500/v13L32Qp9W46gB7i79K2N9y6pUo.jpg'
+  },
+  {
+    slug: 'star-wars',
+    name: 'Star Wars Saga',
+    itemCount: 9,
+    viewCount: '34.8M',
+    backdropUrl: 'https://image.tmdb.org/t/p/w500/62022L23f293i98363717208221.jpg'
+  }
 ];
 
-interface FranchiseDisplayData {
-  slug: string;
-  name: string;
-  posters: string[];
-  totalViews: number;
-  movieCount: number;
-  reactionCount: number;
-}
-
-function formatViews(views: number): string {
-  if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M`;
-  if (views >= 1000) return `${Math.round(views / 1000)}K`;
-  return views.toLocaleString();
-}
-
 export default function FranchiseSection() {
-  const [franchiseData, setFranchiseData] = useState<FranchiseDisplayData[]>([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    async function loadFranchises() {
-      try {
-        const supabase = createClient();
-
-        let allMedia: any[] = [];
-        let page = 0;
-        let hasMore = true;
-
-        while (hasMore) {
-          const { data, error } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              title,
-              release_year,
-              poster_url,
-              videos (id, view_count)
-            `)
-            .range(page * 1000, (page + 1) * 1000 - 1);
-
-          if (error || !data || data.length === 0) {
-            hasMore = false;
-          } else {
-            allMedia = allMedia.concat(data);
-            if (data.length < 1000) hasMore = false;
-            page++;
-          }
-        }
-
-        const results: FranchiseDisplayData[] = [];
-
-        for (const fran of FRANCHISES) {
-          const matchingMedia = allMedia.filter((m) => {
-            const titleLower = m.title.toLowerCase();
-            return fran.searchKeywords.some((kw) => titleLower.includes(kw.toLowerCase()));
-          }).sort((a, b) => a.release_year - b.release_year);
-
-          if (matchingMedia.length > 0) {
-            const posters = matchingMedia.map((m) => m.poster_url).filter(Boolean);
-            let totalViews = 0;
-            let reactionCount = 0;
-
-            for (const m of matchingMedia) {
-              const vids = m.videos || [];
-              reactionCount += vids.length;
-              totalViews += vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
-            }
-
-            results.push({
-              slug: fran.slug,
-              name: fran.name,
-              posters,
-              totalViews,
-              movieCount: matchingMedia.length,
-              reactionCount,
-            });
-          }
-        }
-
-        setFranchiseData(results);
-      } catch (err) {
-        console.error('Error loading franchise section:', err);
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    loadFranchises();
-  }, []);
-
-  if (loading || franchiseData.length === 0) return null;
-
   return (
-    <section className="px-6 md:px-12 max-w-7xl mx-auto my-12">
-      <div className="flex items-center justify-between border-b border-zinc-800 pb-4 mb-6">
-        <div className="flex items-center gap-3">
-          <Clapperboard className="w-6 h-6 text-red-600" />
-          <h2 className="text-xl md:text-2xl font-black text-white uppercase tracking-wider">
-            Major Cinema Franchises
-          </h2>
-        </div>
+    <div className="my-8">
+      <div className="flex items-center justify-between mb-4 border-b border-zinc-800 pb-3">
+        <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider flex items-center gap-2">
+          <Clapperboard className="w-5 h-5 text-red-600" />
+          Franchises
+        </h2>
+        <span className="text-xs text-zinc-400 font-medium">Featured Collections</span>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {franchiseData.map((fran) => (
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {FRANCHISES.map((f) => (
           <Link
-            key={fran.slug}
-            href={`/franchise/${fran.slug}`}
-            className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-2xl p-5 transition-all duration-300 hover:scale-[1.02] hover:shadow-2xl flex flex-col justify-between"
+            key={f.slug}
+            href={`/franchise/${f.slug}`}
+            className="group relative h-28 rounded-xl overflow-hidden border border-zinc-800 hover:border-red-600/80 transition-all duration-300 p-4 flex flex-col justify-between shadow-lg bg-zinc-900"
           >
-            <div>
-              <div className="flex items-center gap-2 overflow-x-auto pb-3 pt-1 no-scrollbar mb-4 border-b border-zinc-800">
-                {fran.posters.map((posterUrl, idx) => (
-                  <div key={idx} className="relative w-16 aspect-[2/3] rounded-lg overflow-hidden bg-zinc-950 flex-none border border-zinc-700/80 shadow-md group-hover:border-red-600/50 transition-colors">
-                    <Image
-                      src={posterUrl}
-                      alt={fran.name}
-                      fill
-                      sizes="64px"
-                      className="object-cover"
-                    />
-                  </div>
-                ))}
-              </div>
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/70 to-transparent z-10" />
 
-              <h3 className="font-extrabold text-lg text-white group-hover:text-red-400 transition-colors flex items-center justify-between">
-                <span>{fran.name}</span>
-                <ChevronRight className="w-5 h-5 text-zinc-500 group-hover:text-white transition-colors" />
-              </h3>
+            <div className="relative z-20 flex items-center justify-between">
+              <span className="text-[10px] font-black uppercase tracking-wider bg-red-600 text-white px-2 py-0.5 rounded">
+                Collection
+              </span>
+              <ChevronRight className="w-4 h-4 text-zinc-400 group-hover:text-red-500 group-hover:translate-x-1 transition-all" />
             </div>
 
-            <div className="flex items-center justify-between pt-4 border-t border-zinc-800/80 text-xs mt-3">
-              <span className="text-zinc-400 font-medium flex items-center gap-1">
-                <Tv className="w-3.5 h-3.5 text-red-500" />
-                {fran.movieCount} Movies • {fran.reactionCount} Reactions
-              </span>
-
-              <span className="text-amber-400 font-black flex items-center gap-1">
-                <Eye className="w-3.5 h-3.5 text-amber-400" />
-                {formatViews(fran.totalViews)} Views
-              </span>
+            <div className="relative z-20">
+              <h3 className="font-extrabold text-sm text-white group-hover:text-red-400 transition-colors line-clamp-1">
+                {f.name}
+              </h3>
+              <p className="text-[11px] text-zinc-400 font-medium">
+                {f.itemCount} Movies • {f.viewCount} Views
+              </p>
             </div>
           </Link>
         ))}
       </div>
-    </section>
+    </div>
   );
 }

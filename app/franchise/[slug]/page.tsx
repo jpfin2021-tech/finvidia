@@ -5,9 +5,10 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
+import VideoCard from '@/components/video-card';
 import VideoModal from '@/components/video-modal';
 import { Video } from '@/types/database';
-import { Play, ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Clapperboard, Film, Calendar } from 'lucide-react';
+import { ArrowLeft, Tv, RefreshCw, Eye, Clapperboard, Film } from 'lucide-react';
 
 interface FranchiseDef {
   slug: string;
@@ -304,76 +305,11 @@ export default function FranchisePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {sortedReactions.map((video) => (
-            <div
+            <VideoCard
               key={video.id}
-              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between"
-            >
-              <div 
-                className="relative aspect-video w-full bg-black cursor-pointer overflow-hidden"
-                onClick={() => setSelectedVideo(video)}
-              >
-                <Image
-                  src={video.thumbnail_url}
-                  alt={video.title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                />
-                
-                <div className="absolute top-2.5 right-2.5 bg-black/85 backdrop-blur-md text-[11px] font-extrabold text-white px-2.5 py-1 rounded-md border border-white/10 shadow-lg flex items-center gap-1.5">
-                  <Eye className="w-3.5 h-3.5 text-red-500" />
-                  {formatViewCount(video.view_count)}
-                </div>
-
-                <div className="absolute inset-0 bg-black/40 group-hover:bg-black/10 transition-colors flex items-center justify-center">
-                  <div className="w-12 h-12 rounded-full bg-red-600 text-white flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                    <Play className="w-6 h-6 fill-current ml-0.5" />
-                  </div>
-                </div>
-              </div>
-
-              <div className="p-4 flex flex-col justify-between flex-1 gap-3">
-                <div>
-                  <div className="flex items-center justify-between gap-2 mb-2">
-                    <Link
-                      href={`/creators/${(video as any).channel_slug || 'creators'}`}
-                      className="text-[11px] font-bold text-red-400 hover:text-white bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded transition-colors truncate max-w-[150px]"
-                    >
-                      {(video as any).channel_name || 'Creator'}
-                    </Link>
-
-                    {/* YouTube Published Upload Date Badge */}
-                    <span className="text-[11px] text-zinc-400 font-medium flex items-center gap-1 flex-none">
-                      <Calendar className="w-3 h-3 text-red-500" />
-                      {new Date(video.published_at).toLocaleDateString()}
-                    </span>
-                  </div>
-
-                  <h3 className="font-bold text-sm text-white line-clamp-2 leading-snug group-hover:text-red-400 transition-colors">
-                    {video.title}
-                  </h3>
-                </div>
-
-                <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
-                  <button
-                    onClick={() => setSelectedVideo(video)}
-                    className="text-white hover:text-red-400 font-semibold flex items-center gap-1 transition-colors cursor-pointer"
-                  >
-                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
-                  </button>
-
-                  <a
-                    href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
-                  >
-                    <span>YouTube</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
+              video={video}
+              onSelect={setSelectedVideo}
+            />
           ))}
         </div>
       </div>

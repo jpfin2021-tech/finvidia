@@ -1,151 +1,178 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import HeroBanner from '@/components/hero-banner';
-import FranchiseSection from '@/components/franchise-section';
-import CarouselRow from '@/components/carousel-row';
+import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { MediaItem } from '@/types/database';
-
-type ExtendedMediaItem = MediaItem & {
-  video_count: number;
-  total_views: number;
-};
+import HeroBanner from '@/components/hero-banner';
+import CarouselRow from '@/components/carousel-row';
+import FranchiseSection from '@/components/franchise-section';
+import VideoCard from '@/components/video-card';
+import VideoModal from '@/components/video-modal';
+import { Video } from '@/types/database';
+import { RefreshCw, Sparkles } from 'lucide-react';
 
 export default function HomePage() {
-  const [topRankedMovies, setTopRankedMovies] = useState<ExtendedMediaItem[]>([]);
-  const [newReactions, setNewReactions] = useState<ExtendedMediaItem[]>([]);
-  const [randomDiscovery, setRandomDiscovery] = useState<ExtendedMediaItem[]>([]);
-
-  const loadHomepageData = async () => {
-    try {
-      const supabase = createClient();
-
-      let allMedia: any[] = [];
-      let page = 0;
-      let hasMore = true;
-
-      while (hasMore) {
-        const { data, error } = await supabase
-          .from('media_items')
-          .select('id, media_type, title, release_year, studio_label, synopsis, poster_url, backdrop_url')
-          .eq('media_type', 'movie')
-          .range(page * 1000, (page + 1) * 1000 - 1);
-
-        if (error || !data || data.length === 0) {
-          hasMore = false;
-        } else {
-          allMedia = allMedia.concat(data);
-          if (data.length < 1000) hasMore = false;
-          page++;
-        }
-      }
-
-      let allVideos: any[] = [];
-      let vidPage = 0;
-      let vidHasMore = true;
-
-      while (vidHasMore) {
-        const { data, error } = await supabase
-          .from('videos')
-          .select('id, media_id, view_count')
-          .range(vidPage * 1000, (vidPage + 1) * 1000 - 1);
-
-        if (error || !data || data.length === 0) {
-          vidHasMore = false;
-        } else {
-          allVideos = allVideos.concat(data);
-          if (data.length < 1000) vidHasMore = false;
-          vidPage++;
-        }
-      }
-
-      const videoStatsMap = new Map<string, { views: number; count: number }>();
-      for (const v of allVideos) {
-        if (!v.media_id) continue;
-        const views = v.view_count || 0;
-        if (!videoStatsMap.has(v.media_id)) {
-          videoStatsMap.set(v.media_id, { views, count: 1 });
-        } else {
-          const stat = videoStatsMap.get(v.media_id)!;
-          stat.views += views;
-          stat.count += 1;
-        }
-      }
-
-      const formatted: ExtendedMediaItem[] = allMedia
-        .map((m: any) => {
-          const stats = videoStatsMap.get(m.id) || { views: 0, count: 0 };
-          return {
-            id: m.id,
-            media_type: m.media_type,
-            title: m.title,
-            release_year: m.release_year,
-            studio_label: m.studio_label,
-            synopsis: m.synopsis,
-            poster_url: m.poster_url,
-            backdrop_url: m.backdrop_url,
-            video_count: stats.count,
-            total_views: stats.views,
-          };
-        })
-        .filter((m) => m.video_count > 0);
-
-      // Top Ranked Movies
-      const sortedByViews = [...formatted].sort((a, b) => b.total_views - a.total_views);
-      setTopRankedMovies(sortedByViews.slice(0, 18));
-
-      // NEWEST RELEASES: Descending strictly by official theatrical release year of the film
-      const sortedByReleaseDate = [...formatted].sort((a, b) => b.release_year - a.release_year);
-      setNewReactions(sortedByReleaseDate.slice(0, 18));
-
-      // Random Discovery
-      const shuffled = [...formatted].sort(() => 0.5 - Math.random());
-      setRandomDiscovery(shuffled.slice(0, 18));
-    } catch (err) {
-      console.error('Error loading homepage catalog:', err);
-    }
-  };
+  const [topRankedMovies, setTopRankedMovies] = useState<any[]>([]);
+  const [newReleases, setNewReleases] = useState<any[]>([]);
+  const [shuffleReactions, setShuffleReactions] = useState<Video[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
 
   useEffect(() => {
-    loadHomepageData();
+    async function loadHomePageData() {
+      setLoading(true);
+      try {
+        const supabase = createClient();
+
+        // 1. Leaderboard Titles
+        const { data: mediaData } = await supabase
+          .from('media_items')
+          .select(`
+            id,
+            title,
+            release_year,
+            poster_url,
+            studio_label,
+            videos (id, view_count)
+          `);
+
+        if (mediaData) {
+          const formatted = mediaData.map((m: any) => {
+            const vids = m.videos || [];
+            const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+            return {
+              id: m.id,
+              title: m.title,
+              release_year: m.release_year,
+              poster_url: m.poster_url,
+              studio_label: m.studio_label,
+              total_views: totalViews,
+              reaction_count: vids.length,
+            };
+          });
+
+          const leaderboardSorted = [...formatted].sort((a, b) => b.total_views - a.total_views).slice(0, 15);
+          const newReleasesSorted = [...formatted].sort((a, b) => b.release_year - a.release_year).slice(0, 15);
+
+          setTopRankedMovies(leaderboardSorted);
+          setNewReleases(newReleasesSorted);
+        }
+
+        // 2. Shuffle Feed Reactions
+        const { data: shuffleData } = await supabase
+          .from('videos')
+          .select(`
+            id,
+            yt_video_id,
+            channel_id,
+            title,
+            description,
+            thumbnail_url,
+            published_at,
+            view_count,
+            channels (id, name, handle, avatar_url, slug),
+            media_items (id, title, release_year)
+          `)
+          .limit(12);
+
+        if (shuffleData) {
+          const formattedShuffle: Video[] = shuffleData.map((v: any) => ({
+            id: v.id,
+            yt_video_id: v.yt_video_id,
+            channel_id: v.channel_id,
+            title: v.title,
+            description: v.description,
+            thumbnail_url: v.thumbnail_url,
+            published_at: v.published_at,
+            view_count: v.view_count || 0,
+            channel_name: v.channels?.name || 'Creator',
+            channel_handle: v.channels?.handle,
+            channel_avatar: v.channels?.avatar_url,
+            channel_slug: v.channels?.slug,
+            media_item: v.media_items ? {
+              id: v.media_items.id,
+              media_type: 'movie',
+              title: v.media_items.title,
+              release_year: v.media_items.release_year,
+              poster_url: '',
+              backdrop_url: '',
+            } : undefined
+          }));
+
+          setShuffleReactions(formattedShuffle);
+        }
+      } catch (err) {
+        console.error('Error loading home page:', err);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadHomePageData();
   }, []);
 
-  const handleShuffleDiscovery = () => {
-    setRandomDiscovery((prev) => [...prev].sort(() => 0.5 - Math.random()));
-  };
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
+        <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
+        <p className="text-sm font-medium">Loading FinVIDIA Hub...</p>
+      </div>
+    );
+  }
 
   return (
-    <div className="pb-20 min-h-screen bg-[#09090b]">
-      {/* Dynamic Rotating Spotlight Hero */}
+    <div className="min-h-screen bg-[#09090b] pb-20">
       <HeroBanner />
 
-      <div className="flex flex-col gap-8 mt-6">
-        {/* Hollywood Franchises Showcase */}
+      <div className="max-w-7xl mx-auto px-4 md:px-8 space-y-8 mt-6">
+        {/* Franchises Section */}
         <FranchiseSection />
 
-        {/* Leaderboard Top Ranked Films */}
+        {/* Leaderboard Row */}
         <CarouselRow
-          title="Master Leaderboard Top Ranked Films"
-          mediaList={topRankedMovies}
-          viewAllLink="/rankings"
+          title="Leaderboard"
+          subtitle="Top performing films ranked by aggregate creator viewership."
+          items={topRankedMovies}
         />
 
-        {/* NEWEST RELEASES */}
+        {/* New Releases Row */}
         <CarouselRow
-          title="NEWEST RELEASES"
-          mediaList={newReactions}
-          viewAllLink="/browse?sort=oc_year"
+          title="New Releases"
+          subtitle="Recently indexed titles and fresh creator commentary."
+          items={newReleases}
         />
 
-        {/* RANDOMIZER (NEW TO YOU?) */}
-        <CarouselRow
-          title="RANDOMIZER (NEW TO YOU?)"
-          mediaList={randomDiscovery}
-          onShuffle={handleShuffleDiscovery}
-          viewAllLink="/browse"
-        />
+        {/* Shuffle Grid */}
+        <div className="my-10">
+          <div className="flex items-center justify-between mb-4 border-b border-zinc-800 pb-3">
+            <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider flex items-center gap-2">
+              <Sparkles className="w-5 h-5 text-amber-400 fill-amber-400" />
+              Shuffle
+            </h2>
+            <Link
+              href="/browse"
+              className="text-xs text-red-400 hover:text-white font-bold"
+            >
+              Browse Full Catalog →
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {shuffleReactions.map((video) => (
+              <VideoCard
+                key={video.id}
+                video={video}
+                onSelect={setSelectedVideo}
+              />
+            ))}
+          </div>
+        </div>
       </div>
+
+      <VideoModal
+        video={selectedVideo}
+        onClose={() => setSelectedVideo(null)}
+      />
     </div>
   );
 }

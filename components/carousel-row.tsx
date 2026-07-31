@@ -1,83 +1,137 @@
 "use client";
 
 import React, { useRef } from 'react';
-import MediaCard from './media-card';
-import { MediaItem } from '@/types/database';
-import { ChevronLeft, ChevronRight, Shuffle } from 'lucide-react';
+import Image from 'next/image';
+import Link from 'next/link';
+import { ChevronLeft, ChevronRight, Eye, Tv } from 'lucide-react';
+
+interface MediaItemSimple {
+  id: string;
+  title: string;
+  release_year: number;
+  poster_url: string;
+  studio_label?: string;
+  total_views?: number;
+  avg_views?: number;
+  reaction_count?: number;
+}
 
 interface CarouselRowProps {
   title: string;
-  mediaList?: (MediaItem & { video_count?: number; total_views?: number })[];
-  media?: (MediaItem & { video_count?: number; total_views?: number })[];
-  onShuffle?: () => void;
-  viewAllLink?: string;
+  subtitle?: string;
+  items: MediaItemSimple[];
 }
 
-export default function CarouselRow({ title, mediaList, media, onShuffle, viewAllLink }: CarouselRowProps) {
-  const rowRef = useRef<HTMLDivElement>(null);
+function formatViews(views?: number): string {
+  if (!views || views === 0) return '0 Views';
+  if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M`;
+  if (views >= 1000) return `${Math.round(views / 1000)}K`;
+  return views.toLocaleString();
+}
 
-  // Accept either mediaList or media prop interchangeably
-  const items = mediaList || media || [];
+export default function CarouselRow({ title, subtitle, items }: CarouselRowProps) {
+  const rowRef = useRef<HTMLDivElement>(null);
 
   const handleScroll = (direction: 'left' | 'right') => {
     if (rowRef.current) {
-      const { scrollLeft, clientWidth } = rowRef.current;
-      const scrollAmount = clientWidth * 0.75;
-      rowRef.current.scrollTo({
-        left: direction === 'left' ? scrollLeft - scrollAmount : scrollLeft + scrollAmount,
+      const scrollAmount = rowRef.current.clientWidth * 0.8;
+      rowRef.current.scrollBy({
+        left: direction === 'left' ? -scrollAmount : scrollAmount,
         behavior: 'smooth',
       });
     }
   };
 
-  if (items.length === 0) return null;
+  if (!items || items.length === 0) return null;
 
   return (
-    <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
-      <div className="flex items-center justify-between mb-4">
-        <h2 className="text-xl md:text-2xl font-black text-white uppercase tracking-wider">
-          {title}
-        </h2>
-
-        <div className="flex items-center gap-3">
-          {onShuffle && (
-            <button
-              onClick={onShuffle}
-              className="bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-zinc-300 text-xs font-bold px-3 py-1.5 rounded-lg flex items-center gap-1.5 transition-all cursor-pointer"
-            >
-              <Shuffle className="w-3.5 h-3.5 text-red-500" /> Shuffle
-            </button>
+    <div className="my-8">
+      {/* Header with Title & Top-Right Navigation Arrows */}
+      <div className="flex items-center justify-between mb-3 px-1">
+        <div>
+          <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider">
+            {title}
+          </h2>
+          {subtitle && (
+            <p className="text-xs text-zinc-400 font-medium">{subtitle}</p>
           )}
+        </div>
 
-          <div className="hidden sm:flex items-center gap-1">
-            <button
-              onClick={() => handleScroll('left')}
-              className="p-1.5 rounded-lg bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-white transition-colors cursor-pointer"
-            >
-              <ChevronLeft className="w-4 h-4" />
-            </button>
-            <button
-              onClick={() => handleScroll('right')}
-              className="p-1.5 rounded-lg bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-white transition-colors cursor-pointer"
-            >
-              <ChevronRight className="w-4 h-4" />
-            </button>
-          </div>
+        {/* Top-Right Carousel Navigation Controls */}
+        <div className="flex items-center gap-1.5 flex-none">
+          <button
+            onClick={() => handleScroll('left')}
+            className="p-1.5 rounded-lg bg-zinc-900 hover:bg-red-600 border border-zinc-800 text-zinc-300 hover:text-white transition-colors cursor-pointer active:scale-95"
+            aria-label="Scroll Left"
+          >
+            <ChevronLeft className="w-4 h-4" />
+          </button>
+          <button
+            onClick={() => handleScroll('right')}
+            className="p-1.5 rounded-lg bg-zinc-900 hover:bg-red-600 border border-zinc-800 text-zinc-300 hover:text-white transition-colors cursor-pointer active:scale-95"
+            aria-label="Scroll Right"
+          >
+            <ChevronRight className="w-4 h-4" />
+          </button>
         </div>
       </div>
 
-      <div className="relative group">
-        <div
-          ref={rowRef}
-          className="flex items-gap gap-4 overflow-x-auto no-scrollbar scroll-smooth pb-4 pt-1"
-          style={{ scrollSnapType: 'x mandatory' }}
-        >
-          {items.map((item) => (
-            <div key={item.id} className="w-[160px] sm:w-[190px] md:w-[210px] flex-none" style={{ scrollSnapAlign: 'start' }}>
-              <MediaCard media={item} />
+      {/* 2-Card Mobile Layout Container */}
+      <div
+        ref={rowRef}
+        className="flex gap-3 overflow-x-auto snap-x snap-mandatory scrollbar-none py-2 px-1 scroll-smooth"
+        style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+      >
+        {items.map((item) => (
+          <Link
+            key={item.id}
+            href={`/media/${item.id}`}
+            className="group flex-none w-[calc(50%-6px)] sm:w-[200px] md:w-[220px] bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between snap-start"
+          >
+            <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
+              <Image
+                src={item.poster_url || '/placeholder.png'}
+                alt={item.title}
+                fill
+                sizes="(max-width: 640px) 45vw, 220px"
+                className="object-cover transition-transform duration-500 group-hover:scale-105"
+              />
+              {item.release_year > 0 && (
+                <span className="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-[10px] font-black text-white px-2 py-0.5 rounded border border-white/10">
+                  {item.release_year}
+                </span>
+              )}
             </div>
-          ))}
-        </div>
+
+            <div>
+              <h3 className="font-extrabold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1">
+                {item.title}
+              </h3>
+              {item.studio_label && (
+                <p className="text-[10px] text-zinc-400 font-medium truncate mt-0.5">
+                  {item.studio_label}
+                </p>
+              )}
+
+              {(item.total_views !== undefined || item.reaction_count !== undefined) && (
+                <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
+                  {item.total_views !== undefined && (
+                    <span className="flex items-center gap-1 text-amber-400">
+                      <Eye className="w-3 h-3" />
+                      {formatViews(item.total_views)}
+                    </span>
+                  )}
+                  {item.reaction_count !== undefined && (
+                    <span className="flex items-center gap-1 text-zinc-300">
+                      <Tv className="w-3 h-3 text-red-500" />
+                      {item.reaction_count}
+                    </span>
+                  )}
+                </div>
+              )}
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   );
