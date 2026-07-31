@@ -5,30 +5,26 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { loungeToken, command } = body;
 
-    if (!loungeToken || !command) {
-      return NextResponse.json({ error: 'Missing loungeToken or command payload' }, { status: 400 });
+    if (!loungeToken) {
+      return NextResponse.json({ error: 'No active TV pairing token found. Please pair your Shield Pro first.' }, { status: 400 });
     }
 
-    // Translate FinVIDIA LoungeCommand to YouTube Lounge Bind Protocol parameters
-    let reqAction = '';
     const params = new URLSearchParams();
     params.append('count', '1');
     params.append('ofs', '0');
 
     if (command.type === 'PLAY') {
-      reqAction = 'play';
+      params.append('req0__sc', 'play');
     } else if (command.type === 'PAUSE') {
-      reqAction = 'pause';
+      params.append('req0__sc', 'pause');
     } else if (command.type === 'SEEK') {
-      reqAction = 'seekTo';
+      params.append('req0__sc', 'seekTo');
       params.append('req0_newTime', command.seconds.toString());
     } else if (command.type === 'LOAD_VIDEO') {
-      reqAction = 'setPlaylist';
+      params.append('req0__sc', 'setPlaylist');
       params.append('req0_videoId', command.videoId);
       params.append('req0_currentTime', (command.startSeconds || 0).toString());
     }
-
-    params.append('req0__sc', reqAction);
 
     const bindUrl = `https://www.youtube.com/api/lounge/bc/bind?RID=1337&VER=8&CVER=1&loungeIdToken=${encodeURIComponent(loungeToken)}`;
 
@@ -38,9 +34,13 @@ export async function POST(request: Request) {
       body: params.toString(),
     });
 
+    if (!response.ok) {
+      return NextResponse.json({ error: 'YouTube TV API rejected command. Pairing session may have expired.' }, { status: 500 });
+    }
+
     return NextResponse.json({
-      success: response.ok,
-      actionSent: reqAction,
+      success: true,
+      videoId: command.videoId || null,
     });
   } catch (err: any) {
     return NextResponse.json({ error: err.message }, { status: 500 });

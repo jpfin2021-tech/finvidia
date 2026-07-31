@@ -7,7 +7,6 @@ export async function POST(request: Request) {
 
     let targetScreenId = screenId;
 
-    // If user typed a 12-digit code from youtube.com/tv or TV settings
     if (pairCode) {
       const cleanCode = pairCode.replace(/\s+/g, '');
       const pairingUrl = `https://www.youtube.com/api/lounge/pairing/get_screen?pairing_code=${cleanCode}`;
@@ -21,10 +20,9 @@ export async function POST(request: Request) {
     }
 
     if (!targetScreenId) {
-      return NextResponse.json({ error: 'Invalid or expired TV pairing code' }, { status: 400 });
+      return NextResponse.json({ error: 'Invalid or expired TV pairing code. Check YouTube Settings on your TV.' }, { status: 400 });
     }
 
-    // Exchange screenId for official Lounge Session Token
     const tokenUrl = 'https://www.youtube.com/api/lounge/pairing/get_lounge_token_batch';
     const tokenRes = await fetch(tokenUrl, {
       method: 'POST',

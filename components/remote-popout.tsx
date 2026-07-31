@@ -27,6 +27,11 @@ export default function RemotePopout() {
   const [isConnected, setIsConnected] = useState(false);
 
   useEffect(() => {
+    const savedToken = localStorage.getItem('finvidia_lounge_token');
+    if (savedToken) {
+      setIsConnected(true);
+    }
+
     const unsubscribe = loungeClient.subscribe((newState) => {
       setPlaybackState(newState);
     });
@@ -39,42 +44,58 @@ export default function RemotePopout() {
     e.preventDefault();
     if (!pairCodeInput.trim()) return;
 
-    const success = await loungeClient.connectToDevice(
-      {
-        id: 'shield-pro',
-        name: 'NVIDIA Shield Pro',
-        type: 'shield',
-        ipAddress: '',
-        screenId: '',
-        isOnline: true,
-      },
-      pairCodeInput.trim()
-    );
+    try {
+      const res = await fetch('/api/lounge/pair', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ pairCode: pairCodeInput.trim() }),
+      });
 
-    if (success) {
-      setIsConnected(true);
-      setShowPairModal(false);
-    } else {
-      alert('Could not pair with TV code. Please verify the 12-digit code in YouTube Settings on your Shield Pro.');
+      const data = await res.json();
+
+      if (data.success && data.loungeToken) {
+        localStorage.setItem('finvidia_lounge_token', data.loungeToken);
+        setIsConnected(true);
+        setShowPairModal(false);
+        alert('Successfully linked to NVIDIA Shield Pro!');
+      } else {
+        alert(data.error || 'Could not pair with TV code. Please check YouTube Settings on your Shield Pro.');
+      }
+    } catch (err) {
+      alert('Error connecting to YouTube pairing service.');
     }
   };
 
-  const handleTogglePlayPause = () => {
-    if (isPlaying) {
-      loungeClient.dispatchCommand({ type: 'PAUSE' });
-    } else {
-      loungeClient.dispatchCommand({ type: 'PLAY' });
+  const handleTogglePlayPause = async () => {
+    const token = localStorage.getItem('finvidia_lounge_token');
+    if (!token) {
+      setShowPairModal(true);
+      return;
     }
+
+    await fetch('/api/lounge/command', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        loungeToken: token,
+        command: { type: isPlaying ? 'PAUSE' : 'PLAY' },
+      }),
+    });
   };
 
-  const handleSeek = (secondsDelta: number) => {
+  const handleSeek = async (secondsDelta: number) => {
+    const token = localStorage.getItem('finvidia_lounge_token');
+    if (!token) return;
+
     const target = Math.max(0, playbackState.currentTimeSeconds + secondsDelta);
-    loungeClient.dispatchCommand({ type: 'SEEK', seconds: target });
-  };
-
-  const handleScrub = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const targetSeconds = parseFloat(e.target.value);
-    loungeClient.dispatchCommand({ type: 'SEEK', seconds: targetSeconds });
+    await fetch('/api/lounge/command', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        loungeToken: token,
+        command: { type: 'SEEK', seconds: target },
+      }),
+    });
   };
 
   return (
@@ -96,7 +117,7 @@ export default function RemotePopout() {
             </div>
 
             <p className="text-xs text-zinc-400 mb-4 leading-relaxed">
-              Open the regular <strong className="text-white">YouTube App</strong> on your Shield Pro, go to <strong className="text-white">Settings → Link with TV Code</strong>, and enter the 12-digit code below:
+              Open the standard <strong className="text-white">YouTube App</strong> on your Shield Pro, go to <strong className="text-white">Settings → Link with TV Code</strong>, and enter the 12-digit code below:
             </p>
 
             <form onSubmit={handleConnectPairCode} className="space-y-3">
@@ -119,7 +140,7 @@ export default function RemotePopout() {
         </div>
       )}
 
-      {/* Persistent Bottom Bar - Only Active When Connected or Tapped */}
+      {/* Persistent Bottom Bar */}
       <div className="fixed bottom-0 left-0 right-0 z-40 px-3 pb-3 pointer-events-none">
         <div className="max-w-xl mx-auto pointer-events-auto">
           {isConnected && isExpanded && (
@@ -139,45 +160,24 @@ export default function RemotePopout() {
                 </button>
               </div>
 
-              <div className="mb-5 text-center">
-                <p className="text-xs text-zinc-400 font-medium mb-3">
-                  {playbackState.videoId ? `Active Stream: ${playbackState.videoId}` : 'Connected to Shield Pro'}
-                </p>
-
-                <div className="space-y-1">
-                  <input
-                    type="range"
-                    min={0}
-                    max={playbackState.durationSeconds || 100}
-                    value={playbackState.currentTimeSeconds}
-                    onChange={handleScrub}
-                    className="w-full h-1.5 bg-zinc-800 rounded-lg appearance-none cursor-pointer accent-red-600"
-                  />
-                  <div className="flex justify-between text-[11px] font-mono text-zinc-500 font-bold px-0.5">
-                    <span>{formatSeconds(playbackState.currentTimeSeconds)}</span>
-                    <span>{formatSeconds(playbackState.durationSeconds)}</span>
-                  </div>
-                </div>
-              </div>
-
               <div className="flex items-center justify-center gap-6 my-2">
                 <button
                   onClick={() => handleSeek(-10)}
-                  className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform"
+                  className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform cursor-pointer"
                 >
                   <RotateCcw className="w-5 h-5" />
                 </button>
 
                 <button
                   onClick={handleTogglePlayPause}
-                  className="p-4 rounded-full bg-red-600 hover:bg-red-500 text-white shadow-xl shadow-red-950 active:scale-95 transition-transform"
+                  className="p-4 rounded-full bg-red-600 hover:bg-red-500 text-white shadow-xl shadow-red-950 active:scale-95 transition-transform cursor-pointer"
                 >
                   {isPlaying ? <Pause className="w-7 h-7 fill-current" /> : <Play className="w-7 h-7 fill-current ml-0.5" />}
                 </button>
 
                 <button
                   onClick={() => handleSeek(10)}
-                  className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform"
+                  className="p-3 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 active:scale-95 transition-transform cursor-pointer"
                 >
                   <RotateCw className="w-5 h-5" />
                 </button>
@@ -210,13 +210,13 @@ export default function RemotePopout() {
               <div className="flex items-center gap-2 flex-none">
                 <button
                   onClick={handleTogglePlayPause}
-                  className="p-2 rounded-full bg-red-600 text-white shadow-md active:scale-90 transition-transform"
+                  className="p-2 rounded-full bg-red-600 text-white shadow-md active:scale-90 transition-transform cursor-pointer"
                 >
                   {isPlaying ? <Pause className="w-4 h-4 fill-current" /> : <Play className="w-4 h-4 fill-current ml-0.5" />}
                 </button>
                 <button
                   onClick={() => setIsExpanded(!isExpanded)}
-                  className="p-2 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white"
+                  className="p-2 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white cursor-pointer"
                 >
                   <ChevronUp className={`w-4 h-4 transition-transform ${isExpanded ? 'rotate-180' : ''}`} />
                 </button>
@@ -224,7 +224,7 @@ export default function RemotePopout() {
             ) : (
               <button
                 onClick={() => setShowPairModal(true)}
-                className="bg-red-600 hover:bg-red-500 text-white text-[11px] font-extrabold px-3 py-1.5 rounded-lg flex-none transition-all"
+                className="bg-red-600 hover:bg-red-500 text-white text-[11px] font-extrabold px-3 py-1.5 rounded-lg flex-none transition-all cursor-pointer"
               >
                 Pair Shield
               </button>

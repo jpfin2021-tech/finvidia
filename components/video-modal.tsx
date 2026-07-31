@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Video } from '@/types/database';
-import { X, Calendar, User, Building, ExternalLink, Tv, CheckCircle2, Sparkles, Clock, Tv2 } from 'lucide-react';
+import { X, Calendar, User, Building, Tv, Sparkles, Clock, Tv2 } from 'lucide-react';
 
 interface VideoModalProps {
   video: Video | null;
@@ -43,23 +43,36 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
 
   const aiSummary = (video as any).ai_summary;
   const aiTimestamps: { time: string; seconds?: number; label: string }[] = (video as any).ai_timestamps || [];
-  const individualReactors: string[] = (video as any).individual_reactors || [];
 
   const iframeSrc = `https://www.youtube.com/embed/${video.yt_video_id}?autoplay=1&rel=0${seekSeconds > 0 ? `&start=${seekSeconds}` : ''}`;
 
   const handleCastToShield = async () => {
+    const token = localStorage.getItem('finvidia_lounge_token');
+
+    if (!token) {
+      alert('No Shield Pro paired! Tap "Pair Shield" at the bottom of the screen, open YouTube Settings on your TV, and enter the 12-digit code.');
+      return;
+    }
+
     try {
-      await fetch('/api/lounge/command', {
+      const res = await fetch('/api/lounge/command', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          loungeToken: localStorage.getItem('finvidia_lounge_token') || '',
+          loungeToken: token,
           command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: seekSeconds },
         }),
       });
-      alert(`Sent "${video.title}" to NVIDIA Shield Pro!`);
+
+      const data = await res.json();
+
+      if (data.success) {
+        alert(`Playing "${video.title}" on NVIDIA Shield Pro!`);
+      } else {
+        alert(data.error || 'Failed to send video to Shield Pro. Please re-pair your TV code.');
+      }
     } catch (err) {
-      alert('Make sure your Shield Pro is paired via the bottom "Pair Shield" button.');
+      alert('Error sending command to TV.');
     }
   };
 
@@ -69,7 +82,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
         className="relative w-full max-w-4xl bg-zinc-950 rounded-2xl border border-zinc-800 shadow-2xl overflow-hidden flex flex-col max-h-[90vh]"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Modal Top Bar */}
+        {/* Top Header */}
         <div className="flex items-center justify-between px-4 py-2.5 border-b border-zinc-800/80 bg-zinc-900/90 flex-none">
           <div className="flex items-center gap-2 min-w-0 pr-2">
             <Link
@@ -110,7 +123,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
           </button>
         </div>
 
-        {/* Player Box */}
+        {/* Video Player Box */}
         <div className="relative aspect-video w-full bg-black max-h-[45vh]">
           <iframe
             key={seekSeconds}
