@@ -7,7 +7,7 @@ import { createClient } from '@/lib/supabase/client';
 import VideoCard from '@/components/video-card';
 import VideoModal from '@/components/video-modal';
 import { Video } from '@/types/database';
-import { ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, CheckCircle2, ArrowUp, ArrowDown } from 'lucide-react';
+import { ExternalLink, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, CheckCircle2, ArrowUp, ArrowDown, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface CreatorDetails {
   id: string;
@@ -44,6 +44,10 @@ export default function CreatorHubPage() {
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
   const [reactionSort, setReactionSort] = useState<'views' | 'newest' | 'oldest'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
+
+  // Pagination State
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 12;
 
   useEffect(() => {
     async function loadCreatorHub() {
@@ -183,6 +187,12 @@ export default function CreatorHubPage() {
     return sortDirection === 'desc' ? res : -res;
   });
 
+  const totalPages = Math.ceil(sortedReactions.length / itemsPerPage) || 1;
+  const paginatedReactions = sortedReactions.slice(
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage
+  );
+
   const totalViewsCombined = videos.reduce((sum, v) => sum + (v.view_count || 0), 0);
   const avgViewsPerVideo = videos.length > 0 ? Math.round(totalViewsCombined / videos.length) : 0;
 
@@ -282,7 +292,7 @@ export default function CreatorHubPage() {
             <span>Sort Reactions:</span>
             <select
               value={reactionSort}
-              onChange={(e: any) => setReactionSort(e.target.value)}
+              onChange={(e: any) => { setReactionSort(e.target.value); setCurrentPage(1); }}
               className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
             >
               <option value="views">Most Views (Highest Popularity)</option>
@@ -293,7 +303,7 @@ export default function CreatorHubPage() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {sortedReactions.map((video) => (
+          {paginatedReactions.map((video) => (
             <VideoCard
               key={video.id}
               video={video}
@@ -301,6 +311,31 @@ export default function CreatorHubPage() {
             />
           ))}
         </div>
+
+        {/* Touch-Friendly Page Controls */}
+        {totalPages > 1 && (
+          <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
+            <button
+              disabled={currentPage === 1}
+              onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+            >
+              <ChevronLeft className="w-4 h-4" /> Previous
+            </button>
+
+            <span className="text-xs font-bold text-zinc-400">
+              Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
+            </span>
+
+            <button
+              disabled={currentPage === totalPages}
+              onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
+              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+            >
+              Next <ChevronRight className="w-4 h-4" />
+            </button>
+          </div>
+        )}
       </div>
 
       <VideoModal

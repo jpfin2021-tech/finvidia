@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown } from 'lucide-react';
+import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface ExtendedMediaItem {
   id: string;
@@ -20,6 +20,7 @@ interface ExtendedMediaItem {
   reaction_count?: number;
   avg_views_per_video?: number;
   directors?: { id: string; name: string; slug: string }[];
+  actors?: { id: string; name: string; slug: string }[];
   genres?: { id: string; name: string; slug: string }[];
 }
 
@@ -45,6 +46,10 @@ function BrowseContent() {
   const [filterMode, setFilterMode] = useState<'all' | 'multi'>('all');
   const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'year' | 'title'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
+
+  // Pagination State
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 18;
 
   useEffect(() => {
     async function loadDirectoryData() {
@@ -74,6 +79,9 @@ function BrowseContent() {
               videos (id, view_count),
               media_directors (
                 directors (id, name, slug)
+              ),
+              media_actors (
+                actors (id, name, slug)
               ),
               media_genres (
                 genres (id, name, slug)
@@ -108,6 +116,7 @@ function BrowseContent() {
             reaction_count: reactionCount,
             avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
             directors: m.media_directors?.map((md: any) => md.directors).filter(Boolean) || [],
+            actors: m.media_actors?.map((ma: any) => ma.actors).filter(Boolean) || [],
             genres: m.media_genres?.map((mg: any) => mg.genres).filter(Boolean) || [],
           };
         });
@@ -125,6 +134,7 @@ function BrowseContent() {
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    setCurrentPage(1);
     const params = new URLSearchParams();
     if (searchTerm.trim()) params.set('q', searchTerm.trim());
     if (selectedGenre) params.set('genre', selectedGenre);
@@ -132,6 +142,7 @@ function BrowseContent() {
   };
 
   const handleGenreSelect = (slug: string) => {
+    setCurrentPage(1);
     const newGenre = selectedGenre === slug ? '' : slug;
     setSelectedGenre(newGenre);
     const params = new URLSearchParams();
@@ -157,8 +168,9 @@ function BrowseContent() {
       const matchTitle = item.title.toLowerCase().includes(q);
       const matchYear = item.release_year.toString().includes(q);
       const matchDirector = item.directors?.some((d: { name: string }) => d.name.toLowerCase().includes(q));
+      const matchActor = item.actors?.some((a: { name: string }) => a.name.toLowerCase().includes(q));
       const matchStudio = item.studio_label?.toLowerCase().includes(q);
-      if (!matchTitle && !matchYear && !matchDirector && !matchStudio) return false;
+      if (!matchTitle && !matchYear && !matchDirector && !matchActor && !matchStudio) return false;
     }
 
     return true;
@@ -173,6 +185,13 @@ function BrowseContent() {
 
     return sortDirection === 'desc' ? res : -res;
   });
+
+  // Calculate Pagination Slices
+  const totalPages = Math.ceil(sortedItems.length / itemsPerPage) || 1;
+  const paginatedItems = sortedItems.slice(
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage
+  );
 
   if (loading) {
     return (
@@ -213,7 +232,7 @@ function BrowseContent() {
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div className="flex items-center gap-2 bg-zinc-900 border border-zinc-800 rounded-xl p-1">
               <button
-                onClick={() => setFilterMode('all')}
+                onClick={() => { setFilterMode('all'); setCurrentPage(1); }}
                 className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
                   filterMode === 'all' ? 'bg-red-600 text-white shadow-md' : 'text-zinc-400 hover:text-white'
                 }`}
@@ -221,7 +240,7 @@ function BrowseContent() {
                 All Films ({sortedItems.length})
               </button>
               <button
-                onClick={() => setFilterMode('multi')}
+                onClick={() => { setFilterMode('multi'); setCurrentPage(1); }}
                 className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
                   filterMode === 'multi' ? 'bg-red-600 text-white shadow-md' : 'text-zinc-400 hover:text-white'
                 }`}
@@ -230,7 +249,6 @@ function BrowseContent() {
               </button>
             </div>
 
-            {/* Instant Hotswap Sort Controls */}
             <div className="flex items-center gap-2 text-xs text-zinc-400">
               <button
                 onClick={toggleSortDirection}
@@ -244,7 +262,7 @@ function BrowseContent() {
               <span>Sort By:</span>
               <select
                 value={sortBy}
-                onChange={(e: any) => setSortBy(e.target.value)}
+                onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); }}
                 className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
               >
                 <option value="views">Total Reaction Views</option>
@@ -285,65 +303,92 @@ function BrowseContent() {
           <div className="py-20 text-center text-zinc-500">
             <p className="text-base font-bold text-zinc-400">No movies match your filter criteria.</p>
             <button
-              onClick={() => { setSearchQuery(''); setSelectedGenre(''); setFilterMode('all'); }}
+              onClick={() => { setSearchQuery(''); setSelectedGenre(''); setFilterMode('all'); setCurrentPage(1); }}
               className="mt-3 text-xs text-red-500 font-bold hover:underline"
             >
               Reset Filters
             </button>
           </div>
         ) : (
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-            {sortedItems.map((item) => (
-              <Link
-                key={item.id}
-                href={`/media/${item.id}`}
-                className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between"
-              >
-                <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
-                  <Image
-                    src={item.poster_url || '/placeholder.png'}
-                    alt={item.title}
-                    fill
-                    sizes="(max-width: 640px) 45vw, 220px"
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
-                  {item.release_year > 0 && (
-                    <span className="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-[10px] font-black text-white px-2 py-0.5 rounded border border-white/10">
-                      {item.release_year}
-                    </span>
-                  )}
-                </div>
+          <>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+              {paginatedItems.map((item) => (
+                <Link
+                  key={item.id}
+                  href={`/media/${item.id}`}
+                  className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between"
+                >
+                  <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
+                    <Image
+                      src={item.poster_url || '/placeholder.png'}
+                      alt={item.title}
+                      fill
+                      sizes="(max-width: 640px) 45vw, 220px"
+                      className="object-cover transition-transform duration-500 group-hover:scale-105"
+                    />
+                    {item.release_year > 0 && (
+                      <span className="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-[10px] font-black text-white px-2 py-0.5 rounded border border-white/10">
+                        {item.release_year}
+                      </span>
+                    )}
+                  </div>
 
-                <div>
-                  <h3 className="font-extrabold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1">
-                    {item.title}
-                  </h3>
-                  {item.studio_label && (
-                    <p className="text-[10px] text-zinc-400 font-medium truncate mt-0.5">
-                      {item.studio_label}
-                    </p>
-                  )}
+                  <div>
+                    <h3 className="font-extrabold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1">
+                      {item.title}
+                    </h3>
+                    {item.studio_label && (
+                      <p className="text-[10px] text-zinc-400 font-medium truncate mt-0.5">
+                        {item.studio_label}
+                      </p>
+                    )}
 
-                  {(item.total_views !== undefined || item.reaction_count !== undefined) && (
-                    <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
-                      {item.total_views !== undefined && (
-                        <span className="flex items-center gap-1 text-amber-400">
-                          <Eye className="w-3 h-3" />
-                          {formatViews(item.total_views)}
-                        </span>
-                      )}
-                      {item.reaction_count !== undefined && (
-                        <span className="flex items-center gap-1 text-zinc-300">
-                          <Tv className="w-3 h-3 text-red-500" />
-                          {item.reaction_count}
-                        </span>
-                      )}
-                    </div>
-                  )}
-                </div>
-              </Link>
-            ))}
-          </div>
+                    {(item.total_views !== undefined || item.reaction_count !== undefined) && (
+                      <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
+                        {item.total_views !== undefined && (
+                          <span className="flex items-center gap-1 text-amber-400">
+                            <Eye className="w-3 h-3" />
+                            {formatViews(item.total_views)}
+                          </span>
+                        )}
+                        {item.reaction_count !== undefined && (
+                          <span className="flex items-center gap-1 text-zinc-300">
+                            <Tv className="w-3 h-3 text-red-500" />
+                            {item.reaction_count}
+                          </span>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                </Link>
+              ))}
+            </div>
+
+            {/* Touch-Friendly Page Controls */}
+            {totalPages > 1 && (
+              <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
+                <button
+                  disabled={currentPage === 1}
+                  onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+                  className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+                >
+                  <ChevronLeft className="w-4 h-4" /> Previous
+                </button>
+
+                <span className="text-xs font-bold text-zinc-400">
+                  Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
+                </span>
+
+                <button
+                  disabled={currentPage === totalPages}
+                  onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
+                  className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+                >
+                  Next <ChevronRight className="w-4 h-4" />
+                </button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </div>

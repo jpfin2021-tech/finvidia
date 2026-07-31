@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Trophy, Eye, Tv, User, Calendar, Film } from 'lucide-react';
+import { RefreshCw, Trophy, Eye, Tv, User, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface LeaderboardItem {
   id: string;
@@ -28,6 +28,10 @@ function formatViews(views?: number): string {
 export default function LeaderboardPage() {
   const [items, setItems] = useState<LeaderboardItem[]>([]);
   const [loading, setLoading] = useState(true);
+
+  // Pagination State
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 15;
 
   useEffect(() => {
     async function loadLeaderboard() {
@@ -95,6 +99,12 @@ export default function LeaderboardPage() {
     loadLeaderboard();
   }, []);
 
+  const totalPages = Math.ceil(items.length / itemsPerPage) || 1;
+  const paginatedItems = items.slice(
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage
+  );
+
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
@@ -119,8 +129,8 @@ export default function LeaderboardPage() {
 
         {/* Leaderboard List */}
         <div className="space-y-3">
-          {items.map((item, index) => {
-            const rank = index + 1;
+          {paginatedItems.map((item, index) => {
+            const rank = (currentPage - 1) * itemsPerPage + index + 1;
             const isGold = rank === 1;
             const isSilver = rank === 2;
             const isBronze = rank === 3;
@@ -175,7 +185,7 @@ export default function LeaderboardPage() {
                     />
                   </div>
 
-                  {/* Title & Metadata (Wraps Cleanly) */}
+                  {/* Title & Metadata */}
                   <div className="flex-1 min-w-0 flex flex-col justify-between py-0.5">
                     <div>
                       <div className="flex flex-wrap items-center gap-2 mb-1">
@@ -217,6 +227,31 @@ export default function LeaderboardPage() {
             );
           })}
         </div>
+
+        {/* Touch-Friendly Page Controls */}
+        {totalPages > 1 && (
+          <div className="flex items-center justify-between border-t border-zinc-800/80 pt-6 mt-8">
+            <button
+              disabled={currentPage === 1}
+              onClick={() => setCurrentPage((prev) => Math.max(1, prev - 1))}
+              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+            >
+              <ChevronLeft className="w-4 h-4" /> Previous
+            </button>
+
+            <span className="text-xs font-bold text-zinc-400">
+              Page <strong className="text-white">{currentPage}</strong> of <strong className="text-white">{totalPages}</strong>
+            </span>
+
+            <button
+              disabled={currentPage === totalPages}
+              onClick={() => setCurrentPage((prev) => Math.min(totalPages, prev + 1))}
+              className="px-4 py-2 bg-zinc-900 border border-zinc-800 rounded-xl text-xs font-bold text-white disabled:opacity-30 disabled:cursor-not-allowed hover:border-red-600 transition-all flex items-center gap-1 cursor-pointer"
+            >
+              Next <ChevronRight className="w-4 h-4" />
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );
