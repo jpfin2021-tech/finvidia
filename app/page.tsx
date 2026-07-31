@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import HeroBanner from '@/components/hero-banner';
@@ -9,7 +9,7 @@ import FranchiseSection from '@/components/franchise-section';
 import VideoCard from '@/components/video-card';
 import VideoModal from '@/components/video-modal';
 import { Video } from '@/types/database';
-import { RefreshCw, Sparkles } from 'lucide-react';
+import { RefreshCw, Sparkles, ChevronLeft, ChevronRight } from 'lucide-react';
 
 export default function HomePage() {
   const [topRankedMovies, setTopRankedMovies] = useState<any[]>([]);
@@ -17,6 +17,18 @@ export default function HomePage() {
   const [shuffleReactions, setShuffleReactions] = useState<Video[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
+
+  const shuffleRowRef = useRef<HTMLDivElement>(null);
+
+  const handleShuffleScroll = (direction: 'left' | 'right') => {
+    if (shuffleRowRef.current) {
+      const scrollAmount = shuffleRowRef.current.clientWidth * 0.8;
+      shuffleRowRef.current.scrollBy({
+        left: direction === 'left' ? -scrollAmount : scrollAmount,
+        behavior: 'smooth',
+      });
+    }
+  };
 
   useEffect(() => {
     async function loadHomePageData() {
@@ -128,42 +140,59 @@ export default function HomePage() {
         {/* Franchises Section */}
         <FranchiseSection />
 
-        {/* Leaderboard Row */}
+        {/* Leaderboard Row (No descriptor subtitle) */}
         <CarouselRow
           title="Leaderboard"
-          subtitle="Top performing films ranked by aggregate creator viewership."
           items={topRankedMovies}
         />
 
-        {/* New Releases Row */}
+        {/* New Releases Row (No descriptor subtitle) */}
         <CarouselRow
           title="New Releases"
-          subtitle="Recently indexed titles and fresh creator commentary."
           items={newReleases}
         />
 
-        {/* Shuffle Grid */}
-        <div className="my-10">
-          <div className="flex items-center justify-between mb-4 border-b border-zinc-800 pb-3">
+        {/* Shuffle Row (2 Cards per view on mobile with arrows) */}
+        <div className="my-8">
+          <div className="flex items-center justify-between mb-3 px-1">
             <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-amber-400 fill-amber-400" />
               Shuffle
             </h2>
-            <Link
-              href="/browse"
-              className="text-xs text-red-400 hover:text-white font-bold"
-            >
-              Browse Full Catalog →
-            </Link>
+
+            <div className="flex items-center gap-1.5 flex-none">
+              <button
+                onClick={() => handleShuffleScroll('left')}
+                className="p-1.5 rounded-lg bg-zinc-900 hover:bg-red-600 border border-zinc-800 text-zinc-300 hover:text-white transition-colors cursor-pointer active:scale-95"
+                aria-label="Scroll Left"
+              >
+                <ChevronLeft className="w-4 h-4" />
+              </button>
+              <button
+                onClick={() => handleShuffleScroll('right')}
+                className="p-1.5 rounded-lg bg-zinc-900 hover:bg-red-600 border border-zinc-800 text-zinc-300 hover:text-white transition-colors cursor-pointer active:scale-95"
+                aria-label="Scroll Right"
+              >
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div
+            ref={shuffleRowRef}
+            className="flex gap-3 overflow-x-auto snap-x snap-mandatory scrollbar-none py-2 px-1 scroll-smooth"
+            style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+          >
             {shuffleReactions.map((video) => (
-              <VideoCard
+              <div
                 key={video.id}
-                video={video}
-                onSelect={setSelectedVideo}
-              />
+                className="flex-none w-[calc(50%-6px)] sm:w-[280px] md:w-[320px] snap-start"
+              >
+                <VideoCard
+                  video={video}
+                  onSelect={setSelectedVideo}
+                />
+              </div>
             ))}
           </div>
         </div>

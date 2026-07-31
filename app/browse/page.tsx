@@ -5,9 +5,8 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye } from 'lucide-react';
+import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown } from 'lucide-react';
 
-// Define the interface locally to prevent export errors
 interface ExtendedMediaItem {
   id: string;
   media_type: string;
@@ -45,6 +44,7 @@ function BrowseContent() {
   const [selectedGenre, setSelectedGenre] = useState(genreParam);
   const [filterMode, setFilterMode] = useState<'all' | 'multi'>('all');
   const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'year' | 'title'>('views');
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   useEffect(() => {
     async function loadDirectoryData() {
@@ -140,11 +140,14 @@ function BrowseContent() {
     router.push(`/browse?${params.toString()}`);
   };
 
+  const toggleSortDirection = () => {
+    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
+  };
+
   const filteredItems = mediaItems.filter((item) => {
     if (filterMode === 'multi' && (item.reaction_count || 0) < 2) return false;
 
     if (selectedGenre) {
-      // Explicitly type parameter 'g'
       const hasGenre = item.genres?.some((g: { slug: string }) => g.slug === selectedGenre);
       if (!hasGenre) return false;
     }
@@ -153,7 +156,6 @@ function BrowseContent() {
       const q = searchTerm.toLowerCase().trim();
       const matchTitle = item.title.toLowerCase().includes(q);
       const matchYear = item.release_year.toString().includes(q);
-      // Explicitly type parameter 'd'
       const matchDirector = item.directors?.some((d: { name: string }) => d.name.toLowerCase().includes(q));
       const matchStudio = item.studio_label?.toLowerCase().includes(q);
       if (!matchTitle && !matchYear && !matchDirector && !matchStudio) return false;
@@ -163,10 +165,13 @@ function BrowseContent() {
   });
 
   const sortedItems = [...filteredItems].sort((a, b) => {
-    if (sortBy === 'reactions') return (b.reaction_count || 0) - (a.reaction_count || 0);
-    if (sortBy === 'year') return b.release_year - a.release_year;
-    if (sortBy === 'title') return a.title.localeCompare(b.title);
-    return (b.total_views || 0) - (a.total_views || 0);
+    let res = 0;
+    if (sortBy === 'reactions') res = (b.reaction_count || 0) - (a.reaction_count || 0);
+    else if (sortBy === 'year') res = b.release_year - a.release_year;
+    else if (sortBy === 'title') res = a.title.localeCompare(b.title);
+    else res = (b.total_views || 0) - (a.total_views || 0);
+
+    return sortDirection === 'desc' ? res : -res;
   });
 
   if (loading) {
@@ -196,7 +201,7 @@ function BrowseContent() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
-              placeholder="Filter by title, director, actor..."
+              placeholder="Search title, director, actor, reactor..."
               value={searchTerm}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
@@ -225,7 +230,16 @@ function BrowseContent() {
               </button>
             </div>
 
+            {/* Instant Hotswap Sort Controls */}
             <div className="flex items-center gap-2 text-xs text-zinc-400">
+              <button
+                onClick={toggleSortDirection}
+                className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+                title={`Sort Order: ${sortDirection === 'desc' ? 'Descending' : 'Ascending'}`}
+              >
+                {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+              </button>
+
               <Filter className="w-4 h-4 text-red-500" />
               <span>Sort By:</span>
               <select
@@ -235,7 +249,7 @@ function BrowseContent() {
               >
                 <option value="views">Total Reaction Views</option>
                 <option value="reactions">Most Creator Reactions</option>
-                <option value="year">Release Year (Newest)</option>
+                <option value="year">Release Year</option>
                 <option value="title">Alphabetical (A-Z)</option>
               </select>
             </div>
@@ -279,7 +293,6 @@ function BrowseContent() {
           </div>
         ) : (
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-            {/* Standardized Inline Media Card */}
             {sortedItems.map((item) => (
               <Link
                 key={item.id}

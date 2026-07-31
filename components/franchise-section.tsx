@@ -2,6 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Clapperboard, ChevronRight } from 'lucide-react';
 
 interface Franchise {
@@ -59,12 +60,20 @@ export default function FranchiseSection() {
           <Link
             key={f.slug}
             href={`/franchise/${f.slug}`}
-            className="group relative h-28 rounded-xl overflow-hidden border border-zinc-800 hover:border-red-600/80 transition-all duration-300 p-4 flex flex-col justify-between shadow-lg bg-zinc-900"
+            className="group relative h-28 rounded-xl overflow-hidden border border-zinc-800 hover:border-red-600/80 transition-all duration-300 p-4 flex flex-col justify-between shadow-lg bg-zinc-950"
           >
+            {/* Backdrop Image */}
+            <Image
+              src={f.backdropUrl}
+              alt={f.name}
+              fill
+              sizes="(max-width: 640px) 100vw, 300px"
+              className="object-cover opacity-40 group-hover:scale-105 transition-transform duration-500"
+            />
             <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/70 to-transparent z-10" />
 
             <div className="relative z-20 flex items-center justify-between">
-              <span className="text-[10px] font-black uppercase tracking-wider bg-red-600 text-white px-2 py-0.5 rounded">
+              <span className="text-[10px] font-black uppercase tracking-wider bg-red-600 text-white px-2 py-0.5 rounded shadow">
                 Collection
               </span>
               <ChevronRight className="w-4 h-4 text-zinc-400 group-hover:text-red-500 group-hover:translate-x-1 transition-all" />
@@ -74,7 +83,7 @@ export default function FranchiseSection() {
               <h3 className="font-extrabold text-sm text-white group-hover:text-red-400 transition-colors line-clamp-1">
                 {f.name}
               </h3>
-              <p className="text-[11px] text-zinc-400 font-medium">
+              <p className="text-[11px] text-zinc-300 font-medium">
                 {f.itemCount} Movies • {f.viewCount} Views
               </p>
             </div>

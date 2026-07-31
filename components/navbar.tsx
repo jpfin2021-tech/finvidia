@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Search, Menu, X, Clapperboard, Users, Trophy, Sparkles, Tv, Tv2 } from 'lucide-react';
+import { Search, Menu, X, Clapperboard, Users, Trophy, Tv } from 'lucide-react';
 
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -39,16 +39,16 @@ export default function Navbar() {
             <Users className="w-3.5 h-3.5 text-red-500" /> Creators
           </Link>
           <Link href="/rankings" className="hover:text-red-500 transition-colors flex items-center gap-1">
-            <Trophy className="w-3.5 h-3.5 text-amber-400" /> Master Rankings
+            <Trophy className="w-3.5 h-3.5 text-amber-400" /> Leaderboard
           </Link>
         </nav>
 
         {/* Desktop Search Bar */}
-        <form onSubmit={handleSearch} className="hidden md:relative md:block w-72">
+        <form onSubmit={handleSearch} className="hidden md:relative md:block w-80">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
           <input
             type="text"
-            placeholder="Search director, actor, movie..."
+            placeholder="Search title, director, actor, reactor..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-full pl-9 pr-4 py-2 focus:outline-none focus:border-red-600"
@@ -79,7 +79,7 @@ export default function Navbar() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
-              placeholder="Search title, director, actor..."
+              placeholder="Search title, director, actor, reactor..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-zinc-900 border border-zinc-800 text-sm text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
@@ -121,14 +121,6 @@ export default function Navbar() {
             >
               <Trophy className="w-5 h-5 text-amber-400" /> Master Leaderboard
             </Link>
-          </div>
-
-          <div className="p-4 bg-zinc-900/80 rounded-xl border border-zinc-800/80 flex items-center gap-3">
-            <Tv2 className="w-6 h-6 text-red-500 flex-none" />
-            <div>
-              <p className="text-xs font-bold text-white">First-Screen TV Controller</p>
-              <p className="text-[11px] text-zinc-400">Ready to pair with NVIDIA Shield / Smart TV</p>
-            </div>
           </div>
         </div>
       )}
