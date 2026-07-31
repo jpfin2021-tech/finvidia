@@ -3,24 +3,25 @@ import { NextResponse } from 'next/server';
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { pairCode, screenId } = body;
+    const { pairCode } = body;
 
-    let targetScreenId = screenId;
-
-    if (pairCode) {
-      const cleanCode = pairCode.replace(/\s+/g, '');
-      const pairingUrl = `https://www.youtube.com/api/lounge/pairing/get_screen?pairing_code=${cleanCode}`;
-      
-      const pairRes = await fetch(pairingUrl, { method: 'POST' });
-      const pairData = await pairRes.json();
-
-      if (pairData.screen?.screenId) {
-        targetScreenId = pairData.screen.screenId;
-      }
+    if (!pairCode) {
+      return NextResponse.json({ error: 'Pairing code is required.' }, { status: 400 });
     }
 
+    const cleanCode = pairCode.replace(/\s+/g, '');
+    const pairingUrl = `https://www.youtube.com/api/lounge/pairing/get_screen?pairing_code=${cleanCode}`;
+    
+    const pairRes = await fetch(pairingUrl, { method: 'POST' });
+    const pairData = await pairRes.json();
+
+    const targetScreenId = pairData.screen?.screenId;
+
     if (!targetScreenId) {
-      return NextResponse.json({ error: 'Invalid or expired TV pairing code. Check YouTube Settings on your TV.' }, { status: 400 });
+      return NextResponse.json(
+        { error: 'Invalid or expired TV pairing code. Check YouTube Settings on your TV.' },
+        { status: 400 }
+      );
     }
 
     const tokenUrl = 'https://www.youtube.com/api/lounge/pairing/get_lounge_token_batch';
@@ -34,7 +35,10 @@ export async function POST(request: Request) {
     const loungeToken = tokenData.screens?.[0]?.loungeToken;
 
     if (!loungeToken) {
-      return NextResponse.json({ error: 'Failed to generate Lounge Token from target screen' }, { status: 500 });
+      return NextResponse.json(
+        { error: 'Failed to generate Lounge Token from target screen.' },
+        { status: 500 }
+      );
     }
 
     return NextResponse.json({
