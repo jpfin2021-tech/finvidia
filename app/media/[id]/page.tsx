@@ -161,34 +161,6 @@ export default function MediaHubPage() {
     setTotalRatings(newTotal);
   };
 
-  const handleVideoCardClick = async (video: Video) => {
-    const token = localStorage.getItem('finvidia_lounge_token');
-
-    if (token) {
-      window.dispatchEvent(
-        new CustomEvent('finvidia_cast_start', { detail: { title: video.title, videoId: video.yt_video_id } })
-      );
-
-      const res = await fetch('/api/lounge/command', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          loungeToken: token,
-          command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: 0 },
-        }),
-      });
-
-      const data = await res.json();
-      if (!data.success && res.status === 401) {
-        localStorage.removeItem('finvidia_lounge_token');
-        alert('Pairing code expired. Please re-enter a 12-digit code in YouTube Settings on your Shield Pro.');
-      }
-      return;
-    }
-
-    setSelectedVideo(video);
-  };
-
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
@@ -448,7 +420,7 @@ export default function MediaHubPage() {
             <div
               key={video.id}
               className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
-              onClick={() => handleVideoCardClick(video)}
+              onClick={() => setSelectedVideo(video)}
             >
               <div className="relative aspect-video w-full bg-black overflow-hidden">
                 <Image
@@ -489,7 +461,7 @@ export default function MediaHubPage() {
 
                 <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
                   <span className="text-white group-hover:text-red-400 font-semibold flex items-center gap-1 transition-colors">
-                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Play on TV
+                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
                   </span>
 
                   <a
@@ -499,7 +471,7 @@ export default function MediaHubPage() {
                     onClick={(e) => e.stopPropagation()}
                     className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
                   >
-                    <span>YouTube</span>
+                    <span>YouTube App</span>
                     <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>

@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Video } from '@/types/database';
-import { X, Calendar, User, Building, Tv, Sparkles, Clock, Tv2 } from 'lucide-react';
+import { X, Calendar, User, Building, ExternalLink, Sparkles, Clock, Tv } from 'lucide-react';
 
 interface VideoModalProps {
   video: Video | null;
@@ -45,36 +45,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
   const aiTimestamps: { time: string; seconds?: number; label: string }[] = (video as any).ai_timestamps || [];
 
   const iframeSrc = `https://www.youtube.com/embed/${video.yt_video_id}?autoplay=1&rel=0${seekSeconds > 0 ? `&start=${seekSeconds}` : ''}`;
-
-  const handleCastToShield = async () => {
-    const token = localStorage.getItem('finvidia_lounge_token');
-
-    if (!token) {
-      alert('No Shield Pro paired! Tap "Pair Shield" at the bottom of the screen, open YouTube Settings on your TV, and enter the 12-digit code.');
-      return;
-    }
-
-    try {
-      const res = await fetch('/api/lounge/command', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          loungeToken: token,
-          command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: seekSeconds },
-        }),
-      });
-
-      const data = await res.json();
-
-      if (data.success) {
-        alert(`Playing "${video.title}" on NVIDIA Shield Pro!`);
-      } else {
-        alert(data.error || 'Failed to send video to Shield Pro. Please re-pair your TV code.');
-      }
-    } catch (err) {
-      alert('Error sending command to TV.');
-    }
-  };
+  const nativeAppUrl = `https://www.youtube.com/watch?v=${video.yt_video_id}${seekSeconds > 0 ? `&t=${seekSeconds}s` : ''}`;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 backdrop-blur-md p-2 sm:p-4 animate-in fade-in duration-200">
@@ -135,21 +106,24 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
           />
         </div>
 
-        {/* Action Controls & AI Details */}
+        {/* Action Controls & Metadata */}
         <div className="p-3 sm:p-4 bg-zinc-900 border-t border-zinc-800 flex-1 overflow-y-auto">
-          {/* First Screen Handoff Action Bar */}
+          {/* Deep Link to Native YouTube App */}
           <div className="flex items-center justify-between bg-zinc-950 border border-zinc-800 p-2.5 rounded-xl mb-3">
             <div className="flex items-center gap-2">
-              <Tv2 className="w-4 h-4 text-red-500" />
-              <span className="text-xs font-bold text-white">First-Screen Playback</span>
+              <Tv className="w-4 h-4 text-red-500" />
+              <span className="text-xs font-bold text-white">First-Screen Handoff</span>
             </div>
 
-            <button
-              onClick={handleCastToShield}
-              className="bg-red-600 hover:bg-red-500 text-white text-xs font-black px-3 py-1.5 rounded-lg flex items-center gap-1.5 transition-all cursor-pointer shadow-md"
+            <a
+              href={nativeAppUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-red-600 hover:bg-red-500 text-white text-xs font-black px-3.5 py-2 rounded-lg flex items-center gap-1.5 transition-all cursor-pointer shadow-md"
             >
-              <Tv className="w-3.5 h-3.5" /> Send to Shield Pro
-            </button>
+              <span>Open YouTube App (Cast)</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
           </div>
 
           {/* AI Summary Banner */}
@@ -163,7 +137,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
             </div>
           )}
 
-          {/* Interactive Chapter Markers (TOC) */}
+          {/* Chapter Markers */}
           {aiTimestamps.length > 0 && (
             <div className="mb-3">
               <p className="text-[10px] font-black uppercase text-zinc-400 tracking-wider mb-1.5 flex items-center gap-1">

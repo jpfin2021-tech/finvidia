@@ -2,7 +2,6 @@
 
 import React from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import { Video } from '@/types/database';
 import { Play, Eye, ExternalLink } from 'lucide-react';
 
@@ -19,30 +18,7 @@ function formatViews(views?: number): string {
 }
 
 export default function VideoCard({ video, onSelect }: VideoCardProps) {
-  const handleClick = async (e: React.MouseEvent) => {
-    const token = localStorage.getItem('finvidia_lounge_token');
-    const screenId = localStorage.getItem('finvidia_screen_id');
-
-    // IF LINKED TO TV: Send video directly to Shield Pro without opening phone embed
-    if (token || screenId) {
-      e.preventDefault();
-      
-      window.dispatchEvent(
-        new CustomEvent('finvidia_cast_start', { detail: { title: video.title, videoId: video.yt_video_id } })
-      );
-
-      await fetch('/api/lounge/command', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          loungeToken: token,
-          screenId: screenId,
-          command: { type: 'LOAD_VIDEO', videoId: video.yt_video_id, startSeconds: 0 },
-        }),
-      });
-      return;
-    }
-
+  const handleCardClick = () => {
     if (onSelect) {
       onSelect(video);
     }
@@ -52,7 +28,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
     <div className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between">
       <div 
         className="relative aspect-video w-full bg-black cursor-pointer overflow-hidden"
-        onClick={handleClick}
+        onClick={handleCardClick}
       >
         <Image
           src={video.thumbnail_url}
@@ -92,10 +68,10 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
 
         <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
           <button
-            onClick={handleClick}
+            onClick={handleCardClick}
             className="text-white hover:text-red-400 font-semibold flex items-center gap-1 transition-colors cursor-pointer"
           >
-            <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Play on TV
+            <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
           </button>
 
           <a
@@ -104,7 +80,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
           >
-            <span>YouTube</span>
+            <span>YouTube App</span>
             <ExternalLink className="w-3 h-3" />
           </a>
         </div>
