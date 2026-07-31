@@ -13,10 +13,10 @@ interface FranchiseDef {
 }
 
 const FRANCHISE_DEFS: FranchiseDef[] = [
-  { slug: 'star-wars', name: 'Star Wars Saga', keywords: ['Star Wars'] },
-  { slug: 'lord-of-the-rings', name: 'The Lord of the Rings Franchise', keywords: ['Lord of the Rings', 'Fellowship of the Ring', 'Two Towers', 'Return of the King'] },
   { slug: 'mcu', name: 'Marvel Cinematic Universe', keywords: ['Avengers', 'Iron Man', 'Thor', 'Captain America', 'Spider-Man', 'Endgame'] },
+  { slug: 'lord-of-the-rings', name: 'The Lord of the Rings Franchise', keywords: ['Lord of the Rings', 'Fellowship of the Ring', 'Two Towers', 'Return of the King'] },
   { slug: 'john-wick', name: 'John Wick Franchise', keywords: ['John Wick'] },
+  { slug: 'star-wars', name: 'Star Wars Saga', keywords: ['Star Wars'] },
 ];
 
 function formatViews(views?: number): string {
@@ -77,6 +77,9 @@ export default function FranchiseSection() {
             posters: matchedMovies.map((m) => m.poster_url).filter(Boolean).slice(0, 4),
           };
         });
+
+        // Explicitly sort descending by Total Views
+        cards.sort((a, b) => b.totalViews - a.totalViews);
 
         setFranchiseCards(cards);
       } catch (err) {

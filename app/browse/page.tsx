@@ -44,7 +44,7 @@ function BrowseContent() {
   const [searchTerm, setSearchQuery] = useState(queryParam);
   const [selectedGenre, setSelectedGenre] = useState(genreParam);
   const [filterMode, setFilterMode] = useState<'all' | 'multi'>('all');
-  const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'year' | 'title'>('views');
+  const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'year' | 'title'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   // Pagination State
@@ -178,7 +178,8 @@ function BrowseContent() {
 
   const sortedItems = [...filteredItems].sort((a, b) => {
     let res = 0;
-    if (sortBy === 'reactions') res = (b.reaction_count || 0) - (a.reaction_count || 0);
+    if (sortBy === 'avg_views') res = (b.avg_views_per_video || 0) - (a.avg_views_per_video || 0);
+    else if (sortBy === 'reactions') res = (b.reaction_count || 0) - (a.reaction_count || 0);
     else if (sortBy === 'year') res = b.release_year - a.release_year;
     else if (sortBy === 'title') res = a.title.localeCompare(b.title);
     else res = (b.total_views || 0) - (a.total_views || 0);
@@ -186,7 +187,6 @@ function BrowseContent() {
     return sortDirection === 'desc' ? res : -res;
   });
 
-  // Calculate Pagination Slices
   const totalPages = Math.ceil(sortedItems.length / itemsPerPage) || 1;
   const paginatedItems = sortedItems.slice(
     (currentPage - 1) * itemsPerPage,
@@ -266,6 +266,7 @@ function BrowseContent() {
                 className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
               >
                 <option value="views">Total Reaction Views</option>
+                <option value="avg_views">Views Per Reaction</option>
                 <option value="reactions">Most Creator Reactions</option>
                 <option value="year">Release Year</option>
                 <option value="title">Alphabetical (A-Z)</option>
@@ -348,7 +349,7 @@ function BrowseContent() {
                         {item.total_views !== undefined && (
                           <span className="flex items-center gap-1 text-amber-400">
                             <Eye className="w-3 h-3" />
-                            {formatViews(item.total_views)}
+                            {formatViews(sortBy === 'avg_views' ? item.avg_views_per_video : item.total_views)}
                           </span>
                         )}
                         {item.reaction_count !== undefined && (

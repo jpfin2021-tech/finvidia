@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Users, Tv, Eye, Sparkles, ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
+import { RefreshCw, Search, Users, Tv, Eye, ChevronLeft, ChevronRight, Filter, ArrowUp, ArrowDown } from 'lucide-react';
 
 interface CreatorItem {
   id: string;
@@ -35,6 +35,8 @@ export default function CreatorDirectoryPage() {
   const [creators, setCreators] = useState<CreatorItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchQuery] = useState('');
+  const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'name'>('views');
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   // Pagination State
   const [currentPage, setCurrentPage] = useState(1);
@@ -89,8 +91,7 @@ export default function CreatorDirectoryPage() {
           };
         });
 
-        const sorted = formatted.sort((a, b) => b.total_views - a.total_views);
-        setCreators(sorted);
+        setCreators(formatted);
       } catch (err) {
         console.error('Error loading creator directory:', err);
       } finally {
@@ -101,14 +102,27 @@ export default function CreatorDirectoryPage() {
     loadCreators();
   }, []);
 
+  const toggleSortDirection = () => {
+    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
+  };
+
   const filteredCreators = creators.filter((c) => {
     if (!searchTerm.trim()) return true;
     const q = searchTerm.toLowerCase().trim();
     return c.name.toLowerCase().includes(q) || c.handle.toLowerCase().includes(q);
   });
 
-  const totalPages = Math.ceil(filteredCreators.length / itemsPerPage) || 1;
-  const paginatedCreators = filteredCreators.slice(
+  const sortedCreators = [...filteredCreators].sort((a, b) => {
+    let res = 0;
+    if (sortBy === 'reactions') res = b.video_count - a.video_count;
+    else if (sortBy === 'name') res = a.name.localeCompare(b.name);
+    else res = b.total_views - a.total_views;
+
+    return sortDirection === 'desc' ? res : -res;
+  });
+
+  const totalPages = Math.ceil(sortedCreators.length / itemsPerPage) || 1;
+  const paginatedCreators = sortedCreators.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage
   );
@@ -125,17 +139,18 @@ export default function CreatorDirectoryPage() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-zinc-800 pb-6 mb-6">
-          <div>
-            <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
-              <Users className="w-8 h-8 text-red-600" />
-              Creator Directory ({filteredCreators.length})
-            </h1>
-            <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-              Explore indexed movie reaction channels, video archives, and channel analytics.
-            </p>
-          </div>
+        <div className="border-b border-zinc-800 pb-6 mb-6">
+          <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
+            <Users className="w-8 h-8 text-red-600" />
+            Creator Directory ({filteredCreators.length})
+          </h1>
+          <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
+            Explore indexed movie reaction channels, video archives, and channel analytics.
+          </p>
+        </div>
 
+        {/* Filter and Sort Bar */}
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
           <div className="relative w-full md:w-80">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
@@ -145,6 +160,28 @@ export default function CreatorDirectoryPage() {
               onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
             />
+          </div>
+
+          <div className="flex items-center gap-2 text-xs text-zinc-400">
+            <button
+              onClick={toggleSortDirection}
+              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+              title={`Sort Order: ${sortDirection === 'desc' ? 'Descending' : 'Ascending'}`}
+            >
+              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+            </button>
+
+            <Filter className="w-4 h-4 text-red-500" />
+            <span>Sort By:</span>
+            <select
+              value={sortBy}
+              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); }}
+              className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
+            >
+              <option value="views">Total Reaction Views</option>
+              <option value="reactions">Most Reactions</option>
+              <option value="name">Channel Name (A-Z)</option>
+            </select>
           </div>
         </div>
 

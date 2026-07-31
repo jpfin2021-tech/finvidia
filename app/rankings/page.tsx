@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Trophy, Eye, Tv, User, ChevronLeft, ChevronRight } from 'lucide-react';
+import { RefreshCw, Trophy, Eye, Tv, User, ChevronLeft, ChevronRight, Filter, ArrowUp, ArrowDown } from 'lucide-react';
 
 interface LeaderboardItem {
   id: string;
@@ -28,6 +28,8 @@ function formatViews(views?: number): string {
 export default function LeaderboardPage() {
   const [items, setItems] = useState<LeaderboardItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'year' | 'title'>('views');
+  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   // Pagination State
   const [currentPage, setCurrentPage] = useState(1);
@@ -87,8 +89,7 @@ export default function LeaderboardPage() {
           };
         });
 
-        const sorted = formatted.sort((a, b) => b.total_views - a.total_views);
-        setItems(sorted);
+        setItems(formatted);
       } catch (err) {
         console.error('Error loading leaderboard:', err);
       } finally {
@@ -99,8 +100,23 @@ export default function LeaderboardPage() {
     loadLeaderboard();
   }, []);
 
-  const totalPages = Math.ceil(items.length / itemsPerPage) || 1;
-  const paginatedItems = items.slice(
+  const toggleSortDirection = () => {
+    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
+  };
+
+  const sortedItems = [...items].sort((a, b) => {
+    let res = 0;
+    if (sortBy === 'avg_views') res = b.avg_views_per_video - a.avg_views_per_video;
+    else if (sortBy === 'reactions') res = b.reaction_count - a.reaction_count;
+    else if (sortBy === 'year') res = b.release_year - a.release_year;
+    else if (sortBy === 'title') res = a.title.localeCompare(b.title);
+    else res = b.total_views - a.total_views;
+
+    return sortDirection === 'desc' ? res : -res;
+  });
+
+  const totalPages = Math.ceil(sortedItems.length / itemsPerPage) || 1;
+  const paginatedItems = sortedItems.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage
   );
@@ -117,14 +133,41 @@ export default function LeaderboardPage() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-4 md:px-12 max-w-5xl mx-auto my-6">
-        <div className="border-b border-zinc-800 pb-6 mb-6">
-          <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
-            <Trophy className="w-8 h-8 text-amber-400 fill-amber-400" />
-            Master Leaderboard
-          </h1>
-          <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-            Top performing films ranked by total aggregate creator reaction viewership.
-          </p>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-zinc-800 pb-6 mb-6">
+          <div>
+            <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
+              <Trophy className="w-8 h-8 text-amber-400 fill-amber-400" />
+              Master Leaderboard
+            </h1>
+            <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
+              Top performing films ranked by aggregate creator reaction viewership.
+            </p>
+          </div>
+
+          {/* Sort & Filter Options */}
+          <div className="flex items-center gap-2 text-xs text-zinc-400">
+            <button
+              onClick={toggleSortDirection}
+              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+              title={`Sort Order: ${sortDirection === 'desc' ? 'Descending' : 'Ascending'}`}
+            >
+              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+            </button>
+
+            <Filter className="w-4 h-4 text-red-500" />
+            <span>Sort By:</span>
+            <select
+              value={sortBy}
+              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); }}
+              className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
+            >
+              <option value="views">Total Reaction Views</option>
+              <option value="avg_views">Views Per Reaction</option>
+              <option value="reactions">Most Creator Reactions</option>
+              <option value="year">Release Year</option>
+              <option value="title">Alphabetical (A-Z)</option>
+            </select>
+          </div>
         </div>
 
         {/* Leaderboard List */}
@@ -205,20 +248,17 @@ export default function LeaderboardPage() {
                       </p>
                     </div>
 
-                    {/* Stats Bar */}
-                    <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-[11px] font-bold pt-2 mt-1 border-t border-zinc-800/80">
+                    {/* Uniform Stats Bar */}
+                    <div className="flex items-center justify-between text-[11px] font-bold pt-2 mt-1 border-t border-zinc-800/80">
                       <span className="text-amber-400 flex items-center gap-1">
                         <Eye className="w-3.5 h-3.5" />
-                        {formatViews(item.total_views)} Total
+                        {formatViews(sortBy === 'avg_views' ? item.avg_views_per_video : item.total_views)}
+                        {sortBy === 'avg_views' ? ' Avg Views' : ' Total Views'}
                       </span>
 
                       <span className="text-zinc-300 flex items-center gap-1">
                         <Tv className="w-3.5 h-3.5 text-red-500" />
                         {item.reaction_count} Reactions
-                      </span>
-
-                      <span className="text-zinc-400 font-mono text-[10px]">
-                        ({formatViews(item.avg_views_per_video)}/ea)
                       </span>
                     </div>
                   </div>
