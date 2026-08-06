@@ -6,9 +6,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import VideoModal from '@/components/video-modal';
+import VideoCard from '@/components/video-card';
 import { MediaItem, Video } from '@/types/database';
 import { buildAmazonPrimeVideoLink, buildAmazonPhysicalBlurayLink, buildJustWatchLink } from '@/lib/affiliate';
-import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users, ShoppingBag, Film, Disc } from 'lucide-react';
+import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users, ShoppingBag, Film, Disc} from 'lucide-react';
 
 export function formatViewCount(views?: number): string {
   if (!views || views === 0) return '0 Views';
@@ -45,9 +46,10 @@ export default function MediaHubPage() {
     async function loadMediaHub() {
       if (!mediaId) return;
       setLoading(true);
+
       try {
         const supabase = createClient();
-
+        
         const { data: mediaData, error: mediaError } = await supabase
           .from('media_items')
           .select(`
@@ -91,7 +93,7 @@ export default function MediaHubPage() {
           actors: (mediaData as any).media_actors?.map((ma: any) => ma.actors).filter(Boolean) || [],
           genres: (mediaData as any).media_genres?.map((mg: any) => mg.genres).filter(Boolean) || [],
         };
-
+        
         setMedia(formattedMedia);
 
         const { data: videoData } = await supabase
@@ -140,7 +142,6 @@ export default function MediaHubPage() {
               media_item: formattedMedia
             } as any;
           });
-
           setVideos(formattedVideos);
         }
       } catch (err) {
@@ -191,13 +192,13 @@ export default function MediaHubPage() {
   });
 
   const totalViewsCombined = reactions.reduce((sum, v) => sum + (v.view_count || 0), 0);
-
   const amazonPrimeUrl = buildAmazonPrimeVideoLink(media.title, media.release_year);
   const amazonPhysicalUrl = buildAmazonPhysicalBlurayLink(media.title);
   const justWatchUrl = buildJustWatchLink(media.title);
 
   return (
     <div className="pt-16 pb-20 min-h-screen bg-[#09090b]">
+      {/* Back Navigation */}
       <div className="px-6 md:px-12 pt-6">
         <button
           onClick={() => router.back()}
@@ -207,6 +208,7 @@ export default function MediaHubPage() {
         </button>
       </div>
 
+      {/* Hero Header */}
       <div className="relative w-full min-h-[460px] bg-zinc-950 overflow-hidden my-4 border-b border-zinc-800 pb-8">
         <div className="absolute inset-0">
           <Image
@@ -292,9 +294,7 @@ export default function MediaHubPage() {
                 </span>
                 <span className="text-[11px] text-zinc-500">/ 5.0</span>
               </div>
-
               <div className="border-l border-zinc-700 h-4" />
-
               <div className="flex items-center gap-1">
                 {[1, 2, 3, 4, 5].map((star) => (
                   <button
@@ -315,7 +315,6 @@ export default function MediaHubPage() {
                   </button>
                 ))}
               </div>
-
               <span className="text-[10px] text-zinc-400 font-semibold">
                 {userRating > 0 ? 'Your Score Saved!' : totalRatings > 0 ? `(${totalRatings} votes)` : '(No votes yet)'}
               </span>
@@ -359,7 +358,6 @@ export default function MediaHubPage() {
                   <span>Prime Video Digital</span>
                   <ExternalLink className="w-3 h-3 text-black/70" />
                 </a>
-
                 <a
                   href={amazonPhysicalUrl}
                   target="_blank"
@@ -370,7 +368,6 @@ export default function MediaHubPage() {
                   <span>4K Disc / Blu-ray</span>
                   <ExternalLink className="w-3 h-3 text-zinc-400" />
                 </a>
-
                 <a
                   href={justWatchUrl}
                   target="_blank"
@@ -386,6 +383,7 @@ export default function MediaHubPage() {
         </div>
       </div>
 
+      {/* Reactions Feed */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto mt-10">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-6 gap-4">
           <div className="flex items-center gap-3">
@@ -400,7 +398,6 @@ export default function MediaHubPage() {
               )}
             </h2>
           </div>
-
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <span>Sort Reactions:</span>
             <select
@@ -417,66 +414,11 @@ export default function MediaHubPage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {sortedReactions.map((video) => (
-            <div
+            <VideoCard
               key={video.id}
-              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
-              onClick={() => setSelectedVideo(video)}
-            >
-              <div className="relative aspect-video w-full bg-black overflow-hidden">
-                <Image
-                  src={video.thumbnail_url}
-                  alt={video.title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                />
-                
-                <div className="absolute top-2.5 right-2.5 bg-black/85 backdrop-blur-md text-[11px] font-extrabold text-white px-2.5 py-1 rounded-md border border-white/10 shadow-lg flex items-center gap-1.5">
-                  <Eye className="w-3.5 h-3.5 text-red-500" />
-                  {formatViewCount(video.view_count)}
-                </div>
-
-                <div className="absolute inset-0 bg-black/40 group-hover:bg-black/10 transition-colors flex items-center justify-center">
-                  <div className="w-12 h-12 rounded-full bg-red-600 text-white flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                    <Play className="w-6 h-6 fill-current ml-0.5" />
-                  </div>
-                </div>
-              </div>
-
-              <div className="p-4 flex flex-col justify-between flex-1 gap-3">
-                <div>
-                  <div className="flex items-center justify-between gap-2 mb-2">
-                    <span className="text-[11px] font-bold text-red-400 bg-red-950/60 border border-red-900/40 px-2.5 py-0.5 rounded truncate max-w-[150px]">
-                      {(video as any).channel_name || 'Creator'}
-                    </span>
-                    <span className="text-[11px] text-zinc-400 font-medium">
-                      {new Date(video.published_at).toLocaleDateString()}
-                    </span>
-                  </div>
-
-                  <h3 className="font-bold text-sm text-white line-clamp-2 leading-snug group-hover:text-red-400 transition-colors">
-                    {video.title}
-                  </h3>
-                </div>
-
-                <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs">
-                  <span className="text-white group-hover:text-red-400 font-semibold flex items-center gap-1 transition-colors">
-                    <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
-                  </span>
-
-                  <a
-                    href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    onClick={(e) => e.stopPropagation()}
-                    className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
-                  >
-                    <span>YouTube App</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
+              video={video}
+              onSelect={setSelectedVideo}
+            />
           ))}
         </div>
       </div>
