@@ -41,7 +41,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
       className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
       onClick={handleCardClick}
     >
-      {/* Thumbnail Box */}
+      {/* 1. THUMBNAIL CONTAINER */}
       <div className="relative aspect-video w-full bg-black overflow-hidden">
         <Image
           src={video.thumbnail_url}
@@ -61,58 +61,63 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
         </div>
       </div>
 
-      {/* Card Body */}
+      {/* 2. CARD BODY */}
       <div className="p-4 flex flex-col justify-between flex-1 gap-3">
         <div>
-          {/* Standardized Pill Boxes */}
-          <div className="flex flex-wrap items-center gap-2 mb-2 z-10">
+          {/* TOP SECTION: ONLY CREATOR PILLBOX */}
+          <div className="flex items-center gap-2 mb-2 z-10">
             <Link
               href={`/creators/${creatorSlug}`}
               onClick={(e) => e.stopPropagation()}
               className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-medium text-zinc-300 bg-zinc-900/90 border border-zinc-800 rounded-md hover:bg-zinc-800 hover:text-white hover:border-zinc-700 transition-all cursor-pointer"
             >
               <User className="w-3.5 h-3.5 text-red-500 flex-none" />
-              <span className="truncate max-w-[120px]">{creatorName}</span>
+              <span className="truncate max-w-[200px]">{creatorName}</span>
             </Link>
-
-            {mediaItem && (
-              <Link
-                href={`/media/${mediaItem.id}`}
-                onClick={(e) => e.stopPropagation()}
-                className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold text-red-400 bg-red-950/40 border border-red-800/50 rounded-md hover:bg-red-600 hover:text-white hover:border-red-500 transition-all cursor-pointer group/movie"
-              >
-                <Film className="w-3.5 h-3.5 text-red-400 group-hover/movie:text-white transition-colors flex-none" />
-                <span className="truncate max-w-[140px]">
-                  {mediaItem.title} {mediaItem.release_year ? `(${mediaItem.release_year})` : ''}
-                </span>
-              </Link>
-            )}
           </div>
           
+          {/* YOUTUBE VIDEO TITLE */}
           <h3 className="font-bold text-sm text-white line-clamp-2 leading-snug group-hover:text-red-400 transition-colors">
             {video.title}
           </h3>
-          
-          <div className="text-[10px] text-zinc-500 font-medium mt-1.5">
-            Uploaded {new Date(video.published_at).toLocaleDateString()}
-          </div>
         </div>
 
-        {/* Bottom Action Bar */}
-        <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs z-10">
-          <span className="text-white group-hover:text-red-400 font-semibold flex items-center gap-1 transition-colors">
-            <Play className="w-3.5 h-3.5 fill-current text-red-600" /> Watch Reaction
-          </span>
-          <a
-            href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={(e) => e.stopPropagation()}
-            className="text-zinc-400 hover:text-red-500 flex items-center gap-1 transition-colors text-[11px]"
-          >
-            <span>YouTube App</span>
-            <ExternalLink className="w-3 h-3" />
-          </a>
+        {/* BOTTOM SECTION: MOVIE PILL (LEFT) + UPLOAD DATE / YT APP LINK (RIGHT) */}
+        <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs z-10 gap-2">
+          {/* Bottom Left: Movie (Year) Pill */}
+          <div className="min-w-0 flex-1">
+            {mediaItem ? (
+              <Link
+                href={`/media/${mediaItem.id}`}
+                onClick={(e) => e.stopPropagation()}
+                className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold text-red-400 bg-red-950/40 border border-red-800/50 rounded-md hover:bg-red-600 hover:text-white hover:border-red-500 transition-all cursor-pointer group/movie max-w-full"
+              >
+                <Film className="w-3.5 h-3.5 text-red-400 group-hover/movie:text-white transition-colors flex-none" />
+                <span className="truncate">
+                  {mediaItem.title} {mediaItem.release_year ? `(${mediaItem.release_year})` : ''}
+                </span>
+              </Link>
+            ) : (
+              <span className="text-zinc-600 text-[11px] font-medium italic">Unlinked</span>
+            )}
+          </div>
+
+          {/* Bottom Right: Upload Date & External App Link */}
+          <div className="flex items-center gap-1.5 flex-none text-[11px] text-zinc-400 font-medium">
+            <span className="whitespace-nowrap">
+              {new Date(video.published_at).toLocaleDateString()}
+            </span>
+            <a
+              href={`https://www.youtube.com/watch?v=${video.yt_video_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+              className="text-zinc-400 hover:text-red-500 transition-colors p-0.5"
+              title="Open in YouTube App"
+            >
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+          </div>
         </div>
       </div>
     </div>
