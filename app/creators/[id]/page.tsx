@@ -54,10 +54,11 @@ export default function CreatorHubPage() {
     async function loadCreatorHub() {
       if (!creatorIdentifier) return;
       setLoading(true);
+
       try {
         const supabase = createClient();
-
         const formattedSearchParam = creatorIdentifier.toLowerCase().trim();
+
         const { data: chanData } = await supabase
           .from('channels')
           .select('id, name, handle, slug, avatar_url, yt_channel_id')
@@ -103,7 +104,20 @@ export default function CreatorHubPage() {
               thumbnail_url,
               published_at,
               view_count,
-              media_items (id, title, release_year, poster_url)
+              ai_summary,
+              ai_timestamps,
+              media_items (
+                id,
+                title,
+                release_year,
+                poster_url,
+                backdrop_url,
+                studio_label,
+                slug,
+                media_directors (
+                  directors (id, name, slug)
+                )
+              )
             `)
             .eq('channel_id', activeChan.id)
             .range(page * 1000, (page + 1) * 1000 - 1);
@@ -126,6 +140,8 @@ export default function CreatorHubPage() {
           thumbnail_url: v.thumbnail_url,
           published_at: v.published_at,
           view_count: v.view_count || 0,
+          ai_summary: v.ai_summary,
+          ai_timestamps: v.ai_timestamps || [],
           channel_name: activeChan.name,
           channel_handle: activeChan.handle,
           channel_avatar: activeChan.avatar_url,
@@ -136,7 +152,10 @@ export default function CreatorHubPage() {
             title: v.media_items.title,
             release_year: v.media_items.release_year,
             poster_url: v.media_items.poster_url,
-            backdrop_url: '',
+            backdrop_url: v.media_items.backdrop_url || '',
+            studio_label: v.media_items.studio_label,
+            slug: v.media_items.slug || generateCleanSlug(v.media_items.title),
+            directors: v.media_items.media_directors?.map((md: any) => md.directors).filter(Boolean) || [],
           } : undefined
         }));
 
@@ -153,7 +172,6 @@ export default function CreatorHubPage() {
 
   const toggleSortDirection = () => {
     setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
-    setVideos((prev) => [...prev].reverse());
   };
 
   if (loading) {
@@ -184,7 +202,6 @@ export default function CreatorHubPage() {
     if (reactionSort === 'views') res = (b.view_count || 0) - (a.view_count || 0);
     else if (reactionSort === 'oldest') res = new Date(a.published_at).getTime() - new Date(b.published_at).getTime();
     else res = new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
-
     return sortDirection === 'desc' ? res : -res;
   });
 
@@ -222,7 +239,6 @@ export default function CreatorHubPage() {
         >
           <ChevronLeft className="w-4 h-4" /> Prev
         </button>
-
         <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
           <span>Page</span>
           <input
@@ -236,7 +252,6 @@ export default function CreatorHubPage() {
           />
           <span>of <strong className="text-white">{totalPages}</strong></span>
         </form>
-
         <button
           disabled={currentPage === totalPages}
           onClick={() => handlePageChange(currentPage + 1)}
@@ -279,7 +294,6 @@ export default function CreatorHubPage() {
                 </div>
               )}
             </div>
-
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight">
@@ -331,7 +345,6 @@ export default function CreatorHubPage() {
           <h2 className="text-xl font-bold text-white uppercase tracking-wider flex items-center gap-2">
             Movie Reactions ({videos.length})
           </h2>
-
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <button
               onClick={toggleSortDirection}
@@ -340,7 +353,6 @@ export default function CreatorHubPage() {
             >
               {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
             </button>
-
             <span>Sort Reactions:</span>
             <select
               value={reactionSort}
@@ -354,7 +366,6 @@ export default function CreatorHubPage() {
           </div>
         </div>
 
-        {/* Top Pagination Control */}
         {renderPaginationControl()}
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -367,7 +378,6 @@ export default function CreatorHubPage() {
           ))}
         </div>
 
-        {/* Bottom Pagination Control */}
         {renderPaginationControl()}
       </div>
 

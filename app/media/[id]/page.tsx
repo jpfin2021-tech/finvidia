@@ -29,7 +29,7 @@ export default function MediaHubPage() {
   const params = useParams();
   const router = useRouter();
   const rawId = params?.id as string;
-  const mediaId = Array.isArray(rawId) ? rawId[0] : rawId;
+  const mediaIdentifier = Array.isArray(rawId) ? rawId[0] : rawId;
 
   const [media, setMedia] = useState<MediaItem | null>(null);
   const [reactions, setVideos] = useState<Video[]>([]);
@@ -44,38 +44,82 @@ export default function MediaHubPage() {
 
   useEffect(() => {
     async function loadMediaHub() {
-      if (!mediaId) return;
+      if (!mediaIdentifier) return;
       setLoading(true);
 
       try {
         const supabase = createClient();
-        
-        const { data: mediaData, error: mediaError } = await supabase
-          .from('media_items')
-          .select(`
-            id,
-            media_type,
-            title,
-            release_year,
-            studio_label,
-            synopsis,
-            poster_url,
-            backdrop_url,
-            media_directors (
-              directors (id, name, slug)
-            ),
-            media_actors (
-              actors (id, name, slug)
-            ),
-            media_genres (
-              genres (id, name, slug)
-            )
-          `)
-          .eq('id', mediaId)
-          .single();
+        const formattedParam = mediaIdentifier.toLowerCase().trim();
+        const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(mediaIdentifier);
 
-        if (mediaError || !mediaData) {
-          console.error('Error fetching media hub:', mediaError);
+        let mediaData: any = null;
+
+        if (isUuid) {
+          const { data } = await supabase
+            .from('media_items')
+            .select(`
+              id,
+              media_type,
+              title,
+              release_year,
+              studio_label,
+              synopsis,
+              poster_url,
+              backdrop_url,
+              slug,
+              media_directors (
+                directors (id, name, slug)
+              ),
+              media_actors (
+                actors (id, name, slug)
+              ),
+              media_genres (
+                genres (id, name, slug)
+              )
+            `)
+            .eq('id', mediaIdentifier)
+            .maybeSingle();
+          mediaData = data;
+        }
+
+        if (!mediaData) {
+          const { data: allMedia } = await supabase
+            .from('media_items')
+            .select(`
+              id,
+              media_type,
+              title,
+              release_year,
+              studio_label,
+              synopsis,
+              poster_url,
+              backdrop_url,
+              slug,
+              media_directors (
+                directors (id, name, slug)
+              ),
+              media_actors (
+                actors (id, name, slug)
+              ),
+              media_genres (
+                genres (id, name, slug)
+              )
+            `);
+
+          if (allMedia) {
+            mediaData = allMedia.find((m: any) => {
+              const cleanSlug = m.slug || generateCleanSlug(m.title);
+              return (
+                cleanSlug === formattedParam ||
+                m.id === mediaIdentifier ||
+                generateCleanSlug(m.title) === formattedParam
+              );
+            });
+          }
+        }
+
+        if (!mediaData) {
+          console.error('Error fetching media hub for:', mediaIdentifier);
           setLoading(false);
           return;
         }
@@ -118,7 +162,7 @@ export default function MediaHubPage() {
               slug
             )
           `)
-          .eq('media_id', mediaId);
+          .eq('media_id', mediaData.id);
 
         if (videoData) {
           const formattedVideos: Video[] = videoData.map((v: any) => {
@@ -139,7 +183,10 @@ export default function MediaHubPage() {
               channel_handle: v.channels?.handle,
               channel_avatar: v.channels?.avatar_url,
               channel_slug: v.channels?.slug || generateCleanSlug(chanName),
-              media_item: formattedMedia
+              media_item: {
+                ...formattedMedia,
+                slug: mediaData.slug || generateCleanSlug(formattedMedia.title)
+              }
             } as any;
           });
           setVideos(formattedVideos);
@@ -152,7 +199,7 @@ export default function MediaHubPage() {
     }
 
     loadMediaHub();
-  }, [mediaId]);
+  }, [mediaIdentifier]);
 
   const handleRateFilm = (stars: number) => {
     setUserRating(stars);

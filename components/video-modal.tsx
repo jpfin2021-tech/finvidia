@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Video } from '@/types/database';
-import { X, Calendar, User, Building, ExternalLink, Sparkles, Clock, Tv } from 'lucide-react';
+import { X, Calendar, User, Building, ExternalLink, Sparkles, Clock, Tv, Film } from 'lucide-react';
 
 interface VideoModalProps {
   video: Video | null;
@@ -35,8 +35,10 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
   const creatorName = (video as any).channel_name || 'Creator';
   const creatorAvatar = (video as any).channel_avatar || '';
   const creatorSlug = (video as any).channel_slug || generateCleanSlug(creatorName);
-
-  const mediaItem = video.media_item;
+  
+  const mediaItem = (video as any).media_item;
+  const filmTitle = mediaItem?.title;
+  const filmSlug = mediaItem?.slug || (filmTitle ? generateCleanSlug(filmTitle) : mediaItem?.id);
   const releaseYear = mediaItem?.release_year;
   const director = mediaItem?.directors?.[0]?.name;
   const studio = mediaItem?.studio_label;
@@ -80,12 +82,10 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
                 {creatorName}
               </span>
             </Link>
-
             <h3 className="font-bold text-xs text-white line-clamp-1">
               {video.title}
             </h3>
           </div>
-
           <button
             onClick={onClose}
             className="p-1 rounded-full bg-zinc-800 hover:bg-red-600 text-zinc-400 hover:text-white transition-colors flex-none cursor-pointer"
@@ -114,7 +114,6 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
               <Tv className="w-4 h-4 text-red-500" />
               <span className="text-xs font-bold text-white">First-Screen Handoff</span>
             </div>
-
             <a
               href={nativeAppUrl}
               target="_blank"
@@ -158,19 +157,32 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
             </div>
           )}
 
+          {/* 4 UNIFORM MOVIE METADATA CARDS */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
-            <Link
-              href={`/creators/${creatorSlug}`}
-              onClick={onClose}
-              className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl"
-            >
-              <Tv className="w-3.5 h-3.5 text-red-500 flex-none" />
-              <div className="min-w-0">
-                <p className="text-[9px] uppercase font-bold text-zinc-500">Reactor</p>
-                <p className="font-extrabold text-white truncate">{creatorName}</p>
+            {/* Slot 1: Film Title */}
+            {filmSlug ? (
+              <Link
+                href={`/media/${filmSlug}`}
+                onClick={onClose}
+                className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl hover:border-red-600 transition-colors"
+              >
+                <Film className="w-3.5 h-3.5 text-red-500 flex-none" />
+                <div className="min-w-0">
+                  <p className="text-[9px] uppercase font-bold text-zinc-500">Film</p>
+                  <p className="font-extrabold text-white truncate">{filmTitle || '—'}</p>
+                </div>
+              </Link>
+            ) : (
+              <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl">
+                <Film className="w-3.5 h-3.5 text-red-500 flex-none" />
+                <div className="min-w-0">
+                  <p className="text-[9px] uppercase font-bold text-zinc-500">Film</p>
+                  <p className="font-extrabold text-white truncate">{filmTitle || '—'}</p>
+                </div>
               </div>
-            </Link>
+            )}
 
+            {/* Slot 2: Release Year */}
             <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl">
               <Calendar className="w-3.5 h-3.5 text-red-500 flex-none" />
               <div>
@@ -179,6 +191,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
               </div>
             </div>
 
+            {/* Slot 3: Director */}
             <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl">
               <User className="w-3.5 h-3.5 text-red-500 flex-none" />
               <div className="min-w-0">
@@ -187,6 +200,7 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
               </div>
             </div>
 
+            {/* Slot 4: Studio / Label */}
             <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl">
               <Building className="w-3.5 h-3.5 text-red-500 flex-none" />
               <div className="min-w-0">

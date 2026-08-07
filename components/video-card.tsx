@@ -35,13 +35,14 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
   const creatorName = (video as any).channel_name || 'Creator';
   const creatorSlug = (video as any).channel_slug || generateCleanSlug(creatorName);
   const mediaItem = (video as any).media_item;
+  const filmSlug = mediaItem?.slug || (mediaItem?.title ? generateCleanSlug(mediaItem.title) : mediaItem?.id);
 
   return (
     <div 
       className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/50 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl flex flex-col justify-between cursor-pointer"
       onClick={handleCardClick}
     >
-      {/* 1. THUMBNAIL CONTAINER */}
+      {/* Thumbnail Container */}
       <div className="relative aspect-video w-full bg-black overflow-hidden">
         <Image
           src={video.thumbnail_url}
@@ -61,10 +62,10 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
         </div>
       </div>
 
-      {/* 2. CARD BODY */}
+      {/* Card Body */}
       <div className="p-4 flex flex-col justify-between flex-1 gap-3">
         <div>
-          {/* TOP SECTION: ONLY CREATOR PILLBOX */}
+          {/* Top Section: Creator Pillbox */}
           <div className="flex items-center gap-2 mb-2 z-10">
             <Link
               href={`/creators/${creatorSlug}`}
@@ -76,19 +77,19 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
             </Link>
           </div>
           
-          {/* YOUTUBE VIDEO TITLE */}
+          {/* Reaction Title */}
           <h3 className="font-bold text-sm text-white line-clamp-2 leading-snug group-hover:text-red-400 transition-colors">
             {video.title}
           </h3>
         </div>
 
-        {/* BOTTOM SECTION: MOVIE PILL (LEFT) + UPLOAD DATE / YT APP LINK (RIGHT) */}
+        {/* Bottom Section */}
         <div className="flex items-center justify-between pt-2.5 border-t border-zinc-800 text-xs z-10 gap-2">
-          {/* Bottom Left: Movie (Year) Pill */}
+          {/* Bottom Left: Movie Pill */}
           <div className="min-w-0 flex-1">
             {mediaItem ? (
               <Link
-                href={`/media/${mediaItem.id}`}
+                href={`/media/${filmSlug}`}
                 onClick={(e) => e.stopPropagation()}
                 className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold text-red-400 bg-red-950/40 border border-red-800/50 rounded-md hover:bg-red-600 hover:text-white hover:border-red-500 transition-all cursor-pointer group/movie max-w-full"
               >
@@ -102,7 +103,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
             )}
           </div>
 
-          {/* Bottom Right: Upload Date & External App Link */}
+          {/* Bottom Right: Upload Date & App Link */}
           <div className="flex items-center gap-1.5 flex-none text-[11px] text-zinc-400 font-medium">
             <span className="whitespace-nowrap">
               {new Date(video.published_at).toLocaleDateString()}
