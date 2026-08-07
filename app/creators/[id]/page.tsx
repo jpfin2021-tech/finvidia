@@ -106,7 +106,8 @@ export default function CreatorHubPage() {
               view_count,
               ai_summary,
               ai_timestamps,
-              media_items (
+              verification_status,
+              media_items!inner (
                 id,
                 title,
                 release_year,
@@ -120,6 +121,7 @@ export default function CreatorHubPage() {
               )
             `)
             .eq('channel_id', activeChan.id)
+            .eq('verification_status', 'verified')
             .range(page * 1000, (page + 1) * 1000 - 1);
 
           if (error || !data || data.length === 0) {
