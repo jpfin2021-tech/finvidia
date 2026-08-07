@@ -19,8 +19,6 @@ interface ExtendedMediaItem {
   total_views?: number;
   reaction_count?: number;
   avg_views_per_video?: number;
-  directors?: { id: string; name: string; slug: string }[];
-  actors?: { id: string; name: string; slug: string }[];
   genres?: { id: string; name: string; slug: string }[];
 }
 
@@ -34,7 +32,6 @@ function formatViews(views?: number): string {
 function BrowseContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-
   const queryParam = searchParams.get('q') || '';
   const genreParam = searchParams.get('genre') || '';
 
@@ -57,7 +54,8 @@ function BrowseContent() {
       setLoading(true);
       try {
         const supabase = createClient();
-
+        
+        // Fetch Genres
         const { data: genreData } = await supabase.from('genres').select('id, name, slug').order('name');
         if (genreData) setGenres(genreData);
 
@@ -65,6 +63,7 @@ function BrowseContent() {
         let page = 0;
         let hasMore = true;
 
+        // Optimized lightweight fetch to prevent Supabase 504 timeouts
         while (hasMore) {
           const { data, error } = await supabase
             .from('media_items')
@@ -78,19 +77,16 @@ function BrowseContent() {
               backdrop_url,
               studio_label,
               videos (id, view_count),
-              media_directors (
-                directors (id, name, slug)
-              ),
-              media_actors (
-                actors (id, name, slug)
-              ),
               media_genres (
                 genres (id, name, slug)
               )
             `)
             .range(page * 1000, (page + 1) * 1000 - 1);
 
-          if (error || !data || data.length === 0) {
+          if (error) {
+            console.error('Error fetching media page:', error);
+            hasMore = false;
+          } else if (!data || data.length === 0) {
             hasMore = false;
           } else {
             allMedia = allMedia.concat(data);
@@ -116,8 +112,6 @@ function BrowseContent() {
             total_views: totalViews,
             reaction_count: reactionCount,
             avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
-            directors: m.media_directors?.map((md: any) => md.directors).filter(Boolean) || [],
-            actors: m.media_actors?.map((ma: any) => ma.actors).filter(Boolean) || [],
             genres: m.media_genres?.map((mg: any) => mg.genres).filter(Boolean) || [],
           };
         });
@@ -170,10 +164,9 @@ function BrowseContent() {
       const q = searchTerm.toLowerCase().trim();
       const matchTitle = item.title.toLowerCase().includes(q);
       const matchYear = item.release_year.toString().includes(q);
-      const matchDirector = item.directors?.some((d: { name: string }) => d.name.toLowerCase().includes(q));
-      const matchActor = item.actors?.some((a: { name: string }) => a.name.toLowerCase().includes(q));
       const matchStudio = item.studio_label?.toLowerCase().includes(q);
-      if (!matchTitle && !matchYear && !matchDirector && !matchActor && !matchStudio) return false;
+
+      if (!matchTitle && !matchYear && !matchStudio) return false;
     }
 
     return true;
@@ -230,7 +223,6 @@ function BrowseContent() {
         >
           <ChevronLeft className="w-4 h-4" /> Prev
         </button>
-
         <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
           <span>Page</span>
           <input
@@ -244,7 +236,6 @@ function BrowseContent() {
           />
           <span>of <strong className="text-white">{totalPages}</strong></span>
         </form>
-
         <button
           disabled={currentPage === totalPages}
           onClick={() => handlePageChange(currentPage + 1)}
@@ -274,7 +265,7 @@ function BrowseContent() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
-              placeholder="Search title, director, actor, reactor..."
+              placeholder="Search title, studio, or year..."
               value={searchTerm}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
@@ -288,7 +279,9 @@ function BrowseContent() {
               <button
                 onClick={() => { setFilterMode('all'); setCurrentPage(1); setJumpPageInput('1'); }}
                 className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                  filterMode === 'all' ? 'bg-red-600 text-white shadow-md' : 'text-zinc-400 hover:text-white'
+                  filterMode === 'all'
+                    ? 'bg-red-600 text-white shadow-md'
+                    : 'text-zinc-400 hover:text-white'
                 }`}
               >
                 All Films ({sortedItems.length})
@@ -296,7 +289,9 @@ function BrowseContent() {
               <button
                 onClick={() => { setFilterMode('multi'); setCurrentPage(1); setJumpPageInput('1'); }}
                 className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                  filterMode === 'multi' ? 'bg-red-600 text-white shadow-md' : 'text-zinc-400 hover:text-white'
+                  filterMode === 'multi'
+                    ? 'bg-red-600 text-white shadow-md'
+                    : 'text-zinc-400 hover:text-white'
                 }`}
               >
                 Multi-Reactor Films
@@ -311,7 +306,6 @@ function BrowseContent() {
               >
                 {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
               </button>
-
               <Filter className="w-4 h-4 text-red-500" />
               <span>Sort By:</span>
               <select
@@ -334,7 +328,9 @@ function BrowseContent() {
               <button
                 onClick={() => handleGenreSelect('')}
                 className={`text-[11px] font-bold px-2.5 py-1 rounded-md border transition-all cursor-pointer ${
-                  !selectedGenre ? 'bg-red-600 border-red-500 text-white' : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
+                  !selectedGenre
+                    ? 'bg-red-600 border-red-500 text-white'
+                    : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
                 }`}
               >
                 All Genres
@@ -344,7 +340,9 @@ function BrowseContent() {
                   key={g.id}
                   onClick={() => handleGenreSelect(g.slug)}
                   className={`text-[11px] font-bold px-2.5 py-1 rounded-md border transition-all cursor-pointer ${
-                    selectedGenre === g.slug ? 'bg-red-600 border-red-500 text-white' : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
+                    selectedGenre === g.slug
+                      ? 'bg-red-600 border-red-500 text-white'
+                      : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
                   }`}
                 >
                   {g.name}
@@ -390,7 +388,6 @@ function BrowseContent() {
                       </span>
                     )}
                   </div>
-
                   <div>
                     <h3 className="font-extrabold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1">
                       {item.title}
@@ -400,7 +397,6 @@ function BrowseContent() {
                         {item.studio_label}
                       </p>
                     )}
-
                     {(item.total_views !== undefined || item.reaction_count !== undefined) && (
                       <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
                         {item.total_views !== undefined && (
