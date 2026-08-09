@@ -64,32 +64,37 @@ export default function ActorLandingPage() {
       try {
         const supabase = createClient();
         const formattedParam = actorIdentifier.toLowerCase().trim();
+        const rawName = formattedParam.replace(/-/g, ' ');
+        const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(actorIdentifier);
 
-        // 1. Resolve true Actor database record
+        // 1. Resolve true Actor database record directly via Postgres query
         let activeActor: ActorDetails | null = null;
 
-        const { data: actorData } = await supabase
+        let query = supabase
           .from('actors')
-          .select('id, name, slug, tmdb_person_id, profile_img_url')
-          .or(`slug.eq.${formattedParam},id.eq.${formattedParam}`)
-          .maybeSingle();
+          .select('id, name, slug, tmdb_person_id, profile_img_url');
+
+        if (isUuid) {
+          query = query.eq('id', actorIdentifier);
+        } else {
+          query = query.or(`slug.ilike.${formattedParam},name.ilike.${rawName}`);
+        }
+
+        const { data: actorData } = await query.limit(1).maybeSingle();
 
         if (actorData) {
           activeActor = actorData;
-        } else {
-          const { data: allActors } = await supabase
+        } else if (!isUuid) {
+          // Fallback fuzzy search by name
+          const { data: fuzzyData } = await supabase
             .from('actors')
-            .select('id, name, slug, tmdb_person_id, profile_img_url');
+            .select('id, name, slug, tmdb_person_id, profile_img_url')
+            .ilike('name', `%${rawName}%`)
+            .limit(1)
+            .maybeSingle();
 
-          if (allActors) {
-            activeActor = allActors.find((a: any) => {
-              const cleanSlug = a.slug ? generateCleanSlug(a.slug) : generateCleanSlug(a.name);
-              return (
-                cleanSlug === formattedParam ||
-                generateCleanSlug(a.name) === formattedParam ||
-                a.name.toLowerCase().trim() === formattedParam
-              );
-            }) || null;
+          if (fuzzyData) {
+            activeActor = fuzzyData;
           }
         }
 
