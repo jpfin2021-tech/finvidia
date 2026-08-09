@@ -9,18 +9,16 @@ import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, C
 
 interface ExtendedMediaItem {
   id: string;
-  media_type: string;
   title: string;
-  slug?: string;
+  slug: string;
   release_year: number;
   synopsis?: string;
   poster_url?: string;
   backdrop_url?: string;
   studio_label?: string;
-  total_views?: number;
-  reaction_count?: number;
-  avg_views_per_video?: number;
-  genres?: { id: string; name: string; slug: string }[];
+  total_views: number;
+  reaction_count: number;
+  avg_views_per_video: number;
 }
 
 function formatViews(views?: number): string {
@@ -41,13 +39,10 @@ function BrowseContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const queryParam = searchParams.get('q') || '';
-  const genreParam = searchParams.get('genre') || '';
 
   const [mediaItems, setMediaItems] = useState<ExtendedMediaItem[]>([]);
-  const [genres, setGenres] = useState<{ id: string; name: string; slug: string }[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchQuery] = useState(queryParam);
-  const [selectedGenre, setSelectedGenre] = useState(genreParam);
   const [filterMode, setFilterMode] = useState<'all' | 'multi'>('all');
   const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'year' | 'title'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
@@ -62,54 +57,31 @@ function BrowseContent() {
       setLoading(true);
       try {
         const supabase = createClient();
-        
-        const { data: genreData } = await supabase.from('genres').select('id, name, slug').order('name');
-        if (genreData) setGenres(genreData);
-
-        let allMedia: any[] = [];
+        let allVerified: any[] = [];
         let page = 0;
         let hasMore = true;
 
         while (hasMore) {
           const { data, error } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              media_type,
-              title,
-              slug,
-              release_year,
-              synopsis,
-              poster_url,
-              backdrop_url,
-              studio_label,
-              videos (id, view_count),
-              media_genres (
-                genres (id, name, slug)
-              )
-            `)
+            .from('verified_movies')
+            .select('*')
             .range(page * 1000, (page + 1) * 1000 - 1);
 
-          if (error) {
-            console.error('Error fetching media page:', error);
-            hasMore = false;
-          } else if (!data || data.length === 0) {
+          if (error || !data || data.length === 0) {
             hasMore = false;
           } else {
-            allMedia = allMedia.concat(data);
+            allVerified = allVerified.concat(data);
             if (data.length < 1000) hasMore = false;
             page++;
           }
         }
 
-        const formattedMedia: ExtendedMediaItem[] = allMedia.map((m: any) => {
-          const vids = m.videos || [];
-          const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
-          const reactionCount = vids.length;
+        const formattedMedia: ExtendedMediaItem[] = allVerified.map((m: any) => {
+          const totalViews = Number(m.total_views) || 0;
+          const reactionCount = Number(m.reaction_count) || 0;
 
           return {
             id: m.id,
-            media_type: m.media_type || 'movie',
             title: m.title,
             slug: m.slug || generateCleanSlug(m.title),
             release_year: m.release_year,
@@ -120,7 +92,6 @@ function BrowseContent() {
             total_views: totalViews,
             reaction_count: reactionCount,
             avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
-            genres: m.media_genres?.map((mg: any) => mg.genres).filter(Boolean) || [],
           };
         });
 
@@ -141,18 +112,6 @@ function BrowseContent() {
     setJumpPageInput('1');
     const params = new URLSearchParams();
     if (searchTerm.trim()) params.set('q', searchTerm.trim());
-    if (selectedGenre) params.set('genre', selectedGenre);
-    router.push(`/browse?${params.toString()}`);
-  };
-
-  const handleGenreSelect = (slug: string) => {
-    setCurrentPage(1);
-    setJumpPageInput('1');
-    const newGenre = selectedGenre === slug ? '' : slug;
-    setSelectedGenre(newGenre);
-    const params = new URLSearchParams();
-    if (searchTerm.trim()) params.set('q', searchTerm.trim());
-    if (newGenre) params.set('genre', newGenre);
     router.push(`/browse?${params.toString()}`);
   };
 
@@ -162,11 +121,6 @@ function BrowseContent() {
 
   const filteredItems = mediaItems.filter((item) => {
     if (filterMode === 'multi' && (item.reaction_count || 0) < 2) return false;
-
-    if (selectedGenre) {
-      const hasGenre = item.genres?.some((g: { slug: string }) => g.slug === selectedGenre);
-      if (!hasGenre) return false;
-    }
 
     if (searchTerm.trim()) {
       const q = searchTerm.toLowerCase().trim();
@@ -182,11 +136,11 @@ function BrowseContent() {
 
   const sortedItems = [...filteredItems].sort((a, b) => {
     let res = 0;
-    if (sortBy === 'avg_views') res = (b.avg_views_per_video || 0) - (a.avg_views_per_video || 0);
-    else if (sortBy === 'reactions') res = (b.reaction_count || 0) - (a.reaction_count || 0);
+    if (sortBy === 'avg_views') res = b.avg_views_per_video - a.avg_views_per_video;
+    else if (sortBy === 'reactions') res = b.reaction_count - a.reaction_count;
     else if (sortBy === 'year') res = b.release_year - a.release_year;
     else if (sortBy === 'title') res = a.title.localeCompare(b.title);
-    else res = (b.total_views || 0) - (a.total_views || 0);
+    else res = b.total_views - a.total_views;
 
     return sortDirection === 'desc' ? res : -res;
   });
@@ -329,35 +283,6 @@ function BrowseContent() {
               </select>
             </div>
           </div>
-
-          {genres.length > 0 && (
-            <div className="flex flex-wrap items-center gap-1.5 pt-2">
-              <span className="text-[11px] font-bold text-zinc-500 uppercase mr-1">Genres:</span>
-              <button
-                onClick={() => handleGenreSelect('')}
-                className={`text-[11px] font-bold px-2.5 py-1 rounded-md border transition-all cursor-pointer ${
-                  !selectedGenre
-                    ? 'bg-red-600 border-red-500 text-white'
-                    : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
-                }`}
-              >
-                All Genres
-              </button>
-              {genres.map((g) => (
-                <button
-                  key={g.id}
-                  onClick={() => handleGenreSelect(g.slug)}
-                  className={`text-[11px] font-bold px-2.5 py-1 rounded-md border transition-all cursor-pointer ${
-                    selectedGenre === g.slug
-                      ? 'bg-red-600 border-red-500 text-white'
-                      : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white'
-                  }`}
-                >
-                  {g.name}
-                </button>
-              ))}
-            </div>
-          )}
         </div>
 
         {renderPaginationControl()}
@@ -366,7 +291,7 @@ function BrowseContent() {
           <div className="py-20 text-center text-zinc-500">
             <p className="text-base font-bold text-zinc-400">No movies match your filter criteria.</p>
             <button
-              onClick={() => { setSearchQuery(''); setSelectedGenre(''); setFilterMode('all'); setCurrentPage(1); setJumpPageInput('1'); }}
+              onClick={() => { setSearchQuery(''); setFilterMode('all'); setCurrentPage(1); setJumpPageInput('1'); }}
               className="mt-3 text-xs text-red-500 font-bold hover:underline"
             >
               Reset Filters
@@ -378,7 +303,7 @@ function BrowseContent() {
               {paginatedItems.map((item) => (
                 <Link
                   key={item.id}
-                  href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
+                  href={`/movies/${item.slug}`}
                   className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between"
                 >
                   <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
@@ -404,22 +329,16 @@ function BrowseContent() {
                         {item.studio_label}
                       </p>
                     )}
-                    {(item.total_views !== undefined || item.reaction_count !== undefined) && (
-                      <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
-                        {item.total_views !== undefined && (
-                          <span className="flex items-center gap-1 text-amber-400">
-                            <Eye className="w-3 h-3" />
-                            {formatViews(sortBy === 'avg_views' ? item.avg_views_per_video : item.total_views)}
-                          </span>
-                        )}
-                        {item.reaction_count !== undefined && (
-                          <span className="flex items-center gap-1 text-zinc-300">
-                            <Tv className="w-3 h-3 text-red-500" />
-                            {item.reaction_count}
-                          </span>
-                        )}
-                      </div>
-                    )}
+                    <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
+                      <span className="flex items-center gap-1 text-amber-400">
+                        <Eye className="w-3 h-3" />
+                        {formatViews(sortBy === 'avg_views' ? item.avg_views_per_video : item.total_views)}
+                      </span>
+                      <span className="flex items-center gap-1 text-zinc-300">
+                        <Tv className="w-3 h-3 text-red-500" />
+                        {item.reaction_count}
+                      </span>
+                    </div>
                   </div>
                 </Link>
               ))}

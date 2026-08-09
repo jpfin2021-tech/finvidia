@@ -9,11 +9,10 @@ import { RefreshCw, Trophy, Eye, Tv, ChevronLeft, ChevronRight, Filter, ArrowUp,
 interface LeaderboardItem {
   id: string;
   title: string;
-  slug?: string;
+  slug: string;
   release_year: number;
   poster_url: string;
   studio_label?: string;
-  director?: string;
   total_views: number;
   reaction_count: number;
   avg_views_per_video: number;
@@ -49,41 +48,29 @@ export default function LeaderboardPage() {
       setLoading(true);
       try {
         const supabase = createClient();
-        let allMedia: any[] = [];
+        let allVerified: any[] = [];
         let page = 0;
         let hasMore = true;
 
+        // Query clean verified_movies VIEW
         while (hasMore) {
           const { data, error } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              title,
-              slug,
-              release_year,
-              poster_url,
-              studio_label,
-              media_directors (
-                directors (name)
-              ),
-              videos (id, view_count)
-            `)
+            .from('verified_movies')
+            .select('*')
             .range(page * 1000, (page + 1) * 1000 - 1);
 
           if (error || !data || data.length === 0) {
             hasMore = false;
           } else {
-            allMedia = allMedia.concat(data);
+            allVerified = allVerified.concat(data);
             if (data.length < 1000) hasMore = false;
             page++;
           }
         }
 
-        const formatted: LeaderboardItem[] = allMedia.map((m: any) => {
-          const vids = m.videos || [];
-          const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
-          const reactionCount = vids.length;
-          const directorName = m.media_directors?.[0]?.directors?.name || '';
+        const formatted: LeaderboardItem[] = allVerified.map((m: any) => {
+          const totalViews = Number(m.total_views) || 0;
+          const reactionCount = Number(m.reaction_count) || 0;
 
           return {
             id: m.id,
@@ -92,7 +79,6 @@ export default function LeaderboardPage() {
             release_year: m.release_year,
             poster_url: m.poster_url,
             studio_label: m.studio_label,
-            director: directorName,
             total_views: totalViews,
             reaction_count: reactionCount,
             avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
@@ -239,7 +225,7 @@ export default function LeaderboardPage() {
             return (
               <Link
                 key={item.id}
-                href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
+                href={`/movies/${item.slug}`}
                 className={`group block bg-zinc-900 border rounded-2xl p-3 sm:p-4 transition-all duration-300 hover:scale-[1.01] shadow-xl ${
                   isGold
                     ? 'border-amber-500/80 bg-gradient-to-r from-amber-950/20 via-zinc-900 to-zinc-900'
@@ -295,8 +281,8 @@ export default function LeaderboardPage() {
                             {item.release_year}
                           </span>
                         )}
-                        {item.director && (
-                          <span className="truncate text-zinc-300 font-semibold">{item.director}</span>
+                        {item.studio_label && (
+                          <span className="truncate text-zinc-300 font-semibold">{item.studio_label}</span>
                         )}
                       </div>
                     </div>
