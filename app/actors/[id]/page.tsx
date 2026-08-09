@@ -8,7 +8,7 @@ import { createClient } from '@/lib/supabase/client';
 import VideoCard from '@/components/video-card';
 import VideoModal from '@/components/video-modal';
 import { Video } from '@/types/database';
-import { User, Film, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, ArrowUp, ArrowDown, ChevronLeft, ChevronRight, Clapperboard } from 'lucide-react';
+import { User, Film, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, ArrowUp, ArrowDown, ChevronLeft, ChevronRight, Clapperboard, List, Grid, Filter, CheckCircle2, AlertCircle } from 'lucide-react';
 
 interface ActorDetails {
   id: string;
@@ -46,14 +46,21 @@ export default function ActorLandingPage() {
   const actorIdentifier = Array.isArray(rawIdentifier) ? rawIdentifier[0] : rawIdentifier;
 
   const [actor, setActor] = useState<ActorDetails | null>(null);
-  const [movies, setMovies] = useState<any[]>([]);
+  const [allMovies, setAllMovies] = useState<any[]>([]);
   const [reactions, setReactions] = useState<Video[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
 
-  // Sorting & Pagination State
+  // Tab View State
+  const [activeTab, setActiveTab] = useState<'reacted' | 'full_text'>('reacted');
+
+  // Filmography Sort State
+  const [filmSortBy, setFilmSortBy] = useState<'views' | 'year' | 'reactions' | 'title'>('views');
+  const [filmSortDir, setFilmSortDir] = useState<'desc' | 'asc'>('desc');
+
+  // Reactions Feed Sort & Pagination State
   const [reactionSort, setReactionSort] = useState<'views' | 'newest' | 'oldest'>('views');
-  const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
+  const [reactionSortDir, setReactionSortDir] = useState<'desc' | 'asc'>('desc');
   const [currentPage, setCurrentPage] = useState(1);
   const [jumpPageInput, setJumpPageInput] = useState('1');
   const itemsPerPage = 12;
@@ -108,8 +115,8 @@ export default function ActorLandingPage() {
           return;
         }
 
-        // 2. Fetch movies linked to this actor
-        let matchedMovies: any[] = [];
+        // 2. Fetch all movies linked to actor via media_actors
+        let fetchedMovies: any[] = [];
         const { data: mediaLinks } = await supabase
           .from('media_actors')
           .select(`
@@ -127,12 +134,12 @@ export default function ActorLandingPage() {
           .eq('actor_id', activeActor.id);
 
         if (mediaLinks && mediaLinks.length > 0) {
-          matchedMovies = mediaLinks
+          fetchedMovies = mediaLinks
             .map((item: any) => item.media_items)
             .filter(Boolean);
         }
 
-        if (matchedMovies.length === 0 && activeActor) {
+        if (fetchedMovies.length === 0 && activeActor) {
           const { data: allMedia } = await supabase
             .from('media_items')
             .select(`
@@ -148,21 +155,20 @@ export default function ActorLandingPage() {
 
           if (allMedia) {
             const term = activeActor.name.toLowerCase();
-            matchedMovies = allMedia.filter((m: any) => m.title.toLowerCase().includes(term));
+            fetchedMovies = allMedia.filter((m: any) => m.title.toLowerCase().includes(term));
           }
         }
 
-        matchedMovies.sort((a, b) => (b.release_year || 0) - (a.release_year || 0));
-        setMovies(matchedMovies);
+        setAllMovies(fetchedMovies);
 
-        if (matchedMovies.length === 0) {
+        if (fetchedMovies.length === 0) {
           setLoading(false);
           return;
         }
 
-        // 3. Fetch all verified creator reactions
-        const movieIds = matchedMovies.map((m) => m.id);
-        const movieMap = new Map(matchedMovies.map((m) => [m.id, m]));
+        // 3. Fetch verified creator reactions for actor's films
+        const movieIds = fetchedMovies.map((m) => m.id);
+        const movieMap = new Map(fetchedMovies.map((m) => [m.id, m]));
 
         let actorVids: any[] = [];
         let vidPage = 0;
@@ -240,15 +246,11 @@ export default function ActorLandingPage() {
     loadActorData();
   }, [actorIdentifier]);
 
-  const toggleSortDirection = () => {
-    setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
-  };
-
   if (loading) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
         <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
-        <p className="text-sm font-medium">Loading Actor Filmography...</p>
+        <p className="text-sm font-medium">Loading Actor Profile...</p>
       </div>
     );
   }
@@ -267,12 +269,48 @@ export default function ActorLandingPage() {
     );
   }
 
+  // Filter movies with 1+ verified reactions
+  const reactedMovies = allMovies.filter((m) => {
+    const vids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
+    return vids.length > 0;
+  });
+
+  // Sort Reacted Movies Grid
+  const sortedReactedMovies = [...reactedMovies].sort((a, b) => {
+    const aVids = a.videos || [];
+    const bVids = b.videos || [];
+    const aViews = aVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+    const bViews = bVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+
+    let res = 0;
+    if (filmSortBy === 'views') res = bViews - aViews;
+    else if (filmSortBy === 'reactions') res = bVids.length - aVids.length;
+    else if (filmSortBy === 'year') res = (b.release_year || 0) - (a.release_year || 0);
+    else if (filmSortBy === 'title') res = a.title.localeCompare(b.title);
+
+    return filmSortDir === 'desc' ? res : -res;
+  });
+
+  // Sort Full Text Filmography List
+  const sortedFullMovies = [...allMovies].sort((a, b) => {
+    let res = 0;
+    if (filmSortBy === 'year') res = (b.release_year || 0) - (a.release_year || 0);
+    else if (filmSortBy === 'title') res = a.title.localeCompare(b.title);
+    else {
+      const aVids = a.videos || [];
+      const bVids = b.videos || [];
+      res = bVids.length - aVids.length;
+    }
+    return filmSortDir === 'desc' ? res : -res;
+  });
+
+  // Sort Reaction Videos Feed
   const sortedReactions = [...reactions].sort((a, b) => {
     let res = 0;
     if (reactionSort === 'views') res = (b.view_count || 0) - (a.view_count || 0);
     else if (reactionSort === 'oldest') res = new Date(a.published_at).getTime() - new Date(b.published_at).getTime();
     else res = new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
-    return sortDirection === 'desc' ? res : -res;
+    return reactionSortDir === 'desc' ? res : -res;
   });
 
   const totalPages = Math.ceil(sortedReactions.length / itemsPerPage) || 1;
@@ -359,6 +397,14 @@ export default function ActorLandingPage() {
                   unoptimized
                   className="object-cover"
                 />
+              ) : actor.tmdb_person_id ? (
+                <Image
+                  src={`https://image.tmdb.org/t/p/w300/${actor.tmdb_person_id}`}
+                  alt={actor.name}
+                  fill
+                  unoptimized
+                  className="object-cover"
+                />
               ) : (
                 <User className="w-9 h-9 text-red-500" />
               )}
@@ -379,10 +425,10 @@ export default function ActorLandingPage() {
 
           <div className="flex items-center gap-4 bg-black/60 border border-zinc-800 rounded-xl p-4 flex-none">
             <div className="pr-4 border-r border-zinc-800">
-              <p className="text-[10px] font-bold uppercase text-zinc-400">Indexed Films</p>
+              <p className="text-[10px] font-bold uppercase text-zinc-400">Reacted Films</p>
               <p className="text-xl font-black text-white flex items-center gap-1.5 mt-0.5">
                 <Film className="w-4 h-4 text-red-500" />
-                {movies.length}
+                {reactedMovies.length}
               </p>
             </div>
             <div className="pr-4 border-r border-zinc-800">
@@ -402,57 +448,183 @@ export default function ActorLandingPage() {
         </div>
       </div>
 
-      {/* Filmography Section */}
-      <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8 mb-12">
-        <h2 className="text-lg font-bold text-white uppercase tracking-wider mb-4 flex items-center gap-2">
-          <Clapperboard className="w-5 h-5 text-red-500" /> Filmography ({movies.length})
-        </h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-          {movies.map((m) => {
-            const filmSlug = m.slug || generateCleanSlug(m.title);
-            const movieVids = m.videos || [];
-            const filmViews = movieVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+      {/* Filmography Section Header & Tab Controls */}
+      <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8 mb-6">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 gap-4">
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => setActiveTab('reacted')}
+              className={`px-4 py-2 rounded-xl text-xs font-black uppercase tracking-wider transition-all flex items-center gap-2 cursor-pointer ${
+                activeTab === 'reacted'
+                  ? 'bg-red-600 text-white shadow-lg'
+                  : 'bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-white'
+              }`}
+            >
+              <Grid className="w-4 h-4" />
+              <span>Reacted Films ({reactedMovies.length})</span>
+            </button>
 
-            return (
-              <Link
-                key={m.id}
-                href={`/movies/${filmSlug}`}
-                className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-105 shadow-md flex flex-col justify-between"
-              >
-                <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
-                  <Image
-                    src={m.poster_url || '/placeholder.png'}
-                    alt={m.title}
-                    fill
-                    sizes="180px"
-                    className="object-cover"
-                  />
-                  {m.release_year > 0 && (
-                    <span className="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-[10px] font-black text-white px-2 py-0.5 rounded border border-white/10">
-                      {m.release_year}
-                    </span>
-                  )}
-                </div>
-                <div>
-                  <h3 className="font-bold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1 mt-1">
-                    {m.title}
-                  </h3>
-                  <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 pt-1.5 mt-1 border-t border-zinc-800/80">
-                    <span className="flex items-center gap-1 text-amber-400">
-                      <Eye className="w-3 h-3" />
-                      {formatViewsShort(filmViews)}
-                    </span>
-                    <span className="flex items-center gap-1 text-zinc-300">
-                      <Tv className="w-3 h-3 text-red-500" />
-                      {movieVids.length}
-                    </span>
-                  </div>
-                </div>
-              </Link>
-            );
-          })}
+            <button
+              onClick={() => setActiveTab('full_text')}
+              className={`px-4 py-2 rounded-xl text-xs font-black uppercase tracking-wider transition-all flex items-center gap-2 cursor-pointer ${
+                activeTab === 'full_text'
+                  ? 'bg-red-600 text-white shadow-lg'
+                  : 'bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-white'
+              }`}
+            >
+              <List className="w-4 h-4" />
+              <span>Full Filmography ({allMovies.length})</span>
+            </button>
+          </div>
+
+          {/* Filmography Filters & Controls */}
+          <div className="flex items-center gap-2 text-xs text-zinc-400">
+            <button
+              onClick={() => setFilmSortDir((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
+              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+              title={`Sort Order: ${filmSortDir === 'desc' ? 'Descending' : 'Ascending'}`}
+            >
+              {filmSortDir === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+            </button>
+            <Filter className="w-4 h-4 text-red-500" />
+            <span>Sort Films:</span>
+            <select
+              value={filmSortBy}
+              onChange={(e: any) => setFilmSortBy(e.target.value)}
+              className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
+            >
+              <option value="views">Total Reaction Views</option>
+              <option value="reactions">Most Creator Reactions</option>
+              <option value="year">Release Year</option>
+              <option value="title">Alphabetical (A-Z)</option>
+            </select>
+          </div>
         </div>
       </div>
+
+      {/* TAB 1: REACTED FILMS ONLY (Media Poster Cards) */}
+      {activeTab === 'reacted' && (
+        <div className="px-6 md:px-12 max-w-7xl mx-auto mb-12">
+          {sortedReactedMovies.length === 0 ? (
+            <div className="py-16 text-center text-zinc-500 bg-zinc-950/60 border border-zinc-800 rounded-2xl p-6">
+              <AlertCircle className="w-8 h-8 text-amber-500 mx-auto mb-2" />
+              <p className="text-sm font-bold text-white">No reacted films found for {actor.name} yet.</p>
+              <p className="text-xs text-zinc-400 mt-1">Switch to the "Full Filmography" tab to view all credited titles.</p>
+            </div>
+          ) : (
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+              {sortedReactedMovies.map((m) => {
+                const filmSlug = m.slug || generateCleanSlug(m.title);
+                const movieVids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
+                const filmViews = movieVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+
+                return (
+                  <Link
+                    key={m.id}
+                    href={`/movies/${filmSlug}`}
+                    className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-105 shadow-md flex flex-col justify-between"
+                  >
+                    <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
+                      <Image
+                        src={m.poster_url || '/placeholder.png'}
+                        alt={m.title}
+                        fill
+                        sizes="180px"
+                        className="object-cover"
+                      />
+                      {m.release_year > 0 && (
+                        <span className="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-[10px] font-black text-white px-2 py-0.5 rounded border border-white/10">
+                          {m.release_year}
+                        </span>
+                      )}
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-xs text-white group-hover:text-red-400 transition-colors line-clamp-1 mt-1">
+                        {m.title}
+                      </h3>
+                      <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 pt-1.5 mt-1 border-t border-zinc-800/80">
+                        <span className="flex items-center gap-1 text-amber-400">
+                          <Eye className="w-3 h-3" />
+                          {formatViewsShort(filmViews)}
+                        </span>
+                        <span className="flex items-center gap-1 text-zinc-300">
+                          <Tv className="w-3 h-3 text-red-500" />
+                          {movieVids.length}
+                        </span>
+                      </div>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* TAB 2: FULL TEXT FILMOGRAPHY (IMDb / Wiki Style Table) */}
+      {activeTab === 'full_text' && (
+        <div className="px-6 md:px-12 max-w-7xl mx-auto mb-12">
+          <div className="bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden shadow-2xl">
+            <div className="overflow-x-auto">
+              <table className="w-full text-left text-xs text-zinc-300">
+                <thead className="bg-zinc-950 text-zinc-400 font-bold uppercase text-[10px] border-b border-zinc-800">
+                  <tr>
+                    <th className="p-4">Release Year</th>
+                    <th className="p-4">Official Movie Title</th>
+                    <th className="p-4">Studio / Label</th>
+                    <th className="p-4 text-center">Status</th>
+                    <th className="p-4 text-right">Reaction Link</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-zinc-800/60 font-medium">
+                  {sortedFullMovies.map((m) => {
+                    const filmSlug = m.slug || generateCleanSlug(m.title);
+                    const movieVids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
+                    const hasReactions = movieVids.length > 0;
+
+                    return (
+                      <tr key={m.id} className="hover:bg-zinc-800/40 transition-colors">
+                        <td className="p-4 font-mono font-bold text-zinc-400">
+                          {m.release_year || '—'}
+                        </td>
+                        <td className="p-4 font-extrabold text-white text-sm">
+                          {m.title}
+                        </td>
+                        <td className="p-4 text-zinc-400">
+                          {m.studio_label || '—'}
+                        </td>
+                        <td className="p-4 text-center">
+                          {hasReactions ? (
+                            <span className="inline-flex items-center gap-1 text-emerald-400 bg-emerald-950/60 border border-emerald-900/50 px-2.5 py-0.5 rounded-full text-[10px] font-extrabold">
+                              <CheckCircle2 className="w-3 h-3" /> Indexed ({movieVids.length})
+                            </span>
+                          ) : (
+                            <span className="inline-flex items-center gap-1 text-zinc-500 bg-zinc-950 border border-zinc-800 px-2.5 py-0.5 rounded-full text-[10px] font-semibold">
+                              Unindexed
+                            </span>
+                          )}
+                        </td>
+                        <td className="p-4 text-right">
+                          {hasReactions ? (
+                            <Link
+                              href={`/movies/${filmSlug}`}
+                              className="inline-flex items-center gap-1 bg-red-600 hover:bg-red-500 text-white text-[11px] font-black px-3 py-1 rounded-lg transition-all cursor-pointer shadow-md"
+                            >
+                              <span>Watch Reactions</span>
+                            </Link>
+                          ) : (
+                            <span className="text-zinc-600 text-[11px] italic">No Reactions Available</span>
+                          )}
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Creator Reactions Feed Section */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto">
@@ -466,11 +638,11 @@ export default function ActorLandingPage() {
 
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <button
-              onClick={toggleSortDirection}
+              onClick={() => setReactionSortDir((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
               className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
-              title={`Toggle Sort Direction (${sortDirection === 'desc' ? 'Descending' : 'Ascending'})`}
+              title={`Toggle Sort Direction (${reactionSortDir === 'desc' ? 'Descending' : 'Ascending'})`}
             >
-              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+              {reactionSortDir === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
             </button>
             <span>Sort Reactions:</span>
             <select
