@@ -13,7 +13,7 @@ import { User, Film, ArrowLeft, Tv, RefreshCw, Eye, Sparkles, ArrowUp, ArrowDown
 interface ActorDetails {
   id: string;
   name: string;
-  slug: string;
+  slug?: string;
   tmdb_person_id?: number;
   profile_img_url?: string;
 }
@@ -65,20 +65,25 @@ export default function ActorLandingPage() {
         const supabase = createClient();
         const formattedParam = actorIdentifier.toLowerCase().trim();
 
-        // 1. Fetch Actor record directly from Supabase
+        // 1. Resolve true Actor database record
+        let activeActor: ActorDetails | null = null;
+
         const { data: actorData } = await supabase
           .from('actors')
           .select('id, name, slug, tmdb_person_id, profile_img_url')
           .or(`slug.eq.${formattedParam},id.eq.${formattedParam}`)
           .maybeSingle();
 
-        let activeActor: ActorDetails | null = actorData;
+        if (actorData) {
+          activeActor = actorData;
+        } else {
+          const { data: allActors } = await supabase
+            .from('actors')
+            .select('id, name, slug, tmdb_person_id, profile_img_url');
 
-        if (!activeActor) {
-          const { data: allActors } = await supabase.from('actors').select('id, name, slug, tmdb_person_id, profile_img_url');
           if (allActors) {
             activeActor = allActors.find((a: any) => {
-              const cleanSlug = a.slug || generateCleanSlug(a.name);
+              const cleanSlug = a.slug ? generateCleanSlug(a.slug) : generateCleanSlug(a.name);
               return (
                 cleanSlug === formattedParam ||
                 generateCleanSlug(a.name) === formattedParam ||
@@ -89,22 +94,14 @@ export default function ActorLandingPage() {
         }
 
         if (!activeActor) {
-          const rawName = actorIdentifier.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
-          activeActor = {
-            id: actorIdentifier,
-            name: rawName,
-            slug: actorIdentifier,
-          };
-        }
-
-        setActor(activeActor);
-
-        if (!activeActor) {
+          console.error('Actor profile not found for:', actorIdentifier);
           setLoading(false);
           return;
         }
 
-        // 2. Fetch movies linked to actor from internal tables
+        setActor(activeActor);
+
+        // 2. Fetch linked movies using actor's database UUID
         let fetchedMovies: any[] = [];
         const { data: mediaLinks } = await supabase
           .from('media_actors')
@@ -126,26 +123,6 @@ export default function ActorLandingPage() {
           fetchedMovies = mediaLinks
             .map((item: any) => item.media_items)
             .filter(Boolean);
-        }
-
-        if (fetchedMovies.length === 0 && activeActor) {
-          const { data: allMedia } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              title,
-              slug,
-              release_year,
-              poster_url,
-              backdrop_url,
-              studio_label,
-              videos (id, view_count, verification_status)
-            `);
-
-          if (allMedia) {
-            const term = activeActor.name.toLowerCase();
-            fetchedMovies = allMedia.filter((m: any) => m.title.toLowerCase().includes(term));
-          }
         }
 
         setAllMovies(fetchedMovies);
