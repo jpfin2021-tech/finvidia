@@ -372,21 +372,25 @@ export default function MovieHubPage() {
               {media.synopsis || "Explore creator reactions and commentary for this title."}
             </p>
 
+            {/* KEY CAST PILLS -> DIRECT ROUTE TO /actors/[slug] */}
             {media.actors && media.actors.length > 0 && (
               <div className="pt-1">
                 <p className="text-xs font-bold text-zinc-400 mb-1.5 flex items-center gap-1">
                   <Users className="w-3.5 h-3.5 text-red-500" /> Key Cast:
                 </p>
                 <div className="flex flex-wrap items-center gap-1.5">
-                  {media.actors.map((actor) => (
-                    <Link
-                      key={actor.id}
-                      href={`/browse?q=${encodeURIComponent(actor.name)}`}
-                      className="bg-zinc-900/90 hover:bg-red-600 hover:text-white text-zinc-300 text-[11px] font-semibold px-2.5 py-1 rounded-md border border-zinc-800 transition-all"
-                    >
-                      {actor.name}
-                    </Link>
-                  ))}
+                  {media.actors.map((actor) => {
+                    const actorSlug = actor.slug || generateCleanSlug(actor.name);
+                    return (
+                      <Link
+                        key={actor.id}
+                        href={`/actors/${actorSlug}`}
+                        className="bg-zinc-900/90 hover:bg-red-600 hover:text-white text-zinc-300 text-[11px] font-semibold px-2.5 py-1 rounded-md border border-zinc-800 transition-all cursor-pointer"
+                      >
+                        {actor.name}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
             )}
