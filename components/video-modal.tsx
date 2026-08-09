@@ -157,12 +157,12 @@ export default function VideoModal({ video, onClose }: VideoModalProps) {
             </div>
           )}
 
-          {/* 4 UNIFORM MOVIE METADATA CARDS */}
+          {/* 4 Uniform Movie Metadata Cards */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
             {/* Slot 1: Film Title */}
             {filmSlug ? (
               <Link
-                href={`/media/${filmSlug}`}
+                href={`/movies/${filmSlug}`}
                 onClick={onClose}
                 className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 p-2 rounded-xl hover:border-red-600 transition-colors"
               >

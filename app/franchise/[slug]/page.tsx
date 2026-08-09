@@ -43,8 +43,8 @@ export default function FranchisePage() {
   const params = useParams();
   const router = useRouter();
   const rawSlug = params?.slug as string;
-
   const slug = Array.isArray(rawSlug) ? rawSlug[0] : rawSlug;
+
   const franchise = FRANCHISES.find((f) => f.slug === slug);
 
   const [movies, setMovies] = useState<any[]>([]);
@@ -61,9 +61,9 @@ export default function FranchisePage() {
       }
 
       setLoading(true);
+
       try {
         const supabase = createClient();
-
         let allMedia: any[] = [];
         let page = 0;
         let hasMore = true;
@@ -71,7 +71,7 @@ export default function FranchisePage() {
         while (hasMore) {
           const { data, error } = await supabase
             .from('media_items')
-            .select('id, title, release_year, poster_url, backdrop_url, studio_label')
+            .select('id, title, slug, release_year, poster_url, backdrop_url, studio_label')
             .range(page * 1000, (page + 1) * 1000 - 1);
 
           if (error || !data || data.length === 0) {
@@ -114,9 +114,11 @@ export default function FranchisePage() {
               thumbnail_url,
               published_at,
               view_count,
+              verification_status,
               channels (id, name, handle, avatar_url, slug)
             `)
             .in('media_id', matchedMediaIds)
+            .eq('verification_status', 'verified')
             .range(vidPage * 1000, (vidPage + 1) * 1000 - 1);
 
           if (error || !data || data.length === 0) {
@@ -154,6 +156,7 @@ export default function FranchisePage() {
               poster_url: parentMedia.poster_url,
               backdrop_url: parentMedia.backdrop_url,
               studio_label: parentMedia.studio_label,
+              slug: parentMedia.slug || generateCleanSlug(parentMedia.title)
             } : undefined
           };
         });
@@ -249,12 +252,11 @@ export default function FranchisePage() {
         <h2 className="text-lg font-bold text-white uppercase tracking-wider mb-4 flex items-center gap-2">
           <Film className="w-5 h-5 text-red-500" /> Film Titles ({movies.length})
         </h2>
-
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
           {movies.map((m) => (
             <Link
               key={m.id}
-              href={`/media/${m.id}`}
+              href={`/movies/${m.slug || generateCleanSlug(m.title)}`}
               className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-105 shadow-md flex flex-col justify-between"
             >
               <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
@@ -266,7 +268,6 @@ export default function FranchisePage() {
                   className="object-cover"
                 />
               </div>
-
               <div>
                 <span className="text-[10px] font-bold text-red-400 bg-red-950/80 px-2 py-0.5 rounded border border-red-900/40">
                   {m.release_year}
@@ -288,7 +289,6 @@ export default function FranchisePage() {
               Franchise Creator Reactions ({reactions.length})
             </h2>
           </div>
-
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <span>Sort Reactions:</span>
             <select

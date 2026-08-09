@@ -16,6 +16,13 @@ function formatViews(views?: number): string {
   return views.toLocaleString();
 }
 
+function generateCleanSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
 export default function HomePage() {
   const [topRankedMovies, setTopRankedMovies] = useState<any[]>([]);
   const [newReleases, setNewReleases] = useState<any[]>([]);
@@ -28,7 +35,6 @@ export default function HomePage() {
       setLoading(true);
       try {
         const supabase = createClient();
-
         let allMedia: any[] = [];
         let page = 0;
         let hasMore = true;
@@ -39,6 +45,7 @@ export default function HomePage() {
             .select(`
               id,
               title,
+              slug,
               release_year,
               poster_url,
               studio_label,
@@ -58,9 +65,11 @@ export default function HomePage() {
         const formatted = allMedia.map((m: any) => {
           const vids = m.videos || [];
           const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+
           return {
             id: m.id,
             title: m.title,
+            slug: m.slug || generateCleanSlug(m.title),
             release_year: m.release_year,
             poster_url: m.poster_url,
             studio_label: m.studio_label,
@@ -76,7 +85,6 @@ export default function HomePage() {
         setNewReleases(newReleasesSorted);
         setAllMoviesPool(formatted);
 
-        // Pick 2 random movies initially
         if (formatted.length > 0) {
           const shuffled = [...formatted].sort(() => 0.5 - Math.random());
           setRandomTwoMovies(shuffled.slice(0, 2));
@@ -112,29 +120,24 @@ export default function HomePage() {
       <HeroBanner />
 
       <div className="max-w-7xl mx-auto px-4 md:px-8 space-y-8 mt-6">
-        {/* Franchises Section */}
         <FranchiseSection />
 
-        {/* Leaderboard Row */}
         <CarouselRow
           title="Leaderboard"
           items={topRankedMovies}
         />
 
-        {/* New Releases Row */}
         <CarouselRow
           title="New Releases"
           items={newReleases}
         />
 
-        {/* Random 2 Films Section */}
         <div className="my-8">
           <div className="flex items-center justify-between mb-4 px-1">
             <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-amber-400 fill-amber-400" />
-              Random
+              Random 2 Films
             </h2>
-
             <button
               onClick={handleShuffleRandomFilms}
               className="bg-red-600 hover:bg-red-500 text-white text-xs font-black px-3.5 py-1.5 rounded-xl transition-all cursor-pointer flex items-center gap-1.5 shadow-md active:scale-95"
@@ -148,7 +151,7 @@ export default function HomePage() {
             {randomTwoMovies.map((item) => (
               <Link
                 key={item.id}
-                href={`/media/${item.id}`}
+                href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
                 className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between"
               >
                 <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
@@ -175,7 +178,6 @@ export default function HomePage() {
                       {item.studio_label}
                     </p>
                   )}
-
                   <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
                     <span className="flex items-center gap-1 text-amber-400">
                       <Eye className="w-3 h-3" />

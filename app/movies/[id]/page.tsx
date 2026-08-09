@@ -9,7 +9,7 @@ import VideoModal from '@/components/video-modal';
 import VideoCard from '@/components/video-card';
 import { MediaItem, Video } from '@/types/database';
 import { buildAmazonPrimeVideoLink, buildAmazonPhysicalBlurayLink, buildJustWatchLink } from '@/lib/affiliate';
-import { Play, ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users, ShoppingBag, Film, Disc} from 'lucide-react';
+import { ExternalLink, Building, User, ArrowLeft, Tv, RefreshCw, Eye, Tag, Star, Users, ShoppingBag, Film, Disc } from 'lucide-react';
 
 export function formatViewCount(views?: number): string {
   if (!views || views === 0) return '0 Views';
@@ -25,7 +25,7 @@ function generateCleanSlug(name: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-export default function MediaHubPage() {
+export default function MovieHubPage() {
   const params = useParams();
   const router = useRouter();
   const rawId = params?.id as string;
@@ -119,7 +119,7 @@ export default function MediaHubPage() {
         }
 
         if (!mediaData) {
-          console.error('Error fetching media hub for:', mediaIdentifier);
+          console.error('Error fetching movie page for:', mediaIdentifier);
           setLoading(false);
           return;
         }
@@ -162,7 +162,8 @@ export default function MediaHubPage() {
               slug
             )
           `)
-          .eq('media_id', mediaData.id);
+          .eq('media_id', mediaData.id)
+          .eq('verification_status', 'verified');
 
         if (videoData) {
           const formattedVideos: Video[] = videoData.map((v: any) => {
@@ -192,7 +193,7 @@ export default function MediaHubPage() {
           setVideos(formattedVideos);
         }
       } catch (err) {
-        console.error('Error loading media hub:', err);
+        console.error('Error loading movie page:', err);
       } finally {
         setLoading(false);
       }
@@ -213,7 +214,7 @@ export default function MediaHubPage() {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
         <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
-        <p className="text-sm font-medium">Loading Media Hub...</p>
+        <p className="text-sm font-medium">Loading Movie Details...</p>
       </div>
     );
   }
@@ -221,12 +222,12 @@ export default function MediaHubPage() {
   if (!media) {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 px-6 text-center text-zinc-400">
-        <h2 className="text-xl font-bold text-white">Media title not found</h2>
+        <h2 className="text-xl font-bold text-white">Movie title not found</h2>
         <button
           onClick={() => router.push('/browse')}
           className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg"
         >
-          Return to Directory
+          Return to Movie Index
         </button>
       </div>
     );
@@ -251,7 +252,7 @@ export default function MediaHubPage() {
           onClick={() => router.back()}
           className="text-xs text-zinc-400 hover:text-white flex items-center gap-1.5 transition-colors font-semibold cursor-pointer"
         >
-          <ArrowLeft className="w-4 h-4" /> Back to Directory
+          <ArrowLeft className="w-4 h-4" /> Back to Movie Index
         </button>
       </div>
 

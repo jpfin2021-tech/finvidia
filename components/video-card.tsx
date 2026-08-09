@@ -89,7 +89,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
           <div className="min-w-0 flex-1">
             {mediaItem ? (
               <Link
-                href={`/media/${filmSlug}`}
+                href={`/movies/${filmSlug}`}
                 onClick={(e) => e.stopPropagation()}
                 className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold text-red-400 bg-red-950/40 border border-red-800/50 rounded-md hover:bg-red-600 hover:text-white hover:border-red-500 transition-all cursor-pointer group/movie max-w-full"
               >
@@ -103,7 +103,7 @@ export default function VideoCard({ video, onSelect }: VideoCardProps) {
             )}
           </div>
 
-          {/* Bottom Right: Upload Date & App Link */}
+          {/* Bottom Right: Upload Date & External App Link */}
           <div className="flex items-center gap-1.5 flex-none text-[11px] text-zinc-400 font-medium">
             <span className="whitespace-nowrap">
               {new Date(video.published_at).toLocaleDateString()}

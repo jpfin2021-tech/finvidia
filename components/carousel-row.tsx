@@ -8,6 +8,7 @@ import { ChevronLeft, ChevronRight, Eye, Tv } from 'lucide-react';
 interface MediaItemSimple {
   id: string;
   title: string;
+  slug?: string;
   release_year: number;
   poster_url: string;
   studio_label?: string;
@@ -29,6 +30,13 @@ function formatViews(views?: number): string {
   return views.toLocaleString();
 }
 
+function generateCleanSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
 export default function CarouselRow({ title, subtitle, items }: CarouselRowProps) {
   const rowRef = useRef<HTMLDivElement>(null);
 
@@ -46,7 +54,6 @@ export default function CarouselRow({ title, subtitle, items }: CarouselRowProps
 
   return (
     <div className="my-8">
-      {/* Header with Title & Top-Right Navigation Arrows */}
       <div className="flex items-center justify-between mb-3 px-1">
         <div>
           <h2 className="text-lg md:text-xl font-black text-white uppercase tracking-wider">
@@ -57,7 +64,6 @@ export default function CarouselRow({ title, subtitle, items }: CarouselRowProps
           )}
         </div>
 
-        {/* Top-Right Carousel Navigation Controls */}
         <div className="flex items-center gap-1.5 flex-none">
           <button
             onClick={() => handleScroll('left')}
@@ -76,7 +82,6 @@ export default function CarouselRow({ title, subtitle, items }: CarouselRowProps
         </div>
       </div>
 
-      {/* 2-Card Mobile Layout Container */}
       <div
         ref={rowRef}
         className="flex gap-3 overflow-x-auto snap-x snap-mandatory scrollbar-none py-2 px-1 scroll-smooth"
@@ -85,7 +90,7 @@ export default function CarouselRow({ title, subtitle, items }: CarouselRowProps
         {items.map((item) => (
           <Link
             key={item.id}
-            href={`/media/${item.id}`}
+            href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
             className="group flex-none w-[calc(50%-6px)] sm:w-[200px] md:w-[220px] bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between snap-start"
           >
             <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
@@ -112,7 +117,6 @@ export default function CarouselRow({ title, subtitle, items }: CarouselRowProps
                   {item.studio_label}
                 </p>
               )}
-
               {(item.total_views !== undefined || item.reaction_count !== undefined) && (
                 <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
                   {item.total_views !== undefined && (

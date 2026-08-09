@@ -11,6 +11,7 @@ interface ExtendedMediaItem {
   id: string;
   media_type: string;
   title: string;
+  slug?: string;
   release_year: number;
   synopsis?: string;
   poster_url?: string;
@@ -27,6 +28,13 @@ function formatViews(views?: number): string {
   if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M`;
   if (views >= 1000) return `${Math.round(views / 1000)}K`;
   return views.toLocaleString();
+}
+
+function generateCleanSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
 function BrowseContent() {
@@ -55,7 +63,6 @@ function BrowseContent() {
       try {
         const supabase = createClient();
         
-        // Fetch Genres
         const { data: genreData } = await supabase.from('genres').select('id, name, slug').order('name');
         if (genreData) setGenres(genreData);
 
@@ -63,7 +70,6 @@ function BrowseContent() {
         let page = 0;
         let hasMore = true;
 
-        // Optimized lightweight fetch to prevent Supabase 504 timeouts
         while (hasMore) {
           const { data, error } = await supabase
             .from('media_items')
@@ -71,6 +77,7 @@ function BrowseContent() {
               id,
               media_type,
               title,
+              slug,
               release_year,
               synopsis,
               poster_url,
@@ -104,6 +111,7 @@ function BrowseContent() {
             id: m.id,
             media_type: m.media_type || 'movie',
             title: m.title,
+            slug: m.slug || generateCleanSlug(m.title),
             release_year: m.release_year,
             synopsis: m.synopsis,
             poster_url: m.poster_url,
@@ -352,7 +360,6 @@ function BrowseContent() {
           )}
         </div>
 
-        {/* Top Pagination Control */}
         {renderPaginationControl()}
 
         {sortedItems.length === 0 ? (
@@ -371,7 +378,7 @@ function BrowseContent() {
               {paginatedItems.map((item) => (
                 <Link
                   key={item.id}
-                  href={`/media/${item.id}`}
+                  href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
                   className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-xl overflow-hidden p-2.5 transition-all duration-300 hover:scale-[1.02] shadow-md flex flex-col justify-between"
                 >
                   <div className="relative aspect-[2/3] w-full rounded-lg overflow-hidden bg-zinc-950 mb-2">
@@ -418,7 +425,6 @@ function BrowseContent() {
               ))}
             </div>
 
-            {/* Bottom Pagination Control */}
             {renderPaginationControl()}
           </>
         )}

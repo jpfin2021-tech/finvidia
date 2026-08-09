@@ -9,6 +9,7 @@ import { RefreshCw, Trophy, Eye, Tv, ChevronLeft, ChevronRight, Filter, ArrowUp,
 interface LeaderboardItem {
   id: string;
   title: string;
+  slug?: string;
   release_year: number;
   poster_url: string;
   studio_label?: string;
@@ -23,6 +24,13 @@ function formatViews(views?: number): string {
   if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M`;
   if (views >= 1000) return `${Math.round(views / 1000)}K`;
   return views.toLocaleString();
+}
+
+function generateCleanSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
 export default function LeaderboardPage() {
@@ -41,7 +49,6 @@ export default function LeaderboardPage() {
       setLoading(true);
       try {
         const supabase = createClient();
-
         let allMedia: any[] = [];
         let page = 0;
         let hasMore = true;
@@ -52,6 +59,7 @@ export default function LeaderboardPage() {
             .select(`
               id,
               title,
+              slug,
               release_year,
               poster_url,
               studio_label,
@@ -80,6 +88,7 @@ export default function LeaderboardPage() {
           return {
             id: m.id,
             title: m.title,
+            slug: m.slug || generateCleanSlug(m.title),
             release_year: m.release_year,
             poster_url: m.poster_url,
             studio_label: m.studio_label,
@@ -156,7 +165,6 @@ export default function LeaderboardPage() {
         >
           <ChevronLeft className="w-4 h-4" /> Prev
         </button>
-
         <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
           <span>Page</span>
           <input
@@ -170,7 +178,6 @@ export default function LeaderboardPage() {
           />
           <span>of <strong className="text-white">{totalPages}</strong></span>
         </form>
-
         <button
           disabled={currentPage === totalPages}
           onClick={() => handlePageChange(currentPage + 1)}
@@ -204,7 +211,6 @@ export default function LeaderboardPage() {
             >
               {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
             </button>
-
             <Filter className="w-4 h-4 text-red-500" />
             <span>Sort By:</span>
             <select
@@ -221,10 +227,8 @@ export default function LeaderboardPage() {
           </div>
         </div>
 
-        {/* Top Pagination Control */}
         {renderPaginationControl()}
 
-        {/* Leaderboard List */}
         <div className="space-y-3">
           {paginatedItems.map((item, index) => {
             const rank = (currentPage - 1) * itemsPerPage + index + 1;
@@ -235,7 +239,7 @@ export default function LeaderboardPage() {
             return (
               <Link
                 key={item.id}
-                href={`/media/${item.id}`}
+                href={`/movies/${item.slug || generateCleanSlug(item.title)}`}
                 className={`group block bg-zinc-900 border rounded-2xl p-3 sm:p-4 transition-all duration-300 hover:scale-[1.01] shadow-xl ${
                   isGold
                     ? 'border-amber-500/80 bg-gradient-to-r from-amber-950/20 via-zinc-900 to-zinc-900'
@@ -247,7 +251,6 @@ export default function LeaderboardPage() {
                 }`}
               >
                 <div className="flex items-center gap-3 sm:gap-4">
-                  {/* Rank Badge */}
                   <div className="flex-none w-8 sm:w-10 flex flex-col items-center justify-center">
                     {isGold ? (
                       <div className="flex flex-col items-center">
@@ -271,7 +274,6 @@ export default function LeaderboardPage() {
                     )}
                   </div>
 
-                  {/* Movie Poster */}
                   <div className="relative w-16 sm:w-20 aspect-[2/3] rounded-lg overflow-hidden bg-zinc-950 flex-none border border-zinc-800">
                     <Image
                       src={item.poster_url || '/placeholder.png'}
@@ -282,15 +284,11 @@ export default function LeaderboardPage() {
                     />
                   </div>
 
-                  {/* Title & Metadata Layout */}
-                  <div className="flex-1 min-w-0 flex flex-col justify-between py-0.5">
+                  <div className="flex-1 min-w-0 flex flex-col justify-between">
                     <div>
-                      {/* Line 1: Movie Title Only (Full Width to Wrap) */}
                       <h2 className="font-black text-sm sm:text-base text-white group-hover:text-red-400 transition-colors leading-snug break-words mb-1">
                         {item.title}
                       </h2>
-
-                      {/* Line 2: Year Pill + Director Name */}
                       <div className="flex items-center gap-2 text-[11px] text-zinc-400 font-medium">
                         {item.release_year > 0 && (
                           <span className="text-[10px] font-extrabold text-zinc-300 bg-zinc-800 px-2 py-0.5 rounded border border-zinc-700/80 flex-none">
@@ -303,14 +301,12 @@ export default function LeaderboardPage() {
                       </div>
                     </div>
 
-                    {/* Stats Bar */}
                     <div className="flex items-center justify-between text-[11px] font-bold pt-2 mt-1 border-t border-zinc-800/80">
                       <span className="text-amber-400 flex items-center gap-1">
                         <Eye className="w-3.5 h-3.5" />
                         {formatViews(sortBy === 'avg_views' ? item.avg_views_per_video : item.total_views)}
                         {sortBy === 'avg_views' ? ' Avg Views' : ' Total Views'}
                       </span>
-
                       <span className="text-zinc-300 flex items-center gap-1">
                         <Tv className="w-3.5 h-3.5 text-red-500" />
                         {item.reaction_count} Reactions
@@ -323,7 +319,6 @@ export default function LeaderboardPage() {
           })}
         </div>
 
-        {/* Bottom Pagination Control */}
         {renderPaginationControl()}
       </div>
     </div>
