@@ -18,13 +18,6 @@ interface ActorDetails {
   profile_img_url?: string;
 }
 
-function formatViewCount(views?: number): string {
-  if (!views || views === 0) return '0 Views';
-  if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M Views`;
-  if (views >= 1000) return `${Math.round(views / 1000)}K Views`;
-  return `${views.toLocaleString()} Views`;
-}
-
 function formatViewsShort(views?: number): string {
   if (!views || views === 0) return '0 Views';
   if (views >= 1000000) return `${(views / 1000000).toFixed(1)}M`;
@@ -52,14 +45,10 @@ export default function ActorLandingPage() {
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
   const [imgError, setImgError] = useState(false);
 
-  // Tab View State
+  // Tab & Filter States
   const [activeTab, setActiveTab] = useState<'reacted' | 'full_text'>('reacted');
-
-  // Filmography Sort State
   const [filmSortBy, setFilmSortBy] = useState<'views' | 'year' | 'reactions' | 'title'>('views');
   const [filmSortDir, setFilmSortDir] = useState<'desc' | 'asc'>('desc');
-
-  // Reactions Feed Sort & Pagination State
   const [reactionSort, setReactionSort] = useState<'views' | 'newest' | 'oldest'>('views');
   const [reactionSortDir, setReactionSortDir] = useState<'desc' | 'asc'>('desc');
   const [currentPage, setCurrentPage] = useState(1);
@@ -67,7 +56,7 @@ export default function ActorLandingPage() {
   const itemsPerPage = 12;
 
   useEffect(() => {
-    async function loadActorData() {
+    async function loadActorDataFromDB() {
       if (!actorIdentifier) return;
       setLoading(true);
       setImgError(false);
@@ -76,7 +65,7 @@ export default function ActorLandingPage() {
         const supabase = createClient();
         const formattedParam = actorIdentifier.toLowerCase().trim();
 
-        // 1. Fetch Actor record
+        // 1. Fetch Actor record directly from Supabase
         const { data: actorData } = await supabase
           .from('actors')
           .select('id, name, slug, tmdb_person_id, profile_img_url')
@@ -86,7 +75,7 @@ export default function ActorLandingPage() {
         let activeActor: ActorDetails | null = actorData;
 
         if (!activeActor) {
-          const { data: allActors } = await supabase.from('actors').select('*');
+          const { data: allActors } = await supabase.from('actors').select('id, name, slug, tmdb_person_id, profile_img_url');
           if (allActors) {
             activeActor = allActors.find((a: any) => {
               const cleanSlug = a.slug || generateCleanSlug(a.name);
@@ -105,8 +94,6 @@ export default function ActorLandingPage() {
             id: actorIdentifier,
             name: rawName,
             slug: actorIdentifier,
-            tmdb_person_id: undefined,
-            profile_img_url: undefined,
           };
         }
 
@@ -117,7 +104,7 @@ export default function ActorLandingPage() {
           return;
         }
 
-        // 2. Fetch all movies linked to actor via media_actors
+        // 2. Fetch movies linked to actor from internal tables
         let fetchedMovies: any[] = [];
         const { data: mediaLinks } = await supabase
           .from('media_actors')
@@ -168,7 +155,7 @@ export default function ActorLandingPage() {
           return;
         }
 
-        // 3. Fetch verified creator reactions for actor's films
+        // 3. Fetch verified creator reactions from database
         const movieIds = fetchedMovies.map((m) => m.id);
         const movieMap = new Map(fetchedMovies.map((m) => [m.id, m]));
 
@@ -245,7 +232,7 @@ export default function ActorLandingPage() {
       }
     }
 
-    loadActorData();
+    loadActorDataFromDB();
   }, [actorIdentifier]);
 
   if (loading) {
@@ -271,13 +258,11 @@ export default function ActorLandingPage() {
     );
   }
 
-  // Filter movies with 1+ verified reactions
   const reactedMovies = allMovies.filter((m) => {
     const vids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
     return vids.length > 0;
   });
 
-  // Sort Reacted Movies Grid
   const sortedReactedMovies = [...reactedMovies].sort((a, b) => {
     const aVids = a.videos || [];
     const bVids = b.videos || [];
@@ -293,7 +278,6 @@ export default function ActorLandingPage() {
     return filmSortDir === 'desc' ? res : -res;
   });
 
-  // Sort Full Text Filmography List
   const sortedFullMovies = [...allMovies].sort((a, b) => {
     let res = 0;
     if (filmSortBy === 'year') res = (b.release_year || 0) - (a.release_year || 0);
@@ -306,7 +290,6 @@ export default function ActorLandingPage() {
     return filmSortDir === 'desc' ? res : -res;
   });
 
-  // Sort Reaction Videos Feed
   const sortedReactions = [...reactions].sort((a, b) => {
     let res = 0;
     if (reactionSort === 'views') res = (b.view_count || 0) - (a.view_count || 0);
@@ -389,11 +372,11 @@ export default function ActorLandingPage() {
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
         <div className="bg-gradient-to-r from-zinc-900 via-zinc-900 to-zinc-950 border border-zinc-800 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 shadow-2xl">
           <div className="flex items-center gap-5">
-            <div className="relative w-16 h-16 md:w-20 md:h-20 rounded-full overflow-hidden bg-zinc-800 border-2 border-red-600 shadow-2xl flex-none flex items-center justify-center">
+            <div className="relative w-16 h-16 md:w-20 md:h-20 rounded-full overflow-hidden bg-zinc-900 border-2 border-red-600 shadow-2xl flex-none flex items-center justify-center">
               {!imgError && actor.profile_img_url ? (
                 <Image
                   src={actor.profile_img_url}
-                  alt={actor.name}
+                  alt=""
                   fill
                   priority
                   unoptimized
@@ -443,7 +426,7 @@ export default function ActorLandingPage() {
         </div>
       </div>
 
-      {/* Filmography Section Header & Tab Controls */}
+      {/* Tab Controls */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8 mb-6">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 gap-4">
           <div className="flex items-center gap-2">
@@ -472,7 +455,6 @@ export default function ActorLandingPage() {
             </button>
           </div>
 
-          {/* Filmography Filters & Controls */}
           <div className="flex items-center gap-2 text-xs text-zinc-400">
             <button
               onClick={() => setFilmSortDir((prev) => (prev === 'desc' ? 'asc' : 'desc'))}
@@ -497,7 +479,7 @@ export default function ActorLandingPage() {
         </div>
       </div>
 
-      {/* TAB 1: REACTED FILMS ONLY (Media Poster Cards) */}
+      {/* TAB 1: REACTED FILMS ONLY */}
       {activeTab === 'reacted' && (
         <div className="px-6 md:px-12 max-w-7xl mx-auto mb-12">
           {sortedReactedMovies.length === 0 ? (
@@ -556,7 +538,7 @@ export default function ActorLandingPage() {
         </div>
       )}
 
-      {/* TAB 2: FULL TEXT FILMOGRAPHY (IMDb / Wiki Style Table) */}
+      {/* TAB 2: FULL TEXT FILMOGRAPHY */}
       {activeTab === 'full_text' && (
         <div className="px-6 md:px-12 max-w-7xl mx-auto mb-12">
           <div className="bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden shadow-2xl">
@@ -621,7 +603,7 @@ export default function ActorLandingPage() {
         </div>
       )}
 
-      {/* Creator Reactions Feed Section */}
+      {/* Creator Reactions Feed */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 mb-6 gap-4">
           <div className="flex items-center gap-3">
