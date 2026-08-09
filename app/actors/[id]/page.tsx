@@ -50,6 +50,7 @@ export default function ActorLandingPage() {
   const [reactions, setReactions] = useState<Video[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
+  const [imgError, setImgError] = useState(false);
 
   // Tab View State
   const [activeTab, setActiveTab] = useState<'reacted' | 'full_text'>('reacted');
@@ -69,6 +70,7 @@ export default function ActorLandingPage() {
     async function loadActorData() {
       if (!actorIdentifier) return;
       setLoading(true);
+      setImgError(false);
 
       try {
         const supabase = createClient();
@@ -229,7 +231,7 @@ export default function ActorLandingPage() {
                   poster_url: parentMedia.poster_url,
                   backdrop_url: parentMedia.backdrop_url,
                   studio_label: parentMedia.studio_label,
-                  slug: parentMedia.slug || generateCleanSlug(parentMedia.title),
+                  slug: generateCleanSlug(parentMedia.title),
                 }
               : undefined,
           };
@@ -388,21 +390,14 @@ export default function ActorLandingPage() {
         <div className="bg-gradient-to-r from-zinc-900 via-zinc-900 to-zinc-950 border border-zinc-800 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 shadow-2xl">
           <div className="flex items-center gap-5">
             <div className="relative w-16 h-16 md:w-20 md:h-20 rounded-full overflow-hidden bg-zinc-800 border-2 border-red-600 shadow-2xl flex-none flex items-center justify-center">
-              {actor.profile_img_url ? (
+              {!imgError && actor.profile_img_url ? (
                 <Image
                   src={actor.profile_img_url}
                   alt={actor.name}
                   fill
                   priority
                   unoptimized
-                  className="object-cover"
-                />
-              ) : actor.tmdb_person_id ? (
-                <Image
-                  src={`https://image.tmdb.org/t/p/w300/${actor.tmdb_person_id}`}
-                  alt={actor.name}
-                  fill
-                  unoptimized
+                  onError={() => setImgError(true)}
                   className="object-cover"
                 />
               ) : (
@@ -514,7 +509,7 @@ export default function ActorLandingPage() {
           ) : (
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
               {sortedReactedMovies.map((m) => {
-                const filmSlug = m.slug || generateCleanSlug(m.title);
+                const filmSlug = generateCleanSlug(m.title);
                 const movieVids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
                 const filmViews = movieVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
 
@@ -578,7 +573,7 @@ export default function ActorLandingPage() {
                 </thead>
                 <tbody className="divide-y divide-zinc-800/60 font-medium">
                   {sortedFullMovies.map((m) => {
-                    const filmSlug = m.slug || generateCleanSlug(m.title);
+                    const filmSlug = generateCleanSlug(m.title);
                     const movieVids = (m.videos || []).filter((v: any) => v.verification_status === 'verified' || !v.verification_status);
                     const hasReactions = movieVids.length > 0;
 

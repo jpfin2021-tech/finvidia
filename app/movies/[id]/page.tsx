@@ -49,7 +49,7 @@ export default function MovieHubPage() {
 
       try {
         const supabase = createClient();
-        const formattedParam = mediaIdentifier.toLowerCase().trim();
+        const targetSlug = generateCleanSlug(mediaIdentifier);
         const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(mediaIdentifier);
 
         let mediaData: any = null;
@@ -108,11 +108,12 @@ export default function MovieHubPage() {
 
           if (allMedia) {
             mediaData = allMedia.find((m: any) => {
-              const cleanSlug = m.slug || generateCleanSlug(m.title);
+              const titleSlug = generateCleanSlug(m.title);
+              const dbSlug = m.slug ? generateCleanSlug(m.slug) : '';
               return (
-                cleanSlug === formattedParam ||
                 m.id === mediaIdentifier ||
-                generateCleanSlug(m.title) === formattedParam
+                dbSlug === targetSlug ||
+                titleSlug === targetSlug
               );
             });
           }
@@ -186,7 +187,7 @@ export default function MovieHubPage() {
               channel_slug: v.channels?.slug || generateCleanSlug(chanName),
               media_item: {
                 ...formattedMedia,
-                slug: mediaData.slug || generateCleanSlug(formattedMedia.title)
+                slug: generateCleanSlug(formattedMedia.title)
               }
             } as any;
           });
@@ -380,7 +381,7 @@ export default function MovieHubPage() {
                 </p>
                 <div className="flex flex-wrap items-center gap-1.5">
                   {media.actors.map((actor) => {
-                    const actorSlug = actor.slug || generateCleanSlug(actor.name);
+                    const actorSlug = generateCleanSlug(actor.name);
                     return (
                       <Link
                         key={actor.id}
