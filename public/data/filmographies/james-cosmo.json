@@ -1,0 +1,632 @@
+{
+  "id": "cbcac796-5e1b-4250-a398-a9891e364fe9",
+  "name": "James Cosmo",
+  "slug": "james-cosmo",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg",
+  "filmography": [
+    {
+      "id": "ab5da0da-4afb-420a-a39f-049a74c1448c",
+      "title": "Hotel Caledonia",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "hotel-caledonia",
+      "has_reactions": false
+    },
+    {
+      "id": "b5e3c6f5-c926-455f-ac92-31798b7e357b",
+      "title": "The Virgin Soldiers",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-virgin-soldiers",
+      "has_reactions": false
+    },
+    {
+      "id": "3a34ad52-3b3b-445e-b5c8-0f2d40ebab7b",
+      "title": "Sovereign's Company",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "sovereign-s-company",
+      "has_reactions": false
+    },
+    {
+      "id": "153ff90b-6c3f-4ce9-af86-dc9798faf838",
+      "title": "The Duna Bull",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-duna-bull",
+      "has_reactions": false
+    },
+    {
+      "id": "47a7f8bb-4a03-4d8f-b5b9-aeb9792b99bd",
+      "title": "The Professional",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-professional",
+      "has_reactions": false
+    },
+    {
+      "id": "88baae0c-7a74-471f-a70b-9954d623d2b7",
+      "title": "The Cheviot, the Stag and the Black, Black Oil",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-cheviot-the-stag-and-the-black-black-oil",
+      "has_reactions": false
+    },
+    {
+      "id": "be2e614e-b6f3-4dfb-979f-4cd48ae857e9",
+      "title": "The Nightmare Man",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-nightmare-man",
+      "has_reactions": false
+    },
+    {
+      "id": "afaa1e0e-be3b-4970-bbdb-2d859608f46d",
+      "title": "Living Apart Together",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "living-apart-together",
+      "has_reactions": false
+    },
+    {
+      "id": "168805f5-3206-4b23-b028-166bb353b93e",
+      "title": "Operation Julie",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "operation-julie",
+      "has_reactions": false
+    },
+    {
+      "id": "3d05fd55-9bde-4b24-8327-cc407a476084",
+      "title": "Highlander",
+      "release_year": 1986,
+      "studio_label": "Davis-Panzer Productions",
+      "slug": "highlander",
+      "has_reactions": true
+    },
+    {
+      "id": "1625e598-6285-46ed-86b5-e2d5854037d0",
+      "title": "Biggles",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "biggles",
+      "has_reactions": false
+    },
+    {
+      "id": "6b81ee99-ec76-4518-bbb7-4e796577e906",
+      "title": "The Nightwatch",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-nightwatch",
+      "has_reactions": false
+    },
+    {
+      "id": "becbb2de-eddc-4efc-a450-629d6ec1f752",
+      "title": "Treasure Island",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "1fa81cdd-095f-4ce2-8b4f-38e2bec4a77e",
+      "title": "Sin Bin",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "sin-bin",
+      "has_reactions": false
+    },
+    {
+      "id": "9b4533e8-9172-4b6a-ac41-57e0317a52da",
+      "title": "Braveheart",
+      "release_year": 1995,
+      "studio_label": "The Ladd Company",
+      "slug": "braveheart",
+      "has_reactions": true
+    },
+    {
+      "id": "4dc616b0-2073-459d-bf71-5f18184c1746",
+      "title": "Trainspotting",
+      "release_year": 1996,
+      "studio_label": "Figment Films",
+      "slug": "trainspotting",
+      "has_reactions": true
+    },
+    {
+      "id": "8f919817-e208-4b5a-87c7-0bee66e8ab92",
+      "title": "Emma",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "emma",
+      "has_reactions": false
+    },
+    {
+      "id": "b5355d77-4658-4f1e-924b-3215433ddab0",
+      "title": "Santa / Claws",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "santa-claws",
+      "has_reactions": false
+    },
+    {
+      "id": "2b61a552-0101-49e2-ba5f-3aaa8f4797eb",
+      "title": "Babe: Pig in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "babe-pig-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "6213a6e1-cb8c-4d2d-88fd-c2309429774f",
+      "title": "One More Kiss",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "one-more-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "f0e2cf5a-295a-47f5-af8f-a8764d125a3f",
+      "title": "Billy and Zorba",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "billy-and-zorba",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a5f03d-5075-4c64-9ffb-6b7718f1f070",
+      "title": "The Last of the Blonde Bombshells",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-the-blonde-bombshells",
+      "has_reactions": false
+    },
+    {
+      "id": "ddb36403-f87b-4c93-b3ec-3204fe6bb237",
+      "title": "Honest",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "honest",
+      "has_reactions": false
+    },
+    {
+      "id": "2b2a2461-6a9b-479c-9316-0b875e4384df",
+      "title": "To End All Wars",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "to-end-all-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "98946127-69f2-4dd7-b7e2-7ad5aa9fa3c3",
+      "title": "Once Upon a Time in the Midlands",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-the-midlands",
+      "has_reactions": false
+    },
+    {
+      "id": "ed9e34aa-6bff-446f-89a0-7d209117c821",
+      "title": "Sweet Dreams",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "sweet-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "92f462a0-6567-4f1c-b8a0-d613bbe4a1db",
+      "title": "Man Dancin'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "man-dancin",
+      "has_reactions": false
+    },
+    {
+      "id": "955e7660-aa85-4bab-a56f-a7d921b108ce",
+      "title": "Troy",
+      "release_year": 2004,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "troy",
+      "has_reactions": true
+    },
+    {
+      "id": "daa6ccaf-02f1-49bb-842e-35508cfa0d03",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "release_year": 2005,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+      "has_reactions": true
+    },
+    {
+      "id": "88d1e5da-0e81-43c3-8c85-a69d47e45bff",
+      "title": "The Adventures of Greyfriars Bobby",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-greyfriars-bobby",
+      "has_reactions": false
+    },
+    {
+      "id": "cc88c875-2bd1-4ebe-a8dd-e99ca3d1c33a",
+      "title": "Half Light",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "half-light",
+      "has_reactions": false
+    },
+    {
+      "id": "89838626-d23a-414b-a957-31ef5ccc363b",
+      "title": "The Seeker: The Dark Is Rising",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-seeker-the-dark-is-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "4f9206dd-20d1-45ee-8e82-de5afcd7267f",
+      "title": "The Last Legion",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-last-legion",
+      "has_reactions": false
+    },
+    {
+      "id": "12826eec-8b67-401c-8bc2-944338447ee9",
+      "title": "Lives of the Saints",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "lives-of-the-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "ca61782d-c8cb-4de0-9332-879f28a633ad",
+      "title": "Futureshock: Comet",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "futureshock-comet",
+      "has_reactions": false
+    },
+    {
+      "id": "ca50c871-8c6c-429b-9cdc-4172de6514e9",
+      "title": "2081",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "2081",
+      "has_reactions": false
+    },
+    {
+      "id": "a8e80a72-92ef-470a-b276-b4edfb73f791",
+      "title": "The Narnia Code",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-narnia-code",
+      "has_reactions": false
+    },
+    {
+      "id": "b6b72282-72b0-443a-8974-976c46e9409f",
+      "title": "The Santa Incident",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-santa-incident",
+      "has_reactions": false
+    },
+    {
+      "id": "1e5ff67c-f8b5-48c1-a065-cad89dcc8ca8",
+      "title": "Donkeys",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "donkeys",
+      "has_reactions": false
+    },
+    {
+      "id": "bacebb89-ef58-4a9e-88e0-056c580865aa",
+      "title": "One Night in Emergency",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "one-night-in-emergency",
+      "has_reactions": false
+    },
+    {
+      "id": "14cb3cf9-538e-4f25-9a3a-56f51685f501",
+      "title": "No Saints for Sinners",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "no-saints-for-sinners",
+      "has_reactions": false
+    },
+    {
+      "id": "4b87c0f0-a9aa-4100-8a61-822fcc0e1cea",
+      "title": "The Glass Man",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-glass-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f63e3fda-af1d-4463-a2d8-c6f53a8aeb43",
+      "title": "Citadel",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "citadel",
+      "has_reactions": false
+    },
+    {
+      "id": "ead6f36e-558e-4a8c-91ae-55d211ae34dd",
+      "title": "Songs for Amy",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "songs-for-amy",
+      "has_reactions": false
+    },
+    {
+      "id": "b1d9b7aa-45ab-453e-a5cc-32f41bf9073a",
+      "title": "Justin and the Knights of Valour",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "justin-and-the-knights-of-valour",
+      "has_reactions": false
+    },
+    {
+      "id": "1a23b3fc-2d7d-45f3-9653-139e32387776",
+      "title": "The Golden Scallop",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-golden-scallop",
+      "has_reactions": false
+    },
+    {
+      "id": "dbc46baf-4543-424f-a8fa-6300643a8c03",
+      "title": "Hammer of the Gods",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "hammer-of-the-gods",
+      "has_reactions": false
+    },
+    {
+      "id": "4f3afaea-122c-44a6-943c-e30b6a88f89d",
+      "title": "Get Lucky",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "get-lucky",
+      "has_reactions": false
+    },
+    {
+      "id": "8a430d0c-cc2e-48be-9f50-c1f3be62fec7",
+      "title": "The Boogeyman",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-boogeyman",
+      "has_reactions": false
+    },
+    {
+      "id": "1ded4b99-2669-4d5f-97cb-dd295e93377d",
+      "title": "Moonwalkers",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "moonwalkers",
+      "has_reactions": false
+    },
+    {
+      "id": "1b8f08e8-3a0f-46f7-badf-5a17f521800a",
+      "title": "Estranged",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "estranged",
+      "has_reactions": false
+    },
+    {
+      "id": "abf05eb2-6656-43db-a9d8-f784c0f54113",
+      "title": "The Pyramid Texts",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-pyramid-texts",
+      "has_reactions": false
+    },
+    {
+      "id": "bfee8f89-876c-413e-a0c0-df4967894b1b",
+      "title": "The Legend of Barney Thomson",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-barney-thomson",
+      "has_reactions": false
+    },
+    {
+      "id": "a1daa01d-bc03-4346-8864-e3b9b96a0b2d",
+      "title": "Am\u00e9lia & Duarte",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "am-lia-duarte",
+      "has_reactions": false
+    },
+    {
+      "id": "2f41f71a-0d4e-45ab-9df7-09aacfe00e8e",
+      "title": "Ben-Hur",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ben-hur",
+      "has_reactions": false
+    },
+    {
+      "id": "a033cfb0-4b49-440a-9edd-dc7db977ab1b",
+      "title": "Dark Signal",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dark-signal",
+      "has_reactions": false
+    },
+    {
+      "id": "e36e831d-2541-439d-96c3-d95b8022b36a",
+      "title": "Breakdown",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "breakdown",
+      "has_reactions": false
+    },
+    {
+      "id": "1373e690-ef83-4ee6-8798-f568bcc80901",
+      "title": "Bunker: Project 12",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "bunker-project-12",
+      "has_reactions": false
+    },
+    {
+      "id": "77073e6d-8198-484c-a6d4-a83c18547648",
+      "title": "Whisky Galore",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "whisky-galore",
+      "has_reactions": false
+    },
+    {
+      "id": "b6591f83-01fc-4284-ad41-f8cc70a13d52",
+      "title": "Monochrome",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "monochrome",
+      "has_reactions": false
+    },
+    {
+      "id": "f17ea7f6-8ec6-428e-a08f-20c3559b3058",
+      "title": "London Heist",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "london-heist",
+      "has_reactions": false
+    },
+    {
+      "id": "2d210759-ae8c-4b62-9331-1b3a3ee58040",
+      "title": "Wonder Woman",
+      "release_year": 2017,
+      "studio_label": "Atlas Entertainment",
+      "slug": "wonder-woman",
+      "has_reactions": true
+    },
+    {
+      "id": "c149f935-9ebf-4097-b5a4-11d16a22022b",
+      "title": "Darkness Comes",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "darkness-comes",
+      "has_reactions": false
+    },
+    {
+      "id": "9d1815ce-d3a7-4de2-997e-b8a71aea821c",
+      "title": "Ashes in the Snow",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "ashes-in-the-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "d288d2d7-ea17-47c9-af16-31deabdd61fa",
+      "title": "Malevolent",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "malevolent",
+      "has_reactions": false
+    },
+    {
+      "id": "9883a161-27fe-4f48-8139-28ec538feda7",
+      "title": "Outlaw King",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "outlaw-king",
+      "has_reactions": false
+    },
+    {
+      "id": "0c156352-89ef-46f0-8d52-b286f54c11f5",
+      "title": "Tomorrow",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "ef8d3bc1-8e7c-43b3-b801-b8e89b6160a8",
+      "title": "Off Grid",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "off-grid",
+      "has_reactions": false
+    },
+    {
+      "id": "bb351195-b1b4-456d-8470-df35a062d4af",
+      "title": "Get Duked!",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "get-duked",
+      "has_reactions": false
+    },
+    {
+      "id": "45012245-349c-4101-9afb-883885a12476",
+      "title": "The Hole in the Ground",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-hole-in-the-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "e0402e01-e05a-422d-8d63-14b239ecfd65",
+      "title": "My Sailor, My Love",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "my-sailor-my-love",
+      "has_reactions": false
+    },
+    {
+      "id": "6e1c0fbb-5472-4c81-babc-9c7a192badec",
+      "title": "Scrooge: A Christmas Carol",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "scrooge-a-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "127e5f4d-fa8c-471c-933f-b0fd32797b4f",
+      "title": "Breath",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "breath",
+      "has_reactions": false
+    },
+    {
+      "id": "8d5c945b-5d09-4041-97df-8bfc1e95ad66",
+      "title": "The Three Musketeers",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "b65686dc-5f18-413a-997a-67b97a44ccc9",
+      "title": "The Beast Within",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-beast-within",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2dade1-f4da-4012-9572-83e3e4b16ba4",
+      "title": "The Last Redemption",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-last-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "2a122e5f-49f5-4a18-8bad-7ea9a023d2b8",
+      "title": "Storm Rider: Legend of Hammerhead",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "storm-rider-legend-of-hammerhead",
+      "has_reactions": false
+    },
+    {
+      "id": "01ea74b3-2547-49c9-afa2-287dacf76322",
+      "title": "The Morrigan",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-morrigan",
+      "has_reactions": false
+    }
+  ]
+}

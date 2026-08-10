@@ -1,0 +1,40 @@
+{
+  "id": "8e28426c-4a9e-40ae-b81e-95156e319c7b",
+  "name": "Peter Baird",
+  "slug": "peter-baird",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "f2cf1247-30f7-4943-9dd7-2c6815240f35",
+      "title": "The Muppet Movie",
+      "release_year": 1979,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-muppet-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "86bbe008-a09f-4fbd-a8a2-ecc8c007d6d2",
+      "title": "The Muppets Take Manhattan",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-take-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "9dfde6ab-5f52-4a3a-93c5-dded00d341e2",
+      "title": "Howard the Duck",
+      "release_year": 1986,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "howard-the-duck",
+      "has_reactions": true
+    },
+    {
+      "id": "ac914a6c-dfba-4b49-8910-ffc269e0aea0",
+      "title": "Shining Time Station: Once Upon a Time",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "shining-time-station-once-upon-a-time",
+      "has_reactions": false
+    }
+  ]
+}

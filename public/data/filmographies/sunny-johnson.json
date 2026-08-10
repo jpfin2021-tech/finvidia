@@ -1,0 +1,40 @@
+{
+  "id": "d7d1457f-5dfd-4e1b-84a7-ba4737fea0fd",
+  "name": "Sunny Johnson",
+  "slug": "sunny-johnson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/foLbiFLTAYM7SxwW6c2Ojc2Vo38.jpg",
+  "filmography": [
+    {
+      "id": "5afe8c87-847d-48a1-b02a-c35f65fe9418",
+      "title": "Animal House",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "animal-house",
+      "has_reactions": true
+    },
+    {
+      "id": "5ce23b84-a5b1-4d43-af13-639b712bbf46",
+      "title": "Dr. Heckyl and Mr. Hype",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "dr-heckyl-and-mr-hype",
+      "has_reactions": false
+    },
+    {
+      "id": "0a1ad76a-9020-4388-a63b-4acb500f0fd6",
+      "title": "Flashdance",
+      "release_year": 1983,
+      "studio_label": "Paramount Pictures",
+      "slug": "flashdance",
+      "has_reactions": true
+    },
+    {
+      "id": "7b1ef4df-36f7-44cc-b062-31406979da53",
+      "title": "The Red-Light Sting",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-red-light-sting",
+      "has_reactions": false
+    }
+  ]
+}

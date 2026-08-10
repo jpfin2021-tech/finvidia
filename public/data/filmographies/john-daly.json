@@ -1,0 +1,24 @@
+{
+  "id": "8336d832-83bf-413c-9a83-7e104bd7b8e4",
+  "name": "John Daly",
+  "slug": "john-daly",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "2ec53e1c-f25b-4343-9bbd-e35f8540d844",
+      "title": "Hit It Hard",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "hit-it-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae0818b-2398-4c44-8db0-ebb8c0adcbaa",
+      "title": "Happy Gilmore 2",
+      "release_year": 2025,
+      "studio_label": "Happy Madison Productions",
+      "slug": "happy-gilmore-2",
+      "has_reactions": true
+    }
+  ]
+}

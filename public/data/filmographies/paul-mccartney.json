@@ -1,0 +1,640 @@
+{
+  "id": "317d5787-437e-471c-86dd-72fabda1890f",
+  "name": "Paul McCartney",
+  "slug": "paul-mccartney",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg",
+  "filmography": [
+    {
+      "id": "f1285c3a-fcf7-49f2-a803-ea3afa81910f",
+      "title": "The Mersey Sound",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-mersey-sound",
+      "has_reactions": false
+    },
+    {
+      "id": "248e76ca-ffc3-42c6-b0dc-3777456617e1",
+      "title": "A Hard Day's Night",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "a-hard-day-s-night",
+      "has_reactions": false
+    },
+    {
+      "id": "b1002515-6f6f-478f-8495-50d0e8b65c34",
+      "title": "Yeah! Yeah! Yeah! The Beatles in New York",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "yeah-yeah-yeah-the-beatles-in-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "05566172-86fe-4d0f-abc5-3685259cbe4f",
+      "title": "The Beatles: Live at the Washington Coliseum",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-live-at-the-washington-coliseum",
+      "has_reactions": false
+    },
+    {
+      "id": "f26d6b67-629a-437d-a6bb-9309c07ce935",
+      "title": "Magical Mystery Tour",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "magical-mystery-tour",
+      "has_reactions": false
+    },
+    {
+      "id": "874048cf-a577-4d74-95bf-62e2515c09cc",
+      "title": "Our World",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "our-world",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa2b02-7878-49ac-bc16-2d457aff7cb9",
+      "title": "The Movie Orgy",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-movie-orgy",
+      "has_reactions": false
+    },
+    {
+      "id": "672aa60c-2ad4-4804-ba61-b140b4f50a88",
+      "title": "Let It Be",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "let-it-be",
+      "has_reactions": false
+    },
+    {
+      "id": "9235ee50-1c6f-4b6c-9029-983c6d363524",
+      "title": "The Society of the Spectacle",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-society-of-the-spectacle",
+      "has_reactions": false
+    },
+    {
+      "id": "cbbae095-7531-4dee-86b6-a1cc564a8642",
+      "title": "The Day the Music Died",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-day-the-music-died",
+      "has_reactions": false
+    },
+    {
+      "id": "7b52604f-e4ed-461a-965f-b8aaf3c40894",
+      "title": "The Beatles at Shea Stadium",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-at-shea-stadium",
+      "has_reactions": false
+    },
+    {
+      "id": "cd517bb9-3fc8-41b5-9d51-d5180f1cb108",
+      "title": "I Wanna Hold Your Hand",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "i-wanna-hold-your-hand",
+      "has_reactions": false
+    },
+    {
+      "id": "eadb0e9f-e94b-4e86-99cf-41d096ec669e",
+      "title": "Back to the Egg",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "back-to-the-egg",
+      "has_reactions": false
+    },
+    {
+      "id": "da8a7214-f9a7-4e8d-98c0-65c3392e7c12",
+      "title": "Live Aid",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "live-aid",
+      "has_reactions": false
+    },
+    {
+      "id": "cc44df0c-8da5-45c0-89a6-8066d3018ead",
+      "title": "Fun with the Fab Four",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "fun-with-the-fab-four",
+      "has_reactions": false
+    },
+    {
+      "id": "96b2aac7-e50c-411a-919e-6db114b5e77d",
+      "title": "Jimi Plays Monterey",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "jimi-plays-monterey",
+      "has_reactions": false
+    },
+    {
+      "id": "9fbcb052-9498-4134-8d02-12c08ddbf860",
+      "title": "Paul McCartney: Put It There",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-put-it-there",
+      "has_reactions": false
+    },
+    {
+      "id": "1221a899-86ea-4c46-a6c6-4ca3f47fb4ee",
+      "title": "Paul McCartney's Get Back",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-s-get-back",
+      "has_reactions": false
+    },
+    {
+      "id": "7cdf9a8c-7711-4962-b4a4-bc37b6ce0182",
+      "title": "The Beatles: The Making of Sgt. Pepper",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-the-making-of-sgt-pepper",
+      "has_reactions": false
+    },
+    {
+      "id": "cda88409-3944-4d71-b28c-8f9bf6432b6f",
+      "title": "Paul Is Live In Concert \u2013 On the New World Tour",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "paul-is-live-in-concert-on-the-new-world-tour",
+      "has_reactions": false
+    },
+    {
+      "id": "235b3a2e-fe8b-4a92-87b2-fe5dd1c154b0",
+      "title": "Help! War Child",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "help-war-child",
+      "has_reactions": false
+    },
+    {
+      "id": "acb6f292-2876-4f01-94ff-295264cb6e3d",
+      "title": "The Beatles Unauthorized",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-unauthorized",
+      "has_reactions": false
+    },
+    {
+      "id": "3bbdebf0-0a5e-4ea0-93a2-1e10520c4969",
+      "title": "Paul McCartney: Live at the Cavern Club",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-live-at-the-cavern-club",
+      "has_reactions": false
+    },
+    {
+      "id": "402da516-9b04-49d2-a933-c3b7592b1e95",
+      "title": "Wingspan",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "wingspan",
+      "has_reactions": false
+    },
+    {
+      "id": "3c8f9ab4-5832-4655-896f-f33701ddd9a3",
+      "title": "Things They Said Today",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "things-they-said-today",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae42808-0099-4104-b241-2fe6b98fea63",
+      "title": "Paul McCartney: Back in the U.S.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-back-in-the-u-s",
+      "has_reactions": false
+    },
+    {
+      "id": "484999f0-4dba-46de-bd6f-abfd65cfa042",
+      "title": "Party at the Palace: The Queen's Concerts, Buckingham Palace",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "party-at-the-palace-the-queen-s-concerts-buckingham-palace",
+      "has_reactions": false
+    },
+    {
+      "id": "474f4015-6e0e-4f23-93a3-9dd7ebf9cf5f",
+      "title": "Inside John Lennon - Unauthorized",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "inside-john-lennon-unauthorized",
+      "has_reactions": false
+    },
+    {
+      "id": "b194fb9c-729b-4033-9053-51caa82e4158",
+      "title": "Paul McCartney: In Red Square",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-in-red-square",
+      "has_reactions": false
+    },
+    {
+      "id": "0e7b7c1f-254f-4708-9f4e-ce5185056918",
+      "title": "The Beatles: Watching Rainbows",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-watching-rainbows",
+      "has_reactions": false
+    },
+    {
+      "id": "125c0ee4-7090-42c1-82ec-3b9055cec9dc",
+      "title": "Brian Epstein: Inside the Fifth Beatle",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "brian-epstein-inside-the-fifth-beatle",
+      "has_reactions": false
+    },
+    {
+      "id": "bf97f34c-00ff-4a46-8528-f99aa304046b",
+      "title": "Paul McCartney: The Space Within Us",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-the-space-within-us",
+      "has_reactions": false
+    },
+    {
+      "id": "6bec5fb0-0549-4632-9792-a3fdeddba68e",
+      "title": "THE BEATLES in HELP!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-in-help",
+      "has_reactions": false
+    },
+    {
+      "id": "946a4990-995b-4cd0-8331-f0591ff96550",
+      "title": "Rare and Unseen: The Beatles",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "rare-and-unseen-the-beatles",
+      "has_reactions": false
+    },
+    {
+      "id": "d202c2e0-d12c-4261-a058-1df9c58f7dcc",
+      "title": "Paul McCartney: The Liverpool Sound",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-the-liverpool-sound",
+      "has_reactions": false
+    },
+    {
+      "id": "74f02309-48d2-4fff-85cf-3ca502bc219e",
+      "title": "Paul McCartney: Independence Concert - Live in Kyiv",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-independence-concert-live-in-kyiv",
+      "has_reactions": false
+    },
+    {
+      "id": "395fb3d9-ac16-464c-b6bd-52e4f1b43578",
+      "title": "All Together Now",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "all-together-now",
+      "has_reactions": false
+    },
+    {
+      "id": "5d5e5cc7-1c53-4427-b39a-f34675fbbafd",
+      "title": "Paul McCartney: Good Evening New York City",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-good-evening-new-york-city",
+      "has_reactions": false
+    },
+    {
+      "id": "e71f8860-36d2-4a17-a613-3e7295cca4c6",
+      "title": "The Beatles: The Mini Documentaries",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-the-mini-documentaries",
+      "has_reactions": false
+    },
+    {
+      "id": "c11dfd3b-e82a-44a0-89d4-08bd75c2e361",
+      "title": "The Beatles on Record",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-on-record",
+      "has_reactions": false
+    },
+    {
+      "id": "a0f3938f-0abd-43e3-98b3-dbd9fda12f0f",
+      "title": "Rock and Roll Hall of Fame Live - The Concert for the Rock and Roll Hall of Fame",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "rock-and-roll-hall-of-fame-live-the-concert-for-the-rock-and-roll-hall-of-fame",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c5f79f-b191-4f4e-b9ac-247bb4b5f51c",
+      "title": "Paul McCartney - Live in Halifax, Nova Scotia",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-live-in-halifax-nova-scotia",
+      "has_reactions": false
+    },
+    {
+      "id": "022bf2bc-8be9-4986-9e2e-e2ec1c6ab95c",
+      "title": "The 4 Complete Ed Sullivan Shows Starring The Beatles",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-4-complete-ed-sullivan-shows-starring-the-beatles",
+      "has_reactions": false
+    },
+    {
+      "id": "da101aa9-e7fd-4a77-a8ae-cfce439afeef",
+      "title": "The Beatles: A Magical History Tour",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-a-magical-history-tour",
+      "has_reactions": false
+    },
+    {
+      "id": "8872efec-d511-4d6b-af40-5746c5580000",
+      "title": "John Lennon: Love Is All You Need",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "john-lennon-love-is-all-you-need",
+      "has_reactions": false
+    },
+    {
+      "id": "e052be5d-c9ef-4144-b31f-ef7a7eebf791",
+      "title": "The Best British Rock Concert of All Time: Live at Knebworth",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-best-british-rock-concert-of-all-time-live-at-knebworth",
+      "has_reactions": false
+    },
+    {
+      "id": "2182b1cd-2350-408d-83fe-412374336247",
+      "title": "Paul McCartney Really Is Dead: The Last Testament of George Harrison",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-really-is-dead-the-last-testament-of-george-harrison",
+      "has_reactions": false
+    },
+    {
+      "id": "09afb091-2712-418e-bbed-5b208ffd85a5",
+      "title": "Paul McCartney: In Performance at the White House",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-in-performance-at-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "1dc37b39-0a45-49e5-9f66-7cf597ffe2c4",
+      "title": "Beatles Stories",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "beatles-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "62233d29-e653-4670-8940-8e7349a5e894",
+      "title": "All You Need Is Klaus",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "all-you-need-is-klaus",
+      "has_reactions": false
+    },
+    {
+      "id": "00ad144a-f42a-4c1e-97cf-288c9a5fb50e",
+      "title": "The Love We Make",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-love-we-make",
+      "has_reactions": false
+    },
+    {
+      "id": "7c84171d-a371-4b33-ad08-f02b1a2b5198",
+      "title": "Billy Joel - Live at Shea Stadium",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "billy-joel-live-at-shea-stadium",
+      "has_reactions": false
+    },
+    {
+      "id": "9c5142e6-517e-4bd9-8c55-1684572dd67f",
+      "title": "The Beatles - Unsurpassed Promos",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-unsurpassed-promos",
+      "has_reactions": false
+    },
+    {
+      "id": "7e7e8e38-8abf-452e-8d02-0dcd5acfbace",
+      "title": "God Bless Ozzy Osbourne",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "god-bless-ozzy-osbourne",
+      "has_reactions": false
+    },
+    {
+      "id": "6373089b-85d4-4461-a509-982609a42cd5",
+      "title": "The Diamond Jubilee Concert 2012",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-diamond-jubilee-concert-2012",
+      "has_reactions": false
+    },
+    {
+      "id": "4b44f67c-13f4-450e-a05a-cd3af28f58e4",
+      "title": "Mr. Blue Sky: The Story of Jeff Lynne & ELO",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mr-blue-sky-the-story-of-jeff-lynne-elo",
+      "has_reactions": false
+    },
+    {
+      "id": "4b9c08b0-af26-4157-9e9d-4f30f6534348",
+      "title": "Paul McCartney: Live Kisses",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-live-kisses",
+      "has_reactions": false
+    },
+    {
+      "id": "98322cdb-434c-4226-81cd-d4ba90999463",
+      "title": "Produced by George Martin",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "produced-by-george-martin",
+      "has_reactions": false
+    },
+    {
+      "id": "570cec16-ebc7-4d83-a8eb-74774ab11c76",
+      "title": "Sound City",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sound-city",
+      "has_reactions": false
+    },
+    {
+      "id": "3f101dd7-00ee-46dc-ba94-98925912feea",
+      "title": "Rockshow",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "rockshow",
+      "has_reactions": false
+    },
+    {
+      "id": "a7479a4f-fe26-44e4-9b92-1af4252f822e",
+      "title": "Beatles chronology  (1962-1970)",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "beatles-chronology-1962-1970",
+      "has_reactions": false
+    },
+    {
+      "id": "0e556f3e-0623-4428-bdc6-0f53f274771f",
+      "title": "Stupor Mundi: Livre 1, Rituel de d\u00e9capitation du pape",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "stupor-mundi-livre-1-rituel-de-d-capitation-du-pape",
+      "has_reactions": false
+    },
+    {
+      "id": "da7a196d-5b8a-44a4-8258-eeb8b776f62a",
+      "title": "Take Your Pills",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "take-your-pills",
+      "has_reactions": false
+    },
+    {
+      "id": "18a99f63-0487-40fe-8beb-877fde52e0b3",
+      "title": "Eric Clapton: Life in 12 Bars",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "eric-clapton-life-in-12-bars",
+      "has_reactions": false
+    },
+    {
+      "id": "5157a916-dcf2-494e-b2d2-e4251ba4973b",
+      "title": "Linda Ronstadt: The Sound of My Voice",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "linda-ronstadt-the-sound-of-my-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "2ccbc293-1af0-4bf5-b959-d8c886d80347",
+      "title": "Manson: Music from an Unsound Mind",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "manson-music-from-an-unsound-mind",
+      "has_reactions": false
+    },
+    {
+      "id": "b19f22ae-7f35-464c-93a3-3fffb36a36ff",
+      "title": "Idris Elba Meets Paul McCartney",
+      "release_year": 2020,
+      "studio_label": "BBC",
+      "slug": "idris-elba-meets-paul-mccartney",
+      "has_reactions": false
+    },
+    {
+      "id": "26726365-3e9e-431f-b0d0-7ee9f7d7840a",
+      "title": "Jealous Guy: The Assassination of John Lennon",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jealous-guy-the-assassination-of-john-lennon",
+      "has_reactions": false
+    },
+    {
+      "id": "6da0f71c-7f41-436d-a89d-8661a6916d2c",
+      "title": "The Beatles and India",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-and-india",
+      "has_reactions": false
+    },
+    {
+      "id": "1f8dd918-7aab-4c0b-a5f8-b63e650c3355",
+      "title": "Under the Volcano",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "under-the-volcano",
+      "has_reactions": false
+    },
+    {
+      "id": "041e3575-78cd-4a31-8fbb-04bad7e9b1d6",
+      "title": "Paul McCartney at the BBC",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "881de5c6-a255-4876-bea8-a4594878ae7e",
+      "title": "The Beatles: Get Back - The Rooftop Concert",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-get-back-the-rooftop-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "a00f029b-e7a7-4e85-b880-acc3d93a60db",
+      "title": "George Michael: Freedom Uncut",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "george-michael-freedom-uncut",
+      "has_reactions": false
+    },
+    {
+      "id": "3e35b6d8-361f-4518-a36c-05cc149e7fad",
+      "title": "Sounds of Liverpool at the BBC",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "sounds-of-liverpool-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "928666ef-1c58-4a94-9d2d-bc92f942a50d",
+      "title": "Squaring the Circle (The Story of Hipgnosis)",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "squaring-the-circle-the-story-of-hipgnosis",
+      "has_reactions": false
+    },
+    {
+      "id": "c30e47cd-6bac-41b8-9627-95d49d40ddf9",
+      "title": "Little Richard: I Am Everything",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "little-richard-i-am-everything",
+      "has_reactions": false
+    },
+    {
+      "id": "850322b5-d885-4f6a-8cf5-38d754abf22a",
+      "title": "The Trials of Heather Mills",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-trials-of-heather-mills",
+      "has_reactions": false
+    },
+    {
+      "id": "2af09f6e-8134-418f-ae7e-7073de3ac049",
+      "title": "Louder Than Rock",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "louder-than-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "c59b9876-292f-405e-9e02-4eb9d799408a",
+      "title": "The Stones and Brian Jones",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-stones-and-brian-jones",
+      "has_reactions": false
+    }
+  ]
+}

@@ -79,11 +79,11 @@ export default function ActorLandingPage() {
 
         setActor(actorData);
 
-        // 2. Fetch Reacted Movies from verified_movies View via media_actors
+        // 2. Fetch reacted movies linked to actor from clean media_items
         const { data: mediaLinks } = await supabase
           .from('media_actors')
           .select(`
-            verified_movies (
+            media_items (
               id,
               title,
               slug,
@@ -91,8 +91,7 @@ export default function ActorLandingPage() {
               poster_url,
               backdrop_url,
               studio_label,
-              reaction_count,
-              total_views
+              videos (id, view_count, verification_status)
             )
           `)
           .eq('actor_id', actorData.id);
@@ -100,8 +99,19 @@ export default function ActorLandingPage() {
         let activeReactedMovies: any[] = [];
         if (mediaLinks && mediaLinks.length > 0) {
           activeReactedMovies = mediaLinks
-            .map((item: any) => item.verified_movies)
-            .filter(Boolean);
+            .map((item: any) => item.media_items)
+            .filter(Boolean)
+            .map((m: any) => {
+              const verifiedVids = (m.videos || []).filter(
+                (v: any) => v.verification_status === 'verified' || !v.verification_status
+              );
+              const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+              return {
+                ...m,
+                reaction_count: verifiedVids.length,
+                total_views: totalViews,
+              };
+            });
         }
 
         setReactedMovies(activeReactedMovies);
@@ -111,7 +121,7 @@ export default function ActorLandingPage() {
           return;
         }
 
-        // 3. Fetch verified reaction videos for actor's reacted movies
+        // 3. Fetch verified reaction videos
         const movieIds = activeReactedMovies.map((m) => m.id);
         const movieMap = new Map(activeReactedMovies.map((m) => [m.id, m]));
 
@@ -205,8 +215,8 @@ export default function ActorLandingPage() {
       <div className="min-h-screen bg-[#09090b] pt-32 px-6 text-center text-zinc-400">
         <h2 className="text-xl font-bold text-white">Actor profile not found</h2>
         <button
-          onClick={() => router.push('/browse')}
-          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg"
+          onClick={() => router.push('/movies')}
+          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg cursor-pointer"
         >
           Return to Movie Index
         </button>
@@ -214,7 +224,6 @@ export default function ActorLandingPage() {
     );
   }
 
-  // Sort Reacted Movies Grid
   const sortedReactedMovies = [...reactedMovies].sort((a, b) => {
     let res = 0;
     if (filmSortBy === 'views') res = (b.total_views || 0) - (a.total_views || 0);
@@ -225,7 +234,6 @@ export default function ActorLandingPage() {
     return filmSortDir === 'desc' ? res : -res;
   });
 
-  // Sort Reaction Videos Feed
   const sortedReactions = [...reactions].sort((a, b) => {
     let res = 0;
     if (reactionSort === 'views') res = (b.view_count || 0) - (a.view_count || 0);
@@ -305,7 +313,7 @@ export default function ActorLandingPage() {
         </button>
       </div>
 
-      {/* Actor Hero Banner */}
+      {/* Hero Banner */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
         <div className="bg-gradient-to-r from-zinc-900 via-zinc-900 to-zinc-950 border border-zinc-800 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6 shadow-2xl">
           <div className="flex items-center gap-5">
@@ -363,7 +371,7 @@ export default function ActorLandingPage() {
         </div>
       </div>
 
-      {/* Reacted Filmography Section & Sub-Page Button */}
+      {/* Reacted Filmography Header & Filmography Sub-Page Link */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto mt-8 mb-6">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-zinc-800 pb-4 gap-4">
           <div className="flex items-center gap-3">
@@ -371,7 +379,6 @@ export default function ActorLandingPage() {
               <Film className="w-5 h-5 text-red-500" /> Reacted Films ({reactedMovies.length})
             </h2>
 
-            {/* Direct Link to Standalone Chronological Filmography Sub-Page */}
             <Link
               href={`/actors/${actorSlug}/filmography`}
               className="bg-zinc-800 hover:bg-red-600 border border-zinc-700 hover:border-red-500 text-zinc-200 hover:text-white text-xs font-bold px-3.5 py-1.5 rounded-xl transition-all flex items-center gap-1.5 shadow-md cursor-pointer"
@@ -405,7 +412,7 @@ export default function ActorLandingPage() {
         </div>
       </div>
 
-      {/* REACTED POSTER CARDS */}
+      {/* Poster Cards Grid */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto mb-12">
         {sortedReactedMovies.length === 0 ? (
           <div className="py-16 text-center text-zinc-500 bg-zinc-950/60 border border-zinc-800 rounded-2xl p-6">

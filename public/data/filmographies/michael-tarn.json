@@ -1,0 +1,32 @@
+{
+  "id": "5f955de0-78ff-458f-b00a-632927f50706",
+  "name": "Michael Tarn",
+  "slug": "michael-tarn",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/34dqPwJtsB3CrXShZA8zhm7pq0c.jpg",
+  "filmography": [
+    {
+      "id": "52cde481-2beb-4c6b-bcfb-17d706436179",
+      "title": "A Clockwork Orange",
+      "release_year": 1971,
+      "studio_label": "Polaris Productions Limited",
+      "slug": "a-clockwork-orange",
+      "has_reactions": true
+    },
+    {
+      "id": "67a67d9d-2fcd-408e-9765-3ff18c8b1643",
+      "title": "Made",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "made",
+      "has_reactions": false
+    },
+    {
+      "id": "e1a80c16-3464-47be-b2bb-2a8e7bab21a8",
+      "title": "Children of the Sun",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "children-of-the-sun",
+      "has_reactions": false
+    }
+  ]
+}

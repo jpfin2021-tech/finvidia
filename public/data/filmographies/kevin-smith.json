@@ -1,0 +1,632 @@
+{
+  "id": "39dd4edc-3172-4b85-ac63-17aa675e6a9d",
+  "name": "Kevin Smith",
+  "slug": "kevin-smith",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg",
+  "filmography": [
+    {
+      "id": "d0b0fc2d-3fb8-4321-aaf9-96785515147f",
+      "title": "Jay and Silent Bob: Store Wars",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-store-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "5767b402-fc8e-4af8-a688-f6f4507e59ad",
+      "title": "Clerks",
+      "release_year": 1994,
+      "studio_label": "View Askew Productions",
+      "slug": "clerks",
+      "has_reactions": true
+    },
+    {
+      "id": "7d67bbf5-ecf1-4c09-b57a-94db0eebf229",
+      "title": "Mallrats",
+      "release_year": 1995,
+      "studio_label": "Gramercy Pictures",
+      "slug": "mallrats",
+      "has_reactions": true
+    },
+    {
+      "id": "90b6541e-c5b6-4f09-8baf-ecb60ac3a599",
+      "title": "Drawing Flies",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "drawing-flies",
+      "has_reactions": false
+    },
+    {
+      "id": "5cdb9d2d-6531-4aa7-916d-f844cfd817ec",
+      "title": "Chasing Amy",
+      "release_year": 1997,
+      "studio_label": "View Askew Productions",
+      "slug": "chasing-amy",
+      "has_reactions": true
+    },
+    {
+      "id": "77f60ba0-53bd-4d29-afb5-d2507947d0ce",
+      "title": "Jay and Silent Bob's Video Stash",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-s-video-stash",
+      "has_reactions": false
+    },
+    {
+      "id": "854bc868-2802-4020-bc35-e19f420b4ca1",
+      "title": "Big Helium Dog",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "big-helium-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "aa4fbe01-8924-4189-8394-5189fa52a30e",
+      "title": "Dogma",
+      "release_year": 1999,
+      "studio_label": "View Askew Productions",
+      "slug": "dogma",
+      "has_reactions": true
+    },
+    {
+      "id": "88d5b81a-6e5b-4058-b936-487721d00468",
+      "title": "Scream 3",
+      "release_year": 2000,
+      "studio_label": "Dimension Films",
+      "slug": "scream-3",
+      "has_reactions": true
+    },
+    {
+      "id": "eac74d10-12c7-46ea-a4f8-0d6e4e45af56",
+      "title": "Jay and Silent Bob Strike Back",
+      "release_year": 2001,
+      "studio_label": "Dimension Films",
+      "slug": "jay-and-silent-bob-strike-back",
+      "has_reactions": true
+    },
+    {
+      "id": "7e80df9f-29be-453e-a062-c1d1fe0256a4",
+      "title": "Starwoids",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "starwoids",
+      "has_reactions": false
+    },
+    {
+      "id": "c282a16d-bb95-45d6-98ba-4fa5ec14a1e4",
+      "title": "Why I Love New #*$%!&@ York",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "why-i-love-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "54ebabb8-a2e3-4185-a04d-ef411a370b94",
+      "title": "Now You Know",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "now-you-know",
+      "has_reactions": false
+    },
+    {
+      "id": "8083872a-2609-41fc-bb58-1ad5004346fa",
+      "title": "Vulgar",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "vulgar",
+      "has_reactions": false
+    },
+    {
+      "id": "af219e28-0249-4e64-8fd8-d43d1f0182e0",
+      "title": "An Evening with Kevin Smith",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "an-evening-with-kevin-smith",
+      "has_reactions": false
+    },
+    {
+      "id": "8ed9f71c-389d-41ab-a543-b24d460c6fd5",
+      "title": "Stan Lee's Mutants, Monsters & Marvels",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "stan-lee-s-mutants-monsters-marvels",
+      "has_reactions": false
+    },
+    {
+      "id": "95292bb3-ee1d-426a-9595-d5e818b13f38",
+      "title": "Roadside Attractions with Kevin Smith",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "roadside-attractions-with-kevin-smith",
+      "has_reactions": false
+    },
+    {
+      "id": "b3f35731-3c39-44ad-9a51-7bb43f8becfb",
+      "title": "Comic Book Superheroes Unmasked",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "comic-book-superheroes-unmasked",
+      "has_reactions": false
+    },
+    {
+      "id": "fa5393f4-f24c-410c-80b5-01b0752a213f",
+      "title": "Comic Book: The Movie",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "comic-book-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "da4b00d3-b0f6-47cb-886a-17b6dd928644",
+      "title": "Snowball Effect: The Story of Clerks",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "snowball-effect-the-story-of-clerks",
+      "has_reactions": false
+    },
+    {
+      "id": "0944bbbf-d926-45be-9c0b-f1cf9d6346e0",
+      "title": "'Clerks' 10th Anniversary Q&A",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "clerks-10th-anniversary-q-a",
+      "has_reactions": false
+    },
+    {
+      "id": "74caca80-a5e9-48fe-a178-65adf037a7df",
+      "title": "Oh, What a Lovely Tea Party",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "oh-what-a-lovely-tea-party",
+      "has_reactions": false
+    },
+    {
+      "id": "139c6a6d-9a60-48fa-9140-3d424bf20501",
+      "title": "Legends of the Dark Knight: The History of Batman",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "legends-of-the-dark-knight-the-history-of-batman",
+      "has_reactions": false
+    },
+    {
+      "id": "8fd33575-545c-46b7-9dcf-002425668aae",
+      "title": "My Date with Drew",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "my-date-with-drew",
+      "has_reactions": false
+    },
+    {
+      "id": "a075078d-fa57-43bb-b998-91d1abf3fb15",
+      "title": "Clerks II",
+      "release_year": 2006,
+      "studio_label": "The Weinstein Company",
+      "slug": "clerks-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "33a06f18-46e2-4107-9426-0ed3b75380be",
+      "title": "Bottoms Up",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bottoms-up",
+      "has_reactions": false
+    },
+    {
+      "id": "4e1b23f3-ffd4-4852-bf2d-13cd32b097df",
+      "title": "Catch and Release",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "catch-and-release",
+      "has_reactions": false
+    },
+    {
+      "id": "90c08b86-7a19-43b9-a3bd-6e3221ff8e57",
+      "title": "An Evening with Kevin Smith 2: Evening Harder",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "an-evening-with-kevin-smith-2-evening-harder",
+      "has_reactions": false
+    },
+    {
+      "id": "37542ae1-1baf-435c-ac5f-d38697a339b2",
+      "title": "This Film Is Not Yet Rated",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "this-film-is-not-yet-rated",
+      "has_reactions": false
+    },
+    {
+      "id": "6c155d79-2cb8-4ebb-87fc-22aa41d07bcf",
+      "title": "Star Wars: The Legacy Revealed",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "star-wars-the-legacy-revealed",
+      "has_reactions": false
+    },
+    {
+      "id": "f1f2ad43-885c-44b4-a472-58af8d985f30",
+      "title": "Live Free or Die Hard",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "live-free-or-die-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "91b152c4-3328-4f15-ae12-2e5ac1d96897",
+      "title": "The Junior Defenders",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-junior-defenders",
+      "has_reactions": false
+    },
+    {
+      "id": "3ebf3e71-e7e8-4310-ac7b-21aef8d19976",
+      "title": "Marvel Then and Now: An Evening with Stan Lee and Joe Quesada",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "marvel-then-and-now-an-evening-with-stan-lee-and-joe-quesada",
+      "has_reactions": false
+    },
+    {
+      "id": "a9821535-eafc-4556-935c-bb921603a59b",
+      "title": "Sold Out: A Threevening with Kevin Smith",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "sold-out-a-threevening-with-kevin-smith",
+      "has_reactions": false
+    },
+    {
+      "id": "bdb94c77-2dfd-4d67-a95a-db8eb1bdf1a1",
+      "title": "Tracing Amy: The Chasing Amy Doc",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "tracing-amy-the-chasing-amy-doc",
+      "has_reactions": false
+    },
+    {
+      "id": "33056510-0978-4e8e-99e1-837ed9eb29c0",
+      "title": "Bear Nation",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bear-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "6b0a3693-e2a4-4329-af83-da1a3553a503",
+      "title": "Cop Out: Maximum Comedy Mode",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "cop-out-maximum-comedy-mode",
+      "has_reactions": false
+    },
+    {
+      "id": "2aee4fd2-bcac-4cab-b5ab-b45f5c80be1d",
+      "title": "Kevin Smith: Too Fat For 40",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kevin-smith-too-fat-for-40",
+      "has_reactions": false
+    },
+    {
+      "id": "71734656-aebd-4742-88fa-fbea4f99fe1a",
+      "title": "Jay and Silent Bob Get Old - LIVE!!",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-get-old-live",
+      "has_reactions": false
+    },
+    {
+      "id": "59d258eb-58a9-41ac-b17b-0bed98368530",
+      "title": "4.3.2.1",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "4-3-2-1",
+      "has_reactions": false
+    },
+    {
+      "id": "7cf3361d-0185-43fe-a782-32ebac634bbd",
+      "title": "Hughes the Force",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hughes-the-force",
+      "has_reactions": false
+    },
+    {
+      "id": "8dea872d-9abc-49d2-8a69-f00d1cff0cde",
+      "title": "Kevin Smith: Smodimations",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kevin-smith-smodimations",
+      "has_reactions": false
+    },
+    {
+      "id": "c3b8343f-fa3f-4308-9728-481431a5123d",
+      "title": "Kevin Smith: Burn in Hell",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "kevin-smith-burn-in-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "b5400501-450d-4dc3-b476-667ea003f7f3",
+      "title": "BearCity 2: The Proposal",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bearcity-2-the-proposal",
+      "has_reactions": false
+    },
+    {
+      "id": "10bdd4c7-6c71-4623-9d05-f4909b129ebf",
+      "title": "Jay and Silent Bob Get Irish: The Swearing o' the Green!",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-get-irish-the-swearing-o-the-green",
+      "has_reactions": false
+    },
+    {
+      "id": "dc577ff6-e662-43f8-8b5d-e018a7d74b3e",
+      "title": "Jay and Silent Bob Get Old: Teabagging in the UK",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-get-old-teabagging-in-the-uk",
+      "has_reactions": false
+    },
+    {
+      "id": "e13fda84-2ece-435e-9f47-1ee86f11f333",
+      "title": "For a Good Time, Call...",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "for-a-good-time-call",
+      "has_reactions": false
+    },
+    {
+      "id": "9672eab0-4a15-4328-b51c-0c9f40b3ee64",
+      "title": "Jay and Silent Bob Go Down Under",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-go-down-under",
+      "has_reactions": false
+    },
+    {
+      "id": "a07b9e01-93ba-4a09-a6eb-73ae7db6cd86",
+      "title": "Jay and Silent Bob's Super Groovy Cartoon Movie",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-s-super-groovy-cartoon-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "88401439-5f11-4d76-a845-aac29d1798e3",
+      "title": "Jay & Silent Bob Get Old: Teabagging in Ireland",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jay-silent-bob-get-old-teabagging-in-ireland",
+      "has_reactions": false
+    },
+    {
+      "id": "f4fed37a-118d-456e-ad37-55d6172df1d3",
+      "title": "The Marvel Experience",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-marvel-experience",
+      "has_reactions": false
+    },
+    {
+      "id": "e38a77da-18a6-46e6-8f93-78154417ff25",
+      "title": "21 Years: Richard Linklater",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "21-years-richard-linklater",
+      "has_reactions": false
+    },
+    {
+      "id": "5fa5cd6b-2da1-466a-bc9b-69e0ea62f70d",
+      "title": "Bats of the Round Table",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bats-of-the-round-table",
+      "has_reactions": false
+    },
+    {
+      "id": "bcd72b2e-f241-474d-9619-4a70266335f8",
+      "title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-kiss-rock-and-roll-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "91979dd5-7ffe-4459-ad17-fba5139cc7f9",
+      "title": "Creature Designers: The Frankenstein Complex",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "creature-designers-the-frankenstein-complex",
+      "has_reactions": false
+    },
+    {
+      "id": "c0483cce-3e03-45ae-bf9f-df5f8616234a",
+      "title": "Star Wars: The Force Awakens",
+      "release_year": 2015,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-force-awakens",
+      "has_reactions": true
+    },
+    {
+      "id": "fb64641a-5482-47b1-bf8a-393e0e462a8e",
+      "title": "Chronic-Con, Episode 420: A New Dope",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "chronic-con-episode-420-a-new-dope",
+      "has_reactions": false
+    },
+    {
+      "id": "c657a80c-5af4-46e9-9e63-e4a4b566cea3",
+      "title": "The Death of \"Superman Lives\": What Happened?",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-death-of-superman-lives-what-happened",
+      "has_reactions": false
+    },
+    {
+      "id": "fd386f35-6123-4e4b-b913-8ea9a96fe437",
+      "title": "Shooting Clerks",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "shooting-clerks",
+      "has_reactions": false
+    },
+    {
+      "id": "cefcdfbb-1e22-458c-98e2-39090bcd67d1",
+      "title": "Film Hawk",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "film-hawk",
+      "has_reactions": false
+    },
+    {
+      "id": "0c49587c-02dc-48c2-a604-2b329ef1bd9c",
+      "title": "DC Films Presents Dawn of the Justice League",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dc-films-presents-dawn-of-the-justice-league",
+      "has_reactions": false
+    },
+    {
+      "id": "788fb933-c166-4b0e-b95b-bfb9a2b2447c",
+      "title": "Learned Behavior: Special Features at Work",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "learned-behavior-special-features-at-work",
+      "has_reactions": false
+    },
+    {
+      "id": "5f182bcd-5347-44ab-abf8-2ae06beba572",
+      "title": "Jay and Silent Bob Reboot",
+      "release_year": 2019,
+      "studio_label": "SModcast Pictures",
+      "slug": "jay-and-silent-bob-reboot",
+      "has_reactions": true
+    },
+    {
+      "id": "f0ad7664-596f-4254-9077-c9350938c622",
+      "title": "Celebrating Marvel's Stan Lee",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "celebrating-marvel-s-stan-lee",
+      "has_reactions": false
+    },
+    {
+      "id": "f36f2a30-8ab6-4845-8182-62df119af038",
+      "title": "Madness in the Method",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "madness-in-the-method",
+      "has_reactions": false
+    },
+    {
+      "id": "812136d3-f85b-49a9-8b04-1bdc0783b00f",
+      "title": "Moby Rich: Loser",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "moby-rich-loser",
+      "has_reactions": false
+    },
+    {
+      "id": "37c746e9-0ee3-4a05-9b93-56cf154399e0",
+      "title": "Time Warp Vol. 1: Midnight Madness",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-1-midnight-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "44b5bd9c-75b1-45f3-858a-41caffe1dc37",
+      "title": "Impractical Jokers: Hollywood",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "impractical-jokers-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "5720c7a7-e1ab-46ed-ac96-bbab09928768",
+      "title": "Skin: A History of Nudity in the Movies",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "skin-a-history-of-nudity-in-the-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "a9f60e66-f68a-4f8e-acb7-da39c1f1f8b2",
+      "title": "Jagged",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jagged",
+      "has_reactions": false
+    },
+    {
+      "id": "e861dabf-9337-4210-8ca8-9feceda9523d",
+      "title": "Clerks III",
+      "release_year": 2022,
+      "studio_label": "View Askew Productions",
+      "slug": "clerks-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "03499eb0-e31e-4eef-8538-1a7bb5f1de81",
+      "title": "Wrong Reasons",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "wrong-reasons",
+      "has_reactions": false
+    },
+    {
+      "id": "447dc3b3-f6b0-4ac5-91cc-11326650f94b",
+      "title": "The Clerks 3 Documentary",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-clerks-3-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "7d1bf510-4cfb-4668-b0df-8e5466c6930e",
+      "title": "The Book of Harth",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-book-of-harth",
+      "has_reactions": false
+    },
+    {
+      "id": "aae26442-e856-44d5-a633-8e49382e5fe1",
+      "title": "We're Not Even Supposed to Be Here Today: 3 Decades of Clerks",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "we-re-not-even-supposed-to-be-here-today-3-decades-of-clerks",
+      "has_reactions": false
+    },
+    {
+      "id": "764604a6-62bf-49c7-a400-e1609a94511e",
+      "title": "A Disturbance in the Force: How the Star Wars Holiday Special Happened",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-disturbance-in-the-force-how-the-star-wars-holiday-special-happened",
+      "has_reactions": false
+    },
+    {
+      "id": "e718834e-ab2c-4d96-b129-9a8138cb49f0",
+      "title": "The Boulet Brothers' Halfway to Halloween TV Special",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-boulet-brothers-halfway-to-halloween-tv-special",
+      "has_reactions": false
+    },
+    {
+      "id": "8729cf51-c456-4607-8cb8-6244f22195d3",
+      "title": "I'm \"George Lucas\": A Connor Ratliff Story",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "i-m-george-lucas-a-connor-ratliff-story",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "24c1ff42-d8e4-4f30-bb30-ab0ea3c1dd52",
+  "name": "Jane Brucker",
+  "slug": "jane-brucker",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/v9FOareCp5O6taJq6HrEyMcc6mY.jpg",
+  "filmography": [
+    {
+      "id": "fe63fa70-ce31-4e61-a721-cbe13b77f1cb",
+      "title": "Dirty Dancing",
+      "release_year": 1987,
+      "studio_label": "Great American Films Limited Partnership",
+      "slug": "dirty-dancing",
+      "has_reactions": true
+    },
+    {
+      "id": "cd6b7945-dd20-4b32-9e7a-fc6b7ed0c38c",
+      "title": "Stealing Home",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "stealing-home",
+      "has_reactions": false
+    },
+    {
+      "id": "4d18251a-38b3-492a-be95-911d44785b38",
+      "title": "Dishdogz",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "dishdogz",
+      "has_reactions": false
+    },
+    {
+      "id": "298c4c76-23c6-4a67-a274-e37fc13afcb7",
+      "title": "Bright Day",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bright-day",
+      "has_reactions": false
+    },
+    {
+      "id": "dc03d8d3-2a96-4160-92c2-b6cadcea69c7",
+      "title": "Dirty Dancing - The Phenomenon",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "dirty-dancing-the-phenomenon",
+      "has_reactions": false
+    }
+  ]
+}

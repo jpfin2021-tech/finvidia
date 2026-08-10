@@ -1,0 +1,40 @@
+{
+  "id": "a527282a-e7ab-4138-ac43-793e382d57c6",
+  "name": "Victoire du Bois",
+  "slug": "victoire-du-bois",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eQm8pA8ahuPZysSsqxd9oqmEBUy.jpg",
+  "filmography": [
+    {
+      "id": "8d11edf4-ca46-47dc-a143-f6d793fa2664",
+      "title": "The Family",
+      "release_year": 2013,
+      "studio_label": "EuropaCorp",
+      "slug": "the-family",
+      "has_reactions": true
+    },
+    {
+      "id": "b5198528-6d5b-48f4-b3eb-a497e7f1d18c",
+      "title": "The Forbidden Room",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-forbidden-room",
+      "has_reactions": false
+    },
+    {
+      "id": "071cdcbc-401e-4304-aef2-18fecd9b77b3",
+      "title": "Call Me by Your Name",
+      "release_year": 2017,
+      "studio_label": "La Cin\u00e9facture",
+      "slug": "call-me-by-your-name",
+      "has_reactions": true
+    },
+    {
+      "id": "74354e01-9105-4a2f-bf84-f320675ea011",
+      "title": "Orange-Flavoured Wedding",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "orange-flavoured-wedding",
+      "has_reactions": false
+    }
+  ]
+}

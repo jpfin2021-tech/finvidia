@@ -1,0 +1,632 @@
+{
+  "id": "586cc97a-6e44-4530-9359-7ec76f7779d1",
+  "name": "Christopher McDonald",
+  "slug": "christopher-mcdonald",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg",
+  "filmography": [
+    {
+      "id": "4b6b1ebc-5e85-4eb5-ac2f-390cafce7698",
+      "title": "Getting Married",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "getting-married",
+      "has_reactions": false
+    },
+    {
+      "id": "98f1eff5-5fe8-4b03-b434-b12b9e063ff2",
+      "title": "The Hearse",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-hearse",
+      "has_reactions": false
+    },
+    {
+      "id": "565a42a2-dc2a-4c8d-98f3-2f25ff58e1fe",
+      "title": "Twirl",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "twirl",
+      "has_reactions": false
+    },
+    {
+      "id": "23137ca3-4b6f-4608-8c75-7c784adc96db",
+      "title": "Grease 2",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "grease-2",
+      "has_reactions": false
+    },
+    {
+      "id": "e6068ce2-770c-4f8f-afa5-d38f42c2cd8c",
+      "title": "The Black Room",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-black-room",
+      "has_reactions": false
+    },
+    {
+      "id": "326a9246-8cbf-4373-b106-2435668ba807",
+      "title": "Breakin'",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "breakin",
+      "has_reactions": false
+    },
+    {
+      "id": "37022213-db97-439f-a605-c073db479ad9",
+      "title": "Chattanooga Choo Choo",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "chattanooga-choo-choo",
+      "has_reactions": false
+    },
+    {
+      "id": "a14b10fe-7a31-4632-ba08-0e8681213c9a",
+      "title": "Where the Boys Are",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "where-the-boys-are",
+      "has_reactions": false
+    },
+    {
+      "id": "28a3a93c-1127-4f6f-ab37-9c1022017d8c",
+      "title": "The Boys Next Door",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-boys-next-door",
+      "has_reactions": false
+    },
+    {
+      "id": "78605ddf-f910-4d5b-8291-3742d68d3348",
+      "title": "Paramedics",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "paramedics",
+      "has_reactions": false
+    },
+    {
+      "id": "50aa2a7b-93cf-4bd1-863a-9e3d1594be98",
+      "title": "Chances Are",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "chances-are",
+      "has_reactions": false
+    },
+    {
+      "id": "cc8ff677-cbd8-4c05-9531-990c3b199c95",
+      "title": "An Eight Is Enough Wedding",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "an-eight-is-enough-wedding",
+      "has_reactions": false
+    },
+    {
+      "id": "1340cdbf-ceec-43a6-9d0f-5c3f314189c2",
+      "title": "Playroom",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "playroom",
+      "has_reactions": false
+    },
+    {
+      "id": "0e834850-4cf7-4ce6-a9d2-49d0e65fa84a",
+      "title": "Cool Blue",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cool-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "ec14179b-c9fe-4c0b-9aa1-03af8b31f444",
+      "title": "Thelma & Louise",
+      "release_year": 1991,
+      "studio_label": "Scott Free Productions",
+      "slug": "thelma-louise",
+      "has_reactions": true
+    },
+    {
+      "id": "d290deb4-b335-409b-bfa0-3d382f6bfbd6",
+      "title": "Wild Orchid II: Two Shades of Blue",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "wild-orchid-ii-two-shades-of-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "8059e1b7-42de-4552-8ea5-767d79ae1666",
+      "title": "Red Wind",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "red-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "4dbbf68e-8571-4c5f-87f7-25fb986e06f0",
+      "title": "Dutch",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dutch",
+      "has_reactions": false
+    },
+    {
+      "id": "36340422-fe88-4fbc-8ecc-235e96570707",
+      "title": "Fatal Instinct",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "fatal-instinct",
+      "has_reactions": false
+    },
+    {
+      "id": "1a3f3e80-5171-48ef-9d61-d03d8c434aa7",
+      "title": "Benefit of the Doubt",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "benefit-of-the-doubt",
+      "has_reactions": false
+    },
+    {
+      "id": "ed1ee76c-b1b1-478e-8b9d-00aef39094dd",
+      "title": "Grumpy Old Men",
+      "release_year": 1993,
+      "studio_label": "John Davis",
+      "slug": "grumpy-old-men",
+      "has_reactions": true
+    },
+    {
+      "id": "ac6a2b8f-a277-4517-a63a-359de6684778",
+      "title": "Conflict of Interest",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "conflict-of-interest",
+      "has_reactions": false
+    },
+    {
+      "id": "b549786b-35b6-4960-b22c-ee69c20608ed",
+      "title": "Quiz Show",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "quiz-show",
+      "has_reactions": false
+    },
+    {
+      "id": "27ae5197-5b08-4e85-a8b7-1e1a468629cb",
+      "title": "Terminal Velocity",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "terminal-velocity",
+      "has_reactions": false
+    },
+    {
+      "id": "9d5da7d6-3017-451f-b5ef-9a6c8b4487a1",
+      "title": "Another Midnight Run",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "another-midnight-run",
+      "has_reactions": false
+    },
+    {
+      "id": "a47a5b17-de56-44b5-bba9-f3737f039767",
+      "title": "Fair Game",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "fair-game",
+      "has_reactions": false
+    },
+    {
+      "id": "5195c0a0-f6c5-4aca-80e9-cca36ffc941d",
+      "title": "The Tuskegee Airmen",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-tuskegee-airmen",
+      "has_reactions": false
+    },
+    {
+      "id": "294ce100-8f3e-40eb-9364-cad72e50da37",
+      "title": "Best of the Best 3: No Turning Back",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "best-of-the-best-3-no-turning-back",
+      "has_reactions": false
+    },
+    {
+      "id": "f9dde980-bc25-446c-9444-fdaa553572ef",
+      "title": "Happy Gilmore",
+      "release_year": 1996,
+      "studio_label": "Universal Pictures",
+      "slug": "happy-gilmore",
+      "has_reactions": true
+    },
+    {
+      "id": "0976bbe9-ac8a-4597-b744-67b7bd2cc3c0",
+      "title": "Unforgettable",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "unforgettable",
+      "has_reactions": false
+    },
+    {
+      "id": "43b880d0-1d3d-47ba-9128-0bf814c059cf",
+      "title": "Superman: The Last Son of Krypton",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "superman-the-last-son-of-krypton",
+      "has_reactions": false
+    },
+    {
+      "id": "2caf62b1-bda4-4707-9883-88da87696b19",
+      "title": "The Eighteenth Angel",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-eighteenth-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "f04a6ade-ef88-4a58-9c7b-feb0f2cc5f88",
+      "title": "Flubber",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "flubber",
+      "has_reactions": false
+    },
+    {
+      "id": "276bca12-ba2a-481a-a12c-415b38b4f897",
+      "title": "Into Thin Air: Death on Everest",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "into-thin-air-death-on-everest",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fb41fd-4d9e-42e0-87aa-fd4f08304ab2",
+      "title": "The Faculty",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-faculty",
+      "has_reactions": false
+    },
+    {
+      "id": "b3cfe18e-4779-471a-8b99-34e8ec258053",
+      "title": "Jaded",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "jaded",
+      "has_reactions": false
+    },
+    {
+      "id": "c3c35111-811c-4bd8-8b1d-6998c0e76c81",
+      "title": "SLC Punk",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "slc-punk",
+      "has_reactions": false
+    },
+    {
+      "id": "2db7f07b-5669-46b3-9ce4-9acc87d3b6fc",
+      "title": "Dirty Work",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "dirty-work",
+      "has_reactions": false
+    },
+    {
+      "id": "33b8c029-011a-4fa5-9e6b-66e4137e1259",
+      "title": "The Iron Giant",
+      "release_year": 1999,
+      "studio_label": "Warner Bros. Feature Animation",
+      "slug": "the-iron-giant",
+      "has_reactions": true
+    },
+    {
+      "id": "00ce45b5-5d84-4fec-93ab-912f1e7b4c48",
+      "title": "Five Aces",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "five-aces",
+      "has_reactions": false
+    },
+    {
+      "id": "93093c96-882c-43f1-83b2-c50f0873df1d",
+      "title": "My Teacher's Wife",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "my-teacher-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "b01d75b8-548b-4d82-80e2-a27688c4075b",
+      "title": "Requiem for a Dream",
+      "release_year": 2000,
+      "studio_label": "Artisan Entertainment",
+      "slug": "requiem-for-a-dream",
+      "has_reactions": true
+    },
+    {
+      "id": "2a43021a-c12d-4798-bcd1-f37e469fef97",
+      "title": "The Perfect Storm",
+      "release_year": 2000,
+      "studio_label": "Radiant Productions",
+      "slug": "the-perfect-storm",
+      "has_reactions": true
+    },
+    {
+      "id": "bab01049-2319-4829-ac6d-d9c5ba96af1d",
+      "title": "The Skulls",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-skulls",
+      "has_reactions": false
+    },
+    {
+      "id": "4cf8e4d1-18aa-4a69-a506-cc0866a22b45",
+      "title": "Magicians",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "magicians",
+      "has_reactions": false
+    },
+    {
+      "id": "2783d9cf-fa8b-4b81-8a97-8910490f064a",
+      "title": "61*",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "61",
+      "has_reactions": false
+    },
+    {
+      "id": "2cecb480-28e7-4164-bff0-98deb9d8d10e",
+      "title": "The Theory of the Leisure Class",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-theory-of-the-leisure-class",
+      "has_reactions": false
+    },
+    {
+      "id": "0fb9eb52-a863-4fdb-97df-ec16992d606d",
+      "title": "Speakeasy",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "speakeasy",
+      "has_reactions": false
+    },
+    {
+      "id": "7999118a-edef-4b63-97cc-f868f4b90160",
+      "title": "Spy Kids 2: The Island of Lost Dreams",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-2-the-island-of-lost-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "5992b749-fc8c-48af-910d-09bfe9726bf7",
+      "title": "Rumor Has It...",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "rumor-has-it",
+      "has_reactions": false
+    },
+    {
+      "id": "7c6add2e-40c2-480b-8c5a-8ac931ddba51",
+      "title": "Broken Flowers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "broken-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "1c70458d-4a4e-4faa-9f84-26a8c593017b",
+      "title": "Funny Money",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "funny-money",
+      "has_reactions": false
+    },
+    {
+      "id": "237f9b9a-8ae5-460c-b0e9-3c1187bcf477",
+      "title": "Kickin' It Old Skool",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "kickin-it-old-skool",
+      "has_reactions": false
+    },
+    {
+      "id": "c9c4a324-7692-482a-b341-75ab51530b23",
+      "title": "American Pie Presents: Beta House",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "american-pie-presents-beta-house",
+      "has_reactions": false
+    },
+    {
+      "id": "2e2d9896-6c54-4bae-b0a0-a1e2796e45d5",
+      "title": "Awake",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "awake",
+      "has_reactions": false
+    },
+    {
+      "id": "a7bb5ca3-fb1a-484a-a580-28b274abee89",
+      "title": "The Dukes of Hazzard: The Beginning",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dukes-of-hazzard-the-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "e85a7e1d-bea3-42b9-b90e-0ef90d8d67a4",
+      "title": "Mad Money",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mad-money",
+      "has_reactions": false
+    },
+    {
+      "id": "d5a381c6-1ade-405a-8e48-2ab4db588a9a",
+      "title": "The House Bunny",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-house-bunny",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3c8199-4347-47a8-9f23-339f2155264a",
+      "title": "Superhero Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "superhero-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "2c94be15-a66d-4c64-b434-5b2d3e919e17",
+      "title": "An American Carol",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "an-american-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "700370f1-2ae5-46cb-a11e-b4dc6c23a531",
+      "title": "Player 5150",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "player-5150",
+      "has_reactions": false
+    },
+    {
+      "id": "ad589c61-2790-4eb0-9e1e-0adef2ed33ab",
+      "title": "Summerhood",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "summerhood",
+      "has_reactions": false
+    },
+    {
+      "id": "bc8f0953-063f-4699-9460-db4420bf8ea2",
+      "title": "Splinterheads",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "splinterheads",
+      "has_reactions": false
+    },
+    {
+      "id": "2f186c75-eede-4040-98cf-1fadd2cc606c",
+      "title": "Spooner",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "spooner",
+      "has_reactions": false
+    },
+    {
+      "id": "a202f6d9-a4e4-4d00-af77-749dd065af1f",
+      "title": "Reunion",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "6665f7b1-fb31-4a9a-a3b6-b63890a4e562",
+      "title": "Cat Run",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "cat-run",
+      "has_reactions": false
+    },
+    {
+      "id": "25f2a65e-634f-4bb6-9678-cd9d0ff5c623",
+      "title": "Not Fade Away",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "not-fade-away",
+      "has_reactions": false
+    },
+    {
+      "id": "ef0d12b2-022a-4ead-824e-8183483f8173",
+      "title": "The Collection",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-collection",
+      "has_reactions": false
+    },
+    {
+      "id": "9e1a167d-8be7-40b2-bc7b-7b1a997df7cb",
+      "title": "Grassroots",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "grassroots",
+      "has_reactions": false
+    },
+    {
+      "id": "d30e100f-60c4-4d8c-84de-bb85bd7d9ab2",
+      "title": "Believe Me",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "believe-me",
+      "has_reactions": false
+    },
+    {
+      "id": "022f909e-2c89-40de-a0a6-0b8333d045a3",
+      "title": "About Last Night",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "about-last-night",
+      "has_reactions": false
+    },
+    {
+      "id": "f0d4643f-42d3-4126-8608-56a4f266a55a",
+      "title": "The Squeeze",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-squeeze",
+      "has_reactions": false
+    },
+    {
+      "id": "bbdc02d9-a94a-4a93-87c3-121022ed9019",
+      "title": "Don't Worry Baby",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "don-t-worry-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "6dde74a8-0ee5-4112-8e3e-8da8ab56786a",
+      "title": "The Giant's Dream: The Making of the Iron Giant",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-giant-s-dream-the-making-of-the-iron-giant",
+      "has_reactions": false
+    },
+    {
+      "id": "37279ab5-3fa5-41d4-9d8f-2c478f1a3b33",
+      "title": "The Crash",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-crash",
+      "has_reactions": false
+    },
+    {
+      "id": "b924b9f4-a685-4435-928d-ed12e8403e68",
+      "title": "Rosaline",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rosaline",
+      "has_reactions": false
+    },
+    {
+      "id": "20e6777c-d94e-41a7-80c0-c0261c66443e",
+      "title": "Abruptio",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "abruptio",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae0818b-2398-4c44-8db0-ebb8c0adcbaa",
+      "title": "Happy Gilmore 2",
+      "release_year": 2025,
+      "studio_label": "Happy Madison Productions",
+      "slug": "happy-gilmore-2",
+      "has_reactions": true
+    }
+  ]
+}

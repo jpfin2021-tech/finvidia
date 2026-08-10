@@ -1,0 +1,400 @@
+{
+  "id": "331cd20c-44d1-4994-9a32-eac9983832a9",
+  "name": "Robert De Niro",
+  "slug": "robert-de-niro",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+  "filmography": [
+    {
+      "id": "43c0c080-4825-484d-9e0b-81d76ac542b6",
+      "title": "Bloody Mama",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "bloody-mama",
+      "has_reactions": false
+    },
+    {
+      "id": "e5357796-55ae-4af4-a4f1-a3e8bdfbd1e9",
+      "title": "Mean Streets",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "mean-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "eb8898db-41d1-4778-a818-6558177e254c",
+      "title": "The Godfather Part II",
+      "release_year": 1974,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-part-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "66a8909d-e333-496f-b01c-95e454be5988",
+      "title": "Taxi Driver",
+      "release_year": 1976,
+      "studio_label": "Bill/Phillips Productions",
+      "slug": "taxi-driver",
+      "has_reactions": true
+    },
+    {
+      "id": "fd1efb2d-3b35-4c56-9726-45407515529b",
+      "title": "1900",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "1900",
+      "has_reactions": false
+    },
+    {
+      "id": "cb01caca-5c97-4437-be8e-ffeca4dc5d94",
+      "title": "The Deer Hunter",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "the-deer-hunter",
+      "has_reactions": true
+    },
+    {
+      "id": "e011c79f-cccd-4b97-82f6-a7e705bb0848",
+      "title": "Raging Bull",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "raging-bull",
+      "has_reactions": false
+    },
+    {
+      "id": "34a997a0-7a5d-473e-a4dd-331cb7b70676",
+      "title": "The King of Comedy",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-king-of-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "83949aa5-4621-4c57-ad91-4db6aaab6900",
+      "title": "Once Upon a Time in America",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "e8824f49-d97c-4ec3-ba0b-177c85abe5c6",
+      "title": "Brazil",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "brazil",
+      "has_reactions": false
+    },
+    {
+      "id": "5c10efb9-1ded-4f03-879c-22f73d1100d5",
+      "title": "The Mission",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-mission",
+      "has_reactions": false
+    },
+    {
+      "id": "e9649b80-814d-4f37-9e11-be39c6fe3b86",
+      "title": "The Untouchables",
+      "release_year": 1987,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-untouchables",
+      "has_reactions": true
+    },
+    {
+      "id": "b25f5538-6759-4292-8b25-53dcc2497de8",
+      "title": "Angel Heart",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "angel-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "5a207c8f-bc34-4890-93cb-cc247d626986",
+      "title": "Midnight Run",
+      "release_year": 1988,
+      "studio_label": "Universal Pictures",
+      "slug": "midnight-run",
+      "has_reactions": true
+    },
+    {
+      "id": "719c4ffd-8dca-4aa6-b070-26cb5b57ecb1",
+      "title": "Awakenings",
+      "release_year": 1990,
+      "studio_label": "Parkes/Lasker productions",
+      "slug": "awakenings",
+      "has_reactions": true
+    },
+    {
+      "id": "cc851e26-1906-4e56-a665-922a4be842eb",
+      "title": "GoodFellas",
+      "release_year": 1990,
+      "studio_label": "Winkler Films",
+      "slug": "goodfellas",
+      "has_reactions": true
+    },
+    {
+      "id": "be401b66-f593-4717-84f0-254117c846de",
+      "title": "Cape Fear",
+      "release_year": 1991,
+      "studio_label": "Amblin Entertainment",
+      "slug": "cape-fear",
+      "has_reactions": true
+    },
+    {
+      "id": "87e1c1ac-14fc-4668-be79-6d0c404d4ed3",
+      "title": "Backdraft",
+      "release_year": 1991,
+      "studio_label": "Trilogy Entertainment Group",
+      "slug": "backdraft",
+      "has_reactions": true
+    },
+    {
+      "id": "32fba9f2-9aab-47cb-8f5f-a7e1a9d305d9",
+      "title": "A Bronx Tale",
+      "release_year": 1993,
+      "studio_label": "Price Entertainment",
+      "slug": "a-bronx-tale",
+      "has_reactions": true
+    },
+    {
+      "id": "ecf686f9-1700-4d30-a4e0-b222170c939b",
+      "title": "Mad Dog and Glory",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "mad-dog-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "6899cbbe-50f7-47d2-b4c2-89c6475ce373",
+      "title": "Mary Shelley's Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mary-shelley-s-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "915fc331-9d84-4e43-a9fa-c16ebb04bf0c",
+      "title": "It's Alive: The True Story of Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "it-s-alive-the-true-story-of-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "87c97f61-41ea-40b9-a022-36a9f44be9b1",
+      "title": "Heat",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "heat",
+      "has_reactions": true
+    },
+    {
+      "id": "658453eb-622b-4753-a186-529bc62b9096",
+      "title": "Casino",
+      "release_year": 1995,
+      "studio_label": "Universal Pictures",
+      "slug": "casino",
+      "has_reactions": true
+    },
+    {
+      "id": "6d1ceb54-2e69-4e25-855e-6cdaef2d6401",
+      "title": "Sleepers",
+      "release_year": 1996,
+      "studio_label": "Propaganda Films",
+      "slug": "sleepers",
+      "has_reactions": true
+    },
+    {
+      "id": "a0061e38-356a-4264-a546-f0233e9a8445",
+      "title": "Jackie Brown",
+      "release_year": 1997,
+      "studio_label": "Miramax",
+      "slug": "jackie-brown",
+      "has_reactions": true
+    },
+    {
+      "id": "0d01d6cd-7a15-4561-9828-fa0395947e81",
+      "title": "Wag the Dog",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "wag-the-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "8b38f6ef-0b55-439d-9dee-b06a86c45f7b",
+      "title": "Cop Land",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "cop-land",
+      "has_reactions": false
+    },
+    {
+      "id": "3186e580-f309-4641-8d0e-a4bccaba68c2",
+      "title": "Ronin",
+      "release_year": 1998,
+      "studio_label": "United Artists",
+      "slug": "ronin",
+      "has_reactions": true
+    },
+    {
+      "id": "c893dda7-4c8c-4415-8620-939d85ae381a",
+      "title": "Flawless",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "flawless",
+      "has_reactions": false
+    },
+    {
+      "id": "03c9a2f5-5a2a-4727-bd76-5792e0baa714",
+      "title": "Men of Honor",
+      "release_year": 2000,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "men-of-honor",
+      "has_reactions": true
+    },
+    {
+      "id": "a376ad94-6c28-443c-a662-1eab136f23cc",
+      "title": "Meet the Parents",
+      "release_year": 2000,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-the-parents",
+      "has_reactions": true
+    },
+    {
+      "id": "05319343-85f2-467b-8a8e-dd0a5f406793",
+      "title": "The Score",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-score",
+      "has_reactions": false
+    },
+    {
+      "id": "df914242-5618-4c1b-b604-83fe4e760d76",
+      "title": "15 Minutes",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "15-minutes",
+      "has_reactions": false
+    },
+    {
+      "id": "bc34355e-bf00-4a28-8016-05fd212d84c6",
+      "title": "A Shot at the Top: The Making of 'The King of Comedy'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "a-shot-at-the-top-the-making-of-the-king-of-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "905135cd-fe34-4f91-850c-b81a8a7aa975",
+      "title": "Meet the Fockers",
+      "release_year": 2004,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-the-fockers",
+      "has_reactions": true
+    },
+    {
+      "id": "5056d292-fa26-4fa2-aa10-044b298bb708",
+      "title": "Shark Tale",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "shark-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "4ce3f2ce-937d-4094-ae45-ca49ff9659cd",
+      "title": "Hide and Seek",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hide-and-seek",
+      "has_reactions": false
+    },
+    {
+      "id": "c0d10d2a-7c07-46ec-8630-06086f0f878d",
+      "title": "Raging Bull: Before the Fight",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "raging-bull-before-the-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "cc72af2d-861e-45d1-a08f-e5e1beb4f610",
+      "title": "Raging Bull: Inside the Ring",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "raging-bull-inside-the-ring",
+      "has_reactions": false
+    },
+    {
+      "id": "88f0f8ae-e89d-48cb-946f-fe9d00806f7a",
+      "title": "The Good Shepherd",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-good-shepherd",
+      "has_reactions": false
+    },
+    {
+      "id": "5f5ff795-3e29-4ef0-bedf-5ec92379668d",
+      "title": "Stardust",
+      "release_year": 2007,
+      "studio_label": "Paramount Pictures",
+      "slug": "stardust",
+      "has_reactions": true
+    },
+    {
+      "id": "1069873e-3017-484d-aa08-5ddf16ff59b4",
+      "title": "Machete",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "machete",
+      "has_reactions": false
+    },
+    {
+      "id": "6959acb9-9362-48a0-8571-07c5301a6da7",
+      "title": "Limitless",
+      "release_year": 2011,
+      "studio_label": "Relativity Media",
+      "slug": "limitless",
+      "has_reactions": true
+    },
+    {
+      "id": "2e8d8c46-56f8-40fd-94d5-5473260fa819",
+      "title": "Marty and Bobby",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "marty-and-bobby",
+      "has_reactions": false
+    },
+    {
+      "id": "daf7b5fd-c2f8-4308-bf48-fd38eb04bee3",
+      "title": "Silver Linings Playbook",
+      "release_year": 2012,
+      "studio_label": "The Weinstein Company",
+      "slug": "silver-linings-playbook",
+      "has_reactions": true
+    },
+    {
+      "id": "8d11edf4-ca46-47dc-a143-f6d793fa2664",
+      "title": "The Family",
+      "release_year": 2013,
+      "studio_label": "EuropaCorp",
+      "slug": "the-family",
+      "has_reactions": true
+    },
+    {
+      "id": "8fc136ea-45e3-4600-a557-5eaca6ab2826",
+      "title": "Joker",
+      "release_year": 2019,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "joker",
+      "has_reactions": true
+    },
+    {
+      "id": "0de85533-1c51-495c-9e39-87f724ad63bb",
+      "title": "Killers of the Flower Moon",
+      "release_year": 2023,
+      "studio_label": "Apple Studios",
+      "slug": "killers-of-the-flower-moon",
+      "has_reactions": true
+    }
+  ]
+}

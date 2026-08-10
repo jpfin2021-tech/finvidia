@@ -1,0 +1,632 @@
+{
+  "id": "3c17f962-a87c-4d8a-86f2-bc58fdd108df",
+  "name": "Fred Tatasciore",
+  "slug": "fred-tatasciore",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+  "filmography": [
+    {
+      "id": "88b86a16-10a1-4937-b320-f70caddf856b",
+      "title": "Team America: World Police",
+      "release_year": 2004,
+      "studio_label": "Paramount Pictures",
+      "slug": "team-america-world-police",
+      "has_reactions": true
+    },
+    {
+      "id": "f0612d4c-3259-4362-9ca3-878fbce5f950",
+      "title": "Ultimate Avengers 2",
+      "release_year": 2006,
+      "studio_label": "MLG Productions 2",
+      "slug": "ultimate-avengers-2",
+      "has_reactions": false
+    },
+    {
+      "id": "42460970-db54-42dd-8879-ea340ba0c840",
+      "title": "Wrestlemaniac",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wrestlemaniac",
+      "has_reactions": false
+    },
+    {
+      "id": "6c9a5963-cc90-4988-a74e-06be627527ae",
+      "title": "Enchanted",
+      "release_year": 2007,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "enchanted",
+      "has_reactions": true
+    },
+    {
+      "id": "d6ab6aee-f4cc-4d98-ba17-dda13f71c548",
+      "title": "Meet the Robinsons",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "meet-the-robinsons",
+      "has_reactions": false
+    },
+    {
+      "id": "52c355e7-896c-47d0-93ac-264b3e122214",
+      "title": "Garfield Gets Real",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "garfield-gets-real",
+      "has_reactions": false
+    },
+    {
+      "id": "86c9e424-3592-49ec-880e-f1cdf50a7039",
+      "title": "Doctor Strange",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "doctor-strange",
+      "has_reactions": false
+    },
+    {
+      "id": "8557b895-8d35-4489-bd06-53b547287824",
+      "title": "Dragonlance: Dragons of Autumn Twilight",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dragonlance-dragons-of-autumn-twilight",
+      "has_reactions": false
+    },
+    {
+      "id": "59cb4649-4f0d-4468-9445-f05e9c920589",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "next-avengers-heroes-of-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "6f4e6ada-aaf6-4655-bb01-2cb152617891",
+      "title": "Garfield's Fun Fest",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-fun-fest",
+      "has_reactions": false
+    },
+    {
+      "id": "c24a1ffd-8ed1-48f9-a59b-13b6c1aeb819",
+      "title": "Sleepaway Camper",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "sleepaway-camper",
+      "has_reactions": false
+    },
+    {
+      "id": "2117fbc7-007b-4d31-923f-159804b88082",
+      "title": "9",
+      "release_year": 2009,
+      "studio_label": "Tim Burton Productions",
+      "slug": "9",
+      "has_reactions": false
+    },
+    {
+      "id": "fcf744b0-2443-44cc-b3de-b37975a3f451",
+      "title": "Bionicle: The Legend Reborn",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "bionicle-the-legend-reborn",
+      "has_reactions": false
+    },
+    {
+      "id": "cd0d320f-9b6b-47fa-b14d-5872bb236c52",
+      "title": "Garfield's Pet Force",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-pet-force",
+      "has_reactions": false
+    },
+    {
+      "id": "17a51340-b13d-4166-8b82-4c1033a828d6",
+      "title": "Hulk vs. Wolverine",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "hulk-vs-wolverine",
+      "has_reactions": false
+    },
+    {
+      "id": "6a958245-fcaa-4bc3-b769-50746307cba4",
+      "title": "Curious George 2: Follow That Monkey!",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "curious-george-2-follow-that-monkey",
+      "has_reactions": false
+    },
+    {
+      "id": "e48a2357-9001-40e5-9882-702c9654db6d",
+      "title": "Uncharted: Eye of Indra",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "uncharted-eye-of-indra",
+      "has_reactions": false
+    },
+    {
+      "id": "d9f44cc0-aff1-41b1-9a9f-496733d4e91e",
+      "title": "Wolverine and the X-Men: Fate of the Future",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "wolverine-and-the-x-men-fate-of-the-future",
+      "has_reactions": false
+    },
+    {
+      "id": "bf063125-7895-4be6-9f58-6148dbd4a3e5",
+      "title": "Batman: Under the Red Hood",
+      "release_year": 2010,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-under-the-red-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee75051-93b5-47de-b3b1-62bad9a8448a",
+      "title": "Batman: Year One",
+      "release_year": 2011,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-year-one",
+      "has_reactions": true
+    },
+    {
+      "id": "00eeb888-28d0-451f-bcb3-a38989329c74",
+      "title": "Hellraiser: Revelations",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hellraiser-revelations",
+      "has_reactions": false
+    },
+    {
+      "id": "bfb98cb6-70b9-4aa1-b81e-83b3d0a0e437",
+      "title": "The Jockstrap Raiders",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-jockstrap-raiders",
+      "has_reactions": false
+    },
+    {
+      "id": "4d934d42-5f0c-49ff-ad88-f7a353782542",
+      "title": "LEGO Hero Factory: Savage Planet",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "lego-hero-factory-savage-planet",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa8736c-9d37-4ab7-aa18-9897ca5282fd",
+      "title": "Kung Fu Panda 2",
+      "release_year": 2011,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-2",
+      "has_reactions": true
+    },
+    {
+      "id": "509bfd9e-12d8-4bc6-960f-ac779fa5c06f",
+      "title": "Superman vs. The Elite",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "superman-vs-the-elite",
+      "has_reactions": false
+    },
+    {
+      "id": "aa5256e1-36a9-4fc0-8e60-e75de2a69c5d",
+      "title": "Scooby-Doo! Mask of the Blue Falcon",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-mask-of-the-blue-falcon",
+      "has_reactions": false
+    },
+    {
+      "id": "5a0da434-438f-4b6d-a731-c27c7dc1bfe0",
+      "title": "The Outback",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-outback",
+      "has_reactions": false
+    },
+    {
+      "id": "75d6592b-bfb2-4228-90df-a4c7f73318e4",
+      "title": "Wreck-It Ralph",
+      "release_year": 2012,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "wreck-it-ralph",
+      "has_reactions": true
+    },
+    {
+      "id": "577d1d6b-8b20-49aa-a82b-0ffab5b57351",
+      "title": "Frozen",
+      "release_year": 2013,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "frozen",
+      "has_reactions": true
+    },
+    {
+      "id": "f0fd2d0f-e877-492c-8e12-015da52fc8f0",
+      "title": "Bigfoot and Gray on the run",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bigfoot-and-gray-on-the-run",
+      "has_reactions": false
+    },
+    {
+      "id": "fb33d78c-fd98-48c3-8fbc-d915b0b68012",
+      "title": "Star Trek Into Darkness",
+      "release_year": 2013,
+      "studio_label": "Bad Robot",
+      "slug": "star-trek-into-darkness",
+      "has_reactions": true
+    },
+    {
+      "id": "2d4858d9-89c1-4532-a25a-20ac57cce996",
+      "title": "Our New Electrical Morals",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "our-new-electrical-morals",
+      "has_reactions": false
+    },
+    {
+      "id": "f1b82b79-94d6-4901-8bd0-5f90b313eeb3",
+      "title": "Kung Fu Panda: Legends of Awesomeness 1 : The Scorpion Sting",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-legends-of-awesomeness-1-the-scorpion-sting",
+      "has_reactions": false
+    },
+    {
+      "id": "44710325-f33a-4e20-afbc-24d86a250f26",
+      "title": "Kung Fu Panda: Legends of Awesomeness - Good Croc, Bad Croc",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-legends-of-awesomeness-good-croc-bad-croc",
+      "has_reactions": false
+    },
+    {
+      "id": "411b88b0-97b7-4acd-957d-23472996879b",
+      "title": "Son of Batman",
+      "release_year": 2014,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "son-of-batman",
+      "has_reactions": true
+    },
+    {
+      "id": "5fd863ea-bbc5-41f8-92d3-f8329389bc18",
+      "title": "Yellowbird",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "yellowbird",
+      "has_reactions": false
+    },
+    {
+      "id": "1c825355-3291-4644-8ea9-5b0d56f25435",
+      "title": "The Boxtrolls",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-boxtrolls",
+      "has_reactions": false
+    },
+    {
+      "id": "f8055d63-fbb3-4cdb-b03b-ed6a1b1744e3",
+      "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lego-marvel-super-heroes-avengers-reassembled",
+      "has_reactions": false
+    },
+    {
+      "id": "69b67447-be10-4942-aa5f-25caffb15f09",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "marvel-super-hero-adventures-frost-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "a5976f59-3991-41c7-b508-8f74ecf60003",
+      "title": "Regular Show: The Movie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "regular-show-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "c0483cce-3e03-45ae-bf9f-df5f8616234a",
+      "title": "Star Wars: The Force Awakens",
+      "release_year": 2015,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-force-awakens",
+      "has_reactions": true
+    },
+    {
+      "id": "b2c61599-88b0-4977-8df5-4ddab7839ff8",
+      "title": "The Angry Birds Movie",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-angry-birds-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "94f775a1-522e-4e1d-a5b9-859c363603c8",
+      "title": "Bilal: A New Breed of Hero",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "bilal-a-new-breed-of-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "26c3d6d7-8c7c-4f59-88ed-c27b4caafd7f",
+      "title": "Kung Fu Panda 3",
+      "release_year": 2016,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-3",
+      "has_reactions": true
+    },
+    {
+      "id": "853b80ef-ab3b-4fe8-9aa4-b5bcb4a49d1c",
+      "title": "Batman: The Killing Joke",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "batman-the-killing-joke",
+      "has_reactions": false
+    },
+    {
+      "id": "79ae661a-b216-44e0-9cdf-03fe89f98cea",
+      "title": "Hulk: Where Monsters Dwell",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "hulk-where-monsters-dwell",
+      "has_reactions": false
+    },
+    {
+      "id": "93ed2f8a-9f3d-4c09-ad7d-ca34908a5981",
+      "title": "DC Super Hero Girls: Super Hero High",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dc-super-hero-girls-super-hero-high",
+      "has_reactions": false
+    },
+    {
+      "id": "6ad0b714-2142-4b96-ab1b-848c9101b78e",
+      "title": "Rescue Dogs",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "rescue-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "80217cde-6bae-4616-9c07-0fc1d72fb1ad",
+      "title": "The Huntsman: Winter's War",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-huntsman-winter-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "11d0fec0-b968-4e40-a30a-53ca95948cdc",
+      "title": "Tales of the Teenage Mutant Ninja Turtles: Super Shredder",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tales-of-the-teenage-mutant-ninja-turtles-super-shredder",
+      "has_reactions": false
+    },
+    {
+      "id": "d66c7571-4622-4524-8805-3706748ee84c",
+      "title": "Michael Jackson's Halloween",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-s-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "3110231d-607b-4bd2-971f-02eca783e802",
+      "title": "The Girl from Dinosaur Island",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-girl-from-dinosaur-island",
+      "has_reactions": false
+    },
+    {
+      "id": "c4907382-b520-43e7-8245-7d53bc4227db",
+      "title": "Shaun The Sheep: Happy Farmer's Day",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "shaun-the-sheep-happy-farmer-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "55951122-9574-47dc-93cd-abe68e91c21f",
+      "title": "The Nut Job 2: Nutty by Nature",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-nut-job-2-nutty-by-nature",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca41d1b-7183-4d33-b945-2f1d57dc7f23",
+      "title": "Incredibles 2",
+      "release_year": 2018,
+      "studio_label": "Pixar",
+      "slug": "incredibles-2",
+      "has_reactions": true
+    },
+    {
+      "id": "d2d6b2f6-773e-4e3b-9635-3d530d8ea928",
+      "title": "LEGO DC Super Hero Girls: Super-Villain High",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-super-hero-girls-super-villain-high",
+      "has_reactions": false
+    },
+    {
+      "id": "8acbe133-b108-4647-82fb-04efd6f6fe87",
+      "title": "Fleece & Desist",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "fleece-desist",
+      "has_reactions": false
+    },
+    {
+      "id": "374830f5-d345-4706-a26a-23e47e508fb3",
+      "title": "Mortal Kombat Legends: Battle of the Realms",
+      "release_year": 2021,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "mortal-kombat-legends-battle-of-the-realms",
+      "has_reactions": true
+    },
+    {
+      "id": "cb8ed663-dd79-4df9-8757-26d7e07bffc5",
+      "title": "A StoryBots Space Adventure",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "a-storybots-space-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "3a168414-8798-46a2-b818-943fa458c63c",
+      "title": "Scooby-Doo, Where Are You Now!",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-where-are-you-now",
+      "has_reactions": false
+    },
+    {
+      "id": "5ec4f613-a9a1-4b0a-963a-5a2e19ce2466",
+      "title": "Rumble",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rumble",
+      "has_reactions": false
+    },
+    {
+      "id": "3eb7665a-d316-4896-bf9f-f946a8eed001",
+      "title": "Tom and Jerry Cowboy Up!",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-cowboy-up",
+      "has_reactions": false
+    },
+    {
+      "id": "ee349a85-de6e-4a12-b4a8-6938fd81c45e",
+      "title": "Hotel Transylvania: Transformania",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "hotel-transylvania-transformania",
+      "has_reactions": false
+    },
+    {
+      "id": "89bbe886-6ca1-4e47-ade7-6b58fd24249a",
+      "title": "Luck",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "luck",
+      "has_reactions": false
+    },
+    {
+      "id": "1b7c3019-f64b-494e-b9da-f1a7297aa02c",
+      "title": "The Wonderful Summer of Mickey Mouse",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-wonderful-summer-of-mickey-mouse",
+      "has_reactions": false
+    },
+    {
+      "id": "573de2b3-c9ca-4a23-9d16-bfa4aeae9981",
+      "title": "Batman: The Long Halloween Deluxe Edition",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "batman-the-long-halloween-deluxe-edition",
+      "has_reactions": false
+    },
+    {
+      "id": "0d213e99-98ec-4cb7-8437-cf96adcb665e",
+      "title": "Groot's First Steps",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "groot-s-first-steps",
+      "has_reactions": false
+    },
+    {
+      "id": "3ab4f0b9-7bee-45cc-b7ed-0fae353a7a0e",
+      "title": "The Little Guy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-little-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "278d5b27-8de2-4db6-a600-b7c9acf14291",
+      "title": "Sonic Drone Home",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "sonic-drone-home",
+      "has_reactions": false
+    },
+    {
+      "id": "184f3f38-645a-4408-b956-236d6f7635e3",
+      "title": "Minions: The Rise of Gru",
+      "release_year": 2022,
+      "studio_label": "Universal Pictures",
+      "slug": "minions-the-rise-of-gru",
+      "has_reactions": true
+    },
+    {
+      "id": "6000a78f-e6f8-44fb-b4fd-4a87ac494770",
+      "title": "The Wonderful Autumn of Mickey Mouse",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-wonderful-autumn-of-mickey-mouse",
+      "has_reactions": false
+    },
+    {
+      "id": "b9100888-17d3-427f-9973-8dd705159549",
+      "title": "Groot Takes a Bath",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "groot-takes-a-bath",
+      "has_reactions": false
+    },
+    {
+      "id": "3b980a7b-7f27-4760-a720-66c9d034a584",
+      "title": "Magnum Opus",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "magnum-opus",
+      "has_reactions": false
+    },
+    {
+      "id": "6b7d5eca-5e52-429b-af59-06e674c7b8c9",
+      "title": "Marmaduke",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "marmaduke",
+      "has_reactions": false
+    },
+    {
+      "id": "ec19e114-295a-463b-9075-0faba7bea1d3",
+      "title": "Scooby-Doo! and Krypto, Too!",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-krypto-too",
+      "has_reactions": false
+    },
+    {
+      "id": "29a18cd9-08bf-45a1-956c-9cc190cf158c",
+      "title": "Masha and the Bear: Twice the Fun",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "masha-and-the-bear-twice-the-fun",
+      "has_reactions": false
+    },
+    {
+      "id": "15c89151-2612-4bab-add0-55f4802e7a02",
+      "title": "Merry Little Batman",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "merry-little-batman",
+      "has_reactions": false
+    },
+    {
+      "id": "f29aff62-efc1-468f-b701-07e452299841",
+      "title": "Trolls Band Together",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "trolls-band-together",
+      "has_reactions": false
+    }
+  ]
+}

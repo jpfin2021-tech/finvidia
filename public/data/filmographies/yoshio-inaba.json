@@ -1,0 +1,776 @@
+{
+  "id": "a2d32332-82a8-4dff-a193-84d4a5548e8e",
+  "name": "Yoshio Inaba",
+  "slug": "yoshio-inaba",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/5qIAqM5PegWTNq67qNofz78fb6U.jpg",
+  "filmography": [
+    {
+      "id": "1243cd02-1f77-4ee0-a54f-c4fbe94a27dd",
+      "title": "Dispersed Clouds",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "dispersed-clouds",
+      "has_reactions": false
+    },
+    {
+      "id": "43626b1e-66b9-409a-9725-c114b40a4211",
+      "title": "Fireworks Over the Sea",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "fireworks-over-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "78af9bc7-ce11-4b4e-86ac-df3bf15d9f53",
+      "title": "Beyond Love and Hate",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "beyond-love-and-hate",
+      "has_reactions": false
+    },
+    {
+      "id": "2376509a-c583-4541-a156-7d3182e64758",
+      "title": "Seven Samurai",
+      "release_year": 1954,
+      "studio_label": "TOHO",
+      "slug": "seven-samurai",
+      "has_reactions": true
+    },
+    {
+      "id": "6ac7d7de-8ff2-4855-b03a-444a47571383",
+      "title": "Samurai II: Duel at Ichijoji Temple",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "samurai-ii-duel-at-ichijoji-temple",
+      "has_reactions": false
+    },
+    {
+      "id": "2b5fbe6c-59f3-4fda-bd4c-ed4256df7121",
+      "title": "The Storm",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "6f74328e-8671-4528-9f0d-1811b668ebec",
+      "title": "Rebels on the High Sea",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "rebels-on-the-high-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3c8e0d-5afd-445c-8727-c1d73fe7a787",
+      "title": "Three-Headed Tower",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "three-headed-tower",
+      "has_reactions": false
+    },
+    {
+      "id": "b0399b34-c99d-4c12-9ae2-6b56d17e4b2b",
+      "title": "Throne of Blood",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "throne-of-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "6f40f619-2e4c-41e4-ad44-10de81271aef",
+      "title": "Police Precinct: The Pickpocket Killer",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "police-precinct-the-pickpocket-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "4b071edd-dc6d-417c-80cf-3ce7fa3ee6cb",
+      "title": "Yagyu Secret Scrolls",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "yagyu-secret-scrolls",
+      "has_reactions": false
+    },
+    {
+      "id": "8fed5b77-f3a4-40bf-8f3e-f4ecb7d9af47",
+      "title": "The Story of Pure Love",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-pure-love",
+      "has_reactions": false
+    },
+    {
+      "id": "696c8159-8c21-4ef7-9c54-33fe63402069",
+      "title": "Hell's Companion",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "hell-s-companion",
+      "has_reactions": false
+    },
+    {
+      "id": "bae46a24-079a-4a44-89eb-4181a93498c2",
+      "title": "The Song of the Cart",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-song-of-the-cart",
+      "has_reactions": false
+    },
+    {
+      "id": "897d0d29-48b1-46da-938a-562b694ec520",
+      "title": "The Bastards of Lawless Town",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-bastards-of-lawless-town",
+      "has_reactions": false
+    },
+    {
+      "id": "bab40f98-c528-48ec-9c36-f2afaf3b4b5c",
+      "title": "Fires on the Plain",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "fires-on-the-plain",
+      "has_reactions": false
+    },
+    {
+      "id": "180f7bae-cfb4-4ded-be57-ed5977d14864",
+      "title": "I Want to Be a Shellfish",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "i-want-to-be-a-shellfish",
+      "has_reactions": false
+    },
+    {
+      "id": "e13f0217-fa0e-4c4f-8bf0-cd186f2a01be",
+      "title": "Lucky Dragon No. 5",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "lucky-dragon-no-5",
+      "has_reactions": false
+    },
+    {
+      "id": "36728a1e-0f63-43d6-b1da-e361af2550f5",
+      "title": "Police Precinct Part 12",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "police-precinct-part-12",
+      "has_reactions": false
+    },
+    {
+      "id": "ac32bff1-e8e6-4f9b-adbe-cab6a2b6f8da",
+      "title": "The Man of Seven Faces",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-man-of-seven-faces",
+      "has_reactions": false
+    },
+    {
+      "id": "cb0d5ea5-96e6-448d-89f6-d77a04a552e2",
+      "title": "The Angry Sea",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-angry-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "bebbf20f-07e5-4716-ac8b-ee0c07a00114",
+      "title": "Spring Dreams",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "spring-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "6bd271d9-2ef2-4ca7-a694-d1d3d314662d",
+      "title": "The Blue Beast",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-blue-beast",
+      "has_reactions": false
+    },
+    {
+      "id": "d01221a4-5239-490e-a690-bf7addf098ec",
+      "title": "Lord Tadanao",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "lord-tadanao",
+      "has_reactions": false
+    },
+    {
+      "id": "af583e81-d8aa-4a03-b5b3-ca20e139b6a8",
+      "title": "The Spear of Heroism",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-spear-of-heroism",
+      "has_reactions": false
+    },
+    {
+      "id": "451fc6af-f476-4298-bf52-6a46ddce13a5",
+      "title": "Darling Escape",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "darling-escape",
+      "has_reactions": false
+    },
+    {
+      "id": "2515d84b-f51d-45a6-bbbc-e500522f95db",
+      "title": "Lost in the Sun",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "lost-in-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "3430609f-ef89-4ec4-b050-d7994172ef36",
+      "title": "The Casebooks of Zenigata Heiji: The Beautiful Shark",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-casebooks-of-zenigata-heiji-the-beautiful-shark",
+      "has_reactions": false
+    },
+    {
+      "id": "224140a5-39ef-4dca-a4a6-5651366ac374",
+      "title": "The Black Scar",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-black-scar",
+      "has_reactions": false
+    },
+    {
+      "id": "49edd62e-125e-4ba6-93ac-d120e05f6065",
+      "title": "The Gambler's Code",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-gambler-s-code",
+      "has_reactions": false
+    },
+    {
+      "id": "24e94a24-f935-42b9-8251-f0cbea4d83ce",
+      "title": "Oniisan to oneesan",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "oniisan-to-oneesan",
+      "has_reactions": false
+    },
+    {
+      "id": "5e9e6b63-1124-456d-a659-0ae02a6ec905",
+      "title": "Otoko to otoko no ikiru machi",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "otoko-to-otoko-no-ikiru-machi",
+      "has_reactions": false
+    },
+    {
+      "id": "8bc0e5c9-ed86-4607-b932-b6129610e755",
+      "title": "Kiriko no unmei",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "kiriko-no-unmei",
+      "has_reactions": false
+    },
+    {
+      "id": "40ec3cf2-cdde-4c04-823a-ae0032a11db7",
+      "title": "Aniki",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "aniki",
+      "has_reactions": false
+    },
+    {
+      "id": "736ecd82-29c0-4fc3-912b-0fc81b45e7b0",
+      "title": "Kumoemon to sono tsuma",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "kumoemon-to-sono-tsuma",
+      "has_reactions": false
+    },
+    {
+      "id": "840dd3ab-109d-41b7-ac87-6900e9183bcd",
+      "title": "Farm Girls",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "farm-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "0ef6d2f7-4ff1-4f4e-ba9d-c85ba64c26e0",
+      "title": "Destiny's Son",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "destiny-s-son",
+      "has_reactions": false
+    },
+    {
+      "id": "6d67dee0-8540-4ba9-994d-7c932d0a29d0",
+      "title": "Harakiri",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "harakiri",
+      "has_reactions": false
+    },
+    {
+      "id": "f9387720-d86a-463d-aaf9-1758097a8b13",
+      "title": "Woman of Design",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "woman-of-design",
+      "has_reactions": false
+    },
+    {
+      "id": "4bd70557-96cf-41e3-a1e4-5a50038b06be",
+      "title": "A Fishmonger's Tour",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "a-fishmonger-s-tour",
+      "has_reactions": false
+    },
+    {
+      "id": "fa091185-2c8e-4cb0-8201-94801397a6bd",
+      "title": "Cut the Shadow",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "cut-the-shadow",
+      "has_reactions": false
+    },
+    {
+      "id": "480fb0d4-64c3-4c48-88b1-cded5002906a",
+      "title": "Bronze Magician",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "bronze-magician",
+      "has_reactions": false
+    },
+    {
+      "id": "7e903254-2a2a-4052-bafa-adc39f42cb3e",
+      "title": "Ken",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "ken",
+      "has_reactions": false
+    },
+    {
+      "id": "eec91330-9f3a-45b1-8a3f-3426ba234d91",
+      "title": "The Great Killing",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-great-killing",
+      "has_reactions": false
+    },
+    {
+      "id": "577b3a98-56de-49b5-92d8-f0e521e777b4",
+      "title": "Sleepy Eyes of Death 4: Sword of Seduction",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "sleepy-eyes-of-death-4-sword-of-seduction",
+      "has_reactions": false
+    },
+    {
+      "id": "add0ca2c-9f60-4f54-8edf-70b321b0fa50",
+      "title": "Whirlwind",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "whirlwind",
+      "has_reactions": false
+    },
+    {
+      "id": "56d373d4-4c42-4574-981f-5eeac23906ae",
+      "title": "Samurai Assassin",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "samurai-assassin",
+      "has_reactions": false
+    },
+    {
+      "id": "6be4fa53-fe3f-44bb-b7df-653566dc2aab",
+      "title": "The Spy",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-spy",
+      "has_reactions": false
+    },
+    {
+      "id": "34832f30-5655-46b4-a4dd-a14dd0c361c1",
+      "title": "Hoodlum Soldier",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "hoodlum-soldier",
+      "has_reactions": false
+    },
+    {
+      "id": "643a22ff-fb4f-4dcc-b41f-9f08daf63af3",
+      "title": "The Retreat from Kiska",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-retreat-from-kiska",
+      "has_reactions": false
+    },
+    {
+      "id": "eb68c27b-3960-449b-919d-dedfeb6a3216",
+      "title": "Beast Alley",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "beast-alley",
+      "has_reactions": false
+    },
+    {
+      "id": "27fae1d9-b77f-450c-8097-6552701009fb",
+      "title": "Sleepy Eyes of Death 6: Sword of Satan",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "sleepy-eyes-of-death-6-sword-of-satan",
+      "has_reactions": false
+    },
+    {
+      "id": "f027083e-be5f-4331-ab06-c2e309d9d66c",
+      "title": "Moment of Terror",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "moment-of-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "2a4d9ce1-8cef-4a3d-8611-8086c9ee26df",
+      "title": "The Stranger Within a Woman",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-stranger-within-a-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "29934106-cf5a-42e5-9345-10f55bb558ff",
+      "title": "Tokyo Ninja Force",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "tokyo-ninja-force",
+      "has_reactions": false
+    },
+    {
+      "id": "ef6fc105-c118-4fa1-a833-8351cb7b97ec",
+      "title": "Cash Calls Hell",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "cash-calls-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "b952ac94-ed2e-4661-b7e7-8dda9df3a2ce",
+      "title": "Hoodlum Soldier on the Attack",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "hoodlum-soldier-on-the-attack",
+      "has_reactions": false
+    },
+    {
+      "id": "3f4e0884-969b-490f-ac28-a693c5b1bc23",
+      "title": "Assignment Dragon No. 3",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "assignment-dragon-no-3",
+      "has_reactions": false
+    },
+    {
+      "id": "37edc2cf-6221-4105-9108-2ddb5b9a39fd",
+      "title": "Sleepy Eyes of Death 9: Trail of Traps",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "sleepy-eyes-of-death-9-trail-of-traps",
+      "has_reactions": false
+    },
+    {
+      "id": "9c5db251-ca78-4d1d-aa4a-8b64497a6fcd",
+      "title": "Admiral Yamamoto",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "admiral-yamamoto",
+      "has_reactions": false
+    },
+    {
+      "id": "6819bab7-ef30-4ff1-98c4-e8ed165ca9e3",
+      "title": "Broken Swords",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "broken-swords",
+      "has_reactions": false
+    },
+    {
+      "id": "6afe0e7b-865e-4b7c-a02c-a5180e51183c",
+      "title": "Battle of the Japan Sea",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "battle-of-the-japan-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "807bda14-da6d-482d-87fe-9ff8c1bbaca9",
+      "title": "Banner of the Young",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "banner-of-the-young",
+      "has_reactions": false
+    },
+    {
+      "id": "55bbd79e-2d09-4e9a-99d5-e0b915a7025f",
+      "title": "The Shadow Within",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-shadow-within",
+      "has_reactions": false
+    },
+    {
+      "id": "9bceda5b-691b-40f1-ad58-d352339f1b73",
+      "title": "Stray Cat Rock: Beat '71",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "stray-cat-rock-beat-71",
+      "has_reactions": false
+    },
+    {
+      "id": "1a6faf6d-12c3-4562-948d-12b5e850c629",
+      "title": "Silence",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "silence",
+      "has_reactions": false
+    },
+    {
+      "id": "abffef8e-f323-4284-951f-a6d68ca75367",
+      "title": "I Hear the Whistle",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "i-hear-the-whistle",
+      "has_reactions": false
+    },
+    {
+      "id": "533b3aaf-e522-4a4f-948e-19217fa1cbe5",
+      "title": "The Black Battlefront Kidnappers",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-black-battlefront-kidnappers",
+      "has_reactions": false
+    },
+    {
+      "id": "766bb84c-cb5c-44dc-b6b2-3a131f6639a4",
+      "title": "Long Journey into Love",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "long-journey-into-love",
+      "has_reactions": false
+    },
+    {
+      "id": "f882125c-b01c-4566-b9ad-bfc948994d13",
+      "title": "Love Is in the Green Wind",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "love-is-in-the-green-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "93110f47-5a35-4358-ada9-920c9c0793f5",
+      "title": "The Castle of Sand",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-castle-of-sand",
+      "has_reactions": false
+    },
+    {
+      "id": "d24067dd-b3c9-4526-aa95-8e122df88ba2",
+      "title": "The Fossil",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-fossil",
+      "has_reactions": false
+    },
+    {
+      "id": "c585c3a7-d097-4679-94b3-5554f7e6b4a3",
+      "title": "Without Complaint",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "without-complaint",
+      "has_reactions": false
+    },
+    {
+      "id": "23e12e6f-cbfa-4764-a292-70bf86d518a1",
+      "title": "The Perennial Weed",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-perennial-weed",
+      "has_reactions": false
+    },
+    {
+      "id": "9c79a92a-ff41-4def-b9d8-6a767f6d5443",
+      "title": "Human Revolution II",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "human-revolution-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "37e7726a-c8bf-49f0-aa10-93ae8bed87f7",
+      "title": "Island of Hell",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "island-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "0c27b813-a65f-4c7b-bee7-e30f12686d68",
+      "title": "Blood Type: Blue",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "blood-type-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "434fe48e-27dd-4054-b46c-77a554a1a157",
+      "title": "Japanese Godfather: Conclusion",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "japanese-godfather-conclusion",
+      "has_reactions": false
+    },
+    {
+      "id": "b42f24f4-d6b7-4497-aa15-b89d1ff139b8",
+      "title": "Bandits vs. Samurai Squadron",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "bandits-vs-samurai-squadron",
+      "has_reactions": false
+    },
+    {
+      "id": "b217eab4-b9b9-4325-90b7-320ec846a652",
+      "title": "Gassan",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "gassan",
+      "has_reactions": false
+    },
+    {
+      "id": "9604c641-44d6-45d5-94cb-b23473b00043",
+      "title": "The Three Undelivered Letters",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-three-undelivered-letters",
+      "has_reactions": false
+    },
+    {
+      "id": "a9876e36-13ca-4bd6-950c-2f99b7022f6a",
+      "title": "The Night of Martial Law",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-night-of-martial-law",
+      "has_reactions": false
+    },
+    {
+      "id": "054174f6-338f-4406-bad6-a68d16219149",
+      "title": "Port Arthur",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "port-arthur",
+      "has_reactions": false
+    },
+    {
+      "id": "16e8df68-2be8-4b37-af4e-bbb132b0054c",
+      "title": "Magnitude 7.9",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "magnitude-7-9",
+      "has_reactions": false
+    },
+    {
+      "id": "58cf5e30-be36-4d04-b937-e8f061fed530",
+      "title": "Willful Murder",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "willful-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "fd3a1f9b-732c-4244-893a-dc8fd12943b0",
+      "title": "Assassin's Road",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "assassin-s-road",
+      "has_reactions": false
+    },
+    {
+      "id": "9e62537c-441b-4c4d-b423-41d839e66cd4",
+      "title": "The Challenge",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-challenge",
+      "has_reactions": false
+    },
+    {
+      "id": "1434e9d3-bf70-4486-a147-6088d806594a",
+      "title": "The Old Bear Hunter",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-old-bear-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "1b9cea5b-ebb4-4d1b-9100-2475b26a98e7",
+      "title": "\u904b\u547d\u306e\u6bba\u610f\u3000\u5317\u4fe1\u6fc3\u6bcd\u5b50\u5fc3\u4e2d",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "e64c9c0a-9287-429b-ab02-6f39ecd60c29",
+      "title": "Shogunate Secret Ninja",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "shogunate-secret-ninja",
+      "has_reactions": false
+    },
+    {
+      "id": "4fafa7f2-97ec-4d03-a578-89a0bb0ece03",
+      "title": "Battle Anthem",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "battle-anthem",
+      "has_reactions": false
+    },
+    {
+      "id": "815dce6a-29de-414c-8613-a61b0c2c2a88",
+      "title": "The Yoshida School",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-yoshida-school",
+      "has_reactions": false
+    },
+    {
+      "id": "537978ec-d6e1-45ec-9454-d1faa524c1df",
+      "title": "Undercover Ninja: Secret Assassins",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "undercover-ninja-secret-assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "4e7001dd-d5e0-42cb-a48a-00a2b549adb1",
+      "title": "Karate Cop 2",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "karate-cop-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0ed42e70-6b1f-48ab-a681-01e5f0a5e964",
+      "title": "Fireflies in the North",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "fireflies-in-the-north",
+      "has_reactions": false
+    },
+    {
+      "id": "d33f769a-3184-40a2-923b-7e1d3e3104bd",
+      "title": "Secret Agreement: Ministry of Foreign Affairs Secret Leak Incident",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "secret-agreement-ministry-of-foreign-affairs-secret-leak-incident",
+      "has_reactions": false
+    }
+  ]
+}

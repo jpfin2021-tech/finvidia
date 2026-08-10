@@ -1,0 +1,728 @@
+{
+  "id": "e8be37d4-ada4-44a2-adb3-b0df30863f1a",
+  "name": "Roscoe Karns",
+  "slug": "roscoe-karns",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eDXhkieC1icm4lGnuDziIIl5nO8.jpg",
+  "filmography": [
+    {
+      "id": "6d8d3d52-4674-42d9-b173-f1935e7b966b",
+      "title": "The Family Honor",
+      "release_year": 1920,
+      "studio_label": "\u2014",
+      "slug": "the-family-honor",
+      "has_reactions": false
+    },
+    {
+      "id": "534bf82d-a891-4412-bbe6-a4bcb221bc88",
+      "title": "The Life of the Party",
+      "release_year": 1920,
+      "studio_label": "\u2014",
+      "slug": "the-life-of-the-party",
+      "has_reactions": false
+    },
+    {
+      "id": "4341e765-95b4-4d1d-a955-b547c6f9052b",
+      "title": "Her Own Money",
+      "release_year": 1922,
+      "studio_label": "\u2014",
+      "slug": "her-own-money",
+      "has_reactions": false
+    },
+    {
+      "id": "12989a25-7ba9-428f-80c4-17b71e58767e",
+      "title": "The Ten Commandments",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "the-ten-commandments",
+      "has_reactions": false
+    },
+    {
+      "id": "e87f0396-816f-42c1-8c0b-42a598ca7a50",
+      "title": "Other Men's Daughters",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "other-men-s-daughters",
+      "has_reactions": false
+    },
+    {
+      "id": "3fa47afb-150b-42aa-a368-a001c222f85f",
+      "title": "You'd Be Surprised",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "you-d-be-surprised",
+      "has_reactions": false
+    },
+    {
+      "id": "ee7a8c04-133a-481e-8434-2615711e2268",
+      "title": "Ten Modern Commandments",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "ten-modern-commandments",
+      "has_reactions": false
+    },
+    {
+      "id": "7b9074aa-9774-4a5c-b070-e35629fd1331",
+      "title": "Wings",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "wings",
+      "has_reactions": false
+    },
+    {
+      "id": "05173a46-979c-4d0b-b71b-32cdb04d4f87",
+      "title": "The Jazz Singer",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "the-jazz-singer",
+      "has_reactions": false
+    },
+    {
+      "id": "0ac342b8-5fd9-47fd-99c3-e978153e6437",
+      "title": "Win That Girl",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "win-that-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "942b1cad-3e34-4551-9082-7ef8aa174679",
+      "title": "The Shopworn Angel",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-shopworn-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "2a8b5965-037c-4960-b641-af855464ee25",
+      "title": "Moran of the Marines",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "moran-of-the-marines",
+      "has_reactions": false
+    },
+    {
+      "id": "f8664307-d238-4312-b026-1ddca60b226a",
+      "title": "The Trail of '98",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-trail-of-98",
+      "has_reactions": false
+    },
+    {
+      "id": "44a1a113-ee7e-40f2-94a7-49f156d90e7d",
+      "title": "New York Nights",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "new-york-nights",
+      "has_reactions": false
+    },
+    {
+      "id": "871fd37b-e839-4c82-a192-abcf16a71fbe",
+      "title": "The Flying Fleet",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-flying-fleet",
+      "has_reactions": false
+    },
+    {
+      "id": "ea9bc9ed-66fa-4ef0-ab56-da31c299ce63",
+      "title": "Copy",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "copy",
+      "has_reactions": false
+    },
+    {
+      "id": "abd62888-ac04-4d0f-a10c-670333fb4e33",
+      "title": "This Thing Called Love",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "this-thing-called-love",
+      "has_reactions": false
+    },
+    {
+      "id": "6014b57f-014c-4349-9a46-3c715a388636",
+      "title": "Safety in Numbers",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "safety-in-numbers",
+      "has_reactions": false
+    },
+    {
+      "id": "d1244b04-175d-461d-aaf2-1114573178f5",
+      "title": "Troopers Three",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "troopers-three",
+      "has_reactions": false
+    },
+    {
+      "id": "b7f47dae-1583-443e-b3e1-22dc4d3ee42e",
+      "title": "The Gorilla",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-gorilla",
+      "has_reactions": false
+    },
+    {
+      "id": "3a08abbb-ea3f-40f2-8fdf-8762463c0ea9",
+      "title": "Man Trouble",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "man-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "d4472039-c5fc-4ae7-b5ba-2cd553587d5b",
+      "title": "Laughing Sinners",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "laughing-sinners",
+      "has_reactions": false
+    },
+    {
+      "id": "14361ecd-b55c-490c-8dff-88d3cd8691b1",
+      "title": "Pleasure",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "pleasure",
+      "has_reactions": false
+    },
+    {
+      "id": "d8b47ad3-151a-4906-bcb8-eac3f4e5a012",
+      "title": "Dirigible",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "dirigible",
+      "has_reactions": false
+    },
+    {
+      "id": "7a5a3d17-77c4-424d-999a-f8262884e2bd",
+      "title": "Ladies of the Big House",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "ladies-of-the-big-house",
+      "has_reactions": false
+    },
+    {
+      "id": "4d6e3245-5d97-486f-91fa-9adb595c84a4",
+      "title": "One Way Passage",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "one-way-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "032d8bc3-6462-4416-b92e-2e008ce0a8f5",
+      "title": "Lawyer Man",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "lawyer-man",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a2a025-9bdc-42cb-867e-b978d78e8250",
+      "title": "Two Against the World",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "two-against-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "283589fd-d8ab-4d30-b104-db0e40506604",
+      "title": "The Crooked Circle",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-crooked-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "5eef631e-59e8-4ae5-9a60-ac346998717b",
+      "title": "Week-End Marriage",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "week-end-marriage",
+      "has_reactions": false
+    },
+    {
+      "id": "2ea69dd2-af16-43b3-82c5-e32b1ced3020",
+      "title": "The Roadhouse Murder",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-roadhouse-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "d4f918de-6767-4d93-9019-bbbe535dcccc",
+      "title": "Stowaway",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "stowaway",
+      "has_reactions": false
+    },
+    {
+      "id": "0331ab7e-af88-4f94-bef2-43163f4c8b07",
+      "title": "They Call It Sin",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "they-call-it-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "5487e663-a763-4658-964c-809ba15f37cc",
+      "title": "Today We Live",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "today-we-live",
+      "has_reactions": false
+    },
+    {
+      "id": "5fa5411d-f8ea-479a-a4f7-4b3e9a341028",
+      "title": "A Lady's Profession",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "a-lady-s-profession",
+      "has_reactions": false
+    },
+    {
+      "id": "6e201779-9f75-49ae-858f-61046b9240a0",
+      "title": "One Sunday Afternoon",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "one-sunday-afternoon",
+      "has_reactions": false
+    },
+    {
+      "id": "cd514806-aa30-45fe-9471-a9944d0f831c",
+      "title": "The Women in His Life",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-women-in-his-life",
+      "has_reactions": false
+    },
+    {
+      "id": "803a810e-5f25-4f6e-8a41-32b7323462dc",
+      "title": "Gambling Ship",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "gambling-ship",
+      "has_reactions": false
+    },
+    {
+      "id": "36854c49-5243-4d0c-a2b0-71a32e00f9c7",
+      "title": "It Happened One Night",
+      "release_year": 1934,
+      "studio_label": "Columbia Pictures",
+      "slug": "it-happened-one-night",
+      "has_reactions": true
+    },
+    {
+      "id": "061ea243-a1f8-429e-96d9-c62ed740b397",
+      "title": "Twentieth Century",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "twentieth-century",
+      "has_reactions": false
+    },
+    {
+      "id": "b72bef45-4474-4ec5-8f9b-1f839d093a86",
+      "title": "I Sell Anything",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "i-sell-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "5877db51-e851-4258-9ce2-83b9073f5bee",
+      "title": "Shoot the Works",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "shoot-the-works",
+      "has_reactions": false
+    },
+    {
+      "id": "b0f1ab97-c3c8-4125-b801-7f3c42c23c27",
+      "title": "Wings in the Dark",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "wings-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "40a709f7-6ccc-48dc-a461-55728a417a96",
+      "title": "Four Hours to Kill!",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "four-hours-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "e0b24e29-cc7a-4863-9426-e2c008ddb04e",
+      "title": "The Woman in Red",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "the-woman-in-red",
+      "has_reactions": false
+    },
+    {
+      "id": "63cdc0ae-19be-4ee8-89d4-0a4ccfef153c",
+      "title": "Alibi Ike",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "alibi-ike",
+      "has_reactions": false
+    },
+    {
+      "id": "86105c43-bb4c-45f9-9f0c-3b22c0363a24",
+      "title": "Front Page Woman",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "front-page-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "906ff5ce-a3ee-44c3-8fbf-73af31bfb371",
+      "title": "Two-Fisted",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "two-fisted",
+      "has_reactions": false
+    },
+    {
+      "id": "847f3b04-d30b-47c0-9bce-10a9e4ee1028",
+      "title": "Red Hot Tires",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "red-hot-tires",
+      "has_reactions": false
+    },
+    {
+      "id": "18507b8d-5d81-4c49-b820-76dd3362af12",
+      "title": "Cain and Mabel",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "cain-and-mabel",
+      "has_reactions": false
+    },
+    {
+      "id": "820a8deb-5e96-4d23-9abd-efb443cdf5cc",
+      "title": "Three Married Men",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "three-married-men",
+      "has_reactions": false
+    },
+    {
+      "id": "847f862b-05cf-4f78-bd56-26268c019f5b",
+      "title": "Woman Trap",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "woman-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "040d358d-9fe1-4e26-97c2-b8870326876a",
+      "title": "Night of Mystery",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "night-of-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "b51fd8fc-9739-4640-9671-e296aa1d3c16",
+      "title": "Murder Goes to College",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "murder-goes-to-college",
+      "has_reactions": false
+    },
+    {
+      "id": "963dfdca-1531-4f50-965e-747d393d355d",
+      "title": "On Such a Night",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "on-such-a-night",
+      "has_reactions": false
+    },
+    {
+      "id": "03b1f813-45c9-4dbc-a0bd-a0f69ac82c4a",
+      "title": "Partners in Crime",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "partners-in-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "bc8922d3-6ae7-48c3-baf3-789afcb8d2d1",
+      "title": "Clarence",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "clarence",
+      "has_reactions": false
+    },
+    {
+      "id": "cc1eb45f-e988-4fb3-8b44-f8e7d44f4ca2",
+      "title": "Dangerous to Know",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "dangerous-to-know",
+      "has_reactions": false
+    },
+    {
+      "id": "253978e3-677b-433c-bf85-5d5b8c238f12",
+      "title": "Tip-Off Girls",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "tip-off-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "6cbb160a-63ef-46eb-97a5-c108d9ca3f8a",
+      "title": "Thanks for the Memory",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "thanks-for-the-memory",
+      "has_reactions": false
+    },
+    {
+      "id": "f50061fd-d7dc-4e8f-8104-6fa842419623",
+      "title": "That's Right \u2013 You're Wrong",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "that-s-right-you-re-wrong",
+      "has_reactions": false
+    },
+    {
+      "id": "79dfdcfe-1d15-4533-a44c-292b2e114dd0",
+      "title": "King of Chinatown",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "king-of-chinatown",
+      "has_reactions": false
+    },
+    {
+      "id": "dabe90b8-0660-4157-9bb3-d6d9091791d1",
+      "title": "Everything's on Ice",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "everything-s-on-ice",
+      "has_reactions": false
+    },
+    {
+      "id": "229f1456-0184-4ade-b035-f9f1cc1ab225",
+      "title": "Dancing Co-Ed",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "dancing-co-ed",
+      "has_reactions": false
+    },
+    {
+      "id": "10bd70af-962e-4406-a971-0fdec6281c6d",
+      "title": "Double Alibi",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "double-alibi",
+      "has_reactions": false
+    },
+    {
+      "id": "7ac19ef9-b3e7-4672-9846-8fdbd5fb6f0c",
+      "title": "Ladies Must Live",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "ladies-must-live",
+      "has_reactions": false
+    },
+    {
+      "id": "c9616d99-391a-457a-81f8-ce5d1dc275f7",
+      "title": "Petticoat Politics",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "petticoat-politics",
+      "has_reactions": false
+    },
+    {
+      "id": "7cdd2156-c8c3-4923-ba2f-223d2deb08fd",
+      "title": "Footsteps in the Dark",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "footsteps-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "511b93e5-2b98-4161-8e89-24a6dec63870",
+      "title": "The Gay Vagabond",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-gay-vagabond",
+      "has_reactions": false
+    },
+    {
+      "id": "c3a5805a-9f8f-49eb-9db5-31a106d0e36d",
+      "title": "Road to Happiness",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "road-to-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "2ba827b1-c6ab-4fdb-9ef9-2a318cbbeba8",
+      "title": "A Tragedy at Midnight",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "a-tragedy-at-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "e2a771c3-6cdd-4056-92d4-204dad783b2f",
+      "title": "You Can't Escape Forever",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "you-can-t-escape-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "c8a42b28-3b22-4730-a66e-7b79bc989972",
+      "title": "Yokel Boy",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "yokel-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "0e2b5365-4047-4644-92f5-2756fb456901",
+      "title": "My Son, The Hero",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "my-son-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "6e624885-4f0f-43c3-8149-18415c19f92f",
+      "title": "Riding High",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "riding-high",
+      "has_reactions": false
+    },
+    {
+      "id": "0418c3e4-12fa-4032-89a5-591d1ddd5954",
+      "title": "Old Acquaintance",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "old-acquaintance",
+      "has_reactions": false
+    },
+    {
+      "id": "0926eda7-7840-4a45-89d6-4fbff67775be",
+      "title": "Hi, Good Lookin'!",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "hi-good-lookin",
+      "has_reactions": false
+    },
+    {
+      "id": "24801366-e2e5-4b83-9ece-87425ad4a27d",
+      "title": "Minstrel Man",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "minstrel-man",
+      "has_reactions": false
+    },
+    {
+      "id": "17f43b6a-13e0-42b4-bad4-63a5609c783f",
+      "title": "The Navy Way",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-navy-way",
+      "has_reactions": false
+    },
+    {
+      "id": "3c00f547-1948-4f33-bcd0-01a30ee33b22",
+      "title": "One Way to Love",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "one-way-to-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1383be18-bdc7-4fd5-8dff-0ef78bf2dd72",
+      "title": "I Ring Doorbells",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "i-ring-doorbells",
+      "has_reactions": false
+    },
+    {
+      "id": "ecc457f8-fd30-4593-a020-3603fb85a275",
+      "title": "Avalanche",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "avalanche",
+      "has_reactions": false
+    },
+    {
+      "id": "c276f41e-6c4e-46c3-b049-7bfdb4423741",
+      "title": "That's My Man",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "that-s-my-man",
+      "has_reactions": false
+    },
+    {
+      "id": "10a91c14-682b-42f3-9d8f-a7b56457579b",
+      "title": "Vigilantes of Boomtown",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "vigilantes-of-boomtown",
+      "has_reactions": false
+    },
+    {
+      "id": "badb9fe5-a95a-4518-9e61-a74538ff5053",
+      "title": "Speed to Spare",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "speed-to-spare",
+      "has_reactions": false
+    },
+    {
+      "id": "07271600-74e1-4d01-b768-609983db2d6a",
+      "title": "Texas, Brooklyn & Heaven",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "texas-brooklyn-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "cf65bb5c-d3e8-48d7-b262-41344efcfbab",
+      "title": "The Inside Story",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-inside-story",
+      "has_reactions": false
+    },
+    {
+      "id": "cc402d2a-69d8-420e-9aca-debd132164ce",
+      "title": "Devil's Cargo",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "devil-s-cargo",
+      "has_reactions": false
+    },
+    {
+      "id": "4b3c7c8a-864d-45a9-9453-5e2b97bde65d",
+      "title": "Onionhead",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "onionhead",
+      "has_reactions": false
+    },
+    {
+      "id": "7293dc6a-d0b5-4baa-b686-e0fe6de9a9d3",
+      "title": "Man's Favorite Sport?",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "man-s-favorite-sport",
+      "has_reactions": false
+    }
+  ]
+}

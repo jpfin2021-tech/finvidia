@@ -1,0 +1,40 @@
+{
+  "id": "33a9f820-2ce9-4b29-8c9e-d7dd6ccb1e6f",
+  "name": "Lucy Davis",
+  "slug": "lucy-davis",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/A1ymILbxQA5w5TduCNaU0xD9C5a.jpg",
+  "filmography": [
+    {
+      "id": "3352bdb0-8420-44e8-a409-e9b807c7d452",
+      "title": "Come Together",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "come-together",
+      "has_reactions": false
+    },
+    {
+      "id": "ce02c98a-8bde-49d9-9004-30dd0617b96a",
+      "title": "Shaun of the Dead",
+      "release_year": 2004,
+      "studio_label": "WT\u00b2 Productions",
+      "slug": "shaun-of-the-dead",
+      "has_reactions": true
+    },
+    {
+      "id": "86d4ab65-cb39-4e8a-a469-6d6f3bb27b9e",
+      "title": "Sex Lives of the Potato Men",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "sex-lives-of-the-potato-men",
+      "has_reactions": false
+    },
+    {
+      "id": "2d210759-ae8c-4b62-9331-1b3a3ee58040",
+      "title": "Wonder Woman",
+      "release_year": 2017,
+      "studio_label": "Atlas Entertainment",
+      "slug": "wonder-woman",
+      "has_reactions": true
+    }
+  ]
+}

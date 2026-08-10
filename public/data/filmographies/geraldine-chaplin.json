@@ -1,0 +1,632 @@
+{
+  "id": "0ddd33e5-36ca-4598-9188-32642776f482",
+  "name": "Geraldine Chaplin",
+  "slug": "geraldine-chaplin",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/teiPgoY0Fgyw4Xs07IGDsJmcsjL.jpg",
+  "filmography": [
+    {
+      "id": "15597b8f-9b0a-4fb8-9b81-60652634848d",
+      "title": "Moscow in Madrid",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "moscow-in-madrid",
+      "has_reactions": false
+    },
+    {
+      "id": "c2cfc102-035d-401a-b0c3-b54644b3fc4b",
+      "title": "Zhivago: Behind the Camera with David Lean",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "zhivago-behind-the-camera-with-david-lean",
+      "has_reactions": false
+    },
+    {
+      "id": "d5215158-85dd-4211-ba61-bd3a84b4df75",
+      "title": "David Lean's Film of Doctor Zhivago",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "david-lean-s-film-of-doctor-zhivago",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f955b2-db15-4ccf-820d-3387fa8556e5",
+      "title": "We'll Go to the City",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "we-ll-go-to-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "6c8d5873-42fe-4afe-9bb4-6743b3bf6090",
+      "title": "A Countess from Hong Kong",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "a-countess-from-hong-kong",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a679c0-c42a-40b6-b8eb-b254cac6299a",
+      "title": "Stranger in the House",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "stranger-in-the-house",
+      "has_reactions": false
+    },
+    {
+      "id": "2afbf2ff-abad-49db-8052-8f6915d1d353",
+      "title": "I Killed Rasputin",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "i-killed-rasputin",
+      "has_reactions": false
+    },
+    {
+      "id": "3445b680-c3ce-4ccb-964b-dccf1da3b06b",
+      "title": "Peppermint Frapp\u00e9",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "peppermint-frapp",
+      "has_reactions": false
+    },
+    {
+      "id": "aef28875-6a2a-42de-9d60-7f9cda52ac3d",
+      "title": "Honeycomb",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "honeycomb",
+      "has_reactions": false
+    },
+    {
+      "id": "cf2e5ff3-5c35-4691-9e86-becc33ef27fc",
+      "title": "The Hawaiians",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-hawaiians",
+      "has_reactions": false
+    },
+    {
+      "id": "bb0f2efe-e4ca-4b6e-8eef-98d2b736c46e",
+      "title": "Perched on a Tree",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "perched-on-a-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "651770bf-2017-4b91-a383-e09abf7c8854",
+      "title": "Carlos",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "carlos",
+      "has_reactions": false
+    },
+    {
+      "id": "04df8d03-dda9-4808-9b0e-c7ecffd66fd4",
+      "title": "Innocent Bystanders",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "innocent-bystanders",
+      "has_reactions": false
+    },
+    {
+      "id": "77fdc40c-e031-4e97-9a63-eb62be3090b5",
+      "title": "Z.P.G.",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "z-p-g",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b00773-8f69-4c13-99fb-10e830e3c17a",
+      "title": "The Three Musketeers",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "a3604102-3fa3-48c7-9f37-bc34e2bb7221",
+      "title": "Anna and the Wolves",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "anna-and-the-wolves",
+      "has_reactions": false
+    },
+    {
+      "id": "4cfaefc5-d912-4927-b2cb-c2a8f93f9002",
+      "title": "Yankee Dudler",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "yankee-dudler",
+      "has_reactions": false
+    },
+    {
+      "id": "6003c5d5-70c6-4143-bba2-ced474eb04e7",
+      "title": "The Four Musketeers",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-four-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "37b7ced0-212a-4e74-ae86-a1b0d5c12ea6",
+      "title": "\u00bf... Y el pr\u00f3jimo?",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "y-el-pr-jimo",
+      "has_reactions": false
+    },
+    {
+      "id": "a14104af-fbe8-45b0-9a26-27d98ddd81d4",
+      "title": "Summer of Silence",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "summer-of-silence",
+      "has_reactions": false
+    },
+    {
+      "id": "278b8de6-9f91-4339-94a3-fb7ae1669b82",
+      "title": "Nashville",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "nashville",
+      "has_reactions": false
+    },
+    {
+      "id": "29f86e09-54bf-4c05-8263-1eac9ac232eb",
+      "title": "Noro\u00eet (Une Vengeance)",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "noro-t-une-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "35805672-41cf-4baf-9198-1f1335d6c64f",
+      "title": "Cria!",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "cria",
+      "has_reactions": false
+    },
+    {
+      "id": "14c36b16-6d3a-4453-b058-c38d4bb9235e",
+      "title": "Welcome to L.A.",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-l-a",
+      "has_reactions": false
+    },
+    {
+      "id": "e2d7a8d3-8d71-47ef-822a-81ac165f49bf",
+      "title": "Roseland",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "roseland",
+      "has_reactions": false
+    },
+    {
+      "id": "0bc597f9-620b-4ecf-9cb6-2f9b4a34b469",
+      "title": "In Memoriam",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "in-memoriam",
+      "has_reactions": false
+    },
+    {
+      "id": "f22aea86-6787-4d56-a9d7-3d5ff71fe7d9",
+      "title": "Remember My Name",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "remember-my-name",
+      "has_reactions": false
+    },
+    {
+      "id": "88080396-0913-49f8-a70e-5e9e8ef14507",
+      "title": "Blindfolded Eyes",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "blindfolded-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "0b6512a6-92ac-44b9-86d5-8feb737cc81c",
+      "title": "Mama Turns 100",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "mama-turns-100",
+      "has_reactions": false
+    },
+    {
+      "id": "2da91415-3f4b-482c-a2ad-e7ccaade24f9",
+      "title": "The Widow of Montiel",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-widow-of-montiel",
+      "has_reactions": false
+    },
+    {
+      "id": "8e04291d-2a85-4bf0-8456-f70c9b625391",
+      "title": "The Mirror Crack'd",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-mirror-crack-d",
+      "has_reactions": false
+    },
+    {
+      "id": "0a984e0a-3c4c-4c67-8c8b-545c9cd06c76",
+      "title": "A Sweet Journey",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "a-sweet-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "d2446418-bbbc-4a90-a601-ceb78b21c588",
+      "title": "Bolero",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "bolero",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a13230-cf19-4f9c-a6c4-0df5743cb75e",
+      "title": "Love on the Ground",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "love-on-the-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "c0108f8b-f9e9-456f-85d8-cb2b2eb56f78",
+      "title": "The Corsican Brothers",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-corsican-brothers",
+      "has_reactions": false
+    },
+    {
+      "id": "76eb8ab6-e565-4d76-baab-c60f1f75b5c0",
+      "title": "The Moderns",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-moderns",
+      "has_reactions": false
+    },
+    {
+      "id": "33371d63-0d59-48f6-9bff-d0669d46be69",
+      "title": "The Return of the Musketeers",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-the-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "aaed93c0-edad-4326-b6b1-4cb437e905d8",
+      "title": "Chaplin",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "chaplin",
+      "has_reactions": false
+    },
+    {
+      "id": "064336f6-bfb2-4bd3-85e4-3dea3215560b",
+      "title": "Duel of Hearts",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "duel-of-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb0fb85-6cd4-4c66-adb8-ccbfc0ba3c3e",
+      "title": "The Age of Innocence",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-age-of-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "ece7c1ec-66f6-4cf5-9131-b35ccb654664",
+      "title": "To Hear the Birds Singing",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "to-hear-the-birds-singing",
+      "has_reactions": false
+    },
+    {
+      "id": "944c8e87-181f-4270-b207-dfdb36a11dcb",
+      "title": "Jane Eyre",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jane-eyre",
+      "has_reactions": false
+    },
+    {
+      "id": "bcf58d87-99fb-4eb6-b3d4-c891b3e4221a",
+      "title": "Crimetime",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "crimetime",
+      "has_reactions": false
+    },
+    {
+      "id": "605ee2ee-fd00-482b-a444-e851c952df30",
+      "title": "Mother Teresa: In the Name of God's Poor",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mother-teresa-in-the-name-of-god-s-poor",
+      "has_reactions": false
+    },
+    {
+      "id": "dee763d6-4f53-4220-b32d-4807dfdb455b",
+      "title": "Beresina",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "beresina",
+      "has_reactions": false
+    },
+    {
+      "id": "7d3c9523-ac70-4b78-bf6a-ce77e2a9658e",
+      "title": "Just Run!",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "just-run",
+      "has_reactions": false
+    },
+    {
+      "id": "ca3fb8aa-e5b2-4220-99e7-2da68e265284",
+      "title": "Talk to Her",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "talk-to-her",
+      "has_reactions": false
+    },
+    {
+      "id": "d459d815-f863-44aa-b28c-0c184d603403",
+      "title": "The City of No Limits",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-city-of-no-limits",
+      "has_reactions": false
+    },
+    {
+      "id": "8f0e05a2-7140-4973-b251-07fda79c5feb",
+      "title": "Charlie Chaplin: The Forgotten Years",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "charlie-chaplin-the-forgotten-years",
+      "has_reactions": false
+    },
+    {
+      "id": "1197f05a-cf6b-4288-bb4a-8239279bc0f8",
+      "title": "A Christmas Carol",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "a4b9b96d-1c34-4d45-85aa-6c83e463dafb",
+      "title": "Melissa P.",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "melissa-p",
+      "has_reactions": false
+    },
+    {
+      "id": "6f75fb58-2cdb-411c-8f91-e340f94fbb43",
+      "title": "BloodRayne",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "bloodrayne",
+      "has_reactions": false
+    },
+    {
+      "id": "a35ba0a5-ac7e-47df-8a20-952bb1d43e9a",
+      "title": "The Orphanage",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-orphanage",
+      "has_reactions": false
+    },
+    {
+      "id": "04f927cd-f643-4238-9166-da1eea758c28",
+      "title": "Boxes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "boxes",
+      "has_reactions": false
+    },
+    {
+      "id": "e3e4bcd5-cb1e-4c7a-b11a-60f7f92704e2",
+      "title": "Miguel and William",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "miguel-and-william",
+      "has_reactions": false
+    },
+    {
+      "id": "74291ee2-1cd5-4551-aa7a-2f77345c1ef4",
+      "title": "Diary of a Nymphomaniac",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "diary-of-a-nymphomaniac",
+      "has_reactions": false
+    },
+    {
+      "id": "aeca9b99-9939-481d-9af2-5351f1858a6e",
+      "title": "Tell Me About Love",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tell-me-about-love",
+      "has_reactions": false
+    },
+    {
+      "id": "03e6c76a-7f94-4c70-9ca7-28facb3772a8",
+      "title": "Ram\u00edrez",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "ram-rez",
+      "has_reactions": false
+    },
+    {
+      "id": "fb67a323-95c4-4088-a0aa-840ccd76f0bb",
+      "title": "The Island Inside",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-island-inside",
+      "has_reactions": false
+    },
+    {
+      "id": "8bf21c86-da72-43af-aaf6-bc30b10b100c",
+      "title": "L'imbroglio nel lenzuolo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "l-imbroglio-nel-lenzuolo",
+      "has_reactions": false
+    },
+    {
+      "id": "0c8d3912-b8cd-468c-9873-5621c480b3ce",
+      "title": "The Mosquito Net",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-mosquito-net",
+      "has_reactions": false
+    },
+    {
+      "id": "cb0876c5-87ad-4044-bd8b-d055e0703e10",
+      "title": "Americano",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "americano",
+      "has_reactions": false
+    },
+    {
+      "id": "383c3fa1-c462-4832-9179-5a47f441421f",
+      "title": "Memories of My Melancholy Whores",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "memories-of-my-melancholy-whores",
+      "has_reactions": false
+    },
+    {
+      "id": "ed61293b-fbe7-4b3a-b1c3-b5b20c81dcf5",
+      "title": "There Be Dragons",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "there-be-dragons",
+      "has_reactions": false
+    },
+    {
+      "id": "830745f1-cb27-4ff6-b762-6366f2c75e3d",
+      "title": "The Impossible",
+      "release_year": 2012,
+      "studio_label": "Apaches Films",
+      "slug": "the-impossible",
+      "has_reactions": true
+    },
+    {
+      "id": "273be609-06bf-434d-acf8-0c9d3d9efd67",
+      "title": "Hostias (Un amor de pel\u00edcula)",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hostias-un-amor-de-pel-cula",
+      "has_reactions": false
+    },
+    {
+      "id": "c2ebfa72-1346-4afe-ac46-f9df4d441bfd",
+      "title": "All Together",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "all-together",
+      "has_reactions": false
+    },
+    {
+      "id": "da844b7c-21d1-496d-8082-f3b5cc3d391b",
+      "title": "The Apostle",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-apostle",
+      "has_reactions": false
+    },
+    {
+      "id": "e07d9f69-6ef3-4ad9-b8cd-779bef434eef",
+      "title": "Three-60",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "three-60",
+      "has_reactions": false
+    },
+    {
+      "id": "727d9808-58a6-4cbd-9002-ef02a01da28e",
+      "title": "Panzer Chocolate",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "panzer-chocolate",
+      "has_reactions": false
+    },
+    {
+      "id": "4c7e9cce-4bbd-439f-82a1-2eb29bd9ebc5",
+      "title": "Another Me",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "another-me",
+      "has_reactions": false
+    },
+    {
+      "id": "8ff6307e-52d8-4397-b4fd-529930dd698c",
+      "title": "Wax",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "wax",
+      "has_reactions": false
+    },
+    {
+      "id": "a7e731a2-b2f0-4765-af8b-5099f8402d40",
+      "title": "Amapola",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "amapola",
+      "has_reactions": false
+    },
+    {
+      "id": "b5198528-6d5b-48f4-b3eb-a497e7f1d18c",
+      "title": "The Forbidden Room",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-forbidden-room",
+      "has_reactions": false
+    },
+    {
+      "id": "011cc4c4-38bf-4964-8103-d84e1416b154",
+      "title": "Me and Kaminski",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "me-and-kaminski",
+      "has_reactions": false
+    },
+    {
+      "id": "a0cb7de9-3d8c-420a-878e-a612ffee512f",
+      "title": "Sand Dollars",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "sand-dollars",
+      "has_reactions": false
+    },
+    {
+      "id": "036d5ab1-de07-432f-a8eb-30517388c1c0",
+      "title": "A Monster Calls",
+      "release_year": 2016,
+      "studio_label": "River Road Entertainment",
+      "slug": "a-monster-calls",
+      "has_reactions": true
+    },
+    {
+      "id": "a35d3963-e6df-4d40-8923-8704782100fc",
+      "title": "Seneca",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "seneca",
+      "has_reactions": false
+    }
+  ]
+}

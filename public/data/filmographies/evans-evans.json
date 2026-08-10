@@ -1,0 +1,40 @@
+{
+  "id": "0db5d934-28a1-4dee-b42d-48e09620d660",
+  "name": "Evans Evans",
+  "slug": "evans-evans",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/huGORkjVLegPudmORJeoq0RWDtK.jpg",
+  "filmography": [
+    {
+      "id": "46a03be4-3846-4f26-98b3-0dd81187f695",
+      "title": "Bonnie and Clyde",
+      "release_year": 1967,
+      "studio_label": "Tatira-Hiller Productions",
+      "slug": "bonnie-and-clyde",
+      "has_reactions": false
+    },
+    {
+      "id": "83e1cb5f-8581-47d5-b9ba-6a157473679b",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "release_year": 2018,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "fantastic-beasts-the-crimes-of-grindelwald",
+      "has_reactions": true
+    },
+    {
+      "id": "fd5d083d-02b7-4ddf-9b8e-b78f5283086c",
+      "title": "Cruella",
+      "release_year": 2021,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "cruella",
+      "has_reactions": true
+    },
+    {
+      "id": "fb01bb36-180e-47c8-bcd4-a71d2a7dc17d",
+      "title": "Inside No. 9: The Party's Over",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "inside-no-9-the-party-s-over",
+      "has_reactions": false
+    }
+  ]
+}

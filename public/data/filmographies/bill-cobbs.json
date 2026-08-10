@@ -1,0 +1,608 @@
+{
+  "id": "5f02e6a2-4cfa-4966-bc7f-07162d3a5d8a",
+  "name": "Bill Cobbs",
+  "slug": "bill-cobbs",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg",
+  "filmography": [
+    {
+      "id": "fb5f9bab-c144-4ef5-bcf2-d8c435d12381",
+      "title": "The Taking of Pelham One Two Three",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-one-two-three",
+      "has_reactions": false
+    },
+    {
+      "id": "8bfe6b76-63d5-475f-90db-2a38622c06f3",
+      "title": "A Boy and a Boa",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "a-boy-and-a-boa",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae85703-5437-47f4-bae1-0a20527c2518",
+      "title": "Greased Lightning",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "greased-lightning",
+      "has_reactions": false
+    },
+    {
+      "id": "3c542280-51ba-487b-9427-7c196e90021d",
+      "title": "The Hitter",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-hitter",
+      "has_reactions": false
+    },
+    {
+      "id": "9332b7d8-a436-4002-a730-23e55e8c7bfb",
+      "title": "The Member of the Wedding",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-member-of-the-wedding",
+      "has_reactions": false
+    },
+    {
+      "id": "8187277e-1f87-4c39-aad0-ae096f8c8a8c",
+      "title": "Trading Places",
+      "release_year": 1983,
+      "studio_label": "Cinema Group Ventures",
+      "slug": "trading-places",
+      "has_reactions": true
+    },
+    {
+      "id": "ffd93fe8-75cf-476b-90bd-9fbee98bbb1b",
+      "title": "Silkwood",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "silkwood",
+      "has_reactions": false
+    },
+    {
+      "id": "31776510-79fb-476d-aac8-6f005e071285",
+      "title": "Johnny Bull",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "johnny-bull",
+      "has_reactions": false
+    },
+    {
+      "id": "4cb86cba-9488-4881-9f04-5e6a5a5e9358",
+      "title": "Streets of Gold",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "streets-of-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "c612824d-7c3e-4ca8-b052-8738b9ead483",
+      "title": "Suspect",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "suspect",
+      "has_reactions": false
+    },
+    {
+      "id": "e989865c-4c1b-4690-8433-307c4758d9c9",
+      "title": "Dominick and Eugene",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "dominick-and-eugene",
+      "has_reactions": false
+    },
+    {
+      "id": "8bdca8a0-7f85-499b-a39d-266f5e7cdc23",
+      "title": "Decoration Day",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "decoration-day",
+      "has_reactions": false
+    },
+    {
+      "id": "32d1a0f7-4ad2-418a-ab9f-c013b71c2fb0",
+      "title": "Moe's World",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "moe-s-world",
+      "has_reactions": false
+    },
+    {
+      "id": "94cd3438-7cb5-4153-9641-6f87f76d6f8d",
+      "title": "The People Under the Stairs",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-people-under-the-stairs",
+      "has_reactions": false
+    },
+    {
+      "id": "7ac195f6-4a13-4213-b21a-12fa512a6797",
+      "title": "The Hard Way",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-hard-way",
+      "has_reactions": false
+    },
+    {
+      "id": "48c1cd4a-b230-4a62-9464-d85dc582603e",
+      "title": "Carolina Skeletons",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "carolina-skeletons",
+      "has_reactions": false
+    },
+    {
+      "id": "98f09bb1-0efc-4d7d-9435-97c3e39ca2bb",
+      "title": "New Jack City",
+      "release_year": 1991,
+      "studio_label": "Jacmac Films",
+      "slug": "new-jack-city",
+      "has_reactions": true
+    },
+    {
+      "id": "fcd01226-f6a4-43a5-a125-9120a22fa3dd",
+      "title": "The Bodyguard",
+      "release_year": 1992,
+      "studio_label": "Kasdan Pictures",
+      "slug": "the-bodyguard",
+      "has_reactions": true
+    },
+    {
+      "id": "1e10253a-aa72-45dc-b2b7-9b934379ceef",
+      "title": "Exiled in America",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "exiled-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b710fb-fb87-4555-96c6-6f4b66c3896c",
+      "title": "Demolition Man",
+      "release_year": 1993,
+      "studio_label": "Silver Pictures",
+      "slug": "demolition-man",
+      "has_reactions": true
+    },
+    {
+      "id": "447d1ee6-310e-43ab-9b0d-69274b58e5aa",
+      "title": "I'll Fly Away: Then and Now",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "i-ll-fly-away-then-and-now",
+      "has_reactions": false
+    },
+    {
+      "id": "36340422-fe88-4fbc-8ecc-235e96570707",
+      "title": "Fatal Instinct",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "fatal-instinct",
+      "has_reactions": false
+    },
+    {
+      "id": "b526ab44-5115-42bb-9781-d008d9df633d",
+      "title": "The Hudsucker Proxy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-hudsucker-proxy",
+      "has_reactions": false
+    },
+    {
+      "id": "d5ec3340-9397-4bc4-b820-d9fe12e4078f",
+      "title": "Things to Do in Denver When You're Dead",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "things-to-do-in-denver-when-you-re-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "8da086da-1273-4a0a-914d-ce34f14bd0e2",
+      "title": "Divas",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "divas",
+      "has_reactions": false
+    },
+    {
+      "id": "c9120f44-d71e-42ba-aead-e7f158eee037",
+      "title": "Kingfish: A Story of Huey P. Long",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "kingfish-a-story-of-huey-p-long",
+      "has_reactions": false
+    },
+    {
+      "id": "e55289ec-f03d-429e-a193-44dde59a4f1e",
+      "title": "Tuesday Morning Ride",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "tuesday-morning-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "0e12cb17-9c75-4080-88f4-293e73f6c1a3",
+      "title": "Man with a Gun",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "man-with-a-gun",
+      "has_reactions": false
+    },
+    {
+      "id": "c06f45e2-297b-487f-a6f5-bac098793396",
+      "title": "Out There",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "out-there",
+      "has_reactions": false
+    },
+    {
+      "id": "bbeff134-9b39-443d-819e-005f71c8f2cf",
+      "title": "Captiva Island",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "captiva-island",
+      "has_reactions": false
+    },
+    {
+      "id": "2321bed2-dd5a-4363-8df2-7381a468738b",
+      "title": "Fluke",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "fluke",
+      "has_reactions": false
+    },
+    {
+      "id": "224d3495-84a9-48bf-9e91-abcd42449027",
+      "title": "Goldilocks and the Three Bears",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "goldilocks-and-the-three-bears",
+      "has_reactions": false
+    },
+    {
+      "id": "544bec99-ffc7-4998-a4d9-011a48a82dd6",
+      "title": "Ed",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ed",
+      "has_reactions": false
+    },
+    {
+      "id": "13c2588a-e9b2-4a01-9df0-2e7a6febcf71",
+      "title": "That Thing You Do!",
+      "release_year": 1996,
+      "studio_label": "Clinica Estetico",
+      "slug": "that-thing-you-do",
+      "has_reactions": true
+    },
+    {
+      "id": "896ecd2f-6fa1-4073-b73c-9c55927ddb08",
+      "title": "Ghosts of Mississippi",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ghosts-of-mississippi",
+      "has_reactions": false
+    },
+    {
+      "id": "db4056a9-adf4-47f7-81aa-c6329d928753",
+      "title": "Nightjohn",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "nightjohn",
+      "has_reactions": false
+    },
+    {
+      "id": "ca0f9ac1-e16d-470f-b136-ba23f3321b40",
+      "title": "First Kid",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "first-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "996663e1-f491-4e74-8fcf-b58c6be4c8bc",
+      "title": "Thrill",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "thrill",
+      "has_reactions": false
+    },
+    {
+      "id": "cdce2dfc-8c9c-4222-8849-41d7447f343c",
+      "title": "Always Outnumbered",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "always-outnumbered",
+      "has_reactions": false
+    },
+    {
+      "id": "ab6f53ce-d3f6-491b-87e6-0e531c643bd8",
+      "title": "Hope Floats",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "hope-floats",
+      "has_reactions": false
+    },
+    {
+      "id": "452f6177-9c05-4460-b721-3befcc32089e",
+      "title": "The Tulsa Lynching of 1921: A Hidden Story",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-tulsa-lynching-of-1921-a-hidden-story",
+      "has_reactions": false
+    },
+    {
+      "id": "e4d1ff4e-dab6-40fa-bf02-aa1fb62245e8",
+      "title": "For All Time",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "for-all-time",
+      "has_reactions": false
+    },
+    {
+      "id": "75efa5c4-eabf-4b16-a014-7b7ee8bcc142",
+      "title": "A Rugrats Kwanzaa",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-rugrats-kwanzaa",
+      "has_reactions": false
+    },
+    {
+      "id": "332ae593-3e16-49e0-874b-a660793881bf",
+      "title": "Sunshine State",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sunshine-state",
+      "has_reactions": false
+    },
+    {
+      "id": "ba94482d-db90-4cb8-b703-a489db4da02d",
+      "title": "Beah: A Black Woman Speaks",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "beah-a-black-woman-speaks",
+      "has_reactions": false
+    },
+    {
+      "id": "28ca34fb-8884-466c-b0d9-948cee50162a",
+      "title": "The Final Patient",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-final-patient",
+      "has_reactions": false
+    },
+    {
+      "id": "b475274d-85e7-4802-a699-a7c411c09e68",
+      "title": "The Derby Stallion",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-derby-stallion",
+      "has_reactions": false
+    },
+    {
+      "id": "c41d7336-1018-4e02-b6a0-07ebfc474aa2",
+      "title": "Night at the Museum",
+      "release_year": 2006,
+      "studio_label": "1492 Pictures",
+      "slug": "night-at-the-museum",
+      "has_reactions": true
+    },
+    {
+      "id": "054e8cb3-0e9e-42f4-b6ca-fdb68a606d78",
+      "title": "Hard Luck",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hard-luck",
+      "has_reactions": false
+    },
+    {
+      "id": "486e3b66-0422-4e11-a176-de668d515b3e",
+      "title": "Special Ed",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "special-ed",
+      "has_reactions": false
+    },
+    {
+      "id": "53bcdb80-8428-4471-a0e1-ca708c65c18d",
+      "title": "Queen of Swing",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "queen-of-swing",
+      "has_reactions": false
+    },
+    {
+      "id": "926a2076-5bc1-4f42-971d-4bb7b9ac0eea",
+      "title": "Three Days to Vegas",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "three-days-to-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "85913767-aff6-42c6-afa8-4ab31fce8bac",
+      "title": "The Ultimate Gift",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ultimate-gift",
+      "has_reactions": false
+    },
+    {
+      "id": "4231f180-e5dd-4254-955e-7bd63c4e0c8f",
+      "title": "The Morgue",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-morgue",
+      "has_reactions": false
+    },
+    {
+      "id": "723e664b-0422-4896-b67d-5e0788f74443",
+      "title": "No Limit Kids - Much Ado About Middle School",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "no-limit-kids-much-ado-about-middle-school",
+      "has_reactions": false
+    },
+    {
+      "id": "3477a425-36e9-4280-b628-27fbb2f5f764",
+      "title": "The Search for Santa Paws",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-search-for-santa-paws",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3c0b48-1f6a-472a-b05f-11ecab6201b1",
+      "title": "The Tenant",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-tenant",
+      "has_reactions": false
+    },
+    {
+      "id": "c88c9e01-7f36-450a-8a19-80483feef6a8",
+      "title": "The Muppets",
+      "release_year": 2011,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-muppets",
+      "has_reactions": true
+    },
+    {
+      "id": "39ce3355-76e6-4113-b6ec-f980117feb26",
+      "title": "The Arcadian",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-arcadian",
+      "has_reactions": false
+    },
+    {
+      "id": "fa2d1542-5376-4a58-aad2-f28254e3775c",
+      "title": "Lukewarm",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "lukewarm",
+      "has_reactions": false
+    },
+    {
+      "id": "331935b8-83af-4601-9d0e-748794334ad7",
+      "title": "The Undershepherd",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-undershepherd",
+      "has_reactions": false
+    },
+    {
+      "id": "ab8a3d04-b246-4707-852a-8e6d58fbba12",
+      "title": "Dear Secret Santa",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "dear-secret-santa",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb2a1d7-df05-4b0b-8116-939d416da61f",
+      "title": "The Last Letter",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-last-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "89afdaf1-b41b-4790-86d2-6b53b7eb2061",
+      "title": "Of Mind and Music",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "of-mind-and-music",
+      "has_reactions": false
+    },
+    {
+      "id": "ea00bc37-e525-4aa7-b80e-bf15f8e75a37",
+      "title": "On Angel's Wings",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "on-angel-s-wings",
+      "has_reactions": false
+    },
+    {
+      "id": "ff23e1ec-fce0-46c5-bdf6-b5ab604417db",
+      "title": "A House Is Not a Home",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-house-is-not-a-home",
+      "has_reactions": false
+    },
+    {
+      "id": "ea7fc88d-9051-45fe-ba35-0b2e593236f4",
+      "title": "The Ultimate Legacy",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-ultimate-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "3ebb9b75-a766-45de-8a0b-43de8a2afc67",
+      "title": "Call Me King",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "call-me-king",
+      "has_reactions": false
+    },
+    {
+      "id": "2d59a3f9-b6b2-43e1-be91-4565654e6314",
+      "title": "My Christmas Grandpa",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "my-christmas-grandpa",
+      "has_reactions": false
+    },
+    {
+      "id": "6788cfeb-37a8-46f1-87f4-7eba2fa1bb72",
+      "title": "As Evil Does",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "as-evil-does",
+      "has_reactions": false
+    },
+    {
+      "id": "0bc0b902-08da-4661-b3be-6855091ed3e8",
+      "title": "Beyond the Law",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-law",
+      "has_reactions": false
+    },
+    {
+      "id": "64c12657-da56-4664-8483-c47137d90168",
+      "title": "Dino Dana: The Movie",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "dino-dana-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "326dc239-7191-4d4f-83e7-d260ba990a4a",
+      "title": "Saving Paradise",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "saving-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "014fbcf9-3914-4f96-950a-39bc5c43c0b3",
+      "title": "Caroltyn",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "caroltyn",
+      "has_reactions": false
+    },
+    {
+      "id": "7e31e271-9309-4f2a-b147-a107e32683a3",
+      "title": "Broken Church",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "broken-church",
+      "has_reactions": false
+    }
+  ]
+}

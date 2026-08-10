@@ -1,0 +1,40 @@
+{
+  "id": "a4fe1dad-485c-42b7-946f-2d015ae7f669",
+  "name": "Linda McClure",
+  "slug": "linda-mcclure",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "918b69ff-bfda-42f0-9633-5ecc2b41a7d9",
+      "title": "Smokey and the Bandit",
+      "release_year": 1977,
+      "studio_label": "Universal Pictures",
+      "slug": "smokey-and-the-bandit",
+      "has_reactions": true
+    },
+    {
+      "id": "e4037f72-6223-4edc-9319-0404c8e76df4",
+      "title": "Hooper",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "hooper",
+      "has_reactions": false
+    },
+    {
+      "id": "3b132e35-beaf-403b-ada9-28b43788e420",
+      "title": "Stunts Unlimited",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "stunts-unlimited",
+      "has_reactions": false
+    },
+    {
+      "id": "c8091e1b-16d1-46fc-93c6-bf50f52c46e1",
+      "title": "The Cannonball Run",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-cannonball-run",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2ae83236-6fff-4ab9-be6b-4bd9e95c35fb",
+  "name": "Oliver Smith",
+  "slug": "oliver-smith",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "47a7f8bb-4a03-4d8f-b5b9-aeb9792b99bd",
+      "title": "The Professional",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-professional",
+      "has_reactions": false
+    },
+    {
+      "id": "fc0124d8-d317-46de-8154-e06d81713e4c",
+      "title": "Riding High",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "riding-high",
+      "has_reactions": false
+    },
+    {
+      "id": "a357fde8-26e7-436a-978f-918c8139c8ef",
+      "title": "Hellraiser",
+      "release_year": 1987,
+      "studio_label": "New World Pictures",
+      "slug": "hellraiser",
+      "has_reactions": true
+    },
+    {
+      "id": "2e24809b-b5b0-4d4b-b151-9e60342ed551",
+      "title": "Hellbound: Hellraiser II",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "hellbound-hellraiser-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "2c888619-c126-4a2c-89e1-7eee2030a47e",
+      "title": "Tale of a Vampire",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "tale-of-a-vampire",
+      "has_reactions": false
+    }
+  ]
+}

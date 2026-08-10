@@ -1,0 +1,488 @@
+{
+  "id": "8260167a-b9b6-4225-94a0-eec1b78bafa7",
+  "name": "Jack Black",
+  "slug": "jack-black",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg",
+  "filmography": [
+    {
+      "id": "e2272ca4-bcf1-485a-84b9-05b49a448721",
+      "title": "Micronations",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "micronations",
+      "has_reactions": false
+    },
+    {
+      "id": "2335536f-c145-48e0-a515-1064b3fd585b",
+      "title": "Too Far from the Norm",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "too-far-from-the-norm",
+      "has_reactions": false
+    },
+    {
+      "id": "0320750a-63f9-4863-8cfb-b8f7215f3623",
+      "title": "Airborne",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "airborne",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b710fb-fb87-4555-96c6-6f4b66c3896c",
+      "title": "Demolition Man",
+      "release_year": 1993,
+      "studio_label": "Silver Pictures",
+      "slug": "demolition-man",
+      "has_reactions": true
+    },
+    {
+      "id": "45bc5b25-7b92-47bc-a937-a0df9906256f",
+      "title": "Blind Justice",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "blind-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "5e4cb544-0142-43c3-b1de-db610d36869d",
+      "title": "Dead Man Walking",
+      "release_year": 1995,
+      "studio_label": "Havoc",
+      "slug": "dead-man-walking",
+      "has_reactions": false
+    },
+    {
+      "id": "fd233c63-3364-4ed4-93c8-67bbe049bf54",
+      "title": "The Cable Guy",
+      "release_year": 1996,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-cable-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "47b4a603-5a4c-41ff-ac3b-3cf266a11260",
+      "title": "Bio-Dome",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "bio-dome",
+      "has_reactions": false
+    },
+    {
+      "id": "4dc8b6f9-2048-47e9-bd7b-9d5fd801ff86",
+      "title": "Crossworlds",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "crossworlds",
+      "has_reactions": false
+    },
+    {
+      "id": "3c9bf078-54b4-4857-b2a7-5a7bd8020db6",
+      "title": "Mars Attacks!",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mars-attacks",
+      "has_reactions": true
+    },
+    {
+      "id": "67f1b054-f31a-4d96-8fbe-9aaba6d6b227",
+      "title": "Enemy of the State",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "enemy-of-the-state",
+      "has_reactions": true
+    },
+    {
+      "id": "6cf47dd7-b76e-4a1a-8173-fa24a110a349",
+      "title": "Bongwater",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "bongwater",
+      "has_reactions": false
+    },
+    {
+      "id": "d1858c83-ff92-46aa-a21a-b7488310f06c",
+      "title": "High Fidelity",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "high-fidelity",
+      "has_reactions": true
+    },
+    {
+      "id": "0edc1bd9-9c64-4083-884e-4534d0476ed0",
+      "title": "Jesus' Son",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "jesus-son",
+      "has_reactions": false
+    },
+    {
+      "id": "24942649-7da5-4781-8acc-59f4656320e6",
+      "title": "Saving Silverman",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "saving-silverman",
+      "has_reactions": false
+    },
+    {
+      "id": "f1a718ab-f3bc-4801-9c93-bcd3c7008534",
+      "title": "Shallow Hal",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "shallow-hal",
+      "has_reactions": false
+    },
+    {
+      "id": "143668c7-9d64-4e52-9ba2-2278813d8f34",
+      "title": "Ice Age",
+      "release_year": 2002,
+      "studio_label": "Blue Sky Studios",
+      "slug": "ice-age",
+      "has_reactions": true
+    },
+    {
+      "id": "5ca70a9e-0e50-4e00-b55a-ef1338d813a3",
+      "title": "Tenacious D: Butt Baby",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "tenacious-d-butt-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe2d472-9c5d-46bd-90c2-f6540b9a9a3a",
+      "title": "Orange County",
+      "release_year": 2002,
+      "studio_label": "MTV Films",
+      "slug": "orange-county",
+      "has_reactions": true
+    },
+    {
+      "id": "6565e2bd-fbcc-4a47-be27-18f530b67b10",
+      "title": "Run Ronnie Run",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "run-ronnie-run",
+      "has_reactions": false
+    },
+    {
+      "id": "d0688b7a-9633-45ab-9ab9-6c045a4f2dc7",
+      "title": "The School of Rock",
+      "release_year": 2003,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-school-of-rock",
+      "has_reactions": true
+    },
+    {
+      "id": "ef20995a-f1c4-48a0-a0be-0e1ba8e40e76",
+      "title": "Tenacious D: In the Studio",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "tenacious-d-in-the-studio",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3a4b80-7ccf-4282-8d97-b92f69d0460b",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "anchorman-the-legend-of-ron-burgundy",
+      "has_reactions": true
+    },
+    {
+      "id": "5056d292-fa26-4fa2-aa10-044b298bb708",
+      "title": "Shark Tale",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "shark-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "b174c06d-e8e0-4308-80d3-e62873e39a04",
+      "title": "Envy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "envy",
+      "has_reactions": false
+    },
+    {
+      "id": "2aca6dff-3472-44ee-a786-587b8ee494fd",
+      "title": "King Kong",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "king-kong",
+      "has_reactions": true
+    },
+    {
+      "id": "722b2073-68d8-4601-b7ce-1819196572e5",
+      "title": "Shelter from the Storm: A Concert for the Gulf Coast",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shelter-from-the-storm-a-concert-for-the-gulf-coast",
+      "has_reactions": false
+    },
+    {
+      "id": "7c2b12d8-0144-4372-8826-a4c237144d7f",
+      "title": "Earth to America",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "earth-to-america",
+      "has_reactions": false
+    },
+    {
+      "id": "1ea27894-4ed5-4af4-80ae-8cf63aa5bd0c",
+      "title": "Tenacious D: Time Fixers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tenacious-d-time-fixers",
+      "has_reactions": false
+    },
+    {
+      "id": "a64b81d6-13e2-4c0d-9509-8ee68419b2b3",
+      "title": "Nacho Libre",
+      "release_year": 2006,
+      "studio_label": "Paramount Pictures",
+      "slug": "nacho-libre",
+      "has_reactions": true
+    },
+    {
+      "id": "c0b4a458-d619-4abb-bc28-d513d836ba7b",
+      "title": "Tenacious D: For the Ladies",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tenacious-d-for-the-ladies",
+      "has_reactions": false
+    },
+    {
+      "id": "1e1475ea-ae5f-4097-8ec9-0ff2a0148220",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "walk-hard-the-dewey-cox-story",
+      "has_reactions": true
+    },
+    {
+      "id": "30b0260e-b44d-47cd-9c18-c37a6855a0af",
+      "title": "The Making of 'The Pick of Destiny'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-pick-of-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "e97356a9-5d60-4aa9-8be2-bbeb7851cde0",
+      "title": "Tropic Thunder",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "tropic-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "1538c792-f016-4f2a-b8f6-0c4e891a46ac",
+      "title": "Kung Fu Panda",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda",
+      "has_reactions": true
+    },
+    {
+      "id": "5e4146ff-9f8a-42f2-9eaa-be5095e7a423",
+      "title": "Be Kind Rewind",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "be-kind-rewind",
+      "has_reactions": false
+    },
+    {
+      "id": "b385764a-0cce-47fc-95ac-3453412c1baa",
+      "title": "Tropic Thunder: Rain of Madness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tropic-thunder-rain-of-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "f173c438-dc01-494d-9bd8-d2689f6eb81d",
+      "title": "Kung Fu Panda: Secrets of the Furious Five",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-furious-five",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3ad9d6-c21c-4bf8-b89d-530c281729d8",
+      "title": "Year One",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "year-one",
+      "has_reactions": false
+    },
+    {
+      "id": "c38c284e-df35-411a-8518-447141542ac7",
+      "title": "Kung Fu Panda Holiday",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa8736c-9d37-4ab7-aa18-9897ca5282fd",
+      "title": "Kung Fu Panda 2",
+      "release_year": 2011,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-2",
+      "has_reactions": true
+    },
+    {
+      "id": "342adffe-a940-4940-9cb2-94778a6fed72",
+      "title": "Kung Fu Panda: Secrets of the Masters",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-masters",
+      "has_reactions": false
+    },
+    {
+      "id": "99b16ce2-1a6b-4810-bdf2-ac26389e7eee",
+      "title": "The Big Year",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-big-year",
+      "has_reactions": false
+    },
+    {
+      "id": "fac7f2c9-6a8f-43da-9aed-f71c6cca8493",
+      "title": "Bernie",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bernie",
+      "has_reactions": false
+    },
+    {
+      "id": "03b68cf9-8199-47b9-9bc1-27a45ad11000",
+      "title": "Metalocalypse: The Doomstar Requiem - A Klok Opera",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "metalocalypse-the-doomstar-requiem-a-klok-opera",
+      "has_reactions": false
+    },
+    {
+      "id": "e38a77da-18a6-46e6-8f93-78154417ff25",
+      "title": "21 Years: Richard Linklater",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "21-years-richard-linklater",
+      "has_reactions": false
+    },
+    {
+      "id": "e1133b97-2ec4-4af0-9b50-4414cce29647",
+      "title": "Harmontown",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "harmontown",
+      "has_reactions": false
+    },
+    {
+      "id": "26c3d6d7-8c7c-4f59-88ed-c27b4caafd7f",
+      "title": "Kung Fu Panda 3",
+      "release_year": 2016,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-3",
+      "has_reactions": true
+    },
+    {
+      "id": "c7ec5ed4-230b-4522-b286-f253af032d5c",
+      "title": "Kung Fu Panda: Secrets of the Scroll",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-scroll",
+      "has_reactions": false
+    },
+    {
+      "id": "c1072aa9-2606-4329-8bbc-9af0bf6eecb5",
+      "title": "Jumanji: Welcome to the Jungle",
+      "release_year": 2017,
+      "studio_label": "Matt Tolmach Productions",
+      "slug": "jumanji-welcome-to-the-jungle",
+      "has_reactions": true
+    },
+    {
+      "id": "6a7355b0-0678-4ffc-857c-430baf42cfa9",
+      "title": "The Polka King",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-polka-king",
+      "has_reactions": false
+    },
+    {
+      "id": "897dbdc8-4e1f-4189-85b9-e5d637bc0f64",
+      "title": "Tommy Can't Sleep",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tommy-can-t-sleep",
+      "has_reactions": false
+    },
+    {
+      "id": "d14c0c4f-fc27-4ca4-beae-3c6c481789c8",
+      "title": "Jumanji: The Next Level",
+      "release_year": 2019,
+      "studio_label": "Columbia Pictures",
+      "slug": "jumanji-the-next-level",
+      "has_reactions": true
+    },
+    {
+      "id": "508908b1-f2e1-49b5-80ec-d88b28bd04ce",
+      "title": "Dio: Dreamers Never Die",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dio-dreamers-never-die",
+      "has_reactions": false
+    },
+    {
+      "id": "299fe8b7-a272-45df-9a7d-e4c133c4f20b",
+      "title": "The Super Mario Bros. Movie",
+      "release_year": 2023,
+      "studio_label": "Universal Pictures",
+      "slug": "the-super-mario-bros-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "214dcffe-6710-4eec-b573-b57c25c463b0",
+      "title": "Tenacious D Live Rock am Ring",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "tenacious-d-live-rock-am-ring",
+      "has_reactions": false
+    },
+    {
+      "id": "af0fe69c-1ae4-4dfc-add1-147746770a16",
+      "title": "Kung Fu Panda 4",
+      "release_year": 2024,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-4",
+      "has_reactions": true
+    },
+    {
+      "id": "0b2928be-fb3f-4692-bffa-3256e654cb99",
+      "title": "ZEF - The Story of Die Antwoord",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "zef-the-story-of-die-antwoord",
+      "has_reactions": false
+    },
+    {
+      "id": "d6c01712-fb42-4eb9-ab28-e106b27c761b",
+      "title": "A Minecraft Movie",
+      "release_year": 2025,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "a-minecraft-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "0ed3e1c1-99a3-4f1d-b59a-ae176cab793e",
+      "title": "Anaconda",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    }
+  ]
+}

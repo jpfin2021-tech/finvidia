@@ -1,0 +1,584 @@
+{
+  "id": "b268ce4f-c5bc-4967-8538-2b779723bd03",
+  "name": "Gregg Berger",
+  "slug": "gregg-berger",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/bMlJUmhblX50gQrnA8XWG7UuaLk.jpg",
+  "filmography": [
+    {
+      "id": "96d00d94-4af9-4e1b-896f-a1528d8922e8",
+      "title": "Libra",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "libra",
+      "has_reactions": false
+    },
+    {
+      "id": "5fd99dc4-a224-4370-9010-f83815565da2",
+      "title": "Attack of the Killer Tomatoes!",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "attack-of-the-killer-tomatoes",
+      "has_reactions": false
+    },
+    {
+      "id": "78f4f8b3-164d-40dd-a5d6-8dd069f00cbf",
+      "title": "The Memoirs of a Fairy Godmother",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-memoirs-of-a-fairy-godmother",
+      "has_reactions": false
+    },
+    {
+      "id": "679e8644-c766-40cb-a56f-aff1d550430d",
+      "title": "Communicating Non-Defensively",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "communicating-non-defensively",
+      "has_reactions": false
+    },
+    {
+      "id": "330de57a-12b1-4b21-9e73-1c476dbb63f8",
+      "title": "Here Comes Garfield",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "here-comes-garfield",
+      "has_reactions": false
+    },
+    {
+      "id": "836380ef-afbf-497f-ab7d-e600f9e41759",
+      "title": "Garfield on the Town",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "garfield-on-the-town",
+      "has_reactions": false
+    },
+    {
+      "id": "9f9750ed-65bb-48d6-b6b1-ee2b6b0de4d8",
+      "title": "Shadow World",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "shadow-world",
+      "has_reactions": false
+    },
+    {
+      "id": "e8ab899a-2636-499a-bbd8-1fe220db4a7e",
+      "title": "Love Streams",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "love-streams",
+      "has_reactions": false
+    },
+    {
+      "id": "8bd5b95c-315f-4f9b-9d6d-6650e8c5f224",
+      "title": "Garfield in the Rough",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "garfield-in-the-rough",
+      "has_reactions": false
+    },
+    {
+      "id": "cc1534ce-46a1-494b-96e4-b27a124cf464",
+      "title": "G.I. Joe: The Revenge of Cobra",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-the-revenge-of-cobra",
+      "has_reactions": false
+    },
+    {
+      "id": "016b600f-be7e-4f31-ae4e-1e36df960098",
+      "title": "The Sheriff and the Astronaut",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-sheriff-and-the-astronaut",
+      "has_reactions": false
+    },
+    {
+      "id": "e13f0b57-9bf9-43f3-abaf-6f0bb48b8e10",
+      "title": "Here Come the Littles",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "here-come-the-littles",
+      "has_reactions": false
+    },
+    {
+      "id": "ca7aad78-5e80-46b5-a641-28632a426f47",
+      "title": "Garfield's Halloween Adventure",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-halloween-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "0db58e35-0226-4700-b694-b75ddba87e2e",
+      "title": "Transformers - Le cosmitron",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "transformers-le-cosmitron",
+      "has_reactions": false
+    },
+    {
+      "id": "da8e82c5-abf3-4701-b599-91e2630717ab",
+      "title": "The Littles: Liberty and the Littles",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-littles-liberty-and-the-littles",
+      "has_reactions": false
+    },
+    {
+      "id": "8d4f5a2a-a0cd-401c-ac0d-4162a81e2313",
+      "title": "The Transformers: The Movie",
+      "release_year": 1986,
+      "studio_label": "Marvel Productions",
+      "slug": "the-transformers-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "5ee7ba12-6bf5-479f-b4e9-9b773e00eb48",
+      "title": "How To Party",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "how-to-party",
+      "has_reactions": false
+    },
+    {
+      "id": "3622a692-8b45-4ebf-a90a-034b0280d334",
+      "title": "Garfield In Paradise",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "garfield-in-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "b043ba30-13c8-4be9-8d8e-e3d096918ad5",
+      "title": "Transformers: Five Faces of Darkness",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "transformers-five-faces-of-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "d1fbb542-21bb-44c1-9c10-5de4a7c44097",
+      "title": "Wrinkles: In Need of Cuddles",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wrinkles-in-need-of-cuddles",
+      "has_reactions": false
+    },
+    {
+      "id": "dc56a915-c677-44fb-b663-5131d55cdbad",
+      "title": "Garfield Goes Hollywood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "garfield-goes-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "9ccfb3ac-1fa5-4b48-860d-190da4528df9",
+      "title": "A Garfield Christmas",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-garfield-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "d6b2c7c1-5f93-4c05-959b-e579f4d52148",
+      "title": "Inside Out",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "inside-out",
+      "has_reactions": false
+    },
+    {
+      "id": "7ccd0d69-4522-4109-8e9f-e74f0947747a",
+      "title": "Cathy",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "cathy",
+      "has_reactions": false
+    },
+    {
+      "id": "85f4f9fc-89ef-4cf7-8bda-e371161ac084",
+      "title": "G.I. Joe: The Movie",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "348e8252-f0a9-4c50-8835-4d06d802d30b",
+      "title": "Garfield: His 9 Lives",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "garfield-his-9-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "856ff5a0-cd32-494b-9120-496f005aecc8",
+      "title": "Cathy's Last Resort",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "cathy-s-last-resort",
+      "has_reactions": false
+    },
+    {
+      "id": "a9c15db8-0e9e-461a-a799-d56354e19a9d",
+      "title": "Happy Birthday Garfield",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "happy-birthday-garfield",
+      "has_reactions": false
+    },
+    {
+      "id": "72d42caa-64ea-48d1-a1fe-ff0ca0fa0f7b",
+      "title": "The Mayflower Voyagers",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-mayflower-voyagers",
+      "has_reactions": false
+    },
+    {
+      "id": "84e7f724-0687-415d-b14b-9ee31ca50e0f",
+      "title": "Garfield's Thanksgiving",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-thanksgiving",
+      "has_reactions": false
+    },
+    {
+      "id": "8d89580d-3399-452e-85b1-a2ed564642d3",
+      "title": "Star Street: The Happy Birthday Movie",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "star-street-the-happy-birthday-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "7691280b-fe78-4ebd-bcb1-3a6bdb1a5999",
+      "title": "Cathy's Valentine",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "cathy-s-valentine",
+      "has_reactions": false
+    },
+    {
+      "id": "69d64df8-da0f-4f53-b70c-a8303f6a1735",
+      "title": "Garfield's Babes and Bullets",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-babes-and-bullets",
+      "has_reactions": false
+    },
+    {
+      "id": "64f5cfe8-76cd-4739-b1cd-9cac73885333",
+      "title": "Spaced Invaders",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "spaced-invaders",
+      "has_reactions": false
+    },
+    {
+      "id": "c067d670-e8c7-4a13-bc65-71bc905210c5",
+      "title": "Garfield's Feline Fantasies",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-feline-fantasies",
+      "has_reactions": false
+    },
+    {
+      "id": "30da992d-5dc3-4d1a-9e07-2f9e0e783e23",
+      "title": "Garfield Gets a Life",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "garfield-gets-a-life",
+      "has_reactions": false
+    },
+    {
+      "id": "5893ad7e-82f7-4555-850c-dd9253e2a434",
+      "title": "Running Mates",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "running-mates",
+      "has_reactions": false
+    },
+    {
+      "id": "dbaff053-4795-4a69-8351-234720c40c23",
+      "title": "Majority Rule",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "majority-rule",
+      "has_reactions": false
+    },
+    {
+      "id": "9667ae6f-95b6-4b58-a2ed-61f8e941e269",
+      "title": "Police Academy: Mission to Moscow",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "police-academy-mission-to-moscow",
+      "has_reactions": false
+    },
+    {
+      "id": "31bfcf3c-a84c-4279-8a16-59d9d0a5aa73",
+      "title": "Yogi the Easter Bear",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "yogi-the-easter-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "2c5507ca-a245-43ac-b9fa-0b0922c7e83b",
+      "title": "Bloo's Gang: Bow Wow Bucaneers",
+      "release_year": 1996,
+      "studio_label": "Hanna-Barbera Cartoons",
+      "slug": "bloo-s-gang-bow-wow-bucaneers",
+      "has_reactions": false
+    },
+    {
+      "id": "dcad3336-7407-439e-b878-1f5b3c389b6d",
+      "title": "The Rugrats Movie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-rugrats-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "deac3060-bed4-4650-bd85-82d32e020280",
+      "title": "Storybook Friends: A Little Christmas Magic",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "storybook-friends-a-little-christmas-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "c147ed3f-40fc-4fa1-ab00-126a4fa29a9c",
+      "title": "The Wacky Adventures of Ronald McDonald: The Visitors from Outer Space",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-the-visitors-from-outer-space",
+      "has_reactions": false
+    },
+    {
+      "id": "af35869b-9e67-4fe1-80fe-6747e1a3fc6c",
+      "title": "Winnie the Pooh: Seasons of Giving",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-seasons-of-giving",
+      "has_reactions": false
+    },
+    {
+      "id": "9ec12847-4fdf-4e5a-93c7-a2054f82d068",
+      "title": "Mickey's Once Upon a Christmas",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-once-upon-a-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e045a6cf-c59e-4156-b5a3-f1bc1e2f6987",
+      "title": "Recess: Taking the Fifth Grade",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "recess-taking-the-fifth-grade",
+      "has_reactions": false
+    },
+    {
+      "id": "546cf02a-e2e5-4cd1-8ec0-217131b07465",
+      "title": "Garfield Holiday Celebrations",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "garfield-holiday-celebrations",
+      "has_reactions": false
+    },
+    {
+      "id": "efa7a153-802c-494e-acb0-85c657d60646",
+      "title": "Mickey's Twice Upon a Christmas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-twice-upon-a-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "5c592c9e-2ae3-4a91-b14d-82b59c6119d7",
+      "title": "Rugrats: Tales from the Crib: Snow White",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "rugrats-tales-from-the-crib-snow-white",
+      "has_reactions": false
+    },
+    {
+      "id": "79a9c671-b109-4fad-9500-da832e21900e",
+      "title": "Dreamgirls",
+      "release_year": 2006,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "dreamgirls",
+      "has_reactions": true
+    },
+    {
+      "id": "3f44c30f-84c6-48f1-8c45-d781aa6d7b59",
+      "title": "Rugrats: Tales from the Crib: Three Jacks & A Beanstalk",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "rugrats-tales-from-the-crib-three-jacks-a-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "450817b7-6748-472d-aee0-9b678721ce7b",
+      "title": "Garfield and Friends: Dreams & Schemes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "garfield-and-friends-dreams-schemes",
+      "has_reactions": false
+    },
+    {
+      "id": "52c355e7-896c-47d0-93ac-264b3e122214",
+      "title": "Garfield Gets Real",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "garfield-gets-real",
+      "has_reactions": false
+    },
+    {
+      "id": "1be477f9-002c-4b16-baf1-6ab1784dfc8e",
+      "title": "Fly Me to the Moon",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "fly-me-to-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "6f4e6ada-aaf6-4655-bb01-2cb152617891",
+      "title": "Garfield's Fun Fest",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-fun-fest",
+      "has_reactions": false
+    },
+    {
+      "id": "38ce7d70-4f0c-4998-a476-b7b22975eec3",
+      "title": "Halo Wars",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halo-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "cd0d320f-9b6b-47fa-b14d-5872bb236c52",
+      "title": "Garfield's Pet Force",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "garfield-s-pet-force",
+      "has_reactions": false
+    },
+    {
+      "id": "b089d7c0-0335-4e88-953c-4eae5737b2f5",
+      "title": "LEGO: The Adventures of Clutch Powers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "lego-the-adventures-of-clutch-powers",
+      "has_reactions": false
+    },
+    {
+      "id": "aa5256e1-36a9-4fc0-8e60-e75de2a69c5d",
+      "title": "Scooby-Doo! Mask of the Blue Falcon",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-mask-of-the-blue-falcon",
+      "has_reactions": false
+    },
+    {
+      "id": "3961ad3b-1e8e-4fd7-8d30-3db259ae9f4d",
+      "title": "The Garfield Show: Out On A Limb",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-garfield-show-out-on-a-limb",
+      "has_reactions": false
+    },
+    {
+      "id": "62c976f5-0fb7-4031-9cbc-7afd78053d1b",
+      "title": "Monsters University",
+      "release_year": 2013,
+      "studio_label": "Pixar",
+      "slug": "monsters-university",
+      "has_reactions": true
+    },
+    {
+      "id": "96a75b58-5902-4e8a-9192-7128735bc55f",
+      "title": "The One and Only June Foray",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-one-and-only-june-foray",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "95249c0c-5b3f-42ec-aaa8-c3bef25b883e",
+      "title": "Inside Out",
+      "release_year": 2015,
+      "studio_label": "Pixar",
+      "slug": "inside-out",
+      "has_reactions": true
+    },
+    {
+      "id": "d0074fb5-6597-46ca-a8df-98a75e1fc8f0",
+      "title": "'Til All Are One: Looking Back at Transformers - The Movie",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "til-all-are-one-looking-back-at-transformers-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "fe3b0b62-4958-4fab-957a-1a8d923f04ce",
+      "title": "The Star",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-star",
+      "has_reactions": false
+    },
+    {
+      "id": "61d64bbe-cff6-45a4-a7cb-ef0226ec1618",
+      "title": "Despicable Me 3",
+      "release_year": 2017,
+      "studio_label": "Illumination",
+      "slug": "despicable-me-3",
+      "has_reactions": true
+    },
+    {
+      "id": "5d178e07-5f1a-45f9-ba28-63fd2c14b392",
+      "title": "Transformers: Power of the Primes",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "transformers-power-of-the-primes",
+      "has_reactions": false
+    },
+    {
+      "id": "d40ab805-2661-4fb6-ac22-d0834226621d",
+      "title": "Alita: Battle Angel",
+      "release_year": 2019,
+      "studio_label": "Troublemaker Studios",
+      "slug": "alita-battle-angel",
+      "has_reactions": true
+    },
+    {
+      "id": "6ceeb349-bd3f-4b2d-b89b-bcee46918003",
+      "title": "Transformers: 40th Anniversary Event",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "transformers-40th-anniversary-event",
+      "has_reactions": false
+    },
+    {
+      "id": "9d2440d4-bfe6-4391-94dd-206389f72edf",
+      "title": "Fixed",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "fixed",
+      "has_reactions": false
+    }
+  ]
+}

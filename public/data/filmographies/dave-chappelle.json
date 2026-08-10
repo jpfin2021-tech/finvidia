@@ -1,0 +1,488 @@
+{
+  "id": "cc03738a-68b0-4200-b1dd-c15c763fa82c",
+  "name": "Dave Chappelle",
+  "slug": "dave-chappelle",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hDVe67wjmjtbOTzDrFaJfcobcE.jpg",
+  "filmography": [
+    {
+      "id": "e16deaef-3972-4c09-8ac7-e7aaa7821b1b",
+      "title": "Damn Whitey",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "damn-whitey",
+      "has_reactions": false
+    },
+    {
+      "id": "bb830a3c-fa98-4ece-8c65-80ca6a691d13",
+      "title": "Robin Hood: Men in Tights",
+      "release_year": 1993,
+      "studio_label": "Gaumont",
+      "slug": "robin-hood-men-in-tights",
+      "has_reactions": true
+    },
+    {
+      "id": "c74626c6-5178-4180-ad62-7ba5ce47cf4d",
+      "title": "Undercover Blues",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "undercover-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "bf00721c-0386-43dc-93b0-3c5ce5d50417",
+      "title": "'Robin Hood: Men in Tights' \u2013 The Legend Had It Coming",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "robin-hood-men-in-tights-the-legend-had-it-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "5b4d310a-3446-4645-8bb6-4855c5d59c3b",
+      "title": "Getting In",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "getting-in",
+      "has_reactions": false
+    },
+    {
+      "id": "cc865a69-183b-47f6-a6ad-b29771a17fb7",
+      "title": "The Nutty Professor",
+      "release_year": 1996,
+      "studio_label": "Universal Pictures",
+      "slug": "the-nutty-professor",
+      "has_reactions": true
+    },
+    {
+      "id": "723c9238-dc03-4709-99d4-e1d485dcb7d8",
+      "title": "Joe's Apartment",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "joe-s-apartment",
+      "has_reactions": false
+    },
+    {
+      "id": "b56a8248-e628-48d2-9c8f-cc1e8a3814ce",
+      "title": "Prince: Love 4 One Another",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "prince-love-4-one-another",
+      "has_reactions": false
+    },
+    {
+      "id": "9aac9984-f03f-4739-8699-33c78d2d38d1",
+      "title": "Con Air",
+      "release_year": 1997,
+      "studio_label": "Touchstone Pictures",
+      "slug": "con-air",
+      "has_reactions": true
+    },
+    {
+      "id": "ad08274e-7894-4b4a-a710-69051ebe04ba",
+      "title": "Mother Goose: A Rappin' and Rhymin' Special",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mother-goose-a-rappin-and-rhymin-special",
+      "has_reactions": false
+    },
+    {
+      "id": "882a197a-fc6e-44cb-86ca-fa94b1990f65",
+      "title": "Woo",
+      "release_year": 1998,
+      "studio_label": "New Line Cinema",
+      "slug": "woo",
+      "has_reactions": true
+    },
+    {
+      "id": "03b7f8cc-b6cc-45de-95d0-11c75dd40cdd",
+      "title": "Half Baked",
+      "release_year": 1998,
+      "studio_label": "Universal Pictures",
+      "slug": "half-baked",
+      "has_reactions": true
+    },
+    {
+      "id": "4b35596d-b781-455d-80b0-5ea71485e547",
+      "title": "Dave Chappelle: HBO Comedy Half-Hour",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-hbo-comedy-half-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "22d8448e-b5b7-4ea1-86c4-8d8e3e5729bb",
+      "title": "The Real Blonde",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-real-blonde",
+      "has_reactions": false
+    },
+    {
+      "id": "accc4134-e2de-46d7-81d1-72b65c56aec1",
+      "title": "Bowl of Pork",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "bowl-of-pork",
+      "has_reactions": false
+    },
+    {
+      "id": "f71533a8-a95c-4ba5-b397-27d972df093d",
+      "title": "Blue Streak",
+      "release_year": 1999,
+      "studio_label": "Columbia Pictures",
+      "slug": "blue-streak",
+      "has_reactions": true
+    },
+    {
+      "id": "13a6dd22-b073-4690-a6c2-41cb8cb60e9e",
+      "title": "Funny Is Money",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "funny-is-money",
+      "has_reactions": false
+    },
+    {
+      "id": "420fe710-7b5f-473b-9790-5ee46bd968dd",
+      "title": "Dave Chappelle: Killin' Them Softly",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-killin-them-softly",
+      "has_reactions": false
+    },
+    {
+      "id": "7de8ab6d-99fd-4b13-b905-17d843902f18",
+      "title": "Screwed",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "screwed",
+      "has_reactions": false
+    },
+    {
+      "id": "3e233cbf-324f-415f-b6e2-1e129fbc7818",
+      "title": "Undercover Brother",
+      "release_year": 2002,
+      "studio_label": "Universal Pictures",
+      "slug": "undercover-brother",
+      "has_reactions": true
+    },
+    {
+      "id": "02f60ab4-5be5-453f-ae54-97e4f7102a7b",
+      "title": "Hip-Hop Honeys",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hip-hop-honeys",
+      "has_reactions": false
+    },
+    {
+      "id": "cd5a62af-f804-4d01-b7d9-f2e7545ab2e0",
+      "title": "Richard Pryor: I Ain't Dead Yet, #*%$#@!!",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "richard-pryor-i-ain-t-dead-yet",
+      "has_reactions": false
+    },
+    {
+      "id": "e4cb71bc-6149-4116-a3d3-ce28938a7ef4",
+      "title": "Dave Chappelle: For What It's Worth",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-for-what-it-s-worth",
+      "has_reactions": false
+    },
+    {
+      "id": "097a60ed-1753-44c7-928e-cd360529d2a4",
+      "title": "Just for Laughs Stand Up, Vol. 1: Best of the Uptown Comics",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "just-for-laughs-stand-up-vol-1-best-of-the-uptown-comics",
+      "has_reactions": false
+    },
+    {
+      "id": "4a0a9f79-2fd1-4fe0-aab0-a5724dfe4b38",
+      "title": "Life O' The Party: On the Road with Prince and the New Power Generation",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "life-o-the-party-on-the-road-with-prince-and-the-new-power-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "cdeea7c6-3164-46e7-ac21-c2e972a580d5",
+      "title": "September in Brooklyn: The Making of Block Party",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "september-in-brooklyn-the-making-of-block-party",
+      "has_reactions": false
+    },
+    {
+      "id": "29bf2d02-2d24-4550-8396-e7f48089ae54",
+      "title": "World's Greatest Stand Up: Volume One",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "world-s-greatest-stand-up-volume-one",
+      "has_reactions": false
+    },
+    {
+      "id": "e87d0f76-80b3-4a71-90aa-20b15997968b",
+      "title": "Richard Pryor: Omit the Logic",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "richard-pryor-omit-the-logic",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7f34ca-17a1-4216-bc1a-eb780d2f2a03",
+      "title": "David Blaine: Beyond Magic",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "david-blaine-beyond-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "990ad0ef-3d61-4f80-8cee-dc3da3dfd7c7",
+      "title": "The Last Laugh",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-last-laugh",
+      "has_reactions": false
+    },
+    {
+      "id": "a1c425c9-0e3d-444b-9270-5f391a5dbbdb",
+      "title": "Dave Chappelle: Deep in the Heart of Texas",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-deep-in-the-heart-of-texas",
+      "has_reactions": false
+    },
+    {
+      "id": "6471ad6b-39ca-45f3-8f7a-dd5c135f51be",
+      "title": "Dave Chappelle: The Age of Spin",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-the-age-of-spin",
+      "has_reactions": false
+    },
+    {
+      "id": "3caf0133-8364-4dc9-9704-1796ae93de8f",
+      "title": "Dave Chappelle: Equanimity",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-equanimity",
+      "has_reactions": false
+    },
+    {
+      "id": "e21a25e5-a04d-4d38-ac5c-1b806eea6713",
+      "title": "Dave Chappelle: The Bird Revelation",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-the-bird-revelation",
+      "has_reactions": false
+    },
+    {
+      "id": "f66a8605-1f86-4c52-873a-652f6760d3f9",
+      "title": "Back To School Just For Laughs",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "back-to-school-just-for-laughs",
+      "has_reactions": false
+    },
+    {
+      "id": "799c6694-00b4-4ab2-ac42-95056297cd0d",
+      "title": "Q85: A Musical Celebration for Quincy Jones",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "q85-a-musical-celebration-for-quincy-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "1b0c330b-b970-45a3-a8a6-f1e7a8123b84",
+      "title": "Quincy",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "quincy",
+      "has_reactions": false
+    },
+    {
+      "id": "879c2080-33b6-4fde-9dc0-e2b8971ac50c",
+      "title": "Before They Were Kings: Vol. 2",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "before-they-were-kings-vol-2",
+      "has_reactions": false
+    },
+    {
+      "id": "1b3c1e3d-d4c7-4ccd-8a89-8d0928b9f676",
+      "title": "Epilogue: The Punchline",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "epilogue-the-punchline",
+      "has_reactions": false
+    },
+    {
+      "id": "a846a67e-e003-496d-addc-c7b4f01181b9",
+      "title": "Devil's Pie: D'Angelo",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "devil-s-pie-d-angelo",
+      "has_reactions": false
+    },
+    {
+      "id": "912254b0-ca50-47b8-a549-62f3635fb5b9",
+      "title": "Fyre Fraud",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "fyre-fraud",
+      "has_reactions": false
+    },
+    {
+      "id": "0b2733a7-ed7f-4f0b-99ec-9ee703eea493",
+      "title": "Dave Chappelle: Sticks & Stones",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-sticks-stones",
+      "has_reactions": false
+    },
+    {
+      "id": "f33b1ded-d321-4e60-a71c-32a6b2c6db4f",
+      "title": "8:46",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "8-46",
+      "has_reactions": false
+    },
+    {
+      "id": "f1aee245-fe34-4168-ab50-cab105f48401",
+      "title": "Dave Chappelle: Unforgiven",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-unforgiven",
+      "has_reactions": false
+    },
+    {
+      "id": "4a8fe75a-e811-46d6-8430-12bd1fe60668",
+      "title": "Stunted",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "stunted",
+      "has_reactions": false
+    },
+    {
+      "id": "789cb1dd-812a-4225-9163-276207409275",
+      "title": "Madonna: Madame X",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "madonna-madame-x",
+      "has_reactions": false
+    },
+    {
+      "id": "c3e40f18-68d7-4ee9-895b-7d0a4055d914",
+      "title": "Dave Chappelle: Redemption Song",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-redemption-song",
+      "has_reactions": false
+    },
+    {
+      "id": "b55d26c9-64fa-408f-a1cc-ab9d40a6095a",
+      "title": "Dave Chappelle: Live in Real Life",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-live-in-real-life",
+      "has_reactions": false
+    },
+    {
+      "id": "27ece46f-1523-4176-8e13-de667f6b8e70",
+      "title": "Norm Macdonald: Nothing Special",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "norm-macdonald-nothing-special",
+      "has_reactions": false
+    },
+    {
+      "id": "55eaca4d-4663-442b-a3ab-5971e2d65d6f",
+      "title": "Dave Chappelle: What's in a Name?",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-what-s-in-a-name",
+      "has_reactions": false
+    },
+    {
+      "id": "ab717d18-04eb-493e-ae08-eae8dacd8b12",
+      "title": "The Hall: Honoring the Greats of Stand-Up",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-hall-honoring-the-greats-of-stand-up",
+      "has_reactions": false
+    },
+    {
+      "id": "6e439c86-00f8-42cf-9c5b-36dea5b0092b",
+      "title": "The Greatest Lie Ever Sold: George Floyd and the Rise of BLM",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-greatest-lie-ever-sold-george-floyd-and-the-rise-of-blm",
+      "has_reactions": false
+    },
+    {
+      "id": "3517356b-f87a-4b06-ae54-e8c208dd4e1f",
+      "title": "Taylor Hawkins Tribute Concert",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "taylor-hawkins-tribute-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "237e43b1-3cd8-4652-a6c1-37a5322093e0",
+      "title": "Dirty Daddy: The Bob Saget Tribute",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dirty-daddy-the-bob-saget-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "f172d713-24e4-4c54-b252-1a7903bda62e",
+      "title": "Chris Rock: Road To Live Special",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "chris-rock-road-to-live-special",
+      "has_reactions": false
+    },
+    {
+      "id": "f2089884-31dc-4a35-b021-6a0da7928caa",
+      "title": "Dave Chappelle: The Dreamer",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-the-dreamer",
+      "has_reactions": false
+    },
+    {
+      "id": "aafd08ab-9494-4d7f-9a8f-b09321d105a0",
+      "title": "Ladies & Gentlemen... 50 Years of SNL Music",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "ladies-gentlemen-50-years-of-snl-music",
+      "has_reactions": false
+    },
+    {
+      "id": "bafc4007-3e3d-4cdf-aa34-e8fca10f81ad",
+      "title": "Dave Chappelle: The Unstoppable...",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "dave-chappelle-the-unstoppable",
+      "has_reactions": false
+    },
+    {
+      "id": "42bb3a50-6c13-40e8-97c7-7132bba25244",
+      "title": "The Truth About Jussie Smollett?",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-truth-about-jussie-smollett",
+      "has_reactions": false
+    },
+    {
+      "id": "b91b71dd-9a7e-4683-b547-21263bbb7ba8",
+      "title": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "afi-life-achievement-award-a-tribute-to-eddie-murphy",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "ae5e7984-4dec-4027-9827-884462ba50c1",
+  "name": "Cameron Diaz",
+  "slug": "cameron-diaz",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tTpQSKwdLrR6xBGHCqg8VcVQZzH.jpg",
+  "filmography": [
+    {
+      "id": "b2cdccd1-0c8e-4cee-b31e-c28b6b03dc35",
+      "title": "The Mask",
+      "release_year": 1994,
+      "studio_label": "Dark Horse Entertainment",
+      "slug": "the-mask",
+      "has_reactions": true
+    },
+    {
+      "id": "04100b03-f40b-40cb-949e-5696222fac7d",
+      "title": "The Last Supper",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-last-supper",
+      "has_reactions": false
+    },
+    {
+      "id": "09d2624d-2226-4173-af75-86ab0b40f263",
+      "title": "She's the One",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "she-s-the-one",
+      "has_reactions": false
+    },
+    {
+      "id": "d9815f84-b5b5-4a51-8308-85a8d8ca1ba2",
+      "title": "Feeling Minnesota",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "feeling-minnesota",
+      "has_reactions": false
+    },
+    {
+      "id": "457f4edf-5880-4932-a845-5c5863ecaf2f",
+      "title": "Head Above Water",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "head-above-water",
+      "has_reactions": false
+    },
+    {
+      "id": "c60ba644-38f5-4b03-b5b1-f5395a2acc31",
+      "title": "My Best Friend's Wedding",
+      "release_year": 1997,
+      "studio_label": "Zucker Brothers Productions",
+      "slug": "my-best-friend-s-wedding",
+      "has_reactions": true
+    },
+    {
+      "id": "8b530167-1df4-4c3f-87cd-73fb02d87700",
+      "title": "A Life Less Ordinary",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-life-less-ordinary",
+      "has_reactions": false
+    },
+    {
+      "id": "485036b4-f4ef-40a6-a344-b624ebed64fe",
+      "title": "There's Something About Mary",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "there-s-something-about-mary",
+      "has_reactions": true
+    },
+    {
+      "id": "c2280275-e2e5-45d8-abc0-56936683b83d",
+      "title": "Fear and Loathing in Las Vegas",
+      "release_year": 1998,
+      "studio_label": "Summit Entertainment",
+      "slug": "fear-and-loathing-in-las-vegas",
+      "has_reactions": true
+    },
+    {
+      "id": "115eefeb-4c88-49e8-97a6-7a9ba8ce2a23",
+      "title": "Being John Malkovich",
+      "release_year": 1999,
+      "studio_label": "Propaganda Films",
+      "slug": "being-john-malkovich",
+      "has_reactions": true
+    },
+    {
+      "id": "49964ae0-4906-4741-be8b-d66495c4abd8",
+      "title": "Charlie's Angels",
+      "release_year": 2000,
+      "studio_label": "Columbia Pictures",
+      "slug": "charlie-s-angels",
+      "has_reactions": true
+    },
+    {
+      "id": "b1ef2f1a-0e7e-4956-9813-49329c1a55ca",
+      "title": "Shrek",
+      "release_year": 2001,
+      "studio_label": "Pacific Data Images",
+      "slug": "shrek",
+      "has_reactions": true
+    },
+    {
+      "id": "fdb3df64-7888-4f30-92b1-f5facf876878",
+      "title": "Charlie\u2019s Angels: The Master and the Angels",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "charlie-s-angels-the-master-and-the-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "8c7150da-a1e6-4a5d-8a8f-cb394e04c5c2",
+      "title": "The Invisible Circus",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-invisible-circus",
+      "has_reactions": false
+    },
+    {
+      "id": "af9657a9-8552-4b07-9040-1cbd666fbea6",
+      "title": "Charlie\u2019s Angels: Getting G\u2019d Up",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "charlie-s-angels-getting-g-d-up",
+      "has_reactions": false
+    },
+    {
+      "id": "c23d7d93-713a-4b02-b19f-0c318e23ae44",
+      "title": "Gangs of New York",
+      "release_year": 2002,
+      "studio_label": "Miramax",
+      "slug": "gangs-of-new-york",
+      "has_reactions": true
+    },
+    {
+      "id": "073d9b9e-2d75-463f-a9f4-014eccb489df",
+      "title": "Slackers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "slackers",
+      "has_reactions": false
+    },
+    {
+      "id": "5117df7d-0c41-4302-9f7f-0055b9dcc55c",
+      "title": "The Sweetest Thing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-sweetest-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2a3d65-ed56-4b76-84e7-a199a64d554a",
+      "title": "Minority Report",
+      "release_year": 2002,
+      "studio_label": "Digital Image Associates",
+      "slug": "minority-report",
+      "has_reactions": true
+    },
+    {
+      "id": "c08f908d-6c71-4200-8eb9-006df9a078d0",
+      "title": "Uncovering the Real Gangs of New York",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "uncovering-the-real-gangs-of-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "89d9b26a-a29f-4199-99d6-75f6f8c037d9",
+      "title": "Shrek 2",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-2",
+      "has_reactions": true
+    },
+    {
+      "id": "722b2073-68d8-4601-b7ce-1819196572e5",
+      "title": "Shelter from the Storm: A Concert for the Gulf Coast",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shelter-from-the-storm-a-concert-for-the-gulf-coast",
+      "has_reactions": false
+    },
+    {
+      "id": "8fd33575-545c-46b7-9dcf-002425668aae",
+      "title": "My Date with Drew",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "my-date-with-drew",
+      "has_reactions": false
+    },
+    {
+      "id": "97674cd1-02ac-4526-9034-57c978b6bd95",
+      "title": "In Her Shoes",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "in-her-shoes",
+      "has_reactions": false
+    },
+    {
+      "id": "12058d70-2967-4aa8-b81f-4d81517acacf",
+      "title": "Return to Edge City",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "return-to-edge-city",
+      "has_reactions": false
+    },
+    {
+      "id": "dbd09b64-9f8c-4424-b58d-7c81a2674d07",
+      "title": "Shrek the Third",
+      "release_year": 2007,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-the-third",
+      "has_reactions": true
+    },
+    {
+      "id": "804b2fb0-37bd-4e7e-b482-a2e06763a89f",
+      "title": "What Happens in Vegas",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "what-happens-in-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "8137b93a-7dcf-4c07-aa9c-228706c6c063",
+      "title": "Shrek Forever After",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-forever-after",
+      "has_reactions": true
+    },
+    {
+      "id": "e217f48c-b582-437a-ba61-9b53f9228396",
+      "title": "Knight and Day",
+      "release_year": 2010,
+      "studio_label": "Pink Machine",
+      "slug": "knight-and-day",
+      "has_reactions": true
+    },
+    {
+      "id": "bfc29bc8-1870-4db1-b490-fca1eb89e1f2",
+      "title": "Teenage Paparazzo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "teenage-paparazzo",
+      "has_reactions": false
+    },
+    {
+      "id": "0d3b1865-412f-4251-890e-17e3cde9eb56",
+      "title": "Scared Shrekless",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "scared-shrekless",
+      "has_reactions": false
+    },
+    {
+      "id": "49593ce2-ee33-4e8b-b2ff-04ac6e485cc6",
+      "title": "Bad Teacher",
+      "release_year": 2011,
+      "studio_label": "Columbia Pictures",
+      "slug": "bad-teacher",
+      "has_reactions": true
+    },
+    {
+      "id": "dcadc147-9b1b-4c3b-8d7b-1d0b2bf1543f",
+      "title": "Sesame Street: Wild Words and Outdoor Adventures",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "sesame-street-wild-words-and-outdoor-adventures",
+      "has_reactions": false
+    },
+    {
+      "id": "d6c19001-4c9e-4ebc-8a79-bac2ee9bd054",
+      "title": "A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-liar-s-autobiography-the-untrue-story-of-monty-python-s-graham-chapman",
+      "has_reactions": false
+    },
+    {
+      "id": "1f376015-5dd9-470b-937c-c98e64f5ff82",
+      "title": "Gambit",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "gambit",
+      "has_reactions": false
+    },
+    {
+      "id": "e4633bb7-1765-4092-9b6a-412dab658e57",
+      "title": "All Noncombatants Please Clear the Set",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "all-noncombatants-please-clear-the-set",
+      "has_reactions": false
+    },
+    {
+      "id": "4c120fbe-02c1-414d-a2b1-fa5cc3e88a3e",
+      "title": "What to Expect When You're Expecting",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "what-to-expect-when-you-re-expecting",
+      "has_reactions": false
+    },
+    {
+      "id": "5633169d-ce3f-4fc9-b9c7-5525999d777d",
+      "title": "In a World...",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "in-a-world",
+      "has_reactions": false
+    },
+    {
+      "id": "13caec4e-2c2d-4560-8f4e-b3303b7941d2",
+      "title": "The Other Woman",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-other-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "9f08cb1c-9e7e-4526-b26d-9fd5b032a4f5",
+      "title": "Annie",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "annie",
+      "has_reactions": false
+    },
+    {
+      "id": "ad7151ce-225b-485e-b406-f11252695698",
+      "title": "Back in Action",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "back-in-action",
+      "has_reactions": false
+    }
+  ]
+}

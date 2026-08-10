@@ -1,0 +1,528 @@
+{
+  "id": "a647c642-3703-47e2-b21f-f00967a42dfc",
+  "name": "David Strathairn",
+  "slug": "david-strathairn",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg",
+  "filmography": [
+    {
+      "id": "ffd93fe8-75cf-476b-90bd-9fbee98bbb1b",
+      "title": "Silkwood",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "silkwood",
+      "has_reactions": false
+    },
+    {
+      "id": "c5256af2-c097-4194-a322-1177d87c3b7e",
+      "title": "When Nature Calls",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "when-nature-calls",
+      "has_reactions": false
+    },
+    {
+      "id": "a50869a7-7628-42ad-8178-4d96100d9920",
+      "title": "At Close Range",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "at-close-range",
+      "has_reactions": false
+    },
+    {
+      "id": "47f178cb-4cd7-40c2-ab9c-e920d43f2736",
+      "title": "Call Me",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "call-me",
+      "has_reactions": false
+    },
+    {
+      "id": "2906a6c4-a60b-4c57-b647-d16ec231ac87",
+      "title": "Day One",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "day-one",
+      "has_reactions": false
+    },
+    {
+      "id": "0dbc1c55-a64d-4725-b6b3-ff2caf93b8e3",
+      "title": "Judgment",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "judgment",
+      "has_reactions": false
+    },
+    {
+      "id": "f696f342-9691-48ec-ac97-9e667dcac309",
+      "title": "Heat Wave",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "heat-wave",
+      "has_reactions": false
+    },
+    {
+      "id": "c7f73e02-e754-4525-8828-5b5daf8b5d69",
+      "title": "Memphis Belle",
+      "release_year": 1990,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memphis-belle",
+      "has_reactions": true
+    },
+    {
+      "id": "ebc3fdfc-f16d-40fd-b293-3b80dda53af6",
+      "title": "Sneakers",
+      "release_year": 1992,
+      "studio_label": "Universal Pictures",
+      "slug": "sneakers",
+      "has_reactions": true
+    },
+    {
+      "id": "d20cbc05-d041-4658-9ac6-9b1f2a91c071",
+      "title": "Big Girls Don't Cry... They Get Even",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "big-girls-don-t-cry-they-get-even",
+      "has_reactions": false
+    },
+    {
+      "id": "b28702d9-1be6-4bb0-8d12-f76003e96a3e",
+      "title": "O Pioneers!",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "o-pioneers",
+      "has_reactions": false
+    },
+    {
+      "id": "423708d5-980a-4775-b152-5b7480da24f4",
+      "title": "The Firm",
+      "release_year": 1993,
+      "studio_label": "Mirage Enterprises",
+      "slug": "the-firm",
+      "has_reactions": true
+    },
+    {
+      "id": "653bf77f-605d-4b3d-b91e-40ed61374afb",
+      "title": "A Dangerous Woman",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "0b7b5ccc-f177-4597-a6b5-f3147c608dcd",
+      "title": "Lost in Yonkers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "lost-in-yonkers",
+      "has_reactions": false
+    },
+    {
+      "id": "153cc612-16e2-4664-827c-f168f34465f0",
+      "title": "The River Wild",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-river-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "f0c327c4-f757-45ee-980e-d1676b750b82",
+      "title": "April One",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "april-one",
+      "has_reactions": false
+    },
+    {
+      "id": "4fded666-d0ca-445c-a968-5476d768ef01",
+      "title": "Mother Night",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mother-night",
+      "has_reactions": false
+    },
+    {
+      "id": "bba01e89-89a6-4ed4-b839-6c00806e5947",
+      "title": "Beyond the Call",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-call",
+      "has_reactions": false
+    },
+    {
+      "id": "3b6fdb58-dceb-4985-9a41-cc248b8514d0",
+      "title": "L.A. Confidential",
+      "release_year": 1997,
+      "studio_label": "Regency Enterprises",
+      "slug": "l-a-confidential",
+      "has_reactions": true
+    },
+    {
+      "id": "d5b2f744-efc6-4b9b-87a0-4bcf074dfd3c",
+      "title": "In the Gloaming",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-the-gloaming",
+      "has_reactions": false
+    },
+    {
+      "id": "4f34edb1-acf1-4d52-8b14-2d4056434761",
+      "title": "The Climb",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-climb",
+      "has_reactions": false
+    },
+    {
+      "id": "839c1759-82fb-48b3-9dc7-0c93eebda7c4",
+      "title": "Evidence of Blood",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "evidence-of-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "45975d79-5bcf-419e-b777-bca8b19d8e6c",
+      "title": "Bad Manners",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "bad-manners",
+      "has_reactions": false
+    },
+    {
+      "id": "425398ae-538e-471c-b9f1-0da5e20739ac",
+      "title": "The Giraffe",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-giraffe",
+      "has_reactions": false
+    },
+    {
+      "id": "b24a1e61-82a5-45cb-a3a3-53357b44042a",
+      "title": "A Good Baby",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "a-good-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "7c3ba9fc-bbf2-4081-a8bd-f1b130193f63",
+      "title": "Freedom Song",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "freedom-song",
+      "has_reactions": false
+    },
+    {
+      "id": "500c15af-ba15-4379-8d93-446343353b23",
+      "title": "The Victim",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-victim",
+      "has_reactions": false
+    },
+    {
+      "id": "4a3a5a93-b2e8-426a-a25f-879a3a572483",
+      "title": "Relative Evil",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "relative-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "89f8eeb6-810a-4ade-8c41-41467c82054c",
+      "title": "Lathe of Heaven",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "lathe-of-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "0fb9eb52-a863-4fdb-97df-ec16992d606d",
+      "title": "Speakeasy",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "speakeasy",
+      "has_reactions": false
+    },
+    {
+      "id": "9f56005a-c545-4247-a4c7-77490615f0ab",
+      "title": "Master Spy: The Robert Hanssen Story",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "master-spy-the-robert-hanssen-story",
+      "has_reactions": false
+    },
+    {
+      "id": "50c4d942-b729-4575-9f6c-3884af93b0ae",
+      "title": "Blue Car",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "blue-car",
+      "has_reactions": false
+    },
+    {
+      "id": "c04a316b-c0bb-4dba-aa2f-eea4ea836ba9",
+      "title": "The Making of \u2018Sneakers\u2019",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-sneakers",
+      "has_reactions": false
+    },
+    {
+      "id": "bc6610ff-e6dd-4154-8b2f-a9b8f189523a",
+      "title": "Twisted",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "twisted",
+      "has_reactions": false
+    },
+    {
+      "id": "d8f67a76-16b8-4d56-a771-cdca4e7d1382",
+      "title": "Good Night, and Good Luck.",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "good-night-and-good-luck",
+      "has_reactions": false
+    },
+    {
+      "id": "59b854d3-dffb-47e9-98e0-490d907956f4",
+      "title": "Willa Cather: The Road Is All",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "willa-cather-the-road-is-all",
+      "has_reactions": false
+    },
+    {
+      "id": "657fe44c-ca5c-4dd9-8975-c77c389b0bdd",
+      "title": "The Sensation of Sight",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-sensation-of-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "5d9f6e6a-5cf9-47ce-9595-2b837cd22afb",
+      "title": "We Are Marshall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "we-are-marshall",
+      "has_reactions": false
+    },
+    {
+      "id": "5a547cc7-cc81-421e-947b-63a43b5b821e",
+      "title": "Heavens Fall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "heavens-fall",
+      "has_reactions": false
+    },
+    {
+      "id": "52b794c3-4b92-46c0-b945-eeca020f627c",
+      "title": "The Shovel",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-shovel",
+      "has_reactions": false
+    },
+    {
+      "id": "50938219-f9ec-4c1c-8d8f-bddfd2707334",
+      "title": "The Human Behavior Experiments",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-human-behavior-experiments",
+      "has_reactions": false
+    },
+    {
+      "id": "2fb7cfed-3138-4f29-9464-553c9170cb9b",
+      "title": "The Bourne Ultimatum",
+      "release_year": 2007,
+      "studio_label": "Universal Pictures",
+      "slug": "the-bourne-ultimatum",
+      "has_reactions": true
+    },
+    {
+      "id": "d6a2475d-1a2f-4d06-975d-6f2d6301ebdd",
+      "title": "Fracture",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fracture",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc3bdeb-c998-4d69-af3b-8384af645cc5",
+      "title": "Racing Daylight",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "racing-daylight",
+      "has_reactions": false
+    },
+    {
+      "id": "8d84a1c8-faba-45ef-81e2-774be98c8096",
+      "title": "The Trials of J. Robert Oppenheimer",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-trials-of-j-robert-oppenheimer",
+      "has_reactions": false
+    },
+    {
+      "id": "2f1894bd-d2bf-4186-9ecb-4cf63ae15c87",
+      "title": "The Spiderwick Chronicles",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-spiderwick-chronicles",
+      "has_reactions": false
+    },
+    {
+      "id": "9c8965c9-acca-44fd-891e-94c173be8ed1",
+      "title": "The Uninvited",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-uninvited",
+      "has_reactions": false
+    },
+    {
+      "id": "300aaef3-bfe1-412a-a3ea-3047545c60b1",
+      "title": "The People Speak",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-people-speak",
+      "has_reactions": false
+    },
+    {
+      "id": "3dd051b7-df68-4eab-b313-60e4ce2683ab",
+      "title": "The Tempest",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-tempest",
+      "has_reactions": false
+    },
+    {
+      "id": "86668f89-df60-425b-ae9c-362a3906a57b",
+      "title": "The Whistleblower",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-whistleblower",
+      "has_reactions": false
+    },
+    {
+      "id": "06d6fbcb-8b08-4c99-8bc5-a98c1c8ff6a8",
+      "title": "Matadors",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "matadors",
+      "has_reactions": false
+    },
+    {
+      "id": "a5f19e8b-c0c0-42c9-9087-2ba186f9f3ea",
+      "title": "Area 51 Declassified",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "area-51-declassified",
+      "has_reactions": false
+    },
+    {
+      "id": "f522feef-de0f-4946-9e86-b879da14fe5e",
+      "title": "Inside Area 51's Secrets",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "inside-area-51-s-secrets",
+      "has_reactions": false
+    },
+    {
+      "id": "9a790f9a-afe2-479e-ac87-67cbf6ab4cc4",
+      "title": "Lincoln",
+      "release_year": 2012,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "lincoln",
+      "has_reactions": true
+    },
+    {
+      "id": "b06e2062-00b4-46f4-a40d-03526b9bcbb6",
+      "title": "The Bourne Legacy",
+      "release_year": 2012,
+      "studio_label": "Universal Pictures",
+      "slug": "the-bourne-legacy",
+      "has_reactions": true
+    },
+    {
+      "id": "a2c817d3-c08f-4d64-99dd-cd7e87eee58c",
+      "title": "Maladies",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "maladies",
+      "has_reactions": false
+    },
+    {
+      "id": "d1fcdd6d-196a-4869-b47d-b341844a204b",
+      "title": "Godzilla",
+      "release_year": 2014,
+      "studio_label": "Legendary Pictures",
+      "slug": "godzilla",
+      "has_reactions": true
+    },
+    {
+      "id": "05b4e4d6-bab8-4e0b-8ba8-b98feccfde78",
+      "title": "No God, No Master",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "no-god-no-master",
+      "has_reactions": false
+    },
+    {
+      "id": "e40224b3-23a8-4dad-8b44-8d446739e0a9",
+      "title": "Louder Than Bombs",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "louder-than-bombs",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6b4859-57f2-410f-8bc8-7b47ff4bbea2",
+      "title": "American Pastoral",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "american-pastoral",
+      "has_reactions": false
+    },
+    {
+      "id": "29ac0ece-618a-46db-99c7-1cd5622a7339",
+      "title": "Remember This",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "remember-this",
+      "has_reactions": false
+    },
+    {
+      "id": "6bd45890-d093-4f50-80a7-e377f93c37d9",
+      "title": "Zootopia 2",
+      "release_year": 2025,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "zootopia-2",
+      "has_reactions": true
+    },
+    {
+      "id": "18e52074-f373-4554-a5e4-c5c7c62c61c3",
+      "title": "A Little Prayer",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "a-little-prayer",
+      "has_reactions": false
+    },
+    {
+      "id": "04905372-097f-43db-86f3-bd270516a149",
+      "title": "The Luckiest Man in America",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-luckiest-man-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "9471d4c8-01df-401c-895c-eb3ec024a28d",
+      "title": "O Horizon",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "o-horizon",
+      "has_reactions": false
+    }
+  ]
+}

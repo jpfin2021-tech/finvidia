@@ -1,0 +1,32 @@
+{
+  "id": "3ee3c073-cf66-474b-a86a-bcb4ef51f07f",
+  "name": "Jodi Hicks",
+  "slug": "jodi-hicks",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "ff65b055-f776-4005-b464-85e45a33fae4",
+      "title": "A Long Way Home",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "a-long-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "7d428943-53ad-4663-a766-5c7fc1e5ed8b",
+      "title": "The Secret of NIMH",
+      "release_year": 1982,
+      "studio_label": "United Artists",
+      "slug": "the-secret-of-nimh",
+      "has_reactions": true
+    },
+    {
+      "id": "ce9b1874-417d-4b14-999d-c2fb41e5de50",
+      "title": "Right of Way",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "right-of-way",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "id": "98759a8f-d474-470f-8e46-5b633f25ba59",
+  "name": "Gary Cole",
+  "slug": "gary-cole",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/uWsqIlfHbyxkmBJLmq2mR93musF.jpg",
+  "filmography": [
+    {
+      "id": "71d5cc53-6e65-44fc-9251-da9d118bf480",
+      "title": "Heart of Steel",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "heart-of-steel",
+      "has_reactions": false
+    },
+    {
+      "id": "032d918d-7143-4524-812b-5671f0ea7393",
+      "title": "A Matter of Principle",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-matter-of-principle",
+      "has_reactions": false
+    },
+    {
+      "id": "b8017cb1-c8cc-4a33-8bdb-c6e7b122e35b",
+      "title": "First Steps",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "first-steps",
+      "has_reactions": false
+    },
+    {
+      "id": "15f4c408-8bce-4728-9ffb-b305eccc72c5",
+      "title": "To Live and Die in L.A.",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "to-live-and-die-in-l-a",
+      "has_reactions": false
+    },
+    {
+      "id": "38d8c769-0c42-4349-9e8e-1bffd0788b30",
+      "title": "Vital Signs",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "vital-signs",
+      "has_reactions": false
+    },
+    {
+      "id": "f1328194-70b3-478d-b297-78cea930caa1",
+      "title": "Lucas",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "lucas",
+      "has_reactions": false
+    },
+    {
+      "id": "69c4c19b-8759-4f81-8356-1b7e96540ec2",
+      "title": "Those She Left Behind",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "those-she-left-behind",
+      "has_reactions": false
+    },
+    {
+      "id": "feefca89-3e1e-4eaf-acfd-96339f6c6114",
+      "title": "In the Line of Fire",
+      "release_year": 1993,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "in-the-line-of-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "e2b0302e-46d9-4aa3-90c0-9093e6b4e632",
+      "title": "The Switch",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-switch",
+      "has_reactions": false
+    },
+    {
+      "id": "116f42d9-6177-40c0-9f7d-6959fd6b4fcf",
+      "title": "The Twilight Zone: Rod Serling's Lost Classics",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-twilight-zone-rod-serling-s-lost-classics",
+      "has_reactions": false
+    },
+    {
+      "id": "9e46df0a-7378-420c-aaec-314756ed0972",
+      "title": "A Time to Heal",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-time-to-heal",
+      "has_reactions": false
+    },
+    {
+      "id": "c09aa249-6614-44be-8d3b-fe248e127add",
+      "title": "Fall from Grace",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "fall-from-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "fa24d11e-f6dd-4621-b8e0-869a6197e53d",
+      "title": "The Brady Bunch Movie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-brady-bunch-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4295da-4d6a-4dbc-9814-c69c5f045260",
+      "title": "For My Daughter's Honor",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "for-my-daughter-s-honor",
+      "has_reactions": false
+    },
+    {
+      "id": "0ee9b845-a7fe-43df-8a6b-a94b162b0f5a",
+      "title": "Gang Related",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "gang-related",
+      "has_reactions": false
+    },
+    {
+      "id": "c054051c-a34a-4ad7-a299-b1bb26944201",
+      "title": "Cyclops, Baby",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "cyclops-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "9b15ca73-8ab4-4d88-a27c-acf504c8aa2e",
+      "title": "Lies He Told",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "lies-he-told",
+      "has_reactions": false
+    },
+    {
+      "id": "38edbdfc-427f-4432-86ac-ab8b44a12db3",
+      "title": "Santa Fe",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "santa-fe",
+      "has_reactions": false
+    },
+    {
+      "id": "13fb01ce-32d3-4ed6-be32-6153a65384cf",
+      "title": "A Simple Plan",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-simple-plan",
+      "has_reactions": false
+    },
+    {
+      "id": "55695d77-48e7-4bb5-ae74-5c359cd57ad5",
+      "title": "I'll Be Home for Christmas",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "i-ll-be-home-for-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "819c0f59-a47d-4700-921f-afa531db83c4",
+      "title": "Kiss the Sky",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "kiss-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "28feddac-dfd3-48cd-aa65-8d3f359a9973",
+      "title": "Office Space",
+      "release_year": 1999,
+      "studio_label": "20th Century Fox",
+      "slug": "office-space",
+      "has_reactions": true
+    },
+    {
+      "id": "58205d6b-ef87-47af-8747-e16cd3d6dc6e",
+      "title": "The Gift",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-gift",
+      "has_reactions": false
+    },
+    {
+      "id": "4445d581-8326-4d1e-87b5-ef1239eaef11",
+      "title": "American Adventure",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "american-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "53a23531-a912-43ff-82c2-e25a53086174",
+      "title": "The Rising Place",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-rising-place",
+      "has_reactions": false
+    },
+    {
+      "id": "86fafd03-07ef-45aa-bce5-4a43a95a4fb7",
+      "title": "Justice League: Secret Origins",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "justice-league-secret-origins",
+      "has_reactions": false
+    },
+    {
+      "id": "89384d41-0f92-4652-b4d3-3b3abf063dbb",
+      "title": "One Hour Photo",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "one-hour-photo",
+      "has_reactions": false
+    },
+    {
+      "id": "5c628dea-efc7-4b39-baf1-8570903b16c9",
+      "title": "Cadet Kelly",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "cadet-kelly",
+      "has_reactions": false
+    },
+    {
+      "id": "e4f76d3b-57a5-4253-9b41-e8e79899cd1e",
+      "title": "The Brady Bunch in the White House",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-brady-bunch-in-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "d9a34909-e61b-4792-ad21-2fff162f2be9",
+      "title": "Criminology 101",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "criminology-101",
+      "has_reactions": false
+    },
+    {
+      "id": "6ce11711-67ca-4745-ac2c-7ad656a1fe08",
+      "title": "DodgeBall: A True Underdog Story",
+      "release_year": 2004,
+      "studio_label": "20th Century Fox",
+      "slug": "dodgeball-a-true-underdog-story",
+      "has_reactions": true
+    },
+    {
+      "id": "2680fbd3-f29d-4016-b399-1b09c3d9b486",
+      "title": "Pop Rocks",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "pop-rocks",
+      "has_reactions": false
+    },
+    {
+      "id": "d27e2696-a95e-4b09-b193-fcd52a75c577",
+      "title": "Win a Date with Tad Hamilton!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "win-a-date-with-tad-hamilton",
+      "has_reactions": false
+    },
+    {
+      "id": "1d61b65c-a4bd-48eb-8b69-f147c6365e7e",
+      "title": "Mozart and the Whale",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mozart-and-the-whale",
+      "has_reactions": false
+    },
+    {
+      "id": "abf2c524-b61e-409d-9f2d-d853ce67f779",
+      "title": "The Ring Two",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-ring-two",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bc31d4-52ca-45c5-9147-662ea9165241",
+      "title": "Kim Possible Movie: So the Drama",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kim-possible-movie-so-the-drama",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c119cd-3b23-4d63-80fb-9b24a02b75a5",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "release_year": 2006,
+      "studio_label": "Apatow Productions",
+      "slug": "talladega-nights-the-ballad-of-ricky-bobby",
+      "has_reactions": true
+    },
+    {
+      "id": "d6a43ce9-eee8-4170-8b6a-292ec325f62c",
+      "title": "Breach",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "breach",
+      "has_reactions": false
+    },
+    {
+      "id": "36b94f7b-d6ba-4622-9572-1c265f3c9f9f",
+      "title": "American Pastime",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "american-pastime",
+      "has_reactions": false
+    },
+    {
+      "id": "d31c9d0d-ece0-41eb-a3c4-83be75d8ed6b",
+      "title": "My Wife Is Retarded",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "my-wife-is-retarded",
+      "has_reactions": false
+    },
+    {
+      "id": "a7bb5ca3-fb1a-484a-a580-28b274abee89",
+      "title": "The Dukes of Hazzard: The Beginning",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dukes-of-hazzard-the-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "df615b9c-ed86-4356-92f2-d4307ad89f10",
+      "title": "Pineapple Express",
+      "release_year": 2008,
+      "studio_label": "Columbia Pictures",
+      "slug": "pineapple-express",
+      "has_reactions": true
+    },
+    {
+      "id": "29699364-95f5-465b-9743-635e324d2325",
+      "title": "Forever Strong",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "forever-strong",
+      "has_reactions": false
+    },
+    {
+      "id": "b7dfbe4a-fbdf-441e-8593-7f89bc66674f",
+      "title": "Good Behavior",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "good-behavior",
+      "has_reactions": false
+    },
+    {
+      "id": "008aba2c-90f5-4bb2-a45a-66d5026b11a6",
+      "title": "Extract",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "extract",
+      "has_reactions": false
+    },
+    {
+      "id": "bf063125-7895-4be6-9f58-6148dbd4a3e5",
+      "title": "Batman: Under the Red Hood",
+      "release_year": 2010,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-under-the-red-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "2644abe6-3399-46db-9c81-4a71da24da98",
+      "title": "DC Showcase: The Spectre",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-the-spectre",
+      "has_reactions": false
+    },
+    {
+      "id": "8721df06-b22a-4574-b349-75a213430192",
+      "title": "The Joneses",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-joneses",
+      "has_reactions": false
+    },
+    {
+      "id": "6db52fd9-256a-4c71-9b6e-abf53f782857",
+      "title": "DC Showcase Original Shorts Collection",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-original-shorts-collection",
+      "has_reactions": false
+    },
+    {
+      "id": "c45b4610-c27a-41bb-b72c-0e46a25b3ed1",
+      "title": "The Last Rites of Joe May",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-last-rites-of-joe-may",
+      "has_reactions": false
+    },
+    {
+      "id": "8415d715-cc9d-4e15-9084-a07c840c7de0",
+      "title": "Ricochet",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "ricochet",
+      "has_reactions": false
+    },
+    {
+      "id": "04566f30-8fa6-414f-8a26-e4a64fb7358a",
+      "title": "An Officer and a Murderer",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "an-officer-and-a-murderer",
+      "has_reactions": false
+    },
+    {
+      "id": "01fd3391-cc44-4ff7-ae79-dcb41be6f86c",
+      "title": "Vamp U",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "vamp-u",
+      "has_reactions": false
+    },
+    {
+      "id": "e7e91726-b573-4922-8fcc-f936ee42e8ad",
+      "title": "Tammy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tammy",
+      "has_reactions": false
+    },
+    {
+      "id": "8aa9a7bd-9089-49cc-9aee-050f9a4c4306",
+      "title": "The Town that Dreaded Sundown",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-town-that-dreaded-sundown",
+      "has_reactions": false
+    },
+    {
+      "id": "39b60923-aed4-4a9f-ac64-1a748fa6b6fa",
+      "title": "Market Hours",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "market-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "f19737f5-c914-49c9-89cf-6aa0a1fdab85",
+      "title": "Everyday Miracles",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "everyday-miracles",
+      "has_reactions": false
+    },
+    {
+      "id": "39bdac6a-b3fa-4074-80e1-dfc60fd1a198",
+      "title": "Divine Access",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "divine-access",
+      "has_reactions": false
+    },
+    {
+      "id": "2a072405-99db-44d1-9783-20258190867a",
+      "title": "The Bronze",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-bronze",
+      "has_reactions": false
+    },
+    {
+      "id": "ea876236-4446-4820-8ede-7dfa38ab23d7",
+      "title": "Hot Air",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "hot-air",
+      "has_reactions": false
+    },
+    {
+      "id": "eb9762f9-f3e3-4702-83ba-1aa650e5b47d",
+      "title": "Scooby-Doo! Shaggy's Showdown",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-shaggy-s-showdown",
+      "has_reactions": false
+    },
+    {
+      "id": "c489054b-bdaf-48ea-a369-88a68eb0562b",
+      "title": "Small Crimes",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "small-crimes",
+      "has_reactions": false
+    },
+    {
+      "id": "d41cc836-34ee-4bb7-b39a-e4e06ecf0b5b",
+      "title": "Unbroken: Path to Redemption",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "unbroken-path-to-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "c1874c12-ab41-49a2-929f-a38e1b7bd03e",
+      "title": "Seven in Heaven",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "seven-in-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "60f3a5e0-9f78-4086-aab8-7572567ecbbe",
+      "title": "Blockers",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "blockers",
+      "has_reactions": false
+    },
+    {
+      "id": "aa493df4-cfd7-48a9-9f0c-6a0388944654",
+      "title": "Under the Eiffel Tower",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "under-the-eiffel-tower",
+      "has_reactions": false
+    },
+    {
+      "id": "fb05cd2b-bb05-4579-9b9f-0b4b1dc4c271",
+      "title": "Married Young",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "married-young",
+      "has_reactions": false
+    },
+    {
+      "id": "001f088b-815b-4432-babe-d605b091d33a",
+      "title": "Marvel Rising: Playing with Fire",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "marvel-rising-playing-with-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "2c1eedb9-be5e-48a4-9a77-b3e17b93bd29",
+      "title": "Time Warp Vol. 3: Comedy and Camp",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-3-comedy-and-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "37c746e9-0ee3-4a05-9b93-56cf154399e0",
+      "title": "Time Warp Vol. 1: Midnight Madness",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-1-midnight-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "3c75d35b-0996-41e6-991b-d808b2f54fb8",
+      "title": "DC Showcase - Batman: Death in the Family",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-batman-death-in-the-family",
+      "has_reactions": false
+    },
+    {
+      "id": "46edcdaa-8780-4f7e-923e-bad993a9108b",
+      "title": "Darkness Falls",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "darkness-falls",
+      "has_reactions": false
+    },
+    {
+      "id": "a933710b-53c5-4561-838d-5f5bbd667a95",
+      "title": "Beavis and Butt-Head Do the Universe",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "beavis-and-butt-head-do-the-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "b9f31db8-b08b-4495-be9e-8691cc5bb28e",
+      "title": "The Bob's Burgers Movie",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-bob-s-burgers-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "3df68dcc-796f-4dda-863c-ec131b6ea57a",
+      "title": "NCISverse: The First 1,000",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ncisverse-the-first-1-000",
+      "has_reactions": false
+    },
+    {
+      "id": "77ba2ba8-7d77-40c2-aa16-c4fbe9511b10",
+      "title": "The Robot Chicken [adult swim] 25th Anniversary Special",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-adult-swim-25th-anniversary-special",
+      "has_reactions": false
+    }
+  ]
+}

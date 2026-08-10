@@ -1,0 +1,32 @@
+{
+  "id": "322e1302-5ca6-4e1b-bac9-0bf47d968c24",
+  "name": "Luke Askew",
+  "slug": "luke-askew",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/fZnBGTtY24YAaebGdlRA2gMeYS.jpg",
+  "filmography": [
+    {
+      "id": "7fcda3c9-e059-405a-81e5-58ea84d2e4a1",
+      "title": "Cool Hand Luke",
+      "release_year": 1967,
+      "studio_label": "Warner Bros.-Seven Arts",
+      "slug": "cool-hand-luke",
+      "has_reactions": true
+    },
+    {
+      "id": "c6e4d7be-5ec8-4ff2-bece-bd9314dcdfdd",
+      "title": "Bulletproof",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bulletproof",
+      "has_reactions": false
+    },
+    {
+      "id": "c8d217e4-b37c-40d7-a033-0078d0bef137",
+      "title": "Frailty",
+      "release_year": 2002,
+      "studio_label": "Cinerenta",
+      "slug": "frailty",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5eff9c0b-239b-4bd6-9d25-d59d73e7a810",
+  "name": "Ernie Brown",
+  "slug": "ernie-brown",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "965cdb6a-52f2-4455-893e-372384b77de0",
+      "title": "Lost in America",
+      "release_year": 1985,
+      "studio_label": "Marty Katz Productions",
+      "slug": "lost-in-america",
+      "has_reactions": true
+    },
+    {
+      "id": "ca51102d-ea1e-4ce0-9835-791e5387d13d",
+      "title": "In the Mood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "in-the-mood",
+      "has_reactions": false
+    },
+    {
+      "id": "6b49b7ed-9fc6-4272-9808-1dc0732e935a",
+      "title": "Defending Your Life",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "defending-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "219436d1-98b9-4e95-8331-e05ef69c978f",
+      "title": "Mother",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mother",
+      "has_reactions": false
+    }
+  ]
+}

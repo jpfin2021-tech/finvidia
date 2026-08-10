@@ -1,0 +1,48 @@
+{
+  "id": "a8f6e9f4-18d5-47a2-bb34-9411abe2f0ca",
+  "name": "Earl Poitier",
+  "slug": "earl-poitier",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2RkDqvtUVRkjNRNLndJ6V6YbDj4.jpg",
+  "filmography": [
+    {
+      "id": "a245e0f6-dd9d-4110-8596-bb74c8620d60",
+      "title": "Remember the Titans",
+      "release_year": 2000,
+      "studio_label": "Jerry Bruckheimer Films",
+      "slug": "remember-the-titans",
+      "has_reactions": true
+    },
+    {
+      "id": "1dcac133-c750-4d60-a2ce-dda46e444bbe",
+      "title": "Drumline",
+      "release_year": 2002,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "drumline",
+      "has_reactions": true
+    },
+    {
+      "id": "35e4f7eb-ce5f-4f5e-b3a3-6631c6255d32",
+      "title": "The Singing Detective",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-singing-detective",
+      "has_reactions": false
+    },
+    {
+      "id": "fa901369-bf56-4aa0-8eba-d622a304bc88",
+      "title": "Little Chicago",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "little-chicago",
+      "has_reactions": false
+    },
+    {
+      "id": "4266a995-d3b0-4fba-aa8d-36b669ab7c4f",
+      "title": "Baywatch",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "baywatch",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "id": "d950c96e-29fe-41e6-8050-5f52979a9b6a",
+  "name": "John Travolta",
+  "slug": "john-travolta",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg",
+  "filmography": [
+    {
+      "id": "0975d249-1fda-47cc-a812-b2a19f5cf050",
+      "title": "That's Amore!",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "that-s-amore",
+      "has_reactions": false
+    },
+    {
+      "id": "0b2cf54b-4e6a-4fab-985f-5b08ea36af53",
+      "title": "Carrie",
+      "release_year": 1976,
+      "studio_label": "United Artists",
+      "slug": "carrie",
+      "has_reactions": true
+    },
+    {
+      "id": "6c5da65b-d2ec-47ce-8f7e-ec8c7e6510a0",
+      "title": "The Boy in the Plastic Bubble",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-boy-in-the-plastic-bubble",
+      "has_reactions": false
+    },
+    {
+      "id": "02eedfaf-1701-4388-bb97-dbd48ae3de12",
+      "title": "Saturday Night Fever",
+      "release_year": 1977,
+      "studio_label": "Robert Stigwood Organization",
+      "slug": "saturday-night-fever",
+      "has_reactions": true
+    },
+    {
+      "id": "2a22332b-7d79-4010-a658-e7837f4d61a3",
+      "title": "Grease",
+      "release_year": 1978,
+      "studio_label": "Paramount Pictures",
+      "slug": "grease",
+      "has_reactions": true
+    },
+    {
+      "id": "351be1c2-56ab-47ef-99ef-79fb1e6bc94f",
+      "title": "Moment by Moment",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "moment-by-moment",
+      "has_reactions": false
+    },
+    {
+      "id": "f3f00059-2f03-43f0-978c-300ea256959a",
+      "title": "Rona Barrett Looks at 1978",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "rona-barrett-looks-at-1978",
+      "has_reactions": false
+    },
+    {
+      "id": "d34da260-e500-49a5-b42b-d88ada77ef33",
+      "title": "Urban Cowboy",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "urban-cowboy",
+      "has_reactions": false
+    },
+    {
+      "id": "4849de2c-043b-4d8e-89f7-8845b46b93bc",
+      "title": "Blow Out",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "blow-out",
+      "has_reactions": false
+    },
+    {
+      "id": "c6e5bff5-73a6-4f29-8eab-1b9fdf4b4265",
+      "title": "Staying Alive",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "staying-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "09c99c5f-b7d5-4786-98e9-4d1a4d8304fb",
+      "title": "Two of a Kind",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "two-of-a-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "773b7cf6-8360-4524-96f5-d971c2dee3de",
+      "title": "Perfect",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "perfect",
+      "has_reactions": false
+    },
+    {
+      "id": "391bebbc-0b11-422b-9505-ac208b909503",
+      "title": "The Grand Knockout Tournament",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-grand-knockout-tournament",
+      "has_reactions": false
+    },
+    {
+      "id": "8eb97cec-1456-4bfc-945f-1169d52ec916",
+      "title": "Basements",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "basements",
+      "has_reactions": false
+    },
+    {
+      "id": "e4044e01-468c-455c-afae-c1059c3a3a04",
+      "title": "Look Who's Talking",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking",
+      "has_reactions": false
+    },
+    {
+      "id": "59bc221d-afbb-47f2-a893-2ae4ea35554e",
+      "title": "The Experts",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-experts",
+      "has_reactions": false
+    },
+    {
+      "id": "774d7326-f4fc-4f8d-8a70-af4a0897f910",
+      "title": "Look Who's Talking Too",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-too",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c05bb4-d39d-4d9d-87b2-3eca473883cc",
+      "title": "Seriously... Phil Collins",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "seriously-phil-collins",
+      "has_reactions": false
+    },
+    {
+      "id": "a48d6d00-9972-44c2-8750-9dda1f2653cb",
+      "title": "Shout",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "shout",
+      "has_reactions": false
+    },
+    {
+      "id": "2b751951-13b8-4da3-9fb0-32eb594b33cd",
+      "title": "Chains of Gold",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "chains-of-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "609cec99-e501-4e38-97e0-5aa06f339297",
+      "title": "Eyes of an Angel",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "eyes-of-an-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "c36503bf-a252-4143-9299-696f41499d60",
+      "title": "Look Who's Talking Now!",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-now",
+      "has_reactions": false
+    },
+    {
+      "id": "02f6cb25-8cd0-4d04-95cc-81e44d6721f1",
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "studio_label": "Miramax",
+      "slug": "pulp-fiction",
+      "has_reactions": true
+    },
+    {
+      "id": "afa9c05b-959a-4552-a0de-e25b39f7f66c",
+      "title": "White Man's Burden",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "white-man-s-burden",
+      "has_reactions": false
+    },
+    {
+      "id": "1b880251-4f52-4b95-8d77-0e57c2db825d",
+      "title": "Get Shorty",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "get-shorty",
+      "has_reactions": false
+    },
+    {
+      "id": "acbfcbfb-fdca-413d-860d-af6c2ca76cc8",
+      "title": "Orientation: A Scientology Information Film",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "orientation-a-scientology-information-film",
+      "has_reactions": false
+    },
+    {
+      "id": "7dea0578-9ea3-4a30-aa66-476159306615",
+      "title": "Face/Off",
+      "release_year": 1997,
+      "studio_label": "WCG Entertainment Productions",
+      "slug": "face-off",
+      "has_reactions": true
+    },
+    {
+      "id": "29553366-a840-4e91-9544-89b20cb2d67a",
+      "title": "Mad City",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mad-city",
+      "has_reactions": false
+    },
+    {
+      "id": "20af31a4-7490-4036-81ca-55f8becbbf10",
+      "title": "The Thin Red Line",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-thin-red-line",
+      "has_reactions": false
+    },
+    {
+      "id": "ee4d3913-8679-41d6-a95d-addbc709ccd5",
+      "title": "Off the Menu: The Last Days of Chasen's",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "off-the-menu-the-last-days-of-chasen-s",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee29f5c-46e4-4ab1-8f79-6b7e6065475c",
+      "title": "The General's Daughter",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-general-s-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "098d8b9e-0989-48a9-9a29-38a9d137b1a8",
+      "title": "Our Friend, Martin",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "our-friend-martin",
+      "has_reactions": false
+    },
+    {
+      "id": "e97cfdb9-ec64-4b4e-9a15-dfad485e40f4",
+      "title": "Battlefield Earth",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "battlefield-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "5531c0e4-8172-4a61-853c-d74014708afd",
+      "title": "Lucky Numbers",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lucky-numbers",
+      "has_reactions": false
+    },
+    {
+      "id": "a104e4f4-a71d-4c1a-a7e7-b741639c43e3",
+      "title": "Domestic Disturbance",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "domestic-disturbance",
+      "has_reactions": false
+    },
+    {
+      "id": "e477b00d-d0ca-440a-a6bb-9a631fc7827b",
+      "title": "Hollywood Rocks the Movies: The 1970s",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hollywood-rocks-the-movies-the-1970s",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa5d919-249d-4306-921b-209f9781473f",
+      "title": "Austin Powers in Goldmember",
+      "release_year": 2002,
+      "studio_label": "Eric's Boy",
+      "slug": "austin-powers-in-goldmember",
+      "has_reactions": true
+    },
+    {
+      "id": "a7f838f7-560d-45cb-b001-aa8472100f3d",
+      "title": "Basic",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "basic",
+      "has_reactions": false
+    },
+    {
+      "id": "ef81d092-c71b-446b-85e6-2a4a2997decb",
+      "title": "John Travolta Remembers James Cagney",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "john-travolta-remembers-james-cagney",
+      "has_reactions": false
+    },
+    {
+      "id": "85287179-6acf-4c39-956c-32c6d9e02e95",
+      "title": "The Punisher",
+      "release_year": 2004,
+      "studio_label": "Lions Gate Films",
+      "slug": "the-punisher",
+      "has_reactions": true
+    },
+    {
+      "id": "ce96a8c0-48ff-456a-82fd-4102d502c94c",
+      "title": "Ladder 49",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ladder-49",
+      "has_reactions": false
+    },
+    {
+      "id": "a9d8a670-5eb8-4171-b7ec-a572d9bb8166",
+      "title": "A Love Song for Bobby Long",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-love-song-for-bobby-long",
+      "has_reactions": false
+    },
+    {
+      "id": "dc917117-0caf-4c47-b9ff-c25dcd1d8d78",
+      "title": "Be Cool",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "be-cool",
+      "has_reactions": false
+    },
+    {
+      "id": "45bfff9e-ec3e-4437-8437-f830ae744c02",
+      "title": "Lonely Hearts",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "lonely-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "d9318a9d-7b9a-46a3-85c5-620e184f7a12",
+      "title": "Tony Bennett: An American Classic",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tony-bennett-an-american-classic",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe66baf-fe64-4007-83f5-fd51d4693d96",
+      "title": "Bolt",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bolt",
+      "has_reactions": false
+    },
+    {
+      "id": "b9116a0f-bbdc-4bea-bc5a-4f66aa982603",
+      "title": "Old Dogs",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "old-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "0d3ce9cc-626c-43ea-befd-29b4f6b5c44d",
+      "title": "The Taking of Pelham 1 2 3",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-1-2-3",
+      "has_reactions": false
+    },
+    {
+      "id": "b824755c-eac3-4727-92c0-395855a9bef5",
+      "title": "2Everything2Terrible2: Tokyo Drift",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "2everything2terrible2-tokyo-drift",
+      "has_reactions": false
+    },
+    {
+      "id": "e373cb1f-7c10-435c-8982-6baed52e49c6",
+      "title": "From Paris with Love",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "from-paris-with-love",
+      "has_reactions": false
+    },
+    {
+      "id": "89e93eb5-d60f-4b6f-9ab4-d6ace4e358a0",
+      "title": "Savages",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "savages",
+      "has_reactions": false
+    },
+    {
+      "id": "5b658573-ec77-4a37-83f9-3095e3cd9cb9",
+      "title": "The Forger",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-forger",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7f34ca-17a1-4216-bc1a-eb780d2f2a03",
+      "title": "David Blaine: Beyond Magic",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "david-blaine-beyond-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "5934a180-95e6-4e5f-928b-d558e4a5d408",
+      "title": "Life on the Line",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "life-on-the-line",
+      "has_reactions": false
+    },
+    {
+      "id": "0494b35c-7996-4aeb-a7a3-3d02f46aafc9",
+      "title": "In a Valley of Violence",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "in-a-valley-of-violence",
+      "has_reactions": false
+    },
+    {
+      "id": "a34ef430-9cb3-49fe-8254-12e98665e511",
+      "title": "Close Encounters with Vilmos Zsigmond",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "close-encounters-with-vilmos-zsigmond",
+      "has_reactions": false
+    },
+    {
+      "id": "e64cf28e-e0ce-460f-abf1-9c387b15fecc",
+      "title": "I Am Wrath",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "i-am-wrath",
+      "has_reactions": false
+    },
+    {
+      "id": "1f4d390c-24a1-40e6-a9fb-557974245cc6",
+      "title": "Stayin' Alive: A Grammy Salute to the Music of the Bee Gees",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "stayin-alive-a-grammy-salute-to-the-music-of-the-bee-gees",
+      "has_reactions": false
+    },
+    {
+      "id": "313ea2ff-2e10-42c3-b2fe-3b676f3a3add",
+      "title": "Pattern Recognition",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "pattern-recognition",
+      "has_reactions": false
+    },
+    {
+      "id": "5664a8cf-bb46-4ee4-aabf-2442d74d2b90",
+      "title": "The Grease Story",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-grease-story",
+      "has_reactions": false
+    },
+    {
+      "id": "267607af-9871-4d74-b36c-7501495f64a9",
+      "title": "Saturday Night Fever: The Ultimate Disco Movie",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-fever-the-ultimate-disco-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "7d4ba3b3-0953-4d60-90a3-520fc0c6b560",
+      "title": "Speed Kills",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "speed-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "3119bba2-d98f-4e8b-b46e-46dafb15824c",
+      "title": "Gotti",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "gotti",
+      "has_reactions": false
+    },
+    {
+      "id": "ea862aed-408b-4a55-b0ce-1e1f0fb4d09a",
+      "title": "Trading Paint",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "trading-paint",
+      "has_reactions": false
+    },
+    {
+      "id": "2e9c3a1f-6c1b-4fb0-830b-9b5704b0e810",
+      "title": "The Fanatic",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-fanatic",
+      "has_reactions": false
+    },
+    {
+      "id": "e29a4d41-ca27-467d-9249-ead3ac53303d",
+      "title": "The Poison Rose",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-poison-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "c30d6e12-8531-4176-b0cb-fd2c34e4cf24",
+      "title": "Die Hart",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "die-hart",
+      "has_reactions": false
+    },
+    {
+      "id": "03626448-7d06-46a4-a3bf-f63e14ce3457",
+      "title": "Hot Potato: The Story of The Wiggles",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hot-potato-the-story-of-the-wiggles",
+      "has_reactions": false
+    },
+    {
+      "id": "eb9184a6-7085-4225-81be-e292f2cd2d84",
+      "title": "Mob Land",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mob-land",
+      "has_reactions": false
+    },
+    {
+      "id": "2b1677ae-bcbb-426a-ad6a-7350ee6b2154",
+      "title": "The Shepherd",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-shepherd",
+      "has_reactions": false
+    },
+    {
+      "id": "e41018e8-11f8-48da-857d-75f91b491058",
+      "title": "Cash Out",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "cash-out",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c927f9-f9c0-45c9-9af2-7bab0f6df719",
+      "title": "High Rollers",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "high-rollers",
+      "has_reactions": false
+    }
+  ]
+}

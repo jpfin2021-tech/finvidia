@@ -1,0 +1,504 @@
+{
+  "id": "91846e48-3b9f-4c3f-9425-75ae09ba61c8",
+  "name": "Angela Bassett",
+  "slug": "angela-bassett",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tKnuviliyeKNGlo26IU5gIrJAtd.jpg",
+  "filmography": [
+    {
+      "id": "a7605492-e138-4141-82a0-f5528b39ea67",
+      "title": "Doubletake",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "doubletake",
+      "has_reactions": false
+    },
+    {
+      "id": "9994d3ea-58ea-4405-acc0-5aa19721bf2a",
+      "title": "Perry Mason: The Case of the Silenced Singer",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "perry-mason-the-case-of-the-silenced-singer",
+      "has_reactions": false
+    },
+    {
+      "id": "f95c0c32-0aba-4802-878c-c91ad5f580df",
+      "title": "Kindergarten Cop",
+      "release_year": 1990,
+      "studio_label": "Universal Pictures",
+      "slug": "kindergarten-cop",
+      "has_reactions": true
+    },
+    {
+      "id": "febd1ff0-e9f9-429d-ac2d-1aff3c4f4509",
+      "title": "Boyz n the Hood",
+      "release_year": 1991,
+      "studio_label": "Columbia Pictures",
+      "slug": "boyz-n-the-hood",
+      "has_reactions": true
+    },
+    {
+      "id": "b671e864-ed67-4e85-8dba-991b920d30f7",
+      "title": "The Heroes of Desert Storm",
+      "release_year": 1991,
+      "studio_label": "ABC",
+      "slug": "the-heroes-of-desert-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "26bf68d4-71e8-4783-a72e-10bbc4d0d7f9",
+      "title": "Locked Up: A Mother\u2019s Rage",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "locked-up-a-mother-s-rage",
+      "has_reactions": false
+    },
+    {
+      "id": "584d28d8-2596-4fc4-a10e-95ac9ad8c554",
+      "title": "Line of Fire: The Morris Dees Story",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "line-of-fire-the-morris-dees-story",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c561e9-83a8-4a21-ad0b-acf212b3ec90",
+      "title": "Malcolm X",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "malcolm-x",
+      "has_reactions": true
+    },
+    {
+      "id": "e17ebddf-da67-4a41-95e7-6eb38b89b345",
+      "title": "Innocent Blood",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "innocent-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "d76d86f9-74c8-43d5-a636-ec6c31f4ae5f",
+      "title": "Critters 4",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "critters-4",
+      "has_reactions": false
+    },
+    {
+      "id": "5705bce6-c4bd-411f-8a28-b4f5c4d7f5ae",
+      "title": "What's Love Got to Do with It",
+      "release_year": 1993,
+      "studio_label": "Touchstone Pictures",
+      "slug": "what-s-love-got-to-do-with-it",
+      "has_reactions": true
+    },
+    {
+      "id": "befa5b26-de82-4814-8c06-0aed4def375b",
+      "title": "Vampire in Brooklyn",
+      "release_year": 1995,
+      "studio_label": "Paramount Pictures",
+      "slug": "vampire-in-brooklyn",
+      "has_reactions": true
+    },
+    {
+      "id": "7bb51b81-7ec4-49fb-8d4f-693d43c3b5e2",
+      "title": "Waiting to Exhale",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "waiting-to-exhale",
+      "has_reactions": true
+    },
+    {
+      "id": "e60aa8b2-0c98-4c2c-842d-58ff3e8a8f67",
+      "title": "Strange Days",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "strange-days",
+      "has_reactions": false
+    },
+    {
+      "id": "a5db55ff-aef6-4d25-ae76-6262b668e69a",
+      "title": "Contact",
+      "release_year": 1997,
+      "studio_label": "South Side Amusement Company",
+      "slug": "contact",
+      "has_reactions": true
+    },
+    {
+      "id": "098d8b9e-0989-48a9-9a29-38a9d137b1a8",
+      "title": "Our Friend, Martin",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "our-friend-martin",
+      "has_reactions": false
+    },
+    {
+      "id": "fe681a2a-988d-4f7c-bc36-a8de74b3fa86",
+      "title": "Supernova",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "supernova",
+      "has_reactions": false
+    },
+    {
+      "id": "f39f4f2a-d466-438c-ae15-928ad283d286",
+      "title": "Whispers: An Elephant's Tale",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "whispers-an-elephant-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "05319343-85f2-467b-8a8e-dd0a5f406793",
+      "title": "The Score",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-score",
+      "has_reactions": false
+    },
+    {
+      "id": "f90a0723-7557-4bc0-b736-3626e2cc2178",
+      "title": "The Rosa Parks Story",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-rosa-parks-story",
+      "has_reactions": false
+    },
+    {
+      "id": "332ae593-3e16-49e0-874b-a660793881bf",
+      "title": "Sunshine State",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sunshine-state",
+      "has_reactions": false
+    },
+    {
+      "id": "80181ca4-0e18-45a7-82c8-7dc888d9f479",
+      "title": "Unchained Memories: Readings from the Slave Narratives",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "unchained-memories-readings-from-the-slave-narratives",
+      "has_reactions": false
+    },
+    {
+      "id": "334e5e4f-ab19-4e3a-8a1e-7118e826038c",
+      "title": "Mr. 3000",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mr-3000",
+      "has_reactions": false
+    },
+    {
+      "id": "368a0386-1fa9-45d3-9ceb-e7756fa4bad5",
+      "title": "Mr. & Mrs. Smith",
+      "release_year": 2005,
+      "studio_label": "Regency Enterprises",
+      "slug": "mr-mrs-smith",
+      "has_reactions": true
+    },
+    {
+      "id": "64e0e1e8-75c8-408a-b879-b1561449f3bf",
+      "title": "Akeelah and the Bee",
+      "release_year": 2006,
+      "studio_label": "Lions Gate Films",
+      "slug": "akeelah-and-the-bee",
+      "has_reactions": true
+    },
+    {
+      "id": "8ea1fd13-508b-4bc3-8016-0e62117bd369",
+      "title": "Time Bomb",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "time-bomb",
+      "has_reactions": false
+    },
+    {
+      "id": "d6ab6aee-f4cc-4d98-ba17-dda13f71c548",
+      "title": "Meet the Robinsons",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "meet-the-robinsons",
+      "has_reactions": false
+    },
+    {
+      "id": "655dc4b2-644f-4c4c-8161-0c32c43c7a9a",
+      "title": "Meet the Browns",
+      "release_year": 2008,
+      "studio_label": "Tyler Perry Studios",
+      "slug": "meet-the-browns",
+      "has_reactions": true
+    },
+    {
+      "id": "00170cf1-024a-4f40-bf0b-da56e94f3a8c",
+      "title": "Of Boys and Men",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "of-boys-and-men",
+      "has_reactions": false
+    },
+    {
+      "id": "fdd0a338-b369-44e8-8b6d-8d16b350cd9e",
+      "title": "Why We Laugh: Black Comedians on Black Comedy",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "why-we-laugh-black-comedians-on-black-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "0ea5e9a3-58a5-48dd-abe0-6bd259bdc087",
+      "title": "Notorious",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "notorious",
+      "has_reactions": false
+    },
+    {
+      "id": "f265312e-a940-4def-bdc5-d3ae6c2abdb9",
+      "title": "Jumping the Broom",
+      "release_year": 2011,
+      "studio_label": "TriStar Pictures",
+      "slug": "jumping-the-broom",
+      "has_reactions": true
+    },
+    {
+      "id": "46ecc54d-8578-4fe4-aff5-344574eed99d",
+      "title": "Green Lantern",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "green-lantern",
+      "has_reactions": false
+    },
+    {
+      "id": "2abafc72-e4a2-4823-824f-751ff398b108",
+      "title": "Black Nativity",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "black-nativity",
+      "has_reactions": false
+    },
+    {
+      "id": "e79eac5c-5f97-4268-b473-95870e018dcf",
+      "title": "Olympus Has Fallen",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "olympus-has-fallen",
+      "has_reactions": false
+    },
+    {
+      "id": "9db9a840-a3cc-46ef-8b8e-d75ac2a7f3cf",
+      "title": "Betty and Coretta",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "betty-and-coretta",
+      "has_reactions": false
+    },
+    {
+      "id": "95491835-b3b4-43e7-a7c1-ffb006c59fd2",
+      "title": "White Bird in a Blizzard",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "white-bird-in-a-blizzard",
+      "has_reactions": false
+    },
+    {
+      "id": "56a11ae4-5366-4703-af51-31fe262a8013",
+      "title": "We the People: From Crispus Attucks to President Barack Obama",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "we-the-people-from-crispus-attucks-to-president-barack-obama",
+      "has_reactions": false
+    },
+    {
+      "id": "2175db77-20fe-4360-9198-55262165cd8d",
+      "title": "Curious George 3: Back to the Jungle",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "curious-george-3-back-to-the-jungle",
+      "has_reactions": false
+    },
+    {
+      "id": "77e372d8-75a2-4343-96b7-59ff2a55cfde",
+      "title": "London Has Fallen",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "london-has-fallen",
+      "has_reactions": false
+    },
+    {
+      "id": "c3f5a2a0-548b-4cb0-b406-6022ba3160e4",
+      "title": "National Museum of African American History and Culture Grand Opening Ceremony",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "national-museum-of-african-american-history-and-culture-grand-opening-ceremony",
+      "has_reactions": false
+    },
+    {
+      "id": "e2e0a915-76d5-490d-b1f7-13f6929dc924",
+      "title": "Mission: Impossible - Fallout",
+      "release_year": 2018,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-fallout",
+      "has_reactions": false
+    },
+    {
+      "id": "f2154efb-bdec-4caf-b936-d866988d789a",
+      "title": "Bumblebee",
+      "release_year": 2018,
+      "studio_label": "Paramount Pictures",
+      "slug": "bumblebee",
+      "has_reactions": true
+    },
+    {
+      "id": "b367c8f4-8138-46d6-a777-2f4efb4a5fa4",
+      "title": "The Flood",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-flood",
+      "has_reactions": false
+    },
+    {
+      "id": "cb1a396c-6147-41d2-9d5b-ea26605e902f",
+      "title": "Black Panther",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "black-panther",
+      "has_reactions": true
+    },
+    {
+      "id": "ea693548-9e50-4455-8d15-f1435a4045d1",
+      "title": "The Apollo",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-apollo",
+      "has_reactions": false
+    },
+    {
+      "id": "b632cc99-87f5-4ae1-8622-9e06ae296bf8",
+      "title": "Otherhood",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "otherhood",
+      "has_reactions": false
+    },
+    {
+      "id": "d9002057-e449-47e4-aa9b-c6244dcfcf55",
+      "title": "Avengers: Endgame",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-endgame",
+      "has_reactions": true
+    },
+    {
+      "id": "0037fad6-b4e1-4511-962d-a34c20e665f0",
+      "title": "Soul",
+      "release_year": 2020,
+      "studio_label": "Pixar",
+      "slug": "soul",
+      "has_reactions": true
+    },
+    {
+      "id": "a3266495-a2d8-42a7-91aa-8bde750d26a6",
+      "title": "Attorneys At Love",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "attorneys-at-love",
+      "has_reactions": false
+    },
+    {
+      "id": "cb491d3e-301c-4fa7-9cdb-53e1846dd9ce",
+      "title": "Malika the Lion Queen",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "malika-the-lion-queen",
+      "has_reactions": false
+    },
+    {
+      "id": "3c7db5fb-c01a-4c26-80cc-128ee6cb7830",
+      "title": "Gunpowder Milkshake",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "gunpowder-milkshake",
+      "has_reactions": false
+    },
+    {
+      "id": "7d2584f8-b735-4d50-83f1-6ceed0ead018",
+      "title": "Black Panther: Wakanda Forever",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "black-panther-wakanda-forever",
+      "has_reactions": true
+    },
+    {
+      "id": "7f73f5a2-a906-4d69-aebd-fa9cacf2555a",
+      "title": "Wendell & Wild",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "wendell-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "cc9a52a7-7257-4fcc-bde5-8f443eaa4bb7",
+      "title": "Good Night Oppy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "good-night-oppy",
+      "has_reactions": false
+    },
+    {
+      "id": "f4ac8438-0322-48a6-ac96-9e09ee07ce2a",
+      "title": "The Metropolitan Opera: The Life and Times of Malcolm X",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-metropolitan-opera-the-life-and-times-of-malcolm-x",
+      "has_reactions": false
+    },
+    {
+      "id": "238eeaf2-1d77-4cc3-83da-17f203fb6c4a",
+      "title": "OWN Spotlight: Oprah & Angela Bassett",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "own-spotlight-oprah-angela-bassett",
+      "has_reactions": false
+    },
+    {
+      "id": "fbf91117-81d6-4602-a416-7e432bd07a57",
+      "title": "Orion and the Dark",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "orion-and-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "007639df-bf6f-49e3-b785-801d63ca85db",
+      "title": "Damsel",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "damsel",
+      "has_reactions": false
+    },
+    {
+      "id": "8db3d623-cbcf-4902-8508-12d726b5017f",
+      "title": "Inside the Dream: Mugler",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "inside-the-dream-mugler",
+      "has_reactions": false
+    },
+    {
+      "id": "d832815c-9e91-473d-8f81-278b8e698979",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "release_year": 2025,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-the-final-reckoning",
+      "has_reactions": true
+    },
+    {
+      "id": "2e6efe1f-8864-4e95-bd22-ed60e8710fdb",
+      "title": "Making Mission: Impossible - A 10 News First Special",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "making-mission-impossible-a-10-news-first-special",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a182ce94-1471-4717-b2c2-df9a9ca60d27",
+  "name": "Alicia Vikander",
+  "slug": "alicia-vikander",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg",
+  "filmography": [
+    {
+      "id": "77c761c6-49ed-4de5-beb7-3f9737dc7674",
+      "title": "Ex Machina",
+      "release_year": 2015,
+      "studio_label": "DNA Films",
+      "slug": "ex-machina",
+      "has_reactions": true
+    },
+    {
+      "id": "3adba2b5-17a4-4745-9253-07b53366101e",
+      "title": "The Man from U.N.C.L.E.",
+      "release_year": 2015,
+      "studio_label": "Wigram Productions",
+      "slug": "the-man-from-u-n-c-l-e",
+      "has_reactions": true
+    },
+    {
+      "id": "5416aea8-9070-4e58-947b-061bdb485eba",
+      "title": "Jason Bourne",
+      "release_year": 2016,
+      "studio_label": "The Kennedy/Marshall Company",
+      "slug": "jason-bourne",
+      "has_reactions": true
+    },
+    {
+      "id": "0c3a8598-7558-44b3-a37e-09293c45334f",
+      "title": "Tomb Raider",
+      "release_year": 2018,
+      "studio_label": "Square Enix",
+      "slug": "tomb-raider",
+      "has_reactions": false
+    }
+  ]
+}

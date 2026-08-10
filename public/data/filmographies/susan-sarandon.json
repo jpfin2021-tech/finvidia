@@ -1,0 +1,616 @@
+{
+  "id": "8457091e-0deb-45c7-87bd-dcdcbc5375ed",
+  "name": "Susan Sarandon",
+  "slug": "susan-sarandon",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg",
+  "filmography": [
+    {
+      "id": "3672edb5-a4ec-4f10-8120-91e5c6135533",
+      "title": "Joe",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "joe",
+      "has_reactions": false
+    },
+    {
+      "id": "fc990d96-14e7-4902-a722-b6109ba115cd",
+      "title": "The Apprentice",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-apprentice",
+      "has_reactions": false
+    },
+    {
+      "id": "6138800b-acb0-49b0-a96d-70383a7ce60d",
+      "title": "Lady Liberty",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "lady-liberty",
+      "has_reactions": false
+    },
+    {
+      "id": "9f41e547-cc3d-48fe-abed-be5c76b25d9e",
+      "title": "The Rimers of Eldritch",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-rimers-of-eldritch",
+      "has_reactions": false
+    },
+    {
+      "id": "f11cb120-b70e-4d5d-8dd5-a442f57e3b25",
+      "title": "The Haunting of Rosalind",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-haunting-of-rosalind",
+      "has_reactions": false
+    },
+    {
+      "id": "354af062-f65c-4a87-92c2-052723ed1414",
+      "title": "The Front Page",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-front-page",
+      "has_reactions": false
+    },
+    {
+      "id": "e7071099-e7bc-4885-b757-23ca333b0b3e",
+      "title": "Lovin' Molly",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "lovin-molly",
+      "has_reactions": false
+    },
+    {
+      "id": "bbe46a6e-e62a-4c29-b02d-584fe861219b",
+      "title": "The Rocky Horror Picture Show",
+      "release_year": 1975,
+      "studio_label": "20th Century Fox",
+      "slug": "the-rocky-horror-picture-show",
+      "has_reactions": true
+    },
+    {
+      "id": "ae116253-0633-45fd-a23c-b032945afd57",
+      "title": "Dragonfly",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "dragonfly",
+      "has_reactions": false
+    },
+    {
+      "id": "3b580356-1d02-4bd9-bdae-45b3e2a252c0",
+      "title": "The Other Side of Midnight",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-other-side-of-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "9081cacb-832c-46b4-84de-9285b091271f",
+      "title": "Checkered Flag or Crash",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "checkered-flag-or-crash",
+      "has_reactions": false
+    },
+    {
+      "id": "2a098f63-e1ab-4286-b75e-f3751951db06",
+      "title": "King of the Gypsies",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "king-of-the-gypsies",
+      "has_reactions": false
+    },
+    {
+      "id": "86d852ef-4fb4-4dc9-b715-2acafa3f548c",
+      "title": "The Great Smokey Roadblock",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-great-smokey-roadblock",
+      "has_reactions": false
+    },
+    {
+      "id": "0611b654-559c-44c2-8e80-0153850d429a",
+      "title": "Pretty Baby",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "pretty-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "34ef676b-43f1-45ee-b773-688494a9fa86",
+      "title": "Something Short of Paradise",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "something-short-of-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "3ce94b11-d8ca-4d5f-a379-feeea7fc2b42",
+      "title": "Atlantic City",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "atlantic-city",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b61c99-6128-40c2-b8ec-8d42b3c3276b",
+      "title": "Loving Couples",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "loving-couples",
+      "has_reactions": false
+    },
+    {
+      "id": "53ab51a5-6284-4be3-89f3-44b7edd5a24c",
+      "title": "Tempest",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "tempest",
+      "has_reactions": false
+    },
+    {
+      "id": "142be077-3dfd-4b6e-8e1c-91d52d706698",
+      "title": "Who Am I This Time?",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "who-am-i-this-time",
+      "has_reactions": false
+    },
+    {
+      "id": "82ea5d35-eaf9-405a-be9a-8a6f8e4d4354",
+      "title": "The Hunger",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-hunger",
+      "has_reactions": false
+    },
+    {
+      "id": "a2a0c93e-c541-429e-a555-8fe3cb2c2fc4",
+      "title": "The Buddy System",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-buddy-system",
+      "has_reactions": false
+    },
+    {
+      "id": "2a32b87a-a14a-4912-b435-a20773e8259b",
+      "title": "Women of Valor",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "women-of-valor",
+      "has_reactions": false
+    },
+    {
+      "id": "a725eb1c-c543-4e7e-a593-c0a38bd7977e",
+      "title": "The Witches of Eastwick",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-witches-of-eastwick",
+      "has_reactions": false
+    },
+    {
+      "id": "97c9e7fc-d09f-45ba-a131-ab88e790d4ec",
+      "title": "Bull Durham",
+      "release_year": 1988,
+      "studio_label": "The Mount Company",
+      "slug": "bull-durham",
+      "has_reactions": true
+    },
+    {
+      "id": "e03d941d-cd32-4557-bb56-107c2fb7b397",
+      "title": "Sweet Hearts Dance",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "sweet-hearts-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "7b7af1b4-da17-4b1a-bfc9-1fb8f2430a6d",
+      "title": "White Palace",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "white-palace",
+      "has_reactions": false
+    },
+    {
+      "id": "ec14179b-c9fe-4c0b-9aa1-03af8b31f444",
+      "title": "Thelma & Louise",
+      "release_year": 1991,
+      "studio_label": "Scott Free Productions",
+      "slug": "thelma-louise",
+      "has_reactions": true
+    },
+    {
+      "id": "1e5d5565-35c9-4531-a532-ce5a1a90d75c",
+      "title": "Lorenzo's Oil",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "lorenzo-s-oil",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "70d9c963-b452-42bf-8d3e-193a7f4f2708",
+      "title": "Wilderness: The Last Stand",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "wilderness-the-last-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "5ea2655d-19d6-464f-a594-221010c9d023",
+      "title": "Safe Passage",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "safe-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "4baf3daa-25cf-4895-ae9a-3efd3a891f53",
+      "title": "Little Women",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "little-women",
+      "has_reactions": false
+    },
+    {
+      "id": "b023fd30-9848-45f5-b83e-5cef2ccbafa7",
+      "title": "School of Assassins",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "school-of-assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "5e4cb544-0142-43c3-b1de-db610d36869d",
+      "title": "Dead Man Walking",
+      "release_year": 1995,
+      "studio_label": "Havoc",
+      "slug": "dead-man-walking",
+      "has_reactions": false
+    },
+    {
+      "id": "3e051fd3-22b0-42b7-997d-7719f95600e1",
+      "title": "Stepmom",
+      "release_year": 1998,
+      "studio_label": "1492 Pictures",
+      "slug": "stepmom",
+      "has_reactions": true
+    },
+    {
+      "id": "e4190730-5d3d-499a-80a4-f1b188e44901",
+      "title": "Illuminata",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "illuminata",
+      "has_reactions": false
+    },
+    {
+      "id": "342a1412-d228-4bde-ae88-29d3afd1c73b",
+      "title": "Anywhere but Here",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "anywhere-but-here",
+      "has_reactions": false
+    },
+    {
+      "id": "d1d592ad-9078-4250-b7a6-5f9f7cce6af3",
+      "title": "This Is What Democracy Looks Like",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "this-is-what-democracy-looks-like",
+      "has_reactions": false
+    },
+    {
+      "id": "254d36a2-7799-4cae-bdbe-7d5d137a5146",
+      "title": "Rugrats in Paris: The Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rugrats-in-paris-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "266c1db0-8b87-40fd-8f12-04b5c652a503",
+      "title": "Joe Gould's Secret",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "joe-gould-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "09e9e596-4f70-4422-b47d-471f0692b3a0",
+      "title": "Rudyland",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "rudyland",
+      "has_reactions": false
+    },
+    {
+      "id": "121fe3fa-b511-46cf-9486-7b8c305f2a48",
+      "title": "Ghosts of Attica",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ghosts-of-attica",
+      "has_reactions": false
+    },
+    {
+      "id": "85a3013e-9f59-4372-8238-5be1f6329a2b",
+      "title": "Igby Goes Down",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "igby-goes-down",
+      "has_reactions": false
+    },
+    {
+      "id": "2b1b13f3-4b22-4896-9ed7-464cee1e5646",
+      "title": "The Banger Sisters",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-banger-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "e60b4b5a-6379-497e-ace4-882c05605162",
+      "title": "Ice Bound",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "ice-bound",
+      "has_reactions": false
+    },
+    {
+      "id": "43839fb6-6561-4467-a04b-f58ea0b18329",
+      "title": "The Nazi Officer's Wife",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-nazi-officer-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "572c9016-9469-4cf1-a77e-1205410e87e2",
+      "title": "Noel",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "noel",
+      "has_reactions": false
+    },
+    {
+      "id": "b39f155a-b72f-4416-abd4-4e574f8b0790",
+      "title": "Romance & Cigarettes",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "romance-cigarettes",
+      "has_reactions": false
+    },
+    {
+      "id": "58e6b2de-1d01-48b1-92ab-b891b7735d52",
+      "title": "The Peace!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-peace",
+      "has_reactions": false
+    },
+    {
+      "id": "23a0d2a0-56b4-4513-93c6-4409e52c088a",
+      "title": "The Exonerated",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-exonerated",
+      "has_reactions": false
+    },
+    {
+      "id": "b3dedf40-5d79-4470-b3d8-5e7dccc2278a",
+      "title": "Irresistible",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "irresistible",
+      "has_reactions": false
+    },
+    {
+      "id": "72be847b-e9f8-4ee2-9e36-2c677828f945",
+      "title": "Bernard and Doris",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bernard-and-doris",
+      "has_reactions": false
+    },
+    {
+      "id": "6c9a5963-cc90-4988-a74e-06be627527ae",
+      "title": "Enchanted",
+      "release_year": 2007,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "enchanted",
+      "has_reactions": true
+    },
+    {
+      "id": "e6361869-9068-4460-8be6-01fd250541b2",
+      "title": "Mr. Woodcock",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "mr-woodcock",
+      "has_reactions": false
+    },
+    {
+      "id": "417498a1-53af-412c-994a-d19294177bb4",
+      "title": "Speed Racer",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "speed-racer",
+      "has_reactions": true
+    },
+    {
+      "id": "8bd5c338-c905-4800-8101-bc489b539363",
+      "title": "Middle of Nowhere",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "middle-of-nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "6c601a21-0f74-4935-99ff-e25d8d410a65",
+      "title": "The Greatest",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-greatest",
+      "has_reactions": false
+    },
+    {
+      "id": "73fa3e00-ee49-4e70-b45d-8cb252276981",
+      "title": "Solitary Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "solitary-man",
+      "has_reactions": false
+    },
+    {
+      "id": "41dfada9-4b4b-4953-8020-db8c11a95a65",
+      "title": "The Lovely Bones",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-lovely-bones",
+      "has_reactions": false
+    },
+    {
+      "id": "07566180-3b25-438d-9593-8d7df420abe0",
+      "title": "A War in Hollywood",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-war-in-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "ed5c60ff-d5e2-433b-bc42-5cb04c685b2f",
+      "title": "Leaves of Grass",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "leaves-of-grass",
+      "has_reactions": false
+    },
+    {
+      "id": "44827aba-1fbc-4fd0-999d-758dc4cd02f4",
+      "title": "You Don't Know Jack",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "you-don-t-know-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "4eec52c2-7ab8-47d5-9ccd-f8ca66321fbf",
+      "title": "Fight for Your Right Revisited",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "fight-for-your-right-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "315ddb36-650e-4c0a-98db-4163bfd2aeec",
+      "title": "That's My Boy",
+      "release_year": 2012,
+      "studio_label": "Relativity Media",
+      "slug": "that-s-my-boy",
+      "has_reactions": true
+    },
+    {
+      "id": "689afb63-d16e-4f30-a381-787a6c294d93",
+      "title": "Jeff, Who Lives at Home",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jeff-who-lives-at-home",
+      "has_reactions": false
+    },
+    {
+      "id": "962875fd-ff99-4d80-838d-49ea15a40449",
+      "title": "How to Make Money Selling Drugs",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "how-to-make-money-selling-drugs",
+      "has_reactions": false
+    },
+    {
+      "id": "16022096-1218-451f-9342-9914dbb47422",
+      "title": "Nothing Like Chocolate",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "nothing-like-chocolate",
+      "has_reactions": false
+    },
+    {
+      "id": "e662f178-50fc-4fcc-aa77-3200893f7cc7",
+      "title": "The Last of Robin Hood",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-robin-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "bc42c383-84c7-4420-90bf-893a76d0ca71",
+      "title": "Ping Pong Summer",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ping-pong-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "e7e91726-b573-4922-8fcc-f936ee42e8ad",
+      "title": "Tammy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tammy",
+      "has_reactions": false
+    },
+    {
+      "id": "4e47f118-4f49-4489-aa00-8217697d408a",
+      "title": "Rocky Horror 45: The Movie",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rocky-horror-45-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e6c83d31-de38-4c6b-bb19-e4a4dd6e04f6",
+      "title": "Forty Winks",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "forty-winks",
+      "has_reactions": false
+    },
+    {
+      "id": "c5486153-9316-4a22-a7d9-9ece89838f69",
+      "title": "Blue Beetle",
+      "release_year": 2023,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "blue-beetle",
+      "has_reactions": true
+    },
+    {
+      "id": "051896cd-c647-4dec-afe4-f0a2f5eec156",
+      "title": "Healing US",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "healing-us",
+      "has_reactions": false
+    },
+    {
+      "id": "eb1adfda-f28b-4121-8c6c-8d542d80c610",
+      "title": "The Fabulous Four",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-fabulous-four",
+      "has_reactions": false
+    },
+    {
+      "id": "98bac614-c0e5-450a-8c2a-e1bb1fd70d6a",
+      "title": "Nonnas",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "nonnas",
+      "has_reactions": false
+    }
+  ]
+}

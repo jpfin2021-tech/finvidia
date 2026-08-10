@@ -1,0 +1,632 @@
+{
+  "id": "55a86b70-d8da-4ccd-bee2-fee3c47c4fa5",
+  "name": "John Savage",
+  "slug": "john-savage",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/exzL5D7RSnIepF9FsFlzCs248he.jpg",
+  "filmography": [
+    {
+      "id": "14e9a4ea-bdd8-4d15-a803-f1f8bb66d506",
+      "title": "Spychosis",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "spychosis",
+      "has_reactions": false
+    },
+    {
+      "id": "d4c7d6f6-9fb8-462e-9401-5ac709df9461",
+      "title": "Love Is a Carousel",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "love-is-a-carousel",
+      "has_reactions": false
+    },
+    {
+      "id": "033aa94e-b41f-4ce1-8da1-85f1d7081095",
+      "title": "All the Kind Strangers",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "all-the-kind-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "dcdb1c27-de4d-44ef-a420-f75711a6afe0",
+      "title": "The Killing Kind",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-killing-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "cddcdd6f-7a59-4344-b1ac-2fbc26ceecf7",
+      "title": "The Sister in Law",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-sister-in-law",
+      "has_reactions": false
+    },
+    {
+      "id": "cb01caca-5c97-4437-be8e-ffeca4dc5d94",
+      "title": "The Deer Hunter",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "the-deer-hunter",
+      "has_reactions": true
+    },
+    {
+      "id": "e6918e0e-2b43-46c2-afe9-6988a245f88a",
+      "title": "Hair",
+      "release_year": 1979,
+      "studio_label": "CIP Filmproduktion GmbH",
+      "slug": "hair",
+      "has_reactions": true
+    },
+    {
+      "id": "280778e3-8475-4775-8b3c-bb012860e6df",
+      "title": "Inside Moves",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "inside-moves",
+      "has_reactions": false
+    },
+    {
+      "id": "534a96ba-62f8-4840-a572-f96220427af2",
+      "title": "Brady\u2019s Escape",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "brady-s-escape",
+      "has_reactions": false
+    },
+    {
+      "id": "bcec5cda-7b43-404f-a66b-1c9fe66ffdc8",
+      "title": "Maria's Lovers",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "maria-s-lovers",
+      "has_reactions": false
+    },
+    {
+      "id": "5d0166a4-9920-431a-9136-8eb63f753ed9",
+      "title": "Nairobi Affair",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "nairobi-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "8230b3c1-5f19-4895-b0ab-d864bef3858d",
+      "title": "Salvador",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "salvador",
+      "has_reactions": false
+    },
+    {
+      "id": "590b0ad9-c977-4c67-8473-a7ef8d40237f",
+      "title": "Soldier's Revenge",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "soldier-s-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "c1b7260d-e3b9-41a2-9049-f5dd6eb1e6ad",
+      "title": "Beauty and the Beast",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "beauty-and-the-beast",
+      "has_reactions": false
+    },
+    {
+      "id": "d8965a3a-76fb-43c9-9f27-b721f8a4be3b",
+      "title": "Desperate",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "desperate",
+      "has_reactions": false
+    },
+    {
+      "id": "60f80423-4271-4059-adcd-e0dd44fce68a",
+      "title": "Caribe",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "caribe",
+      "has_reactions": false
+    },
+    {
+      "id": "7ef99e73-6564-49b9-b0a5-256f055af4ae",
+      "title": "The Godfather Part III",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-part-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "def5a8a1-fc18-4730-8b23-07a30259cc61",
+      "title": "Door Into Silence",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "door-into-silence",
+      "has_reactions": false
+    },
+    {
+      "id": "4743629d-3ade-4e06-ad2c-1654a42c582c",
+      "title": "Buck at the Edge of Heaven",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "buck-at-the-edge-of-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "5eb5d0ff-665c-4142-8e45-b013dcb4041a",
+      "title": "Hunting",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "hunting",
+      "has_reactions": false
+    },
+    {
+      "id": "0b712037-edb3-4f33-a23b-bb4a5027de37",
+      "title": "C.I.A. II: Target Alexa",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "c-i-a-ii-target-alexa",
+      "has_reactions": false
+    },
+    {
+      "id": "b27658ed-0033-46c2-ab7d-61074e27a1c9",
+      "title": "Flynn",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "flynn",
+      "has_reactions": false
+    },
+    {
+      "id": "5567be60-9051-49ce-a55b-5cbfb0907d2c",
+      "title": "Shattered Image",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "shattered-image",
+      "has_reactions": false
+    },
+    {
+      "id": "a9999152-82b5-4e6c-a2df-7ae58f775a71",
+      "title": "The Takeover",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-takeover",
+      "has_reactions": false
+    },
+    {
+      "id": "a6c094b6-e319-4bb2-8b1b-3706ffaf4f16",
+      "title": "The Crossing Guard",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-crossing-guard",
+      "has_reactions": false
+    },
+    {
+      "id": "6637524e-7d9e-4468-abc7-c04299054f40",
+      "title": "Carnosaur 2",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "carnosaur-2",
+      "has_reactions": false
+    },
+    {
+      "id": "584e97a9-236b-4bf8-b161-e1b791653074",
+      "title": "Managua",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "managua",
+      "has_reactions": false
+    },
+    {
+      "id": "8cfc838e-fdf5-47ae-8ae1-6d465fc8933c",
+      "title": "Where Truth Lies",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "where-truth-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "37414a96-ba7a-41be-8a8a-465eb0abf602",
+      "title": "Last Cut",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "last-cut",
+      "has_reactions": false
+    },
+    {
+      "id": "c47e0053-c886-4073-aeab-ae2153c3fda3",
+      "title": "Hollywood Safari",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "hollywood-safari",
+      "has_reactions": false
+    },
+    {
+      "id": "20af31a4-7490-4036-81ca-55f8becbbf10",
+      "title": "The Thin Red Line",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-thin-red-line",
+      "has_reactions": false
+    },
+    {
+      "id": "99f9832f-a747-40e1-832d-72fafb8801a9",
+      "title": "Club Vampire",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "club-vampire",
+      "has_reactions": false
+    },
+    {
+      "id": "a0548391-84c3-41d3-9e85-5313ae09bc92",
+      "title": "Frontline",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "frontline",
+      "has_reactions": false
+    },
+    {
+      "id": "7a8b28a5-59e9-4eb2-b0a9-1fa55fa3b719",
+      "title": "Christina's House",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "christina-s-house",
+      "has_reactions": false
+    },
+    {
+      "id": "78a5013d-b5d9-4e80-aae9-5b5a70054fd8",
+      "title": "They Nest",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "they-nest",
+      "has_reactions": false
+    },
+    {
+      "id": "f727ef0e-fc31-4551-b944-4e5fd175dc35",
+      "title": "The Virginian",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-virginian",
+      "has_reactions": false
+    },
+    {
+      "id": "f192ef33-da19-482a-801a-6018bfef3156",
+      "title": "Burning Down the House",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "burning-down-the-house",
+      "has_reactions": false
+    },
+    {
+      "id": "3b8f729c-c9c6-45df-a1d6-936788501ca2",
+      "title": "The Anarchist Cookbook",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-anarchist-cookbook",
+      "has_reactions": false
+    },
+    {
+      "id": "53ae48ba-bd60-42c4-8702-d031e75878e1",
+      "title": "Rosy-Fingered Dawn: A Film on Terrence Malick",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "rosy-fingered-dawn-a-film-on-terrence-malick",
+      "has_reactions": false
+    },
+    {
+      "id": "6453999d-0854-4be2-b09a-9580c0cff051",
+      "title": "Easy Sex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "easy-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "9aed1604-8a29-49b2-a560-e2658bc7b26a",
+      "title": "Intoxicating",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "intoxicating",
+      "has_reactions": false
+    },
+    {
+      "id": "c80da5f6-e6ff-4e15-ac82-249542e4f3a1",
+      "title": "Admissions",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "admissions",
+      "has_reactions": false
+    },
+    {
+      "id": "4f7d8216-9cf6-4fde-b936-3f229da37148",
+      "title": "Freedom from Despair",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "freedom-from-despair",
+      "has_reactions": false
+    },
+    {
+      "id": "76504ab0-ace2-4bcc-a4ed-cba21161c667",
+      "title": "Downtown: A Street Tale",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "downtown-a-street-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "e00c5337-f1d4-4c52-a714-6c73bf006f6d",
+      "title": "Alien Lockdown",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "alien-lockdown",
+      "has_reactions": false
+    },
+    {
+      "id": "fa84a4b5-d151-46e8-8db7-cc88fa392ed6",
+      "title": "Confessions of a Pit Fighter",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "confessions-of-a-pit-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "f043e24e-d95f-4020-b8f7-f59dc031eb6d",
+      "title": "Iowa",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "iowa",
+      "has_reactions": false
+    },
+    {
+      "id": "7a77eed0-68eb-4e11-a7ae-8c179ba39568",
+      "title": "The New World",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-new-world",
+      "has_reactions": false
+    },
+    {
+      "id": "f009d270-2d75-4199-a2dd-8e0724cb8c0b",
+      "title": "The Attic",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-attic",
+      "has_reactions": false
+    },
+    {
+      "id": "36d6b901-40a8-47a5-b99c-37e6428b473e",
+      "title": "The Drop",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-drop",
+      "has_reactions": false
+    },
+    {
+      "id": "5cabd523-4d34-4b58-9e8e-8f087ce823ac",
+      "title": "Kill Your Darlings",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "kill-your-darlings",
+      "has_reactions": false
+    },
+    {
+      "id": "99d35c80-f518-4fed-b70b-72eb247b7fe5",
+      "title": "The Coverup",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-coverup",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a46177-2b44-4904-8305-bbab334c68da",
+      "title": "From a Place of Darkness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "from-a-place-of-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "b0d5168b-2597-4e0a-8a54-eb4ef12e3048",
+      "title": "Boiler Maker",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "boiler-maker",
+      "has_reactions": false
+    },
+    {
+      "id": "417c573f-e7b8-48b2-b688-a15d905b8193",
+      "title": "American Bully",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "american-bully",
+      "has_reactions": false
+    },
+    {
+      "id": "facc4dff-3552-483d-b56a-311c6273ad17",
+      "title": "Buffalo Bushido",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "buffalo-bushido",
+      "has_reactions": false
+    },
+    {
+      "id": "0bbaba80-ad68-4d79-a914-83581f4e3228",
+      "title": "Dreamkiller",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dreamkiller",
+      "has_reactions": false
+    },
+    {
+      "id": "779fec22-0e80-4d45-9fb9-301005f39457",
+      "title": "Bed & Breakfast",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bed-breakfast",
+      "has_reactions": false
+    },
+    {
+      "id": "95bf490f-ae6f-4f01-8507-37938ed81056",
+      "title": "Bereavement",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bereavement",
+      "has_reactions": false
+    },
+    {
+      "id": "1613fb2a-d2b5-4a60-bfbc-2a0e75b98fc0",
+      "title": "The Orphan Killer",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-orphan-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "8b5a5850-37b6-4280-a80a-22dd2c8b2bba",
+      "title": "Hit List",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hit-list",
+      "has_reactions": false
+    },
+    {
+      "id": "339040ef-5bea-462d-a900-c145bb0c0317",
+      "title": "Assassins' Code",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "assassins-code",
+      "has_reactions": false
+    },
+    {
+      "id": "6b866492-994c-4e0d-98b3-a05303d72a1b",
+      "title": "Sweetwater",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sweetwater",
+      "has_reactions": false
+    },
+    {
+      "id": "b212b145-1b19-40fa-9334-9f50b456a064",
+      "title": "Awakened",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "awakened",
+      "has_reactions": false
+    },
+    {
+      "id": "3f75a849-e6cb-4d6a-b33d-c872fbd04163",
+      "title": "A Sierra Nevada Gunfight",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-sierra-nevada-gunfight",
+      "has_reactions": false
+    },
+    {
+      "id": "d2d6ddc1-4c46-4194-87f0-9512596fb853",
+      "title": "Defending Santa",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "defending-santa",
+      "has_reactions": false
+    },
+    {
+      "id": "e441a9cc-692e-47d6-9fe6-afc9076d8971",
+      "title": "Bullet",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bullet",
+      "has_reactions": false
+    },
+    {
+      "id": "ba0587c6-7538-4972-9278-b2ed5801d87e",
+      "title": "Demon Legacy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "demon-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "3dcbca1f-ec35-4415-a4b8-72848a79a477",
+      "title": "Fake News",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "fake-news",
+      "has_reactions": false
+    },
+    {
+      "id": "cac54d19-5dff-45e8-92ab-415ab4d677d6",
+      "title": "Nephilim",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "nephilim",
+      "has_reactions": false
+    },
+    {
+      "id": "0af9b83d-9685-439f-b763-dee0c547a155",
+      "title": "Torch",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "torch",
+      "has_reactions": false
+    },
+    {
+      "id": "1d7b5fb7-d582-47b7-b0c0-901aefbb075d",
+      "title": "Spinning Dry",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "spinning-dry",
+      "has_reactions": false
+    },
+    {
+      "id": "6bdbdfa0-1608-4b75-9084-2a0011e39c94",
+      "title": "Ovid and the Art of Love",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "ovid-and-the-art-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "08d157f1-bdb1-43f6-a52b-f3771a1832bc",
+      "title": "The Right to Bear Arms",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-right-to-bear-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "41155a0f-ac4f-4b18-b51d-07556a0d1535",
+      "title": "A Cloud So High",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "a-cloud-so-high",
+      "has_reactions": false
+    },
+    {
+      "id": "2b38a95e-0607-45bc-b2a7-4f858d0a92c2",
+      "title": "Eye for Eye",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "eye-for-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "85ca95e6-e6f6-4e0c-ab7d-12b713bda8fb",
+      "title": "Showdown at the Grand",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "showdown-at-the-grand",
+      "has_reactions": false
+    },
+    {
+      "id": "f90c0599-2046-4d31-b3eb-0cb59e62b3cc",
+      "title": "The Goat",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-goat",
+      "has_reactions": false
+    }
+  ]
+}

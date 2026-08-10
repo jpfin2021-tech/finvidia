@@ -1,0 +1,536 @@
+{
+  "id": "c594ebed-dbe8-415e-aaa1-c1e9e4ea3496",
+  "name": "Danny Trejo",
+  "slug": "danny-trejo",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg",
+  "filmography": [
+    {
+      "id": "cc0f4188-dcd6-464e-81f0-eb44616e4da6",
+      "title": "Detour 95",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "detour-95",
+      "has_reactions": false
+    },
+    {
+      "id": "65a3517c-0147-4daa-b9d3-8d0f926d9588",
+      "title": "Death Wish 4: The Crackdown",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "death-wish-4-the-crackdown",
+      "has_reactions": false
+    },
+    {
+      "id": "d57c82d1-7b9c-46db-94c4-c3d03132ddf2",
+      "title": "Lock Up",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "lock-up",
+      "has_reactions": false
+    },
+    {
+      "id": "2b686c5e-eb32-4311-884f-29f05731b411",
+      "title": "Guns",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "guns",
+      "has_reactions": false
+    },
+    {
+      "id": "5be13b2f-c3ea-49ba-90ad-c4df44152823",
+      "title": "Whore",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "whore",
+      "has_reactions": false
+    },
+    {
+      "id": "98d6b378-a262-46bc-8c25-691297fb1105",
+      "title": "Femme Fatale",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "femme-fatale",
+      "has_reactions": false
+    },
+    {
+      "id": "3e506fd4-280a-4e8e-bc71-4f4520d35026",
+      "title": "Last Light",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "last-light",
+      "has_reactions": false
+    },
+    {
+      "id": "af866130-8ba5-49f4-9447-1fa00e8e9632",
+      "title": "Criminal Passion",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "criminal-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "87c97f61-41ea-40b9-a022-36a9f44be9b1",
+      "title": "Heat",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "heat",
+      "has_reactions": true
+    },
+    {
+      "id": "7a3c6b18-fff3-494e-bae9-15ec2882190a",
+      "title": "Desperado",
+      "release_year": 1995,
+      "studio_label": "Columbia Pictures",
+      "slug": "desperado",
+      "has_reactions": true
+    },
+    {
+      "id": "0c37150c-2dab-4e15-bc47-97c4df264f38",
+      "title": "The Stranger",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "91281682-ee6c-4b07-a02e-f2799c1ff6ac",
+      "title": "From Dusk Till Dawn",
+      "release_year": 1996,
+      "studio_label": "Los Hooligans Productions",
+      "slug": "from-dusk-till-dawn",
+      "has_reactions": true
+    },
+    {
+      "id": "035cd533-cfa1-4dd9-bc35-35c8f311408e",
+      "title": "Jaguar",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jaguar",
+      "has_reactions": false
+    },
+    {
+      "id": "1348b110-d6f9-4b82-b271-c8c4c7e79e64",
+      "title": "Anaconda",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "9aac9984-f03f-4739-8699-33c78d2d38d1",
+      "title": "Con Air",
+      "release_year": 1997,
+      "studio_label": "Touchstone Pictures",
+      "slug": "con-air",
+      "has_reactions": true
+    },
+    {
+      "id": "eb4a7ce5-07b6-45fe-9ce4-68f639f7c6d5",
+      "title": "Champions",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "champions",
+      "has_reactions": false
+    },
+    {
+      "id": "5935bfd9-7ce1-40ac-bd22-bd101c88efab",
+      "title": "From Dusk Till Dawn 2: Texas Blood Money",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "from-dusk-till-dawn-2-texas-blood-money",
+      "has_reactions": false
+    },
+    {
+      "id": "64a87b0d-94e2-4079-b120-9a3aa4b9094c",
+      "title": "Inferno",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "inferno",
+      "has_reactions": false
+    },
+    {
+      "id": "a1d5937e-6ab6-4462-b738-b6c14e1fe5fa",
+      "title": "From Dusk Till Dawn 3: The Hangman's Daughter",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "from-dusk-till-dawn-3-the-hangman-s-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "179f08f3-b12c-43a5-9308-6c12ad46091f",
+      "title": "Reindeer Games",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "reindeer-games",
+      "has_reactions": false
+    },
+    {
+      "id": "9f632505-6f7d-45ce-9eca-f2c02cabef55",
+      "title": "Animal Factory",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "animal-factory",
+      "has_reactions": false
+    },
+    {
+      "id": "81dc053d-4def-4f8a-96c0-1ba630978a09",
+      "title": "Spy Kids",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "spy-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "cbd84b31-4f04-4ee1-bfad-886f7af437b5",
+      "title": "Beat the Devil",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "beat-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "7999118a-edef-4b63-97cc-f868f4b90160",
+      "title": "Spy Kids 2: The Island of Lost Dreams",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-2-the-island-of-lost-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "57bc20f7-2fa5-45af-9e67-03289e874e51",
+      "title": "Nightstalker",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "nightstalker",
+      "has_reactions": false
+    },
+    {
+      "id": "89e4bfe3-dca3-4cee-b08c-cb9e8241f057",
+      "title": "Spy Kids 3-D: Game Over",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-3-d-game-over",
+      "has_reactions": false
+    },
+    {
+      "id": "bb55ac59-bc13-4e41-a56f-9086204abb4a",
+      "title": "Once Upon a Time in Mexico",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3a4b80-7ccf-4282-8d97-b92f69d0460b",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "anchorman-the-legend-of-ron-burgundy",
+      "has_reactions": true
+    },
+    {
+      "id": "d8646952-4313-4f26-8ae0-b07cd0cf499f",
+      "title": "7 Mummies",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "7-mummies",
+      "has_reactions": false
+    },
+    {
+      "id": "265158db-4d9b-48f5-9398-b8af694e0094",
+      "title": "High Hopes",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "high-hopes",
+      "has_reactions": false
+    },
+    {
+      "id": "1254074d-ade6-43a5-8785-93a646c949a2",
+      "title": "Snoop Dogg's Hood of Horror",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "snoop-dogg-s-hood-of-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "77cf13ad-5a03-4c98-b2e2-58e565d05d10",
+      "title": "Halloween",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "82e4d3b4-7f01-4f89-8672-6ef2b669eea5",
+      "title": "Furnace",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "furnace",
+      "has_reactions": false
+    },
+    {
+      "id": "55703d1f-609c-4857-a683-7dee1a600d31",
+      "title": "Urban Justice",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "urban-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "094d7a40-6df5-45a8-a522-b37a2ff8c7ba",
+      "title": "Alone in the Dark 2",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "alone-in-the-dark-2",
+      "has_reactions": false
+    },
+    {
+      "id": "45148f5e-b670-4acf-8136-0cfd40a4a259",
+      "title": "Toxic",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "toxic",
+      "has_reactions": false
+    },
+    {
+      "id": "9d2aea10-ba21-45e1-8ce5-6b339e978c9a",
+      "title": "The Boys of Ghost Town",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-boys-of-ghost-town",
+      "has_reactions": false
+    },
+    {
+      "id": "8369d26f-5280-440e-8e1c-566ebebbfec1",
+      "title": "Babysitters Beware",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "babysitters-beware",
+      "has_reactions": false
+    },
+    {
+      "id": "479a7067-f6e8-429c-b2d1-130cdb652ee8",
+      "title": "The Line",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-line",
+      "has_reactions": false
+    },
+    {
+      "id": "1ec564d0-50fe-452e-aced-634b2f11cf30",
+      "title": "The Grind",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-grind",
+      "has_reactions": false
+    },
+    {
+      "id": "2fb4c11f-db2c-4f04-b0e0-37f7c37a483b",
+      "title": "Official Rejection",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "official-rejection",
+      "has_reactions": false
+    },
+    {
+      "id": "7ba01d9c-007b-47b4-a379-d99f364103c4",
+      "title": "Predators",
+      "release_year": 2010,
+      "studio_label": "Davis Entertainment",
+      "slug": "predators",
+      "has_reactions": true
+    },
+    {
+      "id": "36496aa0-eb61-4011-8b3d-3afaab62779c",
+      "title": "Death Race 2",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "death-race-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0fe3399e-99c0-4eef-bd51-624f223aaf34",
+      "title": "The Killing Jar",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-killing-jar",
+      "has_reactions": false
+    },
+    {
+      "id": "19d1a870-0f21-4189-9d7d-75a2ca714ddf",
+      "title": "Shoot the Hero",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "shoot-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "651d88e3-cf33-40ce-bad0-f0307c5abb77",
+      "title": "Justin Time",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "justin-time",
+      "has_reactions": false
+    },
+    {
+      "id": "648dc1b2-2caf-48ee-bc3c-a7ecfab8d66c",
+      "title": "The Bill Collector",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-bill-collector",
+      "has_reactions": false
+    },
+    {
+      "id": "c00a8ae7-2c2e-4efb-a043-40ff22389b15",
+      "title": "Beatdown",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "beatdown",
+      "has_reactions": false
+    },
+    {
+      "id": "1069873e-3017-484d-aa08-5ddf16ff59b4",
+      "title": "Machete",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "machete",
+      "has_reactions": false
+    },
+    {
+      "id": "5595908d-d402-4e61-b0eb-aa82256b67d3",
+      "title": "The Lazarus Papers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-lazarus-papers",
+      "has_reactions": false
+    },
+    {
+      "id": "5f6dd641-fc43-4a3b-b26a-4ca33c85e43a",
+      "title": "Poolboy: Drowning Out the Fury",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "poolboy-drowning-out-the-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "8f255fde-2455-42da-91b4-06ed984b4eba",
+      "title": "House of the Rising Sun",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "house-of-the-rising-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "2db06761-be71-4d97-839b-6918a5fae581",
+      "title": "Spy Kids: All the Time in the World",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-all-the-time-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "9b4f5b44-3286-42ea-9450-f5cae526b241",
+      "title": "Sushi Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "068510b1-3c12-43f1-95c6-6f8833ece12b",
+      "title": "Recoil",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "recoil",
+      "has_reactions": false
+    },
+    {
+      "id": "8283cb0b-6da5-49f9-8de5-75d511248381",
+      "title": "The Cloth",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-cloth",
+      "has_reactions": false
+    },
+    {
+      "id": "ae363e52-a7f8-4576-bd1e-8b94d7bdc25c",
+      "title": "Bad Ass",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-ass",
+      "has_reactions": false
+    },
+    {
+      "id": "69bc36a0-ad76-4b27-bc04-25718ca3d04a",
+      "title": "Teenage Mutant Ninja Turtles: Renegade Rampage",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-renegade-rampage",
+      "has_reactions": false
+    },
+    {
+      "id": "5a3f65fc-ea34-449b-b67e-ac8f215e8b81",
+      "title": "Comedy Chingonas",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "comedy-chingonas",
+      "has_reactions": false
+    },
+    {
+      "id": "e870aba8-8354-4a0f-8ca5-3b4cf8e179c5",
+      "title": "The Black Hole",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-black-hole",
+      "has_reactions": false
+    },
+    {
+      "id": "014fbcf9-3914-4f96-950a-39bc5c43c0b3",
+      "title": "Caroltyn",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "caroltyn",
+      "has_reactions": false
+    },
+    {
+      "id": "8f4f4216-c01d-428a-90c2-397167659317",
+      "title": "VampFather",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "vampfather",
+      "has_reactions": false
+    },
+    {
+      "id": "45681314-a2b8-41a1-8092-0ab6dca87baf",
+      "title": "Esc\u00e1ndalo Secreto En Plena Cuarentena",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "esc-ndalo-secreto-en-plena-cuarentena",
+      "has_reactions": false
+    },
+    {
+      "id": "8f6de80f-888d-4af8-b95c-db864b55f5a3",
+      "title": "The Dream Americano",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-dream-americano",
+      "has_reactions": false
+    },
+    {
+      "id": "cc308355-18f1-44b3-9e02-22f4197f4994",
+      "title": "Hunting Games",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hunting-games",
+      "has_reactions": false
+    },
+    {
+      "id": "cfd22b19-fa04-4877-b965-084ec919432e",
+      "title": "American Warrior",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "american-warrior",
+      "has_reactions": false
+    }
+  ]
+}

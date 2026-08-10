@@ -1,0 +1,32 @@
+{
+  "id": "d998cd92-a16c-4892-8f0f-5e7b85ccfebf",
+  "name": "Emil Minty",
+  "slug": "emil-minty",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wVLyCjPVIMv93aUFiRXIfMrAWR5.jpg",
+  "filmography": [
+    {
+      "id": "58d912ee-226b-48b5-ab21-2fb9ecca8f19",
+      "title": "Mad Max 2",
+      "release_year": 1981,
+      "studio_label": "Kennedy Miller Productions",
+      "slug": "mad-max-2",
+      "has_reactions": true
+    },
+    {
+      "id": "a752ab38-5088-4ec8-8073-347b19226cfd",
+      "title": "The Winds of Jarrah",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-winds-of-jarrah",
+      "has_reactions": false
+    },
+    {
+      "id": "c90bcd67-06ce-45d8-974a-8229a7dc43c2",
+      "title": "Touch the Sun: Peter & Pompey",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "touch-the-sun-peter-pompey",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "id": "895192b1-6cb1-41d0-a120-23d54d304878",
+  "name": "Bruce Greenwood",
+  "slug": "bruce-greenwood",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/AmfylDaijUHq8cHMq002xfkW7Vk.jpg",
+  "filmography": [
+    {
+      "id": "e05c7d3a-7bfa-4d2c-bea2-0a7a4f6ac0f0",
+      "title": "Terra Infirma",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "terra-infirma",
+      "has_reactions": false
+    },
+    {
+      "id": "faf2094b-61a8-4013-98f3-439952624e38",
+      "title": "Bear Island",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "bear-island",
+      "has_reactions": false
+    },
+    {
+      "id": "0018ca44-3428-441f-9e3e-6094477097b3",
+      "title": "First Blood",
+      "release_year": 1982,
+      "studio_label": "Carolco Pictures",
+      "slug": "first-blood",
+      "has_reactions": true
+    },
+    {
+      "id": "2ae9c18f-dfe7-4b18-832c-d7bac559b650",
+      "title": "Striker's Mountain",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "striker-s-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "1be89d85-43e9-4241-99db-c9a6ce4bc7d1",
+      "title": "The Malibu Bikini Shop",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-malibu-bikini-shop",
+      "has_reactions": false
+    },
+    {
+      "id": "9204ef02-d186-4493-9d16-620018374cd4",
+      "title": "The Climb",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-climb",
+      "has_reactions": false
+    },
+    {
+      "id": "013a5fda-f755-46b3-80d5-3ff9887dcbc9",
+      "title": "Another Chance",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "another-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "e9670357-adb2-4b3d-bbc8-5b9597599430",
+      "title": "Spy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "spy",
+      "has_reactions": false
+    },
+    {
+      "id": "511e4fe2-7517-4cb9-b5b2-2afcee3b22f1",
+      "title": "Perry Mason: The Case of the All-Star Assassin",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "perry-mason-the-case-of-the-all-star-assassin",
+      "has_reactions": false
+    },
+    {
+      "id": "c6d1e488-6889-4204-8650-f16656657eb4",
+      "title": "Wild Orchid",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "wild-orchid",
+      "has_reactions": false
+    },
+    {
+      "id": "4d321d53-9c50-405b-8f81-ae1c8e6078c8",
+      "title": "The Little Kidnappers",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-little-kidnappers",
+      "has_reactions": false
+    },
+    {
+      "id": "82851971-61f6-4a32-b99c-fdc6fb19ca22",
+      "title": "Summer Dreams: The Story of The Beach Boys",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "summer-dreams-the-story-of-the-beach-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "f3309781-7954-4942-b99c-7ac5891fa490",
+      "title": "The Great Pretender",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-great-pretender",
+      "has_reactions": false
+    },
+    {
+      "id": "36dbab46-0926-4346-9c23-ee8c101be21d",
+      "title": "Servants of Twilight",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "servants-of-twilight",
+      "has_reactions": false
+    },
+    {
+      "id": "a8ecde99-8467-47ea-8fbc-63978d4c2d86",
+      "title": "Passenger 57",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "passenger-57",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c0df74-ee2e-4bb7-b856-2a1d0694122e",
+      "title": "Adrift",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "adrift",
+      "has_reactions": false
+    },
+    {
+      "id": "87a8b41b-4892-4b77-aee6-357123ee1c67",
+      "title": "Rio Diablo",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "rio-diablo",
+      "has_reactions": false
+    },
+    {
+      "id": "5777e6b1-c912-41f4-9262-16b1d3661b9a",
+      "title": "Woman on Trial: The Lawrencia Bembenek Story",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "woman-on-trial-the-lawrencia-bembenek-story",
+      "has_reactions": false
+    },
+    {
+      "id": "57c66eee-db19-40aa-9ab5-260cd38a3481",
+      "title": "Treacherous Beauties",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "treacherous-beauties",
+      "has_reactions": false
+    },
+    {
+      "id": "c046c4f6-0e92-44d1-a428-6f70a5971dd3",
+      "title": "Bitter Vengeance",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "bitter-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "4ecaabd1-f450-442c-9b4a-6f5a49a9b449",
+      "title": "Paint Cans",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "paint-cans",
+      "has_reactions": false
+    },
+    {
+      "id": "9aacb96a-3425-417d-8f0d-34254ecee989",
+      "title": "The Companion",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-companion",
+      "has_reactions": false
+    },
+    {
+      "id": "5a7cc899-4ee9-4843-b18c-785fbbcc9745",
+      "title": "Heart of a Child",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "heart-of-a-child",
+      "has_reactions": false
+    },
+    {
+      "id": "21cbd736-d993-492d-a4ad-e1adf01b3bda",
+      "title": "Exotica",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "exotica",
+      "has_reactions": false
+    },
+    {
+      "id": "6a7accfc-4cb2-4d5e-ba75-bd050957140d",
+      "title": "Mixed Blessings",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mixed-blessings",
+      "has_reactions": false
+    },
+    {
+      "id": "9cc08927-251c-4b4f-9ce4-b0e1c349c538",
+      "title": "Dream Man",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dream-man",
+      "has_reactions": false
+    },
+    {
+      "id": "67af4358-e70c-4908-ba39-0d00842eef36",
+      "title": "Dazzle",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dazzle",
+      "has_reactions": false
+    },
+    {
+      "id": "7fa9e6e5-c3bf-4ccb-9d55-0162a9831e2d",
+      "title": "Naomi & Wynonna: Love Can Build a Bridge",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "naomi-wynonna-love-can-build-a-bridge",
+      "has_reactions": false
+    },
+    {
+      "id": "255ff051-3878-4fa2-93a6-e790e9e18af9",
+      "title": "Tell Me No Secrets",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "tell-me-no-secrets",
+      "has_reactions": false
+    },
+    {
+      "id": "4a4b30bb-445e-4374-a23c-922fe21172c5",
+      "title": "The Sweet Hereafter",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-sweet-hereafter",
+      "has_reactions": false
+    },
+    {
+      "id": "e4a8fc84-ad0d-4cc5-b4d9-7d7e831a7cda",
+      "title": "Fathers' Day",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "fathers-day",
+      "has_reactions": false
+    },
+    {
+      "id": "53a8c95e-3a38-47a5-9986-9b93342846cd",
+      "title": "Double Jeopardy",
+      "release_year": 1999,
+      "studio_label": "Paramount Pictures",
+      "slug": "double-jeopardy",
+      "has_reactions": true
+    },
+    {
+      "id": "1dcad842-9913-4176-8439-aa35208c8e2d",
+      "title": "The Color of Courage",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-color-of-courage",
+      "has_reactions": false
+    },
+    {
+      "id": "46cc6e28-3be1-4a56-98d9-66f87b5717af",
+      "title": "The Soul Collector",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-soul-collector",
+      "has_reactions": false
+    },
+    {
+      "id": "26cd024c-a858-4188-845c-92eaff383058",
+      "title": "The Lost Son",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-lost-son",
+      "has_reactions": false
+    },
+    {
+      "id": "813e3787-e02d-47c8-8439-08dd98d9432c",
+      "title": "Thirteen Days",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "thirteen-days",
+      "has_reactions": true
+    },
+    {
+      "id": "15d50900-742f-4f75-ad46-885007a38578",
+      "title": "Hide and Seek",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "hide-and-seek",
+      "has_reactions": false
+    },
+    {
+      "id": "5b9d3ba8-4d52-4b3a-9d29-96ebf76683c2",
+      "title": "Swept Away",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "swept-away",
+      "has_reactions": false
+    },
+    {
+      "id": "032e4867-1c82-41c1-a41f-469d2d807a70",
+      "title": "Below",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "below",
+      "has_reactions": false
+    },
+    {
+      "id": "6822d570-225d-4c28-bc2b-810ac0f38f98",
+      "title": "Hollywood Homicide",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hollywood-homicide",
+      "has_reactions": false
+    },
+    {
+      "id": "e48a8eee-7251-4e27-bd6e-913728ea92b5",
+      "title": "The Core",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-core",
+      "has_reactions": false
+    },
+    {
+      "id": "c0a08cf9-31d2-43d0-b6e9-fc080936622b",
+      "title": "I, Robot",
+      "release_year": 2004,
+      "studio_label": "Davis Entertainment",
+      "slug": "i-robot",
+      "has_reactions": true
+    },
+    {
+      "id": "7d36e8f0-68e7-46bb-833f-1db6504eefb6",
+      "title": "The Life",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-life",
+      "has_reactions": false
+    },
+    {
+      "id": "34e4bc86-9ffa-40f7-939f-10196476aed3",
+      "title": "Being Julia",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "being-julia",
+      "has_reactions": false
+    },
+    {
+      "id": "4b0581c1-48de-410c-a171-5229052cda88",
+      "title": "American Meltdown",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "american-meltdown",
+      "has_reactions": false
+    },
+    {
+      "id": "6561a44a-6238-4c57-8b2d-4e4bdc60e83e",
+      "title": "The Riverman",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-riverman",
+      "has_reactions": false
+    },
+    {
+      "id": "6f26aa46-62a9-42a7-97fd-528504a92146",
+      "title": "Mee-Shee: The Water Giant",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mee-shee-the-water-giant",
+      "has_reactions": false
+    },
+    {
+      "id": "52d1d591-651c-4637-ba00-b4d597f2e50e",
+      "title": "D\u00e9j\u00e0 Vu",
+      "release_year": 2006,
+      "studio_label": "Touchstone Pictures",
+      "slug": "d-j-vu",
+      "has_reactions": true
+    },
+    {
+      "id": "ec602b32-5a30-4c97-a98b-97d76cab2688",
+      "title": "The Mermaid Chair",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-mermaid-chair",
+      "has_reactions": false
+    },
+    {
+      "id": "79f02ef2-1208-4674-8b57-53af4bef19ad",
+      "title": "Eight Below",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "eight-below",
+      "has_reactions": false
+    },
+    {
+      "id": "b5d0f45f-9fba-464e-a1fe-826eb993e9f7",
+      "title": "National Treasure: Book of Secrets",
+      "release_year": 2007,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "national-treasure-book-of-secrets",
+      "has_reactions": true
+    },
+    {
+      "id": "d38b9285-a8ea-4d98-b53c-184f1b764041",
+      "title": "Firehouse Dog",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "firehouse-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "35eea2d7-c888-4999-ab45-1ce6911bb079",
+      "title": "Cyborg Soldier",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cyborg-soldier",
+      "has_reactions": false
+    },
+    {
+      "id": "1229a8b8-6223-4636-8324-e7859db7d344",
+      "title": "Star Trek",
+      "release_year": 2009,
+      "studio_label": "Paramount Pictures",
+      "slug": "star-trek",
+      "has_reactions": true
+    },
+    {
+      "id": "558f471f-dfc2-49a0-a7d4-be06ccbc590f",
+      "title": "Mao\u2019s Last Dancer",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "mao-s-last-dancer",
+      "has_reactions": false
+    },
+    {
+      "id": "fcbbf62b-d2df-40ab-9051-773377e00129",
+      "title": "A Dog Named Christmas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-dog-named-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "bf063125-7895-4be6-9f58-6148dbd4a3e5",
+      "title": "Batman: Under the Red Hood",
+      "release_year": 2010,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-under-the-red-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "b99167cc-110f-4927-b387-a8deb61d10ee",
+      "title": "The Captains of The Final Frontier",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-captains-of-the-final-frontier",
+      "has_reactions": false
+    },
+    {
+      "id": "85044ea5-2dba-4cd0-a124-43c63bbba062",
+      "title": "Hitler's Stealth Fighter",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hitler-s-stealth-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "eb284036-9d53-4a63-9f30-f2d255167335",
+      "title": "Donovan's Echo",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "donovan-s-echo",
+      "has_reactions": false
+    },
+    {
+      "id": "2343f7bc-78ad-49e7-8200-2f6ac0da748a",
+      "title": "Meek's Cutoff",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "meek-s-cutoff",
+      "has_reactions": false
+    },
+    {
+      "id": "561a899f-3841-42a4-b282-a90f53e10d5b",
+      "title": "Super 8",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "super-8",
+      "has_reactions": true
+    },
+    {
+      "id": "568c04e4-f0d1-4d73-94b9-761cfa6301df",
+      "title": "Flight",
+      "release_year": 2012,
+      "studio_label": "Paramount Pictures",
+      "slug": "flight",
+      "has_reactions": true
+    },
+    {
+      "id": "fb33d78c-fd98-48c3-8fbc-d915b0b68012",
+      "title": "Star Trek Into Darkness",
+      "release_year": 2013,
+      "studio_label": "Bad Robot",
+      "slug": "star-trek-into-darkness",
+      "has_reactions": true
+    },
+    {
+      "id": "63da710a-7c17-4f43-afe6-8f77ed3f40a8",
+      "title": "Devil's Knot",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "devil-s-knot",
+      "has_reactions": false
+    },
+    {
+      "id": "4729dcd9-6f24-4ef3-9480-03f99422b081",
+      "title": "And Now a Word from Our Sponsor",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "and-now-a-word-from-our-sponsor",
+      "has_reactions": false
+    },
+    {
+      "id": "cf4b37ac-d2a8-49f3-9bc4-4373dabbcd1d",
+      "title": "The Place Beyond the Pines",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-place-beyond-the-pines",
+      "has_reactions": false
+    },
+    {
+      "id": "b389767c-b8f0-4edb-879b-d777d7653219",
+      "title": "Endless Love",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "endless-love",
+      "has_reactions": false
+    },
+    {
+      "id": "529cf093-0f5d-4624-8423-bc998399aaaa",
+      "title": "The Captive",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-captive",
+      "has_reactions": false
+    },
+    {
+      "id": "aa2f4f7d-4977-476f-a4f2-af37daffa582",
+      "title": "Elephant Song",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "elephant-song",
+      "has_reactions": false
+    },
+    {
+      "id": "6e1b3eb1-e6cd-4dfe-8f65-843cd830055a",
+      "title": "Wildlike",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "wildlike",
+      "has_reactions": false
+    },
+    {
+      "id": "0d18f993-d59c-4fcc-beac-e8fbfa5e8511",
+      "title": "Truth",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "truth",
+      "has_reactions": false
+    },
+    {
+      "id": "6b7c15e5-a0d8-4754-8f58-b24ac8f2b3d7",
+      "title": "Good Kill",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "good-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "e9663375-06e8-4e18-9b6a-81fdd3ff7f8f",
+      "title": "Bob's Broken Sleigh",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bob-s-broken-sleigh",
+      "has_reactions": false
+    },
+    {
+      "id": "f0923bef-7e85-4945-8cef-82e4774224b7",
+      "title": "Spectral",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "spectral",
+      "has_reactions": false
+    },
+    {
+      "id": "649ad2a1-928e-4e18-87ed-545bb634b710",
+      "title": "Gold",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "gold",
+      "has_reactions": false
+    },
+    {
+      "id": "7ff78815-b6bd-40a1-ab8b-b2cf1a89e93d",
+      "title": "Gerald's Game",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "gerald-s-game",
+      "has_reactions": false
+    },
+    {
+      "id": "3ba59dfe-8642-4757-b22c-bb1242971f21",
+      "title": "Kodachrome",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "kodachrome",
+      "has_reactions": false
+    },
+    {
+      "id": "aea7e16e-7484-47c3-abc1-76e1163b0947",
+      "title": "Dirty Dancing",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "dirty-dancing",
+      "has_reactions": false
+    },
+    {
+      "id": "cd2c657b-6c6a-40df-8b80-9d9fed12b99d",
+      "title": "What Ever Happened to Jonny Faith",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "what-ever-happened-to-jonny-faith",
+      "has_reactions": false
+    },
+    {
+      "id": "eb1adfda-f28b-4121-8c6c-8d542d80c610",
+      "title": "The Fabulous Four",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-fabulous-four",
+      "has_reactions": false
+    }
+  ]
+}

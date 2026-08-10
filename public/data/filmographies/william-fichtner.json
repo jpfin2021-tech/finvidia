@@ -1,0 +1,384 @@
+{
+  "id": "ac875e31-d350-4235-bfb5-058ffbbf4584",
+  "name": "William Fichtner",
+  "slug": "william-fichtner",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg",
+  "filmography": [
+    {
+      "id": "0975d249-1fda-47cc-a812-b2a19f5cf050",
+      "title": "That's Amore!",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "that-s-amore",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c561e9-83a8-4a21-ad0b-acf212b3ec90",
+      "title": "Malcolm X",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "malcolm-x",
+      "has_reactions": true
+    },
+    {
+      "id": "b549786b-35b6-4960-b22c-ee69c20608ed",
+      "title": "Quiz Show",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "quiz-show",
+      "has_reactions": false
+    },
+    {
+      "id": "87c97f61-41ea-40b9-a022-36a9f44be9b1",
+      "title": "Heat",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "heat",
+      "has_reactions": true
+    },
+    {
+      "id": "4d645512-1c62-43fa-a363-ce746d0f1d7d",
+      "title": "The Underneath",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-underneath",
+      "has_reactions": false
+    },
+    {
+      "id": "e60aa8b2-0c98-4c2c-842d-58ff3e8a8f67",
+      "title": "Strange Days",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "strange-days",
+      "has_reactions": false
+    },
+    {
+      "id": "a772c00f-b4fb-4177-8396-f1b4775d5692",
+      "title": "A Father for Charlie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "a-father-for-charlie",
+      "has_reactions": false
+    },
+    {
+      "id": "a5db55ff-aef6-4d25-ae76-6262b668e69a",
+      "title": "Contact",
+      "release_year": 1997,
+      "studio_label": "South Side Amusement Company",
+      "slug": "contact",
+      "has_reactions": true
+    },
+    {
+      "id": "7ba50316-524a-43c4-b1bd-4f49627de7ce",
+      "title": "Albino Alligator",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "albino-alligator",
+      "has_reactions": false
+    },
+    {
+      "id": "be0b85ce-445b-4966-89a4-8b720d319d6c",
+      "title": "Switchback",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "switchback",
+      "has_reactions": false
+    },
+    {
+      "id": "4bbe5b7c-b0ee-44ee-8cd3-603369346084",
+      "title": "Armageddon",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "armageddon",
+      "has_reactions": true
+    },
+    {
+      "id": "79989eed-feb0-450e-a8d7-30f7d9a97ab5",
+      "title": "Go",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "go",
+      "has_reactions": false
+    },
+    {
+      "id": "2a43021a-c12d-4798-bcd1-f37e469fef97",
+      "title": "The Perfect Storm",
+      "release_year": 2000,
+      "studio_label": "Radiant Productions",
+      "slug": "the-perfect-storm",
+      "has_reactions": true
+    },
+    {
+      "id": "55449213-36a4-4b7b-a20d-f632bc3a6ca0",
+      "title": "Drowning Mona",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "drowning-mona",
+      "has_reactions": false
+    },
+    {
+      "id": "a74d63a2-526e-4ac7-b71a-cc8248ec9752",
+      "title": "Endsville",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "endsville",
+      "has_reactions": false
+    },
+    {
+      "id": "9b2eb3e6-0b42-412a-b495-a09bda7f306b",
+      "title": "Black Hawk Down",
+      "release_year": 2001,
+      "studio_label": "Jerry Bruckheimer Films",
+      "slug": "black-hawk-down",
+      "has_reactions": true
+    },
+    {
+      "id": "ae7b900b-f3bd-40dd-8b90-7753afb4f023",
+      "title": "Pearl Harbor",
+      "release_year": 2001,
+      "studio_label": "Touchstone Pictures",
+      "slug": "pearl-harbor",
+      "has_reactions": true
+    },
+    {
+      "id": "f24f16d5-d77e-4162-bfe8-e8e1303e6402",
+      "title": "Equilibrium",
+      "release_year": 2002,
+      "studio_label": "Dimension Films",
+      "slug": "equilibrium",
+      "has_reactions": true
+    },
+    {
+      "id": "378721df-e372-40f8-8c4c-1f85195e82c1",
+      "title": "What\u2019s the Worst That Could Happen: Scene Stealers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "what-s-the-worst-that-could-happen-scene-stealers",
+      "has_reactions": false
+    },
+    {
+      "id": "d7c43e75-5f83-45b7-9392-5d0079ca6e5f",
+      "title": "Grand Theft Auto: San Andreas - The Introduction",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "grand-theft-auto-san-andreas-the-introduction",
+      "has_reactions": false
+    },
+    {
+      "id": "e7c4a189-7394-4246-98ec-4cb0566f8c11",
+      "title": "The Longest Yard",
+      "release_year": 2005,
+      "studio_label": "Callahan Filmworks",
+      "slug": "the-longest-yard",
+      "has_reactions": true
+    },
+    {
+      "id": "7cb3d50f-ba2e-48f9-9bb6-17c69cf4dab3",
+      "title": "Crash",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "crash",
+      "has_reactions": false
+    },
+    {
+      "id": "6930c6af-f30b-43b2-9c66-ce9f41572f86",
+      "title": "The Chumscrubber",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-chumscrubber",
+      "has_reactions": false
+    },
+    {
+      "id": "368a0386-1fa9-45d3-9ceb-e7756fa4bad5",
+      "title": "Mr. & Mrs. Smith",
+      "release_year": 2005,
+      "studio_label": "Regency Enterprises",
+      "slug": "mr-mrs-smith",
+      "has_reactions": true
+    },
+    {
+      "id": "5844a4da-c065-427a-b1be-5f8821bd5eea",
+      "title": "First Snow",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "first-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "7ae5f9f0-f23b-49e6-a744-6905a94afe3d",
+      "title": "UV Protection: The Making of 'Ultraviolet'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "uv-protection-the-making-of-ultraviolet",
+      "has_reactions": false
+    },
+    {
+      "id": "618e2218-4f26-40cd-a4f0-9af267f2ff29",
+      "title": "Blades of Glory",
+      "release_year": 2007,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "blades-of-glory",
+      "has_reactions": true
+    },
+    {
+      "id": "f32498da-33ee-43a9-8335-96c0eb2926f8",
+      "title": "The Dark Knight",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-dark-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "8729be7a-4cc8-4094-8afb-668a79342d28",
+      "title": "Date Night",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "date-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c06191e5-6709-4fcb-9efe-f997e4eeba67",
+      "title": "The Big Bang",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-big-bang",
+      "has_reactions": false
+    },
+    {
+      "id": "5d9ed408-6766-42cf-9df7-b546d8143a04",
+      "title": "Drive Angry",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "drive-angry",
+      "has_reactions": false
+    },
+    {
+      "id": "59c4c736-3598-4896-801c-4e4a99be2eac",
+      "title": "Elysium",
+      "release_year": 2013,
+      "studio_label": "TriStar Pictures",
+      "slug": "elysium",
+      "has_reactions": true
+    },
+    {
+      "id": "4302338d-90d0-4fdd-ad1a-a47e848f1a9f",
+      "title": "Phantom",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "phantom",
+      "has_reactions": false
+    },
+    {
+      "id": "48782046-4bf4-4c4f-b228-6410ea69f3ff",
+      "title": "Teenage Mutant Ninja Turtles",
+      "release_year": 2014,
+      "studio_label": "Platinum Dunes",
+      "slug": "teenage-mutant-ninja-turtles",
+      "has_reactions": true
+    },
+    {
+      "id": "b57b2893-4535-4e7d-b19e-6a1dced3c7c7",
+      "title": "Independence Day: Resurgence",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "independence-day-resurgence",
+      "has_reactions": false
+    },
+    {
+      "id": "dae32123-a1f0-4bbd-877e-fc34099ac752",
+      "title": "Another Day: The Making of 'Independence Day: Resurgence'",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "another-day-the-making-of-independence-day-resurgence",
+      "has_reactions": false
+    },
+    {
+      "id": "2a9afb2d-5450-446d-977e-1ed0d05398be",
+      "title": "American Wrestler: The Wizard",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "american-wrestler-the-wizard",
+      "has_reactions": false
+    },
+    {
+      "id": "f54daf91-d371-4c94-809c-fef63da00bdc",
+      "title": "Krystal",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "krystal",
+      "has_reactions": false
+    },
+    {
+      "id": "f382ad5b-3bd1-449f-8a2c-111616d628fc",
+      "title": "Hot Summer Nights",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "hot-summer-nights",
+      "has_reactions": false
+    },
+    {
+      "id": "24851665-c14c-42a0-9b1a-64f985131859",
+      "title": "12 Strong",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "12-strong",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2941bf-941e-4066-93d5-a81c60be83bb",
+      "title": "O.G.",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "o-g",
+      "has_reactions": false
+    },
+    {
+      "id": "1427d419-bed0-431c-a7a8-c563db821e87",
+      "title": "Finding Steve McQueen",
+      "release_year": 2019,
+      "studio_label": "AMBI Group",
+      "slug": "finding-steve-mcqueen",
+      "has_reactions": false
+    },
+    {
+      "id": "9b740b39-2e64-49e9-945b-17b177dabdd0",
+      "title": "The Neighbor",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-neighbor",
+      "has_reactions": false
+    },
+    {
+      "id": "4ab448de-f835-4d17-aa94-cda5c45e6c0b",
+      "title": "Hypnotic",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hypnotic",
+      "has_reactions": false
+    },
+    {
+      "id": "7c045c0a-73b6-4866-a290-9c25916149da",
+      "title": "The Sound",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-sound",
+      "has_reactions": false
+    },
+    {
+      "id": "9fcc46ff-2b7a-4491-9869-9975d209ac74",
+      "title": "The Plastic Men",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-plastic-men",
+      "has_reactions": false
+    },
+    {
+      "id": "0564e37e-1f96-4724-9f02-ee4a00fb36d7",
+      "title": "The Outer Threat",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-outer-threat",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "id": "51e840ea-9fc7-41b1-b7c1-0a53f8032b9e",
+  "name": "George Stover",
+  "slug": "george-stover",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/dW8VgTfTJHLcdXTbRRwvQqrewcw.jpg",
+  "filmography": [
+    {
+      "id": "058d70c2-5ba2-4465-aba5-8a2f456529a5",
+      "title": "Fantastic Tales of Mayhem and Magic",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "fantastic-tales-of-mayhem-and-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "13c98377-6b59-4319-9dd4-39b42aee053e",
+      "title": "Female Trouble",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "female-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "27c2aa63-abed-49b5-bdc2-4535ce188857",
+      "title": "Hairspray",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "hairspray",
+      "has_reactions": false
+    },
+    {
+      "id": "5b1f32b5-6251-4838-83ce-91ad88b30ed9",
+      "title": "Dracula's Widow",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "dracula-s-widow",
+      "has_reactions": false
+    },
+    {
+      "id": "b84a0a2f-51a4-4e76-a0e2-18686ad88b8c",
+      "title": "Do You Like Women?",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "do-you-like-women",
+      "has_reactions": false
+    },
+    {
+      "id": "d9dc0575-ebe4-4b1c-83bc-79df0b3bbc91",
+      "title": "Invader",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "invader",
+      "has_reactions": false
+    },
+    {
+      "id": "413502be-d871-425e-96c4-25612f9dd254",
+      "title": "The Regenerated Man",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-regenerated-man",
+      "has_reactions": false
+    },
+    {
+      "id": "7c629532-2aad-4dcd-80b7-f4d9ea344d12",
+      "title": "Conrad Brooks vs. the Werewolf",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "conrad-brooks-vs-the-werewolf",
+      "has_reactions": false
+    },
+    {
+      "id": "c4aff68a-66b3-4163-bfb5-4977dafcb5df",
+      "title": "Twilight of the Dogs",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "twilight-of-the-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "c9373366-36dc-4ed8-9cce-29d319c6956d",
+      "title": "Attack of the 60 Foot Centerfold",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "attack-of-the-60-foot-centerfold",
+      "has_reactions": false
+    },
+    {
+      "id": "7300f319-c0f4-4e37-acc1-3f8ef5275155",
+      "title": "Fighting Chance",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "fighting-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "4ca3f833-ee78-4100-a08b-30e47a053bb3",
+      "title": "Sleepy Hollow High",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sleepy-hollow-high",
+      "has_reactions": false
+    },
+    {
+      "id": "578fd7b2-daef-40fc-9dbd-7c47bbe94989",
+      "title": "Stakes",
+      "release_year": 2002,
+      "studio_label": "Timewarp Films",
+      "slug": "stakes",
+      "has_reactions": false
+    },
+    {
+      "id": "f2c630a4-5441-4a14-bd77-ffa9f17dc071",
+      "title": "Max Magician and the Legend of the Rings",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "max-magician-and-the-legend-of-the-rings",
+      "has_reactions": false
+    },
+    {
+      "id": "33d29394-2d0b-4a9c-a2b2-9bd248dd1e3a",
+      "title": "Terror in the Pharaoh's Tomb",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "terror-in-the-pharaoh-s-tomb",
+      "has_reactions": false
+    },
+    {
+      "id": "30284715-6a0d-473e-b27d-0cf2412e9022",
+      "title": "Grave Mistakes",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "grave-mistakes",
+      "has_reactions": false
+    },
+    {
+      "id": "eeb3f3b7-a72b-45ae-8e21-a82519d0e828",
+      "title": "Dust & Death",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dust-death",
+      "has_reactions": false
+    },
+    {
+      "id": "ee341fff-c25d-4057-82bd-cd6d5c6a41a0",
+      "title": "Faces of Schlock",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "faces-of-schlock",
+      "has_reactions": false
+    },
+    {
+      "id": "63d93dd5-da00-4449-bf27-072751d3a551",
+      "title": "President's Day",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "president-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "24cf4346-76cd-4033-a600-e6893afe0208",
+      "title": "Reptoids Walk Among Us!",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "reptoids-walk-among-us",
+      "has_reactions": false
+    },
+    {
+      "id": "9aeb85f1-55ed-46ce-82cd-c9675508f459",
+      "title": "Witch's Brew",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "witch-s-brew",
+      "has_reactions": false
+    },
+    {
+      "id": "807437ad-7cd9-4f98-969d-e02a8cb8c3d3",
+      "title": "Roulette",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "roulette",
+      "has_reactions": false
+    },
+    {
+      "id": "f54512fc-0553-45c1-af3a-b506445f5c52",
+      "title": "Dangerous Deception: Tales of the Fixer",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "dangerous-deception-tales-of-the-fixer",
+      "has_reactions": false
+    },
+    {
+      "id": "b90751ab-55cd-4365-aef5-d6fa75ecf578",
+      "title": "The Prophet of Oz",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-prophet-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "82b83d6f-b69a-43e4-a9c3-0c8e314f0f2f",
+      "title": "Rise and Fall... In Love",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "rise-and-fall-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "bc119c2d-c986-4431-84bf-42925aee9ddf",
+      "title": "Garden of Hedon",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "garden-of-hedon",
+      "has_reactions": false
+    },
+    {
+      "id": "0859f071-5f12-4793-a7f2-76cf7404d834",
+      "title": "The Bone Garden",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-bone-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "2be205f8-29ce-4fc2-a565-dc130b840955",
+      "title": "Ghoulish Tales",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ghoulish-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "72c7c2d9-974f-4918-8403-eb1a185d6326",
+      "title": "Sociopathia",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "sociopathia",
+      "has_reactions": false
+    },
+    {
+      "id": "3e57c2d1-9e0a-4b26-8136-e732275a93c2",
+      "title": "Ready For Action",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "ready-for-action",
+      "has_reactions": false
+    },
+    {
+      "id": "1b91d4d5-b698-40b1-a2d2-34350d332b03",
+      "title": "Adventures of Louanna Lee: The Movie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "adventures-of-louanna-lee-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "353ad624-ffbb-4e88-a5ba-f7f52e235392",
+      "title": "Milfs vs. Zombies",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "milfs-vs-zombies",
+      "has_reactions": false
+    },
+    {
+      "id": "f7da65bf-072f-4365-a27d-abeb414223c4",
+      "title": "Camp Blood 666",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "camp-blood-666",
+      "has_reactions": false
+    },
+    {
+      "id": "44986891-8f7c-4fe5-88b5-17a716485309",
+      "title": "Frames of Fear",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "frames-of-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "0ee7a4f7-ff57-487a-a2c0-7c5def911c0f",
+      "title": "No Stopping the Stover",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "no-stopping-the-stover",
+      "has_reactions": false
+    },
+    {
+      "id": "665a03b1-77c1-44a1-b4b4-7ebb22b7d30a",
+      "title": "Beyond the Wall of Fear",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-wall-of-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "da2275cd-06e7-4e69-822e-4e1e96d011f5",
+      "title": "Killer Campout",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "killer-campout",
+      "has_reactions": false
+    },
+    {
+      "id": "13c11a04-1f31-4ce8-903c-fb584c756ede",
+      "title": "WrestleMassacre",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "wrestlemassacre",
+      "has_reactions": false
+    },
+    {
+      "id": "4be5b43e-1df5-436a-8b37-9b492fd664fb",
+      "title": "Brutality",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "brutality",
+      "has_reactions": false
+    },
+    {
+      "id": "738f1448-095e-4c33-b6ea-b253a653f815",
+      "title": "Manos Returns",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "manos-returns",
+      "has_reactions": false
+    },
+    {
+      "id": "04f78d32-4c82-4960-a594-46bc05e65845",
+      "title": "The Chair",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-chair",
+      "has_reactions": false
+    },
+    {
+      "id": "57abc0d4-5c42-4ec0-8437-28b53ad151f7",
+      "title": "Things 5",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "things-5",
+      "has_reactions": false
+    },
+    {
+      "id": "da9aa411-cc5d-4a21-ba52-ac93d21eeede",
+      "title": "Blood Cove",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "blood-cove",
+      "has_reactions": false
+    },
+    {
+      "id": "fd77eceb-01ce-4a9a-a47c-5e9f937ad642",
+      "title": "Camp Blood Kills",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "camp-blood-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "84049c66-e7fd-4a67-9bb5-ce0e5658ab7a",
+      "title": "Graveyard Stories 2",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "graveyard-stories-2",
+      "has_reactions": false
+    },
+    {
+      "id": "e7e6ae4c-10c3-4744-98ec-564cd7201c11",
+      "title": "What Happens Next Will Scare You",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "what-happens-next-will-scare-you",
+      "has_reactions": false
+    },
+    {
+      "id": "c160149c-44c7-46d0-83bb-29e267d51451",
+      "title": "Revenge of the Devil Bat",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "revenge-of-the-devil-bat",
+      "has_reactions": false
+    },
+    {
+      "id": "1d6f4311-fbd4-4f7a-88d1-17db20a1e364",
+      "title": "Amityville Hex",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "amityville-hex",
+      "has_reactions": false
+    },
+    {
+      "id": "a939802d-aed1-40f2-bf75-0e33d1be6a75",
+      "title": "Things 666",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "things-666",
+      "has_reactions": false
+    },
+    {
+      "id": "3f05005e-0f40-4f77-b8d4-dc211222b723",
+      "title": "Out There Halloween Mega Tape",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "out-there-halloween-mega-tape",
+      "has_reactions": false
+    },
+    {
+      "id": "6e924a3e-2032-43e0-9099-f0fec589f685",
+      "title": "Grim Reaper 3",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "grim-reaper-3",
+      "has_reactions": false
+    },
+    {
+      "id": "86cf02fa-6ad2-4677-9a5d-b772500c695b",
+      "title": "Tales From the Graveyard",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "tales-from-the-graveyard",
+      "has_reactions": false
+    },
+    {
+      "id": "bc79e0ff-df7f-4701-929f-3293a830759b",
+      "title": "Blood and Breakfast",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "blood-and-breakfast",
+      "has_reactions": false
+    },
+    {
+      "id": "d98ca320-ce7d-4f0c-a808-ac7cfa5d53c1",
+      "title": "The Mummy Creeps",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-mummy-creeps",
+      "has_reactions": false
+    },
+    {
+      "id": "e33523da-71bc-4452-ae01-fc8f679cecc8",
+      "title": "Trick or Treat with Reed Richmond",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "trick-or-treat-with-reed-richmond",
+      "has_reactions": false
+    }
+  ]
+}

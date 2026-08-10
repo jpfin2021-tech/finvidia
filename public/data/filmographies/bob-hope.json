@@ -1,0 +1,584 @@
+{
+  "id": "450f548a-9fd6-42d1-ad90-b2169c6331c7",
+  "name": "Bob Hope",
+  "slug": "bob-hope",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4TNYeks5q1dNKszFxOmL4pCjEvn.jpg",
+  "filmography": [
+    {
+      "id": "0fab277b-1894-4320-85b4-9013881b0df5",
+      "title": "Going Spanish",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "going-spanish",
+      "has_reactions": false
+    },
+    {
+      "id": "acca6350-19a6-4cfb-82eb-f5a492bdeb3a",
+      "title": "Paree, Paree",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "paree-paree",
+      "has_reactions": false
+    },
+    {
+      "id": "84080349-e422-4bf2-adba-9fee11c059a6",
+      "title": "Watch the Birdie",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "watch-the-birdie",
+      "has_reactions": false
+    },
+    {
+      "id": "2978d422-d7fb-47ef-a76b-be0048dcc3f1",
+      "title": "Double Exposure",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "double-exposure",
+      "has_reactions": false
+    },
+    {
+      "id": "b0f569ac-5f93-46be-a355-36528d548247",
+      "title": "Shop Talk",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "shop-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "6771b83a-af41-4aad-bb9d-3d70c6f6232e",
+      "title": "Calling All Tars",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "calling-all-tars",
+      "has_reactions": false
+    },
+    {
+      "id": "06dd8c12-e6c5-40a3-93e0-9328877c9956",
+      "title": "The Big Broadcast of 1938",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-big-broadcast-of-1938",
+      "has_reactions": false
+    },
+    {
+      "id": "824eb6a7-63f3-40af-a886-16d99ef293b2",
+      "title": "College Swing",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "college-swing",
+      "has_reactions": false
+    },
+    {
+      "id": "9ad13eac-05a1-4ec0-a69b-147c8bfb630d",
+      "title": "Give Me a Sailor",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "give-me-a-sailor",
+      "has_reactions": false
+    },
+    {
+      "id": "6cbb160a-63ef-46eb-97a5-c108d9ca3f8a",
+      "title": "Thanks for the Memory",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "thanks-for-the-memory",
+      "has_reactions": false
+    },
+    {
+      "id": "f6353496-a792-4bd2-8494-f34b4b239ac5",
+      "title": "The Cat and the Canary",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-cat-and-the-canary",
+      "has_reactions": false
+    },
+    {
+      "id": "382a26f2-afff-4405-8c76-fa0139f39a38",
+      "title": "Never Say Die",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "never-say-die",
+      "has_reactions": false
+    },
+    {
+      "id": "8ccf1761-e9cb-43a9-b2e5-db2b38522e76",
+      "title": "Some Like It Hot",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "some-like-it-hot",
+      "has_reactions": false
+    },
+    {
+      "id": "137a6427-f2f1-4858-9bc4-383d9851c407",
+      "title": "The Ghost Breakers",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "the-ghost-breakers",
+      "has_reactions": false
+    },
+    {
+      "id": "3bedc7b6-c641-4ef5-bb1d-c17f229b2fd7",
+      "title": "Road to Singapore",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "road-to-singapore",
+      "has_reactions": false
+    },
+    {
+      "id": "c3fd4f59-5d6a-4fb7-8280-db1e9cbab311",
+      "title": "Road to Zanzibar",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "road-to-zanzibar",
+      "has_reactions": false
+    },
+    {
+      "id": "7ab464ed-7aec-4add-97a8-2213ba43c949",
+      "title": "Caught in the Draft",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "caught-in-the-draft",
+      "has_reactions": false
+    },
+    {
+      "id": "103bc7b0-df76-42f9-bd13-cf4c2820d931",
+      "title": "Road to Morocco",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "road-to-morocco",
+      "has_reactions": false
+    },
+    {
+      "id": "a8792bba-390a-4b57-871b-2ba43dcf4cef",
+      "title": "My Favorite Blonde",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "my-favorite-blonde",
+      "has_reactions": false
+    },
+    {
+      "id": "00102f48-9837-4562-abd6-8f7fa4a5605f",
+      "title": "Hedda Hopper's Hollywood No. 4",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "hedda-hopper-s-hollywood-no-4",
+      "has_reactions": false
+    },
+    {
+      "id": "82e1f719-3a9e-4a43-bb80-077d5497314c",
+      "title": "Let's Face It",
+      "release_year": 1943,
+      "studio_label": "Paramount Pictures",
+      "slug": "let-s-face-it",
+      "has_reactions": false
+    },
+    {
+      "id": "32b26c1f-efb9-481a-bfb7-bfc71a10c19a",
+      "title": "They Got Me Covered",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "they-got-me-covered",
+      "has_reactions": false
+    },
+    {
+      "id": "686b6413-b9e5-4e98-99b5-64b3da51ce31",
+      "title": "The Princess and the Pirate",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-princess-and-the-pirate",
+      "has_reactions": false
+    },
+    {
+      "id": "42c09b22-dd50-45fb-b01e-f1e1fcdd2bb1",
+      "title": "Road to Home",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "road-to-home",
+      "has_reactions": false
+    },
+    {
+      "id": "4ae6252f-97eb-4265-bed5-49065636b1de",
+      "title": "Road to Utopia",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "road-to-utopia",
+      "has_reactions": false
+    },
+    {
+      "id": "c8952c50-6d99-455d-9f2f-1a766ff89566",
+      "title": "Road to Rio",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "road-to-rio",
+      "has_reactions": false
+    },
+    {
+      "id": "d22b3b41-38cf-4d80-bb1c-88950b0fa4f6",
+      "title": "Where There's Life",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "where-there-s-life",
+      "has_reactions": false
+    },
+    {
+      "id": "250c3b77-2ea5-45af-b757-9fe612fd82cd",
+      "title": "Is Everybody Listening?",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "is-everybody-listening",
+      "has_reactions": false
+    },
+    {
+      "id": "676b0141-d465-4520-90ed-0e7b5d20f72b",
+      "title": "The Paleface",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-paleface",
+      "has_reactions": false
+    },
+    {
+      "id": "20258a8f-c800-4e18-8e1e-36aaf428676b",
+      "title": "Sorrowful Jones",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "sorrowful-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "4ce039aa-3e38-4a50-bdc3-b200bd6a725d",
+      "title": "The Great Lover",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-great-lover",
+      "has_reactions": false
+    },
+    {
+      "id": "6bf5af25-1cdb-47b9-b790-12da96cc0128",
+      "title": "Fancy Pants",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "fancy-pants",
+      "has_reactions": false
+    },
+    {
+      "id": "9d97d16d-28f8-4a9a-a8c5-e37807f3bb9a",
+      "title": "The Lemon Drop Kid",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "the-lemon-drop-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "9ccf6bec-44a7-4664-b2b5-a79041c5bb3e",
+      "title": "My Favorite Spy",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "my-favorite-spy",
+      "has_reactions": false
+    },
+    {
+      "id": "0e5bcc01-78ca-4155-bddf-f2df2dd31a07",
+      "title": "Son of Paleface",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "son-of-paleface",
+      "has_reactions": false
+    },
+    {
+      "id": "99e5f8a8-4772-4ba0-a0f6-edf622f316b9",
+      "title": "Road to Bali",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "road-to-bali",
+      "has_reactions": false
+    },
+    {
+      "id": "ce13cf7c-5d9c-47c3-8683-a4d9e0e16824",
+      "title": "Off Limits",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "off-limits",
+      "has_reactions": false
+    },
+    {
+      "id": "f2a1dd6d-5cfe-4691-b903-5871467848e1",
+      "title": "Here Come the Girls",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "here-come-the-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "d3e6e8c8-a393-4ebb-87ef-c33e920a30e2",
+      "title": "Casanova's Big Night",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "casanova-s-big-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c9d6e2ea-8d87-41d8-b8b6-d2a2ec08b4ef",
+      "title": "The Seven Little Foys",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-seven-little-foys",
+      "has_reactions": false
+    },
+    {
+      "id": "c469fbdc-39c0-41bc-a924-b814c91c1262",
+      "title": "Showdown at Ulcer Gulch",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "showdown-at-ulcer-gulch",
+      "has_reactions": false
+    },
+    {
+      "id": "ab46871c-6fed-4ec2-980c-9144eca24928",
+      "title": "Beau James",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "beau-james",
+      "has_reactions": false
+    },
+    {
+      "id": "722d3219-70ce-4cb6-a0e2-105d99404f77",
+      "title": "Paris Holiday",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "paris-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e38822-a488-474b-8d1f-f1bfabe86363",
+      "title": "Alias Jesse James",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "alias-jesse-james",
+      "has_reactions": false
+    },
+    {
+      "id": "4dfe3028-60ec-4b4c-a0be-9d76dba21853",
+      "title": "Some of Manie's Friends",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "some-of-manie-s-friends",
+      "has_reactions": false
+    },
+    {
+      "id": "d969ddcc-17ec-4aa0-9871-7f33b34f4bc0",
+      "title": "Critic's Choice",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "critic-s-choice",
+      "has_reactions": false
+    },
+    {
+      "id": "3dba5c9d-d3b3-4e96-8de8-51171e3d0e6f",
+      "title": "A Global Affair",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "a-global-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "748d1e60-6d58-4b19-9729-02b2ba9c14e4",
+      "title": "I'll Take Sweden",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "i-ll-take-sweden",
+      "has_reactions": false
+    },
+    {
+      "id": "ad827529-3060-4f24-bda5-9251cce2d080",
+      "title": "The Oscar",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-oscar",
+      "has_reactions": false
+    },
+    {
+      "id": "1bdb99e0-27db-4562-bd21-0d7647b6514f",
+      "title": "The Private Navy of Sgt. O'Farrell",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-private-navy-of-sgt-o-farrell",
+      "has_reactions": false
+    },
+    {
+      "id": "466fd6a0-d9dd-4884-b841-55364470411c",
+      "title": "The Bob Hope Christmas Special: Around the World with the USO",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-bob-hope-christmas-special-around-the-world-with-the-uso",
+      "has_reactions": false
+    },
+    {
+      "id": "25f2611e-1f49-4bf2-a5c2-549f5daed304",
+      "title": "How to Commit Marriage",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "how-to-commit-marriage",
+      "has_reactions": false
+    },
+    {
+      "id": "d7fbde25-f36d-44d3-83ce-32176bb6a729",
+      "title": "Roberta",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "roberta",
+      "has_reactions": false
+    },
+    {
+      "id": "96ec8d47-e326-4be4-adfc-eb0a60ff6211",
+      "title": "Jack Benny's 20th Anniversary TV Special",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "jack-benny-s-20th-anniversary-tv-special",
+      "has_reactions": false
+    },
+    {
+      "id": "ac73e0da-4d62-41f1-b473-5ac4ff988979",
+      "title": "The Grand Opening of Walt Disney World",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-grand-opening-of-walt-disney-world",
+      "has_reactions": false
+    },
+    {
+      "id": "2a06899c-6a57-4eea-af6e-6033e21be50a",
+      "title": "The Great Radio Comedians",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-great-radio-comedians",
+      "has_reactions": false
+    },
+    {
+      "id": "c15da589-b599-4065-984f-7cb4c214a12b",
+      "title": "Hearts and Minds",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "hearts-and-minds",
+      "has_reactions": false
+    },
+    {
+      "id": "821a3b74-ffbf-4110-9b19-8932953e6699",
+      "title": "Bob Hope's Comedy Christmas Special",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "bob-hope-s-comedy-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "b9d6a0fd-53da-42c3-8f69-fa26b659b2c1",
+      "title": "Pat Boone and Family: A Thanksgiving Special",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "pat-boone-and-family-a-thanksgiving-special",
+      "has_reactions": false
+    },
+    {
+      "id": "c725e703-b068-4f80-811b-911e107fca97",
+      "title": "Steve Martin: A Wild and Crazy Guy",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "steve-martin-a-wild-and-crazy-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "f2cf1247-30f7-4943-9dd7-2c6815240f35",
+      "title": "The Muppet Movie",
+      "release_year": 1979,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-muppet-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "b2cecb04-1a2f-42aa-b4bb-33d43bff89f2",
+      "title": "Showbiz Goes to War",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "showbiz-goes-to-war",
+      "has_reactions": false
+    },
+    {
+      "id": "73fc7962-a6cd-49c2-8e32-7cd766ec3885",
+      "title": "Hollywood Out-takes and Rare Footage",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hollywood-out-takes-and-rare-footage",
+      "has_reactions": false
+    },
+    {
+      "id": "bdc8ec06-f5cf-4fd8-b279-78358e5c5b56",
+      "title": "Spies Like Us",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "spies-like-us",
+      "has_reactions": false
+    },
+    {
+      "id": "d98d1dd6-8745-4236-912d-093a978bb245",
+      "title": "Bob Hope's Jolly Christmas Show",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bob-hope-s-jolly-christmas-show",
+      "has_reactions": false
+    },
+    {
+      "id": "6cdb55f0-52b2-4197-aae3-84036e13caf0",
+      "title": "Irving Berlin's 100th Birthday Celebration",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "irving-berlin-s-100th-birthday-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "5bcac1ec-91f9-4ef7-86af-9ca554a2cbf5",
+      "title": "Bob Hope's Christmas Cheer from Saudi Arabia",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "bob-hope-s-christmas-cheer-from-saudi-arabia",
+      "has_reactions": false
+    },
+    {
+      "id": "239630d4-9123-4eb3-955d-c6fb56480ee2",
+      "title": "Bob Hope's Bag Full of Christmas Memories",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "bob-hope-s-bag-full-of-christmas-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "c94dd3b0-1386-40be-86b2-33c7541aa758",
+      "title": "Bob Hope: Laughing With the Presidents",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "bob-hope-laughing-with-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "844c1771-d925-4d75-8c80-3af1a2e22580",
+      "title": "Biography: Bob Hope: America's Entertainer",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "biography-bob-hope-america-s-entertainer",
+      "has_reactions": false
+    },
+    {
+      "id": "b200ce6f-6d7a-4e31-b3c1-b14ddebdf0c9",
+      "title": "Legendary Christmas Entertainers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "legendary-christmas-entertainers",
+      "has_reactions": false
+    },
+    {
+      "id": "4ab81278-c937-4db1-b38e-9570f1605edd",
+      "title": "Rat Pack",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rat-pack",
+      "has_reactions": false
+    }
+  ]
+}

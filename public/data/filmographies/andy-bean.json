@@ -1,0 +1,48 @@
+{
+  "id": "72bc8be4-798d-4dd7-825b-6550e71df107",
+  "name": "Andy Bean",
+  "slug": "andy-bean",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4BiltJsO0KO7E9Mgyj8wMekbEBA.jpg",
+  "filmography": [
+    {
+      "id": "5a1ae58f-0b8b-4ef3-8a92-7a3d2a09eed0",
+      "title": "Allegiant",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "allegiant",
+      "has_reactions": false
+    },
+    {
+      "id": "e2deb213-c45e-4e52-bb25-75c2af72c279",
+      "title": "Transformers: The Last Knight",
+      "release_year": 2017,
+      "studio_label": "Paramount Pictures",
+      "slug": "transformers-the-last-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "594a2cdb-79fa-473b-a7ac-cfa746781682",
+      "title": "It Chapter Two",
+      "release_year": 2019,
+      "studio_label": "Vertigo Entertainment",
+      "slug": "it-chapter-two",
+      "has_reactions": true
+    },
+    {
+      "id": "1d16ff9d-f897-4559-a2fc-a5e057db16ea",
+      "title": "Malignant",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "malignant",
+      "has_reactions": false
+    },
+    {
+      "id": "e996975e-e5ba-4a3c-a070-b547374d0e19",
+      "title": "King Richard",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "king-richard",
+      "has_reactions": false
+    }
+  ]
+}

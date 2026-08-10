@@ -1,0 +1,568 @@
+{
+  "id": "bf041fa3-1a78-406b-9f49-10dd0592bb5f",
+  "name": "Jeffrey Wright",
+  "slug": "jeffrey-wright",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/quunS3w4QtALMDnvA0y81Y2pO9N.jpg",
+  "filmography": [
+    {
+      "id": "ffcd8ca4-20a9-4774-b605-168f8abe999a",
+      "title": "Death of a Salesman",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "death-of-a-salesman",
+      "has_reactions": false
+    },
+    {
+      "id": "00804ffe-aaeb-4eb8-8503-24a8729c8d3f",
+      "title": "Presumed Innocent",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "presumed-innocent",
+      "has_reactions": false
+    },
+    {
+      "id": "5873becf-1108-4816-8a40-35a1d33696c7",
+      "title": "In the Wings: Angels in America On Broadway",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "in-the-wings-angels-in-america-on-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "f22c028d-9301-4663-9456-add520b88f1c",
+      "title": "Faithful",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "faithful",
+      "has_reactions": false
+    },
+    {
+      "id": "16a81881-01b9-495f-afec-016944523f87",
+      "title": "Basquiat",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "basquiat",
+      "has_reactions": false
+    },
+    {
+      "id": "425398ae-538e-471c-b9f1-0da5e20739ac",
+      "title": "The Giraffe",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-giraffe",
+      "has_reactions": false
+    },
+    {
+      "id": "72501c65-6512-4c27-9e80-3aba992da118",
+      "title": "The Adventures of Young Indiana Jones: Scandal of 1920",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-young-indiana-jones-scandal-of-1920",
+      "has_reactions": false
+    },
+    {
+      "id": "413b7432-e278-428f-9402-7b7aeb49213d",
+      "title": "The Adventures of Young Indiana Jones: Mystery of the Blues",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-young-indiana-jones-mystery-of-the-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "1d8f1a6a-5d4a-4dfe-b601-4436065fe204",
+      "title": "Shaft",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "shaft",
+      "has_reactions": true
+    },
+    {
+      "id": "041c26fa-89b5-457a-891b-8fd7009b6cc7",
+      "title": "Cement",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "cement",
+      "has_reactions": false
+    },
+    {
+      "id": "bac2d72f-6e00-4805-a098-26f747d2490c",
+      "title": "Crime + Punishment in Suburbia",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "crime-punishment-in-suburbia",
+      "has_reactions": false
+    },
+    {
+      "id": "23d32196-dea9-41ae-b2f7-26a44ae225c7",
+      "title": "Hamlet",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b1c006-eba9-4aa3-86c6-29bef923fa8d",
+      "title": "Ali",
+      "release_year": 2001,
+      "studio_label": "Columbia Pictures",
+      "slug": "ali",
+      "has_reactions": true
+    },
+    {
+      "id": "26d292bc-3041-4490-ba24-43d82c09ad04",
+      "title": "Boycott",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "boycott",
+      "has_reactions": false
+    },
+    {
+      "id": "c61a468c-fc71-4eda-8210-826ea810a927",
+      "title": "The Making of 'Ali'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-ali",
+      "has_reactions": false
+    },
+    {
+      "id": "746a9d4b-df59-423b-92ab-c695d927857e",
+      "title": "The Topdog Diaries",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-topdog-diaries",
+      "has_reactions": false
+    },
+    {
+      "id": "43daa64a-3a35-4917-b46f-01927e4e0c75",
+      "title": "Sam Cooke: Legend",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "sam-cooke-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "255528a5-4790-446a-8973-575d473fa5d4",
+      "title": "The Manchurian Candidate",
+      "release_year": 2004,
+      "studio_label": "Clinica Estetico",
+      "slug": "the-manchurian-candidate",
+      "has_reactions": true
+    },
+    {
+      "id": "befddebf-fd48-49ed-b614-1de7ce655723",
+      "title": "Unforgivable Blackness: The Rise and Fall of Jack Johnson",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "unforgivable-blackness-the-rise-and-fall-of-jack-johnson",
+      "has_reactions": false
+    },
+    {
+      "id": "da43570c-7c01-4086-9420-2fcd23d41094",
+      "title": "With All Deliberate Speed",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "with-all-deliberate-speed",
+      "has_reactions": false
+    },
+    {
+      "id": "8dd76ae4-a264-4326-aa7c-e35cdc48a5cf",
+      "title": "Lackawanna Blues",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "lackawanna-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "7c6add2e-40c2-480b-8c5a-8ac931ddba51",
+      "title": "Broken Flowers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "broken-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "66545cae-ad32-4e8a-a5f0-25c426121efc",
+      "title": "Casino Royale",
+      "release_year": 2006,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "casino-royale",
+      "has_reactions": true
+    },
+    {
+      "id": "5af22ba3-5fe4-47ec-910e-6294bc6c902c",
+      "title": "Wrestling with Angels: Playwright Tony Kushner",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wrestling-with-angels-playwright-tony-kushner",
+      "has_reactions": false
+    },
+    {
+      "id": "bae5b215-f4a4-4432-bcb4-b28484293c1b",
+      "title": "Blood Diamonds",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "blood-diamonds",
+      "has_reactions": false
+    },
+    {
+      "id": "7c3c8eb1-a396-4d32-a170-d210b43b530f",
+      "title": "Blackout",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "a7674aad-fe0d-4e1b-9764-655069fd0a07",
+      "title": "New Orleans",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "new-orleans",
+      "has_reactions": false
+    },
+    {
+      "id": "4f043718-0b58-4c6a-913d-27dbfb9396d3",
+      "title": "Quantum of Solace",
+      "release_year": 2008,
+      "studio_label": "EON Productions",
+      "slug": "quantum-of-solace",
+      "has_reactions": true
+    },
+    {
+      "id": "a0808f74-40d8-470a-8bb9-aa5f389e6604",
+      "title": "Cadillac Records",
+      "release_year": 2008,
+      "studio_label": "Parkwood Entertainment",
+      "slug": "cadillac-records",
+      "has_reactions": true
+    },
+    {
+      "id": "8cb27e62-b94f-4768-81f4-0d5eeace29f7",
+      "title": "Chicago 10",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "chicago-10",
+      "has_reactions": false
+    },
+    {
+      "id": "45c49012-8bb4-43ac-a83c-9924de87518c",
+      "title": "The Ides of March",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-ides-of-march",
+      "has_reactions": false
+    },
+    {
+      "id": "018433e3-9f58-459b-ad0a-3ff23d89a00f",
+      "title": "A Child's Garden of Poetry",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "a-child-s-garden-of-poetry",
+      "has_reactions": false
+    },
+    {
+      "id": "ea4b33fc-dce0-429f-8ce2-b5eca6ce0286",
+      "title": "Broken City",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "broken-city",
+      "has_reactions": false
+    },
+    {
+      "id": "049ea7b4-f5c6-407c-bfe8-d6f84d699410",
+      "title": "Only Lovers Left Alive",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "only-lovers-left-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "9a28d38e-ea34-46f6-9b40-c02214e0edca",
+      "title": "A Single Shot",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-single-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "9e58d252-845d-49f6-9100-e959eb241625",
+      "title": "The Hunger Games: Catching Fire",
+      "release_year": 2013,
+      "studio_label": "Lionsgate",
+      "slug": "the-hunger-games-catching-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "c407fca8-6b0b-4e30-b9c2-37bd75ab4e19",
+      "title": "The Inevitable Defeat of Mister & Pete",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-inevitable-defeat-of-mister-pete",
+      "has_reactions": false
+    },
+    {
+      "id": "262c32d1-e3c5-4690-94c0-87603284908e",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "release_year": 2014,
+      "studio_label": "Lionsgate",
+      "slug": "the-hunger-games-mockingjay-part-1",
+      "has_reactions": true
+    },
+    {
+      "id": "58c7d728-65c8-46af-8851-ecc2c313559c",
+      "title": "Mass Extinction: Life at the Brink",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "mass-extinction-life-at-the-brink",
+      "has_reactions": false
+    },
+    {
+      "id": "475b5bdf-1c06-4b18-8e8e-3e2f7da0cea7",
+      "title": "Forgotten Four: The Integration of Pro Football",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "forgotten-four-the-integration-of-pro-football",
+      "has_reactions": false
+    },
+    {
+      "id": "ef5e4075-4555-42cb-a337-bbdefe96652f",
+      "title": "The Good Dinosaur",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-good-dinosaur",
+      "has_reactions": false
+    },
+    {
+      "id": "03a0d2c2-4c3f-47c8-bd39-ba13f7606f1c",
+      "title": "The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-mockingjay-lives-the-making-of-the-hunger-games-mockingjay-part-1",
+      "has_reactions": false
+    },
+    {
+      "id": "ce12c8d2-3e1f-4691-ab20-a0a9212919d4",
+      "title": "The Gospel According to Mac",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-gospel-according-to-mac",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc90f97-c756-428d-990f-9a32a82cd8f6",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-hunger-games-mockingjay-part-2",
+      "has_reactions": false
+    },
+    {
+      "id": "d66fb07a-f314-4440-b1eb-fbbc9088ef41",
+      "title": "Confirmation",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "confirmation",
+      "has_reactions": false
+    },
+    {
+      "id": "eac2640d-31d7-41ad-aabf-7d946caf5b2a",
+      "title": "Hero With A Thousand Faces",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "hero-with-a-thousand-faces",
+      "has_reactions": false
+    },
+    {
+      "id": "641771ef-584f-442b-9d94-dd5a263b848d",
+      "title": "Unseen Enemy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "unseen-enemy",
+      "has_reactions": false
+    },
+    {
+      "id": "df238892-9564-4d93-bac4-2fd7e01c4eaa",
+      "title": "Age Out",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "age-out",
+      "has_reactions": false
+    },
+    {
+      "id": "8eada783-cc8a-4dfe-8f5b-9f0983150c66",
+      "title": "Game Night",
+      "release_year": 2018,
+      "studio_label": "New Line Cinema",
+      "slug": "game-night",
+      "has_reactions": true
+    },
+    {
+      "id": "eee23359-89b7-45cc-af18-babbff11b340",
+      "title": "Moynihan",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "moynihan",
+      "has_reactions": false
+    },
+    {
+      "id": "b26877e9-ec96-47f3-ae86-6dada5f78243",
+      "title": "We Are Not Done Yet",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "we-are-not-done-yet",
+      "has_reactions": false
+    },
+    {
+      "id": "b324336b-40b0-4e57-a980-cf05d5458f20",
+      "title": "Hold the Dark",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "hold-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2941bf-941e-4066-93d5-a81c60be83bb",
+      "title": "O.G.",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "o-g",
+      "has_reactions": false
+    },
+    {
+      "id": "4bcd1419-f6e3-4db3-8efb-aca6de723e25",
+      "title": "The Public",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-public",
+      "has_reactions": false
+    },
+    {
+      "id": "b26e87ff-cda2-4117-a63a-c7b0baf08171",
+      "title": "The Laundromat",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-laundromat",
+      "has_reactions": false
+    },
+    {
+      "id": "99c75fb7-1b43-43e8-9e43-26c1d4e02c42",
+      "title": "Marvel Studios: Expanding the Universe",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "marvel-studios-expanding-the-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "980f5e1f-eb1e-4990-98f1-156d980d0b5c",
+      "title": "Rigged: The Voter Suppression Playbook",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "rigged-the-voter-suppression-playbook",
+      "has_reactions": false
+    },
+    {
+      "id": "3b13de0d-0ab3-4d3d-b5b7-4bc48339ed4d",
+      "title": "The Oedipus Project",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-oedipus-project",
+      "has_reactions": false
+    },
+    {
+      "id": "8ca27326-32b5-49c2-bdf0-ac7606f3cecd",
+      "title": "All Day and a Night",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "all-day-and-a-night",
+      "has_reactions": false
+    },
+    {
+      "id": "f48b985f-cb69-4436-bd84-67f21dd82bde",
+      "title": "American Pathogen",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "american-pathogen",
+      "has_reactions": false
+    },
+    {
+      "id": "3cc5b304-032c-4496-93d5-4b1ed3c78047",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-french-dispatch-of-the-liberty-kansas-evening-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "10f8f68c-77cc-48c8-a142-e854bf01cc2b",
+      "title": "Monster",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "monster",
+      "has_reactions": false
+    },
+    {
+      "id": "8f9bd3bd-1f8f-4ce0-ae26-9b2ca35a9fb7",
+      "title": "No Time to Die",
+      "release_year": 2021,
+      "studio_label": "EON Productions",
+      "slug": "no-time-to-die",
+      "has_reactions": true
+    },
+    {
+      "id": "9cce9305-44c4-47f8-8f7f-4b7b2d9e2fda",
+      "title": "The Batman",
+      "release_year": 2022,
+      "studio_label": "6th & Idaho Motion Picture Company",
+      "slug": "the-batman",
+      "has_reactions": true
+    },
+    {
+      "id": "199655ff-4b5a-4e1c-9a1f-4231b219130e",
+      "title": "American Fiction",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "american-fiction",
+      "has_reactions": false
+    },
+    {
+      "id": "22930c50-e149-4683-91af-648677125965",
+      "title": "Asteroid City",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "asteroid-city",
+      "has_reactions": false
+    },
+    {
+      "id": "8983bc4d-430f-4c98-b67a-015f0cd15de1",
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "release_year": 2025,
+      "studio_label": "T-Street",
+      "slug": "wake-up-dead-man-a-knives-out-mystery",
+      "has_reactions": true
+    },
+    {
+      "id": "4a25b136-5d26-4f9a-8229-faa377824536",
+      "title": "Samo Lives",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "samo-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "434601d9-1a6b-40ab-95c8-18ab29838564",
+      "title": "W.E.B. Du Bois: Rebel With a Cause",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "w-e-b-du-bois-rebel-with-a-cause",
+      "has_reactions": false
+    },
+    {
+      "id": "a94711a1-c7c7-4b3c-9857-5d48245f55ca",
+      "title": "The Batman: Part II",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "the-batman-part-ii",
+      "has_reactions": false
+    }
+  ]
+}

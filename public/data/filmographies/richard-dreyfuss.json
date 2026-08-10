@@ -1,0 +1,480 @@
+{
+  "id": "4adce6f7-ec62-4720-b580-dc67ece1a83c",
+  "name": "Richard Dreyfuss",
+  "slug": "richard-dreyfuss",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg",
+  "filmography": [
+    {
+      "id": "dd34c508-3f5a-46ad-aab2-c39a1f81b6f0",
+      "title": "The Graduate",
+      "release_year": 1967,
+      "studio_label": "AVCO Embassy Pictures",
+      "slug": "the-graduate",
+      "has_reactions": true
+    },
+    {
+      "id": "974e8b3c-4d69-4baa-9532-e21c5fe10ff5",
+      "title": "American Graffiti",
+      "release_year": 1973,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "american-graffiti",
+      "has_reactions": true
+    },
+    {
+      "id": "6b70907c-54f3-404a-876f-d5c11aa141b4",
+      "title": "Catch-22",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "catch-22",
+      "has_reactions": false
+    },
+    {
+      "id": "70ed8ee3-1458-40a7-9809-521eca9fece1",
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-apprenticeship-of-duddy-kravitz",
+      "has_reactions": false
+    },
+    {
+      "id": "69dd250f-de0c-45a1-87ad-02a5502d5991",
+      "title": "The Second Coming of Suzanne",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-second-coming-of-suzanne",
+      "has_reactions": false
+    },
+    {
+      "id": "7ea29f24-4a0f-4212-b13a-d479d76ac523",
+      "title": "Jaws",
+      "release_year": 1975,
+      "studio_label": "The Zanuck/Brown Company",
+      "slug": "jaws",
+      "has_reactions": true
+    },
+    {
+      "id": "bfa9a23e-7a8c-444d-928a-48c29b7174fd",
+      "title": "Inserts",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "inserts",
+      "has_reactions": false
+    },
+    {
+      "id": "87342886-28a7-4733-87cc-0a3deabd5b44",
+      "title": "Victory at Entebbe",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "victory-at-entebbe",
+      "has_reactions": false
+    },
+    {
+      "id": "f7cafa71-6718-4823-8833-f5c08c18debe",
+      "title": "Close Encounters of the Third Kind",
+      "release_year": 1977,
+      "studio_label": "Julia Phillips and Michael Phillips Productions",
+      "slug": "close-encounters-of-the-third-kind",
+      "has_reactions": true
+    },
+    {
+      "id": "d74b5604-d34b-48d6-b8ed-2f30b37aeb9b",
+      "title": "The Making of 'The Goodbye Girl'",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-goodbye-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "65770471-ed88-4557-88dc-eab52c9c2ae2",
+      "title": "The Goodbye Girl",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-goodbye-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "8329f9ef-1628-439b-af6d-195ab57a6629",
+      "title": "The Sentinel",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-sentinel",
+      "has_reactions": false
+    },
+    {
+      "id": "e3fe6418-e76a-4575-bc03-565073266c09",
+      "title": "The Big Fix",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-big-fix",
+      "has_reactions": false
+    },
+    {
+      "id": "3af20837-d38a-4685-8dcd-95bcd6a4a6a5",
+      "title": "The Competition",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-competition",
+      "has_reactions": false
+    },
+    {
+      "id": "a2a0c93e-c541-429e-a555-8fe3cb2c2fc4",
+      "title": "The Buddy System",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-buddy-system",
+      "has_reactions": false
+    },
+    {
+      "id": "41990f0d-bc16-42a3-bbd5-c23c5bf38fa0",
+      "title": "Stand by Me",
+      "release_year": 1986,
+      "studio_label": "Act III Productions",
+      "slug": "stand-by-me",
+      "has_reactions": true
+    },
+    {
+      "id": "78d03f1f-248e-4c59-a581-5e56ca27cc56",
+      "title": "Stakeout",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "stakeout",
+      "has_reactions": false
+    },
+    {
+      "id": "d4d944ef-d647-4485-8f4a-f6ff1ff7bb85",
+      "title": "Tin Men",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "tin-men",
+      "has_reactions": false
+    },
+    {
+      "id": "aa4e4b60-4b14-4ea2-8054-158b89471db0",
+      "title": "Citizen Steve",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "citizen-steve",
+      "has_reactions": false
+    },
+    {
+      "id": "d50f5f91-e92d-442f-a39c-763c3265a333",
+      "title": "Nuts",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "nuts",
+      "has_reactions": false
+    },
+    {
+      "id": "6d73e14c-0982-4e21-8669-b517c7b5a4da",
+      "title": "Moon Over Parador",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "moon-over-parador",
+      "has_reactions": false
+    },
+    {
+      "id": "f6aaa31e-ea8c-4ffe-a271-6ce12156409d",
+      "title": "Always",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "always",
+      "has_reactions": false
+    },
+    {
+      "id": "329a781c-8ed7-4acb-905a-53f223a37290",
+      "title": "What About Bob?",
+      "release_year": 1991,
+      "studio_label": "Touchstone Pictures",
+      "slug": "what-about-bob",
+      "has_reactions": true
+    },
+    {
+      "id": "12fd0a43-0fbe-4acf-8af5-8ba9ee6e8afc",
+      "title": "Once Around",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "once-around",
+      "has_reactions": false
+    },
+    {
+      "id": "0b7b5ccc-f177-4597-a6b5-f3147c608dcd",
+      "title": "Lost in Yonkers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "lost-in-yonkers",
+      "has_reactions": false
+    },
+    {
+      "id": "75e99d5a-0f37-4ae3-91b3-ac70bd225a01",
+      "title": "Another Stakeout",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "another-stakeout",
+      "has_reactions": false
+    },
+    {
+      "id": "915fc331-9d84-4e43-a9fa-c16ebb04bf0c",
+      "title": "It's Alive: The True Story of Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "it-s-alive-the-true-story-of-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "1c2ac91c-bc96-472d-9a9e-8fdf425b1000",
+      "title": "Mr. Holland's Opus",
+      "release_year": 1995,
+      "studio_label": "Hollywood Pictures",
+      "slug": "mr-holland-s-opus",
+      "has_reactions": true
+    },
+    {
+      "id": "997b2b5c-116d-47c8-a8ce-d5125bf32366",
+      "title": "The American President",
+      "release_year": 1995,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "the-american-president",
+      "has_reactions": true
+    },
+    {
+      "id": "39f34268-07ce-44be-82e7-220b7e8a8063",
+      "title": "The Making of 'Jaws'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jaws",
+      "has_reactions": false
+    },
+    {
+      "id": "75f1175d-b998-4174-9631-ef82fdaa7f4a",
+      "title": "Mad Dog Time",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mad-dog-time",
+      "has_reactions": false
+    },
+    {
+      "id": "c9e76519-4ff4-436d-a519-ae8374898325",
+      "title": "Night Falls on Manhattan",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "night-falls-on-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "6af1aae4-b211-4788-963c-d9813c7df2b1",
+      "title": "In the Teeth of Jaws",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-the-teeth-of-jaws",
+      "has_reactions": false
+    },
+    {
+      "id": "b713641a-74f9-4d20-9fa1-076291ce5a3d",
+      "title": "Frank Capra's American Dream",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "frank-capra-s-american-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "c2986f68-e674-4687-93b8-35c04153ccf5",
+      "title": "Audrey Hepburn: The Fairest Lady",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "audrey-hepburn-the-fairest-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "7f8d822c-97b5-4e8b-be26-d62b8a297447",
+      "title": "Oliver Twist",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "oliver-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "7a101eff-b411-4db0-9571-99b6e4bcd7e5",
+      "title": "Krippendorf's Tribe",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "krippendorf-s-tribe",
+      "has_reactions": false
+    },
+    {
+      "id": "9d148ee9-d992-4764-b85b-80077fe33e4f",
+      "title": "Fail Safe",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "fail-safe",
+      "has_reactions": false
+    },
+    {
+      "id": "0cb4c8cd-caad-4cf7-a113-9878ab7a8eb8",
+      "title": "The Crew",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-crew",
+      "has_reactions": false
+    },
+    {
+      "id": "56d01762-0b36-4993-8949-f8bcd7ebf525",
+      "title": "Walking the Tracks: The Summer of Stand by Me",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "walking-the-tracks-the-summer-of-stand-by-me",
+      "has_reactions": false
+    },
+    {
+      "id": "426ff226-f5ae-4b1f-9c83-a5c41065e9c2",
+      "title": "Who Is Cletis Tout?",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "who-is-cletis-tout",
+      "has_reactions": false
+    },
+    {
+      "id": "e75d1eb3-b955-42cb-8648-880329fc243c",
+      "title": "The Day Reagan Was Shot",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-day-reagan-was-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "b21f2003-21f6-4209-bd1f-4178322c3054",
+      "title": "Silver City",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "silver-city",
+      "has_reactions": false
+    },
+    {
+      "id": "6ace44a0-eea8-404e-aeca-9552efea42b4",
+      "title": "A Legacy of Filmmakers: The Early Years of American Zoetrope",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-legacy-of-filmmakers-the-early-years-of-american-zoetrope",
+      "has_reactions": false
+    },
+    {
+      "id": "5b829fcf-5171-4c9e-b28b-8c79406878ef",
+      "title": "The Adventures of Errol Flynn",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-errol-flynn",
+      "has_reactions": false
+    },
+    {
+      "id": "ed5c60ff-d5e2-433b-bc42-5cb04c685b2f",
+      "title": "Leaves of Grass",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "leaves-of-grass",
+      "has_reactions": false
+    },
+    {
+      "id": "0139c14d-9e3b-4c15-8892-eac9b9bccf0b",
+      "title": "My Life in Ruins",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "my-life-in-ruins",
+      "has_reactions": false
+    },
+    {
+      "id": "550e8a6d-4f3a-43e7-bfa8-a75569cf0436",
+      "title": "The Lightkeepers",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-lightkeepers",
+      "has_reactions": false
+    },
+    {
+      "id": "6e9580db-b5c9-4350-9478-ee2536eb2b93",
+      "title": "RED",
+      "release_year": 2010,
+      "studio_label": "di Bonaventura Pictures",
+      "slug": "red",
+      "has_reactions": true
+    },
+    {
+      "id": "4497d593-a067-45a5-9f11-3e0af9372303",
+      "title": "Jaws: The Inside Story",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jaws-the-inside-story",
+      "has_reactions": false
+    },
+    {
+      "id": "5c30b760-0786-467e-9055-a77f4c5e9620",
+      "title": "Paranoia",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "paranoia",
+      "has_reactions": false
+    },
+    {
+      "id": "08ec8787-614a-4368-938b-7297c74bb367",
+      "title": "Very Good Girls",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "very-good-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "d3587d40-55be-44ef-9d28-11ba9d74a971",
+      "title": "Squatters",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "squatters",
+      "has_reactions": false
+    },
+    {
+      "id": "f94800ea-2672-42b2-aafe-8f4c573f82b9",
+      "title": "Audrey",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "audrey",
+      "has_reactions": false
+    },
+    {
+      "id": "ee3e561e-93da-499a-822f-98254bb68224",
+      "title": "Nazis at Nuremberg: The Lost Testimony",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "nazis-at-nuremberg-the-lost-testimony",
+      "has_reactions": false
+    },
+    {
+      "id": "ac4d5238-6430-492b-b896-5604591e0e98",
+      "title": "Save Christmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "save-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e6b41a76-90b7-4e1c-a5e8-9aaa729a8cea",
+      "title": "Sweetwater",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "sweetwater",
+      "has_reactions": false
+    },
+    {
+      "id": "0f50be0f-f7c9-4824-be48-ad3b99ab4301",
+      "title": "Elizabeth Montgomery: A Bewitched Life",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "elizabeth-montgomery-a-bewitched-life",
+      "has_reactions": false
+    },
+    {
+      "id": "ca3e8a52-c01d-4d2d-a2b3-be49bb713cf6",
+      "title": "Waltzing with Brando",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "waltzing-with-brando",
+      "has_reactions": false
+    }
+  ]
+}

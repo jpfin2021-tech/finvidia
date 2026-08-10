@@ -1,0 +1,816 @@
+{
+  "id": "c5ae9f37-5a71-4c85-8d2e-18dd95ec8249",
+  "name": "Takashi Shimura",
+  "slug": "takashi-shimura",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "ca7f9f05-b9b7-4c36-9640-24eab97ccd9f",
+      "title": "Osaka Elegy",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "osaka-elegy",
+      "has_reactions": false
+    },
+    {
+      "id": "d8e7744d-08cc-4c2b-b8bc-4110f8ad1532",
+      "title": "The Letter",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "34d34f4a-6b70-4a7a-96d7-379e60ff2352",
+      "title": "Jiraiya",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "jiraiya",
+      "has_reactions": false
+    },
+    {
+      "id": "76485a9e-e8b9-4eaa-814c-de07534949dd",
+      "title": "Taiko's Rising in the World",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "taiko-s-rising-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "b1897e69-f35f-4df6-afd1-c3e0bd5fcf76",
+      "title": "Kurama Tengu",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "kurama-tengu",
+      "has_reactions": false
+    },
+    {
+      "id": "746274e8-c65b-4433-b426-064c1f4c0d7f",
+      "title": "Yaji And Kita's Traveling Diary",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "yaji-and-kita-s-traveling-diary",
+      "has_reactions": false
+    },
+    {
+      "id": "b5f762b8-83aa-4211-821e-2f03be51411a",
+      "title": "The Skull Coin",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-skull-coin",
+      "has_reactions": false
+    },
+    {
+      "id": "cb68e9b5-c2aa-490a-b5a3-b4f32cc03087",
+      "title": "Shunj\u00fb itt\u00f4ry\u00fb",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "shunj-itt-ry",
+      "has_reactions": false
+    },
+    {
+      "id": "6ba7298b-a146-40fa-97a6-a72b7c164f3f",
+      "title": "Oda Nobunaga",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "oda-nobunaga",
+      "has_reactions": false
+    },
+    {
+      "id": "aaeb5a1b-e2d0-4466-821b-b580d05113f9",
+      "title": "Sanshiro Sugata",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "sanshiro-sugata",
+      "has_reactions": false
+    },
+    {
+      "id": "018e5572-9f25-47d1-85fc-2731bcfc1583",
+      "title": "Navy",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "navy",
+      "has_reactions": false
+    },
+    {
+      "id": "0988ee61-3e70-44b5-8f24-84fb151526da",
+      "title": "The Most Beautiful",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-most-beautiful",
+      "has_reactions": false
+    },
+    {
+      "id": "1f45dcb9-e10b-43f4-99d1-60a1ccfa90ea",
+      "title": "To Love and Swear",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "to-love-and-swear",
+      "has_reactions": false
+    },
+    {
+      "id": "d0ae5888-bcd3-4fbe-b5d8-063c671e29d8",
+      "title": "Tokkan ekich\u00f4",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "tokkan-ekich",
+      "has_reactions": false
+    },
+    {
+      "id": "1c47a98d-8016-477d-a327-47b718c6afbf",
+      "title": "No Regrets for Our Youth",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "no-regrets-for-our-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "f584ca06-7c01-4bf8-bb3f-9e13a270e43e",
+      "title": "These Foolish Times",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "these-foolish-times",
+      "has_reactions": false
+    },
+    {
+      "id": "0d9bee76-6420-4074-a12b-f2e970cd2088",
+      "title": "Snow Trail",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "snow-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "f88d758c-781c-43c1-aeef-205466163dd2",
+      "title": "Spring Awakens",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "spring-awakens",
+      "has_reactions": false
+    },
+    {
+      "id": "756514ae-4362-447b-b495-3c349e9fa0c9",
+      "title": "Drunken Angel",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "drunken-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "6f6661e6-ed88-4171-b000-0377e3481910",
+      "title": "Stray Dog",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "stray-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "3cde47e6-7f1b-4cb5-bb50-59bb5f8c3843",
+      "title": "The Quiet Duel",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-quiet-duel",
+      "has_reactions": false
+    },
+    {
+      "id": "6c869e6f-3e51-4c38-a80e-97d8b02ab22c",
+      "title": "A Bullet Hole Underground",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "a-bullet-hole-underground",
+      "has_reactions": false
+    },
+    {
+      "id": "3028bbe6-247d-4933-b678-28d82e40b57b",
+      "title": "Rashomon",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "rashomon",
+      "has_reactions": false
+    },
+    {
+      "id": "33ac5a83-9048-45f4-9d12-f6c741647a38",
+      "title": "Jiruba no Tetsu",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "jiruba-no-tetsu",
+      "has_reactions": false
+    },
+    {
+      "id": "665fdb49-ec4d-4375-91fb-9651803f863e",
+      "title": "Spring Snow",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "spring-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "47cf20cb-8230-4100-b82d-a056f14d37c8",
+      "title": "Scandal",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "scandal",
+      "has_reactions": false
+    },
+    {
+      "id": "bac7c238-d086-4526-ae2c-771d4c0859ed",
+      "title": "Sanshiro of Ginza",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "sanshiro-of-ginza",
+      "has_reactions": false
+    },
+    {
+      "id": "a92bfd7e-cbb7-4254-a4f7-8e5d98a92c9e",
+      "title": "Escape from Prison",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "escape-from-prison",
+      "has_reactions": false
+    },
+    {
+      "id": "20e6eaed-dd94-498d-b7ec-0797b6584e20",
+      "title": "Stolen Love",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "stolen-love",
+      "has_reactions": false
+    },
+    {
+      "id": "970baec2-faa7-4c33-a48e-d24afc766ae8",
+      "title": "The Idiot",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "the-idiot",
+      "has_reactions": false
+    },
+    {
+      "id": "a6abc999-aaf6-43a9-a758-eb5fbf820a10",
+      "title": "Ikiru",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "ikiru",
+      "has_reactions": false
+    },
+    {
+      "id": "1a1b1af7-82a4-40d6-ac9c-0889828be9fa",
+      "title": "The Men Who Tread on the Tiger's Tail",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-men-who-tread-on-the-tiger-s-tail",
+      "has_reactions": false
+    },
+    {
+      "id": "2e03358a-6c5e-4c1f-a105-2618c45e94d8",
+      "title": "Vendetta of a Samurai",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "vendetta-of-a-samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "59693f1e-cfdb-4229-a66e-2aab297ded03",
+      "title": "Escape Zone",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "escape-zone",
+      "has_reactions": false
+    },
+    {
+      "id": "2376509a-c583-4541-a156-7d3182e64758",
+      "title": "Seven Samurai",
+      "release_year": 1954,
+      "studio_label": "TOHO",
+      "slug": "seven-samurai",
+      "has_reactions": true
+    },
+    {
+      "id": "29c1f8fc-2a84-4b46-b2d0-51185f8af40b",
+      "title": "Godzilla",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "godzilla",
+      "has_reactions": false
+    },
+    {
+      "id": "69f21a81-f0ac-4be8-9a09-bad143e62ba5",
+      "title": "A Geisha on Horseback",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "a-geisha-on-horseback",
+      "has_reactions": false
+    },
+    {
+      "id": "6c6f38dc-4e56-4aae-b472-0063612c0d69",
+      "title": "Asakusa at Night",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "asakusa-at-night",
+      "has_reactions": false
+    },
+    {
+      "id": "b7356352-3d66-42be-80a0-835fe696103d",
+      "title": "I Live in Fear",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "i-live-in-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "2b7f5ff4-c15f-4b93-8930-e318c4a3ca3a",
+      "title": "Godzilla Raids Again",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "godzilla-raids-again",
+      "has_reactions": false
+    },
+    {
+      "id": "cd6b1885-8453-410b-a63e-395c9eb98bea",
+      "title": "Casebook of Dandy Sashichi: Blind Wolf",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "casebook-of-dandy-sashichi-blind-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "2efff926-8c42-4fb8-b36e-0f4bbeba9be4",
+      "title": "Samurai III: Duel at Ganryu Island",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "samurai-iii-duel-at-ganryu-island",
+      "has_reactions": false
+    },
+    {
+      "id": "586d06c5-2deb-46d8-9c6f-837338091ff7",
+      "title": "Godzilla, King of the Monsters!",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "godzilla-king-of-the-monsters",
+      "has_reactions": false
+    },
+    {
+      "id": "81d729ed-93d9-4ec2-bd84-eac4a0f773d2",
+      "title": "Tokyo Crime Map",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "tokyo-crime-map",
+      "has_reactions": false
+    },
+    {
+      "id": "b0399b34-c99d-4c12-9ae2-6b56d17e4b2b",
+      "title": "Throne of Blood",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "throne-of-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "23a4d100-638b-4150-b9fd-a3999caad6e1",
+      "title": "The Lord Takes a Bride",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-lord-takes-a-bride",
+      "has_reactions": false
+    },
+    {
+      "id": "a599120a-efb9-4d2f-8447-5b5a840cecb0",
+      "title": "Godzilla, the Monster of the Pacific Ocean",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "godzilla-the-monster-of-the-pacific-ocean",
+      "has_reactions": false
+    },
+    {
+      "id": "1ebb7c38-6393-42d4-bda8-f0d899baad8d",
+      "title": "The Mysterians",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-mysterians",
+      "has_reactions": false
+    },
+    {
+      "id": "f15e14b1-8305-4926-8762-4c1f71016181",
+      "title": "A Dangerous Hero",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "5982520d-f102-4187-8e00-bb62833c8c68",
+      "title": "Hadaka no Machi",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "hadaka-no-machi",
+      "has_reactions": false
+    },
+    {
+      "id": "0a17bb76-9d2a-4601-891a-a508de58107e",
+      "title": "Evening Calm",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "evening-calm",
+      "has_reactions": false
+    },
+    {
+      "id": "cfcfaa1e-4957-4498-ad04-53136cffb233",
+      "title": "The Hidden Fortress",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-hidden-fortress",
+      "has_reactions": false
+    },
+    {
+      "id": "63a2ece1-3cda-4041-ba8c-0cec87a56a6e",
+      "title": "Eight Views of Samurai",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "eight-views-of-samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "4465bb51-1abd-4a0b-b545-04429ace8a3e",
+      "title": "Shogun's Holiday",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "shogun-s-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "19879aa7-9dbd-4ff4-b813-9af4a9185ea4",
+      "title": "The Traveling Ruffian",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-traveling-ruffian",
+      "has_reactions": false
+    },
+    {
+      "id": "92d10262-2673-48e3-a652-304adde896b1",
+      "title": "Sazae-san's Marriage",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "sazae-san-s-marriage",
+      "has_reactions": false
+    },
+    {
+      "id": "e3364488-dcb9-4fa8-a92e-4e240230b150",
+      "title": "A Whistle in My Heart",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "a-whistle-in-my-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "805d07d5-e51f-48c5-9537-c196fbc0c80b",
+      "title": "The Three Treasures",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-three-treasures",
+      "has_reactions": false
+    },
+    {
+      "id": "1172be81-efbf-4997-aeef-348c985b1cb8",
+      "title": "The Bad Sleep Well",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-bad-sleep-well",
+      "has_reactions": false
+    },
+    {
+      "id": "a82c0aa1-93d3-462e-aae7-7a4c61c6a971",
+      "title": "Afraid to Die",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "afraid-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "75f1f23b-6063-4a6d-b1ac-0d9548336965",
+      "title": "Master Fencer Sees the World",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "master-fencer-sees-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "76504b2a-ac4b-4812-ba5a-51a9cc4c388f",
+      "title": "The Masterless 47",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-masterless-47",
+      "has_reactions": false
+    },
+    {
+      "id": "da35364d-8850-4775-9903-15ea63178cd3",
+      "title": "Different Sons",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "different-sons",
+      "has_reactions": false
+    },
+    {
+      "id": "02e69427-629d-42e6-937f-c415334d5bf2",
+      "title": "Mothra",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "mothra",
+      "has_reactions": false
+    },
+    {
+      "id": "043a64af-b1ff-4823-89aa-005bb142bdc1",
+      "title": "Yojimbo",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "yojimbo",
+      "has_reactions": false
+    },
+    {
+      "id": "49edd62e-125e-4ba6-93ac-d120e05f6065",
+      "title": "The Gambler's Code",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-gambler-s-code",
+      "has_reactions": false
+    },
+    {
+      "id": "5d49ea8d-4f53-46e2-b241-773e6649a48f",
+      "title": "Long Way to Okinawa",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "long-way-to-okinawa",
+      "has_reactions": false
+    },
+    {
+      "id": "6d400930-d5d7-4200-8a0c-8ac4eb647f1d",
+      "title": "Shimizu Port Salaryman Part II",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "shimizu-port-salaryman-part-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "c9e009d7-bc82-4792-a65f-5acdbf375436",
+      "title": "Sanjuro",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "sanjuro",
+      "has_reactions": false
+    },
+    {
+      "id": "19b50d5f-2bc1-45fb-a3a5-8d333f6a9c03",
+      "title": "Ch\u00fbshingura",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "ch-shingura",
+      "has_reactions": false
+    },
+    {
+      "id": "92636ba1-8a0e-47a9-948b-2cde7b4965ab",
+      "title": "The Crimson Sky",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "the-crimson-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "626d4039-071b-4546-8768-1f4210af2c1f",
+      "title": "\u3042\u306e\u7a7a\u306e\u679c\u3066\u306b\u661f\u306f\u307e\u305f\u305f\u304f",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "64e8a8ea-c8ad-4e25-b64c-a77b3d210c07",
+      "title": "Yoru no keisha",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "yoru-no-keisha",
+      "has_reactions": false
+    },
+    {
+      "id": "85ff5fad-de34-4340-b94e-2a75f956c03b",
+      "title": "High and Low",
+      "release_year": 1963,
+      "studio_label": "TOHO",
+      "slug": "high-and-low",
+      "has_reactions": false
+    },
+    {
+      "id": "8d702a97-8ba4-4609-ba72-e095bf0e989e",
+      "title": "Attack Squadron",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "attack-squadron",
+      "has_reactions": false
+    },
+    {
+      "id": "33749947-b1a6-4a92-b2d5-97d64d800ef8",
+      "title": "Samurai Pirate",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "samurai-pirate",
+      "has_reactions": false
+    },
+    {
+      "id": "a56194cf-8fa9-4564-b360-9975eb6f1e8c",
+      "title": "Gambler Tales of Hasshu: A Man's Pledge",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "gambler-tales-of-hasshu-a-man-s-pledge",
+      "has_reactions": false
+    },
+    {
+      "id": "651078a8-18b7-438c-a89d-5b370aabcc4c",
+      "title": "The Sun is Calling You",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-sun-is-calling-you",
+      "has_reactions": false
+    },
+    {
+      "id": "31c7cc70-d726-4c00-ba25-b67bf91eefc0",
+      "title": "Ghidorah, the Three-Headed Monster",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "ghidorah-the-three-headed-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "f485d8a8-0706-414a-a035-aa2d02f88513",
+      "title": "Red Beard",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "red-beard",
+      "has_reactions": false
+    },
+    {
+      "id": "ba1d00da-932b-4666-8d51-aa15efe738c4",
+      "title": "Frankenstein Conquers the World",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "frankenstein-conquers-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "4ae6a194-c92a-46f5-a907-dfbaf1f6ca18",
+      "title": "Kwaidan",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "kwaidan",
+      "has_reactions": false
+    },
+    {
+      "id": "bba5ceb3-c657-4be2-b916-e66d4929b345",
+      "title": "The Soundless Cry",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-soundless-cry",
+      "has_reactions": false
+    },
+    {
+      "id": "56d373d4-4c42-4574-981f-5eeac23906ae",
+      "title": "Samurai Assassin",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "samurai-assassin",
+      "has_reactions": false
+    },
+    {
+      "id": "1390ae0d-7e45-45fc-a557-6d8502bc1639",
+      "title": "Sanshiro Sugata",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "sanshiro-sugata",
+      "has_reactions": false
+    },
+    {
+      "id": "89c66539-9af4-4fe0-93eb-5688b55568fb",
+      "title": "The Harbor of No Return",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-harbor-of-no-return",
+      "has_reactions": false
+    },
+    {
+      "id": "f387bc4a-71b9-4f76-9cd3-3bef04cf06c4",
+      "title": "Japan's Longest Day",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "japan-s-longest-day",
+      "has_reactions": false
+    },
+    {
+      "id": "500a4617-d540-4374-a66e-7e8f8316eac2",
+      "title": "Underworld series - Pardon My Violent Ways",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "underworld-series-pardon-my-violent-ways",
+      "has_reactions": false
+    },
+    {
+      "id": "de88ba7b-20b7-407d-aa53-2227abfe3ab2",
+      "title": "Zatoichi and the Fugitives",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "zatoichi-and-the-fugitives",
+      "has_reactions": false
+    },
+    {
+      "id": "750190e1-6540-43c9-a6ce-fc3917e20718",
+      "title": "The Sands of Kurobe",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-sands-of-kurobe",
+      "has_reactions": false
+    },
+    {
+      "id": "6152fac2-7a3e-4ca1-8327-d39db15d1189",
+      "title": "Slave Factory",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "slave-factory",
+      "has_reactions": false
+    },
+    {
+      "id": "17b9489b-0766-42af-8fe5-1ecf182fe5df",
+      "title": "Kanto Woman Infamy",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "kanto-woman-infamy",
+      "has_reactions": false
+    },
+    {
+      "id": "4c14eef8-b0e0-406a-9f4d-d1d70b8dac74",
+      "title": "A Modern Yakuza: The Code of the Lawless",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "a-modern-yakuza-the-code-of-the-lawless",
+      "has_reactions": false
+    },
+    {
+      "id": "b0daa199-052c-432b-b8fe-adcbef365bad",
+      "title": "Brutal Tales of Chivalry 5: Man With The Karajishi Tattoo",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "brutal-tales-of-chivalry-5-man-with-the-karajishi-tattoo",
+      "has_reactions": false
+    },
+    {
+      "id": "cf43fe6f-b22f-4b15-835d-c33c6dfc4cb2",
+      "title": "The Militarists",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-militarists",
+      "has_reactions": false
+    },
+    {
+      "id": "995158e6-64b4-46b8-9c5b-6c9a98042320",
+      "title": "Tora-san's Love Call",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "tora-san-s-love-call",
+      "has_reactions": false
+    },
+    {
+      "id": "459c231a-9d10-4a0b-9826-4d41662b74ea",
+      "title": "Wicked Priest 5: Breaking The Commandments",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "wicked-priest-5-breaking-the-commandments",
+      "has_reactions": false
+    },
+    {
+      "id": "b3051b0d-d866-447b-9e86-41e66d20a4b3",
+      "title": "Zatoichi's Conspiracy",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "zatoichi-s-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "a9a7c474-e4db-4ec0-8744-298d61ea7a33",
+      "title": "Love and Faith",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "love-and-faith",
+      "has_reactions": false
+    },
+    {
+      "id": "b150eb7f-cd0c-47f1-a3f9-c17483813308",
+      "title": "Kagemusha",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "kagemusha",
+      "has_reactions": false
+    },
+    {
+      "id": "d058b4d9-64a0-49b8-9674-dd977dcb9c7c",
+      "title": "Fifth Movement",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "fifth-movement",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "id": "3d3ecfe4-8d74-4f2f-bacd-2939b91781a9",
+  "name": "Steven Spielberg",
+  "slug": "steven-spielberg",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+  "filmography": [
+    {
+      "id": "93e59103-94b4-4734-b304-15634c3a7b0b",
+      "title": "Directed by John Ford",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "directed-by-john-ford",
+      "has_reactions": false
+    },
+    {
+      "id": "7ea29f24-4a0f-4212-b13a-d479d76ac523",
+      "title": "Jaws",
+      "release_year": 1975,
+      "studio_label": "The Zanuck/Brown Company",
+      "slug": "jaws",
+      "has_reactions": true
+    },
+    {
+      "id": "58ecf4e3-a316-4b01-bb60-3287e16e2350",
+      "title": "TVTV Looks at the Oscars",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "tvtv-looks-at-the-oscars",
+      "has_reactions": false
+    },
+    {
+      "id": "3e5df189-515a-4939-868f-9655a0c36d46",
+      "title": "UFO's Are Here!",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "ufo-s-are-here",
+      "has_reactions": false
+    },
+    {
+      "id": "cc88403a-4e4c-4251-bb60-219c25136916",
+      "title": "The Blues Brothers",
+      "release_year": 1980,
+      "studio_label": "Universal Pictures",
+      "slug": "the-blues-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "c77db19a-5b18-416a-ae21-93e99e5adebc",
+      "title": "Great Movie Stunts: Raiders of the Lost Ark",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "great-movie-stunts-raiders-of-the-lost-ark",
+      "has_reactions": false
+    },
+    {
+      "id": "b04f893d-61e8-4649-bd44-f353aaf233f5",
+      "title": "The Making of 'Raiders of the Lost Ark'",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-raiders-of-the-lost-ark",
+      "has_reactions": false
+    },
+    {
+      "id": "28d9c431-19fd-463f-b9f9-d7cdb3860190",
+      "title": "The Making of Poltergeist",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-poltergeist",
+      "has_reactions": false
+    },
+    {
+      "id": "1ab8b7fd-f71e-44b5-bdf6-34f574828f49",
+      "title": "Gremlins",
+      "release_year": 1984,
+      "studio_label": "Amblin Entertainment",
+      "slug": "gremlins",
+      "has_reactions": true
+    },
+    {
+      "id": "275ecb15-4c6e-4831-a79e-6f7efebff5cc",
+      "title": "Room 666",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "room-666",
+      "has_reactions": false
+    },
+    {
+      "id": "38f145ca-5cc6-4990-b561-bfc1f139de0b",
+      "title": "Martin Scorsese Directs",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "martin-scorsese-directs",
+      "has_reactions": false
+    },
+    {
+      "id": "052979c8-f653-4221-9170-6162fef48d8d",
+      "title": "The Muppets Celebrate Jim Henson",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-celebrate-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "98ec53b7-e5a1-4f38-8851-58d4cf7fddc6",
+      "title": "Your Studio and You",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "your-studio-and-you",
+      "has_reactions": false
+    },
+    {
+      "id": "39f34268-07ce-44be-82e7-220b7e8a8063",
+      "title": "The Making of 'Jaws'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jaws",
+      "has_reactions": false
+    },
+    {
+      "id": "8f75216c-da17-4625-8a28-ee97e74615ee",
+      "title": "The Making of 'Jurassic Park'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jurassic-park",
+      "has_reactions": false
+    },
+    {
+      "id": "dc26c5d5-7a67-4d62-b775-76816c410ff1",
+      "title": "The Making of 'E.T. the Extra-Terrestrial'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-e-t-the-extra-terrestrial",
+      "has_reactions": false
+    },
+    {
+      "id": "a3bea17a-dab2-4fe0-bc0f-d7b68293d4e1",
+      "title": "The Making of '1941'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-1941",
+      "has_reactions": false
+    },
+    {
+      "id": "6af1aae4-b211-4788-963c-d9813c7df2b1",
+      "title": "In the Teeth of Jaws",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-the-teeth-of-jaws",
+      "has_reactions": false
+    },
+    {
+      "id": "debb6c04-c8c2-49be-8f62-1ce7c5d3f0ac",
+      "title": "Remembering Stanley Kubrick",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "remembering-stanley-kubrick",
+      "has_reactions": false
+    },
+    {
+      "id": "d250b31b-8c27-44c0-88b6-a234a23a8b35",
+      "title": "Stanley Kubrick: A Life in Pictures",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "stanley-kubrick-a-life-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "4d929a77-996b-43a6-ad1d-db6582585b03",
+      "title": "Lawrence of Arabia: A Conversation with Steven Spielberg",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "lawrence-of-arabia-a-conversation-with-steven-spielberg",
+      "has_reactions": false
+    },
+    {
+      "id": "09714d2a-7c49-4d56-a228-5b795cc98151",
+      "title": "The Music of E.T.: A Discussion with John Williams",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-music-of-e-t-a-discussion-with-john-williams",
+      "has_reactions": false
+    },
+    {
+      "id": "ef78f1e7-d46f-44b2-b688-c85a1528c363",
+      "title": "The Sound of 'Indiana Jones'",
+      "release_year": 2003,
+      "studio_label": "Paramount Home Entertainment",
+      "slug": "the-sound-of-indiana-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "0f5a32d7-bfe5-41fc-babe-35cba1d68fb9",
+      "title": "Behind the Ears: The True Story of Roger Rabbit",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "behind-the-ears-the-true-story-of-roger-rabbit",
+      "has_reactions": false
+    },
+    {
+      "id": "c7e3d2ce-69bc-4b91-b775-055f81076cc5",
+      "title": "Robert Capa: In Love and War",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "robert-capa-in-love-and-war",
+      "has_reactions": false
+    },
+    {
+      "id": "7ab0fa8c-01dc-4255-bc81-13ea56ef0acc",
+      "title": "Catch Me If You Can: Behind the Camera",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "catch-me-if-you-can-behind-the-camera",
+      "has_reactions": false
+    },
+    {
+      "id": "8c22d81b-ebe0-4270-879e-84b9bc8b7858",
+      "title": "Artifact from the Future: The Making of 'THX 1138'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "artifact-from-the-future-the-making-of-thx-1138",
+      "has_reactions": false
+    },
+    {
+      "id": "ea561173-ce36-4ccf-b1f2-a9f7441978f4",
+      "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "empire-of-dreams-the-story-of-the-star-wars-trilogy",
+      "has_reactions": false
+    },
+    {
+      "id": "6ace44a0-eea8-404e-aeca-9552efea42b4",
+      "title": "A Legacy of Filmmakers: The Early Years of American Zoetrope",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-legacy-of-filmmakers-the-early-years-of-american-zoetrope",
+      "has_reactions": false
+    },
+    {
+      "id": "ef5daf48-0577-457e-ab01-18abbef70a1c",
+      "title": "Imaginary Witness: Hollywood and the Holocaust",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "imaginary-witness-hollywood-and-the-holocaust",
+      "has_reactions": false
+    },
+    {
+      "id": "961b2fc1-3b7c-4b9e-a91f-6326538cc533",
+      "title": "Voices from the List",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "voices-from-the-list",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e60583-0344-411c-897c-ea33c02de5c3",
+      "title": "Cecil B. DeMille: American Epic",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "cecil-b-demille-american-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "5c2b2605-98cb-41f7-b67e-ce3f8b24e412",
+      "title": "George Lucas: Creating an Empire",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "george-lucas-creating-an-empire",
+      "has_reactions": false
+    },
+    {
+      "id": "0faac3a8-3b61-42a3-b076-a61f55bf776b",
+      "title": "The Human Factor: Exacting Revenge of the Fallen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-human-factor-exacting-revenge-of-the-fallen",
+      "has_reactions": false
+    },
+    {
+      "id": "fa38a5ad-14b5-4349-96dd-c03e4e98f626",
+      "title": "Looking Back to the Future",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "looking-back-to-the-future",
+      "has_reactions": false
+    },
+    {
+      "id": "2fdf8560-3693-4000-841c-6bc7fc37310b",
+      "title": "Casablanca: An Unlikely Classic",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "casablanca-an-unlikely-classic",
+      "has_reactions": false
+    },
+    {
+      "id": "6b8a993d-1753-4059-a659-7382c8e46b45",
+      "title": "Jaws: The Restoration",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jaws-the-restoration",
+      "has_reactions": false
+    },
+    {
+      "id": "73034726-d01f-4fbb-b544-a819f8549ffa",
+      "title": "Stanley Kubrick in Focus",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "stanley-kubrick-in-focus",
+      "has_reactions": false
+    },
+    {
+      "id": "95da0b23-4382-4865-9ed7-d9e32a3e0970",
+      "title": "Michael Curtiz: The Greatest Director You Never Heard Of",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "michael-curtiz-the-greatest-director-you-never-heard-of",
+      "has_reactions": false
+    },
+    {
+      "id": "4576aa3a-ce94-411e-83dd-2086d116fb6a",
+      "title": "Alice Walker: Beauty in Truth",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "alice-walker-beauty-in-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "fd3a29ec-10cc-46cd-9105-31b93891f4b9",
+      "title": "Kubrick Remembered",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kubrick-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "669842b7-734e-48dc-b6bd-fba862ed8dc4",
+      "title": "Back in Time",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "back-in-time",
+      "has_reactions": false
+    },
+    {
+      "id": "74947713-4ef6-4802-9aea-2fd233ad4984",
+      "title": "Five Came Back",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "five-came-back",
+      "has_reactions": false
+    },
+    {
+      "id": "f8b5b0e0-0af4-4993-bd47-e571735d7deb",
+      "title": "Score: A Film Music Documentary",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "score-a-film-music-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "28757e73-41d4-4b17-88f5-4311910d8c24",
+      "title": "TVTV: Video Revolutionaries",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "tvtv-video-revolutionaries",
+      "has_reactions": false
+    },
+    {
+      "id": "c2cf00b1-69fd-434a-897b-365cae077010",
+      "title": "Fallen Kingdom: Malcolm's Return",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "fallen-kingdom-malcolm-s-return",
+      "has_reactions": false
+    },
+    {
+      "id": "909f8deb-a790-44dd-be16-62775b88db59",
+      "title": "Fallen Kingdom: Aboard The Arcadia",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "fallen-kingdom-aboard-the-arcadia",
+      "has_reactions": false
+    },
+    {
+      "id": "2b828a2b-6b4e-4da1-aadb-66ef122fe249",
+      "title": "Filip and Fredrik meet Steven Spielberg - for a minute",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "filip-and-fredrik-meet-steven-spielberg-for-a-minute",
+      "has_reactions": false
+    },
+    {
+      "id": "c5e003c5-9e1d-44e1-b600-b331498a3b53",
+      "title": "Something's Coming: West Side Story",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "something-s-coming-west-side-story",
+      "has_reactions": false
+    },
+    {
+      "id": "d42b7a7a-658e-43cc-9935-55fd5827ca67",
+      "title": "Rita Moreno: Just a Girl Who Decided to Go for It",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rita-moreno-just-a-girl-who-decided-to-go-for-it",
+      "has_reactions": false
+    },
+    {
+      "id": "5cfa4cd2-0514-4cf7-afb2-9b7364720508",
+      "title": "Hannibal Hopkins & Sir Anthony",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "hannibal-hopkins-sir-anthony",
+      "has_reactions": false
+    },
+    {
+      "id": "0568c7c8-8a96-4fe4-a633-cc7a3c58521e",
+      "title": "The Stories of West Side Story",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-stories-of-west-side-story",
+      "has_reactions": false
+    },
+    {
+      "id": "da591112-93e3-49e1-bdc2-0683e02ed6ce",
+      "title": "O\u00f9 est parti E.T. ? L'Enfance selon Spielberg",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "o-est-parti-e-t-l-enfance-selon-spielberg",
+      "has_reactions": false
+    },
+    {
+      "id": "8b27ea60-7511-47c6-a5b3-82ccf83010eb",
+      "title": "The Fabelmans: A Family in Film",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-fabelmans-a-family-in-film",
+      "has_reactions": false
+    },
+    {
+      "id": "2bc91abc-5476-4a1f-b34d-b2795fc35ae8",
+      "title": "The Making of Indiana Jones and the Dial of Destiny",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-indiana-jones-and-the-dial-of-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "2dde7b87-d163-4a64-a780-7e7338ef2cbf",
+      "title": "Timeless Heroes: Indiana Jones and Harrison Ford",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "timeless-heroes-indiana-jones-and-harrison-ford",
+      "has_reactions": false
+    },
+    {
+      "id": "d4b517f4-042d-41c4-b17e-19e4c7ffd2f9",
+      "title": "Oprah & The Color Purple Journey",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "oprah-the-color-purple-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "bd732d16-9c74-4b2d-b8fd-d6f62750e67f",
+      "title": "The Moviemakers: Spielberg",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-moviemakers-spielberg",
+      "has_reactions": false
+    },
+    {
+      "id": "8dda03f1-8282-4b4c-a2d6-66406fe187c9",
+      "title": "Music by John Williams",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "music-by-john-williams",
+      "has_reactions": false
+    },
+    {
+      "id": "d25cbc08-c600-4fa0-bc5f-5e58e2b9e4be",
+      "title": "Steven Spielberg, the \u201cNew Hollywood\u201d Prodigy",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "steven-spielberg-the-new-hollywood-prodigy",
+      "has_reactions": false
+    }
+  ]
+}

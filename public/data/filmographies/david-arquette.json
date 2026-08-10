@@ -1,0 +1,704 @@
+{
+  "id": "2cfe2e79-062a-4f0d-92a8-f0f20e15a1b9",
+  "name": "David Arquette",
+  "slug": "david-arquette",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/74wJjoywG7zCrNMWbRxwoyOj7Ub.jpg",
+  "filmography": [
+    {
+      "id": "537702fe-0750-4902-967d-a714dac4baa2",
+      "title": "Adultland",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "adultland",
+      "has_reactions": false
+    },
+    {
+      "id": "47abb674-4f50-46a4-9c80-5749148b12e4",
+      "title": "Buffy the Vampire Slayer",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "buffy-the-vampire-slayer",
+      "has_reactions": false
+    },
+    {
+      "id": "9ac5ee65-97c9-4b07-a5b2-128f31bf0f95",
+      "title": "Grey Knight",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "grey-knight",
+      "has_reactions": false
+    },
+    {
+      "id": "f4a487ee-9b47-406e-8134-5222e3d909ed",
+      "title": "An Ambush of Ghosts",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "an-ambush-of-ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "7e888602-f96d-4d5c-8d52-530ecd66b2c1",
+      "title": "At Home with the Webbers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "at-home-with-the-webbers",
+      "has_reactions": false
+    },
+    {
+      "id": "ea3d471f-d40f-4d57-9ec9-22573c4f6521",
+      "title": "Airheads",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "airheads",
+      "has_reactions": false
+    },
+    {
+      "id": "c6338507-43ce-43f9-b9c6-2558aad97da1",
+      "title": "Fall Time",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "fall-time",
+      "has_reactions": false
+    },
+    {
+      "id": "27b3a69c-3f8e-4a17-ba11-162d3c779033",
+      "title": "Scream",
+      "release_year": 1996,
+      "studio_label": "Dimension Films",
+      "slug": "scream",
+      "has_reactions": true
+    },
+    {
+      "id": "f42bb10a-e892-4a70-9dda-ad9020a509ec",
+      "title": "Johns",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "johns",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2818c8-8de4-453f-af21-b2fc9ff79f0e",
+      "title": "Skin & Bone",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "skin-bone",
+      "has_reactions": false
+    },
+    {
+      "id": "0ada042e-e8c1-4423-a8b9-a7eeaad39cd6",
+      "title": "Beautiful Girls",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "beautiful-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "4304ca23-5500-4799-af03-31493aefdac8",
+      "title": "Scream 2",
+      "release_year": 1997,
+      "studio_label": "Dimension Films",
+      "slug": "scream-2",
+      "has_reactions": true
+    },
+    {
+      "id": "67b919f9-0190-4d94-889f-3a4c8587ebba",
+      "title": "Dream with the Fishes",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "dream-with-the-fishes",
+      "has_reactions": false
+    },
+    {
+      "id": "a3ca45b0-fa1a-4cc6-a137-4d9f5b7092bf",
+      "title": "Kiss & Tell",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "kiss-tell",
+      "has_reactions": false
+    },
+    {
+      "id": "351252a0-7a49-4937-8283-292a50b752ff",
+      "title": "The Alarmist",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-alarmist",
+      "has_reactions": false
+    },
+    {
+      "id": "a841004f-022c-434f-9cda-40bcd993b58d",
+      "title": "RPM",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "rpm",
+      "has_reactions": false
+    },
+    {
+      "id": "2a057d05-8dbd-4691-b189-8607cf61f5f0",
+      "title": "Ravenous",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "ravenous",
+      "has_reactions": false
+    },
+    {
+      "id": "4b3042a5-6887-47b4-ba30-31cfbefc4815",
+      "title": "Never Been Kissed",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "never-been-kissed",
+      "has_reactions": false
+    },
+    {
+      "id": "88d5b81a-6e5b-4058-b936-487721d00468",
+      "title": "Scream 3",
+      "release_year": 2000,
+      "studio_label": "Dimension Films",
+      "slug": "scream-3",
+      "has_reactions": true
+    },
+    {
+      "id": "c981f8fb-9cc4-4f77-bb16-c385feddffad",
+      "title": "WCW Slamboree 2000",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "wcw-slamboree-2000",
+      "has_reactions": false
+    },
+    {
+      "id": "22332b02-b0e7-41db-a161-003adb6e84d2",
+      "title": "Ready to Rumble",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ready-to-rumble",
+      "has_reactions": false
+    },
+    {
+      "id": "5567ab4e-6274-4de1-809d-1f696225303e",
+      "title": "WCW New Blood Rising",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "wcw-new-blood-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "74de4507-d164-4299-b8cb-36d968e4460c",
+      "title": "The Shrink Is In",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-shrink-is-in",
+      "has_reactions": false
+    },
+    {
+      "id": "3892bccd-7c1b-4afa-b7b4-5642f6506fbb",
+      "title": "See Spot Run",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "see-spot-run",
+      "has_reactions": false
+    },
+    {
+      "id": "f1c15447-98b9-4b5f-b6da-477750f2f3d0",
+      "title": "Eight Legged Freaks",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "eight-legged-freaks",
+      "has_reactions": false
+    },
+    {
+      "id": "bb52458d-44d6-439d-934a-ba4822136d68",
+      "title": "Happy Here and Now",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "happy-here-and-now",
+      "has_reactions": false
+    },
+    {
+      "id": "20668b39-b3f0-4af2-8ddc-aa96358b316f",
+      "title": "It's a Very Merry Muppet Christmas Movie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-very-merry-muppet-christmas-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "db9db17a-2a24-402d-bccc-e4949cc9cd5c",
+      "title": "Never Die Alone",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "never-die-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "d48a96a9-d0e1-4a29-a2af-30a7bffb393a",
+      "title": "Riding the Bullet",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "riding-the-bullet",
+      "has_reactions": false
+    },
+    {
+      "id": "6f6d9007-928a-4360-a73b-527e188b5edd",
+      "title": "A Foreign Affair",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-foreign-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "1b6bf581-f449-4a69-9c0f-1129b707848c",
+      "title": "The Adventures of Sharkboy and Lavagirl",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-sharkboy-and-lavagirl",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9c7356-bf35-4b1e-8019-d9737699e226",
+      "title": "Slingshot",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "slingshot",
+      "has_reactions": false
+    },
+    {
+      "id": "b9c94e9a-025e-4f19-b51d-8b2467b5164c",
+      "title": "WWE WrestleMania 21",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "wwe-wrestlemania-21",
+      "has_reactions": false
+    },
+    {
+      "id": "9de19b75-2761-4688-9249-2bb22122faa4",
+      "title": "The Tripper",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-tripper",
+      "has_reactions": false
+    },
+    {
+      "id": "240d251a-7b7d-423a-98e0-9807f3bd4883",
+      "title": "Rising Son: The Legend of Skateboarder Christian Hosoi",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "rising-son-the-legend-of-skateboarder-christian-hosoi",
+      "has_reactions": false
+    },
+    {
+      "id": "8ea1fd13-508b-4bc3-8016-0e62117bd369",
+      "title": "Time Bomb",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "time-bomb",
+      "has_reactions": false
+    },
+    {
+      "id": "57bc4e15-6767-4136-84be-8faf932ce744",
+      "title": "The Darwin Awards",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-darwin-awards",
+      "has_reactions": false
+    },
+    {
+      "id": "3be484df-b83d-4172-9576-446ee1b1d634",
+      "title": "Hamlet 2",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hamlet-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a1b877f2-97b2-4d85-a816-3d632a86fe4e",
+      "title": "The Butler's In Love",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-butler-s-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "374c1b14-82aa-4511-b45e-ec2b96193a20",
+      "title": "Nosebleed",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "nosebleed",
+      "has_reactions": false
+    },
+    {
+      "id": "21d41c42-afd5-4932-965c-cfb773849a5a",
+      "title": "The Rise & Fall of WCW",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-rise-fall-of-wcw",
+      "has_reactions": false
+    },
+    {
+      "id": "40fc126c-89bb-4085-bd39-2d020ad6c95f",
+      "title": "The Land of the Astronauts",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-land-of-the-astronauts",
+      "has_reactions": false
+    },
+    {
+      "id": "d7f7181f-3679-4d4f-b0e8-3f266a4b2828",
+      "title": "The Legend of Hallowdega",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-hallowdega",
+      "has_reactions": false
+    },
+    {
+      "id": "2f5320e5-1032-40fb-a144-bdce0b5461a1",
+      "title": "Scream 4",
+      "release_year": 2011,
+      "studio_label": "Dimension Films",
+      "slug": "scream-4",
+      "has_reactions": true
+    },
+    {
+      "id": "cb5781ec-9c48-4763-a6a1-a6017300c61a",
+      "title": "Conception",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "conception",
+      "has_reactions": false
+    },
+    {
+      "id": "6d24ffa0-d146-4193-ad23-a06346bf5bfb",
+      "title": "Still Screaming: The Ultimate Scary Movie Retrospective",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "still-screaming-the-ultimate-scary-movie-retrospective",
+      "has_reactions": false
+    },
+    {
+      "id": "6de727bf-4bef-4495-9647-d5cf162c80a1",
+      "title": "Jake and the Never Land Pirates: Peter Pan Returns",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jake-and-the-never-land-pirates-peter-pan-returns",
+      "has_reactions": false
+    },
+    {
+      "id": "5bc6f6f3-cb72-49fe-9a95-fbc826ffe5b1",
+      "title": "The Cottage",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-cottage",
+      "has_reactions": false
+    },
+    {
+      "id": "abf92a9c-7083-4abd-aa44-1b69afc39ef0",
+      "title": "Happy Face Killer",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "happy-face-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "f1409483-c259-4d5f-8ba1-a1695cd345bb",
+      "title": "Muffin Top: A Love Story",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "muffin-top-a-love-story",
+      "has_reactions": false
+    },
+    {
+      "id": "4ba27683-2ee7-4ae6-9e84-56aa715ac7a6",
+      "title": "Jake and the Never Land Pirates: Battle for the Book",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "jake-and-the-never-land-pirates-battle-for-the-book",
+      "has_reactions": false
+    },
+    {
+      "id": "5e646aef-a08e-4956-9df8-efe35b91766a",
+      "title": "The Key",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-key",
+      "has_reactions": false
+    },
+    {
+      "id": "ba6fa1eb-6111-40cf-9c50-a748e2251d38",
+      "title": "Jake And Never Land Pirates: Jake Vs. Hook",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "jake-and-never-land-pirates-jake-vs-hook",
+      "has_reactions": false
+    },
+    {
+      "id": "e41a2134-20c4-4c9d-b740-1e37796130fa",
+      "title": "Field of Lost Shoes",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "field-of-lost-shoes",
+      "has_reactions": false
+    },
+    {
+      "id": "e403b1e3-0906-4bd7-a29c-82b2000d5298",
+      "title": "Bone Tomahawk",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bone-tomahawk",
+      "has_reactions": false
+    },
+    {
+      "id": "e5e4cc1d-93db-4856-9de4-ffcd904c2400",
+      "title": "Orion",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "orion",
+      "has_reactions": false
+    },
+    {
+      "id": "c2db8105-0d0a-40ad-84cd-5ee95d678808",
+      "title": "Just Before I Go",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "just-before-i-go",
+      "has_reactions": false
+    },
+    {
+      "id": "9252e87a-e663-4ad4-8f33-daa797277187",
+      "title": "Sold",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "sold",
+      "has_reactions": false
+    },
+    {
+      "id": "5054691f-9539-406c-9a80-b57483bdfe23",
+      "title": "Pee-wee's Big Holiday",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "pee-wee-s-big-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "93439c7a-b63d-48c0-91fa-0645b9a13aef",
+      "title": "Evan's Crime",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "evan-s-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "28de19eb-51fb-4099-be0a-4f3299f78140",
+      "title": "Casual Encounters",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "casual-encounters",
+      "has_reactions": false
+    },
+    {
+      "id": "9b3006fe-6bad-45ec-8c84-46c1fa0ed2db",
+      "title": "When the Starlight Ends",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "when-the-starlight-ends",
+      "has_reactions": false
+    },
+    {
+      "id": "37c37248-bb1a-40f0-896f-a6f94a208dfa",
+      "title": "Amanda & Jack Go Glamping",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "amanda-jack-go-glamping",
+      "has_reactions": false
+    },
+    {
+      "id": "65527427-e191-4882-91a7-ceea5ad22f57",
+      "title": "Warrior Wrestling 2",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "warrior-wrestling-2",
+      "has_reactions": false
+    },
+    {
+      "id": "ee9cb7e8-2511-45cf-b853-58c13e5bee98",
+      "title": "Sk8 Dawg",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "sk8-dawg",
+      "has_reactions": false
+    },
+    {
+      "id": "c46f08bf-550e-4f7b-b531-e5981acb85ce",
+      "title": "The Big Break",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-big-break",
+      "has_reactions": false
+    },
+    {
+      "id": "97914897-efed-4fcf-9176-7f4ff5ec97a4",
+      "title": "High Voltage",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "high-voltage",
+      "has_reactions": false
+    },
+    {
+      "id": "82ed2db1-cc66-483d-b723-872fa6ab3058",
+      "title": "Bachelor Lions",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bachelor-lions",
+      "has_reactions": false
+    },
+    {
+      "id": "bac03567-6730-49fd-962f-d77fb40880f9",
+      "title": "Mope",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "mope",
+      "has_reactions": false
+    },
+    {
+      "id": "03deabb7-aebe-4704-b136-8a4b391d740e",
+      "title": "Saving Flora",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "saving-flora",
+      "has_reactions": false
+    },
+    {
+      "id": "331353ba-69a8-4036-9d2c-f129625f2925",
+      "title": "Mob Town",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "mob-town",
+      "has_reactions": false
+    },
+    {
+      "id": "f28a1724-32b2-48bb-b5e0-35e0298b065c",
+      "title": "The Miseducation of Bindu",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-miseducation-of-bindu",
+      "has_reactions": false
+    },
+    {
+      "id": "b65e89f0-e92f-4cb2-a4a0-5320bcccbfc6",
+      "title": "2099: The Soldier Protocol",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "2099-the-soldier-protocol",
+      "has_reactions": false
+    },
+    {
+      "id": "7c7e8a1c-341c-4784-a070-70eeec372a8e",
+      "title": "Jenny Lewis' On The Line Online",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "jenny-lewis-on-the-line-online",
+      "has_reactions": false
+    },
+    {
+      "id": "9dd8ba57-d61d-44a1-a528-13f6ee7df062",
+      "title": "Blackjack: The Jackie Ryan Story",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "blackjack-the-jackie-ryan-story",
+      "has_reactions": false
+    },
+    {
+      "id": "432daa5f-71a3-404c-b040-ff4d1587dbc0",
+      "title": "12 Hour Shift",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "12-hour-shift",
+      "has_reactions": false
+    },
+    {
+      "id": "27b2804f-c144-41e1-a50f-1b3dc85920cd",
+      "title": "Spree",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "spree",
+      "has_reactions": false
+    },
+    {
+      "id": "76adaab7-2fef-4568-a897-cbf74edd4745",
+      "title": "You Cannot Kill David Arquette",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "you-cannot-kill-david-arquette",
+      "has_reactions": false
+    },
+    {
+      "id": "da0e0346-0e91-4396-a31e-e9d6bbd55673",
+      "title": "Dr. Bird's Advice for Sad Poets",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dr-bird-s-advice-for-sad-poets",
+      "has_reactions": false
+    },
+    {
+      "id": "be7cddc1-6b09-48e0-a3fc-e2d0ce14501a",
+      "title": "Scream",
+      "release_year": 2022,
+      "studio_label": "Paramount Pictures",
+      "slug": "scream",
+      "has_reactions": true
+    },
+    {
+      "id": "78a3dbb6-bdaf-49c4-82f1-fe5309b79db3",
+      "title": "Ghosts of the Ozarks",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ghosts-of-the-ozarks",
+      "has_reactions": false
+    },
+    {
+      "id": "c0b64abc-0e07-404f-8bf3-3a1ff43d07b2",
+      "title": "The Storied Life of A.J. Fikry",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-storied-life-of-a-j-fikry",
+      "has_reactions": false
+    },
+    {
+      "id": "e005f6d6-87a2-49d0-b9fb-00e45e9769cb",
+      "title": "On Sacred Ground",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "on-sacred-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "2e0f3b85-9124-45fb-aaee-8f6c4fc3b10b",
+      "title": "The Good Half",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-good-half",
+      "has_reactions": false
+    },
+    {
+      "id": "4ed148c9-3195-4a9a-a39b-083b130d6e18",
+      "title": "The Unholy Trinity",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-unholy-trinity",
+      "has_reactions": false
+    },
+    {
+      "id": "05809bca-ffd7-432f-a62c-b52ed1f73106",
+      "title": "Mob Cops",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "mob-cops",
+      "has_reactions": false
+    },
+    {
+      "id": "8cc92c01-fafd-4e23-b7dd-d09d6ec15ab7",
+      "title": "The Perfect Gamble",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-gamble",
+      "has_reactions": false
+    }
+  ]
+}

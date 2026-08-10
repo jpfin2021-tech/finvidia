@@ -1,0 +1,544 @@
+{
+  "id": "754a69f2-f9b7-49f3-a598-740fc82965ec",
+  "name": "Christian Slater",
+  "slug": "christian-slater",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg",
+  "filmography": [
+    {
+      "id": "cc97d622-1d8b-4266-8522-c4c878a84554",
+      "title": "Young Guns III",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "young-guns-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "bcd810fe-a2f6-403a-a56f-75a1934fa8a1",
+      "title": "Last Call of a Dying Hawk",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "last-call-of-a-dying-hawk",
+      "has_reactions": false
+    },
+    {
+      "id": "f032f9e0-da9d-4bad-8486-ad0f44717107",
+      "title": "Sherlock Holmes: The Strange Case of Alice Faulkner",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "sherlock-holmes-the-strange-case-of-alice-faulkner",
+      "has_reactions": false
+    },
+    {
+      "id": "9ef4b37d-525a-4d33-9cdf-866453bcec43",
+      "title": "Living Proof: The Hank Williams Jr. Story",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "living-proof-the-hank-williams-jr-story",
+      "has_reactions": false
+    },
+    {
+      "id": "9ba76f4a-7ced-4f4f-8010-911f3dee241f",
+      "title": "Twisted",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "twisted",
+      "has_reactions": false
+    },
+    {
+      "id": "bdc43908-46d3-49bd-990e-372cd2d53dc6",
+      "title": "The Legend of Billie Jean",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-billie-jean",
+      "has_reactions": false
+    },
+    {
+      "id": "acca0a9e-e07b-4a9c-99ed-818197f797b6",
+      "title": "Heathers",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "heathers",
+      "has_reactions": false
+    },
+    {
+      "id": "8cbf323f-9c37-4a5b-b075-d6275312af95",
+      "title": "Beyond the Stars",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "96283a4b-1448-4fe0-9bcd-5f5167a50f51",
+      "title": "The Wizard",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-wizard",
+      "has_reactions": false
+    },
+    {
+      "id": "7022ef90-c4d9-4a5b-b1cd-f09ce77f2b35",
+      "title": "Desperate for Love",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "desperate-for-love",
+      "has_reactions": false
+    },
+    {
+      "id": "db1b6859-8272-4622-8911-6646cce930de",
+      "title": "Pump Up the Volume",
+      "release_year": 1990,
+      "studio_label": "New Line Cinema",
+      "slug": "pump-up-the-volume",
+      "has_reactions": true
+    },
+    {
+      "id": "3a014cdd-c596-42aa-a699-cdbba5778322",
+      "title": "Young Guns II",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "young-guns-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "25a3a12c-d7d4-4f69-a057-3c09f34a3111",
+      "title": "Tales from the Darkside: The Movie",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tales-from-the-darkside-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "d6cd8c1b-0dd7-4ef3-aa22-15f687d2230e",
+      "title": "Robin Hood: Prince of Thieves",
+      "release_year": 1991,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "robin-hood-prince-of-thieves",
+      "has_reactions": true
+    },
+    {
+      "id": "d2e74008-9db4-43f0-a210-638cbe73854b",
+      "title": "Mobsters",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mobsters",
+      "has_reactions": false
+    },
+    {
+      "id": "81a5d517-b4cf-4bbd-8092-15d2ae88a56b",
+      "title": "Robin Hood: The Myth, the Man, the Movie",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "robin-hood-the-myth-the-man-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "9cf21930-17de-4be8-a8fc-15c4db54c4a1",
+      "title": "Star Trek VI: The Undiscovered Country",
+      "release_year": 1991,
+      "studio_label": "Paramount Pictures",
+      "slug": "star-trek-vi-the-undiscovered-country",
+      "has_reactions": true
+    },
+    {
+      "id": "d33a5bd1-ddad-487c-ac8c-d2d3d7b91030",
+      "title": "FernGully: The Last Rainforest",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "ferngully-the-last-rainforest",
+      "has_reactions": false
+    },
+    {
+      "id": "e1d0da1d-e648-4fbb-8e94-39f488f9668c",
+      "title": "Kuffs",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "kuffs",
+      "has_reactions": false
+    },
+    {
+      "id": "79e9e08b-9f4c-4587-a792-832b7904ffbd",
+      "title": "True Romance",
+      "release_year": 1993,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "true-romance",
+      "has_reactions": true
+    },
+    {
+      "id": "6cacd36d-8d1c-4e26-bafe-ae24c3366ad4",
+      "title": "Interview with the Vampire",
+      "release_year": 1994,
+      "studio_label": "Geffen Pictures",
+      "slug": "interview-with-the-vampire",
+      "has_reactions": true
+    },
+    {
+      "id": "850fe208-aec6-4f07-97df-1996198776bb",
+      "title": "Jimmy Hollywood",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "jimmy-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "11129760-1f4a-4ad4-a3e6-a3779b3dec85",
+      "title": "Murder in the First",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-first",
+      "has_reactions": false
+    },
+    {
+      "id": "64717993-f1d8-499e-992f-41b769909c34",
+      "title": "Merry Christmas, George Bailey",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "merry-christmas-george-bailey",
+      "has_reactions": false
+    },
+    {
+      "id": "ee149d54-668d-48a3-9c46-0457f8f7ab4b",
+      "title": "Austin Powers: International Man of Mystery",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "austin-powers-international-man-of-mystery",
+      "has_reactions": true
+    },
+    {
+      "id": "437e550d-334b-4356-a4d9-937c23f1d147",
+      "title": "Basil",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "basil",
+      "has_reactions": false
+    },
+    {
+      "id": "5f83a42d-1c12-475a-a4d1-710e4ba4e954",
+      "title": "Saturday Night Live: The Best of Phil Hartman",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-phil-hartman",
+      "has_reactions": false
+    },
+    {
+      "id": "426ff226-f5ae-4b1f-9c83-a5c41065e9c2",
+      "title": "Who Is Cletis Tout?",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "who-is-cletis-tout",
+      "has_reactions": false
+    },
+    {
+      "id": "d076b755-58f1-4bb3-93f4-997d2c25da9b",
+      "title": "Zoolander",
+      "release_year": 2001,
+      "studio_label": "Paramount Pictures",
+      "slug": "zoolander",
+      "has_reactions": true
+    },
+    {
+      "id": "bca658fe-52e9-46ad-9009-9d52f8741c95",
+      "title": "Swatch Dogs and Diet Coke Heads",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "swatch-dogs-and-diet-coke-heads",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae42808-0099-4104-b241-2fe6b98fea63",
+      "title": "Paul McCartney: Back in the U.S.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-back-in-the-u-s",
+      "has_reactions": false
+    },
+    {
+      "id": "cf77082a-aa17-4d46-9a24-b96f0fe7561a",
+      "title": "Windtalkers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "windtalkers",
+      "has_reactions": false
+    },
+    {
+      "id": "17ab6407-a16c-432b-affe-1b4f2e86c5b1",
+      "title": "The Good Shepherd",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-good-shepherd",
+      "has_reactions": false
+    },
+    {
+      "id": "2f1b3aca-95ff-4242-8fe1-cb8469b22a70",
+      "title": "Churchill: The Hollywood Years",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "churchill-the-hollywood-years",
+      "has_reactions": false
+    },
+    {
+      "id": "b99197dc-bf06-4560-ac01-b1f9b5670d2f",
+      "title": "Robot Chicken's Christmas Special",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "robot-chicken-s-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "9d0859bd-e98e-43c5-9499-415659517aa2",
+      "title": "Alone in the Dark",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "alone-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "44f54955-22de-4422-b670-bbf7f273b01b",
+      "title": "Crossing the Line",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "crossing-the-line",
+      "has_reactions": false
+    },
+    {
+      "id": "f85149f0-806a-4d44-b13d-8ae2c10300a8",
+      "title": "Hollow Man II",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hollow-man-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "4d961955-e1e2-4238-994d-72ac95373d5e",
+      "title": "Slipstream",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "slipstream",
+      "has_reactions": false
+    },
+    {
+      "id": "76c9eb76-9023-42b9-bef6-b3e3d5c958e9",
+      "title": "He Was a Quiet Man",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "he-was-a-quiet-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f3933e24-4781-4982-b283-88db41a1e83e",
+      "title": "The Ten Commandments",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ten-commandments",
+      "has_reactions": false
+    },
+    {
+      "id": "1a3ec237-1d7e-4ce9-a649-fdb614284ca7",
+      "title": "Love Lies Bleeding",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "love-lies-bleeding",
+      "has_reactions": false
+    },
+    {
+      "id": "48e59cc9-428a-4f1f-a57f-9f9e97f23982",
+      "title": "Naked Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "naked-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "3b6603ee-7911-4c23-9931-82e50505b1e7",
+      "title": "Dolan's Cadillac",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "dolan-s-cadillac",
+      "has_reactions": false
+    },
+    {
+      "id": "2aa0e41a-ec09-451c-8a3e-3019fe9ae80c",
+      "title": "Lies & Illusions",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "lies-illusions",
+      "has_reactions": false
+    },
+    {
+      "id": "32922f1b-bf3d-4f8e-9a96-d0b6a6a38a3f",
+      "title": "The River Murders",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-river-murders",
+      "has_reactions": false
+    },
+    {
+      "id": "c87e57a0-9415-44d6-8ec9-1326848582c1",
+      "title": "Dawn Rider",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "dawn-rider",
+      "has_reactions": false
+    },
+    {
+      "id": "ded7174a-f216-48b9-a8ec-74564e43f696",
+      "title": "Hatfields and McCoys:  Bad Blood",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hatfields-and-mccoys-bad-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "fad839e6-61dc-4b9f-ba15-797fbfbdb389",
+      "title": "Guns, Girls and Gambling",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "guns-girls-and-gambling",
+      "has_reactions": false
+    },
+    {
+      "id": "f0063b03-a217-4c91-836d-a934c6520fc8",
+      "title": "Assassin's Bullet",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "assassin-s-bullet",
+      "has_reactions": false
+    },
+    {
+      "id": "6bbbbc25-6507-44e8-95fc-c0e9e06e2e81",
+      "title": "El Gringo",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "el-gringo",
+      "has_reactions": false
+    },
+    {
+      "id": "ba58681f-fb08-4a8d-b14e-d75de5834fb7",
+      "title": "Soldiers of Fortune",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "soldiers-of-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "d4487c5a-1feb-4195-b426-3cc240925291",
+      "title": "Bullet to the Head",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bullet-to-the-head",
+      "has_reactions": false
+    },
+    {
+      "id": "97860938-371e-4b65-a34b-dc45dbe06659",
+      "title": "Playback",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "playback",
+      "has_reactions": false
+    },
+    {
+      "id": "99d949a2-3d7e-4e11-ae4d-789a964a78ff",
+      "title": "Freaky Deaky",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "freaky-deaky",
+      "has_reactions": false
+    },
+    {
+      "id": "3547e6b3-da27-4000-981f-482e3aee0d97",
+      "title": "Stranded",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "stranded",
+      "has_reactions": false
+    },
+    {
+      "id": "1b89ac41-e45a-4e6e-b199-51eca7e2b6fd",
+      "title": "The Power of Few",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-power-of-few",
+      "has_reactions": false
+    },
+    {
+      "id": "405f0a0a-4529-4c08-89c1-49b31fa8ab5c",
+      "title": "Assassins Run",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "assassins-run",
+      "has_reactions": false
+    },
+    {
+      "id": "008d69db-5d3d-4733-b06d-3e4b5a265343",
+      "title": "Stan Lee's Mighty 7",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "stan-lee-s-mighty-7",
+      "has_reactions": false
+    },
+    {
+      "id": "368d50b6-eaec-4636-90c5-856899be840c",
+      "title": "Way of the Wicked",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "way-of-the-wicked",
+      "has_reactions": false
+    },
+    {
+      "id": "42bd349a-b30f-40a4-a8e0-359ee74be011",
+      "title": "Ask Me Anything",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ask-me-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "0907f2ea-305e-4416-ae9d-9896316b2a1d",
+      "title": "The Adderall Diaries",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-adderall-diaries",
+      "has_reactions": false
+    },
+    {
+      "id": "75d7dec9-b9dd-44ae-8b5e-e12ccde14318",
+      "title": "The Wolf",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "fb01df76-a9c4-4b0f-9f46-856da8e10f5d",
+      "title": "The Wife",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "f2a9002b-4151-4404-8dcd-6178df45b1de",
+      "title": "The Summit",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-summit",
+      "has_reactions": false
+    },
+    {
+      "id": "4bcd1419-f6e3-4db3-8efb-aca6de723e25",
+      "title": "The Public",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-public",
+      "has_reactions": false
+    },
+    {
+      "id": "d5734544-57a6-46bd-8bc4-ba6252ec99e7",
+      "title": "Freelance",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "freelance",
+      "has_reactions": false
+    }
+  ]
+}

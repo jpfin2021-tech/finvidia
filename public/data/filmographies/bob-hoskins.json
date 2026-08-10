@@ -1,0 +1,608 @@
+{
+  "id": "6e780c95-2229-4cf1-8eb3-08e43dba0953",
+  "name": "Bob Hoskins",
+  "slug": "bob-hoskins",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg",
+  "filmography": [
+    {
+      "id": "d47b03f2-19de-4585-9e90-1872fd055ffb",
+      "title": "Up the Front",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "up-the-front",
+      "has_reactions": false
+    },
+    {
+      "id": "26c63559-d1ee-4f36-9701-dee0f34f28f3",
+      "title": "The Bankrupt",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-bankrupt",
+      "has_reactions": false
+    },
+    {
+      "id": "b4b7b33a-4251-4980-b8ee-a11b591813f7",
+      "title": "The National Health",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-national-health",
+      "has_reactions": false
+    },
+    {
+      "id": "ca2a0726-ca0d-4476-a748-e3987b64e146",
+      "title": "Schmoedipus",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "schmoedipus",
+      "has_reactions": false
+    },
+    {
+      "id": "6347efd4-0593-495d-bf62-90b935b73aa2",
+      "title": "If There Weren't Any Blacks You'd Have to Invent Them",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "if-there-weren-t-any-blacks-you-d-have-to-invent-them",
+      "has_reactions": false
+    },
+    {
+      "id": "bfa9a23e-7a8c-444d-928a-48c29b7174fd",
+      "title": "Inserts",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "inserts",
+      "has_reactions": false
+    },
+    {
+      "id": "52197ac1-16f2-4882-b887-ca643ea3f45f",
+      "title": "Royal Flash",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "royal-flash",
+      "has_reactions": false
+    },
+    {
+      "id": "a4a9cfab-229a-4fe4-a2a2-6a5f3833bf92",
+      "title": "Zulu Dawn",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "zulu-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "8b182cef-bed5-4bda-9c1f-4dace4ec07b6",
+      "title": "Brecht and Co",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "brecht-and-co",
+      "has_reactions": false
+    },
+    {
+      "id": "9298ea4e-4084-44b1-8bce-fd92123d7715",
+      "title": "Big Jim and the Figaro Club",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "big-jim-and-the-figaro-club",
+      "has_reactions": false
+    },
+    {
+      "id": "6e5a8662-7765-455c-b767-59485c2e3d7a",
+      "title": "Stainless Steel and the Star Spies",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "stainless-steel-and-the-star-spies",
+      "has_reactions": false
+    },
+    {
+      "id": "f9f2e3d6-d18c-471b-8610-a9d618581058",
+      "title": "An Audience with Dudley Moore",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "an-audience-with-dudley-moore",
+      "has_reactions": false
+    },
+    {
+      "id": "39950add-173e-41f9-a839-6fb791f7b439",
+      "title": "Othello",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "othello",
+      "has_reactions": false
+    },
+    {
+      "id": "8ad44f8f-4017-4132-b75e-9c231e9f877d",
+      "title": "The Beggar's Opera",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-beggar-s-opera",
+      "has_reactions": false
+    },
+    {
+      "id": "14feb5b3-52f2-4055-a33b-7d510d1e7046",
+      "title": "Lassiter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "lassiter",
+      "has_reactions": false
+    },
+    {
+      "id": "e8824f49-d97c-4ec3-ba0b-177c85abe5c6",
+      "title": "Brazil",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "brazil",
+      "has_reactions": false
+    },
+    {
+      "id": "8e21455e-06f6-4db0-a0ee-4b220fef82ba",
+      "title": "The Woman Who Married Clark Gable",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-woman-who-married-clark-gable",
+      "has_reactions": false
+    },
+    {
+      "id": "c2f736fe-bb68-4d48-b92c-ef86f4ca0cc6",
+      "title": "The Dunera Boys",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-dunera-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "00e0765f-4fda-457d-8239-97356bc7ddb5",
+      "title": "An Audience with Billy Connolly",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "an-audience-with-billy-connolly",
+      "has_reactions": false
+    },
+    {
+      "id": "dc22c27a-3ee8-499f-82d6-a3239efbd536",
+      "title": "Sweet Liberty",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "sweet-liberty",
+      "has_reactions": false
+    },
+    {
+      "id": "3319d6e5-5f48-4aaa-b721-f09b26ed7d59",
+      "title": "The Secret Policeman\u2019s Third Ball",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-third-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "a126bb10-be54-42f5-84c0-3ca59258c8ca",
+      "title": "A Prayer for the Dying",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-prayer-for-the-dying",
+      "has_reactions": false
+    },
+    {
+      "id": "c9228525-ef4c-413f-81fc-452b3f09e585",
+      "title": "Who Framed Roger Rabbit",
+      "release_year": 1988,
+      "studio_label": "Amblin Entertainment",
+      "slug": "who-framed-roger-rabbit",
+      "has_reactions": true
+    },
+    {
+      "id": "0c3e419c-8b13-4d8e-898f-5398ea845eb9",
+      "title": "Roger Rabbit and the Secrets of Toon Town",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "roger-rabbit-and-the-secrets-of-toon-town",
+      "has_reactions": false
+    },
+    {
+      "id": "2c6dec2d-8434-4bc3-b4ed-5af09b512e2b",
+      "title": "One More Audience with Dame Edna Everage",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "one-more-audience-with-dame-edna-everage",
+      "has_reactions": false
+    },
+    {
+      "id": "f6d80548-1d50-4d5a-9ff9-fe1fbe05c5b4",
+      "title": "The Movie Life of George",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-movie-life-of-george",
+      "has_reactions": false
+    },
+    {
+      "id": "6b94a396-7b24-41c7-b688-0004a99810b9",
+      "title": "Mermaids",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mermaids",
+      "has_reactions": false
+    },
+    {
+      "id": "fac4c232-0e2d-46e1-8548-901945851043",
+      "title": "Heart Condition",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "heart-condition",
+      "has_reactions": false
+    },
+    {
+      "id": "eca7c9a6-c5d7-45ed-971e-07229ea62d7f",
+      "title": "Hook",
+      "release_year": 1991,
+      "studio_label": "Amblin Entertainment",
+      "slug": "hook",
+      "has_reactions": true
+    },
+    {
+      "id": "2282360e-6518-4025-b2c3-b9ed58c6bba4",
+      "title": "The Favour, the Watch and the Very Big Fish",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-favour-the-watch-and-the-very-big-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "874f9b89-9c8a-4d4e-95af-374674b255c3",
+      "title": "Passed Away",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "passed-away",
+      "has_reactions": false
+    },
+    {
+      "id": "7b5dabb3-336f-46ab-bab4-9fb7cb535aa9",
+      "title": "The Inner Circle",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-inner-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc9bf97-66b9-45e8-adc2-a43d41edbb35",
+      "title": "Super Mario Bros.",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros",
+      "has_reactions": false
+    },
+    {
+      "id": "4100d181-5898-4915-a99e-9b3a978a99a0",
+      "title": "The Big Freeze",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-big-freeze",
+      "has_reactions": false
+    },
+    {
+      "id": "03af3e1d-7319-4ae1-8ef4-a566ca7649b3",
+      "title": "Ding Dong",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "ding-dong",
+      "has_reactions": false
+    },
+    {
+      "id": "137093a5-8bef-4865-8f17-631396a0bb29",
+      "title": "The Forgotten Toys",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-forgotten-toys",
+      "has_reactions": false
+    },
+    {
+      "id": "1c1b0f40-2d11-4bba-abec-02366e7446b2",
+      "title": "The Secret Agent",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-secret-agent",
+      "has_reactions": false
+    },
+    {
+      "id": "4b970cfa-0bf5-4788-a5eb-b37a42956119",
+      "title": "Rainbow",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "05c4464b-2a9e-44fb-b220-5c4330f58a9e",
+      "title": "Cousin Bette",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "cousin-bette",
+      "has_reactions": false
+    },
+    {
+      "id": "71762085-dc90-4755-a355-37e64bbc23de",
+      "title": "TwentyFourSeven",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "twentyfourseven",
+      "has_reactions": false
+    },
+    {
+      "id": "69301b2d-0d68-4587-8d72-6d78d0da09b0",
+      "title": "Let the Good Times Roll",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "let-the-good-times-roll",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae59c5f-e833-461a-9a67-e238e198e824",
+      "title": "Felicia's Journey",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "felicia-s-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "0fd9d02a-20b2-4973-ac51-e51ff3f46993",
+      "title": "Captain Jack",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "captain-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "a2619aff-84fa-408c-87a4-843c8a58a8d6",
+      "title": "The White River Kid",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-white-river-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "a7873787-2180-4775-a4e3-48511b6f6ff2",
+      "title": "Parting Shots",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "parting-shots",
+      "has_reactions": false
+    },
+    {
+      "id": "c7b4e43b-0969-4028-a6be-444d138cc819",
+      "title": "From Star Wars to Star Wars: The Story of Industrial Light & Magic",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "from-star-wars-to-star-wars-the-story-of-industrial-light-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "96d13d3b-d77b-4bae-a42f-64f3d8b170d7",
+      "title": "American Virgin",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "american-virgin",
+      "has_reactions": false
+    },
+    {
+      "id": "5763754f-5091-4ac2-8030-2ba8024323da",
+      "title": "Noriega: God's Favorite",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "noriega-god-s-favorite",
+      "has_reactions": false
+    },
+    {
+      "id": "3b2eedf6-2baf-421e-bddd-4676b083da2c",
+      "title": "Enemy at the Gates",
+      "release_year": 2001,
+      "studio_label": "Paramount Pictures",
+      "slug": "enemy-at-the-gates",
+      "has_reactions": true
+    },
+    {
+      "id": "4269e84f-6abd-4444-b724-aa760919e985",
+      "title": "The Lost World",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-lost-world",
+      "has_reactions": false
+    },
+    {
+      "id": "ef99bfa4-7a5a-43db-9258-86f0e7de10c8",
+      "title": "Where Eskimos Live",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "where-eskimos-live",
+      "has_reactions": false
+    },
+    {
+      "id": "1237a187-92c9-44e0-b856-81f8e5583274",
+      "title": "Maid in Manhattan",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "maid-in-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "c4e25448-968a-4d77-87a5-64cf3ec9abf1",
+      "title": "The Sleeping Dictionary",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-sleeping-dictionary",
+      "has_reactions": false
+    },
+    {
+      "id": "0d5bca1e-cf3a-461f-83a9-e197944dde21",
+      "title": "The Good Pope",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-good-pope",
+      "has_reactions": false
+    },
+    {
+      "id": "2feacaa2-0ee1-4a69-9de0-e87dafe31ad5",
+      "title": "Vanity Fair",
+      "release_year": 2004,
+      "studio_label": "Focus Features",
+      "slug": "vanity-fair",
+      "has_reactions": false
+    },
+    {
+      "id": "11f8d882-3f31-41a8-be98-ed1d0a02e305",
+      "title": "Beyond the Sea",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "478ae789-1fa2-4a51-8d62-b2932e236dfb",
+      "title": "Unleashed",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "unleashed",
+      "has_reactions": false
+    },
+    {
+      "id": "080cd793-bece-4e1f-bb96-dfeb93a37af7",
+      "title": "Stay",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "stay",
+      "has_reactions": false
+    },
+    {
+      "id": "9a996254-b1a2-4a60-b2db-c40767c91636",
+      "title": "Son of the Mask",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "son-of-the-mask",
+      "has_reactions": false
+    },
+    {
+      "id": "f686ce36-751e-4dc0-947e-bb3cb00ef338",
+      "title": "Hollywoodland",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hollywoodland",
+      "has_reactions": false
+    },
+    {
+      "id": "50f1c2ce-121a-477b-b2e6-ca9db8b6f723",
+      "title": "The Wind in the Willows",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-wind-in-the-willows",
+      "has_reactions": false
+    },
+    {
+      "id": "fd961800-1e38-403c-82d9-85d0c3411e84",
+      "title": "Ruby Blue",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "ruby-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "f0cb99bb-8f6c-4f64-8639-059902b2888f",
+      "title": "Outlaw",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "outlaw",
+      "has_reactions": false
+    },
+    {
+      "id": "ad9da20f-b8bd-4fb3-a69e-918e674f76d5",
+      "title": "Sparkle",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "sparkle",
+      "has_reactions": false
+    },
+    {
+      "id": "1c632860-bebd-4fcd-9625-cc817016db93",
+      "title": "Go Go Tales",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "go-go-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "70e943f2-1050-4a72-b862-1c576af25326",
+      "title": "Doomsday",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "doomsday",
+      "has_reactions": false
+    },
+    {
+      "id": "2c450ae2-549b-4d4c-87d6-ec86c8317632",
+      "title": "The Last Word Monologues",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-last-word-monologues",
+      "has_reactions": false
+    },
+    {
+      "id": "5a2163cb-86af-4a44-b6a7-b47d967a5e79",
+      "title": "Anatomy of Catastrophe: The Making of 'Doomsday'",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "anatomy-of-catastrophe-the-making-of-doomsday",
+      "has_reactions": false
+    },
+    {
+      "id": "d1c75b39-acf0-4093-957e-105aa2498775",
+      "title": "A Christmas Carol",
+      "release_year": 2009,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "a-christmas-carol",
+      "has_reactions": true
+    },
+    {
+      "id": "f1954a65-53b6-4438-bf9d-326ee57af3a0",
+      "title": "Pinocchio",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "pinocchio",
+      "has_reactions": false
+    },
+    {
+      "id": "64403baf-0b9c-45e1-9dfc-31946c488f4d",
+      "title": "Made in Dagenham",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "made-in-dagenham",
+      "has_reactions": false
+    },
+    {
+      "id": "e8a7718d-a4e2-4705-960b-220ac1c137e0",
+      "title": "Snow White and the Huntsman",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "snow-white-and-the-huntsman",
+      "has_reactions": false
+    },
+    {
+      "id": "784e6a7e-f986-4f18-ab41-79421dec3273",
+      "title": "Outside Bet",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "outside-bet",
+      "has_reactions": false
+    },
+    {
+      "id": "259374fe-f56d-4547-ae13-edd359b4e5e6",
+      "title": "Super Mario Bros: This Ain't No Video Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros-this-ain-t-no-video-game",
+      "has_reactions": false
+    },
+    {
+      "id": "e3658fc7-2365-4a93-8338-d03e4fdbd030",
+      "title": "An Accidental Studio",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "an-accidental-studio",
+      "has_reactions": false
+    }
+  ]
+}

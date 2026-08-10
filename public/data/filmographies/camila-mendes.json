@@ -1,0 +1,48 @@
+{
+  "id": "e70c1056-efa5-4ee8-b450-9b93f26f7d35",
+  "name": "Camila Mendes",
+  "slug": "camila-mendes",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg",
+  "filmography": [
+    {
+      "id": "6e2542c3-1fa5-4527-accf-0298a91a9112",
+      "title": "The Perfect Date",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-date",
+      "has_reactions": false
+    },
+    {
+      "id": "870f988d-3190-452e-b6ca-3a9d0d652d88",
+      "title": "Palm Springs",
+      "release_year": 2020,
+      "studio_label": "Limelight",
+      "slug": "palm-springs",
+      "has_reactions": true
+    },
+    {
+      "id": "5569218b-cd9b-4320-91ac-d6e6dbb34c3b",
+      "title": "Do Revenge",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "do-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "e645448d-762a-4ba2-afe1-7c228758236c",
+      "title": "Masters of the Universe",
+      "release_year": 2026,
+      "studio_label": "Escape Artists",
+      "slug": "masters-of-the-universe",
+      "has_reactions": true
+    },
+    {
+      "id": "a6f1ef7d-ba21-43b1-b972-8acb87a30407",
+      "title": "Viva la Madness",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "viva-la-madness",
+      "has_reactions": false
+    }
+  ]
+}

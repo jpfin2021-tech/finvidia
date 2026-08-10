@@ -1,0 +1,48 @@
+{
+  "id": "a9da5a2d-efc9-42f3-b2af-d5d389f06058",
+  "name": "Kevin Vance",
+  "slug": "kevin-vance",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/w0CsNlqcGxBhIuJ94vEDMY7gcRz.jpg",
+  "filmography": [
+    {
+      "id": "1edbd618-aa7d-47f8-a430-0d8db81644ef",
+      "title": "End of Watch",
+      "release_year": 2012,
+      "studio_label": "5150 Action",
+      "slug": "end-of-watch",
+      "has_reactions": true
+    },
+    {
+      "id": "8aa74ca2-e1fd-45b4-af3a-7df704293bbd",
+      "title": "Fury",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "fury",
+      "has_reactions": true
+    },
+    {
+      "id": "26e81edb-4d6c-4ed1-b6fd-c3f3afd931fd",
+      "title": "Sabotage",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "sabotage",
+      "has_reactions": false
+    },
+    {
+      "id": "31642885-e4f6-4b23-959b-7d17f8f92abe",
+      "title": "Suicide Squad",
+      "release_year": 2016,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "suicide-squad",
+      "has_reactions": true
+    },
+    {
+      "id": "e9ac9de3-a3e1-460f-a9e4-4e291e41abe1",
+      "title": "Bright",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "bright",
+      "has_reactions": false
+    }
+  ]
+}

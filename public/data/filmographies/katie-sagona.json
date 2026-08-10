@@ -1,0 +1,24 @@
+{
+  "id": "8f052c17-e525-43c5-8000-85e405728726",
+  "name": "Katie Sagona",
+  "slug": "katie-sagona",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/P3we4ULnamzzgo8SW3GHChLWcV.jpg",
+  "filmography": [
+    {
+      "id": "e9160cab-8b13-46ee-95d0-41f70140086d",
+      "title": "Grumpier Old Men",
+      "release_year": 1995,
+      "studio_label": "Lancaster Gate",
+      "slug": "grumpier-old-men",
+      "has_reactions": true
+    },
+    {
+      "id": "f1fe18f3-5142-48ff-9e32-b480c065da1a",
+      "title": "Kiss of Death",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "kiss-of-death",
+      "has_reactions": false
+    }
+  ]
+}

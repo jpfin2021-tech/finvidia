@@ -1,0 +1,32 @@
+{
+  "id": "08a14fa8-8cc8-47f6-923e-98f7f5f533cd",
+  "name": "Alfie Williams",
+  "slug": "alfie-williams",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg",
+  "filmography": [
+    {
+      "id": "12268b39-d9de-41d0-95a4-2746936a69ce",
+      "title": "Phallacy",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "phallacy",
+      "has_reactions": false
+    },
+    {
+      "id": "f7f44c83-b50b-460d-98df-cd880848d7bb",
+      "title": "28 Years Later",
+      "release_year": 2025,
+      "studio_label": "Columbia Pictures",
+      "slug": "28-years-later",
+      "has_reactions": true
+    },
+    {
+      "id": "3b098d8c-37e5-4a44-a6c8-449a4f969a63",
+      "title": "28 Years Later: The Bone Temple",
+      "release_year": 2026,
+      "studio_label": "Columbia Pictures",
+      "slug": "28-years-later-the-bone-temple",
+      "has_reactions": true
+    }
+  ]
+}

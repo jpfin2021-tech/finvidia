@@ -1,0 +1,624 @@
+{
+  "id": "2470d7b1-5658-4dca-b734-5ff6c6941125",
+  "name": "Charles Durning",
+  "slug": "charles-durning",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/bozKytaYVKoIbptxkMFWepK09U5.jpg",
+  "filmography": [
+    {
+      "id": "d921a59f-2041-4c2d-869b-0c0744428d6e",
+      "title": "I Walk the Line",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "i-walk-the-line",
+      "has_reactions": false
+    },
+    {
+      "id": "fed04865-0908-42dd-a09e-a114f450e45a",
+      "title": "The Pursuit of Happiness",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-pursuit-of-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "8f0b917f-2c89-436b-ac63-00b5494bb04f",
+      "title": "The Sting",
+      "release_year": 1973,
+      "studio_label": "Universal Pictures",
+      "slug": "the-sting",
+      "has_reactions": true
+    },
+    {
+      "id": "b88a8579-9196-41cc-b535-c891ddc534b1",
+      "title": "Sisters",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "354af062-f65c-4a87-92c2-052723ed1414",
+      "title": "The Front Page",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-front-page",
+      "has_reactions": false
+    },
+    {
+      "id": "3e0de3a6-8f75-4eb4-96ca-8164de841035",
+      "title": "Dog Day Afternoon",
+      "release_year": 1975,
+      "studio_label": "Artists Entertainment Complex",
+      "slug": "dog-day-afternoon",
+      "has_reactions": true
+    },
+    {
+      "id": "f7f912c7-999d-43ea-b9aa-8197e3407b72",
+      "title": "Queen of the Stardust Ballroom",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "queen-of-the-stardust-ballroom",
+      "has_reactions": false
+    },
+    {
+      "id": "b606793b-8283-459e-8cca-0e1485d72c74",
+      "title": "Breakheart Pass",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "breakheart-pass",
+      "has_reactions": false
+    },
+    {
+      "id": "afdbff6f-789a-4a6b-a434-66237457e58f",
+      "title": "The Hindenburg",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-hindenburg",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8cadf9-01fd-406e-a3ee-7562ec7b5a4f",
+      "title": "Harry and Walter Go to New York",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "harry-and-walter-go-to-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "d935c6eb-f9ef-4401-b15c-28d10ab73080",
+      "title": "Twilight's Last Gleaming",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "twilight-s-last-gleaming",
+      "has_reactions": false
+    },
+    {
+      "id": "ea699afb-5886-4fd1-8e4d-9def126ee415",
+      "title": "The Choirboys",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-choirboys",
+      "has_reactions": false
+    },
+    {
+      "id": "5bef0891-d841-434d-8741-e607b3a46ac5",
+      "title": "The Fury",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "78536fe2-2f03-4d7c-ae86-b21577a77b20",
+      "title": "An Enemy of the People",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "an-enemy-of-the-people",
+      "has_reactions": false
+    },
+    {
+      "id": "f2cf1247-30f7-4943-9dd7-2c6815240f35",
+      "title": "The Muppet Movie",
+      "release_year": 1979,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-muppet-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "16c5f704-928d-4202-b49d-d338799f9e3a",
+      "title": "When a Stranger Calls",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "when-a-stranger-calls",
+      "has_reactions": false
+    },
+    {
+      "id": "7c0aed40-841a-401d-99f6-e4e630d0da63",
+      "title": "Starting Over",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "starting-over",
+      "has_reactions": false
+    },
+    {
+      "id": "125e7ce3-bb31-4512-a4b8-019c0c31099e",
+      "title": "North Dallas Forty",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "north-dallas-forty",
+      "has_reactions": false
+    },
+    {
+      "id": "27ae7569-9915-4351-a999-b284a3c77404",
+      "title": "Attica",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "attica",
+      "has_reactions": false
+    },
+    {
+      "id": "8781e394-e431-4238-a6a7-7fca1070d863",
+      "title": "Die Laughing",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "die-laughing",
+      "has_reactions": false
+    },
+    {
+      "id": "6d384474-2d28-42c2-916d-ced5cbe11f6d",
+      "title": "Dark Night of the Scarecrow",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "dark-night-of-the-scarecrow",
+      "has_reactions": false
+    },
+    {
+      "id": "a0c4ef15-807e-443e-b742-854d49067a25",
+      "title": "Crisis at Central High",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "crisis-at-central-high",
+      "has_reactions": false
+    },
+    {
+      "id": "fbbc436c-8572-4611-8355-0416f12622ed",
+      "title": "Sharky's Machine",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "sharky-s-machine",
+      "has_reactions": false
+    },
+    {
+      "id": "77b5cdae-ce82-465e-8cb4-e3f02b63d06f",
+      "title": "Casey Stengel",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "casey-stengel",
+      "has_reactions": false
+    },
+    {
+      "id": "372a34f4-03bb-4ee6-988b-afbbf4fa373e",
+      "title": "Tootsie",
+      "release_year": 1982,
+      "studio_label": "Mirage Enterprises",
+      "slug": "tootsie",
+      "has_reactions": true
+    },
+    {
+      "id": "95824b0f-d40f-444c-a8fa-22447fdcd620",
+      "title": "To Be or Not to Be",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "to-be-or-not-to-be",
+      "has_reactions": false
+    },
+    {
+      "id": "09c99c5f-b7d5-4786-98e9-4d1a4d8304fb",
+      "title": "Two of a Kind",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "two-of-a-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "a848e8f6-1782-4d8e-a4b5-ef3ec9d63781",
+      "title": "Hadley's Rebellion",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hadley-s-rebellion",
+      "has_reactions": false
+    },
+    {
+      "id": "3a0dc60c-109b-4d95-b98c-9beb3e8da5a1",
+      "title": "P.O.P.",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "p-o-p",
+      "has_reactions": false
+    },
+    {
+      "id": "c60d6a38-f53a-4d8c-9521-17074ff90e00",
+      "title": "Mass Appeal",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "mass-appeal",
+      "has_reactions": false
+    },
+    {
+      "id": "ca4a1068-3bd6-43a1-92a0-f7474a01ecb2",
+      "title": "Stand Alone",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "stand-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "dd83feca-7723-45ef-8964-364c7cd209f5",
+      "title": "The Man with One Red Shoe",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-man-with-one-red-shoe",
+      "has_reactions": false
+    },
+    {
+      "id": "15952848-1b52-4f88-9111-847b968ce635",
+      "title": "Stick",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "stick",
+      "has_reactions": false
+    },
+    {
+      "id": "f343f1a6-c7b3-4301-a26e-171c93465b21",
+      "title": "Death of a Salesman",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "death-of-a-salesman",
+      "has_reactions": false
+    },
+    {
+      "id": "5872a576-6a64-4f5f-a8c8-1d9f3e8315a3",
+      "title": "Solarbabies",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "solarbabies",
+      "has_reactions": false
+    },
+    {
+      "id": "e9553cc1-0d06-4d62-94ae-1360e95539da",
+      "title": "Big Trouble",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "big-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "28e71926-78fa-488e-93c6-7a5b3ce8c939",
+      "title": "Where the River Runs Black",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "where-the-river-runs-black",
+      "has_reactions": false
+    },
+    {
+      "id": "c9da173c-786e-4b9c-a853-fd0f3f960226",
+      "title": "Tough Guys",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "tough-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "f16157f2-0e77-412f-89a7-278b25e29f5f",
+      "title": "The Rosary Murders",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-rosary-murders",
+      "has_reactions": false
+    },
+    {
+      "id": "c367c309-e233-40eb-83d2-7adb01d3c7fb",
+      "title": "Happy New Year",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "happy-new-year",
+      "has_reactions": false
+    },
+    {
+      "id": "012b87cc-3dfd-482f-9637-627197d228c1",
+      "title": "A Tiger's Tale",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "a-tiger-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "0854fb82-a2d1-4c7d-b9a3-1d07eb644345",
+      "title": "Far North",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "far-north",
+      "has_reactions": false
+    },
+    {
+      "id": "ac3877bd-fd18-4c89-92ed-18c4c7696d4e",
+      "title": "Etoile",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "etoile",
+      "has_reactions": false
+    },
+    {
+      "id": "cc5f4d62-616f-44cf-8924-284bd853a000",
+      "title": "Brenda Starr",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "brenda-starr",
+      "has_reactions": false
+    },
+    {
+      "id": "b7e44f58-1941-46f8-adee-175cea2317f4",
+      "title": "It Nearly Wasn't Christmas",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "it-nearly-wasn-t-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "f13e939c-ea87-4dd8-bc3c-e1f992bdf117",
+      "title": "The Butter Battle Book",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-butter-battle-book",
+      "has_reactions": false
+    },
+    {
+      "id": "a32c9828-9c3b-470d-b482-6f9e85c1087f",
+      "title": "Project Alien",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "project-alien",
+      "has_reactions": false
+    },
+    {
+      "id": "6be97170-fa93-4026-9daa-80869bef7fa7",
+      "title": "V.I. Warshawski",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "v-i-warshawski",
+      "has_reactions": false
+    },
+    {
+      "id": "31ade710-1aed-423d-ade4-524710e0624e",
+      "title": "The Water Engine",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-water-engine",
+      "has_reactions": false
+    },
+    {
+      "id": "621d96e6-840f-4ebd-b043-61a59f3958e6",
+      "title": "When a Stranger Calls Back",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "when-a-stranger-calls-back",
+      "has_reactions": false
+    },
+    {
+      "id": "b526ab44-5115-42bb-9781-d008d9df633d",
+      "title": "The Hudsucker Proxy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-hudsucker-proxy",
+      "has_reactions": false
+    },
+    {
+      "id": "04100b03-f40b-40cb-949e-5696222fac7d",
+      "title": "The Last Supper",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-last-supper",
+      "has_reactions": false
+    },
+    {
+      "id": "e128db8d-92a1-4b48-954c-bb74193f4a96",
+      "title": "Spy Hard",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "spy-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "75c8e262-4ce6-4c9f-be8e-a2bffeb56ade",
+      "title": "The Grass Harp",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-grass-harp",
+      "has_reactions": false
+    },
+    {
+      "id": "1eb81ec3-b791-4881-a590-a07d1e960c2a",
+      "title": "One Fine Day",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "one-fine-day",
+      "has_reactions": false
+    },
+    {
+      "id": "9ac1dd49-61b5-4066-9269-7db42b1ac472",
+      "title": "Jerry and Tom",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "jerry-and-tom",
+      "has_reactions": false
+    },
+    {
+      "id": "2b104b07-7b63-4d21-aead-2e8b6b13161d",
+      "title": "Hard Time",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "hard-time",
+      "has_reactions": false
+    },
+    {
+      "id": "1d033121-7ab3-472c-b62c-57ff944e30e0",
+      "title": "Shelter",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "shelter",
+      "has_reactions": false
+    },
+    {
+      "id": "afbc72fd-43c9-4bbd-bced-ae27c8dca09d",
+      "title": "O Brother, Where Art Thou?",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "o-brother-where-art-thou",
+      "has_reactions": true
+    },
+    {
+      "id": "037ba325-384f-42f6-93d6-9e080c0ae6be",
+      "title": "Never Look Back",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "never-look-back",
+      "has_reactions": false
+    },
+    {
+      "id": "e11f7729-2487-4beb-935e-71949ac6773c",
+      "title": "Lakeboat",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lakeboat",
+      "has_reactions": false
+    },
+    {
+      "id": "cefd82b3-24cd-4b08-bde8-97932cbfaec0",
+      "title": "A Constant Forge",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "a-constant-forge",
+      "has_reactions": false
+    },
+    {
+      "id": "01f38cd0-daf8-4460-bf02-eb5794b29685",
+      "title": "The Judge",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-judge",
+      "has_reactions": false
+    },
+    {
+      "id": "2ed35e5c-4183-47f8-96c7-24440c7bc615",
+      "title": "Mother Ghost",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mother-ghost",
+      "has_reactions": false
+    },
+    {
+      "id": "bd82e618-1bd2-43b8-b4be-d8a183a477bd",
+      "title": "Mr. St. Nick",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mr-st-nick",
+      "has_reactions": false
+    },
+    {
+      "id": "bd5208df-01b7-4bc9-b0af-8bd10c59f7e6",
+      "title": "The Drum Beats Twice",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-drum-beats-twice",
+      "has_reactions": false
+    },
+    {
+      "id": "fde0b010-09b5-44a7-a2b0-1bd058172909",
+      "title": "A Boyfriend for Christmas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-boyfriend-for-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "fd01ea99-da73-4bcd-9ca1-c91f83f44596",
+      "title": "River's End",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "river-s-end",
+      "has_reactions": false
+    },
+    {
+      "id": "1fbcbee0-02b1-4835-ba0e-f9873a906928",
+      "title": "Dirty Deeds",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "dirty-deeds",
+      "has_reactions": false
+    },
+    {
+      "id": "b5cb2a2c-863e-4e06-b7cc-3083c8d88186",
+      "title": "Desperation",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "desperation",
+      "has_reactions": false
+    },
+    {
+      "id": "a8863a20-b658-4830-a5c1-ebbeef89ad94",
+      "title": "Jesus, Mary and Joey",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jesus-mary-and-joey",
+      "has_reactions": false
+    },
+    {
+      "id": "d1a0d746-0105-4ad0-a8c5-22cbca197683",
+      "title": "Forget About It",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "forget-about-it",
+      "has_reactions": false
+    },
+    {
+      "id": "15f17758-1fae-4e39-add3-467ecb107bdd",
+      "title": "Kinky Killers",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "kinky-killers",
+      "has_reactions": false
+    },
+    {
+      "id": "517b153e-1168-4999-9c18-bcccb0f83055",
+      "title": "Local Color",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "local-color",
+      "has_reactions": false
+    },
+    {
+      "id": "d314a9bc-01a3-4359-9659-8a7f0269a7f1",
+      "title": "Deal",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "deal",
+      "has_reactions": false
+    },
+    {
+      "id": "31f8e47d-4cd0-4f14-94bb-4bf6846ce414",
+      "title": "The Life Zone",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-life-zone",
+      "has_reactions": false
+    },
+    {
+      "id": "d53fa9f6-e91e-43d8-b896-ac6dc8c14972",
+      "title": "The Great Fight",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-great-fight",
+      "has_reactions": false
+    }
+  ]
+}

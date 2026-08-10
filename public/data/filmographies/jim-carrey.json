@@ -1,0 +1,568 @@
+{
+  "id": "c1dd44ad-3b21-4959-9b6e-f7b24808e6c4",
+  "name": "Jim Carrey",
+  "slug": "jim-carrey",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg",
+  "filmography": [
+    {
+      "id": "31c14df1-10fb-4525-9d60-2dc76e4ac207",
+      "title": "Evergreen Pines and the Fading Summer",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "evergreen-pines-and-the-fading-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "8c837c52-36ba-4477-835b-800c48320702",
+      "title": "Evergreen Pines and the Fading Summer",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "evergreen-pines-and-the-fading-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "4cc24fe0-3c2b-49fc-8294-94851da033ff",
+      "title": "Untitled How the Grinch Stole Christmas Sequel",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-how-the-grinch-stole-christmas-sequel",
+      "has_reactions": false
+    },
+    {
+      "id": "3157c35d-cd7f-4c08-abbe-d08bae3d16eb",
+      "title": "The Jetsons",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-jetsons",
+      "has_reactions": false
+    },
+    {
+      "id": "396c7c72-356f-4263-927d-0507c21e9452",
+      "title": "Rubberface",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "rubberface",
+      "has_reactions": false
+    },
+    {
+      "id": "c6a0e62b-d75b-4d17-9332-8acb2e1b2a8a",
+      "title": "Copper Mountain",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "copper-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "f74ee375-66c7-4000-b1c9-708d807aeb89",
+      "title": "The Sex and Violence Family Hour",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-sex-and-violence-family-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "3bb83b18-ea6f-4822-9b57-c55f9183cf21",
+      "title": "All in Good Taste",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "all-in-good-taste",
+      "has_reactions": false
+    },
+    {
+      "id": "50b162dd-b094-44a8-8844-84ba7bb6783a",
+      "title": "Finders Keepers",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "finders-keepers",
+      "has_reactions": false
+    },
+    {
+      "id": "a507d872-6ac5-4e3a-aff3-3e0398694650",
+      "title": "Once Bitten",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "once-bitten",
+      "has_reactions": false
+    },
+    {
+      "id": "30cc2666-b1ad-498e-85a2-a3e8dfa952b2",
+      "title": "The Dead Pool",
+      "release_year": 1988,
+      "studio_label": "Malpaso Productions",
+      "slug": "the-dead-pool",
+      "has_reactions": true
+    },
+    {
+      "id": "9daf0a3e-e8da-464b-a4a8-8573a7b69f57",
+      "title": "Earth Girls Are Easy",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "earth-girls-are-easy",
+      "has_reactions": false
+    },
+    {
+      "id": "70019bbb-096b-4548-8771-2f43205489c2",
+      "title": "Mike Hammer: Murder Takes All",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "mike-hammer-murder-takes-all",
+      "has_reactions": false
+    },
+    {
+      "id": "098f25aa-8abf-46a8-933a-48a92554e3b8",
+      "title": "Tom Arnold: The Naked Truth",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "tom-arnold-the-naked-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "9ea6ec42-c420-468a-a77c-aa0df054a9fe",
+      "title": "Jim Carrey: Unnatural Act",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "jim-carrey-unnatural-act",
+      "has_reactions": false
+    },
+    {
+      "id": "cd061c27-9507-4bf0-96bb-08e9ead6daad",
+      "title": "Doing Time on Maple Drive",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "doing-time-on-maple-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "a7027417-d38d-4c24-8f75-05ef52eaebd1",
+      "title": "High Strung",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "high-strung",
+      "has_reactions": false
+    },
+    {
+      "id": "b7696c0b-3b51-4f14-ae7c-01a1ba477fa0",
+      "title": "A Tribute to Sam Kinison",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-tribute-to-sam-kinison",
+      "has_reactions": false
+    },
+    {
+      "id": "b2cdccd1-0c8e-4cee-b31e-c28b6b03dc35",
+      "title": "The Mask",
+      "release_year": 1994,
+      "studio_label": "Dark Horse Entertainment",
+      "slug": "the-mask",
+      "has_reactions": true
+    },
+    {
+      "id": "705e8f25-eebc-466d-8aac-c43effdf5489",
+      "title": "Dumb and Dumber",
+      "release_year": 1994,
+      "studio_label": "New Line Cinema",
+      "slug": "dumb-and-dumber",
+      "has_reactions": true
+    },
+    {
+      "id": "41e42c1b-d458-43f2-a8a8-e58e3ce2a15e",
+      "title": "Ace Ventura: Pet Detective",
+      "release_year": 1994,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "ace-ventura-pet-detective",
+      "has_reactions": true
+    },
+    {
+      "id": "eb4ba196-70df-43cb-a540-4be6f6f8ad93",
+      "title": "Batman Forever",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-forever",
+      "has_reactions": true
+    },
+    {
+      "id": "874802f0-fecb-4a64-89d2-18a252d8bb00",
+      "title": "Ace Ventura: When Nature Calls",
+      "release_year": 1995,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "ace-ventura-when-nature-calls",
+      "has_reactions": true
+    },
+    {
+      "id": "fd233c63-3364-4ed4-93c8-67bbe049bf54",
+      "title": "The Cable Guy",
+      "release_year": 1996,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-cable-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "285c2d14-740b-42d5-8d1b-f19abb761d9b",
+      "title": "Liar Liar",
+      "release_year": 1997,
+      "studio_label": "Universal Pictures",
+      "slug": "liar-liar",
+      "has_reactions": true
+    },
+    {
+      "id": "cf172540-06fe-4bda-9a3e-92a8fc66ab0a",
+      "title": "The Truman Show",
+      "release_year": 1998,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-truman-show",
+      "has_reactions": true
+    },
+    {
+      "id": "a989f01f-1f93-4589-be4b-acbcec0e8d5e",
+      "title": "George Martin: In My Life",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "george-martin-in-my-life",
+      "has_reactions": false
+    },
+    {
+      "id": "40e6eaf1-9ad4-422a-a09a-e946d5d47a17",
+      "title": "The Truman Show: Tru-Talk",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-truman-show-tru-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "19944225-17f6-47ac-992a-7f8453738da8",
+      "title": "Simon Birch",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "simon-birch",
+      "has_reactions": false
+    },
+    {
+      "id": "2cd95789-55a9-4e8e-95f4-85fe14ac3b98",
+      "title": "Playboy: Playmate Pajama Party",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "playboy-playmate-pajama-party",
+      "has_reactions": false
+    },
+    {
+      "id": "6e0a909f-7b49-45f6-80a6-e7c0b2d234fa",
+      "title": "Me, Myself & Irene",
+      "release_year": 2000,
+      "studio_label": "Conundrum Entertainment",
+      "slug": "me-myself-irene",
+      "has_reactions": true
+    },
+    {
+      "id": "a5b96087-99f7-4053-a833-2787f2b4c68f",
+      "title": "How the Grinch Stole Christmas",
+      "release_year": 2000,
+      "studio_label": "Universal Pictures",
+      "slug": "how-the-grinch-stole-christmas",
+      "has_reactions": true
+    },
+    {
+      "id": "f4286494-de2e-4250-9235-5259fd15186d",
+      "title": "Saturday Night Live: The Best of Will Ferrell",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-will-ferrell",
+      "has_reactions": false
+    },
+    {
+      "id": "3e6e1e8a-f871-4809-86cd-a7cbda169148",
+      "title": "Bruce Almighty",
+      "release_year": 2003,
+      "studio_label": "Pit Bull Productions",
+      "slug": "bruce-almighty",
+      "has_reactions": true
+    },
+    {
+      "id": "7827b5dd-8dcc-40ab-93c5-7b9f13777ba6",
+      "title": "Late Night with Conan O'Brien: 10th Anniversary Special",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "late-night-with-conan-o-brien-10th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "6bc85e99-cf89-4445-94df-bf038096b85c",
+      "title": "The Work of Director Michel Gondry",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-work-of-director-michel-gondry",
+      "has_reactions": false
+    },
+    {
+      "id": "79d814b8-e7e6-4532-9fd1-4db143595077",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "release_year": 2004,
+      "studio_label": "Focus Features",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "has_reactions": true
+    },
+    {
+      "id": "ed99b6fe-c5e4-49f0-98e4-7812463dfe46",
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "lemony-snicket-s-a-series-of-unfortunate-events",
+      "has_reactions": false
+    },
+    {
+      "id": "0c7457bc-5472-4668-9f85-d9d2fc9f2a75",
+      "title": "A Look Inside Eternal Sunshine of the Spotless Mind",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-look-inside-eternal-sunshine-of-the-spotless-mind",
+      "has_reactions": false
+    },
+    {
+      "id": "7bb8690a-f35d-427d-8682-6654a9639ebd",
+      "title": "A Conversation with Jim Carrey and Director Michel Gondry",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-conversation-with-jim-carrey-and-director-michel-gondry",
+      "has_reactions": false
+    },
+    {
+      "id": "f4276e9e-d663-4370-a322-a53fefac346d",
+      "title": "Tony Clifton's Movie!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "tony-clifton-s-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "12058d70-2967-4aa8-b81f-4d81517acacf",
+      "title": "Return to Edge City",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "return-to-edge-city",
+      "has_reactions": false
+    },
+    {
+      "id": "50b6874e-f4f3-44df-a162-e8de925a36dc",
+      "title": "Kings of Comedy USA",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "kings-of-comedy-usa",
+      "has_reactions": false
+    },
+    {
+      "id": "716094e5-b918-4a8a-b1a5-a5ea2195072b",
+      "title": "The Number 23",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-number-23",
+      "has_reactions": false
+    },
+    {
+      "id": "e9829cf9-46ea-4c92-b5bc-38c49a56e705",
+      "title": "Horton Hears a Who!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "horton-hears-a-who",
+      "has_reactions": false
+    },
+    {
+      "id": "2753ef98-0abf-46a9-bcf1-0037cb04ca6d",
+      "title": "Comic Relief: The Greatest... and the Latest",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "comic-relief-the-greatest-and-the-latest",
+      "has_reactions": false
+    },
+    {
+      "id": "d1c75b39-acf0-4093-957e-105aa2498775",
+      "title": "A Christmas Carol",
+      "release_year": 2009,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "a-christmas-carol",
+      "has_reactions": true
+    },
+    {
+      "id": "c60e1198-f47a-48a8-9c8d-4d6e29eddfb0",
+      "title": "Autism: Made in the U.S.A.",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "autism-made-in-the-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "cb9e8b26-918f-4f3a-b212-11fd8459ca58",
+      "title": "Under the Sea 3D",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "under-the-sea-3d",
+      "has_reactions": false
+    },
+    {
+      "id": "4b642749-ae3c-4bff-a9de-e28928920af8",
+      "title": "Presidential Reunion",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "presidential-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "37bb6dda-fc31-47b3-8898-5b65efc510d0",
+      "title": "Mr. Popper's Penguins",
+      "release_year": 2011,
+      "studio_label": "Davis Entertainment",
+      "slug": "mr-popper-s-penguins",
+      "has_reactions": true
+    },
+    {
+      "id": "00ad144a-f42a-4c1e-97cf-288c9a5fb50e",
+      "title": "The Love We Make",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-love-we-make",
+      "has_reactions": false
+    },
+    {
+      "id": "91c3c7c9-a71a-414f-85f8-5453715e1d13",
+      "title": "Kick-Ass 2",
+      "release_year": 2013,
+      "studio_label": "Marv",
+      "slug": "kick-ass-2",
+      "has_reactions": true
+    },
+    {
+      "id": "06aa99ea-8a17-4aa8-b233-f0122b1e5575",
+      "title": "The Incredible Burt Wonderstone",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-incredible-burt-wonderstone",
+      "has_reactions": false
+    },
+    {
+      "id": "1213a94a-5c53-4fd1-a2f7-2b4f52fa9c71",
+      "title": "The Improv: 50 Years Behind the Brick Wall",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-improv-50-years-behind-the-brick-wall",
+      "has_reactions": false
+    },
+    {
+      "id": "96bc9067-5113-4c15-b58b-0203866fd727",
+      "title": "Cold Dead Hand with Jim Carrey",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "cold-dead-hand-with-jim-carrey",
+      "has_reactions": false
+    },
+    {
+      "id": "4cfe65c6-65f6-4492-8e7c-07f5af900922",
+      "title": "Ringo Starr: A Lifetime of Peace and Love",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ringo-starr-a-lifetime-of-peace-and-love",
+      "has_reactions": false
+    },
+    {
+      "id": "24be7b48-1e3f-4b79-9fd9-72230cec9f79",
+      "title": "Dumb and Dumber To",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dumb-and-dumber-to",
+      "has_reactions": false
+    },
+    {
+      "id": "ef567acc-34ed-408b-9144-209ec643540a",
+      "title": "Jim & Andy: The Great Beyond",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "jim-andy-the-great-beyond",
+      "has_reactions": false
+    },
+    {
+      "id": "93c36821-fcf6-4220-842f-f69ddd707eee",
+      "title": "The Bad Batch",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-bad-batch",
+      "has_reactions": false
+    },
+    {
+      "id": "c453af1c-4336-4eb0-9ab7-162e3ecebfb0",
+      "title": "I Needed Color",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "i-needed-color",
+      "has_reactions": false
+    },
+    {
+      "id": "6008c6ca-64fd-48c0-888c-573777272df0",
+      "title": "Meet the Pickles - Behind the Scenes of Kidding",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "meet-the-pickles-behind-the-scenes-of-kidding",
+      "has_reactions": false
+    },
+    {
+      "id": "6bc6c01a-2473-41d2-9e5c-c158df133e3f",
+      "title": "Sonic the Hedgehog",
+      "release_year": 2020,
+      "studio_label": "Original Film",
+      "slug": "sonic-the-hedgehog",
+      "has_reactions": true
+    },
+    {
+      "id": "77d7a043-3ba1-49f2-81ad-f7c59f5a0ab5",
+      "title": "Sonic the Hedgehog 2",
+      "release_year": 2022,
+      "studio_label": "Original Film",
+      "slug": "sonic-the-hedgehog-2",
+      "has_reactions": true
+    },
+    {
+      "id": "237e43b1-3cd8-4652-a6c1-37a5322093e0",
+      "title": "Dirty Daddy: The Bob Saget Tribute",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dirty-daddy-the-bob-saget-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "680e0708-cf9d-4a41-a821-d1c8d63f5806",
+      "title": "The Many Faces of Jim Carrey",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-many-faces-of-jim-carrey",
+      "has_reactions": false
+    },
+    {
+      "id": "8d78acb6-d1b5-44f7-84ec-54b6a6d0f21d",
+      "title": "Sonic the Hedgehog 3",
+      "release_year": 2024,
+      "studio_label": "Paramount Pictures",
+      "slug": "sonic-the-hedgehog-3",
+      "has_reactions": true
+    },
+    {
+      "id": "9f8ca647-7769-4bb2-b1f0-e1d0cbf1d67d",
+      "title": "2025 Rock & Roll Hall of Fame Induction Ceremony",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "2025-rock-roll-hall-of-fame-induction-ceremony",
+      "has_reactions": false
+    },
+    {
+      "id": "6b6ea845-e3bc-4cd3-8347-529bb122b84d",
+      "title": "Starring Dick Van Dyke",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "starring-dick-van-dyke",
+      "has_reactions": false
+    },
+    {
+      "id": "a7148991-cc36-48b6-a673-2954da91049f",
+      "title": "Proust Palimpsesto: Pastiches e Misturas",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "proust-palimpsesto-pastiches-e-misturas",
+      "has_reactions": false
+    }
+  ]
+}

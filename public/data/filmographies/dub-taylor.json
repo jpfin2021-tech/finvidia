@@ -1,0 +1,624 @@
+{
+  "id": "2296b9ed-8d95-4571-9b35-3a05c8c380d7",
+  "name": "Dub Taylor",
+  "slug": "dub-taylor",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/a7eVCCqOeWPqJpBXoKse1vZj2sc.jpg",
+  "filmography": [
+    {
+      "id": "d09093a5-c514-4fed-9cee-8231daf75a3c",
+      "title": "Mr. Smith Goes to Washington",
+      "release_year": 1939,
+      "studio_label": "Columbia Pictures",
+      "slug": "mr-smith-goes-to-washington",
+      "has_reactions": true
+    },
+    {
+      "id": "19f5d056-d449-4576-a472-edb49712b920",
+      "title": "One Man's Law",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "one-man-s-law",
+      "has_reactions": false
+    },
+    {
+      "id": "0d21cab4-932d-473f-91a6-59c2b26481f8",
+      "title": "The Man from Tumbleweeds",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "the-man-from-tumbleweeds",
+      "has_reactions": false
+    },
+    {
+      "id": "c2903d60-9fe3-41b6-8ddc-e721bd7c9afc",
+      "title": "The Wildcat of Tucson",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "the-wildcat-of-tucson",
+      "has_reactions": false
+    },
+    {
+      "id": "2e37abdb-3348-4696-b479-873cc4a7faf2",
+      "title": "The Return of Daniel Boone",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-daniel-boone",
+      "has_reactions": false
+    },
+    {
+      "id": "9d9e1849-f3f4-4b20-8130-cf7a277e717a",
+      "title": "Hands Across the Rockies",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "hands-across-the-rockies",
+      "has_reactions": false
+    },
+    {
+      "id": "24b15fa1-2eee-4f16-ab5b-2df3db0d1fce",
+      "title": "The Son of Davy Crockett",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-son-of-davy-crockett",
+      "has_reactions": false
+    },
+    {
+      "id": "a86505b0-e71f-47f0-9b01-cb23298756f4",
+      "title": "Riders of the Northwest Mounted",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "riders-of-the-northwest-mounted",
+      "has_reactions": false
+    },
+    {
+      "id": "c0952e69-5761-48bf-a676-e98d131d1695",
+      "title": "Saddles and Sagebrush",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "saddles-and-sagebrush",
+      "has_reactions": false
+    },
+    {
+      "id": "a98aa8c8-78eb-409e-938b-e8510d244faa",
+      "title": "Sundown Valley",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "sundown-valley",
+      "has_reactions": false
+    },
+    {
+      "id": "4930ca79-8ea9-48fd-9de9-da8bb408a438",
+      "title": "Saddle Leather Law",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "saddle-leather-law",
+      "has_reactions": false
+    },
+    {
+      "id": "5d81cf68-b11c-4966-ac8f-a9f6c0e97e7c",
+      "title": "Rough Ridin' Justice",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "rough-ridin-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "f75c93ee-eb29-4536-b8fe-808027a27aa6",
+      "title": "Both Barrels Blazing",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "both-barrels-blazing",
+      "has_reactions": false
+    },
+    {
+      "id": "91344328-08c9-4b71-ad16-fe8d7882b945",
+      "title": "Outlaw Brand",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "outlaw-brand",
+      "has_reactions": false
+    },
+    {
+      "id": "16274a86-718d-401b-9626-4ab77e4acb2b",
+      "title": "Song of the Drifter",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "song-of-the-drifter",
+      "has_reactions": false
+    },
+    {
+      "id": "9f4de4c1-1319-483d-a633-00ce7c2c72d2",
+      "title": "Range Renegades",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "range-renegades",
+      "has_reactions": false
+    },
+    {
+      "id": "f0e4afec-5c48-4210-84de-55695e5b6b52",
+      "title": "Partners of the Sunset",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "partners-of-the-sunset",
+      "has_reactions": false
+    },
+    {
+      "id": "64e69ef3-943d-4fe1-9dd2-d2ff0d864361",
+      "title": "The Rangers Ride",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-rangers-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "567cef03-797b-43f8-b1b6-d30c926293ea",
+      "title": "Silver Trails",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "silver-trails",
+      "has_reactions": false
+    },
+    {
+      "id": "5152f75d-dfe9-45a3-bba1-f44594fa8a4c",
+      "title": "Courtin' Trouble",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "courtin-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "e488d1ed-3d77-4330-809e-65efa1500bba",
+      "title": "Oklahoma Blues",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "oklahoma-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "d79d300d-f0a5-4b2c-a6ed-f3937c3901d9",
+      "title": "Cowboy Cavalier",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "cowboy-cavalier",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4557aa-50c9-4fc2-a461-c1078a05e3b4",
+      "title": "Across The Rio Grande",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "across-the-rio-grande",
+      "has_reactions": false
+    },
+    {
+      "id": "cfa8b61b-12e4-4ee5-987e-8b067604cead",
+      "title": "Gun Law Justice",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "gun-law-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "980714d8-b779-4f16-af5b-88b717ef272a",
+      "title": "Lawless Code",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "lawless-code",
+      "has_reactions": false
+    },
+    {
+      "id": "6f5b9e88-8338-45f4-ba18-b9c8c7f39649",
+      "title": "Roaring Westward",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "roaring-westward",
+      "has_reactions": false
+    },
+    {
+      "id": "9d7070d2-6969-42f8-9e0e-3014de0f8c8d",
+      "title": "The Marshall of Trail City",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-marshall-of-trail-city",
+      "has_reactions": false
+    },
+    {
+      "id": "3de91152-3bdb-4bf4-882d-c3cb77abd716",
+      "title": "Life with Buster Keaton",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "life-with-buster-keaton",
+      "has_reactions": false
+    },
+    {
+      "id": "44b97507-7b4a-4a6b-b517-d19a02b1844e",
+      "title": "Crime Wave",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "crime-wave",
+      "has_reactions": false
+    },
+    {
+      "id": "41a36092-7c21-44fe-8a89-f74306a86918",
+      "title": "Dragnet",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dragnet",
+      "has_reactions": false
+    },
+    {
+      "id": "a00a960d-33ca-4d31-bbcf-f8179433ca19",
+      "title": "The Bounty Hunter",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-bounty-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "48ec6d05-81c8-41ac-b5b1-42b90bc36304",
+      "title": "A Star Is Born",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born",
+      "has_reactions": false
+    },
+    {
+      "id": "a67911f4-5b3d-4330-836c-464617f45496",
+      "title": "I Died a Thousand Times",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "i-died-a-thousand-times",
+      "has_reactions": false
+    },
+    {
+      "id": "94eba693-3dc0-4ff4-9980-15063b9d99fb",
+      "title": "Hot Rod Gang",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "hot-rod-gang",
+      "has_reactions": false
+    },
+    {
+      "id": "c7df18a9-7cdf-4e41-8cb4-782ddf97a6e0",
+      "title": "Home from the Hill",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "home-from-the-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "4d8a4ea6-d3e5-489b-8dd2-9b5154b80ad2",
+      "title": "Parrish",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "parrish",
+      "has_reactions": false
+    },
+    {
+      "id": "83ab128c-de61-41cd-a6e5-b2f60d95e91b",
+      "title": "Black Gold",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "black-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "dbdf5e45-37c9-4add-b8ce-12b6314f3081",
+      "title": "The Losers",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-losers",
+      "has_reactions": false
+    },
+    {
+      "id": "1ad5c16f-ac8a-423c-b73b-4ddc3695eaa7",
+      "title": "Spencer's Mountain",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "spencer-s-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "3c5d95da-1522-4cc3-a694-52a201129a61",
+      "title": "The Cincinnati Kid",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-cincinnati-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "09fdafc7-6bb4-40c2-a0e6-129aea486139",
+      "title": "The Decorator",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-decorator",
+      "has_reactions": false
+    },
+    {
+      "id": "b9fa199c-9257-4d53-8ee7-187dce5a3492",
+      "title": "Major Dundee",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "major-dundee",
+      "has_reactions": false
+    },
+    {
+      "id": "46a03be4-3846-4f26-98b3-0dd81187f695",
+      "title": "Bonnie and Clyde",
+      "release_year": 1967,
+      "studio_label": "Tatira-Hiller Productions",
+      "slug": "bonnie-and-clyde",
+      "has_reactions": false
+    },
+    {
+      "id": "5eb33872-99dc-4bbc-84a2-ab51f2797188",
+      "title": "The Shakiest Gun in the West",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-shakiest-gun-in-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "220d657d-ab00-4d7c-a443-7253939f0c73",
+      "title": "Something for a Lonely Man",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "something-for-a-lonely-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e574091e-748c-4b90-94f8-c3fa02dc2903",
+      "title": "Death of a Gunfighter",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "death-of-a-gunfighter",
+      "has_reactions": false
+    },
+    {
+      "id": "2f5f982a-ac4b-48ef-a4ee-e60ae83915ae",
+      "title": "Ride a Northbound Horse",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "ride-a-northbound-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "34bceb6d-5681-4dec-985f-217d1d419fcf",
+      "title": "The Undefeated",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-undefeated",
+      "has_reactions": false
+    },
+    {
+      "id": "9b228e5e-298c-4aba-a84a-95f558da4ae6",
+      "title": "A Man Called Horse",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "a-man-called-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "2711da66-405c-4b8e-995c-0c1c118ae126",
+      "title": "Support Your Local Gunfighter",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "support-your-local-gunfighter",
+      "has_reactions": false
+    },
+    {
+      "id": "11ad4bad-7fa8-431a-afc6-6283e1435869",
+      "title": "The Getaway",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-getaway",
+      "has_reactions": false
+    },
+    {
+      "id": "5a2a0a69-a370-45c1-afdc-8d1d123725b5",
+      "title": "Junior Bonner",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "junior-bonner",
+      "has_reactions": false
+    },
+    {
+      "id": "7289c9a7-e81a-4a97-808b-56c27e2bf71d",
+      "title": "Wild in the Sky",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "wild-in-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2dcb99-eb7d-4673-93aa-3a4ccb6e0fdd",
+      "title": "The Delphi Bureau: The Merchant of Death Assignment",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-delphi-bureau-the-merchant-of-death-assignment",
+      "has_reactions": false
+    },
+    {
+      "id": "ff722f5f-a666-4cf0-9d15-f732b8488f4c",
+      "title": "Country Blue",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "country-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "57c316bb-937f-452e-9c43-c1be514f6ce3",
+      "title": "This Is a Hijack",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "this-is-a-hijack",
+      "has_reactions": false
+    },
+    {
+      "id": "5733b895-f05a-4de1-9a2b-9d48c674bbba",
+      "title": "Thunderbolt and Lightfoot",
+      "release_year": 1974,
+      "studio_label": "Malpaso Productions",
+      "slug": "thunderbolt-and-lightfoot",
+      "has_reactions": true
+    },
+    {
+      "id": "ac9408f6-8fc4-4105-8cfb-0754957967c5",
+      "title": "Shootout in a One-Dog Town",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "shootout-in-a-one-dog-town",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad70ec7-2001-4b16-bebd-49182e147e22",
+      "title": "Poor Pretty Eddie",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "poor-pretty-eddie",
+      "has_reactions": false
+    },
+    {
+      "id": "70e295e6-e85f-4126-a41a-4488717a3328",
+      "title": "The Daughters of Joshua Cabe Return",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-daughters-of-joshua-cabe-return",
+      "has_reactions": false
+    },
+    {
+      "id": "7552fd0a-c262-4dd6-9f64-c7089de0731e",
+      "title": "Creature from Black Lake",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "creature-from-black-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "c2558b54-133f-4586-8356-77ca4883924d",
+      "title": "Burnt Offerings",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "burnt-offerings",
+      "has_reactions": false
+    },
+    {
+      "id": "3e6fd31b-f0c3-431b-ad50-5b516cf5d0b3",
+      "title": "Pony Express Rider",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "pony-express-rider",
+      "has_reactions": false
+    },
+    {
+      "id": "3cdbe620-e49c-4c80-bd91-2e967a3d7361",
+      "title": "Treasure of Matecumbe",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "treasure-of-matecumbe",
+      "has_reactions": false
+    },
+    {
+      "id": "ea11b030-9369-4b28-961e-c21056ef0b61",
+      "title": "Gator",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "gator",
+      "has_reactions": false
+    },
+    {
+      "id": "07b15f4e-3434-43dc-be4a-68fcb0179cd7",
+      "title": "The Rescuers",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-rescuers",
+      "has_reactions": false
+    },
+    {
+      "id": "36ce7663-10e0-4738-9c33-f412141becd9",
+      "title": "Kit Carson and the Mountain Men",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "kit-carson-and-the-mountain-men",
+      "has_reactions": false
+    },
+    {
+      "id": "744e7c79-1667-407f-bf59-f4e1405ec62e",
+      "title": "Great Day",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "great-day",
+      "has_reactions": false
+    },
+    {
+      "id": "5aacefb6-2b60-406a-86c9-cfe901714db1",
+      "title": "Beartooth",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "beartooth",
+      "has_reactions": false
+    },
+    {
+      "id": "86d852ef-4fb4-4dc9-b715-2acafa3f548c",
+      "title": "The Great Smokey Roadblock",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-great-smokey-roadblock",
+      "has_reactions": false
+    },
+    {
+      "id": "49179427-b7c6-4ad9-9158-5da6e4335c3e",
+      "title": "1941",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "1941",
+      "has_reactions": false
+    },
+    {
+      "id": "6bc95acf-ba6c-409c-a4c3-91184d25db75",
+      "title": "Soggy Bottom, U.S.A.",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "soggy-bottom-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "08dd6bf6-8177-4b7b-8c53-a351dbe8b3d8",
+      "title": "The Best of Times",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-times",
+      "has_reactions": false
+    },
+    {
+      "id": "2010101d-81f9-44c5-881f-14e065cd43ca",
+      "title": "Once Upon a Texas Train",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-texas-train",
+      "has_reactions": false
+    },
+    {
+      "id": "4cd2a61c-b420-4b72-84fc-91d011f65ab7",
+      "title": "Back to the Future Part III",
+      "release_year": 1990,
+      "studio_label": "Universal Pictures",
+      "slug": "back-to-the-future-part-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "6e89f96c-aff0-409e-a248-39712e676834",
+      "title": "Falling from Grace",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "falling-from-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "46849ef3-a37e-4bef-a4ad-19addbe67709",
+      "title": "Maverick",
+      "release_year": 1994,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "maverick",
+      "has_reactions": true
+    }
+  ]
+}

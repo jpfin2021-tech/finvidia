@@ -1,0 +1,584 @@
+{
+  "id": "b9ed8150-4caf-49f3-b276-f45f2a35426d",
+  "name": "Ben Stiller",
+  "slug": "ben-stiller",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+  "filmography": [
+    {
+      "id": "107e83b6-4069-4b88-a79e-dc7cc9651181",
+      "title": "Belly of the Beast",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "belly-of-the-beast",
+      "has_reactions": false
+    },
+    {
+      "id": "87243bc8-f0ff-4b4a-af2b-1c4254ed5edb",
+      "title": "Hot Pursuit",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "hot-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "05080f4b-4619-447b-96df-5111726dcee1",
+      "title": "Shoeshine",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "shoeshine",
+      "has_reactions": false
+    },
+    {
+      "id": "045a4ce6-516b-4f39-bbfe-2c2136e0b5a7",
+      "title": "Next of Kin",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "next-of-kin",
+      "has_reactions": false
+    },
+    {
+      "id": "4219fe4c-7e15-440a-a1e8-9266cd1e6341",
+      "title": "Working Tra$h",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "working-tra-h",
+      "has_reactions": false
+    },
+    {
+      "id": "c407e12c-9287-41f6-964a-b90fa0d296c3",
+      "title": "Highway to Hell",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "highway-to-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "57aa4198-0ce6-4b53-994f-077d845c46cf",
+      "title": "Reality Bites",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "reality-bites",
+      "has_reactions": false
+    },
+    {
+      "id": "09d54736-75d1-46fd-9626-0fc7c5a5cdc3",
+      "title": "Heavyweights",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "heavyweights",
+      "has_reactions": false
+    },
+    {
+      "id": "fd233c63-3364-4ed4-93c8-67bbe049bf54",
+      "title": "The Cable Guy",
+      "release_year": 1996,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-cable-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "b8df8325-2239-4451-bef3-16c5b013134d",
+      "title": "Derek Zoolander: Male Model",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "derek-zoolander-male-model",
+      "has_reactions": false
+    },
+    {
+      "id": "f9dde980-bc25-446c-9444-fdaa553572ef",
+      "title": "Happy Gilmore",
+      "release_year": 1996,
+      "studio_label": "Universal Pictures",
+      "slug": "happy-gilmore",
+      "has_reactions": true
+    },
+    {
+      "id": "ec702b98-1354-4278-aa8f-7d31f192686d",
+      "title": "If Lucy Fell",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "if-lucy-fell",
+      "has_reactions": false
+    },
+    {
+      "id": "cf0fa4f0-58b9-412d-96c7-04155bc18175",
+      "title": "Derek Zoolander University",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "derek-zoolander-university",
+      "has_reactions": false
+    },
+    {
+      "id": "485036b4-f4ef-40a6-a344-b624ebed64fe",
+      "title": "There's Something About Mary",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "there-s-something-about-mary",
+      "has_reactions": true
+    },
+    {
+      "id": "03f2fcb1-6c02-427c-8dd7-6aa4564b96fc",
+      "title": "Zero Effect",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "zero-effect",
+      "has_reactions": false
+    },
+    {
+      "id": "65225669-dcf1-4a7a-93b6-c435cb24d2fc",
+      "title": "Permanent Midnight",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "permanent-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "20be11bf-6a14-4f05-b77e-86faca1b3cf4",
+      "title": "Your Friends & Neighbors",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "your-friends-neighbors",
+      "has_reactions": false
+    },
+    {
+      "id": "4f0c397a-a51c-4668-b828-48f7983e9e27",
+      "title": "Mystery Men",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "mystery-men",
+      "has_reactions": false
+    },
+    {
+      "id": "d5d2897b-a3ae-49a9-a8de-a925e42ece7b",
+      "title": "The Suburbans",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-suburbans",
+      "has_reactions": false
+    },
+    {
+      "id": "a376ad94-6c28-443c-a662-1eab136f23cc",
+      "title": "Meet the Parents",
+      "release_year": 2000,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-the-parents",
+      "has_reactions": true
+    },
+    {
+      "id": "7d07b6b8-e46e-4c02-b555-53204d234eee",
+      "title": "The Independent",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-independent",
+      "has_reactions": false
+    },
+    {
+      "id": "d076b755-58f1-4bb3-93f4-997d2c25da9b",
+      "title": "Zoolander",
+      "release_year": 2001,
+      "studio_label": "Paramount Pictures",
+      "slug": "zoolander",
+      "has_reactions": true
+    },
+    {
+      "id": "acac3493-4da4-4aed-866c-b1be6d3c97d6",
+      "title": "The Royal Tenenbaums",
+      "release_year": 2001,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-royal-tenenbaums",
+      "has_reactions": true
+    },
+    {
+      "id": "0958b984-1ed9-43aa-85c6-1f4fd4dcb832",
+      "title": "Mission: Improbable",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mission-improbable",
+      "has_reactions": false
+    },
+    {
+      "id": "6565e2bd-fbcc-4a47-be27-18f530b67b10",
+      "title": "Run Ronnie Run",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "run-ronnie-run",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe2d472-9c5d-46bd-90c2-f6540b9a9a3a",
+      "title": "Orange County",
+      "release_year": 2002,
+      "studio_label": "MTV Films",
+      "slug": "orange-county",
+      "has_reactions": true
+    },
+    {
+      "id": "bad21a6d-3951-47f7-8215-f127a21d6486",
+      "title": "Duplex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "duplex",
+      "has_reactions": false
+    },
+    {
+      "id": "0f726d6d-39ed-4d0b-b783-eca554f22336",
+      "title": "Pauly Shore Is Dead",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "pauly-shore-is-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "6ce11711-67ca-4745-ac2c-7ad656a1fe08",
+      "title": "DodgeBall: A True Underdog Story",
+      "release_year": 2004,
+      "studio_label": "20th Century Fox",
+      "slug": "dodgeball-a-true-underdog-story",
+      "has_reactions": true
+    },
+    {
+      "id": "905135cd-fe34-4f91-850c-b81a8a7aa975",
+      "title": "Meet the Fockers",
+      "release_year": 2004,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-the-fockers",
+      "has_reactions": true
+    },
+    {
+      "id": "0472af18-eadb-4d35-b729-1e28fcc5ceb0",
+      "title": "Starsky & Hutch",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "starsky-hutch",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3a4b80-7ccf-4282-8d97-b92f69d0460b",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "anchorman-the-legend-of-ron-burgundy",
+      "has_reactions": true
+    },
+    {
+      "id": "b174c06d-e8e0-4308-80d3-e62873e39a04",
+      "title": "Envy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "envy",
+      "has_reactions": false
+    },
+    {
+      "id": "edec8b30-3b43-41f9-b121-95743d9b95cd",
+      "title": "Along Came Polly",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "along-came-polly",
+      "has_reactions": false
+    },
+    {
+      "id": "c24ab1d8-5d1f-42f0-be6f-342bf0e0758b",
+      "title": "Nobody Knows Anything!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "nobody-knows-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "d3c0d60a-138f-4e0e-b119-4dbd8116c3d2",
+      "title": "Madagascar",
+      "release_year": 2005,
+      "studio_label": "Pacific Data Images",
+      "slug": "madagascar",
+      "has_reactions": true
+    },
+    {
+      "id": "0b2e06b5-f693-4d30-a973-79d3f0e9682d",
+      "title": "All Aboard the Crazy Train",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "all-aboard-the-crazy-train",
+      "has_reactions": false
+    },
+    {
+      "id": "7c2b12d8-0144-4372-8826-a4c237144d7f",
+      "title": "Earth to America",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "earth-to-america",
+      "has_reactions": false
+    },
+    {
+      "id": "fa7eeb4a-ec8a-4f41-bca3-f4f78a0f9c27",
+      "title": "Romanekian",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "romanekian",
+      "has_reactions": false
+    },
+    {
+      "id": "a4cf78f9-460a-42fd-ac8a-c18f3c8a2247",
+      "title": "Confessions of an Action Star",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "confessions-of-an-action-star",
+      "has_reactions": false
+    },
+    {
+      "id": "c41d7336-1018-4e02-b6a0-07ebfc474aa2",
+      "title": "Night at the Museum",
+      "release_year": 2006,
+      "studio_label": "1492 Pictures",
+      "slug": "night-at-the-museum",
+      "has_reactions": true
+    },
+    {
+      "id": "0c74a00a-6227-40a8-85c4-c621f7ed765e",
+      "title": "Awesome; I Fuckin' Shot That!",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "awesome-i-fuckin-shot-that",
+      "has_reactions": false
+    },
+    {
+      "id": "30b0260e-b44d-47cd-9c18-c37a6855a0af",
+      "title": "The Making of 'The Pick of Destiny'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-pick-of-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "0297aa6e-d389-43e4-8638-f5b0008b40f9",
+      "title": "Elmo's Christmas Countdown",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "elmo-s-christmas-countdown",
+      "has_reactions": false
+    },
+    {
+      "id": "e97356a9-5d60-4aa9-8be2-bbeb7851cde0",
+      "title": "Tropic Thunder",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "tropic-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "b385764a-0cce-47fc-95ac-3453412c1baa",
+      "title": "Tropic Thunder: Rain of Madness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tropic-thunder-rain-of-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "a832dbe5-a508-4348-967e-427d28639c25",
+      "title": "Night at the Museum: Battle of the Smithsonian",
+      "release_year": 2009,
+      "studio_label": "21 Laps Entertainment",
+      "slug": "night-at-the-museum-battle-of-the-smithsonian",
+      "has_reactions": true
+    },
+    {
+      "id": "8066f37a-5ba9-4265-a7c0-a97552f4bf35",
+      "title": "Merry Madagascar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "merry-madagascar",
+      "has_reactions": false
+    },
+    {
+      "id": "ffec4613-a6d0-4e6e-a633-b4c540b6e72b",
+      "title": "Megamind",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "megamind",
+      "has_reactions": true
+    },
+    {
+      "id": "c0391cbc-da84-4743-8e39-527b3a491da9",
+      "title": "Greenberg",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "greenberg",
+      "has_reactions": false
+    },
+    {
+      "id": "4880f584-25f8-4204-a98f-54f0020c7155",
+      "title": "The Trip",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "9febda0b-8e86-4317-8131-9d15291e0f04",
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "release_year": 2012,
+      "studio_label": "DreamWorks Animation",
+      "slug": "madagascar-3-europe-s-most-wanted",
+      "has_reactions": true
+    },
+    {
+      "id": "872885b2-bf20-41dd-b18a-3887d1d3f9ca",
+      "title": "The Secret Policeman's Ball",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "92dfecc6-349f-4c0f-ba04-16cdae6372f5",
+      "title": "Madly Madagascar",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "madly-madagascar",
+      "has_reactions": false
+    },
+    {
+      "id": "4ef56825-5291-4fcf-b74f-e92eec679557",
+      "title": "Le D\u00e9barquement",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "le-d-barquement",
+      "has_reactions": false
+    },
+    {
+      "id": "c9c8386c-46d3-479c-a152-9928b5db934e",
+      "title": "Nantucket Film Festival's 2nd Comedy Roundtable",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "nantucket-film-festival-s-2nd-comedy-roundtable",
+      "has_reactions": false
+    },
+    {
+      "id": "8c7f3c03-2f41-4632-967d-7178470949de",
+      "title": "The Secret Life of Walter Mitty",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-secret-life-of-walter-mitty",
+      "has_reactions": false
+    },
+    {
+      "id": "e1133b97-2ec4-4af0-9b50-4414cce29647",
+      "title": "Harmontown",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "harmontown",
+      "has_reactions": false
+    },
+    {
+      "id": "7dc6fbc7-592e-4176-9edb-d55a0f423442",
+      "title": "While We're Young",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "while-we-re-young",
+      "has_reactions": false
+    },
+    {
+      "id": "ab2066ea-f7e6-49cd-99d8-782fc09ed2f0",
+      "title": "Being Canadian",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "being-canadian",
+      "has_reactions": false
+    },
+    {
+      "id": "8f74e191-da43-4a68-b829-6814accffe7e",
+      "title": "Sweet Micky for President",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "sweet-micky-for-president",
+      "has_reactions": false
+    },
+    {
+      "id": "4fba209d-445b-42a3-9192-5af2aadaa6ca",
+      "title": "Zoolander 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "zoolander-2",
+      "has_reactions": false
+    },
+    {
+      "id": "024c781a-ff32-46eb-baf9-7d3c6c01073d",
+      "title": "Don't Think Twice",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "don-t-think-twice",
+      "has_reactions": false
+    },
+    {
+      "id": "d37a7c24-95ab-4059-b286-a577d2bbba14",
+      "title": "Brad's Status",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "brad-s-status",
+      "has_reactions": false
+    },
+    {
+      "id": "532dd0a0-21c2-438f-bfe7-a513b4e12a81",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-meyerowitz-stories-new-and-selected",
+      "has_reactions": false
+    },
+    {
+      "id": "8d9f65b6-e475-43d1-b355-846401ab1483",
+      "title": "Everybody Has an Andy Dick Story",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "everybody-has-an-andy-dick-story",
+      "has_reactions": false
+    },
+    {
+      "id": "f1dad32c-d2ad-4aca-bd70-c5b23bbe7036",
+      "title": "The Truth Is in the Stars",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-truth-is-in-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "bc3d9853-96ba-435a-8384-e777cee9ed8f",
+      "title": "Greed",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "greed",
+      "has_reactions": false
+    },
+    {
+      "id": "d02961b6-603a-4042-adf7-906db12abbee",
+      "title": "Bros",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bros",
+      "has_reactions": false
+    },
+    {
+      "id": "f015adf4-b032-4a43-aae5-d9c9555e7174",
+      "title": "Bleecker",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "bleecker",
+      "has_reactions": false
+    },
+    {
+      "id": "7e557916-b821-49c6-840b-3615a151de0a",
+      "title": "Nutcrackers",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "nutcrackers",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae0818b-2398-4c44-8db0-ebb8c0adcbaa",
+      "title": "Happy Gilmore 2",
+      "release_year": 2025,
+      "studio_label": "Happy Madison Productions",
+      "slug": "happy-gilmore-2",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "id": "5be7d158-3df6-401e-853f-f353130772d3",
+  "name": "Martin Balsam",
+  "slug": "martin-balsam",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+  "filmography": [
+    {
+      "id": "17cb4f8b-09e3-48ed-bf66-670ddc3bc47e",
+      "title": "Winged Victory",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "winged-victory",
+      "has_reactions": false
+    },
+    {
+      "id": "077993ea-cac3-4c94-800e-5acf1d3a6c21",
+      "title": "The Living Bible",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-living-bible",
+      "has_reactions": false
+    },
+    {
+      "id": "f008b46a-88c6-4873-855a-fca7a5c0482f",
+      "title": "On the Waterfront",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "on-the-waterfront",
+      "has_reactions": false
+    },
+    {
+      "id": "b7b8e3a2-8f4b-412c-84aa-94597d90b25e",
+      "title": "A Man Is Ten Feet Tall",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "a-man-is-ten-feet-tall",
+      "has_reactions": false
+    },
+    {
+      "id": "8eea629a-346d-474d-8e61-cef40ea62eba",
+      "title": "12 Angry Men",
+      "release_year": 1957,
+      "studio_label": "Orion-Nova Productions",
+      "slug": "12-angry-men",
+      "has_reactions": true
+    },
+    {
+      "id": "d29e10c4-7542-4f2f-9c8c-b7612306085a",
+      "title": "Time Limit",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "time-limit",
+      "has_reactions": false
+    },
+    {
+      "id": "cff02d09-02f1-49f4-9145-07a35d551bd0",
+      "title": "Bomber's Moon",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "bomber-s-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "ddc950b7-0a86-41a3-8f68-4832eb4c04f7",
+      "title": "Marjorie Morningstar",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "marjorie-morningstar",
+      "has_reactions": false
+    },
+    {
+      "id": "bfbfbe85-76b1-471a-bffa-5ec3ef321700",
+      "title": "Winterset",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "winterset",
+      "has_reactions": false
+    },
+    {
+      "id": "3135d445-07f5-46e8-a0e2-e2064862146e",
+      "title": "Middle of the Night",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "middle-of-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "291d28ba-a597-4d3b-beac-e0e681ef220b",
+      "title": "Al Capone",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "al-capone",
+      "has_reactions": false
+    },
+    {
+      "id": "05c14c38-a788-41e3-91fd-44516bed11ca",
+      "title": "Psycho",
+      "release_year": 1960,
+      "studio_label": "Shamley Productions",
+      "slug": "psycho",
+      "has_reactions": true
+    },
+    {
+      "id": "0725c946-33bd-47bb-ab32-97f86f4825b3",
+      "title": "Everybody Go Home!",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "everybody-go-home",
+      "has_reactions": false
+    },
+    {
+      "id": "16a02cd9-96aa-4601-b710-d3b80b1b6bbd",
+      "title": "Breakfast at Tiffany's",
+      "release_year": 1961,
+      "studio_label": "Paramount Pictures",
+      "slug": "breakfast-at-tiffany-s",
+      "has_reactions": true
+    },
+    {
+      "id": "f7b4366c-f3c0-4d38-9a90-5d85531d4e24",
+      "title": "Ada",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "ada",
+      "has_reactions": false
+    },
+    {
+      "id": "01bf7941-cfed-43bd-be64-29196c9e7d5b",
+      "title": "Conquered City",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "conquered-city",
+      "has_reactions": false
+    },
+    {
+      "id": "93099009-7691-4aea-aa36-fc9b562dc5f9",
+      "title": "Cape Fear",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "cape-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "f8c37588-e400-4901-b2ba-a0bf702645fb",
+      "title": "Who's Been Sleeping in My Bed?",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "who-s-been-sleeping-in-my-bed",
+      "has_reactions": false
+    },
+    {
+      "id": "c771260e-bb52-438b-907e-8913c57a423d",
+      "title": "The Carpetbaggers",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-carpetbaggers",
+      "has_reactions": false
+    },
+    {
+      "id": "957e5fac-d135-4476-ac53-612a6b5a6056",
+      "title": "Seven Days in May",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "seven-days-in-may",
+      "has_reactions": false
+    },
+    {
+      "id": "6ae897a4-70cb-4a56-85b9-5cec3b802e5b",
+      "title": "Harlow",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "harlow",
+      "has_reactions": false
+    },
+    {
+      "id": "627ea6a1-9122-40c6-8a55-efa1463b7699",
+      "title": "A Thousand Clowns",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "a-thousand-clowns",
+      "has_reactions": false
+    },
+    {
+      "id": "5ef4fdde-ef68-4b77-8b99-da0f0df0084e",
+      "title": "The Bedford Incident",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-bedford-incident",
+      "has_reactions": false
+    },
+    {
+      "id": "44c973ee-c4dc-4bf7-83b4-9079afbfe953",
+      "title": "After the Fox",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "after-the-fox",
+      "has_reactions": false
+    },
+    {
+      "id": "00d215fe-7d8a-4414-95b1-7ffdaced1670",
+      "title": "Around the World of Mike Todd",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "around-the-world-of-mike-todd",
+      "has_reactions": false
+    },
+    {
+      "id": "2015d508-d87d-456c-90ea-018382f209f1",
+      "title": "Trilogy",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "trilogy",
+      "has_reactions": false
+    },
+    {
+      "id": "6e258f11-5bd6-4370-9c30-51044f62b546",
+      "title": "The Old Man Who Cried Wolf",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-old-man-who-cried-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "e6df74e8-96ab-4bc2-b3d7-41e61b9821f2",
+      "title": "Tora! Tora! Tora!",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "tora-tora-tora",
+      "has_reactions": false
+    },
+    {
+      "id": "720728b2-9a11-4671-83a8-b788c22fe5b8",
+      "title": "Little Big Man",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "little-big-man",
+      "has_reactions": false
+    },
+    {
+      "id": "4b4d6df4-e71c-491f-b8b9-a33b3b495a26",
+      "title": "Hunters Are for Killing",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "hunters-are-for-killing",
+      "has_reactions": false
+    },
+    {
+      "id": "2ebfabc6-1754-4ca3-871f-a080ba8ac4fd",
+      "title": "The Anderson Tapes",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-anderson-tapes",
+      "has_reactions": false
+    },
+    {
+      "id": "3f11cf82-47b1-40b9-924c-e012425569b1",
+      "title": "Confessions of a Police Captain",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "confessions-of-a-police-captain",
+      "has_reactions": false
+    },
+    {
+      "id": "a63d5ffe-05f5-4d24-985d-662135ba02f7",
+      "title": "The Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-man",
+      "has_reactions": false
+    },
+    {
+      "id": "fe33bddb-26b7-4c36-a167-924d1ad2856e",
+      "title": "The Hassled Hooker",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-hassled-hooker",
+      "has_reactions": false
+    },
+    {
+      "id": "0423c53d-b52e-45d6-83fe-2673fcbebf9c",
+      "title": "Night of Terror",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "night-of-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "933cdfaf-2d1a-4402-b36c-9cc1c6d30a75",
+      "title": "Chronicle of a Homicide",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "chronicle-of-a-homicide",
+      "has_reactions": false
+    },
+    {
+      "id": "6a37ddf2-cbe5-4ca2-9cbc-667b5b97febf",
+      "title": "Summer Wishes, Winter Dreams",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "summer-wishes-winter-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "50deb979-a03b-4a1d-88eb-72edffb3ed4d",
+      "title": "A Brand New Life",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "a-brand-new-life",
+      "has_reactions": false
+    },
+    {
+      "id": "a5e61cd2-5af4-44cb-abd9-e5b5c1538da8",
+      "title": "Counselor at Crime",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "counselor-at-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "7e3b5b3a-95ae-4e47-9b8f-e26000841365",
+      "title": "The Six Million Dollar Man",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-six-million-dollar-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e3dcf4e4-6bda-440d-b93a-d8005de8db8a",
+      "title": "The Stone Killer",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-stone-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "f9b9062b-cfe6-403d-8e57-880c74d92889",
+      "title": "La colonna infame",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "la-colonna-infame",
+      "has_reactions": false
+    },
+    {
+      "id": "ba015e4a-01f9-4585-a70f-ad87e0bdc7f4",
+      "title": "Trapped Beneath the Sea",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "trapped-beneath-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "fb5f9bab-c144-4ef5-bcf2-d8c435d12381",
+      "title": "The Taking of Pelham One Two Three",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-one-two-three",
+      "has_reactions": false
+    },
+    {
+      "id": "c419da11-b3f7-4bb1-b6fd-e63616f539fe",
+      "title": "Miles To Go Before I Sleep",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "miles-to-go-before-i-sleep",
+      "has_reactions": false
+    },
+    {
+      "id": "21caaecd-382d-4fb2-b7cb-f10965e40e13",
+      "title": "Season for Assassins",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "season-for-assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "445fbb04-2863-47c3-a282-7c5b3ac6ea0b",
+      "title": "Smiling Maniacs",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "smiling-maniacs",
+      "has_reactions": false
+    },
+    {
+      "id": "badabfdd-4fc2-42ec-b6e6-1085db74c6ae",
+      "title": "Cry, Onion!",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "cry-onion",
+      "has_reactions": false
+    },
+    {
+      "id": "3b6b8914-fcc1-4fb5-9174-f60cbb57a2d9",
+      "title": "All the President's Men",
+      "release_year": 1976,
+      "studio_label": "Wildwood Enterprises",
+      "slug": "all-the-president-s-men",
+      "has_reactions": true
+    },
+    {
+      "id": "c6560c09-d26f-4f2c-adc2-1b0675f57818",
+      "title": "Death Rage",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "death-rage",
+      "has_reactions": false
+    },
+    {
+      "id": "833c8351-4919-46cf-a0e8-ce81820499cf",
+      "title": "Meet Him and Die",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "meet-him-and-die",
+      "has_reactions": false
+    },
+    {
+      "id": "b3d5abe0-fbe5-4ef9-b3c9-d32635a9a154",
+      "title": "The Lindbergh Kidnapping Case",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-lindbergh-kidnapping-case",
+      "has_reactions": false
+    },
+    {
+      "id": "b2184c84-885e-45cc-8866-cd6aab0171ab",
+      "title": "Silver Bears",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "silver-bears",
+      "has_reactions": false
+    },
+    {
+      "id": "bed62090-5058-462b-b235-33bccd96abc8",
+      "title": "Contract on Cherry Street",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "contract-on-cherry-street",
+      "has_reactions": false
+    },
+    {
+      "id": "8329f9ef-1628-439b-af6d-195ab57a6629",
+      "title": "The Sentinel",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-sentinel",
+      "has_reactions": false
+    },
+    {
+      "id": "e7e6ef6d-b9e9-4c8b-95d6-ec11ef52c361",
+      "title": "The Storyteller",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-storyteller",
+      "has_reactions": false
+    },
+    {
+      "id": "df323441-033d-4587-a787-d6fa461844c5",
+      "title": "Siege",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "siege",
+      "has_reactions": false
+    },
+    {
+      "id": "923252f6-903a-4009-97b7-ac6e70658089",
+      "title": "Eyes Behind the Stars",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "eyes-behind-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "de3fe9df-6d8e-4b98-bde9-ca8bafbe83b8",
+      "title": "Blood and Diamonds",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "blood-and-diamonds",
+      "has_reactions": false
+    },
+    {
+      "id": "2d957bca-1e30-4346-9ebd-9fcb80333a99",
+      "title": "Rainbow",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "f5a94a20-ac0c-4343-9d65-30dd6d84d0e2",
+      "title": "The Millionaire",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-millionaire",
+      "has_reactions": false
+    },
+    {
+      "id": "4e185aa9-55c8-4f32-9b09-d2279ea94dab",
+      "title": "The House on Garibaldi Street",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-house-on-garibaldi-street",
+      "has_reactions": false
+    },
+    {
+      "id": "368379d4-a3bd-4de0-82d2-a2332c1c40ff",
+      "title": "Cuba",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "cuba",
+      "has_reactions": false
+    },
+    {
+      "id": "98349d60-e66f-482f-8048-aafeaeb25297",
+      "title": "Gardenia",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "gardenia",
+      "has_reactions": false
+    },
+    {
+      "id": "f6401a3a-ab8b-4f6b-89ac-5c6db6fe41ec",
+      "title": "Aunt Mary",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "aunt-mary",
+      "has_reactions": false
+    },
+    {
+      "id": "45787a22-5f08-4dd4-8ea6-5879eaff1efb",
+      "title": "The Horror Show",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-horror-show",
+      "has_reactions": false
+    },
+    {
+      "id": "8dceac07-87bd-4383-a010-670b4819dc9b",
+      "title": "The Seeding of Sarah Burns",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-seeding-of-sarah-burns",
+      "has_reactions": false
+    },
+    {
+      "id": "f7ab5d61-22fd-4124-9e2e-fa14eaae1190",
+      "title": "The Love Tapes",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-love-tapes",
+      "has_reactions": false
+    },
+    {
+      "id": "a958a67e-8a1d-480a-a27f-985fe1cec389",
+      "title": "The Warning",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-warning",
+      "has_reactions": false
+    },
+    {
+      "id": "f9812266-2613-46d8-895d-600c40926870",
+      "title": "There Goes The Bride",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "there-goes-the-bride",
+      "has_reactions": false
+    },
+    {
+      "id": "fdab3170-204a-4894-a54f-f4656aaf0880",
+      "title": "The Salamander",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-salamander",
+      "has_reactions": false
+    },
+    {
+      "id": "570c256f-5f53-405a-8272-8ecb7529032c",
+      "title": "People vs. Jean Harris",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "people-vs-jean-harris",
+      "has_reactions": false
+    },
+    {
+      "id": "4812fc91-a330-47f3-9303-05a101ca17f0",
+      "title": "Innocent Prey",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "innocent-prey",
+      "has_reactions": false
+    },
+    {
+      "id": "7309e47a-96d6-4420-a029-ed4d9043cb6d",
+      "title": "The Goodbye People",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-goodbye-people",
+      "has_reactions": false
+    },
+    {
+      "id": "121730ef-a2c5-473c-a95a-814c4ddcbed9",
+      "title": "Murder in Space",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "murder-in-space",
+      "has_reactions": false
+    },
+    {
+      "id": "616c6ec7-f006-46a2-aa67-7eedabb5c02e",
+      "title": "Second Serve",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "second-serve",
+      "has_reactions": false
+    },
+    {
+      "id": "e4f1d948-20e6-4344-ae8b-423187c4a9b2",
+      "title": "P.I. Private Investigations",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "p-i-private-investigations",
+      "has_reactions": false
+    },
+    {
+      "id": "7a0b1502-60a9-4ff8-a0c6-ebf50cb4e4d5",
+      "title": "Brothers in Blood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "7529a6aa-b411-4926-a6d4-d8caa9f51656",
+      "title": "Kids Like These",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "kids-like-these",
+      "has_reactions": false
+    },
+    {
+      "id": "1780c165-0671-4c07-89b1-3b8c053f338d",
+      "title": "The Brother from Space",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-brother-from-space",
+      "has_reactions": false
+    },
+    {
+      "id": "3d915519-62f6-46c0-9eae-620ef4ba1353",
+      "title": "The Last Match",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-last-match",
+      "has_reactions": false
+    },
+    {
+      "id": "be401b66-f593-4717-84f0-254117c846de",
+      "title": "Cape Fear",
+      "release_year": 1991,
+      "studio_label": "Amblin Entertainment",
+      "slug": "cape-fear",
+      "has_reactions": true
+    },
+    {
+      "id": "a506e08f-49ec-4afb-8255-070e50e790de",
+      "title": "The Silence of the Hams",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-silence-of-the-hams",
+      "has_reactions": false
+    },
+    {
+      "id": "67927cea-ae85-4fe8-8e63-3f8a9b28b7ac",
+      "title": "Unknown Soldier",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "unknown-soldier",
+      "has_reactions": false
+    },
+    {
+      "id": "13e4663a-6d89-42ad-a281-ffed5272aaff",
+      "title": "O. Henry's Christmas",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "o-henry-s-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "2baa4e0f-e422-4f5b-b687-ace930adf3ae",
+      "title": "Legend of the Spirit Dog",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "legend-of-the-spirit-dog",
+      "has_reactions": false
+    }
+  ]
+}

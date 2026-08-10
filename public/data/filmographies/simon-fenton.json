@@ -1,0 +1,32 @@
+{
+  "id": "f2069ffb-5339-488a-a820-2836fd12d773",
+  "name": "Simon Fenton",
+  "slug": "simon-fenton",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4aElY16omDY8y8etzHckBDKHGZj.jpg",
+  "filmography": [
+    {
+      "id": "d3369b2d-3cf4-4f9d-bd67-28a4857360ab",
+      "title": "Tom's Midnight Garden",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "tom-s-midnight-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "1b61b7d2-bc47-4f97-aba3-bb40289b2986",
+      "title": "Matinee",
+      "release_year": 1993,
+      "studio_label": "Falcon Productions",
+      "slug": "matinee",
+      "has_reactions": true
+    },
+    {
+      "id": "a395a7d8-2cdd-473d-aea6-4b0fc0f311d0",
+      "title": "A Knight in Camelot",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-knight-in-camelot",
+      "has_reactions": false
+    }
+  ]
+}

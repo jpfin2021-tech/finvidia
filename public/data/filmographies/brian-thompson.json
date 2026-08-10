@@ -1,0 +1,384 @@
+{
+  "id": "5c0c88ee-070f-4851-ac12-99d20df151b3",
+  "name": "Brian Thompson",
+  "slug": "brian-thompson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qooSjBMA1P85JhBpHlwmmisGroO.jpg",
+  "filmography": [
+    {
+      "id": "96efb6a1-e2f7-4df5-a764-379deac5660c",
+      "title": "Firefight",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "firefight",
+      "has_reactions": false
+    },
+    {
+      "id": "cf44c222-6bb6-4549-a90d-d4b3cc27e3ca",
+      "title": "The Terminator",
+      "release_year": 1984,
+      "studio_label": "Hemdale",
+      "slug": "the-terminator",
+      "has_reactions": true
+    },
+    {
+      "id": "0000e250-1beb-4dd4-93c5-177107405945",
+      "title": "Cobra",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "cobra",
+      "has_reactions": false
+    },
+    {
+      "id": "183704b0-fbd4-40c4-a26f-1cdbc7132bc7",
+      "title": "\u00a1Three Amigos!",
+      "release_year": 1986,
+      "studio_label": "L.A. Films",
+      "slug": "three-amigos",
+      "has_reactions": true
+    },
+    {
+      "id": "8a29eb82-a7a2-4746-9525-872282fe75ef",
+      "title": "Commando Squad",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "commando-squad",
+      "has_reactions": false
+    },
+    {
+      "id": "0b071ff4-b657-49b8-87c2-ffed56864be1",
+      "title": "You Talkin' to Me?",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "you-talkin-to-me",
+      "has_reactions": false
+    },
+    {
+      "id": "3aae0b0d-a81e-4011-8a43-6cbb3bdb0d23",
+      "title": "Alien Nation",
+      "release_year": 1988,
+      "studio_label": "20th Century Fox",
+      "slug": "alien-nation",
+      "has_reactions": true
+    },
+    {
+      "id": "0381bc19-12ba-4f4a-896a-037467e91b42",
+      "title": "Pass the Ammo",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "pass-the-ammo",
+      "has_reactions": false
+    },
+    {
+      "id": "9bb82fb2-6766-43d9-8ab4-459cf128cc4a",
+      "title": "Nightwish",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "nightwish",
+      "has_reactions": false
+    },
+    {
+      "id": "ced64dc5-60b5-42be-a7b9-49860b2267cb",
+      "title": "Three Fugitives",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "three-fugitives",
+      "has_reactions": false
+    },
+    {
+      "id": "402de0c2-a4c7-413d-ad4d-4659d0a962ee",
+      "title": "Miracle Mile",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "miracle-mile",
+      "has_reactions": false
+    },
+    {
+      "id": "5ab9bff4-0c1e-4895-a921-3d0428ec1194",
+      "title": "Lionheart",
+      "release_year": 1990,
+      "studio_label": "Universal Pictures",
+      "slug": "lionheart",
+      "has_reactions": true
+    },
+    {
+      "id": "b427079d-ae4f-4ffd-9b68-23477c02dfe9",
+      "title": "Moon 44",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "moon-44",
+      "has_reactions": false
+    },
+    {
+      "id": "0b58d648-41a9-43b7-8848-de662a130048",
+      "title": "Life Stinks",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "life-stinks",
+      "has_reactions": false
+    },
+    {
+      "id": "a3d6fb66-96c2-41a3-a3fe-3dc3b6ecbabc",
+      "title": "The Owl",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-owl",
+      "has_reactions": false
+    },
+    {
+      "id": "3d39f008-f6ef-4a51-bbda-712af8748829",
+      "title": "Ted & Venus",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "ted-venus",
+      "has_reactions": false
+    },
+    {
+      "id": "54d63eb3-2ef5-4f82-8ac4-1bcd86e111cf",
+      "title": "Star Trek: Generations",
+      "release_year": 1994,
+      "studio_label": "Paramount Pictures",
+      "slug": "star-trek-generations",
+      "has_reactions": true
+    },
+    {
+      "id": "f3d8ab8d-5b7a-4e85-b2d1-cf50c43cb620",
+      "title": "DragonHeart",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "dragonheart",
+      "has_reactions": false
+    },
+    {
+      "id": "f2005625-ad0a-41f4-ac0d-2e43cfbc77b9",
+      "title": "Mortal Kombat: Annihilation",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "mortal-kombat-annihilation",
+      "has_reactions": true
+    },
+    {
+      "id": "d1303a89-a85d-4993-b7d4-31db8cb2fdde",
+      "title": "Bouncers",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "bouncers",
+      "has_reactions": false
+    },
+    {
+      "id": "17178047-d80a-4304-a2a1-c299afe05430",
+      "title": "The Guardian",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-guardian",
+      "has_reactions": false
+    },
+    {
+      "id": "d80ada0f-6c31-4374-a60a-c86d31bb3df0",
+      "title": "Inside The X-Files",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "inside-the-x-files",
+      "has_reactions": false
+    },
+    {
+      "id": "e483ec5f-8947-4eb8-9951-f774be67a1b9",
+      "title": "If Tomorrow Comes",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "if-tomorrow-comes",
+      "has_reactions": false
+    },
+    {
+      "id": "e6080d3b-9390-40c2-89fc-2845542253f2",
+      "title": "Epoch",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "epoch",
+      "has_reactions": false
+    },
+    {
+      "id": "4d0c46cc-e844-490b-8e33-39a8342b3051",
+      "title": "The Order",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-order",
+      "has_reactions": false
+    },
+    {
+      "id": "37574a42-5903-4402-b17c-9cbc899f23db",
+      "title": "Joe Dirt",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "joe-dirt",
+      "has_reactions": false
+    },
+    {
+      "id": "7e7b89b2-83fc-428a-a9f9-8f6a8fbd4e82",
+      "title": "Epoch: Evolution",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "epoch-evolution",
+      "has_reactions": false
+    },
+    {
+      "id": "1c6bb5f6-a6a6-40b2-a147-9aa9d591743f",
+      "title": "Monsters Gone Wild",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "monsters-gone-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "3a519cce-0676-4884-8230-53196c0b52bc",
+      "title": "The Legend of Tillamook's Gold",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-tillamook-s-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "a2fc9f2c-4acd-4f54-98f3-65738b5ad918",
+      "title": "Fist of the Warrior",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fist-of-the-warrior",
+      "has_reactions": false
+    },
+    {
+      "id": "dd2e7105-1114-4663-b531-5f655e5ef99f",
+      "title": "Flight of the Living Dead",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "flight-of-the-living-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "06f45e2b-d570-43b2-bec0-eab2bc7d41ae",
+      "title": "The Last of the Just",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-the-just",
+      "has_reactions": false
+    },
+    {
+      "id": "39ce3355-76e6-4113-b6ec-f980117feb26",
+      "title": "The Arcadian",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-arcadian",
+      "has_reactions": false
+    },
+    {
+      "id": "93eb1392-55b6-4795-b0f0-c3f79c637ac5",
+      "title": "Love's Christmas Journey",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "love-s-christmas-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "0bd2e991-9bad-47b4-9469-5b178e490290",
+      "title": "Spirit of a Denture",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "spirit-of-a-denture",
+      "has_reactions": false
+    },
+    {
+      "id": "19e5d981-3d4b-4869-9ce4-5c40b26d9045",
+      "title": "An American Terror",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "an-american-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "ab75e5bd-a3f2-46c9-851d-350041d97ad3",
+      "title": "Beyond the Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "b4b51b8c-88a2-4155-9eb7-15e33f3e0b4c",
+      "title": "You're So Cool, Brewster! The Story of Fright Night",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "you-re-so-cool-brewster-the-story-of-fright-night",
+      "has_reactions": false
+    },
+    {
+      "id": "65887f7a-bbf9-4f3f-81d5-bad6e07b629f",
+      "title": "Big Muddy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "big-muddy",
+      "has_reactions": false
+    },
+    {
+      "id": "eaf94d6b-233c-4e83-b08c-957d364f88ce",
+      "title": "Trafficked",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "trafficked",
+      "has_reactions": false
+    },
+    {
+      "id": "3ce17bcb-36e8-42d0-877e-b8f457149725",
+      "title": "Made Vicious",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "made-vicious",
+      "has_reactions": false
+    },
+    {
+      "id": "5f98ad3a-4123-4d0e-842c-4917125b8f55",
+      "title": "I Am That Man",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "i-am-that-man",
+      "has_reactions": false
+    },
+    {
+      "id": "4baa1148-313b-4827-9a6e-d1cfc79121c3",
+      "title": "Hoax",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "hoax",
+      "has_reactions": false
+    },
+    {
+      "id": "2b6b11c0-37fc-41a3-a998-31a8d9717725",
+      "title": "Disappearance",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "disappearance",
+      "has_reactions": false
+    },
+    {
+      "id": "8446af64-d3df-40a3-bded-0766a8f89cb1",
+      "title": "The Tragedy of Macbeth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-tragedy-of-macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "dc4960eb-be85-4e22-a5ff-3c2a1303ee61",
+      "title": "Finding Love in Quarantine: The Movie",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "finding-love-in-quarantine-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "617be96c-bc8d-486c-93c1-41d1a7cb4d3f",
+      "title": "Ba",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ba",
+      "has_reactions": false
+    }
+  ]
+}

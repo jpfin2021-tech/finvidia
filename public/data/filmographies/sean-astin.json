@@ -1,0 +1,616 @@
+{
+  "id": "9d77115a-e058-488e-b435-92f57f24317e",
+  "name": "Sean Astin",
+  "slug": "sean-astin",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg",
+  "filmography": [
+    {
+      "id": "1c22e813-90fd-449e-8b90-6522fe46a9f1",
+      "title": "Please Don't Hit Me, Mom",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "please-don-t-hit-me-mom",
+      "has_reactions": false
+    },
+    {
+      "id": "b6be3d80-b4a0-445b-a6bb-df359ee76912",
+      "title": "The Goonies",
+      "release_year": 1985,
+      "studio_label": "Amblin Entertainment",
+      "slug": "the-goonies",
+      "has_reactions": true
+    },
+    {
+      "id": "02d61b26-2142-451c-89ca-7152cdc68fa4",
+      "title": "The B.R.A.T. Patrol",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-b-r-a-t-patrol",
+      "has_reactions": false
+    },
+    {
+      "id": "03711c3c-6be2-4922-80c9-4007163c28c3",
+      "title": "Like Father Like Son",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "like-father-like-son",
+      "has_reactions": false
+    },
+    {
+      "id": "8ac733e6-cab2-44cd-972d-0acb2205f400",
+      "title": "Staying Together",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "staying-together",
+      "has_reactions": false
+    },
+    {
+      "id": "edf601f9-e117-4e8e-bf91-7b7c6f8abf44",
+      "title": "The War of the Roses",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-war-of-the-roses",
+      "has_reactions": false
+    },
+    {
+      "id": "c7f73e02-e754-4525-8828-5b5daf8b5d69",
+      "title": "Memphis Belle",
+      "release_year": 1990,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memphis-belle",
+      "has_reactions": true
+    },
+    {
+      "id": "93930110-0514-4db8-931a-5a96307d366f",
+      "title": "Toy Soldiers",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "toy-soldiers",
+      "has_reactions": false
+    },
+    {
+      "id": "f02ee30d-6fa5-4803-99ba-7b12d0c7c80c",
+      "title": "Where the Day Takes You",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "where-the-day-takes-you",
+      "has_reactions": false
+    },
+    {
+      "id": "a4844e43-b8e4-4c36-9fbd-8160cefe0b8b",
+      "title": "Rudy",
+      "release_year": 1993,
+      "studio_label": "TriStar Pictures",
+      "slug": "rudy",
+      "has_reactions": true
+    },
+    {
+      "id": "5ea2655d-19d6-464f-a594-221010c9d023",
+      "title": "Safe Passage",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "safe-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "16bbf190-8a9c-42a0-b604-228c770798db",
+      "title": "Courage Under Fire",
+      "release_year": 1996,
+      "studio_label": "Davis Entertainment",
+      "slug": "courage-under-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "1acc4439-a60b-43f8-810b-0b8688a0719b",
+      "title": "The Long Way Home",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-long-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "1564111e-62d2-4296-ae80-a8a61a7b58db",
+      "title": "Bulworth",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "bulworth",
+      "has_reactions": true
+    },
+    {
+      "id": "11f05f68-ad74-4313-95c8-5dcebae027cd",
+      "title": "Kimberly",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "kimberly",
+      "has_reactions": false
+    },
+    {
+      "id": "e89cab5c-a511-4392-a17c-749044ef0a81",
+      "title": "Deterrence",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "deterrence",
+      "has_reactions": false
+    },
+    {
+      "id": "579628c1-c4f9-4608-b39c-09b2d725428f",
+      "title": "Icebreaker",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "icebreaker",
+      "has_reactions": false
+    },
+    {
+      "id": "e9849180-bf97-4ff5-aef5-ea15f320c932",
+      "title": "Dish Dogs",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "dish-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "d59e4b53-e8ff-4b59-9d03-ee68769b913e",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "release_year": 2001,
+      "studio_label": "New Line Cinema",
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "has_reactions": true
+    },
+    {
+      "id": "cc7cc109-121d-471c-9f5b-11bc3d2313de",
+      "title": "The Lord of the Rings: The Two Towers",
+      "release_year": 2002,
+      "studio_label": "New Line Cinema",
+      "slug": "the-lord-of-the-rings-the-two-towers",
+      "has_reactions": true
+    },
+    {
+      "id": "e7b830ef-746c-4586-a652-40956a9f2362",
+      "title": "The Lord of the Rings: The Return of the King",
+      "release_year": 2003,
+      "studio_label": "New Line Cinema",
+      "slug": "the-lord-of-the-rings-the-return-of-the-king",
+      "has_reactions": true
+    },
+    {
+      "id": "fbaaaf3c-3a7c-4f05-9393-0de2598e7dcf",
+      "title": "Snowflake Bentley",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "snowflake-bentley",
+      "has_reactions": false
+    },
+    {
+      "id": "ee06cc09-ffdd-477b-8f06-5d8fec844e41",
+      "title": "The Making of 'The Long and Short of It'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-long-and-short-of-it",
+      "has_reactions": false
+    },
+    {
+      "id": "d16db9a9-a6ec-41ce-ab97-990cd9b9704e",
+      "title": "50 First Dates",
+      "release_year": 2004,
+      "studio_label": "Columbia Pictures",
+      "slug": "50-first-dates",
+      "has_reactions": true
+    },
+    {
+      "id": "354146d5-39bd-4c6f-a18e-7df5fe2ff2b5",
+      "title": "Balto III: Wings of Change",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "balto-iii-wings-of-change",
+      "has_reactions": false
+    },
+    {
+      "id": "b1b5c50e-0ccc-46fe-95d4-b0dce32d404b",
+      "title": "Party Wagon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "party-wagon",
+      "has_reactions": false
+    },
+    {
+      "id": "4e5ad264-6a57-49bc-8a47-76320a002fb0",
+      "title": "Slipstream",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "slipstream",
+      "has_reactions": false
+    },
+    {
+      "id": "0da6f2c0-28fc-427b-8107-8473263fc0de",
+      "title": "Bigger Than the Sky",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "bigger-than-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "01727aff-f597-483f-a743-8b72a8fdacba",
+      "title": "Click",
+      "release_year": 2006,
+      "studio_label": "Original Film",
+      "slug": "click",
+      "has_reactions": true
+    },
+    {
+      "id": "ffd805c8-9367-4ef4-ab2f-f5499103d23c",
+      "title": "Borderland",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "borderland",
+      "has_reactions": false
+    },
+    {
+      "id": "20c5069a-63c9-4f6b-90cb-12d671fb7dbe",
+      "title": "What Love Is",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "what-love-is",
+      "has_reactions": false
+    },
+    {
+      "id": "763b30cb-1cfb-48ab-8f3d-b26d02171a9e",
+      "title": "The Final Season",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-final-season",
+      "has_reactions": false
+    },
+    {
+      "id": "29699364-95f5-465b-9743-635e324d2325",
+      "title": "Forever Strong",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "forever-strong",
+      "has_reactions": false
+    },
+    {
+      "id": "fb7a18dd-ca75-4818-9727-a80ede475072",
+      "title": "Making of a Cult Classic: The Unauthorized Story of 'The Goonies'",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "making-of-a-cult-classic-the-unauthorized-story-of-the-goonies",
+      "has_reactions": false
+    },
+    {
+      "id": "e1226144-2c3a-4717-b729-9317b97e8205",
+      "title": "Stay Cool",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "stay-cool",
+      "has_reactions": false
+    },
+    {
+      "id": "3e7f6dda-b890-42c1-8245-93f9c7b5d41a",
+      "title": "Deep Blue Breath",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "deep-blue-breath",
+      "has_reactions": false
+    },
+    {
+      "id": "c280f292-2d9d-42b8-a86f-c92d2a794532",
+      "title": "And They're Off",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "and-they-re-off",
+      "has_reactions": false
+    },
+    {
+      "id": "93eb1392-55b6-4795-b0f0-c3f79c637ac5",
+      "title": "Love's Christmas Journey",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "love-s-christmas-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "36f13404-0951-4864-8ec2-a226b2bef425",
+      "title": "Adopting Terror",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "adopting-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "45bfce3f-a2df-4950-8a35-c0283fdebe2b",
+      "title": "Amazing Love",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "amazing-love",
+      "has_reactions": false
+    },
+    {
+      "id": "edb7a9d0-ec1b-4e20-b25d-32e836e38efe",
+      "title": "Teenage Mutant Ninja Turtles: Enter Shredder",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-enter-shredder",
+      "has_reactions": false
+    },
+    {
+      "id": "7acac022-0850-4aa6-ae38-b9a3b1ae5164",
+      "title": "The Freemason",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-freemason",
+      "has_reactions": false
+    },
+    {
+      "id": "0af52397-a125-4f11-907b-a5bde24d7fb1",
+      "title": "A Monsterous Holiday",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-monsterous-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "6444ccd3-17f5-4834-9ef1-b94e818143e8",
+      "title": "The Naughty List",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-naughty-list",
+      "has_reactions": false
+    },
+    {
+      "id": "21a2b092-a6e4-4ab1-afec-6ef97c192982",
+      "title": "Santa Switch",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "santa-switch",
+      "has_reactions": false
+    },
+    {
+      "id": "79470592-6176-428b-bd6d-e17ac8339fa7",
+      "title": "Out West",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "out-west",
+      "has_reactions": false
+    },
+    {
+      "id": "5f2e03fb-c317-4050-939a-a3479c86deb6",
+      "title": "Justice League: War",
+      "release_year": 2014,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "justice-league-war",
+      "has_reactions": true
+    },
+    {
+      "id": "9b5ef6ee-a99d-475b-bd7c-162b9b673cfc",
+      "title": "Video Games: The Movie",
+      "release_year": 2014,
+      "studio_label": "Mediajuice Studios",
+      "slug": "video-games-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "9d1787fd-3f6c-4fa4-8b2f-83bbb8f2100a",
+      "title": "Ribbit",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ribbit",
+      "has_reactions": false
+    },
+    {
+      "id": "974c71da-5937-43ae-8858-a963c5811ae7",
+      "title": "Boys of Abu Ghraib",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "boys-of-abu-ghraib",
+      "has_reactions": false
+    },
+    {
+      "id": "008d69db-5d3d-4733-b06d-3e4b5a265343",
+      "title": "Stan Lee's Mighty 7",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "stan-lee-s-mighty-7",
+      "has_reactions": false
+    },
+    {
+      "id": "9e322f4a-5de5-4f16-87c6-5656dce730ac",
+      "title": "Cabin Fever: Patient Zero",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "cabin-fever-patient-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "628eb181-83f0-4d1e-8765-81e014e3332d",
+      "title": "Moms' Night Out",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "moms-night-out",
+      "has_reactions": false
+    },
+    {
+      "id": "0eb96a9d-d6bf-4bbc-9785-10dc59057b68",
+      "title": "The Surface",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-surface",
+      "has_reactions": false
+    },
+    {
+      "id": "2433fb2e-c567-419f-970b-b95f64e81d72",
+      "title": "Teenage Mutant Ninja Turtles: Pulverizer Power",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-pulverizer-power",
+      "has_reactions": false
+    },
+    {
+      "id": "69bc36a0-ad76-4b27-bc04-25718ca3d04a",
+      "title": "Teenage Mutant Ninja Turtles: Renegade Rampage",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-renegade-rampage",
+      "has_reactions": false
+    },
+    {
+      "id": "116c454c-54bc-4930-aaea-346145162fb6",
+      "title": "Checkmate",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "checkmate",
+      "has_reactions": false
+    },
+    {
+      "id": "d83ac79e-7331-47b6-ba7e-97a720d808a0",
+      "title": "Justice League: Throne of Atlantis",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "justice-league-throne-of-atlantis",
+      "has_reactions": false
+    },
+    {
+      "id": "d56dc0bd-8be1-42c3-9003-55f37033206b",
+      "title": "The Dramatics: A Comedy",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-dramatics-a-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "16c6c4ed-5290-4179-a251-a27abf2d360c",
+      "title": "Woodlawn",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "woodlawn",
+      "has_reactions": false
+    },
+    {
+      "id": "fda3baa2-9955-4e5f-8040-34e5a14ab563",
+      "title": "Hatched: Chicks Gone Wild!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hatched-chicks-gone-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "78a9e111-d100-4b14-8007-1ff440550de3",
+      "title": "Range 15",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "range-15",
+      "has_reactions": false
+    },
+    {
+      "id": "7a59446a-5fb7-485c-83e5-8f60258d192b",
+      "title": "The Do-Over",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-do-over",
+      "has_reactions": false
+    },
+    {
+      "id": "11d0fec0-b968-4e40-a30a-53ca95948cdc",
+      "title": "Tales of the Teenage Mutant Ninja Turtles: Super Shredder",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tales-of-the-teenage-mutant-ninja-turtles-super-shredder",
+      "has_reactions": false
+    },
+    {
+      "id": "769ca68c-0571-414e-9315-05e043bd5ea2",
+      "title": "Bad Kids of Crestview Academy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "bad-kids-of-crestview-academy",
+      "has_reactions": false
+    },
+    {
+      "id": "1b1d67b0-938e-4107-9680-fc5301ce113a",
+      "title": "eHero",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "ehero",
+      "has_reactions": false
+    },
+    {
+      "id": "4b2b81c4-9713-4dbd-bb54-b41318ee3686",
+      "title": "Captain Underpants Mega Blissmas",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "captain-underpants-mega-blissmas",
+      "has_reactions": false
+    },
+    {
+      "id": "d29a1007-ff88-428d-97b1-13ff252f03e0",
+      "title": "The Shift",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-shift",
+      "has_reactions": false
+    },
+    {
+      "id": "11ebe848-c7dd-4703-ba7d-e0d5c80305d7",
+      "title": "Holiday Twist",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "holiday-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "0244c943-94e3-4b45-a977-af602d10fbe8",
+      "title": "iMordecai",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "imordecai",
+      "has_reactions": false
+    },
+    {
+      "id": "8f848687-db27-4ba4-b36b-e65e17049585",
+      "title": "Go West",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "go-west",
+      "has_reactions": false
+    },
+    {
+      "id": "8202a7aa-27d3-4727-8d7f-79161249cfdc",
+      "title": "Vindicta",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "vindicta",
+      "has_reactions": false
+    },
+    {
+      "id": "6bb45b47-2f07-45f1-b5a3-83b2f593a3c2",
+      "title": "The Man in the White Van",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-man-in-the-white-van",
+      "has_reactions": false
+    },
+    {
+      "id": "45624787-e65c-48a5-a305-cdb6cbe7bcc9",
+      "title": "Hard Miles",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hard-miles",
+      "has_reactions": false
+    },
+    {
+      "id": "09e60e11-84b1-4b56-9a22-9fba29c9c275",
+      "title": "The Invisible Raptor",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-invisible-raptor",
+      "has_reactions": false
+    },
+    {
+      "id": "091a1884-036a-4776-b634-988f80733356",
+      "title": "A Social Contract",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "a-social-contract",
+      "has_reactions": false
+    }
+  ]
+}

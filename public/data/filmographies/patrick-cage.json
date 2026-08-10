@@ -1,0 +1,40 @@
+{
+  "id": "777b69f9-0c19-43d8-a89f-b48c81c9112e",
+  "name": "Patrick Cage",
+  "slug": "patrick-cage",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7VyIICsE8ico2ID6hB4KZwCkX6J.jpg",
+  "filmography": [
+    {
+      "id": "6cd02c08-f920-42df-8d02-baa8a670fd5a",
+      "title": "We the Party",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "we-the-party",
+      "has_reactions": false
+    },
+    {
+      "id": "aca899a5-3bce-4518-a227-a69eaafbf341",
+      "title": "Megachurch Murder",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "megachurch-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "5c722c81-d460-4ff7-a19f-4e2c48301f90",
+      "title": "One of Them Days",
+      "release_year": 2025,
+      "studio_label": "TriStar Pictures",
+      "slug": "one-of-them-days",
+      "has_reactions": true
+    },
+    {
+      "id": "cf691edd-a110-463d-8fe4-1daf1697d064",
+      "title": "The Sheriff",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-sheriff",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "id": "eea57910-925a-4df0-a59f-752938c5369d",
+  "name": "Kevin Bacon",
+  "slug": "kevin-bacon",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+  "filmography": [
+    {
+      "id": "5afe8c87-847d-48a1-b02a-c35f65fe9418",
+      "title": "Animal House",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "animal-house",
+      "has_reactions": true
+    },
+    {
+      "id": "7c0aed40-841a-401d-99f6-e4e630d0da63",
+      "title": "Starting Over",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "starting-over",
+      "has_reactions": false
+    },
+    {
+      "id": "a1773f5f-ecd6-4e0d-bb21-83455baf2dba",
+      "title": "Friday the 13th",
+      "release_year": 1980,
+      "studio_label": "Sean S. Cunningham Films",
+      "slug": "friday-the-13th",
+      "has_reactions": true
+    },
+    {
+      "id": "82b02b36-a1a0-406b-8d96-589b9b482893",
+      "title": "Diner",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "diner",
+      "has_reactions": false
+    },
+    {
+      "id": "0015a9af-faf4-4374-8905-809d1af8b957",
+      "title": "Footloose",
+      "release_year": 1984,
+      "studio_label": "Paramount Pictures",
+      "slug": "footloose",
+      "has_reactions": true
+    },
+    {
+      "id": "5ca66c1d-1255-4a23-8138-19c8ea18eb61",
+      "title": "Planes, Trains and Automobiles",
+      "release_year": 1987,
+      "studio_label": "Paramount Pictures",
+      "slug": "planes-trains-and-automobiles",
+      "has_reactions": true
+    },
+    {
+      "id": "10be98ca-93e7-42a4-a09d-73bca62de097",
+      "title": "Lemon Sky",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "lemon-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "9408c4d2-2402-48e2-aa32-2551ea375c5e",
+      "title": "Criminal Law",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "criminal-law",
+      "has_reactions": false
+    },
+    {
+      "id": "7a6bbd05-7bf4-401b-8325-8522117a4135",
+      "title": "Tremors",
+      "release_year": 1990,
+      "studio_label": "No Frills Film",
+      "slug": "tremors",
+      "has_reactions": true
+    },
+    {
+      "id": "83ba6475-a689-45ba-bc1c-3377aaedf639",
+      "title": "Flatliners",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "flatliners",
+      "has_reactions": false
+    },
+    {
+      "id": "34d57abc-dc17-4516-a82f-e1a49ba5fe8e",
+      "title": "JFK",
+      "release_year": 1991,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "jfk",
+      "has_reactions": true
+    },
+    {
+      "id": "a549a48d-829b-4b70-9dae-73be4bd02fa0",
+      "title": "Queens Logic",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "queens-logic",
+      "has_reactions": false
+    },
+    {
+      "id": "2fa6b80a-0cc0-4b78-9af4-90f9126da27d",
+      "title": "He Said, She Said",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "he-said-she-said",
+      "has_reactions": false
+    },
+    {
+      "id": "34a6073e-df3d-4fb4-80d3-f994bd47d220",
+      "title": "A Few Good Men",
+      "release_year": 1992,
+      "studio_label": "David Brown Productions",
+      "slug": "a-few-good-men",
+      "has_reactions": true
+    },
+    {
+      "id": "153cc612-16e2-4664-827c-f168f34465f0",
+      "title": "The River Wild",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-river-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "fb77083e-543a-43a8-8ae0-6495154c07b5",
+      "title": "Apollo 13",
+      "release_year": 1995,
+      "studio_label": "Imagine Entertainment",
+      "slug": "apollo-13",
+      "has_reactions": true
+    },
+    {
+      "id": "11129760-1f4a-4ad4-a3e6-a3779b3dec85",
+      "title": "Murder in the First",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-first",
+      "has_reactions": false
+    },
+    {
+      "id": "6d1ceb54-2e69-4e25-855e-6cdaef2d6401",
+      "title": "Sleepers",
+      "release_year": 1996,
+      "studio_label": "Propaganda Films",
+      "slug": "sleepers",
+      "has_reactions": true
+    },
+    {
+      "id": "40698c12-acb9-427a-8622-4c4bce3b1f52",
+      "title": "Destination Anywhere",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "destination-anywhere",
+      "has_reactions": false
+    },
+    {
+      "id": "ab82e1f1-a29e-4025-b0f5-61cee4540545",
+      "title": "Wild Things",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "wild-things",
+      "has_reactions": false
+    },
+    {
+      "id": "d37cf5e7-148b-463c-9c0c-215d29947bec",
+      "title": "Diner: On The Flip Side",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "diner-on-the-flip-side",
+      "has_reactions": false
+    },
+    {
+      "id": "f5ec9be4-539c-40ea-a102-6925c4793a4a",
+      "title": "Novocaine",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "novocaine",
+      "has_reactions": false
+    },
+    {
+      "id": "06bc3a79-36cb-4d29-b8a3-4c7299d69443",
+      "title": "Mystic River",
+      "release_year": 2003,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mystic-river",
+      "has_reactions": true
+    },
+    {
+      "id": "14e09b3b-def9-401f-8617-2fe5ae20aeaa",
+      "title": "In the Cut",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "in-the-cut",
+      "has_reactions": false
+    },
+    {
+      "id": "26e15c56-3110-4fb3-870b-71eafd716f0c",
+      "title": "Beauty Shop",
+      "release_year": 2005,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "beauty-shop",
+      "has_reactions": true
+    },
+    {
+      "id": "2ce46a71-8519-4c07-876c-85c8a17c1578",
+      "title": "Where the Truth Lies",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "where-the-truth-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "c2a5b9fa-e7e5-45ce-ba00-f03bdfe789ec",
+      "title": "The Air I Breathe",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-air-i-breathe",
+      "has_reactions": false
+    },
+    {
+      "id": "36268d47-0980-4704-9ab3-f2b85e7cd4af",
+      "title": "Death Sentence",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "death-sentence",
+      "has_reactions": false
+    },
+    {
+      "id": "5ebd6254-fd44-4eb4-94a2-b89ed2692420",
+      "title": "Taking Chance",
+      "release_year": 2009,
+      "studio_label": "Motion Picture Corporation of America",
+      "slug": "taking-chance",
+      "has_reactions": true
+    },
+    {
+      "id": "27f71a2b-a9df-4299-aaec-e62739602acb",
+      "title": "Super",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "super",
+      "has_reactions": false
+    },
+    {
+      "id": "e15c9e59-e571-4f86-bfbc-fc06ed46df0c",
+      "title": "X-Men: First Class",
+      "release_year": 2011,
+      "studio_label": "The Donners' Company",
+      "slug": "x-men-first-class",
+      "has_reactions": true
+    },
+    {
+      "id": "d34712f9-8da9-4aa0-a2ca-dad191126cf3",
+      "title": "Crazy, Stupid, Love.",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "crazy-stupid-love",
+      "has_reactions": false
+    },
+    {
+      "id": "ed746e8b-b771-4dac-9974-5cb21ab87295",
+      "title": "Vanilla Ice Archive",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "vanilla-ice-archive",
+      "has_reactions": false
+    },
+    {
+      "id": "e269bf7c-4d10-45e6-a178-5ea2d2922e3b",
+      "title": "Skum Rocks!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "skum-rocks",
+      "has_reactions": false
+    },
+    {
+      "id": "ce3310d4-3038-47fa-8338-b9cd4bde61dc",
+      "title": "Black Mass",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "black-mass",
+      "has_reactions": false
+    },
+    {
+      "id": "a29bd5a2-a4b3-45d5-b3b9-0344b3ab9703",
+      "title": "Patriots Day",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "patriots-day",
+      "has_reactions": false
+    },
+    {
+      "id": "ccf79f90-23a0-4101-8891-edc73f22bec5",
+      "title": "The Words That Built America",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-words-that-built-america",
+      "has_reactions": false
+    },
+    {
+      "id": "21053769-46fb-4ab4-962c-7695efad87fe",
+      "title": "They/Them",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "they-them",
+      "has_reactions": false
+    },
+    {
+      "id": "5a06dee4-4c9f-4238-beb7-4ba2b87a7303",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "the-guardians-of-the-galaxy-holiday-special",
+      "has_reactions": true
+    },
+    {
+      "id": "85b5513d-94e7-43b1-9d70-6b025b157214",
+      "title": "Leave the World Behind",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "leave-the-world-behind",
+      "has_reactions": false
+    }
+  ]
+}

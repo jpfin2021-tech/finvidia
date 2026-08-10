@@ -1,0 +1,376 @@
+{
+  "id": "7c09f239-1759-45e1-b7bf-45ed9c3208e6",
+  "name": "Barbra Streisand",
+  "slug": "barbra-streisand",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/6YD223jsdZX7VnWSjGjP1S7Xj6X.jpg",
+  "filmography": [
+    {
+      "id": "bba074e5-32c4-45ad-8ee7-4824f4a1eb41",
+      "title": "A Bob Hope Comedy Special",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "a-bob-hope-comedy-special",
+      "has_reactions": false
+    },
+    {
+      "id": "d4c7252b-8a4e-4141-92d2-723dc65cd435",
+      "title": "The Belle of 14th Street",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-belle-of-14th-street",
+      "has_reactions": false
+    },
+    {
+      "id": "1e50a156-0a12-4a69-919c-7ffa2a84a227",
+      "title": "A Happening in Central Park",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "a-happening-in-central-park",
+      "has_reactions": false
+    },
+    {
+      "id": "0277c007-19c6-41e3-ab5d-afc5b82a314d",
+      "title": "Funny Girl",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "funny-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "225ca15f-eabd-460c-a8d7-5361162849d2",
+      "title": "Hello, Dolly!",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "hello-dolly",
+      "has_reactions": false
+    },
+    {
+      "id": "dca6bdd7-5dd5-4d7e-99df-62301f670b1e",
+      "title": "The Owl and the Pussycat",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-owl-and-the-pussycat",
+      "has_reactions": false
+    },
+    {
+      "id": "29f42478-2b40-4ee2-91a1-6f90a56ae1a2",
+      "title": "What's Up, Doc?",
+      "release_year": 1972,
+      "studio_label": "Saticoy Productions",
+      "slug": "what-s-up-doc",
+      "has_reactions": true
+    },
+    {
+      "id": "126419cb-ea84-4fc6-9ea0-a076891ab41e",
+      "title": "Up the Sandbox",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "up-the-sandbox",
+      "has_reactions": false
+    },
+    {
+      "id": "faf65bdf-dec4-45f2-b740-502828992b01",
+      "title": "Screwball Comedies... Remember Them?",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "screwball-comedies-remember-them",
+      "has_reactions": false
+    },
+    {
+      "id": "4982a811-0eef-455e-9338-f69eb06ebb86",
+      "title": "Barbra Streisand... and Other Musical Instruments",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-and-other-musical-instruments",
+      "has_reactions": false
+    },
+    {
+      "id": "f037e2f3-c710-4103-87e5-61f8f61211c9",
+      "title": "For Pete's Sake",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "for-pete-s-sake",
+      "has_reactions": false
+    },
+    {
+      "id": "9734f3e3-a165-400a-881e-92d43c4601c1",
+      "title": "Funny Lady",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "funny-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "f3f00059-2f03-43f0-978c-300ea256959a",
+      "title": "Rona Barrett Looks at 1978",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "rona-barrett-looks-at-1978",
+      "has_reactions": false
+    },
+    {
+      "id": "c6902d59-a5b5-40c1-8d5a-3ac6be4bcbd1",
+      "title": "All Night Long",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "all-night-long",
+      "has_reactions": false
+    },
+    {
+      "id": "2eeb0983-8952-4c29-9317-3ca781aa6565",
+      "title": "I Love Liberty",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "i-love-liberty",
+      "has_reactions": false
+    },
+    {
+      "id": "76526148-c45c-4840-b85f-8abe4c40c297",
+      "title": "Yentl",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "yentl",
+      "has_reactions": false
+    },
+    {
+      "id": "e1ef30f6-9fa5-4ec6-8aa2-c20d97473532",
+      "title": "Barbra Streisand: One Voice",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-one-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "b2ddc671-6b60-47f3-8621-e52da93eaad6",
+      "title": "Directed by William Wyler",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "directed-by-william-wyler",
+      "has_reactions": false
+    },
+    {
+      "id": "d50f5f91-e92d-442f-a39c-763c3265a333",
+      "title": "Nuts",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "nuts",
+      "has_reactions": false
+    },
+    {
+      "id": "aa4e4b60-4b14-4ea2-8054-158b89471db0",
+      "title": "Citizen Steve",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "citizen-steve",
+      "has_reactions": false
+    },
+    {
+      "id": "9c8116b1-e1bd-45a7-88a1-5e1a8bcb1494",
+      "title": "Happy Birthday, Bob: 50 Stars Salute Your 50 Years with NBC",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "happy-birthday-bob-50-stars-salute-your-50-years-with-nbc",
+      "has_reactions": false
+    },
+    {
+      "id": "89e0ef57-b6e4-466c-b9d5-50de9d462755",
+      "title": "The Earth Day Special",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-earth-day-special",
+      "has_reactions": false
+    },
+    {
+      "id": "4cc36279-a00b-40b4-b297-86d1546bddaf",
+      "title": "Barbra: The Concert",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "barbra-the-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "6255bdad-4dba-4c2e-ab7a-9b427bdfd5fc",
+      "title": "The Mirror Has Two Faces",
+      "release_year": 1996,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-mirror-has-two-faces",
+      "has_reactions": true
+    },
+    {
+      "id": "3e06ce5b-825e-4f72-beba-a431bbdcfee2",
+      "title": "The Good, The Bad, and the Beautiful",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-good-the-bad-and-the-beautiful",
+      "has_reactions": false
+    },
+    {
+      "id": "d72aec3b-4c13-4fde-9bac-f917b89d8327",
+      "title": "Barbra Streisand: Timeless - Live in Concert",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-timeless-live-in-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "e477b00d-d0ca-440a-a6bb-9a631fc7827b",
+      "title": "Hollywood Rocks the Movies: The 1970s",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hollywood-rocks-the-movies-the-1970s",
+      "has_reactions": false
+    },
+    {
+      "id": "905135cd-fe34-4f91-850c-b81a8a7aa975",
+      "title": "Meet the Fockers",
+      "release_year": 2004,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-the-fockers",
+      "has_reactions": true
+    },
+    {
+      "id": "fa67cc70-e5ac-4ce6-9536-1047dc768047",
+      "title": "Streisand: Guilty Pleasures",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "streisand-guilty-pleasures",
+      "has_reactions": false
+    },
+    {
+      "id": "4c427b5c-fbfd-4e69-8f58-6e02a2810984",
+      "title": "Judy Garland Duets",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "judy-garland-duets",
+      "has_reactions": false
+    },
+    {
+      "id": "d9318a9d-7b9a-46a3-85c5-620e184f7a12",
+      "title": "Tony Bennett: An American Classic",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tony-bennett-an-american-classic",
+      "has_reactions": false
+    },
+    {
+      "id": "209ead21-3666-41fa-9c07-fc91e8c9e41c",
+      "title": "Streisand: The Concerts",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "streisand-the-concerts",
+      "has_reactions": false
+    },
+    {
+      "id": "3bbb321c-d7c4-495b-98ac-4d59f7ac7f5e",
+      "title": "One Night Only: Barbra Streisand and Quartet at the Village Vanguard",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "one-night-only-barbra-streisand-and-quartet-at-the-village-vanguard",
+      "has_reactions": false
+    },
+    {
+      "id": "bca55c00-37da-48b7-a5c9-9df45153b465",
+      "title": "A MusiCares Tribute To Barbra Streisand",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "a-musicares-tribute-to-barbra-streisand",
+      "has_reactions": false
+    },
+    {
+      "id": "c53ab8fa-680d-4fbc-b6e7-02d6d488ffb2",
+      "title": "Vito",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "vito",
+      "has_reactions": false
+    },
+    {
+      "id": "93bff56d-2ff2-46ae-bad9-fa62a622fc20",
+      "title": "The Guilt Trip",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-guilt-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "0dd7e527-2761-483b-b32e-e4abc7ad75a0",
+      "title": "Barbra: The Music ... The Mem'ries ... The Magic!",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "barbra-the-music-the-mem-ries-the-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "e9e46229-d10f-4a89-a616-0112db3fee88",
+      "title": "David Foster: Off the Record",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "david-foster-off-the-record",
+      "has_reactions": false
+    },
+    {
+      "id": "d2e3fa80-9baf-4778-953d-37de1e6b7e4f",
+      "title": "Sid & Judy",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "sid-judy",
+      "has_reactions": false
+    },
+    {
+      "id": "3dafdc00-4177-4cc9-b07a-d1d8ef709cf7",
+      "title": "The Bee Gees: How Can You Mend a Broken Heart",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-bee-gees-how-can-you-mend-a-broken-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "f380fa7b-f69b-496b-b886-ff86102045fd",
+      "title": "Disclosure",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "disclosure",
+      "has_reactions": false
+    },
+    {
+      "id": "15ac08f5-a8c7-45a7-810e-5f265b3a1345",
+      "title": "Babenco: Tell Me When I Die",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "babenco-tell-me-when-i-die",
+      "has_reactions": false
+    },
+    {
+      "id": "b58e5217-bd39-4ab5-a3a3-748f54487642",
+      "title": "Live at Mister Kelly's",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "live-at-mister-kelly-s",
+      "has_reactions": false
+    },
+    {
+      "id": "da789070-71c8-4459-a3ca-eb68d0150c57",
+      "title": "Bella!",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "bella",
+      "has_reactions": false
+    },
+    {
+      "id": "4b6a479c-06cc-4df1-936f-5403a2a887c7",
+      "title": "Commitment to Life",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "commitment-to-life",
+      "has_reactions": false
+    },
+    {
+      "id": "aafd08ab-9494-4d7f-9a8f-b09321d105a0",
+      "title": "Ladies & Gentlemen... 50 Years of SNL Music",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "ladies-gentlemen-50-years-of-snl-music",
+      "has_reactions": false
+    }
+  ]
+}

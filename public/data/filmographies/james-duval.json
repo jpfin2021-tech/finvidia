@@ -1,0 +1,640 @@
+{
+  "id": "505a4990-9635-445a-ad87-f54a81dad4c9",
+  "name": "James Duval",
+  "slug": "james-duval",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg",
+  "filmography": [
+    {
+      "id": "50759fdb-3edd-4208-8d9b-29512ebddf93",
+      "title": "The First Circle",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-first-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "0ff78093-ea0b-4817-bc62-caf89f6e5763",
+      "title": "Cheer Bloody Murder",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "cheer-bloody-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "60e4b426-4483-427b-a250-e5442e8d7e8c",
+      "title": "Pay to Die",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "pay-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "09676413-0ede-4ef9-bd8c-f975f81162e0",
+      "title": "Butch Cassidy's Forgotten Outlaw",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "butch-cassidy-s-forgotten-outlaw",
+      "has_reactions": false
+    },
+    {
+      "id": "4e286de9-6080-4ca5-bca5-69415310462f",
+      "title": "GodHead",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "godhead",
+      "has_reactions": false
+    },
+    {
+      "id": "5d2a47ba-5b45-487a-889b-70faaa4553fa",
+      "title": "Alien Horde",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "alien-horde",
+      "has_reactions": false
+    },
+    {
+      "id": "cc46468a-1439-4d7b-bdfe-65074b67b82c",
+      "title": "Bits",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "bits",
+      "has_reactions": false
+    },
+    {
+      "id": "f4a487ee-9b47-406e-8134-5222e3d909ed",
+      "title": "An Ambush of Ghosts",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "an-ambush-of-ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "81e8ab78-eed7-4192-9dfe-10c49568f1dd",
+      "title": "Mod Fuck Explosion",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mod-fuck-explosion",
+      "has_reactions": false
+    },
+    {
+      "id": "3ac361a5-2465-49d4-a5bc-390325af4de8",
+      "title": "Totally F***ed Up",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "totally-f-ed-up",
+      "has_reactions": false
+    },
+    {
+      "id": "c79b6a1f-dd1f-47fc-8e70-1ef7a5baa76a",
+      "title": "The Doom Generation",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-doom-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "569286cd-9069-4492-b679-d998e77fd748",
+      "title": "Independence Day",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "independence-day",
+      "has_reactions": true
+    },
+    {
+      "id": "0fccc92e-b16f-4a68-863b-874be501a730",
+      "title": "Nowhere",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "a53ff6e7-bd93-4a03-a9f3-7ae3564d412d",
+      "title": "How to Make the Cruelest Month",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "how-to-make-the-cruelest-month",
+      "has_reactions": false
+    },
+    {
+      "id": "c3c35111-811c-4bd8-8b1d-6998c0e76c81",
+      "title": "SLC Punk",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "slc-punk",
+      "has_reactions": false
+    },
+    {
+      "id": "67f5543c-828e-401d-8b88-c20601e08fd3",
+      "title": "Wild Horses",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "wild-horses",
+      "has_reactions": false
+    },
+    {
+      "id": "79989eed-feb0-450e-a8d7-30f7d9a97ab5",
+      "title": "Go",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "go",
+      "has_reactions": false
+    },
+    {
+      "id": "4fb41be7-dda4-45bd-ae09-d1b23e2d09a2",
+      "title": "The Weekend",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-weekend",
+      "has_reactions": false
+    },
+    {
+      "id": "d58d32e4-7706-4182-9ce2-e36c65770fc0",
+      "title": "The Clown at Midnight",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-clown-at-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "8c3b3568-7d3f-4770-b5af-8833e2be8e56",
+      "title": "Gone in Sixty Seconds",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "gone-in-sixty-seconds",
+      "has_reactions": true
+    },
+    {
+      "id": "c93433ff-f1d9-40c2-b91e-c20ce77d8680",
+      "title": "Donnie Darko",
+      "release_year": 2001,
+      "studio_label": "Flower Films",
+      "slug": "donnie-darko",
+      "has_reactions": true
+    },
+    {
+      "id": "880ebf9d-12fb-4c16-bb82-6f94bd578917",
+      "title": "Amerikana",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "amerikana",
+      "has_reactions": false
+    },
+    {
+      "id": "84239a33-1bb5-4f00-89cd-3c5bc8e804da",
+      "title": "The Doe Boy",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-doe-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "e7fde071-ff9c-4996-a5ed-20a45603742c",
+      "title": "Scumrock",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "scumrock",
+      "has_reactions": false
+    },
+    {
+      "id": "b9520d14-e8ee-43dd-86f7-b36c3ff7d1ca",
+      "title": "May",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "may",
+      "has_reactions": false
+    },
+    {
+      "id": "cfaa653f-8c1d-4030-9c28-22a04cb19625",
+      "title": "Open House",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "open-house",
+      "has_reactions": false
+    },
+    {
+      "id": "eafe6b74-be02-49fd-9f31-b92debd833bd",
+      "title": "Frog-g-g!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "frog-g-g",
+      "has_reactions": false
+    },
+    {
+      "id": "eea74cbf-d7ee-407f-91d4-e8dd60f1c6ec",
+      "title": "Kush",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "kush",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c0d820-bac7-4251-9e8a-853e77b7340c",
+      "title": "Evilution",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "evilution",
+      "has_reactions": false
+    },
+    {
+      "id": "45148f5e-b670-4acf-8136-0cfd40a4a259",
+      "title": "Toxic",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "toxic",
+      "has_reactions": false
+    },
+    {
+      "id": "4fcb9496-7db9-4956-bf91-e994c36047fc",
+      "title": "Cornered!",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "cornered",
+      "has_reactions": false
+    },
+    {
+      "id": "5bab2507-e3c9-492a-be0a-dff49693165e",
+      "title": "2 Dudes and a Dream",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "2-dudes-and-a-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "bce2df64-61a5-41a0-8ac6-48b853ba1a34",
+      "title": "Thirsty",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "thirsty",
+      "has_reactions": false
+    },
+    {
+      "id": "7cd0d56a-3bbe-4ea0-93ee-085be00bd91f",
+      "title": "The Black Waters of Echo's Pond",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-black-waters-of-echo-s-pond",
+      "has_reactions": false
+    },
+    {
+      "id": "ce9b0d46-59f5-44f4-bec7-b41874e0c765",
+      "title": "Playback",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "playback",
+      "has_reactions": false
+    },
+    {
+      "id": "0780c835-3d73-4abb-aa14-53d770e524fa",
+      "title": "Caller ID: Entity",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "caller-id-entity",
+      "has_reactions": false
+    },
+    {
+      "id": "25dffa17-c468-4045-bd19-cb85cca4eab0",
+      "title": "Not Another Not Another Movie",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "not-another-not-another-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "45c6e874-4c61-4a0b-889f-e58f074663f3",
+      "title": "Touchback",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "touchback",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f99bab-1955-474b-8989-54a33e0844ef",
+      "title": "The Black Belle",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-black-belle",
+      "has_reactions": false
+    },
+    {
+      "id": "9b4f5b44-3286-42ea-9450-f5cae526b241",
+      "title": "Sushi Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd454df-af12-44f6-8b3a-a8cb5a5196e0",
+      "title": "Look at Me",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "look-at-me",
+      "has_reactions": false
+    },
+    {
+      "id": "726eefbf-a950-456a-b463-59b7fedaa258",
+      "title": "Prevertere",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "prevertere",
+      "has_reactions": false
+    },
+    {
+      "id": "1b907f5e-2a35-457b-bdd4-672dd7ea929c",
+      "title": "Sushi Girl: A Documentary",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl-a-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "0ff5d444-0058-42ee-895d-0ae119172e1f",
+      "title": "Tom Holland's Twisted Tales",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tom-holland-s-twisted-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "f74332c6-6d37-433e-a8ec-a6fefb6e8902",
+      "title": "Carlos Spills the Beans",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "carlos-spills-the-beans",
+      "has_reactions": false
+    },
+    {
+      "id": "d6d2820a-5202-4791-bc25-f93dcaca15d8",
+      "title": "Dead Sea",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dead-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "348f5eac-66fc-4381-b6f5-0db43ee65a06",
+      "title": "Hercules Reborn",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "hercules-reborn",
+      "has_reactions": false
+    },
+    {
+      "id": "f376da5d-8f33-4610-ab08-438a0ef9a9cb",
+      "title": "Catch of the Day",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "catch-of-the-day",
+      "has_reactions": false
+    },
+    {
+      "id": "ead0ddcd-398b-4535-a6c5-eae6eeb49ce0",
+      "title": "American Muscle",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "american-muscle",
+      "has_reactions": false
+    },
+    {
+      "id": "d73c52c1-a317-47ac-b320-85f63b1bc3a1",
+      "title": "Lazarus: Apocalypse",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "lazarus-apocalypse",
+      "has_reactions": false
+    },
+    {
+      "id": "682c5856-97dd-4810-86fe-ce95e1ff4a5a",
+      "title": "Five Thirteen",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "five-thirteen",
+      "has_reactions": false
+    },
+    {
+      "id": "9eae6559-ee97-458f-81a3-56c37c9934ca",
+      "title": "Dutch Hollow",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "dutch-hollow",
+      "has_reactions": false
+    },
+    {
+      "id": "dc443d33-ebd4-4dea-a092-38f623ad1832",
+      "title": "Shut Up and Drive",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "shut-up-and-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "dcf9dd86-d9e0-4bca-bdba-22a16126f33c",
+      "title": "Tales of Halloween",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "tales-of-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "f2046b01-7944-4e40-8e28-69880199ddd9",
+      "title": "Appetites",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "appetites",
+      "has_reactions": false
+    },
+    {
+      "id": "54d6d33c-1e4a-4cc6-8d83-d57eff4cff31",
+      "title": "It Watches",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "it-watches",
+      "has_reactions": false
+    },
+    {
+      "id": "c11e93d2-74da-4313-b367-0b0ca30e638d",
+      "title": "American Romance",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "american-romance",
+      "has_reactions": false
+    },
+    {
+      "id": "80b53640-22d5-4c73-b246-4502395d667b",
+      "title": "Punk's Dead: SLC Punk 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "punk-s-dead-slc-punk-2",
+      "has_reactions": false
+    },
+    {
+      "id": "4e9fe7cb-191e-454f-a910-0932bcaba9ab",
+      "title": "The Black Room",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-black-room",
+      "has_reactions": false
+    },
+    {
+      "id": "5bdfbd30-225a-4a1e-8a30-610b84438804",
+      "title": "The Abduction of Jennifer Grayson",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-abduction-of-jennifer-grayson",
+      "has_reactions": false
+    },
+    {
+      "id": "104b218e-402b-4a04-ac17-0f8c40bbfd4d",
+      "title": "Mission Possible",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "mission-possible",
+      "has_reactions": false
+    },
+    {
+      "id": "3ae13e1d-08c8-4f2c-8f3f-5b18537f9a74",
+      "title": "American Nightmares",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "american-nightmares",
+      "has_reactions": false
+    },
+    {
+      "id": "53a7fc53-6456-4b39-9e13-fe667a5ce30a",
+      "title": "Garlic and Gunpowder",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "garlic-and-gunpowder",
+      "has_reactions": false
+    },
+    {
+      "id": "1d7b5fb7-d582-47b7-b0c0-901aefbb075d",
+      "title": "Spinning Dry",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "spinning-dry",
+      "has_reactions": false
+    },
+    {
+      "id": "39ebc596-b40c-4d5b-ba4c-7eec75ccd2f2",
+      "title": "From the Dead",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "from-the-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "1a092bf0-4fd0-4b4e-9341-8f3be7f8c3b6",
+      "title": "Junkie",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "junkie",
+      "has_reactions": false
+    },
+    {
+      "id": "abb7bda6-8d77-4ed6-9a2a-2b9c2c005672",
+      "title": "Beast Mode",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "beast-mode",
+      "has_reactions": false
+    },
+    {
+      "id": "15f1dbeb-9342-4214-92c3-975b04bdfabe",
+      "title": "The Video Store",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-video-store",
+      "has_reactions": false
+    },
+    {
+      "id": "89dedb1b-845e-45da-9f89-17baf75697ba",
+      "title": "Amityville Karen",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "amityville-karen",
+      "has_reactions": false
+    },
+    {
+      "id": "9bd7c055-b61e-479c-ade0-d7b1df4c7566",
+      "title": "Tales from the Other Side",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "tales-from-the-other-side",
+      "has_reactions": false
+    },
+    {
+      "id": "d95a659b-d927-4000-9926-3ae383995886",
+      "title": "I, Challenger",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "i-challenger",
+      "has_reactions": false
+    },
+    {
+      "id": "f6880abf-7198-4f07-85f3-05c6dc822c0b",
+      "title": "Bury Me",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bury-me",
+      "has_reactions": false
+    },
+    {
+      "id": "c48f47ad-7a47-4e4b-bbb2-3fee31dabb04",
+      "title": "The Runner",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-runner",
+      "has_reactions": false
+    },
+    {
+      "id": "24d08495-9fcb-4ef7-a51a-6092241925f3",
+      "title": "Future Punks",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "future-punks",
+      "has_reactions": false
+    },
+    {
+      "id": "6470bf83-7b7e-4b9d-8d59-fd1affa590c4",
+      "title": "Vision",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "vision",
+      "has_reactions": false
+    },
+    {
+      "id": "f48f0a9e-1f44-420f-b05a-dc8936ec832d",
+      "title": "Woods Witch",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "woods-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "617c8f9f-fef0-4090-8e34-efec5f634a17",
+      "title": "First Person Savior",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "first-person-savior",
+      "has_reactions": false
+    },
+    {
+      "id": "411ef5e3-52b8-4971-9cf5-9d0d62127d43",
+      "title": "Aftermath",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "aftermath",
+      "has_reactions": false
+    },
+    {
+      "id": "e0600b0c-e6a6-4370-b500-45d03e4f9443",
+      "title": "Numbskull Revolution",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "numbskull-revolution",
+      "has_reactions": false
+    }
+  ]
+}

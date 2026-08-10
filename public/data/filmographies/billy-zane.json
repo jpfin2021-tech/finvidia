@@ -1,0 +1,680 @@
+{
+  "id": "84b485f4-5753-45bb-841b-439efbc6e1be",
+  "name": "Billy Zane",
+  "slug": "billy-zane",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg",
+  "filmography": [
+    {
+      "id": "3b515a49-0974-42d7-903a-6ebf1d234716",
+      "title": "Back to the Future",
+      "release_year": 1985,
+      "studio_label": "Universal Pictures",
+      "slug": "back-to-the-future",
+      "has_reactions": true
+    },
+    {
+      "id": "3891288c-e1e7-4dba-ac68-f2a5388820de",
+      "title": "Critters",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "critters",
+      "has_reactions": false
+    },
+    {
+      "id": "efd530f1-b015-4c43-9bfb-25ac189ec118",
+      "title": "Police Story: Monster Manor",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "police-story-monster-manor",
+      "has_reactions": false
+    },
+    {
+      "id": "ccea3ddf-2f58-4b12-8762-7711859a8b0d",
+      "title": "Back to the Future Part II",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "back-to-the-future-part-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "c7f73e02-e754-4525-8828-5b5daf8b5d69",
+      "title": "Memphis Belle",
+      "release_year": 1990,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memphis-belle",
+      "has_reactions": true
+    },
+    {
+      "id": "98d6b378-a262-46bc-8c25-691297fb1105",
+      "title": "Femme Fatale",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "femme-fatale",
+      "has_reactions": false
+    },
+    {
+      "id": "d9245e3d-7890-47aa-9385-a35cdf6949c8",
+      "title": "Blood and Concrete",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "blood-and-concrete",
+      "has_reactions": false
+    },
+    {
+      "id": "5e3af523-6268-49f7-bc0b-b0ec24f9321b",
+      "title": "Megaville",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "megaville",
+      "has_reactions": false
+    },
+    {
+      "id": "0b077e7d-1e38-458f-a9df-7969eac8facf",
+      "title": "Poetic Justice",
+      "release_year": 1993,
+      "studio_label": "Columbia Pictures",
+      "slug": "poetic-justice",
+      "has_reactions": true
+    },
+    {
+      "id": "785d53ea-7283-4664-b5f5-6485d411fe10",
+      "title": "Posse",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "posse",
+      "has_reactions": false
+    },
+    {
+      "id": "532894eb-ab8d-4682-8229-c73df6bed273",
+      "title": "Tombstone",
+      "release_year": 1993,
+      "studio_label": "Cinergi Pictures",
+      "slug": "tombstone",
+      "has_reactions": true
+    },
+    {
+      "id": "2a3bbd32-4bac-48aa-9de9-22d1724826a9",
+      "title": "Betrayal of the Dove",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "betrayal-of-the-dove",
+      "has_reactions": false
+    },
+    {
+      "id": "a506e08f-49ec-4afb-8255-070e50e790de",
+      "title": "The Silence of the Hams",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-silence-of-the-hams",
+      "has_reactions": false
+    },
+    {
+      "id": "3a93a49c-8e75-4494-bd22-7108e095fe53",
+      "title": "Only You",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "only-you",
+      "has_reactions": false
+    },
+    {
+      "id": "de9364d5-8780-4a61-ab0f-f22a972abe9d",
+      "title": "Running Delilah",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "running-delilah",
+      "has_reactions": false
+    },
+    {
+      "id": "adc28d0f-a779-4a6a-a3c2-0ac9332ba000",
+      "title": "Flashfire",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "flashfire",
+      "has_reactions": false
+    },
+    {
+      "id": "a16fb7d8-53a1-407b-aa25-4aa96a263ac6",
+      "title": "Reflections on a Crime",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "reflections-on-a-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "88d2cd8b-27a6-4e99-8607-435c324b8019",
+      "title": "Lake Consequence",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "lake-consequence",
+      "has_reactions": false
+    },
+    {
+      "id": "eeb48416-9c00-40b7-be94-71cc7d4503a1",
+      "title": "The Set Up",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-set-up",
+      "has_reactions": false
+    },
+    {
+      "id": "457f4edf-5880-4932-a845-5c5863ecaf2f",
+      "title": "Head Above Water",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "head-above-water",
+      "has_reactions": false
+    },
+    {
+      "id": "5c5f7a0b-06db-4e21-aa3b-7ec99cdfe5ce",
+      "title": "The Phantom: The Man, the Myth, the Legend",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-phantom-the-man-the-myth-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "8c9a0eb1-cb17-4c25-9899-a0b7af6a5971",
+      "title": "Titanic",
+      "release_year": 1997,
+      "studio_label": "Paramount Pictures",
+      "slug": "titanic",
+      "has_reactions": true
+    },
+    {
+      "id": "06a29192-5652-4423-93ed-cf0e3e7c43f4",
+      "title": "This World, Then the Fireworks",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "this-world-then-the-fireworks",
+      "has_reactions": false
+    },
+    {
+      "id": "cbf8b47a-66b3-4d67-a8c5-92da9b29f2e4",
+      "title": "Pocahontas II: Journey to a New World",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "pocahontas-ii-journey-to-a-new-world",
+      "has_reactions": false
+    },
+    {
+      "id": "892c64ce-ff8c-475e-9322-c3bcf19b515e",
+      "title": "Promise Her Anything",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "promise-her-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "d6148d6e-e756-42cc-9b90-173ed37ce008",
+      "title": "Sole Survivor",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sole-survivor",
+      "has_reactions": false
+    },
+    {
+      "id": "d076b755-58f1-4bb3-93f4-997d2c25da9b",
+      "title": "Zoolander",
+      "release_year": 2001,
+      "studio_label": "Paramount Pictures",
+      "slug": "zoolander",
+      "has_reactions": true
+    },
+    {
+      "id": "c270c8cc-f28c-442b-afe7-90a43c8b60ec",
+      "title": "CQ",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "cq",
+      "has_reactions": false
+    },
+    {
+      "id": "7de11e2a-e86a-4b22-82cf-275fbf9c4dda",
+      "title": "The Believer",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-believer",
+      "has_reactions": false
+    },
+    {
+      "id": "d4f14b58-00d5-40c7-a7a0-19be57b799db",
+      "title": "Invincible",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "invincible",
+      "has_reactions": false
+    },
+    {
+      "id": "3abad3f6-afaa-4ba4-9b67-aa0db358703c",
+      "title": "Morgan's Ferry",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "morgan-s-ferry",
+      "has_reactions": false
+    },
+    {
+      "id": "15ef6539-c58e-4191-8995-2d4b600c04ce",
+      "title": "The Diamond of Jeru",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-diamond-of-jeru",
+      "has_reactions": false
+    },
+    {
+      "id": "4279954d-ead2-4067-92c1-eadd0bace642",
+      "title": "Landspeed",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "landspeed",
+      "has_reactions": false
+    },
+    {
+      "id": "2d44626e-b49d-400c-8e9e-343f61d6593e",
+      "title": "Claim",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "claim",
+      "has_reactions": false
+    },
+    {
+      "id": "5ac7a3c1-1020-45d8-ae83-bd9e5fec7fe5",
+      "title": "Silent Warnings",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "silent-warnings",
+      "has_reactions": false
+    },
+    {
+      "id": "5e1b9b5b-f1a6-4c0f-aba9-67dad63dad6f",
+      "title": "The Kiss",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "f21c008a-3d07-4b78-8ec6-2a320d53ff96",
+      "title": "Bet Your Life",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "bet-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "50d537df-c251-4e27-97c7-30dd85544750",
+      "title": "Vlad",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "vlad",
+      "has_reactions": false
+    },
+    {
+      "id": "3105a89e-b21e-4b89-add9-4d8f3ad81477",
+      "title": "Three",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "three",
+      "has_reactions": false
+    },
+    {
+      "id": "90fd1f89-2cf5-4111-aae6-7468c0bbe45b",
+      "title": "Dead Fish",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "dead-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "6f75fb58-2cdb-411c-8f91-e340f94fbb43",
+      "title": "BloodRayne",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "bloodrayne",
+      "has_reactions": false
+    },
+    {
+      "id": "99edf93c-b0b2-4431-a0c6-0eb097077624",
+      "title": "The Last Drop",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-last-drop",
+      "has_reactions": false
+    },
+    {
+      "id": "db640936-c012-4739-8291-85c0ccdd83dd",
+      "title": "Valley of the Wolves: Iraq",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "valley-of-the-wolves-iraq",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa25336-89bc-4599-b098-f336cc6e4df0",
+      "title": "Memory",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "memory",
+      "has_reactions": false
+    },
+    {
+      "id": "9383cd07-0585-4bb7-b9b1-dc0298b77912",
+      "title": "The Mad",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-mad",
+      "has_reactions": false
+    },
+    {
+      "id": "a838e72f-fdd6-4a61-8852-de5dfe3ad539",
+      "title": "Fishtales",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fishtales",
+      "has_reactions": false
+    },
+    {
+      "id": "cfe7b4fb-09e7-4194-bc49-b836529e7345",
+      "title": "Alien Agent",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "alien-agent",
+      "has_reactions": false
+    },
+    {
+      "id": "69736b9e-c2e5-41df-8128-e47242a3d498",
+      "title": "Perfect Hideout",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "perfect-hideout",
+      "has_reactions": false
+    },
+    {
+      "id": "a6a7cf04-dc8f-4560-ba49-27019d055e00",
+      "title": "The Hessen Affair",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-hessen-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "adb16db9-1468-460e-8e8f-bf6323e5d2fb",
+      "title": "Surviving Evil",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "surviving-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "47b91b6f-cb72-4d59-b708-b2aefa77f66a",
+      "title": "Blue Seduction",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "blue-seduction",
+      "has_reactions": false
+    },
+    {
+      "id": "78943e1f-fad0-4169-8e80-e4d0cd3a5f6e",
+      "title": "Love n' Dancing",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "love-n-dancing",
+      "has_reactions": false
+    },
+    {
+      "id": "4b10ac61-1d43-4ee6-ba89-d4500fa0403b",
+      "title": "Attack on Darfur",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "attack-on-darfur",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd4316f-773a-4d96-bfdf-2ce8caef3c95",
+      "title": "Evil - In the Time of Heroes",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "evil-in-the-time-of-heroes",
+      "has_reactions": false
+    },
+    {
+      "id": "d2c5b0fb-73aa-49f8-8f52-41a40233e176",
+      "title": "Magic Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "magic-man",
+      "has_reactions": false
+    },
+    {
+      "id": "99437a41-e885-4a28-a4d8-49d90e21e5d1",
+      "title": "The Gold Retrievers",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-gold-retrievers",
+      "has_reactions": false
+    },
+    {
+      "id": "d4961830-708e-4dde-b70c-91035b71536e",
+      "title": "The Confidant",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-confidant",
+      "has_reactions": false
+    },
+    {
+      "id": "91a24b14-b3bb-4d17-a02e-e38eeab68ae1",
+      "title": "Journey to Promethea",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "journey-to-promethea",
+      "has_reactions": false
+    },
+    {
+      "id": "a2c54a11-569f-4124-ae50-2d27b91ed217",
+      "title": "Enemies Among Us",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "enemies-among-us",
+      "has_reactions": false
+    },
+    {
+      "id": "ebbff1f4-ed28-40a0-81ff-a57aebca21e9",
+      "title": "The Roommate",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-roommate",
+      "has_reactions": false
+    },
+    {
+      "id": "b2dd1cf5-b022-430f-9946-1f81f9a21547",
+      "title": "Mercenaries",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mercenaries",
+      "has_reactions": false
+    },
+    {
+      "id": "c53f4443-4fa3-46c1-916d-e8b4e2c0de8f",
+      "title": "Sniper: Reloaded",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "sniper-reloaded",
+      "has_reactions": false
+    },
+    {
+      "id": "55f93447-3061-4fd2-bcf3-cc782bab7337",
+      "title": "The Scorpion King 3: Battle for Redemption",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-scorpion-king-3-battle-for-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "6d1785ad-768e-4d02-959e-b13d8160a992",
+      "title": "The Kill Hole",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-kill-hole",
+      "has_reactions": false
+    },
+    {
+      "id": "11c3fc1e-c168-49fd-ab08-d33c2057c254",
+      "title": "Barabbas",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "barabbas",
+      "has_reactions": false
+    },
+    {
+      "id": "25985f36-555e-4df6-8131-303e02d3a15c",
+      "title": "2 Jacks",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "2-jacks",
+      "has_reactions": false
+    },
+    {
+      "id": "d9f8b2e7-be62-45c2-b2e8-e7c243df180c",
+      "title": "Electrick Children",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "electrick-children",
+      "has_reactions": false
+    },
+    {
+      "id": "da635c13-efc1-43cd-b709-3c84a2a35586",
+      "title": "Leprechaun's Revenge",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "leprechaun-s-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "3d7daa13-c50e-4417-b1cf-6d3f5cea8092",
+      "title": "Hannah's Law",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hannah-s-law",
+      "has_reactions": false
+    },
+    {
+      "id": "d9116bc7-eb06-4ead-bafa-af6606b7b402",
+      "title": "The Employer",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-employer",
+      "has_reactions": false
+    },
+    {
+      "id": "98cbd2ec-f3aa-4d00-9af6-f1184062195d",
+      "title": "Scorned",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "scorned",
+      "has_reactions": false
+    },
+    {
+      "id": "c2cad4af-b6d9-4be0-94cd-de13c09922be",
+      "title": "Blood of Redemption",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blood-of-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "ab75e5bd-a3f2-46c9-851d-350041d97ad3",
+      "title": "Beyond the Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "29f520a9-0200-45bf-8888-b1a294ec6b22",
+      "title": "The Ganzfeld Haunting",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-ganzfeld-haunting",
+      "has_reactions": false
+    },
+    {
+      "id": "712990af-dbe4-4bc1-ab73-cec69504f9d5",
+      "title": "Ghost of Goodnight Lane",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ghost-of-goodnight-lane",
+      "has_reactions": false
+    },
+    {
+      "id": "527a244a-d5de-4da1-bdb6-da8f240e4d75",
+      "title": "Guido",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "guido",
+      "has_reactions": false
+    },
+    {
+      "id": "17f8de44-21ac-4a15-aa22-cc9802919fa6",
+      "title": "Zombie Killers: Elephant's Graveyard",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "zombie-killers-elephant-s-graveyard",
+      "has_reactions": false
+    },
+    {
+      "id": "ed5b97d3-345f-4637-8ba3-dc242337eeeb",
+      "title": "Hellblazers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "hellblazers",
+      "has_reactions": false
+    },
+    {
+      "id": "5d954950-3d88-4638-93b8-6eb658844ff4",
+      "title": "Prophets of Change",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "prophets-of-change",
+      "has_reactions": false
+    },
+    {
+      "id": "dba6ba2b-006e-4cc5-814d-1c4e74e67044",
+      "title": "Stay Calm",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "stay-calm",
+      "has_reactions": false
+    },
+    {
+      "id": "ccbeafdf-d615-4523-95bd-813113b180cc",
+      "title": "Titanic: Stories from the Heart",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "titanic-stories-from-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "f560855e-4ed1-46b9-8d4a-dc0cf1ed9db7",
+      "title": "The Oath",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-oath",
+      "has_reactions": false
+    },
+    {
+      "id": "b21f8b69-9dbd-43e9-9736-a4193f747d2a",
+      "title": "Held Hostage in My House",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "held-hostage-in-my-house",
+      "has_reactions": false
+    },
+    {
+      "id": "de49bf9d-604b-4809-b4fb-79de449a2b33",
+      "title": "Tapawingo",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "tapawingo",
+      "has_reactions": false
+    }
+  ]
+}

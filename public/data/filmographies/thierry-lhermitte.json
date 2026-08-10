@@ -1,0 +1,720 @@
+{
+  "id": "42e9e26a-e30a-401e-8664-63930de76716",
+  "name": "Thierry Lhermitte",
+  "slug": "thierry-lhermitte",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/50kQVqmD1XnGRlgTPsVRhECaRae.jpg",
+  "filmography": [
+    {
+      "id": "00a5aef7-999f-46ce-b227-5774540725ba",
+      "title": "Going Places",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "going-places",
+      "has_reactions": false
+    },
+    {
+      "id": "ac89a2f8-41c4-433b-bbd8-4d7218c816b8",
+      "title": "The Restroom Robbery",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-restroom-robbery",
+      "has_reactions": false
+    },
+    {
+      "id": "3170b344-62c2-4d80-915f-45e46db4ae71",
+      "title": "Spoiled Children",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "spoiled-children",
+      "has_reactions": false
+    },
+    {
+      "id": "d88aeb24-7eb3-4c24-84f3-691dd8cee326",
+      "title": "You Won't Have Alsace-Lorraine",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "you-won-t-have-alsace-lorraine",
+      "has_reactions": false
+    },
+    {
+      "id": "a27ab552-ac92-4630-b45b-7e922e6fc1c0",
+      "title": "French Fried Vacation",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "french-fried-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "0153990c-2dbc-426c-8bc1-bace06aa77fd",
+      "title": "The Last Romantic Lover",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-last-romantic-lover",
+      "has_reactions": false
+    },
+    {
+      "id": "03e515a7-97f2-4ee8-97b9-556549bcfa18",
+      "title": "French Fried Vacation 2",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "french-fried-vacation-2",
+      "has_reactions": false
+    },
+    {
+      "id": "b5cd5ec0-32fe-47f4-b007-021032a88ace",
+      "title": "Heroes Are Not Wet Behind the Ears",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "heroes-are-not-wet-behind-the-ears",
+      "has_reactions": false
+    },
+    {
+      "id": "1f45a559-34e5-4cbd-9af0-d9ec39428c14",
+      "title": "The Lady Banker",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-lady-banker",
+      "has_reactions": false
+    },
+    {
+      "id": "6c934e85-4ee2-40ef-ab36-0d3a9ce62cc9",
+      "title": "Alors... Heureux ?",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "alors-heureux",
+      "has_reactions": false
+    },
+    {
+      "id": "c3b250a7-f985-4eeb-a7ce-1fe20b6e79c3",
+      "title": "Clara and the Why Notes",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "clara-and-the-why-notes",
+      "has_reactions": false
+    },
+    {
+      "id": "8e6f0346-9c48-4051-a88d-ad6baee545b1",
+      "title": "Men Prefer Fat Girls",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "men-prefer-fat-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "f7a11a04-032e-4166-9a1b-087a1514992a",
+      "title": "Le Voyageur imprudent",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "le-voyageur-imprudent",
+      "has_reactions": false
+    },
+    {
+      "id": "56597484-45e4-4b64-bb30-48724510a3d4",
+      "title": "Elle voit des nains partout !",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "elle-voit-des-nains-partout",
+      "has_reactions": false
+    },
+    {
+      "id": "69e7e6b3-061e-4a25-ae3b-37e573f70316",
+      "title": "Legitimate Violence",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "legitimate-violence",
+      "has_reactions": false
+    },
+    {
+      "id": "9ae4c09b-9c47-4fa3-8ef2-58e2c12a530c",
+      "title": "Santa Claus Is a Stinker",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "santa-claus-is-a-stinker",
+      "has_reactions": false
+    },
+    {
+      "id": "76aa9666-bef2-47f5-aed1-58af1a28f803",
+      "title": "Gramps Is in the Resistance",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "gramps-is-in-the-resistance",
+      "has_reactions": false
+    },
+    {
+      "id": "98318fc5-0d85-491d-92f3-376eb8dbdda8",
+      "title": "My Best Friend's Girl",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "my-best-friend-s-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "727a7176-aa2f-488a-8733-d714cf100be3",
+      "title": "My New Partner",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "my-new-partner",
+      "has_reactions": false
+    },
+    {
+      "id": "3c0ecc9a-2688-4d4a-86cd-a31131627870",
+      "title": "A Summer in Hell",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-summer-in-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "8c70dc8b-c26a-47e0-851e-a927aeb20a1a",
+      "title": "Les Rois du gag",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "les-rois-du-gag",
+      "has_reactions": false
+    },
+    {
+      "id": "7ee33060-0111-4a7f-8c56-ae29190db52b",
+      "title": "Marriage of the Century",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "marriage-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "78744b00-5e73-4892-bd4e-f0bb69973726",
+      "title": "Santa Claus Is a Stinker",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "santa-claus-is-a-stinker",
+      "has_reactions": false
+    },
+    {
+      "id": "8441e034-d630-4911-a95f-8d04a0272bb5",
+      "title": "Nuit d'ivresse",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "nuit-d-ivresse",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a07512-5a32-4b74-a54b-2653ca65961a",
+      "title": "Fucking Fernand",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "fucking-fernand",
+      "has_reactions": false
+    },
+    {
+      "id": "99a6c56a-b729-46d2-84c9-07653ff9b0f9",
+      "title": "1001 Nights",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "1001-nights",
+      "has_reactions": false
+    },
+    {
+      "id": "11319055-fc0d-4813-8aab-41d7aba0eca8",
+      "title": "My New Partner II",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "my-new-partner-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "c38936a6-b4f9-4615-ace8-448b1c06d98e",
+      "title": "Promotion canap\u00e9",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "promotion-canap",
+      "has_reactions": false
+    },
+    {
+      "id": "a8bab12c-0196-471b-943e-5cf6dc0e2f5a",
+      "title": "Speaking of the Devil",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "speaking-of-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "44d34f44-5b4a-4812-afdd-2aa933d41ca3",
+      "title": "The Professional Secrets of Dr. Apfelgluck",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-professional-secrets-of-dr-apfelgluck",
+      "has_reactions": false
+    },
+    {
+      "id": "60d02e78-3c79-4217-8a1a-1a79eafdbca9",
+      "title": "The Jackpot!",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-jackpot",
+      "has_reactions": false
+    },
+    {
+      "id": "ccf54ed4-43fe-4f6c-99c4-b8ed3545ccf9",
+      "title": "Tango",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "tango",
+      "has_reactions": false
+    },
+    {
+      "id": "2c8c9419-a262-4999-ab28-a3190900d833",
+      "title": "A Shadow of a Doubt",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-shadow-of-a-doubt",
+      "has_reactions": false
+    },
+    {
+      "id": "18c9b673-9470-4e94-8142-8bde272ffae3",
+      "title": "Fanfan",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "fanfan",
+      "has_reactions": false
+    },
+    {
+      "id": "9f630f20-3377-49c6-90a6-5c1c80a18c18",
+      "title": "Little Indian, Big City",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "little-indian-big-city",
+      "has_reactions": false
+    },
+    {
+      "id": "df0388bd-d0a3-47dd-b196-578eb68693d1",
+      "title": "Revenge of a Blonde",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "revenge-of-a-blonde",
+      "has_reactions": false
+    },
+    {
+      "id": "6b8f3670-38a6-4ad9-8924-7033f2dce23b",
+      "title": "Love in the Strangest Way",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "love-in-the-strangest-way",
+      "has_reactions": false
+    },
+    {
+      "id": "019b4fae-fa3d-4343-875a-a68a1275cd57",
+      "title": "Seven Sundays",
+      "release_year": 1995,
+      "studio_label": "Erato Films",
+      "slug": "seven-sundays",
+      "has_reactions": false
+    },
+    {
+      "id": "09df9406-ded1-44b6-89a7-283c2c59eefa",
+      "title": "Should Not!...",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "should-not",
+      "has_reactions": false
+    },
+    {
+      "id": "7b4aa0f8-1c7c-4e3b-92e1-2fe0284ebd64",
+      "title": "Les S\u0153urs Soleil",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "les-s-urs-soleil",
+      "has_reactions": false
+    },
+    {
+      "id": "69465702-60da-4b92-88fb-18ad7c44776c",
+      "title": "Marquise",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "marquise",
+      "has_reactions": false
+    },
+    {
+      "id": "d18d880a-5301-46e3-88ec-985960326512",
+      "title": "An American Werewolf in Paris",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "an-american-werewolf-in-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "5a1e992d-0d12-47f0-8c3e-5509e6bf9b5b",
+      "title": "Quatre Gar\u00e7ons pleins d'avenir",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "quatre-gar-ons-pleins-d-avenir",
+      "has_reactions": false
+    },
+    {
+      "id": "6209f1ab-4d1e-436e-b4ff-fafc49cc552a",
+      "title": "The Dinner Game",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-dinner-game",
+      "has_reactions": false
+    },
+    {
+      "id": "e68ffcb3-8f4a-4119-be99-308e18790144",
+      "title": "Influence Peddling",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "influence-peddling",
+      "has_reactions": false
+    },
+    {
+      "id": "4c790ccd-9b16-437c-8526-32bac4c40798",
+      "title": "Les coll\u00e8gues",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "les-coll-gues",
+      "has_reactions": false
+    },
+    {
+      "id": "c91c21be-5844-40ac-8468-538711700afa",
+      "title": "I Didn't Do It!",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "i-didn-t-do-it",
+      "has_reactions": false
+    },
+    {
+      "id": "c6ebc87a-cc76-4157-8d9d-2da3004a2c9a",
+      "title": "The Prince of the Pacific",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-prince-of-the-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "2fdbcc9b-234c-464b-b4d0-d197928ccc5e",
+      "title": "Great Idea",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "great-idea",
+      "has_reactions": false
+    },
+    {
+      "id": "494f4a43-6fc8-40af-a244-581282148f45",
+      "title": "Most Promising Young Actress",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "most-promising-young-actress",
+      "has_reactions": false
+    },
+    {
+      "id": "3e8dd29c-1f3e-42f8-a4d2-e2ab86660a21",
+      "title": "Second life",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "second-life",
+      "has_reactions": false
+    },
+    {
+      "id": "43d2861e-dfef-482c-877e-485ce9702f5c",
+      "title": "The Closet",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-closet",
+      "has_reactions": false
+    },
+    {
+      "id": "ef3f7cb7-f01c-4705-b5a8-0131de011cda",
+      "title": "Le Roman de Lulu",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "le-roman-de-lulu",
+      "has_reactions": false
+    },
+    {
+      "id": "a3a6fc1a-c009-4f4f-9a9e-09c13261d690",
+      "title": "And Now... Ladies and Gentlemen...",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "and-now-ladies-and-gentlemen",
+      "has_reactions": false
+    },
+    {
+      "id": "877ab409-93a9-441b-a720-707070cc7431",
+      "title": "La bande du drugstore",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "la-bande-du-drugstore",
+      "has_reactions": false
+    },
+    {
+      "id": "a519dcc0-f494-4338-bf65-e60f5a96d2c2",
+      "title": "Les petites annonces d'Elie - L'int\u00e9grale",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "les-petites-annonces-d-elie-l-int-grale",
+      "has_reactions": false
+    },
+    {
+      "id": "1131f994-9a07-479c-87b9-96d7a0fe333f",
+      "title": "The Young Casanova",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-young-casanova",
+      "has_reactions": false
+    },
+    {
+      "id": "5af8109e-22d0-4ee5-aa37-02968d2f28f5",
+      "title": "Hanging Offense",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hanging-offense",
+      "has_reactions": false
+    },
+    {
+      "id": "755eeb72-fa08-4280-8b23-b30112421aae",
+      "title": "Le Divorce",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "le-divorce",
+      "has_reactions": false
+    },
+    {
+      "id": "ff22a9db-c4a6-4e5f-8ecf-2f54db50714e",
+      "title": "Strange Gardens",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "strange-gardens",
+      "has_reactions": false
+    },
+    {
+      "id": "504783fd-977c-4dbb-93b4-3c3c237c952b",
+      "title": "My New Partner III",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "my-new-partner-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "929c9c23-613d-44f4-8e93-b651710dba55",
+      "title": "Mean Spirit",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "mean-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "db7b7ab5-134d-4c44-87cc-e96bddcadf66",
+      "title": "The Car Keys",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-car-keys",
+      "has_reactions": false
+    },
+    {
+      "id": "6e68d9f8-4065-41b9-8534-80c647d5b3d6",
+      "title": "The Ex-Wife of My Life",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-ex-wife-of-my-life",
+      "has_reactions": false
+    },
+    {
+      "id": "cd21388d-a1bc-4d5e-90de-ddc23a47dff0",
+      "title": "L'Am\u00e9ricain",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "l-am-ricain",
+      "has_reactions": false
+    },
+    {
+      "id": "d51c7b9f-8cac-48ee-bc8d-40a1ec577189",
+      "title": "Loser Takes All!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "loser-takes-all",
+      "has_reactions": false
+    },
+    {
+      "id": "13266418-7a75-4336-ada9-11692bc6a46f",
+      "title": "Si j'\u00e9tais elle",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "si-j-tais-elle",
+      "has_reactions": false
+    },
+    {
+      "id": "04e36b4f-d16c-4807-84ba-24ff9140674b",
+      "title": "The Antidote",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-antidote",
+      "has_reactions": false
+    },
+    {
+      "id": "119f4db9-4512-4a6e-81e9-9f89c750afc2",
+      "title": "Mr. Average",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "mr-average",
+      "has_reactions": false
+    },
+    {
+      "id": "4c508c73-2faf-45e4-b678-ef1f30374546",
+      "title": "Incontr\u00f4lable",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "incontr-lable",
+      "has_reactions": false
+    },
+    {
+      "id": "eabf8e37-766b-41d1-b2a6-98b502352261",
+      "title": "13 m\u00b2",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "13-m",
+      "has_reactions": false
+    },
+    {
+      "id": "5a1799f0-bcbf-4db2-9a54-fe1f6dd56b33",
+      "title": "The Dinner Guest",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dinner-guest",
+      "has_reactions": false
+    },
+    {
+      "id": "df3efc81-8985-4ef1-b15e-61a6d6e09fac",
+      "title": "The Key",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-key",
+      "has_reactions": false
+    },
+    {
+      "id": "07d6236b-b61f-489a-af75-147ba7b8489c",
+      "title": "What If...?",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "what-if",
+      "has_reactions": false
+    },
+    {
+      "id": "7afc9fd2-34e2-42bd-8b71-210ff55071e0",
+      "title": "\u00c7a se soigne ?",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "a-se-soigne",
+      "has_reactions": false
+    },
+    {
+      "id": "eed75229-4779-4879-b98d-db96eca00e25",
+      "title": "Sans rancune !",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "sans-rancune",
+      "has_reactions": false
+    },
+    {
+      "id": "b7072bc8-e5da-489f-8600-631495e155b4",
+      "title": "Thelma, Louise et Chantal",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "thelma-louise-et-chantal",
+      "has_reactions": false
+    },
+    {
+      "id": "930f0116-472d-4230-88b8-84cc01797c82",
+      "title": "Gigola",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "gigola",
+      "has_reactions": false
+    },
+    {
+      "id": "7796002e-a91c-47f1-9c53-89d973e803ce",
+      "title": "Black Really Suits You",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "black-really-suits-you",
+      "has_reactions": false
+    },
+    {
+      "id": "3569a697-fa29-4d04-866d-9572c7115619",
+      "title": "Miserere",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "miserere",
+      "has_reactions": false
+    },
+    {
+      "id": "cbc4ef4f-2c3b-4f39-a016-316dbe57e257",
+      "title": "Les Enfoir\u00e9s - Les Enfoir\u00e9s en ch\u0153ur de 1985 \u00e0 aujourd'hui",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "les-enfoir-s-les-enfoir-s-en-ch-ur-de-1985-aujourd-hui",
+      "has_reactions": false
+    },
+    {
+      "id": "d1365c83-488b-4997-a885-f4105ef18910",
+      "title": "Benedict Ironbreaker: The Red Taxis",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "benedict-ironbreaker-the-red-taxis",
+      "has_reactions": false
+    },
+    {
+      "id": "d86b4556-4223-4515-b81c-36c92f6a57ca",
+      "title": "Snowlidays",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "snowlidays",
+      "has_reactions": false
+    },
+    {
+      "id": "f6493d32-95ab-4283-8671-fe9541c79d06",
+      "title": "Just Retired 2",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "just-retired-2",
+      "has_reactions": false
+    },
+    {
+      "id": "c1365c63-7fd4-46f1-9e1a-2de5a9bc1a4e",
+      "title": "Alain Souchon - One Day, One Fate",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "alain-souchon-one-day-one-fate",
+      "has_reactions": false
+    },
+    {
+      "id": "6605539d-06f5-4052-be75-314acf2f1954",
+      "title": "Sweet Sixty",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "sweet-sixty",
+      "has_reactions": false
+    },
+    {
+      "id": "db190283-8638-4ec5-8abf-a1fadd1450bf",
+      "title": "Open Season",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "open-season",
+      "has_reactions": false
+    },
+    {
+      "id": "714187ec-44de-416b-a567-e6b397e22b86",
+      "title": "Riviera Revenge",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "riviera-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "84813a58-ae4c-403c-8a8a-c5913e467de6",
+      "title": "De Gaulle: Libert\u00e9",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "de-gaulle-libert",
+      "has_reactions": false
+    }
+  ]
+}

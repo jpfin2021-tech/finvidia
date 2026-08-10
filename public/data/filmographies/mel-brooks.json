@@ -1,0 +1,648 @@
+{
+  "id": "59405b5f-7d6e-4855-9655-bcd2c92cc237",
+  "name": "Mel Brooks",
+  "slug": "mel-brooks",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/c21qNcMJlHnRolfhQhZOVacjtwI.jpg",
+  "filmography": [
+    {
+      "id": "fe1c90a3-912e-4a26-b0f0-a74e43bed502",
+      "title": "Untitled Lani Pixels Project",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-lani-pixels-project",
+      "has_reactions": false
+    },
+    {
+      "id": "49bba1d1-1b43-48ec-be05-d02befc9874e",
+      "title": "Enormous",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "enormous",
+      "has_reactions": false
+    },
+    {
+      "id": "2e95253d-640a-4878-bf26-35edee0d2a69",
+      "title": "The Critic",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-critic",
+      "has_reactions": false
+    },
+    {
+      "id": "e7308fb2-def6-4b87-98b6-e6b0d11cf0c3",
+      "title": "The Producers",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-producers",
+      "has_reactions": false
+    },
+    {
+      "id": "7ee9c856-c61c-443e-9768-34d5065529e4",
+      "title": "The Twelve Chairs",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-twelve-chairs",
+      "has_reactions": false
+    },
+    {
+      "id": "38ff3767-28f7-4db6-88b3-7dec78fd15eb",
+      "title": "Annie: The Women in the Life of a Man",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "annie-the-women-in-the-life-of-a-man",
+      "has_reactions": false
+    },
+    {
+      "id": "dbf59ec5-ff62-4ab0-a9aa-8dcd3a99ea82",
+      "title": "Blazing Saddles",
+      "release_year": 1974,
+      "studio_label": "Crossbow Productions",
+      "slug": "blazing-saddles",
+      "has_reactions": true
+    },
+    {
+      "id": "de7ffd7d-4f53-4c3e-90d3-8bdd93f8bebe",
+      "title": "Young Frankenstein",
+      "release_year": 1974,
+      "studio_label": "Crossbow Productions",
+      "slug": "young-frankenstein",
+      "has_reactions": true
+    },
+    {
+      "id": "56f041da-0a16-44fa-832a-6e9ff43e2f28",
+      "title": "The 2000 Year Old Man",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-2000-year-old-man",
+      "has_reactions": false
+    },
+    {
+      "id": "48f038be-6169-435d-9792-f89a7d501fac",
+      "title": "High Anxiety",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "high-anxiety",
+      "has_reactions": false
+    },
+    {
+      "id": "71cfc859-6f42-4560-9b26-c9d38c687813",
+      "title": "Peeping Times",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "peeping-times",
+      "has_reactions": false
+    },
+    {
+      "id": "f2cf1247-30f7-4943-9dd7-2c6815240f35",
+      "title": "The Muppet Movie",
+      "release_year": 1979,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-muppet-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "a0521d6f-0272-41bc-81ac-9016e70de639",
+      "title": "The Muppets Go Hollywood",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-go-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "41028a6f-9845-40cd-a24c-7ea4a9f3e9e9",
+      "title": "History of the World: Part I",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "history-of-the-world-part-i",
+      "has_reactions": false
+    },
+    {
+      "id": "95824b0f-d40f-444c-a8fa-22447fdcd620",
+      "title": "To Be or Not to Be",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "to-be-or-not-to-be",
+      "has_reactions": false
+    },
+    {
+      "id": "77b3e322-9649-49df-88b9-4c3c84921923",
+      "title": "Sunset People",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "sunset-people",
+      "has_reactions": false
+    },
+    {
+      "id": "1ab86bd6-478b-4d27-8d8d-42fb48b31b3c",
+      "title": "An Audience with Mel Brooks",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "an-audience-with-mel-brooks",
+      "has_reactions": false
+    },
+    {
+      "id": "7e372cf8-36e7-46ea-92ad-d4f700d9fc07",
+      "title": "Spaceballs",
+      "release_year": 1987,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "spaceballs",
+      "has_reactions": true
+    },
+    {
+      "id": "4026c842-907e-4e83-a293-91904b71475d",
+      "title": "Free to Be... a Family",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "free-to-be-a-family",
+      "has_reactions": false
+    },
+    {
+      "id": "774d7326-f4fc-4f8d-8a70-af4a0897f910",
+      "title": "Look Who's Talking Too",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-too",
+      "has_reactions": false
+    },
+    {
+      "id": "0b58d648-41a9-43b7-8848-de662a130048",
+      "title": "Life Stinks",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "life-stinks",
+      "has_reactions": false
+    },
+    {
+      "id": "5f0715ff-12c3-4ae6-9312-fd79edb9dc6c",
+      "title": "Mickey's Audition",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-audition",
+      "has_reactions": false
+    },
+    {
+      "id": "bb830a3c-fa98-4ece-8c65-80ca6a691d13",
+      "title": "Robin Hood: Men in Tights",
+      "release_year": 1993,
+      "studio_label": "Gaumont",
+      "slug": "robin-hood-men-in-tights",
+      "has_reactions": true
+    },
+    {
+      "id": "bf00721c-0386-43dc-93b0-3c5ce5d50417",
+      "title": "'Robin Hood: Men in Tights' \u2013 The Legend Had It Coming",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "robin-hood-men-in-tights-the-legend-had-it-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "915fc331-9d84-4e43-a9fa-c16ebb04bf0c",
+      "title": "It's Alive: The True Story of Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "it-s-alive-the-true-story-of-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "a506e08f-49ec-4afb-8255-070e50e790de",
+      "title": "The Silence of the Hams",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-silence-of-the-hams",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6063a1-dc4a-4b8b-8a6e-7a3facaf7c39",
+      "title": "The Little Rascals",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-little-rascals",
+      "has_reactions": false
+    },
+    {
+      "id": "b9331ff4-b459-479f-b369-d7f721e80894",
+      "title": "Caesar's Writers",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "caesar-s-writers",
+      "has_reactions": false
+    },
+    {
+      "id": "e78124a6-fada-4fa8-baa4-7fd0a14d0115",
+      "title": "Pretty as a Picture: The Art of David Lynch",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pretty-as-a-picture-the-art-of-david-lynch",
+      "has_reactions": false
+    },
+    {
+      "id": "5b309a1d-a8bc-4a17-81d5-c7255f8f235b",
+      "title": "Frank Sinatra: The Voice of the Century",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "frank-sinatra-the-voice-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "9179ee74-d70b-4e03-81d8-322d9ea1714c",
+      "title": "Sex, Lies and Video Violence",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sex-lies-and-video-violence",
+      "has_reactions": false
+    },
+    {
+      "id": "5b530472-d730-4316-b6a9-31978f28a6aa",
+      "title": "The Sid Caesar Collection:  Inside the Writer's Room",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-sid-caesar-collection-inside-the-writer-s-room",
+      "has_reactions": false
+    },
+    {
+      "id": "2d1971e9-2176-42e3-8a81-b3390f84ca74",
+      "title": "The Sid Caesar Collection:  Creating the Comedy",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-sid-caesar-collection-creating-the-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "7e07a726-5228-4473-8c91-5b8c47c20db2",
+      "title": "Back in the Saddle",
+      "release_year": 2001,
+      "studio_label": "Warner Bros. Home Entertainment",
+      "slug": "back-in-the-saddle",
+      "has_reactions": false
+    },
+    {
+      "id": "3d0f768f-d9d7-4120-b9f6-9a110c2282f3",
+      "title": "The Terrible Elephant Man Revealed",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-terrible-elephant-man-revealed",
+      "has_reactions": false
+    },
+    {
+      "id": "56529e53-b671-4164-9f10-1d5c24c2d8ce",
+      "title": "Recording the Producers: A Musical Romp with Mel Brooks",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "recording-the-producers-a-musical-romp-with-mel-brooks",
+      "has_reactions": false
+    },
+    {
+      "id": "20668b39-b3f0-4af2-8ddc-aa96358b316f",
+      "title": "It's a Very Merry Muppet Christmas Movie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-very-merry-muppet-christmas-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "a802bfd3-f90d-4fe3-9558-15a2f67b88c9",
+      "title": "Sid Caesar Collection: Buried Treasures - The Legend of Sid Caesar",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "sid-caesar-collection-buried-treasures-the-legend-of-sid-caesar",
+      "has_reactions": false
+    },
+    {
+      "id": "2cec32c2-1d57-4c2f-b2d2-016b590b076a",
+      "title": "Life Stinks: Does Life Really Stink?",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "life-stinks-does-life-really-stink",
+      "has_reactions": false
+    },
+    {
+      "id": "9e30de75-8315-4319-9edb-ba42ce117458",
+      "title": "Robots",
+      "release_year": 2005,
+      "studio_label": "Blue Sky Studios",
+      "slug": "robots",
+      "has_reactions": true
+    },
+    {
+      "id": "faa1f272-43a6-4007-983e-25e9b7a45f4e",
+      "title": "Spaceballs: The Documentary",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "spaceballs-the-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "6f2e31a3-182e-4a34-b1d4-7c7241dac731",
+      "title": "Spaceballs: In Conversation - Mel Brooks and Thomas Meehan",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "spaceballs-in-conversation-mel-brooks-and-thomas-meehan",
+      "has_reactions": false
+    },
+    {
+      "id": "b5358d6e-e2d1-4afa-8726-75a2d4dc1a56",
+      "title": "John Candy: Comic Spirit",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "john-candy-comic-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "f8af9cce-b308-4f3f-9d44-dde9e6ad6ce2",
+      "title": "The Producers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-producers",
+      "has_reactions": false
+    },
+    {
+      "id": "82fec8b9-677a-4b82-a02d-b19850b125b6",
+      "title": "The Dick Cavett Show with Mel Brooks",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-dick-cavett-show-with-mel-brooks",
+      "has_reactions": false
+    },
+    {
+      "id": "5613ae4a-8e13-4c8f-8665-8e19e2740866",
+      "title": "Cutting Edge Comedians of the '60s & '70s",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "cutting-edge-comedians-of-the-60s-70s",
+      "has_reactions": false
+    },
+    {
+      "id": "22b91d18-98fb-44bb-b60c-21e82e60e394",
+      "title": "Spaceballs: The Totally Warped Animated Adventures",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "spaceballs-the-totally-warped-animated-adventures",
+      "has_reactions": false
+    },
+    {
+      "id": "9e55143a-0207-4b6a-b4bb-0eba94567357",
+      "title": "Silent Laughter: The Reel Inspirations of 'Silent Movie'",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "silent-laughter-the-reel-inspirations-of-silent-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "9e93bfc0-f3db-4635-87fd-f121907e50f4",
+      "title": "Making History: Mel Brooks on Creating the World",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "making-history-mel-brooks-on-creating-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "71472dec-968f-4dff-a433-5a112a8b07c5",
+      "title": "A Night at the Movies: The Suspenseful World of Thrillers",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-night-at-the-movies-the-suspenseful-world-of-thrillers",
+      "has_reactions": false
+    },
+    {
+      "id": "27dbc00b-cbfd-46b9-83cf-057a9b01a5ff",
+      "title": "Hitchcock and Mel: Spoofing the Master of Suspense",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "hitchcock-and-mel-spoofing-the-master-of-suspense",
+      "has_reactions": false
+    },
+    {
+      "id": "4c9e4f70-55ac-4fc6-b334-7a2c8301a7fa",
+      "title": "Hollywood Singing & Dancing: A Musical History - 1980s, 1990s and 2000s",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "hollywood-singing-dancing-a-musical-history-1980s-1990s-and-2000s",
+      "has_reactions": false
+    },
+    {
+      "id": "9086d0c0-bafb-41ba-856d-d960a30837d7",
+      "title": "Ruby's Studio: the Feelings Show",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "ruby-s-studio-the-feelings-show",
+      "has_reactions": false
+    },
+    {
+      "id": "be2e3207-2752-4ff5-8170-e0ceeecab008",
+      "title": "Mel Brooks and Dick Cavett Together Again",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mel-brooks-and-dick-cavett-together-again",
+      "has_reactions": false
+    },
+    {
+      "id": "40f5d199-fbfa-4cb5-8a5c-add137834ae9",
+      "title": "The Great Dictator: The Clown Turns Prophet",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-great-dictator-the-clown-turns-prophet",
+      "has_reactions": false
+    },
+    {
+      "id": "d1f93117-76f6-403a-ab65-cd0a77fefb10",
+      "title": "Excavating the 2000 Year Old Man",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "excavating-the-2000-year-old-man",
+      "has_reactions": false
+    },
+    {
+      "id": "6a1bf5e9-39ef-40cd-8a3e-827bd1763520",
+      "title": "In the Beginning: The Caesar Years",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "in-the-beginning-the-caesar-years",
+      "has_reactions": false
+    },
+    {
+      "id": "e87d0f76-80b3-4a71-90aa-20b15997968b",
+      "title": "Richard Pryor: Omit the Logic",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "richard-pryor-omit-the-logic",
+      "has_reactions": false
+    },
+    {
+      "id": "7383d72f-a886-4489-aaae-0791adcfdcbf",
+      "title": "Blaze of Glory: Mel Brooks' Wild, Wild West",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "blaze-of-glory-mel-brooks-wild-wild-west",
+      "has_reactions": false
+    },
+    {
+      "id": "6e4f1a0f-ee6d-4c45-b3cf-aeeb142a6914",
+      "title": "Hotel Transylvania 2",
+      "release_year": 2015,
+      "studio_label": "Columbia Pictures",
+      "slug": "hotel-transylvania-2",
+      "has_reactions": true
+    },
+    {
+      "id": "1003cfe0-354f-4d2a-a476-3c4c02ed5e52",
+      "title": "Mel Brooks: Live at the Geffen",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "mel-brooks-live-at-the-geffen",
+      "has_reactions": false
+    },
+    {
+      "id": "990ad0ef-3d61-4f80-8cee-dc3da3dfd7c7",
+      "title": "The Last Laugh",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-last-laugh",
+      "has_reactions": false
+    },
+    {
+      "id": "93b81bfe-1ff4-4268-921f-a048d282a8d9",
+      "title": "Ballerina",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ballerina",
+      "has_reactions": false
+    },
+    {
+      "id": "10659705-9bcd-4df0-9faf-3eb45ebee875",
+      "title": "It's Always About the Story: Conversations with Alan Ladd, Jr.",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "it-s-always-about-the-story-conversations-with-alan-ladd-jr",
+      "has_reactions": false
+    },
+    {
+      "id": "4e0b3d3a-34ff-45dd-9e69-6b295f15014d",
+      "title": "Harold and Lillian: A Hollywood Love Story",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "harold-and-lillian-a-hollywood-love-story",
+      "has_reactions": false
+    },
+    {
+      "id": "6b1ae46c-897c-4d81-8a90-5a00298388ad",
+      "title": "Mel Brooks: The Genius Entertainer",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "mel-brooks-the-genius-entertainer",
+      "has_reactions": false
+    },
+    {
+      "id": "404e725b-7521-4883-b5e0-6c73f4e17074",
+      "title": "If You're Not in the Obit, Eat Breakfast",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "if-you-re-not-in-the-obit-eat-breakfast",
+      "has_reactions": false
+    },
+    {
+      "id": "2872ad72-b4eb-4377-8909-d905ee5ba879",
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "release_year": 2018,
+      "studio_label": "Columbia Pictures",
+      "slug": "hotel-transylvania-3-summer-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "f7c7c2e6-0a48-4be3-9707-7fe935b656aa",
+      "title": "Bombshell: The Hedy Lamarr Story",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bombshell-the-hedy-lamarr-story",
+      "has_reactions": false
+    },
+    {
+      "id": "f236f2ae-1131-4533-9d4c-4e5afc1b5713",
+      "title": "Toy Story 4",
+      "release_year": 2019,
+      "studio_label": "Pixar",
+      "slug": "toy-story-4",
+      "has_reactions": true
+    },
+    {
+      "id": "5633c436-2e72-4adb-87c9-915a49ccf5b5",
+      "title": "Forky Asks a Question: What Is Love?",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "forky-asks-a-question-what-is-love",
+      "has_reactions": false
+    },
+    {
+      "id": "7147cc59-c418-4c99-a872-13e75fdb2a38",
+      "title": "The Automat",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-automat",
+      "has_reactions": false
+    },
+    {
+      "id": "1f66772b-33f1-4b4f-9196-4fbed4072273",
+      "title": "Paws of Fury: The Legend of Hank",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "paws-of-fury-the-legend-of-hank",
+      "has_reactions": false
+    },
+    {
+      "id": "de3bde3c-991c-43fb-9c3d-b1f8a16bd70e",
+      "title": "Mel Brooks: Seriously... Well, Almost",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "mel-brooks-seriously-well-almost",
+      "has_reactions": false
+    },
+    {
+      "id": "b772ea14-b0ca-43a0-89e7-3c88a471531a",
+      "title": "Flower of the Dawn",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "flower-of-the-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "6beebd8a-daad-4506-8b9c-6a2e8bd8dd3f",
+      "title": "From Darkness to Light",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "from-darkness-to-light",
+      "has_reactions": false
+    },
+    {
+      "id": "0326fae1-61c1-452d-9a5e-bcefe456ad9a",
+      "title": "The Hanging of Stuart Cornfeld",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-hanging-of-stuart-cornfeld",
+      "has_reactions": false
+    },
+    {
+      "id": "2a131a91-5bb1-42a9-a5a3-ab007e363ea0",
+      "title": "John Candy: I Like Me",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "john-candy-i-like-me",
+      "has_reactions": false
+    },
+    {
+      "id": "00703c15-4610-4f3e-9774-a96b6766a087",
+      "title": "Paddy Chayefsky: Collector of Words",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "paddy-chayefsky-collector-of-words",
+      "has_reactions": false
+    },
+    {
+      "id": "680e728a-1f06-4472-ae9f-dfe0dd867644",
+      "title": "The Land of Sometimes",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-land-of-sometimes",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "46c698e9-b183-432b-ab85-0afdea222cea",
+  "name": "Bruce Lee",
+  "slug": "bruce-lee",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/uUC3N3sIuFLD0ZpNyc58NxW1Pzf.jpg",
+  "filmography": [
+    {
+      "id": "efa88f77-3601-4894-b16a-3bad1701c58e",
+      "title": "Enter the Dragon",
+      "release_year": 1973,
+      "studio_label": "Concord Productions",
+      "slug": "enter-the-dragon",
+      "has_reactions": true
+    },
+    {
+      "id": "84bfe78f-d2fb-4d25-a7fa-e5a46ee95038",
+      "title": "The Art of Action: Martial Arts in the Movies",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-action-martial-arts-in-the-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "71942876-3a8d-4cfb-87a7-e8954d8ba645",
+      "title": "Jackie Chan: Building an Icon",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jackie-chan-building-an-icon",
+      "has_reactions": false
+    }
+  ]
+}

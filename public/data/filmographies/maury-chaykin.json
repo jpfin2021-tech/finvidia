@@ -1,0 +1,472 @@
+{
+  "id": "05eaa848-c006-4ce6-abe8-768b0a9edc0e",
+  "name": "Maury Chaykin",
+  "slug": "maury-chaykin",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg",
+  "filmography": [
+    {
+      "id": "082c734d-c476-48cb-845f-a7c070766773",
+      "title": "Riel",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "riel",
+      "has_reactions": false
+    },
+    {
+      "id": "29cc3042-22cf-4ca0-8bb4-0351658252f8",
+      "title": "Nothing Personal",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "nothing-personal",
+      "has_reactions": false
+    },
+    {
+      "id": "4e372ae8-4af6-4fb4-9380-b70dcf7ec03b",
+      "title": "Double Negative",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "double-negative",
+      "has_reactions": false
+    },
+    {
+      "id": "75c08ea2-ef76-4c21-85cf-545a27f0f99e",
+      "title": "Death Hunt",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "death-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "0b82f845-71b9-4352-ac37-c1985c1c2778",
+      "title": "WarGames",
+      "release_year": 1983,
+      "studio_label": "Sherwood Productions",
+      "slug": "wargames",
+      "has_reactions": true
+    },
+    {
+      "id": "a6f0e9ab-1035-48b0-acec-051c83e0a97e",
+      "title": "Of Unknown Origin",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "of-unknown-origin",
+      "has_reactions": false
+    },
+    {
+      "id": "3b18f347-26d2-4809-aa7e-57adec987bd3",
+      "title": "Curtains",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "curtains",
+      "has_reactions": false
+    },
+    {
+      "id": "12313990-6378-4126-8134-06098e1685d9",
+      "title": "Hockey Night",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "hockey-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e9ace46e-2e46-40a4-8892-6d33d7bd7b79",
+      "title": "The Guardian",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-guardian",
+      "has_reactions": false
+    },
+    {
+      "id": "bc755373-82e4-43b0-afee-b6016b91419c",
+      "title": "Highpoint",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "highpoint",
+      "has_reactions": false
+    },
+    {
+      "id": "36b5d064-ea71-43d8-a85f-3c8f11c3794d",
+      "title": "Turk 182!",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "turk-182",
+      "has_reactions": false
+    },
+    {
+      "id": "59415c20-3437-4a65-8104-4c56a7eda8c4",
+      "title": "The Vindicator",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-vindicator",
+      "has_reactions": false
+    },
+    {
+      "id": "b670a66b-b12a-48fe-9790-864600fa3af7",
+      "title": "Act of Vengeance",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "act-of-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "c328c46e-e2d5-4c4d-bda4-153b848ff021",
+      "title": "Meatballs III: Summer Job",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "meatballs-iii-summer-job",
+      "has_reactions": false
+    },
+    {
+      "id": "11f0eb20-49ab-41a7-9d36-cd40458eb6bb",
+      "title": "Nowhere to Hide",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "nowhere-to-hide",
+      "has_reactions": false
+    },
+    {
+      "id": "234042b3-57ec-4fea-af54-001e68da7fa7",
+      "title": "The Bedroom Window",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-bedroom-window",
+      "has_reactions": false
+    },
+    {
+      "id": "60f80423-4271-4059-adcd-e0dd44fce68a",
+      "title": "Caribe",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "caribe",
+      "has_reactions": false
+    },
+    {
+      "id": "57f0f3dc-efce-45cf-9293-9f808d62f7ac",
+      "title": "Hot Paint",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "hot-paint",
+      "has_reactions": false
+    },
+    {
+      "id": "adff7a1d-1a38-43c7-9b22-13ad7e8ea279",
+      "title": "Twins",
+      "release_year": 1988,
+      "studio_label": "Universal Pictures",
+      "slug": "twins",
+      "has_reactions": true
+    },
+    {
+      "id": "0b11b787-2659-4e62-bab7-630601094ee8",
+      "title": "Breaking In",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "breaking-in",
+      "has_reactions": false
+    },
+    {
+      "id": "735c70ef-9027-4e71-9784-70249ad334d2",
+      "title": "Dances with Wolves",
+      "release_year": 1990,
+      "studio_label": "Tig Productions",
+      "slug": "dances-with-wolves",
+      "has_reactions": true
+    },
+    {
+      "id": "8bff3b8a-570a-4e8c-971f-8128e5ba2b86",
+      "title": "Buried on Sunday",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "buried-on-sunday",
+      "has_reactions": false
+    },
+    {
+      "id": "372f6f6d-c3ec-421f-86ab-81529bc242ec",
+      "title": "Leaving Normal",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "leaving-normal",
+      "has_reactions": false
+    },
+    {
+      "id": "55e2d152-3577-4b32-9103-283d14d249f8",
+      "title": "Split Images",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "split-images",
+      "has_reactions": false
+    },
+    {
+      "id": "7f6b53ca-f185-4638-bfa1-5320cd975d0d",
+      "title": "Hero",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "hero",
+      "has_reactions": false
+    },
+    {
+      "id": "f7e9365b-55f6-4709-841b-f90a30c59404",
+      "title": "My Cousin Vinny",
+      "release_year": 1992,
+      "studio_label": "Palo Vista Productions",
+      "slug": "my-cousin-vinny",
+      "has_reactions": true
+    },
+    {
+      "id": "af106598-64f2-4442-a699-eee0c6a81949",
+      "title": "Money for Nothing",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "money-for-nothing",
+      "has_reactions": false
+    },
+    {
+      "id": "54bbfe37-db01-4f89-a254-d2a9a1e0ba5a",
+      "title": "Devil in a Blue Dress",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "devil-in-a-blue-dress",
+      "has_reactions": false
+    },
+    {
+      "id": "ce8b9c7e-8001-460f-8e9c-1ec917dc152e",
+      "title": "Cutthroat Island",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "cutthroat-island",
+      "has_reactions": false
+    },
+    {
+      "id": "4a4b30bb-445e-4374-a23c-922fe21172c5",
+      "title": "The Sweet Hereafter",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-sweet-hereafter",
+      "has_reactions": false
+    },
+    {
+      "id": "8b530167-1df4-4c3f-87cd-73fb02d87700",
+      "title": "A Life Less Ordinary",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-life-less-ordinary",
+      "has_reactions": false
+    },
+    {
+      "id": "50a8fe61-dd45-49be-9e96-432415ddd412",
+      "title": "Strip Search",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "strip-search",
+      "has_reactions": false
+    },
+    {
+      "id": "0e08522c-b97f-431d-8bdc-8b8ee89a6e98",
+      "title": "Pale Saints",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pale-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "56c2e988-c515-4648-97df-02f773ccf263",
+      "title": "Love and Death on Long Island",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "love-and-death-on-long-island",
+      "has_reactions": false
+    },
+    {
+      "id": "9ac1dd49-61b5-4066-9269-7db42b1ac472",
+      "title": "Jerry and Tom",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "jerry-and-tom",
+      "has_reactions": false
+    },
+    {
+      "id": "a644e62e-5d8b-4688-a359-a9d733fb5dcf",
+      "title": "The Mask of Zorro",
+      "release_year": 1998,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-mask-of-zorro",
+      "has_reactions": true
+    },
+    {
+      "id": "da751ff1-075d-45ea-aa0e-87bd9c06d1e4",
+      "title": "Mystery, Alaska",
+      "release_year": 1999,
+      "studio_label": "Baldwin/Cohen Productions",
+      "slug": "mystery-alaska",
+      "has_reactions": true
+    },
+    {
+      "id": "0aeaa2fc-8254-4be0-be62-7aec7195156b",
+      "title": "Jacob Two Two Meets the Hooded Fang",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "jacob-two-two-meets-the-hooded-fang",
+      "has_reactions": false
+    },
+    {
+      "id": "77526cbc-64ac-4084-936f-0da7e9de4e47",
+      "title": "Touched",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "touched",
+      "has_reactions": false
+    },
+    {
+      "id": "69df57c5-c329-4ae5-a749-60f79691be4c",
+      "title": "The Art of War",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "efb7737d-1714-4d7c-bdf2-bf85d030113f",
+      "title": "The Golden Spiders: A Nero Wolfe Mystery",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-golden-spiders-a-nero-wolfe-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "95a08025-bd05-4a3d-811a-dc2cd665af43",
+      "title": "On Their Knees",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "on-their-knees",
+      "has_reactions": false
+    },
+    {
+      "id": "09d76aa4-184e-4499-865b-3467a0f8cd03",
+      "title": "Varian's War",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "varian-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "d6da9fb0-6e3c-496e-9627-f270ff85ff78",
+      "title": "Bartleby",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "bartleby",
+      "has_reactions": false
+    },
+    {
+      "id": "07f367d2-3055-4195-a183-f09ad4ea4435",
+      "title": "Crossed Over",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "crossed-over",
+      "has_reactions": false
+    },
+    {
+      "id": "0490f007-7a7e-462d-9e0b-386f83687f67",
+      "title": "Hostage",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hostage",
+      "has_reactions": false
+    },
+    {
+      "id": "1d28ac07-afdc-4ce2-98db-3d831e6337f4",
+      "title": "Owning Mahowny",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "owning-mahowny",
+      "has_reactions": false
+    },
+    {
+      "id": "f2c81d6f-0797-4488-8b1c-ee9d08dd1b1a",
+      "title": "Camp Hollywood",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "camp-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "968844f5-8e9b-4338-a4aa-656a809238bd",
+      "title": "White Coats",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "white-coats",
+      "has_reactions": false
+    },
+    {
+      "id": "824b948e-2dd1-4345-9040-14d631c80cfa",
+      "title": "Sugar",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "sugar",
+      "has_reactions": false
+    },
+    {
+      "id": "34e4bc86-9ffa-40f7-939f-10196476aed3",
+      "title": "Being Julia",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "being-julia",
+      "has_reactions": false
+    },
+    {
+      "id": "dae4cd15-8db8-4156-ac01-f18e7924c44d",
+      "title": "The Hunt for the BTK Killer",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-hunt-for-the-btk-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "2ce46a71-8519-4c07-876c-85c8a17c1578",
+      "title": "Where the Truth Lies",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "where-the-truth-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "5a547cc7-cc81-421e-947b-63a43b5b821e",
+      "title": "Heavens Fall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "heavens-fall",
+      "has_reactions": false
+    },
+    {
+      "id": "d752b7b0-076c-4732-8e24-30fd0ea0c574",
+      "title": "Blindness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "blindness",
+      "has_reactions": false
+    },
+    {
+      "id": "cd08b359-67fa-43e6-8089-6f67f90f47e0",
+      "title": "The Grift",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-grift",
+      "has_reactions": false
+    },
+    {
+      "id": "5b1ed85d-8a12-4c8e-9dd6-d77258fa905f",
+      "title": "Casino Jack",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "casino-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "69297044-e1a6-451a-a242-57161b57e5ba",
+      "title": "Barney's Version",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "barney-s-version",
+      "has_reactions": false
+    }
+  ]
+}

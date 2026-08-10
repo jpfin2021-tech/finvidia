@@ -1,0 +1,32 @@
+{
+  "id": "c8ddefa5-1d08-4c40-894f-c45404d9c8ba",
+  "name": "Skandar Keynes",
+  "slug": "skandar-keynes",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pIdgY16c6AzmCD31pXlCR9SjLlM.jpg",
+  "filmography": [
+    {
+      "id": "54483173-48a3-4bcd-9015-868ddee72060",
+      "title": "Ferrari",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "ferrari",
+      "has_reactions": false
+    },
+    {
+      "id": "daa6ccaf-02f1-49bb-842e-35508cfa0d03",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "release_year": 2005,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+      "has_reactions": true
+    },
+    {
+      "id": "451dbfe4-50f1-4b05-a41d-4e2592a27761",
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "release_year": 2008,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-chronicles-of-narnia-prince-caspian",
+      "has_reactions": false
+    }
+  ]
+}

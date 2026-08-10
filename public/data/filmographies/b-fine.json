@@ -1,0 +1,32 @@
+{
+  "id": "89a725c6-4c98-43c4-aaaa-ec9c28dec3c8",
+  "name": "B-Fine",
+  "slug": "b-fine",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7cImxpIcz3FfUTWuXCTdFXwL0OB.jpg",
+  "filmography": [
+    {
+      "id": "a8693d91-b45a-425c-af42-059717a8f7a7",
+      "title": "Krush Groove",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "krush-groove",
+      "has_reactions": false
+    },
+    {
+      "id": "d5d20555-44ca-4b67-97a7-cb7049117441",
+      "title": "House Party",
+      "release_year": 1990,
+      "studio_label": "New Line Cinema",
+      "slug": "house-party",
+      "has_reactions": true
+    },
+    {
+      "id": "b51cdbbe-76ca-477b-9d45-837b9cbe9bfc",
+      "title": "House Party 2",
+      "release_year": 1991,
+      "studio_label": "New Line Cinema",
+      "slug": "house-party-2",
+      "has_reactions": true
+    }
+  ]
+}

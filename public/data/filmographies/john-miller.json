@@ -1,0 +1,32 @@
+{
+  "id": "5a72bbcb-ae27-48fe-94d0-163d03e6b99a",
+  "name": "John Miller",
+  "slug": "john-miller",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "7d3bed90-12f8-48c0-843b-8f427cbb365a",
+      "title": "Hot Moves",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "hot-moves",
+      "has_reactions": false
+    },
+    {
+      "id": "bd439f61-a9d3-423a-a036-110738817b38",
+      "title": "Honor and Glory",
+      "release_year": 1992,
+      "studio_label": "Rocket Pictures",
+      "slug": "honor-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "d8ea8d86-e94e-40b6-958b-4ea0cba231ee",
+      "title": "Undefeatable",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "undefeatable",
+      "has_reactions": false
+    }
+  ]
+}

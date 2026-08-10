@@ -1,0 +1,440 @@
+{
+  "id": "f0fc8c15-0bfe-4510-af76-0eaa0e7aa334",
+  "name": "John Lynch",
+  "slug": "john-lynch",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "2556f0d5-622a-4719-9ea3-eb13cc775793",
+      "title": "Cal",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "cal",
+      "has_reactions": false
+    },
+    {
+      "id": "139fce1a-739b-42e9-a4c1-78f1a6ac56e9",
+      "title": "Waiting Tables",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "waiting-tables",
+      "has_reactions": false
+    },
+    {
+      "id": "1147d9a9-985f-40d7-be0f-b6c62f84f7d9",
+      "title": "James Joyce's 'Ulysses'",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "james-joyce-s-ulysses",
+      "has_reactions": false
+    },
+    {
+      "id": "48911a6d-aa84-42c4-97b1-354c334c3e2b",
+      "title": "Who Bombed Birmingham?",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "who-bombed-birmingham",
+      "has_reactions": false
+    },
+    {
+      "id": "6196a8dc-5980-434e-ab6b-699991a1445a",
+      "title": "Hardware",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "hardware",
+      "has_reactions": false
+    },
+    {
+      "id": "fd1c40f2-bb0c-4d87-b519-c6b3fece707b",
+      "title": "1871",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "1871",
+      "has_reactions": false
+    },
+    {
+      "id": "a73d7cbd-d9ee-44f9-8f30-79aa9a746426",
+      "title": "Out of the Blue",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "out-of-the-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "745354d5-4e7d-4685-b3c5-2b14f676cc73",
+      "title": "Edward II",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "edward-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "25b50ba3-46d1-445e-8d9d-06d0d6318003",
+      "title": "Monkey Boy",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "monkey-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "3f0e913f-efd7-473d-b9d9-1c44c7a6d181",
+      "title": "The Railway Station Man",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-railway-station-man",
+      "has_reactions": false
+    },
+    {
+      "id": "bbc62772-292f-4345-859a-af874a6be4e5",
+      "title": "In the Name of the Father",
+      "release_year": 1993,
+      "studio_label": "Hell's Kitchen",
+      "slug": "in-the-name-of-the-father",
+      "has_reactions": true
+    },
+    {
+      "id": "9c47db33-e00d-4e2d-8d76-d7e7967179d6",
+      "title": "The Secret Garden",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-secret-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "46e7bb8c-2c40-4208-acc4-e353dd6b4628",
+      "title": "The Secret of Roan Inish",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-secret-of-roan-inish",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd47100-1583-4935-801a-1b096041a8c5",
+      "title": "Princess Caraboo",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "princess-caraboo",
+      "has_reactions": false
+    },
+    {
+      "id": "25fa302b-2e4a-47ae-ac6b-6c92beab11c7",
+      "title": "Words Upon the Window Pane",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "words-upon-the-window-pane",
+      "has_reactions": false
+    },
+    {
+      "id": "e6cc0f08-91dc-4c29-9a56-0aa57ae4db76",
+      "title": "Angel Baby",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "angel-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "75dc23f3-d4a9-4c9e-aff7-6075bd1c063a",
+      "title": "Some Mother's Son",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "some-mother-s-son",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff8525a-9fe2-481c-b857-768e2edc6c13",
+      "title": "Nothing Personal",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "nothing-personal",
+      "has_reactions": false
+    },
+    {
+      "id": "616d1780-197b-47e1-b966-7960dbbaecf9",
+      "title": "Moll Flanders",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "moll-flanders",
+      "has_reactions": false
+    },
+    {
+      "id": "b7b853ee-fa04-4f74-8a08-ce470af0b5e5",
+      "title": "This Is the Sea",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "this-is-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "82d82a2b-e565-46e6-9a19-66e4be718bf2",
+      "title": "The Quarry",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-quarry",
+      "has_reactions": false
+    },
+    {
+      "id": "502f2a9c-dc9f-41b2-89b5-08b0abe63151",
+      "title": "Sliding Doors",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "sliding-doors",
+      "has_reactions": false
+    },
+    {
+      "id": "eae7c9c8-996d-4e43-977c-38ff2068b077",
+      "title": "Best",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "best",
+      "has_reactions": false
+    },
+    {
+      "id": "ab465126-d23d-4e24-bf43-e72ab8b14902",
+      "title": "The Adventures of Young Indiana Jones: Love's Sweet Song",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-young-indiana-jones-love-s-sweet-song",
+      "has_reactions": false
+    },
+    {
+      "id": "704f4263-b453-4a6f-84a6-f6f1bb8461b8",
+      "title": "The Seventh Stream",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-seventh-stream",
+      "has_reactions": false
+    },
+    {
+      "id": "415589ed-c2ad-41c2-90a9-aa30e8f1bc7a",
+      "title": "Puckoon",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "puckoon",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad01bb4-1257-463e-a37b-de5c24910706",
+      "title": "Evelyn",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "evelyn",
+      "has_reactions": false
+    },
+    {
+      "id": "e2d81ebb-0ab3-4793-8e65-2b4d16da4069",
+      "title": "Alien Hunter",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "alien-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "3eab6a07-fcf8-4097-b085-8f7300f0b894",
+      "title": "Conspiracy of Silence",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "conspiracy-of-silence",
+      "has_reactions": false
+    },
+    {
+      "id": "718180cd-467e-48e1-849f-44ad3b7c9b00",
+      "title": "Isolation",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "isolation",
+      "has_reactions": false
+    },
+    {
+      "id": "b9f19edb-8b38-48de-be92-739044a0b4f3",
+      "title": "Lassie",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "lassie",
+      "has_reactions": false
+    },
+    {
+      "id": "35ee2f78-6125-4546-a878-aaa469676ad8",
+      "title": "The Yellow House",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-yellow-house",
+      "has_reactions": false
+    },
+    {
+      "id": "a66f19e3-dedb-40a6-8e95-e1ff49564d92",
+      "title": "In Tranzit",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "in-tranzit",
+      "has_reactions": false
+    },
+    {
+      "id": "d810efad-4e14-49d5-9c32-1bed3772c852",
+      "title": "The Tournament",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-tournament",
+      "has_reactions": false
+    },
+    {
+      "id": "c0e20b4e-b557-43cf-b026-253f60efb5cb",
+      "title": "Holy Water",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "holy-water",
+      "has_reactions": false
+    },
+    {
+      "id": "bdc218a4-fb70-436f-a887-6e389ed96df0",
+      "title": "13Hrs",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "13hrs",
+      "has_reactions": false
+    },
+    {
+      "id": "319e54a9-80d8-47fc-87f5-dc55b803966e",
+      "title": "Black Death",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "black-death",
+      "has_reactions": false
+    },
+    {
+      "id": "29383eb4-1485-48be-a675-e2422cbf92b4",
+      "title": "Mo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mo",
+      "has_reactions": false
+    },
+    {
+      "id": "bf083beb-ad56-4ca6-90dc-30d2b38b0d7e",
+      "title": "Night of the Hunt",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "5c9d6a34-053e-4dcf-9035-68cd5d2b3877",
+      "title": "Ghosted",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "ghosted",
+      "has_reactions": false
+    },
+    {
+      "id": "512cee09-7469-42e5-8d4c-ac75451670bb",
+      "title": "Private Peaceful",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "private-peaceful",
+      "has_reactions": false
+    },
+    {
+      "id": "cefa936b-f932-4e78-b741-b2a7ea85208e",
+      "title": "M\u00f6bius",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "m-bius",
+      "has_reactions": false
+    },
+    {
+      "id": "04e88352-d6a4-43a9-b615-e006314f4c5e",
+      "title": "Scintilla",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "scintilla",
+      "has_reactions": false
+    },
+    {
+      "id": "9f3e2b87-7cac-441d-afca-e4249bd7ce8e",
+      "title": "Alleycats",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "alleycats",
+      "has_reactions": false
+    },
+    {
+      "id": "3f59aa3c-bb23-40a7-9db9-67cd2e3fdf4f",
+      "title": "Detour",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "detour",
+      "has_reactions": false
+    },
+    {
+      "id": "a7def907-b234-4583-8801-e88f8ce492e6",
+      "title": "Upstream",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "upstream",
+      "has_reactions": false
+    },
+    {
+      "id": "5a6ad3b6-175d-4dfd-a473-9835a0eb30f3",
+      "title": "Number One",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "number-one",
+      "has_reactions": false
+    },
+    {
+      "id": "3e6301f1-0e6b-4f17-b331-5091d8258a0f",
+      "title": "Kissing Candice",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "kissing-candice",
+      "has_reactions": false
+    },
+    {
+      "id": "d3674187-e109-41a4-a45b-853169e6ce68",
+      "title": "Caravan",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "caravan",
+      "has_reactions": false
+    },
+    {
+      "id": "ce1f9fea-e047-4718-8a60-a251a7c850b3",
+      "title": "The Banishing",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-banishing",
+      "has_reactions": false
+    },
+    {
+      "id": "aa873e76-a8bd-450b-aeda-f7f448c9c19d",
+      "title": "Boys from County Hell",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "boys-from-county-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "3c40cdf4-6e57-4f95-9c2c-95c34a8c0941",
+      "title": "Starting Tomorrow I'll Get Up Late",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "starting-tomorrow-i-ll-get-up-late",
+      "has_reactions": false
+    },
+    {
+      "id": "d915dd2c-a80a-49dc-8f6d-222126ddb779",
+      "title": "The Watchers",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-watchers",
+      "has_reactions": false
+    },
+    {
+      "id": "5f1edd01-acb4-45c9-abe0-03437e1a4473",
+      "title": "Sew Torn",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "sew-torn",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": "01e7f83d-7269-46d4-a2a4-5b97d7b5c2e1",
+  "name": "Bob Bergen",
+  "slug": "bob-bergen",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg",
+  "filmography": [
+    {
+      "id": "1ab8b7fd-f71e-44b5-bdf6-34f574828f49",
+      "title": "Gremlins",
+      "release_year": 1984,
+      "studio_label": "Amblin Entertainment",
+      "slug": "gremlins",
+      "has_reactions": true
+    },
+    {
+      "id": "8a849cd7-13b3-4658-835a-b238c446f074",
+      "title": "Total Recall",
+      "release_year": 1990,
+      "studio_label": "Carolco Pictures",
+      "slug": "total-recall",
+      "has_reactions": true
+    },
+    {
+      "id": "5808b9af-87be-4d5c-8ee7-3fa752ce9948",
+      "title": "Problem Child",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "problem-child",
+      "has_reactions": false
+    },
+    {
+      "id": "a48d6d00-9972-44c2-8750-9dda1f2653cb",
+      "title": "Shout",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "shout",
+      "has_reactions": false
+    },
+    {
+      "id": "c36503bf-a252-4143-9299-696f41499d60",
+      "title": "Look Who's Talking Now!",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-now",
+      "has_reactions": false
+    },
+    {
+      "id": "a74a3e71-6956-4830-a46b-33f3f202ca9b",
+      "title": "Carrotblanca",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "carrotblanca",
+      "has_reactions": false
+    },
+    {
+      "id": "e06cdced-6545-471c-bf68-51041ee68266",
+      "title": "Dunston Checks In",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "dunston-checks-in",
+      "has_reactions": false
+    },
+    {
+      "id": "0b965081-f9b3-4284-9a51-a90ed569f45b",
+      "title": "The Hunchback of Notre Dame",
+      "release_year": 1996,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-hunchback-of-notre-dame",
+      "has_reactions": true
+    },
+    {
+      "id": "bb29c7be-1849-43df-a0ee-f1c5305883d7",
+      "title": "Space Jam",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Family Entertainment",
+      "slug": "space-jam",
+      "has_reactions": true
+    },
+    {
+      "id": "ed6c0db9-916b-4b43-8337-83ccd7947794",
+      "title": "Cats Don't Dance",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "cats-don-t-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "2adba918-8b39-44d0-af08-dbd18d33fe32",
+      "title": "A Bug's Life",
+      "release_year": 1998,
+      "studio_label": "Pixar",
+      "slug": "a-bug-s-life",
+      "has_reactions": true
+    },
+    {
+      "id": "33b8c029-011a-4fa5-9e6b-66e4137e1259",
+      "title": "The Iron Giant",
+      "release_year": 1999,
+      "studio_label": "Warner Bros. Feature Animation",
+      "slug": "the-iron-giant",
+      "has_reactions": true
+    },
+    {
+      "id": "81e32e7b-c282-4c7a-a2a0-581a18c58d32",
+      "title": "Toy Story 2",
+      "release_year": 1999,
+      "studio_label": "Pixar",
+      "slug": "toy-story-2",
+      "has_reactions": true
+    },
+    {
+      "id": "99ca7bda-d539-40fd-b967-776761b8c1f8",
+      "title": "Tarzan",
+      "release_year": 1999,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "tarzan",
+      "has_reactions": false
+    },
+    {
+      "id": "c2f30101-7ddc-4e11-ab50-8d5f854b7955",
+      "title": "The Emperor's New Groove",
+      "release_year": 2000,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "the-emperor-s-new-groove",
+      "has_reactions": true
+    },
+    {
+      "id": "0b1fd50e-b097-4197-9a7c-b37515be44a1",
+      "title": "Monsters, Inc.",
+      "release_year": 2001,
+      "studio_label": "Pixar",
+      "slug": "monsters-inc",
+      "has_reactions": true
+    },
+    {
+      "id": "1e0b3ec0-6206-40f0-97ac-3887bb837020",
+      "title": "Lilo & Stitch",
+      "release_year": 2002,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "lilo-stitch",
+      "has_reactions": true
+    },
+    {
+      "id": "9a2559ed-9729-4ffe-a577-7b8d965c2431",
+      "title": "Spider-Man: The Return of the Green Goblin",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spider-man-the-return-of-the-green-goblin",
+      "has_reactions": false
+    },
+    {
+      "id": "464b4540-0b56-4be6-8acb-1381f966c4e3",
+      "title": "Finding Nemo",
+      "release_year": 2003,
+      "studio_label": "Pixar",
+      "slug": "finding-nemo",
+      "has_reactions": true
+    },
+    {
+      "id": "bdb17507-9962-4edf-9221-697fc005b7e3",
+      "title": "Looney Tunes: Back in Action",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "looney-tunes-back-in-action",
+      "has_reactions": false
+    },
+    {
+      "id": "8055aeac-3fed-40bc-a8ba-f39273268dd1",
+      "title": "Kronk's New Groove",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kronk-s-new-groove",
+      "has_reactions": false
+    },
+    {
+      "id": "c3d0d576-df5a-4a57-b15a-54413e76c050",
+      "title": "Ice Age: The Meltdown",
+      "release_year": 2006,
+      "studio_label": "20th Century Fox Animation",
+      "slug": "ice-age-the-meltdown",
+      "has_reactions": true
+    },
+    {
+      "id": "c8e27c9a-b2d6-4bf2-b61f-cedee8fde5fc",
+      "title": "Cars",
+      "release_year": 2006,
+      "studio_label": "Pixar",
+      "slug": "cars",
+      "has_reactions": true
+    },
+    {
+      "id": "ed774e53-ea6c-4448-8801-644687a2591c",
+      "title": "The Robot Chicken: Star Wars",
+      "release_year": 2007,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-robot-chicken-star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "38c976a2-9791-4b9a-880b-00dd23863466",
+      "title": "Happily N'Ever After",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "happily-n-ever-after",
+      "has_reactions": false
+    },
+    {
+      "id": "80b493eb-5f3c-47c8-87cb-718fbec36456",
+      "title": "The Robot Chicken: Star Wars Episode II",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-star-wars-episode-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "2849d567-9fec-4ebd-9a4a-a898fe6ead57",
+      "title": "Tinker Bell",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff5aed4-acd4-478a-87c2-e93868230eff",
+      "title": "WALL\u00b7E",
+      "release_year": 2008,
+      "studio_label": "Pixar",
+      "slug": "wall-e",
+      "has_reactions": true
+    },
+    {
+      "id": "e9829cf9-46ea-4c92-b5bc-38c49a56e705",
+      "title": "Horton Hears a Who!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "horton-hears-a-who",
+      "has_reactions": false
+    },
+    {
+      "id": "ca0ab7cf-11ca-48f3-86fa-1dc728cf980d",
+      "title": "Mel Blanc: The Man of a Thousand Voices",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mel-blanc-the-man-of-a-thousand-voices",
+      "has_reactions": false
+    },
+    {
+      "id": "58f4fab0-a01f-4481-9e06-7e6b7148a254",
+      "title": "Tinker Bell and the Lost Treasure",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell-and-the-lost-treasure",
+      "has_reactions": false
+    },
+    {
+      "id": "368b3802-8424-436d-b19a-194f7c0d3058",
+      "title": "Up",
+      "release_year": 2009,
+      "studio_label": "Pixar",
+      "slug": "up",
+      "has_reactions": true
+    },
+    {
+      "id": "8bf80983-024d-4c7a-bf40-1c49449c9b6b",
+      "title": "Cloudy with a Chance of Meatballs",
+      "release_year": 2009,
+      "studio_label": "Sony Pictures Animation",
+      "slug": "cloudy-with-a-chance-of-meatballs",
+      "has_reactions": true
+    },
+    {
+      "id": "08dec03e-07d3-427e-a66d-ff73e663b5eb",
+      "title": "The Robot Chicken: Star Wars Episode III",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-star-wars-episode-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "822daf21-397c-40f2-b4df-9e33d4d6dc65",
+      "title": "Tangled",
+      "release_year": 2010,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "tangled",
+      "has_reactions": true
+    },
+    {
+      "id": "16856908-11db-4b20-86c0-ae3311029172",
+      "title": "Air Mater",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "air-mater",
+      "has_reactions": false
+    },
+    {
+      "id": "a198f880-480b-406f-877e-de33ae7f17b2",
+      "title": "Foodfight!",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "foodfight",
+      "has_reactions": false
+    },
+    {
+      "id": "540d3694-ae15-4695-8792-31a299af71f5",
+      "title": "The Lorax",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-lorax",
+      "has_reactions": false
+    },
+    {
+      "id": "75d6592b-bfb2-4228-90df-a4c7f73318e4",
+      "title": "Wreck-It Ralph",
+      "release_year": 2012,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "wreck-it-ralph",
+      "has_reactions": true
+    },
+    {
+      "id": "62c976f5-0fb7-4031-9cbc-7afd78053d1b",
+      "title": "Monsters University",
+      "release_year": 2013,
+      "studio_label": "Pixar",
+      "slug": "monsters-university",
+      "has_reactions": true
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "62d75d0c-7c60-48fa-baf9-a518144c7cfc",
+      "title": "Minions",
+      "release_year": 2015,
+      "studio_label": "Illumination",
+      "slug": "minions",
+      "has_reactions": true
+    },
+    {
+      "id": "0b3729cb-2254-4500-8212-ae01fccc6086",
+      "title": "Sing",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "sing",
+      "has_reactions": false
+    },
+    {
+      "id": "6a5cdeb4-1b23-402f-b914-b4d8b46d2576",
+      "title": "The Emoji Movie",
+      "release_year": 2017,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-emoji-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "61d64bbe-cff6-45a4-a7cb-ef0226ec1618",
+      "title": "Despicable Me 3",
+      "release_year": 2017,
+      "studio_label": "Illumination",
+      "slug": "despicable-me-3",
+      "has_reactions": true
+    },
+    {
+      "id": "8a3d676e-a1c5-4b19-b51d-6477a40b8903",
+      "title": "Smurfs: The Lost Village",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "smurfs-the-lost-village",
+      "has_reactions": false
+    },
+    {
+      "id": "bd3ab90b-3d6b-4ee8-a57b-eb1af93c6d92",
+      "title": "Seal Team",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "seal-team",
+      "has_reactions": false
+    },
+    {
+      "id": "881e27ef-4be2-4a94-8db2-853ff833cace",
+      "title": "Space Jam: A New Legacy",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "space-jam-a-new-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "184f3f38-645a-4408-b956-236d6f7635e3",
+      "title": "Minions: The Rise of Gru",
+      "release_year": 2022,
+      "studio_label": "Universal Pictures",
+      "slug": "minions-the-rise-of-gru",
+      "has_reactions": true
+    },
+    {
+      "id": "3ab4f0b9-7bee-45cc-b7ed-0fae353a7a0e",
+      "title": "The Little Guy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-little-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "87436741-1652-414d-a1ff-7dd5e87d175b",
+      "title": "In Your Dreams",
+      "release_year": 2025,
+      "studio_label": "Kuku Studios",
+      "slug": "in-your-dreams",
+      "has_reactions": true
+    }
+  ]
+}

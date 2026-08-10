@@ -1,0 +1,40 @@
+{
+  "id": "83c119a8-3d44-490d-813b-b712c0f1ef79",
+  "name": "Jackie Swanson",
+  "slug": "jackie-swanson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/g1KOHjxel96XRpARmCZKiIMGwkK.jpg",
+  "filmography": [
+    {
+      "id": "970c585d-79dc-4095-b400-f7d3808c9b66",
+      "title": "Lethal Weapon",
+      "release_year": 1987,
+      "studio_label": "Silver Pictures",
+      "slug": "lethal-weapon",
+      "has_reactions": true
+    },
+    {
+      "id": "dae1b92e-2d67-45a4-9616-5d9b6f97702b",
+      "title": "Oblivion",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "oblivion",
+      "has_reactions": false
+    },
+    {
+      "id": "3c563256-d8a3-49ea-819b-02c24d8ee805",
+      "title": "Oblivion 2: Backlash",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "oblivion-2-backlash",
+      "has_reactions": false
+    },
+    {
+      "id": "65107f19-4d72-405d-a331-c28fe87d000e",
+      "title": "Charlie Wilson's War",
+      "release_year": 2007,
+      "studio_label": "Universal Pictures",
+      "slug": "charlie-wilson-s-war",
+      "has_reactions": true
+    }
+  ]
+}

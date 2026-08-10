@@ -1,0 +1,40 @@
+{
+  "id": "8cd92af3-536d-443f-9020-9f292ac02929",
+  "name": "Jake Lloyd",
+  "slug": "jake-lloyd",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tp5PRiy8Ip8Vs70pUY1jeHbk2wH.jpg",
+  "filmography": [
+    {
+      "id": "8efbb5c5-5170-42f9-a84a-82ccd89dd7d6",
+      "title": "Jingle All the Way",
+      "release_year": 1996,
+      "studio_label": "1492 Pictures",
+      "slug": "jingle-all-the-way",
+      "has_reactions": true
+    },
+    {
+      "id": "ea8288f0-11d1-4691-8945-c6a2faead162",
+      "title": "Virtual Obsession",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "virtual-obsession",
+      "has_reactions": false
+    },
+    {
+      "id": "09dc5ec0-fa8e-43f2-9fbe-3f0e05963b3b",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "release_year": 1999,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-i-the-phantom-menace",
+      "has_reactions": true
+    },
+    {
+      "id": "96cd733d-b4d8-4e99-b09d-236fc13a5186",
+      "title": "Madison",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "madison",
+      "has_reactions": false
+    }
+  ]
+}

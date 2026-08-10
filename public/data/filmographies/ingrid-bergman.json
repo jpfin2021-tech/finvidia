@@ -1,0 +1,656 @@
+{
+  "id": "28d7b4a9-15c6-4767-bfb4-9a1bd194f052",
+  "name": "Ingrid Bergman",
+  "slug": "ingrid-bergman",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg",
+  "filmography": [
+    {
+      "id": "79c5022b-3ecb-47f2-a8a5-88ae8566ddee",
+      "title": "Walpurgis Night",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "walpurgis-night",
+      "has_reactions": false
+    },
+    {
+      "id": "9bb21e9e-db2f-44b3-9a4c-3cf59be2835b",
+      "title": "The Count of the Old Town",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "the-count-of-the-old-town",
+      "has_reactions": false
+    },
+    {
+      "id": "9f482b10-3a40-4de8-933c-99e5cab7ac05",
+      "title": "Ocean Breakers",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "ocean-breakers",
+      "has_reactions": false
+    },
+    {
+      "id": "d1561b0d-0710-42c5-b8c8-727d6fd91e69",
+      "title": "Swedenhielms",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "swedenhielms",
+      "has_reactions": false
+    },
+    {
+      "id": "d15d8d2e-023b-43f8-b6c6-a3993cb72075",
+      "title": "On the Sunny Side",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "on-the-sunny-side",
+      "has_reactions": false
+    },
+    {
+      "id": "cbf4d210-5609-4c46-8fd1-d49bd6f260db",
+      "title": "Intermezzo",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "intermezzo",
+      "has_reactions": false
+    },
+    {
+      "id": "deb2a29b-e72c-4f08-b4c9-3836029abba5",
+      "title": "Cat Across the Road",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "cat-across-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "a2def095-eba0-4ec5-ba20-b717b27f8071",
+      "title": "A Woman's Face",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "a-woman-s-face",
+      "has_reactions": false
+    },
+    {
+      "id": "89239287-af89-499d-a595-e0b232e4f5f8",
+      "title": "Dollar",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "dollar",
+      "has_reactions": false
+    },
+    {
+      "id": "c36882c4-b183-431c-b265-a5491cebbbaa",
+      "title": "The Four Companions",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-four-companions",
+      "has_reactions": false
+    },
+    {
+      "id": "22a14816-4488-4e62-ba29-abd28dac5780",
+      "title": "Ingrid Bergman, \"Intermezzo\" Screen Test",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "ingrid-bergman-intermezzo-screen-test",
+      "has_reactions": false
+    },
+    {
+      "id": "7b0688d9-bb30-46ab-832a-cd27241995cd",
+      "title": "Only One Night",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "only-one-night",
+      "has_reactions": false
+    },
+    {
+      "id": "868719b2-c407-4aaa-9117-c48c1568d197",
+      "title": "Intermezzo: A Love Story",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "intermezzo-a-love-story",
+      "has_reactions": false
+    },
+    {
+      "id": "6072385e-1e4d-4735-8f5b-a12d9f88ebc5",
+      "title": "June Night",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "june-night",
+      "has_reactions": false
+    },
+    {
+      "id": "52e4276c-44be-45a4-a433-43b0711ca02e",
+      "title": "Adam Had Four Sons",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "adam-had-four-sons",
+      "has_reactions": false
+    },
+    {
+      "id": "5a132c85-32da-4c43-b4dd-2c63032d75f2",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "dr-jekyll-and-mr-hyde",
+      "has_reactions": false
+    },
+    {
+      "id": "c2b1c097-5b9d-43e0-9e64-a4238ce7e217",
+      "title": "Rage in Heaven",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "rage-in-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "2d314b80-0844-44dd-a332-f7107428e703",
+      "title": "Casablanca",
+      "release_year": 1943,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "casablanca",
+      "has_reactions": true
+    },
+    {
+      "id": "c29a709d-83e1-4891-9c1d-6b5cf1386b5f",
+      "title": "Swedes in America",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "swedes-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "cbedf0e3-e99f-4b1c-b8f6-37c34a41b947",
+      "title": "For Whom the Bell Tolls",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "for-whom-the-bell-tolls",
+      "has_reactions": false
+    },
+    {
+      "id": "e8922cae-94a6-4fc2-b5ff-e784550ec38f",
+      "title": "Breakdowns of 1944",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "breakdowns-of-1944",
+      "has_reactions": false
+    },
+    {
+      "id": "cf83c494-4760-4149-85a9-ee419a306899",
+      "title": "Gaslight",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "gaslight",
+      "has_reactions": false
+    },
+    {
+      "id": "009d2aaf-878c-4990-8bf8-e695bfed4cb2",
+      "title": "Saratoga Trunk",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "saratoga-trunk",
+      "has_reactions": false
+    },
+    {
+      "id": "bfe0bdbd-34c3-46b1-81a2-4c7132d1cd03",
+      "title": "The Bells of St. Mary's",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "the-bells-of-st-mary-s",
+      "has_reactions": false
+    },
+    {
+      "id": "e991bcfb-5a08-4f6d-9154-0698426b15d0",
+      "title": "Arch of Triumph",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "arch-of-triumph",
+      "has_reactions": false
+    },
+    {
+      "id": "1dcb51c3-d943-414d-8466-afd06b02704b",
+      "title": "Under Capricorn",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "under-capricorn",
+      "has_reactions": false
+    },
+    {
+      "id": "6e57054b-3a30-4739-ad77-2ebf3108bc21",
+      "title": "Stromboli",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "stromboli",
+      "has_reactions": false
+    },
+    {
+      "id": "b035e970-3ddc-4fd6-98a4-da016d705a52",
+      "title": "Santa Brigida",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "santa-brigida",
+      "has_reactions": false
+    },
+    {
+      "id": "518e5d4c-d5f5-4407-87df-1c1ffbe6eced",
+      "title": "Europa '51",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "europa-51",
+      "has_reactions": false
+    },
+    {
+      "id": "448d7460-ef6d-4f77-a6f9-3f743c903bd5",
+      "title": "Med Ingrid Bergman p\u00e5 Berns",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "med-ingrid-bergman-p-berns",
+      "has_reactions": false
+    },
+    {
+      "id": "0a8ee6c3-237b-452d-acb8-c8fd8f5f5cac",
+      "title": "We, the Women",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "we-the-women",
+      "has_reactions": false
+    },
+    {
+      "id": "4a3bf539-c375-463e-bbdd-872eeb107c51",
+      "title": "The Chicken",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-chicken",
+      "has_reactions": false
+    },
+    {
+      "id": "fd56a51d-1003-4379-9ee7-7904d9456637",
+      "title": "A Brief Encounter with the Rossellini Family",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "a-brief-encounter-with-the-rossellini-family",
+      "has_reactions": false
+    },
+    {
+      "id": "70528bea-6fad-4264-b7df-a67916b44ace",
+      "title": "Fear",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "fear",
+      "has_reactions": false
+    },
+    {
+      "id": "3c7a5877-0610-4ff4-9721-55f925689228",
+      "title": "Joan of Arc at the Stake",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "joan-of-arc-at-the-stake",
+      "has_reactions": false
+    },
+    {
+      "id": "f835bdd0-3490-4086-9d76-8fd7ef25bb3f",
+      "title": "Journey to Italy",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "journey-to-italy",
+      "has_reactions": false
+    },
+    {
+      "id": "b4871dd4-201c-4b42-928a-102d3283e9b7",
+      "title": "Anastasia",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "anastasia",
+      "has_reactions": false
+    },
+    {
+      "id": "0a96b4c8-914f-47f6-9466-2ab761c00b95",
+      "title": "Elena and Her Men",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "elena-and-her-men",
+      "has_reactions": false
+    },
+    {
+      "id": "9b21e728-8714-4ca5-b568-4ade2e5df14d",
+      "title": "The Turn of the Screw",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-turn-of-the-screw",
+      "has_reactions": false
+    },
+    {
+      "id": "36959429-2b5a-49e8-b37d-e635a2dc3c62",
+      "title": "24 Hours in a Woman's Life",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "24-hours-in-a-woman-s-life",
+      "has_reactions": false
+    },
+    {
+      "id": "f03c0dde-8966-4dfa-91fa-a4dbdd6a8675",
+      "title": "Goodbye Again",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "goodbye-again",
+      "has_reactions": false
+    },
+    {
+      "id": "68bd10b7-e1ea-46bd-a25b-6d941cd9cb77",
+      "title": "Auguste",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "auguste",
+      "has_reactions": false
+    },
+    {
+      "id": "cfa38987-2148-44d9-8301-a43159b7be4b",
+      "title": "Hedda Gabler",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "hedda-gabler",
+      "has_reactions": false
+    },
+    {
+      "id": "a11a7ba0-a31c-497c-908e-2bb22360c473",
+      "title": "The Yellow Rolls-Royce",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-yellow-rolls-royce",
+      "has_reactions": false
+    },
+    {
+      "id": "f64295e0-160c-471f-b84f-cc13aa61913c",
+      "title": "The Visit",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-visit",
+      "has_reactions": false
+    },
+    {
+      "id": "580c9ff9-7c7e-46b0-8af9-1bd59d55099a",
+      "title": "Pappa Sandrew",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "pappa-sandrew",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c39966-d6cf-4556-99ec-16468476636e",
+      "title": "The Car That Became a Star",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-car-that-became-a-star",
+      "has_reactions": false
+    },
+    {
+      "id": "98e9ad62-b26f-4cb6-bebf-fa592b0a0824",
+      "title": "The Human Voice",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-human-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "ed006bdb-5d5a-4c9b-997a-c80f5acda056",
+      "title": "Stimulantia",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "stimulantia",
+      "has_reactions": false
+    },
+    {
+      "id": "b945e083-52fc-4526-ac30-814d83d9a8e4",
+      "title": "Cactus Flower",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "cactus-flower",
+      "has_reactions": false
+    },
+    {
+      "id": "c0e0f704-5fdd-48ba-b1a7-36b4f66d535b",
+      "title": "Langlois",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "langlois",
+      "has_reactions": false
+    },
+    {
+      "id": "7318c13d-def4-4e28-be22-fb1e13e7ec12",
+      "title": "A Walk in the Spring Rain",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "a-walk-in-the-spring-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "d843b88a-0cfe-4e1b-86ea-74f467a33a87",
+      "title": "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "from-the-mixed-up-files-of-mrs-basil-e-frankweiler",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fcc9bb-4416-4d49-816b-aba8d4821b94",
+      "title": "A Matter of Time",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "a-matter-of-time",
+      "has_reactions": false
+    },
+    {
+      "id": "abc5cd0b-6531-4068-9523-7a276d4c6796",
+      "title": "Ersatz",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "ersatz",
+      "has_reactions": false
+    },
+    {
+      "id": "28f29ec4-db8e-4ed8-9b6d-48c4110c38cb",
+      "title": "Autumn Sonata",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "autumn-sonata",
+      "has_reactions": false
+    },
+    {
+      "id": "be546179-7e7f-4ea9-97f5-3d45ba73c257",
+      "title": "Ingrid Bergman at the National Film Theatre",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ingrid-bergman-at-the-national-film-theatre",
+      "has_reactions": false
+    },
+    {
+      "id": "830cd37d-b41e-4acb-9983-bca0c0363e7c",
+      "title": "Dead Men Don't Wear Plaid",
+      "release_year": 1982,
+      "studio_label": "Universal Pictures",
+      "slug": "dead-men-don-t-wear-plaid",
+      "has_reactions": true
+    },
+    {
+      "id": "08cbc356-bbbb-4995-a015-7fc50cf789dd",
+      "title": "Gregory Peck: His Own Man",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "gregory-peck-his-own-man",
+      "has_reactions": false
+    },
+    {
+      "id": "31847631-9079-4c82-8a67-cc9ae595f83f",
+      "title": "Cary Grant: A Celebration of a Leading Man",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "cary-grant-a-celebration-of-a-leading-man",
+      "has_reactions": false
+    },
+    {
+      "id": "928fdc1f-a8be-4078-8ffc-212da83c8585",
+      "title": "You Must Remember This: A Tribute to 'Casablanca'",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "you-must-remember-this-a-tribute-to-casablanca",
+      "has_reactions": false
+    },
+    {
+      "id": "55412282-6056-42eb-bde6-353f66cd15c9",
+      "title": "Rossellini Through His Own Eyes",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "rossellini-through-his-own-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "8b0f8cb1-0902-4e4a-aa2b-50b3977d6575",
+      "title": "Minns ni?",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "minns-ni",
+      "has_reactions": false
+    },
+    {
+      "id": "60c222a4-defa-42f7-aba5-9df9ea2163c2",
+      "title": "That's Entertainment! III",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "that-s-entertainment-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "a4d825fa-e161-42b1-9716-b70ebd0ad734",
+      "title": "Orson Welles: The One-Man Band",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "orson-welles-the-one-man-band",
+      "has_reactions": false
+    },
+    {
+      "id": "14115d3c-804b-4d4c-a38b-5a1f7405026d",
+      "title": "Stj\u00e4rnbilder",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "stj-rnbilder",
+      "has_reactions": false
+    },
+    {
+      "id": "a9e052b4-64ad-430f-bcb7-6348861689a2",
+      "title": "Theremin: An Electronic Odyssey",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "theremin-an-electronic-odyssey",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a05985-ce75-4905-88c7-7e9c960b065d",
+      "title": "Ingrid Bergman Remembered",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ingrid-bergman-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "4987e874-5dae-4dde-8ceb-337771ee117b",
+      "title": "Glorious Technicolor",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "glorious-technicolor",
+      "has_reactions": false
+    },
+    {
+      "id": "bd0a0699-4f2e-4ced-b0c3-7aec9a4278e2",
+      "title": "Rossellini Under the Volcano",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "rossellini-under-the-volcano",
+      "has_reactions": false
+    },
+    {
+      "id": "8701f750-0738-4f13-9fe1-3dedf76cbfb2",
+      "title": "Hitchcock, Selznick and the End of Hollywood",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "hitchcock-selznick-and-the-end-of-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "f494f12a-c1bd-4a17-9d26-671a8b08de6b",
+      "title": "As Time Goes By: The Children Remember",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "as-time-goes-by-the-children-remember",
+      "has_reactions": false
+    },
+    {
+      "id": "83ceadd4-c44b-477d-b74c-b4d7bf85d1db",
+      "title": "Reflections on 'Gaslight'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "reflections-on-gaslight",
+      "has_reactions": false
+    },
+    {
+      "id": "ea9f29c0-d675-4307-98fe-56a4c339cf25",
+      "title": "Once Upon a Time... 'Rome, Open City'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-rome-open-city",
+      "has_reactions": false
+    },
+    {
+      "id": "e2f4dcf3-3ae2-4065-beb1-50ed0f8a94cd",
+      "title": "Dreaming with Scissors: Hitchcock, Surrealism & Salvador Dali",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dreaming-with-scissors-hitchcock-surrealism-salvador-dali",
+      "has_reactions": false
+    },
+    {
+      "id": "db592d14-7d57-4b71-98bb-ef95939ef918",
+      "title": "Warner at War",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "warner-at-war",
+      "has_reactions": false
+    },
+    {
+      "id": "718f2c92-0122-459f-89d4-216102ada4e0",
+      "title": "Viva Ingrid!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "viva-ingrid",
+      "has_reactions": false
+    },
+    {
+      "id": "48a524c9-cdc5-4a3d-9368-5b33d8698ed2",
+      "title": "Hitler's Hollywood",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "hitler-s-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "f1e20155-766f-4a6d-b063-9d9623f67218",
+      "title": "Julie Andrews Forever",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "julie-andrews-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "92212bab-593d-4a9e-b680-ad23745b7fff",
+      "title": "Yul Brynner, the Magnificent",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "yul-brynner-the-magnificent",
+      "has_reactions": false
+    },
+    {
+      "id": "fdf423ba-f91f-4412-8c40-029f82b5c946",
+      "title": "The Rossellinis",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-rossellinis",
+      "has_reactions": false
+    }
+  ]
+}

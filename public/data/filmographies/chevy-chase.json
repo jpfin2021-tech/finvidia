@@ -1,0 +1,608 @@
+{
+  "id": "7fa733b1-94d8-4786-b405-f8c08f2a8d7f",
+  "name": "Chevy Chase",
+  "slug": "chevy-chase",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/xmAcHXakDi0elKsCl2sRjtobQnx.jpg",
+  "filmography": [
+    {
+      "id": "cd690208-b1b4-486f-b054-125ea7b2d7d5",
+      "title": "The Groove Tube",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-groove-tube",
+      "has_reactions": false
+    },
+    {
+      "id": "e40f82dd-a0f0-4b15-8895-458e58bde63d",
+      "title": "Tunnel Vision",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "tunnel-vision",
+      "has_reactions": false
+    },
+    {
+      "id": "5f7d122e-d1d3-4ad7-9a64-b1972d067234",
+      "title": "The Chevy Chase Show",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-chevy-chase-show",
+      "has_reactions": false
+    },
+    {
+      "id": "9a381535-0de1-432e-a755-18f83a51a1d3",
+      "title": "Foul Play",
+      "release_year": 1978,
+      "studio_label": "Paramount Pictures",
+      "slug": "foul-play",
+      "has_reactions": true
+    },
+    {
+      "id": "352b92fa-b7cc-4b67-8a28-1ae66d430be8",
+      "title": "Caddyshack",
+      "release_year": 1980,
+      "studio_label": "Orion Pictures",
+      "slug": "caddyshack",
+      "has_reactions": true
+    },
+    {
+      "id": "23b07395-00ce-4c92-b38c-bb16ce0e54d2",
+      "title": "Seems Like Old Times",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "seems-like-old-times",
+      "has_reactions": false
+    },
+    {
+      "id": "118a699a-f64a-41e8-89fa-ba982573057e",
+      "title": "Oh! Heavenly Dog",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "oh-heavenly-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "433fc71d-d732-4415-ad54-c4166c526ccd",
+      "title": "Under the Rainbow",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "under-the-rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "d2b6ed6e-e7d6-42fa-a6b8-ca87a572d592",
+      "title": "National Lampoon's Vacation",
+      "release_year": 1983,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "national-lampoon-s-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "7f242562-131d-49b9-b0dc-79daa739072e",
+      "title": "Deal of the Century",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "deal-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "ea8be078-870e-4d4f-a03f-44155bab3b8a",
+      "title": "Fletch",
+      "release_year": 1985,
+      "studio_label": "Universal Pictures",
+      "slug": "fletch",
+      "has_reactions": true
+    },
+    {
+      "id": "bdc8ec06-f5cf-4fd8-b279-78358e5c5b56",
+      "title": "Spies Like Us",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "spies-like-us",
+      "has_reactions": false
+    },
+    {
+      "id": "c20adeea-d514-4902-b290-5ca2069a3e66",
+      "title": "Follow That Bird",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "follow-that-bird",
+      "has_reactions": false
+    },
+    {
+      "id": "1ead8c11-d5fc-4368-8cf7-40f0859c5233",
+      "title": "The Best of John Belushi",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-john-belushi",
+      "has_reactions": false
+    },
+    {
+      "id": "183704b0-fbd4-40c4-a26f-1cdbc7132bc7",
+      "title": "\u00a1Three Amigos!",
+      "release_year": 1986,
+      "studio_label": "L.A. Films",
+      "slug": "three-amigos",
+      "has_reactions": true
+    },
+    {
+      "id": "3bbf2763-0bba-4f99-9d3e-cc5f5fb12f39",
+      "title": "Looney Tunes 50th Anniversary",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "looney-tunes-50th-anniversary",
+      "has_reactions": false
+    },
+    {
+      "id": "e1ef30f6-9fa5-4ec6-8aa2-c20d97473532",
+      "title": "Barbra Streisand: One Voice",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-one-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "b575f4e8-f10a-4935-8ad7-4a99597f8311",
+      "title": "The Couch Trip",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-couch-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "5d32cfe1-10de-4b7e-8a5a-024d132e0c5a",
+      "title": "Caddyshack II",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "caddyshack-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "8f9b9b59-28a1-4afe-baf4-778a80bdbcfb",
+      "title": "Funny Farm",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "funny-farm",
+      "has_reactions": false
+    },
+    {
+      "id": "2d81bed7-226c-4c24-92b9-aac62f356242",
+      "title": "National Lampoon's Christmas Vacation",
+      "release_year": 1989,
+      "studio_label": "Hughes Entertainment",
+      "slug": "national-lampoon-s-christmas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "65126de7-d120-41a8-ba00-3763ec906520",
+      "title": "Saturday Night Live: 15th Anniversary",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-15th-anniversary",
+      "has_reactions": false
+    },
+    {
+      "id": "a17e33bd-b5ea-420e-92cd-ab8b6c03b48b",
+      "title": "Life of Python",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "life-of-python",
+      "has_reactions": false
+    },
+    {
+      "id": "89e0ef57-b6e4-466c-b9d5-50de9d462755",
+      "title": "The Earth Day Special",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-earth-day-special",
+      "has_reactions": false
+    },
+    {
+      "id": "8c912ade-9214-4d1d-8b49-17c16e25549f",
+      "title": "L.A. Story",
+      "release_year": 1991,
+      "studio_label": "L.A. Films",
+      "slug": "l-a-story",
+      "has_reactions": true
+    },
+    {
+      "id": "919abb4d-a9db-4b58-9c33-ce139a531336",
+      "title": "Nothing but Trouble",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "nothing-but-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "7f293c6d-94d7-4b22-8efe-98c8d3d52096",
+      "title": "Memoirs of an Invisible Man",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memoirs-of-an-invisible-man",
+      "has_reactions": true
+    },
+    {
+      "id": "7f6b53ca-f185-4638-bfa1-5320cd975d0d",
+      "title": "Hero",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "hero",
+      "has_reactions": false
+    },
+    {
+      "id": "9a55ac55-99a3-4044-9ac2-66031399dbd1",
+      "title": "The Martin & Lewis Story: The Last Great Comedy Team",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-martin-lewis-story-the-last-great-comedy-team",
+      "has_reactions": false
+    },
+    {
+      "id": "309d3b2c-6c51-4522-a640-3e6a6394c6e1",
+      "title": "Last Action Hero",
+      "release_year": 1993,
+      "studio_label": "Oak Productions",
+      "slug": "last-action-hero",
+      "has_reactions": true
+    },
+    {
+      "id": "9c18b89a-df5b-4fa0-a0f4-17e15840531a",
+      "title": "Cops & Robbersons",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "cops-robbersons",
+      "has_reactions": false
+    },
+    {
+      "id": "b2e31a1f-383c-411d-bea5-c500af3bc746",
+      "title": "A Century of Cinema",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-century-of-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "3fba6d0d-65b0-429b-afce-6084ef11d325",
+      "title": "Man of the House",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "man-of-the-house",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf9cdcc-a5c1-425a-8621-3ef69f387d9e",
+      "title": "Vegas Vacation",
+      "release_year": 1997,
+      "studio_label": "Jerry Weintraub Productions",
+      "slug": "vegas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "2db7f07b-5669-46b3-9ce4-9acc87d3b6fc",
+      "title": "Dirty Work",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "dirty-work",
+      "has_reactions": false
+    },
+    {
+      "id": "f562a3e3-a8c8-457f-a9a5-77f42b08b665",
+      "title": "Saturday Night Live: 25th Anniversary Special",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-25th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "1a01f9af-9690-4201-b93a-6021db1d801e",
+      "title": "Caddyshack: The 19th Hole",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "caddyshack-the-19th-hole",
+      "has_reactions": false
+    },
+    {
+      "id": "81641f18-b1fc-4a10-8c23-488c301348ce",
+      "title": "Snow Day",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "snow-day",
+      "has_reactions": false
+    },
+    {
+      "id": "31980714-91b4-4790-9e5d-a6acb9acb9c1",
+      "title": "The Scrambled States of America",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-scrambled-states-of-america",
+      "has_reactions": false
+    },
+    {
+      "id": "c09954f9-485b-4577-876c-35fd392ddbbd",
+      "title": "Pete's a Pizza",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "pete-s-a-pizza",
+      "has_reactions": false
+    },
+    {
+      "id": "8d1546cc-f82a-4620-bbd9-e16f17ec7d58",
+      "title": "Ellie Parker",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ellie-parker",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe2d472-9c5d-46bd-90c2-f6540b9a9a3a",
+      "title": "Orange County",
+      "release_year": 2002,
+      "studio_label": "MTV Films",
+      "slug": "orange-county",
+      "has_reactions": true
+    },
+    {
+      "id": "5ae42808-0099-4104-b241-2fe6b98fea63",
+      "title": "Paul McCartney: Back in the U.S.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-back-in-the-u-s",
+      "has_reactions": false
+    },
+    {
+      "id": "fb9a0206-f7d1-4958-b296-251eeca8f4f5",
+      "title": "Added Attractions: The Hollywood Shorts Story",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "added-attractions-the-hollywood-shorts-story",
+      "has_reactions": false
+    },
+    {
+      "id": "0e02e40f-a630-4a3f-b93e-ef91c2aff39b",
+      "title": "Stealing Bess",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "stealing-bess",
+      "has_reactions": false
+    },
+    {
+      "id": "484835a7-7cf2-4d5d-8624-6fb501e5e919",
+      "title": "Bad Meat",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "bad-meat",
+      "has_reactions": false
+    },
+    {
+      "id": "0575ad65-146f-489c-bdc3-4e9cc759cdd6",
+      "title": "Our Italian Husband",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "our-italian-husband",
+      "has_reactions": false
+    },
+    {
+      "id": "d4a986d0-204f-4ed7-b70f-c7b09fa2bc87",
+      "title": "Celsius 41.11",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "celsius-41-11",
+      "has_reactions": false
+    },
+    {
+      "id": "d20747ec-f65c-4e20-8b63-b9a82b5d617d",
+      "title": "Live from New York: The First 5 Years of Saturday Night Live",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "live-from-new-york-the-first-5-years-of-saturday-night-live",
+      "has_reactions": false
+    },
+    {
+      "id": "f79d46b3-90ae-48ff-beda-cb112652e155",
+      "title": "Saturday Night Live: The Best of John Belushi",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-john-belushi",
+      "has_reactions": false
+    },
+    {
+      "id": "a53b59cf-523d-4db2-8992-0fde714d1b0c",
+      "title": "Ellie Parker",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "ellie-parker",
+      "has_reactions": false
+    },
+    {
+      "id": "1c70458d-4a4e-4faa-9f84-26a8c593017b",
+      "title": "Funny Money",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "funny-money",
+      "has_reactions": false
+    },
+    {
+      "id": "8128cad7-1fca-4c7d-a60c-b5e684d54e12",
+      "title": "Zoom",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "zoom",
+      "has_reactions": false
+    },
+    {
+      "id": "2de42e04-432e-498e-ac52-e8ce5a046e4a",
+      "title": "The Secret Policeman's Ball: The Ball in the Hall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball-the-ball-in-the-hall",
+      "has_reactions": false
+    },
+    {
+      "id": "439b8b14-374d-4b19-af18-0ab95022cfd3",
+      "title": "Goose on the Loose",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "goose-on-the-loose",
+      "has_reactions": false
+    },
+    {
+      "id": "dcbd17a7-1aad-4089-83a6-c712d49f0b7f",
+      "title": "Family Guy Presents: Blue Harvest",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-blue-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "1b2c9db2-1b8f-4e18-a444-a6d5977b9165",
+      "title": "Jack and the Beanstalk",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jack-and-the-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "cc602a7f-61b0-46ff-9fa4-1643889f2217",
+      "title": "Hot Tub Time Machine",
+      "release_year": 2010,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "hot-tub-time-machine",
+      "has_reactions": true
+    },
+    {
+      "id": "b089e45d-f96d-4b15-883a-072573cec09d",
+      "title": "Hotel Hell Vacation",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hotel-hell-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "25dffa17-c468-4045-bd19-cb85cca4eab0",
+      "title": "Not Another Not Another Movie",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "not-another-not-another-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e1226144-2c3a-4717-b729-9317b97e8205",
+      "title": "Stay Cool",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "stay-cool",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd29e52-dda4-43e2-b29c-68113cfe9e8c",
+      "title": "Someplace with a Mountain",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "someplace-with-a-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "e3c5f12b-2425-46d4-b78f-e08223d371cc",
+      "title": "A Night at the Movies: Merry Christmas!",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "a-night-at-the-movies-merry-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e87d0f76-80b3-4a71-90aa-20b15997968b",
+      "title": "Richard Pryor: Omit the Logic",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "richard-pryor-omit-the-logic",
+      "has_reactions": false
+    },
+    {
+      "id": "b3203e88-12d8-4ede-9b8b-8ba992aba64d",
+      "title": "Before I Sleep",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "before-i-sleep",
+      "has_reactions": false
+    },
+    {
+      "id": "c012318c-4ecb-457b-8e92-132ca91c7164",
+      "title": "Lovesick",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "lovesick",
+      "has_reactions": false
+    },
+    {
+      "id": "0946a50b-d19f-4705-8b4a-df2b3ad44ebf",
+      "title": "Shelby: The Dog Who Saved Christmas",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "shelby-the-dog-who-saved-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "334ea675-1cd8-4e14-b20c-b765441274c7",
+      "title": "Vacation",
+      "release_year": 2015,
+      "studio_label": "BenderSpink",
+      "slug": "vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "c00a51fa-15fc-4316-8200-cd92e0d39324",
+      "title": "A Christmas in Vermont",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-in-vermont",
+      "has_reactions": false
+    },
+    {
+      "id": "2b824474-dad1-4d6c-b3b4-c57474eb3e05",
+      "title": "The Last Movie Star",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-last-movie-star",
+      "has_reactions": false
+    },
+    {
+      "id": "c5d609ae-3922-4303-840e-c3bab9256c29",
+      "title": "Love, Gilda",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "love-gilda",
+      "has_reactions": false
+    },
+    {
+      "id": "89adc84f-c4ca-4673-a241-733c6a4be2ab",
+      "title": "The Very Excellent Mr. Dundee",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-very-excellent-mr-dundee",
+      "has_reactions": false
+    },
+    {
+      "id": "3268b618-e49b-4d5a-a0c2-1d737e2e113d",
+      "title": "Glisten and the Merry Mission",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "glisten-and-the-merry-mission",
+      "has_reactions": false
+    },
+    {
+      "id": "983a5c61-063d-4eb4-8b26-89bda02bfd62",
+      "title": "Zombie Town",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "zombie-town",
+      "has_reactions": false
+    },
+    {
+      "id": "638265ea-0ea6-4482-80e4-ce66e9f5386b",
+      "title": "The Christmas Letter",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-letter",
+      "has_reactions": false
+    }
+  ]
+}

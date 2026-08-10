@@ -1,0 +1,632 @@
+{
+  "id": "d764885c-705d-4de2-ba7e-719f3f459e7c",
+  "name": "Tom Cruise",
+  "slug": "tom-cruise",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+  "filmography": [
+    {
+      "id": "d0b72045-e5ba-4c3d-b436-ffe63d0419ba",
+      "title": "Untitled Tropic Thunder Les Grossman Spin-off",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-tropic-thunder-les-grossman-spin-off",
+      "has_reactions": false
+    },
+    {
+      "id": "89347692-1a86-4272-adf4-702b0e6367d1",
+      "title": "Untitled Top Gun 3",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-top-gun-3",
+      "has_reactions": false
+    },
+    {
+      "id": "defc7e7d-4300-4d9f-9ca0-ce2420c02ff3",
+      "title": "Untitled Days of Thunder Sequel",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-days-of-thunder-sequel",
+      "has_reactions": false
+    },
+    {
+      "id": "ec48a446-6f3e-481e-90c8-fd329b1717b3",
+      "title": "Broadsword",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "broadsword",
+      "has_reactions": false
+    },
+    {
+      "id": "b102f806-b38d-45ea-a294-95a7d4121a82",
+      "title": "Deeper",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "deeper",
+      "has_reactions": false
+    },
+    {
+      "id": "f1466638-1701-414d-940f-97b65d4fcd23",
+      "title": "This Is Scientology: An Overview of the World's Fastest Growing Religion",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "this-is-scientology-an-overview-of-the-world-s-fastest-growing-religion",
+      "has_reactions": false
+    },
+    {
+      "id": "24532e3a-8ce4-435e-baaa-760fc227f83d",
+      "title": "The Gauntlet",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-gauntlet",
+      "has_reactions": false
+    },
+    {
+      "id": "4053a6dd-fdcc-430f-9b94-198f59a81412",
+      "title": "Endless Love",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "endless-love",
+      "has_reactions": false
+    },
+    {
+      "id": "ca5f27a9-b939-4972-adfc-463ba7650999",
+      "title": "Risky Business",
+      "release_year": 1983,
+      "studio_label": "Geffen Pictures",
+      "slug": "risky-business",
+      "has_reactions": true
+    },
+    {
+      "id": "3ce26536-a8bb-41a6-8794-c58e49b33e0b",
+      "title": "The Outsiders",
+      "release_year": 1983,
+      "studio_label": "American Zoetrope",
+      "slug": "the-outsiders",
+      "has_reactions": true
+    },
+    {
+      "id": "e06c1355-e172-43b3-994c-925c06fc6581",
+      "title": "All the Right Moves",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "all-the-right-moves",
+      "has_reactions": false
+    },
+    {
+      "id": "98702f97-bbd4-4d93-b813-c018424d0187",
+      "title": "Losin' It",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "losin-it",
+      "has_reactions": false
+    },
+    {
+      "id": "0c42b3da-d045-4c63-96f4-45a11c779732",
+      "title": "Legend",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "legend",
+      "has_reactions": false
+    },
+    {
+      "id": "59cf6d1b-0592-4827-9352-369dedeb7679",
+      "title": "Top Gun",
+      "release_year": 1986,
+      "studio_label": "Paramount Pictures",
+      "slug": "top-gun",
+      "has_reactions": true
+    },
+    {
+      "id": "e3293926-1559-4887-aa22-07d786a0023c",
+      "title": "Rain Man",
+      "release_year": 1988,
+      "studio_label": "United Artists",
+      "slug": "rain-man",
+      "has_reactions": true
+    },
+    {
+      "id": "b423e827-705a-4cec-b766-7cbeb8f6bf25",
+      "title": "Cocktail",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "cocktail",
+      "has_reactions": false
+    },
+    {
+      "id": "b74490a8-a4f2-4eee-a1b2-61e9771b76e7",
+      "title": "Young Guns",
+      "release_year": 1988,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "young-guns",
+      "has_reactions": true
+    },
+    {
+      "id": "8c0d55f7-85a2-47cd-8dd6-b5dee3f9fbc5",
+      "title": "Born on the Fourth of July",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "born-on-the-fourth-of-july",
+      "has_reactions": true
+    },
+    {
+      "id": "bcb9f5e3-a33e-4032-a0d8-7b968b9de012",
+      "title": "Days of Thunder",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "days-of-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "34a6073e-df3d-4fb4-80d3-f994bd47d220",
+      "title": "A Few Good Men",
+      "release_year": 1992,
+      "studio_label": "David Brown Productions",
+      "slug": "a-few-good-men",
+      "has_reactions": true
+    },
+    {
+      "id": "ee50c1aa-12a6-4e95-bb08-e86759fd4765",
+      "title": "Far and Away",
+      "release_year": 1992,
+      "studio_label": "Imagine Entertainment",
+      "slug": "far-and-away",
+      "has_reactions": true
+    },
+    {
+      "id": "e4529f0d-db1f-4fa9-a2f5-b11dd6b78240",
+      "title": "Time Out: The Truth About HIV, AIDS and You",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "time-out-the-truth-about-hiv-aids-and-you",
+      "has_reactions": false
+    },
+    {
+      "id": "423708d5-980a-4775-b152-5b7480da24f4",
+      "title": "The Firm",
+      "release_year": 1993,
+      "studio_label": "Mirage Enterprises",
+      "slug": "the-firm",
+      "has_reactions": true
+    },
+    {
+      "id": "6cacd36d-8d1c-4e26-bafe-ae24c3366ad4",
+      "title": "Interview with the Vampire",
+      "release_year": 1994,
+      "studio_label": "Geffen Pictures",
+      "slug": "interview-with-the-vampire",
+      "has_reactions": true
+    },
+    {
+      "id": "df92c657-a821-46a6-8c52-ffa0e8470ea2",
+      "title": "Jerry Maguire",
+      "release_year": 1996,
+      "studio_label": "TriStar Pictures",
+      "slug": "jerry-maguire",
+      "has_reactions": true
+    },
+    {
+      "id": "c04c1bcb-a459-4cab-8afb-7d578913e443",
+      "title": "Mission: Impossible",
+      "release_year": 1996,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible",
+      "has_reactions": true
+    },
+    {
+      "id": "71e3016d-2740-4a38-947d-b83aaf4165c9",
+      "title": "Eyes Wide Shut",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "eyes-wide-shut",
+      "has_reactions": false
+    },
+    {
+      "id": "debb6c04-c8c2-49be-8f62-1ce7c5d3f0ac",
+      "title": "Remembering Stanley Kubrick",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "remembering-stanley-kubrick",
+      "has_reactions": false
+    },
+    {
+      "id": "3d935b48-a4bd-448f-b7e0-bd4c43a77be4",
+      "title": "Mission: Impossible II",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "219a8ee1-1aba-4571-968b-a5347e5fc90d",
+      "title": "In the Shadow of the Vampire: The Making of Interview with the Vampire",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "in-the-shadow-of-the-vampire-the-making-of-interview-with-the-vampire",
+      "has_reactions": false
+    },
+    {
+      "id": "0958b984-1ed9-43aa-85c6-1f4fd4dcb832",
+      "title": "Mission: Improbable",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mission-improbable",
+      "has_reactions": false
+    },
+    {
+      "id": "d250b31b-8c27-44c0-88b6-a234a23a8b35",
+      "title": "Stanley Kubrick: A Life in Pictures",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "stanley-kubrick-a-life-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2a3d65-ed56-4b76-84e7-a199a64d554a",
+      "title": "Minority Report",
+      "release_year": 2002,
+      "studio_label": "Digital Image Associates",
+      "slug": "minority-report",
+      "has_reactions": true
+    },
+    {
+      "id": "4fa5d919-249d-4306-921b-209f9781473f",
+      "title": "Austin Powers in Goldmember",
+      "release_year": 2002,
+      "studio_label": "Eric's Boy",
+      "slug": "austin-powers-in-goldmember",
+      "has_reactions": true
+    },
+    {
+      "id": "cb1262f5-e7be-4a8d-b049-942918c52eca",
+      "title": "Hitting It Hard",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hitting-it-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "b65cd32a-d6e4-48e5-bb9f-3b917cade849",
+      "title": "Space Station 3D",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "space-station-3d",
+      "has_reactions": false
+    },
+    {
+      "id": "84bfe78f-d2fb-4d25-a7fa-e5a46ee95038",
+      "title": "The Art of Action: Martial Arts in the Movies",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-action-martial-arts-in-the-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "a80a6071-63a4-485d-9cd7-22aef31ed2b5",
+      "title": "The Last Samurai",
+      "release_year": 2003,
+      "studio_label": "Radar Pictures",
+      "slug": "the-last-samurai",
+      "has_reactions": true
+    },
+    {
+      "id": "13bf5d96-bb54-49ce-b02d-7b2d386f3310",
+      "title": "Collateral",
+      "release_year": 2004,
+      "studio_label": "Paramount Pictures",
+      "slug": "collateral",
+      "has_reactions": true
+    },
+    {
+      "id": "f16403a1-ae58-4ac6-afe3-795f73a2369f",
+      "title": "City of Night: The Making of 'Collateral'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "city-of-night-the-making-of-collateral",
+      "has_reactions": false
+    },
+    {
+      "id": "719ff1c3-6829-496d-870a-b0f1d2abbb96",
+      "title": "War of the Worlds",
+      "release_year": 2005,
+      "studio_label": "Paramount Pictures",
+      "slug": "war-of-the-worlds",
+      "has_reactions": true
+    },
+    {
+      "id": "1e231e3e-09eb-4a12-8b0b-62282d85dc2b",
+      "title": "Staying Gold: A Look Back at 'The Outsiders'",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "staying-gold-a-look-back-at-the-outsiders",
+      "has_reactions": false
+    },
+    {
+      "id": "8776da3e-f734-4402-ab04-60823dba6692",
+      "title": "Mission: Impossible III",
+      "release_year": 2006,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "e97356a9-5d60-4aa9-8be2-bbeb7851cde0",
+      "title": "Tropic Thunder",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "tropic-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "c376b8a8-7f78-494a-9178-01cc29a66572",
+      "title": "Valkyrie",
+      "release_year": 2008,
+      "studio_label": "Bad Hat Harry Productions",
+      "slug": "valkyrie",
+      "has_reactions": true
+    },
+    {
+      "id": "b385764a-0cce-47fc-95ac-3453412c1baa",
+      "title": "Tropic Thunder: Rain of Madness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tropic-thunder-rain-of-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "cdb77d9f-2d00-4c0c-a81d-298c14850943",
+      "title": "The Dream Is Always the Same: The Story of Risky Business",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-dream-is-always-the-same-the-story-of-risky-business",
+      "has_reactions": false
+    },
+    {
+      "id": "e217f48c-b582-437a-ba61-9b53f9228396",
+      "title": "Knight and Day",
+      "release_year": 2010,
+      "studio_label": "Pink Machine",
+      "slug": "knight-and-day",
+      "has_reactions": true
+    },
+    {
+      "id": "859656a0-61f2-4d25-aaa3-86ac53fb6545",
+      "title": "Mission: Remarkable - 40 Years of Creating the Impossible",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mission-remarkable-40-years-of-creating-the-impossible",
+      "has_reactions": false
+    },
+    {
+      "id": "d3d5b5cd-a8b0-4eb9-adb7-a430b02d37e3",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-ghost-protocol",
+      "has_reactions": true
+    },
+    {
+      "id": "beedb8e9-765b-4cd8-9e12-469d9d1f93b6",
+      "title": "Jack Reacher",
+      "release_year": 2012,
+      "studio_label": "Paramount Pictures",
+      "slug": "jack-reacher",
+      "has_reactions": true
+    },
+    {
+      "id": "abb4989b-f3b0-46f3-96fe-ed1e7365fa7e",
+      "title": "Ghost Protocol: Mission Accepted",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ghost-protocol-mission-accepted",
+      "has_reactions": false
+    },
+    {
+      "id": "4eaba07f-0106-4a5d-83f9-fd8e4a167261",
+      "title": "Ghost Protocol: Impossible Missions",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ghost-protocol-impossible-missions",
+      "has_reactions": false
+    },
+    {
+      "id": "6294349c-d27c-41ca-b8e5-e6bf731a6aab",
+      "title": "Oblivion",
+      "release_year": 2013,
+      "studio_label": "Universal Pictures",
+      "slug": "oblivion",
+      "has_reactions": true
+    },
+    {
+      "id": "a8f57c17-353c-4ee3-bb99-b36cc174801b",
+      "title": "Edge of Tomorrow",
+      "release_year": 2014,
+      "studio_label": "RatPac Entertainment",
+      "slug": "edge-of-tomorrow",
+      "has_reactions": true
+    },
+    {
+      "id": "d95dc937-c69b-4f7f-be93-163b5d3e6f7a",
+      "title": "Mission: Impossible - Rogue Nation",
+      "release_year": 2015,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-rogue-nation",
+      "has_reactions": true
+    },
+    {
+      "id": "28d11ab1-42b1-4967-b9f8-ad7767b7965c",
+      "title": "Jack Reacher: Never Go Back",
+      "release_year": 2016,
+      "studio_label": "Skydance Media",
+      "slug": "jack-reacher-never-go-back",
+      "has_reactions": true
+    },
+    {
+      "id": "206b30c1-1c5d-41af-adff-46cbb465ef26",
+      "title": "My Scientology Movie",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "my-scientology-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "0052c899-cac9-4461-8a87-a3c35ff24ff0",
+      "title": "American Made",
+      "release_year": 2017,
+      "studio_label": "Universal Pictures",
+      "slug": "american-made",
+      "has_reactions": true
+    },
+    {
+      "id": "1664e0ac-77f1-4567-af2a-cd86fb2dcfba",
+      "title": "The Mummy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-mummy",
+      "has_reactions": false
+    },
+    {
+      "id": "e2e0a915-76d5-490d-b1f7-13f6929dc924",
+      "title": "Mission: Impossible - Fallout",
+      "release_year": 2018,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-fallout",
+      "has_reactions": false
+    },
+    {
+      "id": "67534c4d-c7be-4443-a546-b5e0f2586d3d",
+      "title": "Tom Cruise: An Eternal Youth",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "tom-cruise-an-eternal-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "9405d536-f167-48f7-8608-13ed619eeff4",
+      "title": "Kubrick by Kubrick",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "kubrick-by-kubrick",
+      "has_reactions": false
+    },
+    {
+      "id": "ba07a599-e114-4370-a847-063ce1e6530d",
+      "title": "Top Gun: Maverick",
+      "release_year": 2022,
+      "studio_label": "Skydance Media",
+      "slug": "top-gun-maverick",
+      "has_reactions": true
+    },
+    {
+      "id": "0218e342-0811-459e-8edd-c759d7e74bde",
+      "title": "James Corden's Top Gun Training with Tom Cruise",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "james-corden-s-top-gun-training-with-tom-cruise",
+      "has_reactions": false
+    },
+    {
+      "id": "8865ba58-9221-4533-a54d-89c7a7ff1354",
+      "title": "Tom Cruise: Lights, Camera, Action",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "tom-cruise-lights-camera-action",
+      "has_reactions": false
+    },
+    {
+      "id": "6c578408-74a3-46cb-954c-105f87c85cac",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "release_year": 2023,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-dead-reckoning-part-one",
+      "has_reactions": true
+    },
+    {
+      "id": "dccd6274-5fb5-4037-9342-35385ffef443",
+      "title": "Tom Cruise: The Last Movie Star",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "tom-cruise-the-last-movie-star",
+      "has_reactions": false
+    },
+    {
+      "id": "4b6a479c-06cc-4df1-936f-5403a2a887c7",
+      "title": "Commitment to Life",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "commitment-to-life",
+      "has_reactions": false
+    },
+    {
+      "id": "ef0a1159-1ca8-49d8-b6cb-c6c82c4c4fbf",
+      "title": "Nicole Kidman: Eyes Wide Open",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "nicole-kidman-eyes-wide-open",
+      "has_reactions": false
+    },
+    {
+      "id": "caaebd2c-83f1-4f22-8e5b-c21f7aa0c630",
+      "title": "Tom Cruise: Impossible Missions",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "tom-cruise-impossible-missions",
+      "has_reactions": false
+    },
+    {
+      "id": "13027a4d-953f-48b8-a1aa-de96fc2c1442",
+      "title": "Paris 2024 Olympic Closing Ceremony",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "paris-2024-olympic-closing-ceremony",
+      "has_reactions": false
+    },
+    {
+      "id": "141325a3-a93f-45bd-a946-d7065b2bd60f",
+      "title": "The Final: Attack on Wembley",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-final-attack-on-wembley",
+      "has_reactions": false
+    },
+    {
+      "id": "d832815c-9e91-473d-8f81-278b8e698979",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "release_year": 2025,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-the-final-reckoning",
+      "has_reactions": true
+    },
+    {
+      "id": "5ead7f56-3767-421d-858a-cacaefb8b051",
+      "title": "Boo-Yah: A Portrait of Stuart Scott",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "boo-yah-a-portrait-of-stuart-scott",
+      "has_reactions": false
+    },
+    {
+      "id": "92977042-467e-4db6-958b-f4530805e662",
+      "title": "Tom Cruise : la derni\u00e8re l\u00e9gende d'Hollywood",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "tom-cruise-la-derni-re-l-gende-d-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "2e6efe1f-8864-4e95-bd22-ed60e8710fdb",
+      "title": "Making Mission: Impossible - A 10 News First Special",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "making-mission-impossible-a-10-news-first-special",
+      "has_reactions": false
+    },
+    {
+      "id": "13ec0b85-27d9-46cf-8c6e-c0867661a372",
+      "title": "Once Upon a Time in Jersey",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-jersey",
+      "has_reactions": false
+    }
+  ]
+}

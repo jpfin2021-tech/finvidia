@@ -1,0 +1,464 @@
+{
+  "id": "381e44d4-8f91-465b-8f9d-73d32d2333ee",
+  "name": "Ruby Dee",
+  "slug": "ruby-dee",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eRRRVQTLkH3RU9inzRHJqWdIZkW.jpg",
+  "filmography": [
+    {
+      "id": "004d9da9-817b-40ad-bf34-2ac9ac2d3883",
+      "title": "That Man of Mine",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "that-man-of-mine",
+      "has_reactions": false
+    },
+    {
+      "id": "9386e282-aedd-4bf3-ab21-503701a4cbff",
+      "title": "Love in Syncopation",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "love-in-syncopation",
+      "has_reactions": false
+    },
+    {
+      "id": "5723fb30-25b9-46d2-bd6f-85ae23f5f082",
+      "title": "Easy to Get",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "easy-to-get",
+      "has_reactions": false
+    },
+    {
+      "id": "bc500195-fcfc-4033-8af5-e59c7e363bca",
+      "title": "The Fight Never Ends",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-fight-never-ends",
+      "has_reactions": false
+    },
+    {
+      "id": "43a35925-89da-4140-9859-fcd9746a7830",
+      "title": "What a Guy",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "what-a-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "2a2ae155-032f-413a-b3e9-e70f45e68302",
+      "title": "The Jackie Robinson Story",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-jackie-robinson-story",
+      "has_reactions": false
+    },
+    {
+      "id": "b9df40a7-2ce8-4c43-b1ab-2c3bbd772ff8",
+      "title": "St. Louis Blues",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "st-louis-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "1841f0bf-8bb8-4bed-adb3-3f6370e5d3e1",
+      "title": "Take a Giant Step",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "take-a-giant-step",
+      "has_reactions": false
+    },
+    {
+      "id": "d6a680d0-d6fb-41ea-a2dc-70c5b4fd240f",
+      "title": "A Raisin in the Sun",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "a-raisin-in-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "60820cd7-b191-4897-a00d-11f93d392b35",
+      "title": "Neighbours",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "neighbours",
+      "has_reactions": false
+    },
+    {
+      "id": "f5f42849-3a29-4dcb-ade5-f03cf3653d78",
+      "title": "The Incident",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-incident",
+      "has_reactions": false
+    },
+    {
+      "id": "f392b412-d9dd-4a34-b35a-f426f739ebd6",
+      "title": "Now is the Time",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "now-is-the-time",
+      "has_reactions": false
+    },
+    {
+      "id": "6b6eb533-2821-4016-b10e-f5b1a305a0d7",
+      "title": "Uptight",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "uptight",
+      "has_reactions": false
+    },
+    {
+      "id": "827d6e32-18dd-47e7-a4db-ca611b6f6658",
+      "title": "The Sheriff",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-sheriff",
+      "has_reactions": false
+    },
+    {
+      "id": "7fb47f52-1f4f-4951-8e44-c60644f3e65c",
+      "title": "Buck and the Preacher",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "buck-and-the-preacher",
+      "has_reactions": false
+    },
+    {
+      "id": "f9b5f66a-2cbe-4043-8f1e-a0021015fad3",
+      "title": "Black Girl",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "black-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "44cb05cd-3f41-4e0f-85a3-293884ee983b",
+      "title": "Chelsea D.H.O.",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "chelsea-d-h-o",
+      "has_reactions": false
+    },
+    {
+      "id": "d83a12c7-def0-47f9-a40f-c7e7db421d5b",
+      "title": "It's Good to Be Alive",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "it-s-good-to-be-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "6de74889-d565-4c7f-a1be-89888577e9c0",
+      "title": "Countdown at Kusini",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "countdown-at-kusini",
+      "has_reactions": false
+    },
+    {
+      "id": "c5621800-39c4-4146-9c96-b5823af3b795",
+      "title": "The Torture of Mothers: The Case of the Harlem Six",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-torture-of-mothers-the-case-of-the-harlem-six",
+      "has_reactions": false
+    },
+    {
+      "id": "38b93e78-9703-40db-aa55-57e0a7835934",
+      "title": "All God's Children",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "all-god-s-children",
+      "has_reactions": false
+    },
+    {
+      "id": "d9e09d7d-d9c1-4b80-bc63-d6deacf89dfd",
+      "title": "Long Day's Journey Into Night",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "long-day-s-journey-into-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c51ab1ba-4d6f-4167-9780-1324a846db36",
+      "title": "Cat People",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "cat-people",
+      "has_reactions": false
+    },
+    {
+      "id": "5ad7564d-f46b-4017-8e8e-9a323bc3b23e",
+      "title": "Go Tell It on the Mountain",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "go-tell-it-on-the-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "48ba7566-81ad-416c-aa35-1200331a4863",
+      "title": "Do the Right Thing",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "do-the-right-thing",
+      "has_reactions": true
+    },
+    {
+      "id": "69046ea2-4ead-4dfc-aa2e-028b3e66cc56",
+      "title": "Making 'Do the Right Thing'",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "making-do-the-right-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "d9cd05a7-5951-452f-be94-8a3003f56581",
+      "title": "The Court-Martial of Jackie Robinson",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-court-martial-of-jackie-robinson",
+      "has_reactions": false
+    },
+    {
+      "id": "8bdca8a0-7f85-499b-a39d-266f5e7cdc23",
+      "title": "Decoration Day",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "decoration-day",
+      "has_reactions": false
+    },
+    {
+      "id": "52dc4147-e0f9-4149-a5e4-34e423f1ef50",
+      "title": "Jungle Fever",
+      "release_year": 1991,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "jungle-fever",
+      "has_reactions": true
+    },
+    {
+      "id": "1a08e1af-c3c6-409c-9db0-76f26919818a",
+      "title": "Jazztime Tale",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "jazztime-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "5ef4e607-80b3-4db6-b77d-0d171f497924",
+      "title": "Cop & \u00bd",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "cop",
+      "has_reactions": false
+    },
+    {
+      "id": "553f1e1b-cb74-486d-87f4-cd3d050e3536",
+      "title": "After Goodbye",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "after-goodbye",
+      "has_reactions": false
+    },
+    {
+      "id": "6663f4af-389d-4924-a35f-429500dd0db5",
+      "title": "Whitewash",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "whitewash",
+      "has_reactions": false
+    },
+    {
+      "id": "09fef3e1-6e50-4b9d-bfdf-be66e1604d47",
+      "title": "Just Cause",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "just-cause",
+      "has_reactions": false
+    },
+    {
+      "id": "e55289ec-f03d-429e-a193-44dde59a4f1e",
+      "title": "Tuesday Morning Ride",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "tuesday-morning-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "2bda8352-a592-482c-af71-6edc241d21d9",
+      "title": "Mr. and Mrs. Loving",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mr-and-mrs-loving",
+      "has_reactions": false
+    },
+    {
+      "id": "5b7e58f3-d5bd-4ebc-b4f2-d0fddf5017a7",
+      "title": "Sports on the Silver Screen",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "sports-on-the-silver-screen",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ed5a78-c78b-4415-89fc-c2988952116a",
+      "title": "A Simple Wish",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-simple-wish",
+      "has_reactions": false
+    },
+    {
+      "id": "168c435c-7dac-4d8c-8719-f6a1de122740",
+      "title": "A Time To Dance: The Life and Work of Norma Canner",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-time-to-dance-the-life-and-work-of-norma-canner",
+      "has_reactions": false
+    },
+    {
+      "id": "5476c874-f05c-4c46-ad93-0dcad5ba6a97",
+      "title": "Small Steps, Big Strides: The Black Experience in Hollywood",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "small-steps-big-strides-the-black-experience-in-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "37ba3cfc-c95e-43aa-8df3-171248978df4",
+      "title": "Having Our Say: The Delany Sisters' First 100 Years",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "having-our-say-the-delany-sisters-first-100-years",
+      "has_reactions": false
+    },
+    {
+      "id": "c9189415-5665-4ba6-aa51-7a6218886e38",
+      "title": "Passing Glory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "passing-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "bf17f4a3-68bc-49d2-9a58-1560ff9dca8d",
+      "title": "Paul Robeson: Here I Stand",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "paul-robeson-here-i-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "c2719626-1adf-48d7-b537-9e50c5837e0a",
+      "title": "Baby Geniuses",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "baby-geniuses",
+      "has_reactions": false
+    },
+    {
+      "id": "7216a97c-bf9c-45de-b834-f05d056f8243",
+      "title": "Finding Buck McHenry",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "finding-buck-mchenry",
+      "has_reactions": false
+    },
+    {
+      "id": "b5563011-3d41-4b8d-b78d-65ae9002b557",
+      "title": "Taking Back Our Town",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "taking-back-our-town",
+      "has_reactions": false
+    },
+    {
+      "id": "51e2ba69-ebe0-4722-abf2-2f56f7240139",
+      "title": "Theater Talk: 'A Raisin in the Sun'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "theater-talk-a-raisin-in-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "80181ca4-0e18-45a7-82c8-7dc888d9f479",
+      "title": "Unchained Memories: Readings from the Slave Narratives",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "unchained-memories-readings-from-the-slave-narratives",
+      "has_reactions": false
+    },
+    {
+      "id": "ba94482d-db90-4cb8-b703-a489db4da02d",
+      "title": "Beah: A Black Woman Speaks",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "beah-a-black-woman-speaks",
+      "has_reactions": false
+    },
+    {
+      "id": "f5fd1db8-7826-4d5c-8034-65ba02516fd9",
+      "title": "No. 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "no-2",
+      "has_reactions": false
+    },
+    {
+      "id": "45f79385-b2b9-448d-8c41-1574d4d2c054",
+      "title": "Discovering William Greaves",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "discovering-william-greaves",
+      "has_reactions": false
+    },
+    {
+      "id": "c0fb1ac4-6596-42a8-9132-659c7cd18b11",
+      "title": "American Gangster",
+      "release_year": 2007,
+      "studio_label": "Film Rites",
+      "slug": "american-gangster",
+      "has_reactions": true
+    },
+    {
+      "id": "16c70850-1f5a-4054-b9c9-2d407cdb3a40",
+      "title": "In the Shadow of Hollywood: Race Movies and the Birth of Black Cinema",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "in-the-shadow-of-hollywood-race-movies-and-the-birth-of-black-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "3201e822-dc84-4885-87aa-b8e7a325fb70",
+      "title": "A Place Out of Time: The Bordentown School",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-place-out-of-time-the-bordentown-school",
+      "has_reactions": false
+    },
+    {
+      "id": "06da3641-3372-4f67-b092-6624f1fecb54",
+      "title": "Politics of Love",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "politics-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "9db9a840-a3cc-46ef-8b8e-d75ac2a7f3cf",
+      "title": "Betty and Coretta",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "betty-and-coretta",
+      "has_reactions": false
+    },
+    {
+      "id": "8f9b3a54-1297-47cc-b964-4245f69f448c",
+      "title": "Love in Exile",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "love-in-exile",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "id": "16b64a2d-8d57-4f11-9026-b7d243749575",
+  "name": "David Cross",
+  "slug": "david-cross",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg",
+  "filmography": [
+    {
+      "id": "f3cc6d31-a675-4b60-ab2e-6c79666f431b",
+      "title": "The Slugger's Wife",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-slugger-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "c5d776de-b96f-41ce-b74b-76e38f7d2cbc",
+      "title": "The TV Wheel",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-tv-wheel",
+      "has_reactions": false
+    },
+    {
+      "id": "7c836d27-6c20-4bde-9aa4-0d0d61891ae4",
+      "title": "Destiny Turns on the Radio",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "destiny-turns-on-the-radio",
+      "has_reactions": false
+    },
+    {
+      "id": "7106501e-400f-45d7-aa67-cbdeab98c3a2",
+      "title": "The Truth About Cats & Dogs",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-truth-about-cats-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "fd233c63-3364-4ed4-93c8-67bbe049bf54",
+      "title": "The Cable Guy",
+      "release_year": 1996,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-cable-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "9463d573-b606-4a6b-84bc-cac270a81202",
+      "title": "David Cross: HBO Comedy Half-Hour",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "david-cross-hbo-comedy-half-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "d3ffe1fd-5c15-4561-9470-c323e4ce2e51",
+      "title": "Men in Black",
+      "release_year": 1997,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black",
+      "has_reactions": true
+    },
+    {
+      "id": "199d9c7a-9912-469b-b002-c6ebafb4d976",
+      "title": "The Thin Pink Line",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-thin-pink-line",
+      "has_reactions": false
+    },
+    {
+      "id": "d59ea056-4b1f-4fac-b126-02db966eb7a3",
+      "title": "Mr. Show and the Incredible, Fantastical News Report",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "mr-show-and-the-incredible-fantastical-news-report",
+      "has_reactions": false
+    },
+    {
+      "id": "281431e6-f3d8-4643-bf16-221386c1ecf7",
+      "title": "Scary Movie 2",
+      "release_year": 2001,
+      "studio_label": "Brad Grey Pictures",
+      "slug": "scary-movie-2",
+      "has_reactions": true
+    },
+    {
+      "id": "f66a7ae8-af4e-4325-ba8b-a21ecae4bc50",
+      "title": "Night of the Living Doo",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "8d52f1ce-3394-4fc4-a8a7-9ed1db2f87cd",
+      "title": "Martin & Orloff",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "martin-orloff",
+      "has_reactions": false
+    },
+    {
+      "id": "8e6d43d1-ccbb-4849-9345-5f04a694048c",
+      "title": "Life Without Dick",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "life-without-dick",
+      "has_reactions": false
+    },
+    {
+      "id": "eced2810-b1ea-407f-8a82-abfe873524db",
+      "title": "Men in Black II",
+      "release_year": 2002,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "6565e2bd-fbcc-4a47-be27-18f530b67b10",
+      "title": "Run Ronnie Run",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "run-ronnie-run",
+      "has_reactions": false
+    },
+    {
+      "id": "ca6fce32-5c47-4ebd-aa31-e38ba4087676",
+      "title": "Tom Goes to the Mayor Returns",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "tom-goes-to-the-mayor-returns",
+      "has_reactions": false
+    },
+    {
+      "id": "bc2b336b-8241-476d-894d-1002a7f5a3f5",
+      "title": "Melvin Goes to Dinner",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "melvin-goes-to-dinner",
+      "has_reactions": false
+    },
+    {
+      "id": "0e0a4b27-def1-4af2-a07f-22fe92298faa",
+      "title": "Quest for Sleep",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "quest-for-sleep",
+      "has_reactions": false
+    },
+    {
+      "id": "79d814b8-e7e6-4532-9fd1-4db143595077",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "release_year": 2004,
+      "studio_label": "Focus Features",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "has_reactions": true
+    },
+    {
+      "id": "157c8603-d0b9-4132-9da0-045f01af0228",
+      "title": "Last Laugh '05",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "last-laugh-05",
+      "has_reactions": false
+    },
+    {
+      "id": "e0b67c92-5c81-46e4-a1be-bda506bdfbb0",
+      "title": "She's the Man",
+      "release_year": 2006,
+      "studio_label": "Lakeshore Entertainment",
+      "slug": "she-s-the-man",
+      "has_reactions": true
+    },
+    {
+      "id": "5bb5d84b-2198-4fba-b78b-cf5d8a492e08",
+      "title": "A Day in the Life of Nathaniel Hornblower",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "a-day-in-the-life-of-nathaniel-hornblower",
+      "has_reactions": false
+    },
+    {
+      "id": "5f6861c6-846d-4597-bf4d-eea0f1b9174d",
+      "title": "The Trachtenburg Family Slideshow Players: Off & On Broadway",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-trachtenburg-family-slideshow-players-off-on-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "1e3eb0e8-84d6-4570-a13a-1434564d819d",
+      "title": "Assume the Position with Mr. Wuhl",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "assume-the-position-with-mr-wuhl",
+      "has_reactions": false
+    },
+    {
+      "id": "7f2eb8de-0cd4-4de6-9d66-afa969959709",
+      "title": "Alvin and the Chipmunks",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "alvin-and-the-chipmunks",
+      "has_reactions": false
+    },
+    {
+      "id": "c5c060f3-a8e5-4ffe-a090-681176517259",
+      "title": "The Grand",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-grand",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa9ccf-750a-4bf3-9720-973591951944",
+      "title": "Fired!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fired",
+      "has_reactions": false
+    },
+    {
+      "id": "1538c792-f016-4f2a-b8f6-0c4e891a46ac",
+      "title": "Kung Fu Panda",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda",
+      "has_reactions": true
+    },
+    {
+      "id": "f173c438-dc01-494d-9bd8-d2689f6eb81d",
+      "title": "Kung Fu Panda: Secrets of the Furious Five",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-furious-five",
+      "has_reactions": false
+    },
+    {
+      "id": "515c72a4-b215-4a6b-a4a8-15d06f56155c",
+      "title": "Alvin and the Chipmunks: The Squeakquel",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "alvin-and-the-chipmunks-the-squeakquel",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3ad9d6-c21c-4bf8-b89d-530c281729d8",
+      "title": "Year One",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "year-one",
+      "has_reactions": false
+    },
+    {
+      "id": "698abf9b-1698-4754-a1ab-0ca3fa273683",
+      "title": "Paid Programming: Icelandic Ultra Blue",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "paid-programming-icelandic-ultra-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "231720ff-d53c-494b-a5f8-d3826882ad90",
+      "title": "All Tomorrow's Parties",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "all-tomorrow-s-parties",
+      "has_reactions": false
+    },
+    {
+      "id": "c09e236e-6de1-4e47-98e7-4418789ba597",
+      "title": "Meltdown",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "meltdown",
+      "has_reactions": false
+    },
+    {
+      "id": "17329769-711c-4ecd-8179-f66f4cf253db",
+      "title": "The Toe Tactic",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-toe-tactic",
+      "has_reactions": false
+    },
+    {
+      "id": "ffec4613-a6d0-4e6e-a633-b4c540b6e72b",
+      "title": "Megamind",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "megamind",
+      "has_reactions": true
+    },
+    {
+      "id": "c38c284e-df35-411a-8518-447141542ac7",
+      "title": "Kung Fu Panda Holiday",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "6dfdd608-4f75-4799-b02b-80a5b93358ce",
+      "title": "Gavin McInnes is a Fucking Asshole",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "gavin-mcinnes-is-a-fucking-asshole",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa8736c-9d37-4ab7-aa18-9897ca5282fd",
+      "title": "Kung Fu Panda 2",
+      "release_year": 2011,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-2",
+      "has_reactions": true
+    },
+    {
+      "id": "4eec52c2-7ab8-47d5-9ccd-f8ca66321fbf",
+      "title": "Fight for Your Right Revisited",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "fight-for-your-right-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "445ff40b-8422-4285-80cf-27c629a16948",
+      "title": "Alvin and the Chipmunks: Chipwrecked",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "alvin-and-the-chipmunks-chipwrecked",
+      "has_reactions": false
+    },
+    {
+      "id": "87f2b50b-3d63-4d46-84a9-f5ca874a4202",
+      "title": "Megamind: The Button of Doom",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "megamind-the-button-of-doom",
+      "has_reactions": false
+    },
+    {
+      "id": "872885b2-bf20-41dd-b18a-3887d1d3f9ca",
+      "title": "The Secret Policeman's Ball",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "dcbea4fb-486c-48d9-92ce-d0c90f42348e",
+      "title": "Kill Your Darlings",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kill-your-darlings",
+      "has_reactions": false
+    },
+    {
+      "id": "639775b0-53b5-4841-b9a0-65e35c5b65bd",
+      "title": "The Arrested Development Documentary Project",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-arrested-development-documentary-project",
+      "has_reactions": false
+    },
+    {
+      "id": "7a2496b3-032b-4232-aa77-95516f05b221",
+      "title": "The Muslims Are Coming!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-muslims-are-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "66f45cb1-be62-439a-82d4-97046f4131f9",
+      "title": "Pitch Perfect 2",
+      "release_year": 2015,
+      "studio_label": "Brownstone Productions",
+      "slug": "pitch-perfect-2",
+      "has_reactions": true
+    },
+    {
+      "id": "c7ec5ed4-230b-4522-b286-f253af032d5c",
+      "title": "Kung Fu Panda: Secrets of the Scroll",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-scroll",
+      "has_reactions": false
+    },
+    {
+      "id": "26c3d6d7-8c7c-4f59-88ed-c27b4caafd7f",
+      "title": "Kung Fu Panda 3",
+      "release_year": 2016,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-3",
+      "has_reactions": true
+    },
+    {
+      "id": "4fa9f2e9-3c0c-4fc8-be6d-a35726e6121c",
+      "title": "Folk Hero & Funny Guy",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "folk-hero-funny-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "990ad0ef-3d61-4f80-8cee-dc3da3dfd7c7",
+      "title": "The Last Laugh",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-last-laugh",
+      "has_reactions": false
+    },
+    {
+      "id": "ed423967-2bfa-4658-801f-b65e390becfd",
+      "title": "David Cross: Making America Great Again",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "david-cross-making-america-great-again",
+      "has_reactions": false
+    },
+    {
+      "id": "31184339-d103-438d-9441-e749c6e5df55",
+      "title": "Sorry to Bother You",
+      "release_year": 2018,
+      "studio_label": "Cinereach",
+      "slug": "sorry-to-bother-you",
+      "has_reactions": true
+    },
+    {
+      "id": "6f28a8c3-25ef-458b-bbb5-c8d16d98036e",
+      "title": "David Cross: Oh Come On",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "david-cross-oh-come-on",
+      "has_reactions": false
+    },
+    {
+      "id": "22f859a5-69fa-4fb0-8db8-8e6ef09f1cf9",
+      "title": "Our Popcorn Movie Dystopia - Some More News: The Movie",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "our-popcorn-movie-dystopia-some-more-news-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "37c746e9-0ee3-4a05-9b93-56cf154399e0",
+      "title": "Time Warp Vol. 1: Midnight Madness",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-1-midnight-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "2c1eedb9-be5e-48a4-9a77-b3e17b93bd29",
+      "title": "Time Warp Vol. 3: Comedy and Camp",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-3-comedy-and-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "ff7071bc-c8c7-489e-8295-7054e52815b5",
+      "title": "The Dark Divide",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-dark-divide",
+      "has_reactions": false
+    },
+    {
+      "id": "3f6ddda1-d17b-4b71-bb2b-5c56b99b0086",
+      "title": "8-Bit Christmas",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "8-bit-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "8ae6846d-c23e-4e21-bebe-a031d7914201",
+      "title": "Monty Python's Best Bits Celebrated",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "monty-python-s-best-bits-celebrated",
+      "has_reactions": false
+    },
+    {
+      "id": "89505483-6cbb-48a8-aebd-27506384480a",
+      "title": "Chop & Steele",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chop-steele",
+      "has_reactions": false
+    },
+    {
+      "id": "2da72889-a21a-4239-b96a-7006f930c2be",
+      "title": "David Cross: I'm From The Future",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "david-cross-i-m-from-the-future",
+      "has_reactions": false
+    },
+    {
+      "id": "84ec9fda-2ff0-4d7f-bf45-f2da4c788d26",
+      "title": "You Hurt My Feelings",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "you-hurt-my-feelings",
+      "has_reactions": false
+    },
+    {
+      "id": "707d6a92-a81f-46d3-bf7d-df20de6d3ab1",
+      "title": "Deal of a Lifetime",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "deal-of-a-lifetime",
+      "has_reactions": false
+    },
+    {
+      "id": "c6fb4323-4e21-427d-8023-0a8f39cc1303",
+      "title": "David Cross: Worst Daddy in the World",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "david-cross-worst-daddy-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "521e97b8-fe5b-4c75-bc87-016bfcbd040a",
+      "title": "The Elephant 6 Recording Co.",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-elephant-6-recording-co",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dd119189-fbae-456c-9636-243b5e7ff297",
+  "name": "John Ashton",
+  "slug": "john-ashton",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg",
+  "filmography": [
+    {
+      "id": "a26bcb2f-ac3e-4880-b695-eb362767b230",
+      "title": "Beverly Hills Cop",
+      "release_year": 1984,
+      "studio_label": "Paramount Pictures",
+      "slug": "beverly-hills-cop",
+      "has_reactions": true
+    },
+    {
+      "id": "bb54d398-a3bf-400e-b13c-003da740dcdc",
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "release_year": 1984,
+      "studio_label": "Sherwood Productions",
+      "slug": "the-adventures-of-buckaroo-banzai-across-the-8th-dimension",
+      "has_reactions": true
+    },
+    {
+      "id": "ff69949d-a53c-4470-a890-3dc06a34f33f",
+      "title": "Beverly Hills Cop II",
+      "release_year": 1987,
+      "studio_label": "Eddie Murphy Productions",
+      "slug": "beverly-hills-cop-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "5a207c8f-bc34-4890-93cb-cc247d626986",
+      "title": "Midnight Run",
+      "release_year": 1988,
+      "studio_label": "Universal Pictures",
+      "slug": "midnight-run",
+      "has_reactions": true
+    },
+    {
+      "id": "96e13389-262d-4669-9f0a-be6213114f10",
+      "title": "Curly Sue",
+      "release_year": 1991,
+      "studio_label": "Hughes Entertainment",
+      "slug": "curly-sue",
+      "has_reactions": true
+    },
+    {
+      "id": "5d88ee72-40e6-4625-88c1-b5c847b5a1d2",
+      "title": "Instinct",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "instinct",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "id": "df75b7c0-d0e4-4228-bb6d-df000a7ef058",
+  "name": "Seth Rogen",
+  "slug": "seth-rogen",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+  "filmography": [
+    {
+      "id": "50f1d068-92d4-4921-ba5e-6c41e554389d",
+      "title": "Newsflash",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "newsflash",
+      "has_reactions": false
+    },
+    {
+      "id": "3984e64b-8166-4958-9219-767e5a1b5171",
+      "title": "Being Mortal",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "being-mortal",
+      "has_reactions": false
+    },
+    {
+      "id": "30b84c23-bd6f-4041-89d1-aef99ec780da",
+      "title": "Babies",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "babies",
+      "has_reactions": false
+    },
+    {
+      "id": "c93433ff-f1d9-40c2-b91e-c20ce77d8680",
+      "title": "Donnie Darko",
+      "release_year": 2001,
+      "studio_label": "Flower Films",
+      "slug": "donnie-darko",
+      "has_reactions": true
+    },
+    {
+      "id": "ae3a4b80-7ccf-4282-8d97-b92f69d0460b",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "anchorman-the-legend-of-ron-burgundy",
+      "has_reactions": true
+    },
+    {
+      "id": "3ceaa76f-5780-42cf-bbb5-a611ad411580",
+      "title": "Wake Up, Ron Burgundy: The Lost Movie",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "wake-up-ron-burgundy-the-lost-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "9dfb7355-76b9-410b-be89-7864959a75f6",
+      "title": "The 40 Year Old Virgin",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "the-40-year-old-virgin",
+      "has_reactions": true
+    },
+    {
+      "id": "58f9feee-12fe-4d56-9d59-4860053de8d7",
+      "title": "You, Me and Dupree",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "you-me-and-dupree",
+      "has_reactions": false
+    },
+    {
+      "id": "1bab45f7-cb4f-4481-8e28-d6d0482c6ddb",
+      "title": "Superbad",
+      "release_year": 2007,
+      "studio_label": "Columbia Pictures",
+      "slug": "superbad",
+      "has_reactions": true
+    },
+    {
+      "id": "237d80c5-1a1c-414f-af08-4a0914ef8262",
+      "title": "Knocked Up",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "knocked-up",
+      "has_reactions": true
+    },
+    {
+      "id": "dc93af0f-407c-4a43-9439-8091b37ff05a",
+      "title": "Assume the Position 201 with Mr. Wuhl",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "assume-the-position-201-with-mr-wuhl",
+      "has_reactions": false
+    },
+    {
+      "id": "dbd09b64-9f8c-4424-b58d-7c81a2674d07",
+      "title": "Shrek the Third",
+      "release_year": 2007,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-the-third",
+      "has_reactions": true
+    },
+    {
+      "id": "1538c792-f016-4f2a-b8f6-0c4e891a46ac",
+      "title": "Kung Fu Panda",
+      "release_year": 2008,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda",
+      "has_reactions": true
+    },
+    {
+      "id": "df615b9c-ed86-4356-92f2-d4307ad89f10",
+      "title": "Pineapple Express",
+      "release_year": 2008,
+      "studio_label": "Columbia Pictures",
+      "slug": "pineapple-express",
+      "has_reactions": true
+    },
+    {
+      "id": "880c59d5-b0bb-4532-b5ee-a71f23e95d65",
+      "title": "Step Brothers",
+      "release_year": 2008,
+      "studio_label": "Columbia Pictures",
+      "slug": "step-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "e9829cf9-46ea-4c92-b5bc-38c49a56e705",
+      "title": "Horton Hears a Who!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "horton-hears-a-who",
+      "has_reactions": false
+    },
+    {
+      "id": "2f1894bd-d2bf-4186-9ecb-4cf63ae15c87",
+      "title": "The Spiderwick Chronicles",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-spiderwick-chronicles",
+      "has_reactions": false
+    },
+    {
+      "id": "dae6da95-64db-44d2-9b65-5f528b59697f",
+      "title": "This Is Not Sex",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "this-is-not-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "1c7b2a89-9b40-45a6-9c09-cd2b42bceada",
+      "title": "B.O.B.'s Big Break",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "b-o-b-s-big-break",
+      "has_reactions": false
+    },
+    {
+      "id": "b71b8326-2675-480e-bb91-3f18ae122ed0",
+      "title": "Paper Heart",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "paper-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "cca1100f-922a-4458-85be-990abb26142b",
+      "title": "Mutant Pumpkins from Outer Space",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "mutant-pumpkins-from-outer-space",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bb5004-cbbf-4b34-b6de-18b92e201568",
+      "title": "Teen Spirit: Teenagers and Hollywood",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "teen-spirit-teenagers-and-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "639e6e6e-7c8d-46dd-803c-fe0237cc56cc",
+      "title": "Funny People: Live",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "funny-people-live",
+      "has_reactions": false
+    },
+    {
+      "id": "cce55ca7-65cb-4e69-9db3-b135895991e3",
+      "title": "Jake Gyllenhaal Challenges the Winner of the Nobel Peace Prize",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jake-gyllenhaal-challenges-the-winner-of-the-nobel-peace-prize",
+      "has_reactions": false
+    },
+    {
+      "id": "c38c284e-df35-411a-8518-447141542ac7",
+      "title": "Kung Fu Panda Holiday",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa8736c-9d37-4ab7-aa18-9897ca5282fd",
+      "title": "Kung Fu Panda 2",
+      "release_year": 2011,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-2",
+      "has_reactions": true
+    },
+    {
+      "id": "c6613d3b-b9a4-47b5-8858-7722c8234417",
+      "title": "Take This Waltz",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "take-this-waltz",
+      "has_reactions": false
+    },
+    {
+      "id": "147afe23-9926-4278-b822-89129054151b",
+      "title": "Night of the Living Carrots",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-carrots",
+      "has_reactions": false
+    },
+    {
+      "id": "342adffe-a940-4940-9cb2-94778a6fed72",
+      "title": "Kung Fu Panda: Secrets of the Masters",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-masters",
+      "has_reactions": false
+    },
+    {
+      "id": "4eec52c2-7ab8-47d5-9ccd-f8ca66321fbf",
+      "title": "Fight for Your Right Revisited",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "fight-for-your-right-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "93bff56d-2ff2-46ae-bad9-fa62a622fc20",
+      "title": "The Guilt Trip",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-guilt-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "e13fda84-2ece-435e-9f47-1ee86f11f333",
+      "title": "For a Good Time, Call...",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "for-a-good-time-call",
+      "has_reactions": false
+    },
+    {
+      "id": "45604915-9e4b-4666-aaa2-78ae91d8c4f0",
+      "title": "This Is the End",
+      "release_year": 2013,
+      "studio_label": "Columbia Pictures",
+      "slug": "this-is-the-end",
+      "has_reactions": true
+    },
+    {
+      "id": "759f018e-c197-4f56-ba85-7558cfe1e660",
+      "title": "Comedy Central Roast of James Franco",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-james-franco",
+      "has_reactions": false
+    },
+    {
+      "id": "a05ad5df-e434-4edf-8cb2-ff2c1bee5934",
+      "title": "Monsters vs Aliens Stories",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "monsters-vs-aliens-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "42fd6448-4ac2-44be-aa2b-e3ca6e9668b5",
+      "title": "Seth Rogen Is the Worst Person in the World",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "seth-rogen-is-the-worst-person-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "eb69ecd8-6433-4b99-b249-27862edc1e6b",
+      "title": "Kung Fu Panda:  The Awesome Secrets Collection",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-the-awesome-secrets-collection",
+      "has_reactions": false
+    },
+    {
+      "id": "de03186e-64f8-4c4d-b6a3-29eed7687ea0",
+      "title": "Neighbors",
+      "release_year": 2014,
+      "studio_label": "Good Universe",
+      "slug": "neighbors",
+      "has_reactions": true
+    },
+    {
+      "id": "ca743ca2-13bd-432e-9f97-64328df6ca74",
+      "title": "Cops, Cum, Dicks, and Flying",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "cops-cum-dicks-and-flying",
+      "has_reactions": false
+    },
+    {
+      "id": "5dcb1853-b023-4441-9b76-e05da5d0ab84",
+      "title": "Dave Skylark's Very Special VMA Special",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dave-skylark-s-very-special-vma-special",
+      "has_reactions": false
+    },
+    {
+      "id": "910c685e-8694-457e-a6ad-e5b12c74ec08",
+      "title": "22 Jump Street",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "22-jump-street",
+      "has_reactions": true
+    },
+    {
+      "id": "68e0e812-9241-429a-805a-38da09531344",
+      "title": "The Sound and the Fury",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-sound-and-the-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "ab2066ea-f7e6-49cd-99d8-782fc09ed2f0",
+      "title": "Being Canadian",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "being-canadian",
+      "has_reactions": false
+    },
+    {
+      "id": "26c3d6d7-8c7c-4f59-88ed-c27b4caafd7f",
+      "title": "Kung Fu Panda 3",
+      "release_year": 2016,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-3",
+      "has_reactions": true
+    },
+    {
+      "id": "48e034f8-2fb1-4fd6-965e-8f762e256d0a",
+      "title": "Sausage Party",
+      "release_year": 2016,
+      "studio_label": "Columbia Pictures",
+      "slug": "sausage-party",
+      "has_reactions": true
+    },
+    {
+      "id": "c7ec5ed4-230b-4522-b286-f253af032d5c",
+      "title": "Kung Fu Panda: Secrets of the Scroll",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-panda-secrets-of-the-scroll",
+      "has_reactions": false
+    },
+    {
+      "id": "f560c9ef-6316-45f1-9fc8-24ab737573b7",
+      "title": "The Disaster Artist",
+      "release_year": 2017,
+      "studio_label": "New Line Cinema",
+      "slug": "the-disaster-artist",
+      "has_reactions": true
+    },
+    {
+      "id": "8be424a2-0de9-47ab-b60c-0845a96210d0",
+      "title": "Like Father",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "like-father",
+      "has_reactions": false
+    },
+    {
+      "id": "7561d648-356e-4281-8318-0115a5e1d3d5",
+      "title": "Freaks and Geeks: The Documentary",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "freaks-and-geeks-the-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "1dccef00-76b3-4643-ad1c-f571530b3373",
+      "title": "Tower of Song: A Memorial Tribute to Leonard Cohen",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "tower-of-song-a-memorial-tribute-to-leonard-cohen",
+      "has_reactions": false
+    },
+    {
+      "id": "7395e986-80f4-4c24-bbb8-3504222b779a",
+      "title": "Arizona",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "arizona",
+      "has_reactions": false
+    },
+    {
+      "id": "6a562809-1185-46ba-a29c-2c0055599d77",
+      "title": "Oh, Hi Mark: Making a Disaster",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "oh-hi-mark-making-a-disaster",
+      "has_reactions": false
+    },
+    {
+      "id": "55dd11d3-db80-4716-ab74-cac8c2c7e7a5",
+      "title": "The Lion King",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king",
+      "has_reactions": false
+    },
+    {
+      "id": "c0faf353-0ce4-47f4-9257-c35813480619",
+      "title": "The Lion King: Can You Feel The Love Tonight with Robin Roberts",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-can-you-feel-the-love-tonight-with-robin-roberts",
+      "has_reactions": false
+    },
+    {
+      "id": "a0bd8971-7651-4f71-aa17-106ea5df751d",
+      "title": "Long Shot",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "long-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "d198fa72-cdcc-4a37-aef1-8c40ca5c7d4f",
+      "title": "The Perfect Weapon",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-weapon",
+      "has_reactions": false
+    },
+    {
+      "id": "c856b1b4-74be-46f7-a438-4bb1d15d49dd",
+      "title": "Dear Class of 2020",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "dear-class-of-2020",
+      "has_reactions": false
+    },
+    {
+      "id": "dd1e4b97-0bc6-441f-a205-648c7df25cc9",
+      "title": "An American Pickle",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "an-american-pickle",
+      "has_reactions": false
+    },
+    {
+      "id": "41b20528-6277-48fa-b559-546ec1584fa1",
+      "title": "The Disney Family Singalong - Volume II",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-disney-family-singalong-volume-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "8b8e289f-81e8-4eac-8676-7d09a6de4185",
+      "title": "LA Originals",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "la-originals",
+      "has_reactions": false
+    },
+    {
+      "id": "e38ebd5e-0130-4089-9d45-ffa7dabe2c3c",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-rescue-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "5d2a5ddf-a8f9-491a-8a85-18f6b5115c37",
+      "title": "The Fabelmans",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-fabelmans",
+      "has_reactions": false
+    },
+    {
+      "id": "299fe8b7-a272-45df-9a7d-e4c133c4f20b",
+      "title": "The Super Mario Bros. Movie",
+      "release_year": 2023,
+      "studio_label": "Universal Pictures",
+      "slug": "the-super-mario-bros-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "9df55935-c182-4917-9868-12839d6aacf4",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "release_year": 2023,
+      "studio_label": "Paramount Pictures",
+      "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+      "has_reactions": true
+    },
+    {
+      "id": "8b27ea60-7511-47c6-a5b3-82ccf83010eb",
+      "title": "The Fabelmans: A Family in Film",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-fabelmans-a-family-in-film",
+      "has_reactions": false
+    },
+    {
+      "id": "040d622f-5329-4214-bb3e-705e71329837",
+      "title": "Michel Gondry: Do It Yourself",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "michel-gondry-do-it-yourself",
+      "has_reactions": false
+    },
+    {
+      "id": "af0fe69c-1ae4-4dfc-add1-147746770a16",
+      "title": "Kung Fu Panda 4",
+      "release_year": 2024,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-4",
+      "has_reactions": true
+    },
+    {
+      "id": "d820787a-2a19-4805-8f85-5981cc02222b",
+      "title": "Stormy",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "stormy",
+      "has_reactions": false
+    },
+    {
+      "id": "cf1a3a3b-99c8-433a-9aa5-f29ee5040e9a",
+      "title": "Taking Care",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "taking-care",
+      "has_reactions": false
+    },
+    {
+      "id": "28e4124d-a72d-42fe-8845-44141b031688",
+      "title": "Peppermint Spiral",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "peppermint-spiral",
+      "has_reactions": false
+    },
+    {
+      "id": "59941c64-ae3c-458b-aeba-d3e96ddd0208",
+      "title": "Animal Farm",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "animal-farm",
+      "has_reactions": false
+    }
+  ]
+}

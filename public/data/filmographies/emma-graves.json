@@ -1,0 +1,32 @@
+{
+  "id": "ad7d713d-4068-4c39-ba4b-e0b93bc268e1",
+  "name": "Emma Graves",
+  "slug": "emma-graves",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3a93BgglFIIPQc9VekxLVLAZ57z.jpg",
+  "filmography": [
+    {
+      "id": "212079f3-b2eb-4471-b1fd-68a21bff8e8e",
+      "title": "Pitch Perfect",
+      "release_year": 2012,
+      "studio_label": "Brownstone Productions",
+      "slug": "pitch-perfect",
+      "has_reactions": true
+    },
+    {
+      "id": "cfe46905-2177-4b30-8538-f3a9483f0d01",
+      "title": "Hush",
+      "release_year": 2016,
+      "studio_label": "Intrepid Pictures",
+      "slug": "hush",
+      "has_reactions": true
+    },
+    {
+      "id": "9deaaeb2-f61f-435d-b4ba-8618f7ff49f4",
+      "title": "In The Hell of Dixie",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "in-the-hell-of-dixie",
+      "has_reactions": false
+    }
+  ]
+}

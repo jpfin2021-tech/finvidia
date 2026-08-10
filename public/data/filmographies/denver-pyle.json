@@ -1,0 +1,584 @@
+{
+  "id": "b4ee7d86-5e57-4e2d-8aaf-c10d021542c0",
+  "name": "Denver Pyle",
+  "slug": "denver-pyle",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eYRwwhl3pWu3oNn1GKerUauooSV.jpg",
+  "filmography": [
+    {
+      "id": "1811e179-8565-4582-8915-1ae0e0710d38",
+      "title": "Devil Ship",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "devil-ship",
+      "has_reactions": false
+    },
+    {
+      "id": "09a8bf5c-a2ed-4065-bcd3-8171a09c4b50",
+      "title": "Marshal of Amarillo",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "marshal-of-amarillo",
+      "has_reactions": false
+    },
+    {
+      "id": "38c2eebf-b530-4c2d-a841-5a5ec724dd36",
+      "title": "Train to Alcatraz",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "train-to-alcatraz",
+      "has_reactions": false
+    },
+    {
+      "id": "4d789bbc-f9ed-4a3d-ab22-d2dc8b54a015",
+      "title": "Rim of the Canyon",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "rim-of-the-canyon",
+      "has_reactions": false
+    },
+    {
+      "id": "849023d2-f23a-43d7-a466-526c7e7c9f05",
+      "title": "Red Canyon",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "red-canyon",
+      "has_reactions": false
+    },
+    {
+      "id": "082a968a-a457-43c8-9fd5-892c6846afea",
+      "title": "Flame of Youth",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "flame-of-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "bd813294-4f89-4b29-8de4-bed1376dd4dd",
+      "title": "Streets of San Francisco",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "streets-of-san-francisco",
+      "has_reactions": false
+    },
+    {
+      "id": "27133326-ee46-4024-8a06-bf305cdb1583",
+      "title": "El Paso",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "el-paso",
+      "has_reactions": false
+    },
+    {
+      "id": "062ce145-dd18-4823-ad5f-3a5172bf6f63",
+      "title": "Too Late for Tears",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "too-late-for-tears",
+      "has_reactions": false
+    },
+    {
+      "id": "1570282b-ed9e-47c5-a722-5c92eba1b630",
+      "title": "The Big Wheel",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-big-wheel",
+      "has_reactions": false
+    },
+    {
+      "id": "730b3ee2-86ec-47c0-985d-a01637d3c014",
+      "title": "Federal Agent at Large",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "federal-agent-at-large",
+      "has_reactions": false
+    },
+    {
+      "id": "4af3d755-ca84-4038-9277-8e55cdc04e75",
+      "title": "Captain China",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "captain-china",
+      "has_reactions": false
+    },
+    {
+      "id": "549ab2f7-f9b1-4827-9bc8-cd953b4f4eed",
+      "title": "Customs Agent",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "customs-agent",
+      "has_reactions": false
+    },
+    {
+      "id": "7313ad9a-3451-4f4f-8cc0-21ff297cd6fe",
+      "title": "The Flying Saucer",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-flying-saucer",
+      "has_reactions": false
+    },
+    {
+      "id": "f6db0d02-6b0b-45c8-88cf-5611e3e67621",
+      "title": "Singing Guns",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "singing-guns",
+      "has_reactions": false
+    },
+    {
+      "id": "3792da40-4a89-4bd6-90b6-84d5fc7ca03d",
+      "title": "Million Dollar Pursuit",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "million-dollar-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "6b3af993-917f-46be-884d-efb4ca8d3dec",
+      "title": "Rough Riders of Durango",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "rough-riders-of-durango",
+      "has_reactions": false
+    },
+    {
+      "id": "a301dc8e-a7e3-4d0b-bb4e-5552f1bb1e6c",
+      "title": "Mutiny",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "mutiny",
+      "has_reactions": false
+    },
+    {
+      "id": "3a487930-5e8c-4239-ba8a-d19f48bef97a",
+      "title": "Oklahoma Annie",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "oklahoma-annie",
+      "has_reactions": false
+    },
+    {
+      "id": "9a4568c8-3f17-4eb5-a72b-56db8f4bfb39",
+      "title": "Canyon Ambush",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "canyon-ambush",
+      "has_reactions": false
+    },
+    {
+      "id": "be036dd4-b01c-4e1e-8d1b-3a3f3a6b08ed",
+      "title": "Texas Bad Man",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "texas-bad-man",
+      "has_reactions": false
+    },
+    {
+      "id": "d3c12257-8337-4aea-b448-580d651c946d",
+      "title": "Fort Vengeance",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "fort-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "c39d6088-e853-45a6-a35f-876bcf419a66",
+      "title": "Gunsmoke",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "gunsmoke",
+      "has_reactions": false
+    },
+    {
+      "id": "0e4fdd49-6b94-4fff-a7d2-6459d28ec69d",
+      "title": "Goldtown Ghost Riders",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "goldtown-ghost-riders",
+      "has_reactions": false
+    },
+    {
+      "id": "2064fd40-f5fa-41c0-82d9-0ec08b4cd4f2",
+      "title": "The Lone Hand",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-lone-hand",
+      "has_reactions": false
+    },
+    {
+      "id": "94b2ef74-aa7f-41a1-9455-f589b3a86ad0",
+      "title": "Column South",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "column-south",
+      "has_reactions": false
+    },
+    {
+      "id": "ec042bd3-e12e-4d10-b5e3-bbf187eee16b",
+      "title": "Drum Beat",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "drum-beat",
+      "has_reactions": false
+    },
+    {
+      "id": "20a8f5e7-a7a2-494d-bf51-ae767f318089",
+      "title": "The Command",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-command",
+      "has_reactions": false
+    },
+    {
+      "id": "d666193b-8325-401f-95a2-b3d73d39af8a",
+      "title": "Johnny Guitar",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "johnny-guitar",
+      "has_reactions": false
+    },
+    {
+      "id": "32c67ac1-2bef-4d1b-aa41-cc4bf9cd687e",
+      "title": "To Hell and Back",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "to-hell-and-back",
+      "has_reactions": false
+    },
+    {
+      "id": "3765ae12-c1ed-48c4-a7f9-31f9e6314cd7",
+      "title": "Run for Cover",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "run-for-cover",
+      "has_reactions": false
+    },
+    {
+      "id": "f02afc52-a716-4930-8ce0-482c8f52a645",
+      "title": "Ten Wanted Men",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "ten-wanted-men",
+      "has_reactions": false
+    },
+    {
+      "id": "b9852db4-c98b-414c-81f0-06df7b1cd21c",
+      "title": "Top Gun",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "top-gun",
+      "has_reactions": false
+    },
+    {
+      "id": "1a40e858-899f-48bc-98eb-9db0d02ae49c",
+      "title": "Rage at Dawn",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "rage-at-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "6c874140-1f7f-4bc6-8231-839499432a93",
+      "title": "7th Cavalry",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "7th-cavalry",
+      "has_reactions": false
+    },
+    {
+      "id": "19edc208-3f76-461a-bb9e-e917a2c924c0",
+      "title": "The Naked Hills",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-naked-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "83866988-6d6e-4a0d-8996-4f0a2451473d",
+      "title": "Please Murder Me",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "please-murder-me",
+      "has_reactions": false
+    },
+    {
+      "id": "0b57594f-f801-46bd-bbdc-e603a455362c",
+      "title": "Yaqui Drums",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "yaqui-drums",
+      "has_reactions": false
+    },
+    {
+      "id": "69a43016-99d2-465d-a6c3-0e123bb88dba",
+      "title": "I Killed Wild Bill Hickok",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "i-killed-wild-bill-hickok",
+      "has_reactions": false
+    },
+    {
+      "id": "8ceba9cc-7424-4fcc-8aac-5db86b3f1e05",
+      "title": "The Lonely Man",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-lonely-man",
+      "has_reactions": false
+    },
+    {
+      "id": "b1864b2a-5245-4f9d-a84f-f1a31387e017",
+      "title": "Gun Duel in Durango",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "gun-duel-in-durango",
+      "has_reactions": false
+    },
+    {
+      "id": "1c3dede8-a081-4e3d-91b9-0e424942e09e",
+      "title": "Jet Pilot",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "jet-pilot",
+      "has_reactions": false
+    },
+    {
+      "id": "498f3b91-f603-4b1d-80da-7ea8815eb6cd",
+      "title": "Destination 60,000",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "destination-60-000",
+      "has_reactions": false
+    },
+    {
+      "id": "a7657b6e-6fee-439f-87df-787226785a0d",
+      "title": "Fort Massacre",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "fort-massacre",
+      "has_reactions": false
+    },
+    {
+      "id": "50dd2573-4c65-493c-b5b7-6b0ac25e6580",
+      "title": "The Party Crashers",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-party-crashers",
+      "has_reactions": false
+    },
+    {
+      "id": "03a7f27e-4637-49b9-89d6-763e5d220b55",
+      "title": "Good Day for a Hanging",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "good-day-for-a-hanging",
+      "has_reactions": false
+    },
+    {
+      "id": "d6347485-44d2-40b2-af3e-f64178b7fed8",
+      "title": "King of the Wild Stallions",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "king-of-the-wild-stallions",
+      "has_reactions": false
+    },
+    {
+      "id": "c553c212-785b-4299-902a-d618042ee127",
+      "title": "The Alamo",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-alamo",
+      "has_reactions": false
+    },
+    {
+      "id": "c7df18a9-7cdf-4e41-8cb4-782ddf97a6e0",
+      "title": "Home from the Hill",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "home-from-the-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "1ed4e523-3887-460c-ad9b-f10fa3173148",
+      "title": "Geronimo",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "geronimo",
+      "has_reactions": false
+    },
+    {
+      "id": "983b6ce2-154a-4dbc-a6e1-2aa24b73bb2e",
+      "title": "Cheyenne Autumn",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "cheyenne-autumn",
+      "has_reactions": false
+    },
+    {
+      "id": "f4e52980-b692-4a92-b51f-c780fecfa308",
+      "title": "Black Like Me",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "black-like-me",
+      "has_reactions": false
+    },
+    {
+      "id": "ed09bca4-c7b8-4f95-bd4d-24de7952a08b",
+      "title": "Mail Order Bride",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "mail-order-bride",
+      "has_reactions": false
+    },
+    {
+      "id": "62ddbe08-7e9c-4ab5-a9c7-d4d2fe36b65d",
+      "title": "The Great Race",
+      "release_year": 1965,
+      "studio_label": "Jalem Productions",
+      "slug": "the-great-race",
+      "has_reactions": true
+    },
+    {
+      "id": "eeae0eef-e9d6-4792-8860-7d424c7f6694",
+      "title": "Mara of the Wilderness",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "mara-of-the-wilderness",
+      "has_reactions": false
+    },
+    {
+      "id": "08611798-9ab0-4114-9331-3e2d8d5f32eb",
+      "title": "Incident at Phantom Hill",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "incident-at-phantom-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "46a03be4-3846-4f26-98b3-0dd81187f695",
+      "title": "Bonnie and Clyde",
+      "release_year": 1967,
+      "studio_label": "Tatira-Hiller Productions",
+      "slug": "bonnie-and-clyde",
+      "has_reactions": false
+    },
+    {
+      "id": "6bab8a89-03db-4d5d-8f2a-6143838a4e3c",
+      "title": "Tammy and the Millionaire",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "tammy-and-the-millionaire",
+      "has_reactions": false
+    },
+    {
+      "id": "051482ac-5e0f-4678-973c-0208f2dd9975",
+      "title": "Mean Justice",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "mean-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "65031872-d76e-4a23-8cc3-170042c92129",
+      "title": "Hitched",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "hitched",
+      "has_reactions": false
+    },
+    {
+      "id": "718f0d77-fe33-4b0b-946a-721d982cde93",
+      "title": "Hog Wild",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "hog-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "b31a106f-d26e-4cc6-a6b8-d53d8392ab7e",
+      "title": "Murder or Mercy",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "murder-or-mercy",
+      "has_reactions": false
+    },
+    {
+      "id": "06cde507-c945-479d-9d15-65f7729c9fc4",
+      "title": "Escape to Witch Mountain",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "escape-to-witch-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "fb5807fb-2224-4ff8-9ee5-31ebdd2e7256",
+      "title": "The Boy Who Talked to Badgers",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-boy-who-talked-to-badgers",
+      "has_reactions": false
+    },
+    {
+      "id": "14c36b16-6d3a-4453-b058-c38d4bb9235e",
+      "title": "Welcome to L.A.",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-l-a",
+      "has_reactions": false
+    },
+    {
+      "id": "cf2bf323-de23-4856-b0a0-ae068b46abe6",
+      "title": "The Last of Mrs. Lincoln",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-mrs-lincoln",
+      "has_reactions": false
+    },
+    {
+      "id": "2475383e-48ea-4f9d-a4b1-fea2fe247c10",
+      "title": "Once Upon a Starry Night",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-starry-night",
+      "has_reactions": false
+    },
+    {
+      "id": "d8faa2ab-9ee1-4cff-8261-ca29434e0aed",
+      "title": "Return from Witch Mountain",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "return-from-witch-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "dd3faabd-2f2d-4643-ba05-580f6dc38593",
+      "title": "When the West Was Fun: A Western Reunion",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "when-the-west-was-fun-a-western-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "f0488362-390e-4a64-910c-5c54ee2d79c5",
+      "title": "Mercur: The Town that Can't Stay Dead",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "mercur-the-town-that-can-t-stay-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "46849ef3-a37e-4bef-a4ad-19addbe67709",
+      "title": "Maverick",
+      "release_year": 1994,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "maverick",
+      "has_reactions": true
+    },
+    {
+      "id": "369d96af-22d0-45d2-80dc-49acdabc5930",
+      "title": "Father and Scout",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "father-and-scout",
+      "has_reactions": false
+    }
+  ]
+}

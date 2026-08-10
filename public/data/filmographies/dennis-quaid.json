@@ -1,0 +1,592 @@
+{
+  "id": "9e3739fb-6032-4adb-bb22-e95d2b76c55f",
+  "name": "Dennis Quaid",
+  "slug": "dennis-quaid",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+  "filmography": [
+    {
+      "id": "109627b4-43ba-43dd-9283-b61ccc9c1e67",
+      "title": "American Pride",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "american-pride",
+      "has_reactions": false
+    },
+    {
+      "id": "7824af87-1c72-4872-a57d-3205285db310",
+      "title": "September 30, 1955",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "september-30-1955",
+      "has_reactions": false
+    },
+    {
+      "id": "1d81e5f4-753e-4f51-ab02-a98254602f12",
+      "title": "Are You in the House Alone?",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "are-you-in-the-house-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "9443c81a-5237-4fe2-89b0-e3dabacf9aab",
+      "title": "Our Winning Season",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "our-winning-season",
+      "has_reactions": false
+    },
+    {
+      "id": "f0f22934-10f3-4a55-9f60-4ff499b30d9b",
+      "title": "The Seniors",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-seniors",
+      "has_reactions": false
+    },
+    {
+      "id": "f1c1202e-84a4-4053-9830-1c447cf3aede",
+      "title": "Amateur Night at the Dixie Bar and Grill",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "amateur-night-at-the-dixie-bar-and-grill",
+      "has_reactions": false
+    },
+    {
+      "id": "523d6018-96ea-437f-b3db-493e36469b0d",
+      "title": "Gorp",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "gorp",
+      "has_reactions": false
+    },
+    {
+      "id": "763e803b-73c2-43d0-b25f-7945484bf061",
+      "title": "Stripes",
+      "release_year": 1981,
+      "studio_label": "Columbia Pictures",
+      "slug": "stripes",
+      "has_reactions": true
+    },
+    {
+      "id": "536e3060-fd50-4ff9-80ce-881a43a46b98",
+      "title": "Caveman",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "caveman",
+      "has_reactions": false
+    },
+    {
+      "id": "f8896e4a-3d23-4d57-acb8-95f95520ae68",
+      "title": "Bill",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "bill",
+      "has_reactions": false
+    },
+    {
+      "id": "c6902d59-a5b5-40c1-8d5a-3ac6be4bcbd1",
+      "title": "All Night Long",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "all-night-long",
+      "has_reactions": false
+    },
+    {
+      "id": "9927852b-0746-4289-a849-715ebcac89c7",
+      "title": "The Right Stuff",
+      "release_year": 1983,
+      "studio_label": "The Ladd Company",
+      "slug": "the-right-stuff",
+      "has_reactions": true
+    },
+    {
+      "id": "e68108ef-c4df-4ebb-8892-39cf2d2025e0",
+      "title": "Bill: On His Own",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "bill-on-his-own",
+      "has_reactions": false
+    },
+    {
+      "id": "0d4d7417-f708-4439-9d34-c624f8900135",
+      "title": "Tough Enough",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "tough-enough",
+      "has_reactions": false
+    },
+    {
+      "id": "7f2b55d2-5bba-43cb-9213-75873214b47f",
+      "title": "Jaws 3-D",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "jaws-3-d",
+      "has_reactions": false
+    },
+    {
+      "id": "c0fd05fe-49ba-453a-a815-b042f8fc811c",
+      "title": "Enemy Mine",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "enemy-mine",
+      "has_reactions": false
+    },
+    {
+      "id": "c612824d-7c3e-4ca8-b052-8738b9ead483",
+      "title": "Suspect",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "suspect",
+      "has_reactions": false
+    },
+    {
+      "id": "d5f183fa-6480-41e4-b580-c054cb57a1e7",
+      "title": "Everybody's All-American",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "everybody-s-all-american",
+      "has_reactions": false
+    },
+    {
+      "id": "f033fb53-fe91-4848-b88d-21dfec9efc55",
+      "title": "Come See the Paradise",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "come-see-the-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "78acd108-5227-46e7-a6d9-f20a520e3748",
+      "title": "Wilder Napalm",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "wilder-napalm",
+      "has_reactions": false
+    },
+    {
+      "id": "c74626c6-5178-4180-ad62-7ba5ce47cf4d",
+      "title": "Undercover Blues",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "undercover-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "b2a05489-777b-473e-8fbc-ac75ae176f9a",
+      "title": "Wyatt Earp",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "wyatt-earp",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d8ab8d-5b7a-4e85-b2d1-cf50c43cb620",
+      "title": "DragonHeart",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "dragonheart",
+      "has_reactions": false
+    },
+    {
+      "id": "f838f297-600d-482f-9128-c0c9ceab63b3",
+      "title": "The Making of 'DragonHeart'",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-dragonheart",
+      "has_reactions": false
+    },
+    {
+      "id": "0ee9b845-a7fe-43df-8a6b-a94b162b0f5a",
+      "title": "Gang Related",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "gang-related",
+      "has_reactions": false
+    },
+    {
+      "id": "be0b85ce-445b-4966-89a4-8b720d319d6c",
+      "title": "Switchback",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "switchback",
+      "has_reactions": false
+    },
+    {
+      "id": "c0a481f2-345b-4636-aeae-6e0a0a5c4692",
+      "title": "Sesame Street: Kids' Guide to Life: Telling the Truth",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "sesame-street-kids-guide-to-life-telling-the-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "551f985f-cfd5-4842-90df-8640ac6564a9",
+      "title": "Savior",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "savior",
+      "has_reactions": false
+    },
+    {
+      "id": "688f96b5-7a71-4101-aa70-f1a7e7cb9428",
+      "title": "Everything That Rises",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "everything-that-rises",
+      "has_reactions": false
+    },
+    {
+      "id": "3c44d806-c06b-4145-9854-77c1780b7567",
+      "title": "The Parent Trap",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-parent-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "ad604c0f-1d59-4cd3-b587-a68c5980bd1e",
+      "title": "Frequency",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "frequency",
+      "has_reactions": true
+    },
+    {
+      "id": "563d4cca-57dd-416f-ba94-17738bf63cec",
+      "title": "Inside Traffic: The Making of 'Traffic'",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "inside-traffic-the-making-of-traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "93f092a8-4a83-4d1d-aa2f-45327ba3855a",
+      "title": "Traffic",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "42b3e6c3-d3cd-4b48-bb86-4a66c623a7fd",
+      "title": "The Science And Technology Behind 'Frequency'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-science-and-technology-behind-frequency",
+      "has_reactions": false
+    },
+    {
+      "id": "cb26c8c8-0f47-4984-aa93-18dfb7d7759c",
+      "title": "Far from Heaven",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "far-from-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "3e193d6b-b0af-4b79-987b-9e56663bf745",
+      "title": "The Day After Tomorrow",
+      "release_year": 2004,
+      "studio_label": "20th Century Fox",
+      "slug": "the-day-after-tomorrow",
+      "has_reactions": true
+    },
+    {
+      "id": "d1477427-ad6c-43bb-b19c-2f764bc609ef",
+      "title": "Flight of the Phoenix",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "flight-of-the-phoenix",
+      "has_reactions": false
+    },
+    {
+      "id": "5432b02e-67ab-48ae-b9c5-f272d9cfc233",
+      "title": "Yours, Mine & Ours",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "yours-mine-ours",
+      "has_reactions": false
+    },
+    {
+      "id": "af2bbb90-17ba-4ef3-8bb7-c33106eb7599",
+      "title": "2005 Houston Astros: The Championship Season",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "2005-houston-astros-the-championship-season",
+      "has_reactions": false
+    },
+    {
+      "id": "e479416a-8dc6-4e47-9fec-01874321e821",
+      "title": "Meat Loaf: In Search of Paradise",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "meat-loaf-in-search-of-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "d84048f8-28ea-4539-9141-bd8865027694",
+      "title": "Vantage Point",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "vantage-point",
+      "has_reactions": false
+    },
+    {
+      "id": "a49a1256-4117-4212-9ca0-143e05edcf02",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-the-rise-of-cobra",
+      "has_reactions": false
+    },
+    {
+      "id": "a339ce1a-150b-48e9-899c-c37000f684e4",
+      "title": "Horsemen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "horsemen",
+      "has_reactions": false
+    },
+    {
+      "id": "5dda0cad-6c1f-407e-8171-16667fbbd9d7",
+      "title": "Pandorum",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "pandorum",
+      "has_reactions": false
+    },
+    {
+      "id": "4b82663c-7fda-4d11-9e7e-67a5732630a1",
+      "title": "Legion",
+      "release_year": 2010,
+      "studio_label": "Screen Gems",
+      "slug": "legion",
+      "has_reactions": false
+    },
+    {
+      "id": "fb93fc35-f41f-49d6-8fbf-4bd6434d2d20",
+      "title": "The Special Relationship",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-special-relationship",
+      "has_reactions": false
+    },
+    {
+      "id": "053bf39e-6c67-46b4-afc6-402ca94172b2",
+      "title": "Soul Surfer",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "soul-surfer",
+      "has_reactions": false
+    },
+    {
+      "id": "271af088-9a83-4ec2-9735-3b3b79009e64",
+      "title": "Beneath the Darkness",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "beneath-the-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "2ee9892b-eed5-45b1-9825-586861983caf",
+      "title": "At Any Price",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "at-any-price",
+      "has_reactions": false
+    },
+    {
+      "id": "4c120fbe-02c1-414d-a2b1-fa5cc3e88a3e",
+      "title": "What to Expect When You're Expecting",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "what-to-expect-when-you-re-expecting",
+      "has_reactions": false
+    },
+    {
+      "id": "fbea1573-0946-400e-9f42-dc4a3548b5be",
+      "title": "Playing for Keeps",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "playing-for-keeps",
+      "has_reactions": false
+    },
+    {
+      "id": "c5464029-176f-4be2-a873-497916373ea1",
+      "title": "Miracles on the Plains",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "miracles-on-the-plains",
+      "has_reactions": false
+    },
+    {
+      "id": "0d18f993-d59c-4fcc-beac-e8fbfa5e8511",
+      "title": "Truth",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "truth",
+      "has_reactions": false
+    },
+    {
+      "id": "83999c32-7f14-4f25-bae2-eaf928d761a9",
+      "title": "Mad Families",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "mad-families",
+      "has_reactions": false
+    },
+    {
+      "id": "4732d495-fd0f-4245-ba29-a69d4cad0adb",
+      "title": "A Dog's Purpose",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "a-dog-s-purpose",
+      "has_reactions": false
+    },
+    {
+      "id": "c0ab77db-0c2a-48a4-a70f-a1ffbc89f34b",
+      "title": "Kin",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "kin",
+      "has_reactions": false
+    },
+    {
+      "id": "388b5187-2662-409f-aa44-79e9a021bccb",
+      "title": "I Can Only Imagine",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "i-can-only-imagine",
+      "has_reactions": false
+    },
+    {
+      "id": "9145de39-eb10-4230-ab75-3697e4d10da1",
+      "title": "Midway",
+      "release_year": 2019,
+      "studio_label": "AGC Studios",
+      "slug": "midway",
+      "has_reactions": true
+    },
+    {
+      "id": "7781f662-e0fa-44ff-9b78-3c1f0490fc93",
+      "title": "Pretenders",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "pretenders",
+      "has_reactions": false
+    },
+    {
+      "id": "641e1588-76ed-4104-a677-9b3a8a82294d",
+      "title": "Secrets in the Sky: The Untold Story of Skunk Works",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "secrets-in-the-sky-the-untold-story-of-skunk-works",
+      "has_reactions": false
+    },
+    {
+      "id": "c399aead-6fab-4536-88c0-9571e18a9b4c",
+      "title": "The Intruder",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-intruder",
+      "has_reactions": false
+    },
+    {
+      "id": "8853d43a-a8fe-45f3-ae5a-333e14360b1f",
+      "title": "A Dog's Journey",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "a-dog-s-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "4289803e-7d3a-4512-bc4c-4fbc27fe0372",
+      "title": "The Men of Midway",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-men-of-midway",
+      "has_reactions": false
+    },
+    {
+      "id": "27d2b105-93fe-47ca-9183-8a2e10ef0587",
+      "title": "Meat Loaf - A Celebration Of Life",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "meat-loaf-a-celebration-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "36259cc5-a684-4ead-9f28-46aa5c3f92cf",
+      "title": "Grid Down, Power Up",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "grid-down-power-up",
+      "has_reactions": false
+    },
+    {
+      "id": "bcbf42fa-7be5-440d-aaea-dd7e1028b7b1",
+      "title": "On a Wing and a Prayer",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "on-a-wing-and-a-prayer",
+      "has_reactions": false
+    },
+    {
+      "id": "62acdd06-4b99-441a-9e65-a3736cdcde09",
+      "title": "Strays",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "strays",
+      "has_reactions": false
+    },
+    {
+      "id": "16695771-f95b-4ef7-bcf6-9f36cd5dd3d6",
+      "title": "The Substance",
+      "release_year": 2024,
+      "studio_label": "Working Title Films",
+      "slug": "the-substance",
+      "has_reactions": true
+    },
+    {
+      "id": "4da6869d-70c4-42c2-afdd-15ca2e8af34c",
+      "title": "Reagan",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "reagan",
+      "has_reactions": false
+    },
+    {
+      "id": "ec7196b8-d75c-4bc6-acb0-ba1efe2b9daf",
+      "title": "Mr. Nelson on the North Side",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "mr-nelson-on-the-north-side",
+      "has_reactions": false
+    },
+    {
+      "id": "7675caa7-ec93-4e2b-b899-6e95f48caffb",
+      "title": "Broke",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "broke",
+      "has_reactions": false
+    },
+    {
+      "id": "6200b6dd-0523-44f8-ad7c-8670d7d0a088",
+      "title": "Sovereign",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "sovereign",
+      "has_reactions": false
+    },
+    {
+      "id": "184ea603-39f8-42b1-8813-7397601f02d4",
+      "title": "Signal One",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "signal-one",
+      "has_reactions": false
+    }
+  ]
+}

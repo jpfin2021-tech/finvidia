@@ -1,0 +1,648 @@
+{
+  "id": "5c578146-3f61-4afa-8470-9aef05794cd7",
+  "name": "Alan Oppenheimer",
+  "slug": "alan-oppenheimer",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg",
+  "filmography": [
+    {
+      "id": "4d736229-c90b-4920-9b25-3cf8c139b022",
+      "title": "Gammera the Invincible",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "gammera-the-invincible",
+      "has_reactions": false
+    },
+    {
+      "id": "b01cac2d-2f50-43ae-9806-7d5be6b2cc7c",
+      "title": "In the Heat of the Night",
+      "release_year": 1967,
+      "studio_label": "United Artists",
+      "slug": "in-the-heat-of-the-night",
+      "has_reactions": true
+    },
+    {
+      "id": "21ed601b-266f-41e3-b792-73e0c6bd09d9",
+      "title": "Gunn",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "gunn",
+      "has_reactions": false
+    },
+    {
+      "id": "9f6590c8-fa26-4ec0-aad8-669b853cfeef",
+      "title": "How to Save a Marriage and Ruin Your Life",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "how-to-save-a-marriage-and-ruin-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "6b6eb533-2821-4016-b10e-f5b1a305a0d7",
+      "title": "Uptight",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "uptight",
+      "has_reactions": false
+    },
+    {
+      "id": "4004e6ae-7980-4783-b438-bae8a6af4afe",
+      "title": "The Maltese Bippy",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-maltese-bippy",
+      "has_reactions": false
+    },
+    {
+      "id": "7fc286d0-9ee4-487a-a04d-93b3dedf8d99",
+      "title": "Three for Tahiti",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "three-for-tahiti",
+      "has_reactions": false
+    },
+    {
+      "id": "720728b2-9a11-4671-83a8-b788c22fe5b8",
+      "title": "Little Big Man",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "little-big-man",
+      "has_reactions": false
+    },
+    {
+      "id": "465db431-94e0-46c5-bcfc-29315336f706",
+      "title": "Inside O.U.T.",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "inside-o-u-t",
+      "has_reactions": false
+    },
+    {
+      "id": "f350a8a7-51b2-4ec9-8a50-1a9e7dd3bb50",
+      "title": "The Groundstar Conspiracy",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-groundstar-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "1b2382fe-bae1-45df-97b6-d1a8ae97cd60",
+      "title": "The Six Million Dollar Man: The Solid Gold Kidnapping",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-six-million-dollar-man-the-solid-gold-kidnapping",
+      "has_reactions": false
+    },
+    {
+      "id": "47e87b01-65f1-4405-b945-bab028d031cf",
+      "title": "Daddy's Girl",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "daddy-s-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "c812dac7-7700-4f4a-86be-891471941558",
+      "title": "Westworld",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "westworld",
+      "has_reactions": false
+    },
+    {
+      "id": "99fce6ca-0403-4c1d-a63f-78688131280b",
+      "title": "Murder Works Overtime",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "murder-works-overtime",
+      "has_reactions": false
+    },
+    {
+      "id": "01c2bbe3-d0b0-4a26-9538-b441b3a9c9e6",
+      "title": "Death Sentence",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "death-sentence",
+      "has_reactions": false
+    },
+    {
+      "id": "63ad42cd-5068-4299-8f19-2479f4eb585c",
+      "title": "Judgment: The Court Martial of the Tiger of Malaya \u2014 General Yamashita",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "judgment-the-court-martial-of-the-tiger-of-malaya-general-yamashita",
+      "has_reactions": false
+    },
+    {
+      "id": "6168a0c2-13de-4a62-a1da-4e8e474e2262",
+      "title": "Cyrano",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "cyrano",
+      "has_reactions": false
+    },
+    {
+      "id": "849b47d8-ffc3-4511-ab28-14c8b55595c2",
+      "title": "Win, Place or Steal",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "win-place-or-steal",
+      "has_reactions": false
+    },
+    {
+      "id": "7a761815-e9c5-4f31-90b6-898f63a3e8d5",
+      "title": "The Lives of Jenny Dolan",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-lives-of-jenny-dolan",
+      "has_reactions": false
+    },
+    {
+      "id": "64f739b2-5566-46d8-85e1-086c7847079c",
+      "title": "The Bionic Woman",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-bionic-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "afdbff6f-789a-4a6b-a434-66237457e58f",
+      "title": "The Hindenburg",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-hindenburg",
+      "has_reactions": false
+    },
+    {
+      "id": "aa49b34d-65c5-4c31-846c-c6521ee5e830",
+      "title": "Riding with Death",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "riding-with-death",
+      "has_reactions": false
+    },
+    {
+      "id": "2d30793a-de5d-447f-93ab-8a9e5eb99e32",
+      "title": "Freaky Friday",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "freaky-friday",
+      "has_reactions": false
+    },
+    {
+      "id": "a435e981-04ea-4fa4-a761-d4710473d03d",
+      "title": "Record City",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "record-city",
+      "has_reactions": false
+    },
+    {
+      "id": "ad52c164-fe9e-4d81-92ab-d8d48f9d1b79",
+      "title": "To Kill a Cop",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "to-kill-a-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "71cfc859-6f42-4560-9b26-c9d38c687813",
+      "title": "Peeping Times",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "peeping-times",
+      "has_reactions": false
+    },
+    {
+      "id": "c2d15375-523e-4353-9b6b-3c79c5ed4130",
+      "title": "The Ghost of Flight 401",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-ghost-of-flight-401",
+      "has_reactions": false
+    },
+    {
+      "id": "07c316f6-77f2-48f2-8566-39a63cd59ce7",
+      "title": "You Can't Take it With You",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "you-can-t-take-it-with-you",
+      "has_reactions": false
+    },
+    {
+      "id": "ef21a0a2-40ba-4c30-ba66-5ec4a948bca5",
+      "title": "A Pleasure Doing Business",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "a-pleasure-doing-business",
+      "has_reactions": false
+    },
+    {
+      "id": "dce65bc9-adb8-42e7-83f5-b5cc3fadd0f3",
+      "title": "Take It to the Limit",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "take-it-to-the-limit",
+      "has_reactions": false
+    },
+    {
+      "id": "b272641d-5e74-4351-b8b8-7744c87d3eab",
+      "title": "Macbeth",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "8099c77d-1fbd-43df-8786-e9d89001f2bd",
+      "title": "Romeo and Smurfette",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "romeo-and-smurfette",
+      "has_reactions": false
+    },
+    {
+      "id": "9d27d32a-412b-4ca5-aceb-f2be557e4bee",
+      "title": "The Smurfs Christmas Special",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "4d4cf556-9cb0-434c-9d72-1959f84b8099",
+      "title": "Mighty Mouse in the Great Space Chase",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "mighty-mouse-in-the-great-space-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "f570a97f-2131-47be-93fa-08497c4035ad",
+      "title": "The Smurfs Springtime Special",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-springtime-special",
+      "has_reactions": false
+    },
+    {
+      "id": "8f3111ae-b1bd-4df5-9218-7d3459e326e1",
+      "title": "Divorce Wars: A Love Story",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "divorce-wars-a-love-story",
+      "has_reactions": false
+    },
+    {
+      "id": "1c047755-1087-4875-938e-436b6a1c35fe",
+      "title": "The Smurfs Halloween Special",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-halloween-special",
+      "has_reactions": false
+    },
+    {
+      "id": "8897656f-bb09-420c-8598-7dcef96f46c5",
+      "title": "Memorial Day",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "memorial-day",
+      "has_reactions": false
+    },
+    {
+      "id": "4d2ee1bb-afb6-4984-9ee8-f6af34696c6f",
+      "title": "My Smurfy Valentine",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "my-smurfy-valentine",
+      "has_reactions": false
+    },
+    {
+      "id": "7a5205a5-393c-4f5b-a57e-20bfb64eaa59",
+      "title": "The Smurfs: Baby's First Christmas",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-baby-s-first-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "7a5acbe4-ba7a-46ed-b3ad-efab461397a9",
+      "title": "The NeverEnding Story",
+      "release_year": 1984,
+      "studio_label": "Constantin Film",
+      "slug": "the-neverending-story",
+      "has_reactions": true
+    },
+    {
+      "id": "cc17c709-9615-473b-bd82-76c8887a6b7d",
+      "title": "The Smurfic Games",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-smurfic-games",
+      "has_reactions": false
+    },
+    {
+      "id": "4966e3ad-5c1b-4e64-b665-42140f49ad91",
+      "title": "My Wicked, Wicked Ways: The Legend of Errol Flynn",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "my-wicked-wicked-ways-the-legend-of-errol-flynn",
+      "has_reactions": false
+    },
+    {
+      "id": "bd1b12d7-0ca2-4ae2-a2de-157d23545bb3",
+      "title": "The Execution",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-execution",
+      "has_reactions": false
+    },
+    {
+      "id": "1e228397-292f-4b4b-865a-32d8a18f0983",
+      "title": "He-Man and She-Ra: The Secret of the Sword",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "he-man-and-she-ra-the-secret-of-the-sword",
+      "has_reactions": false
+    },
+    {
+      "id": "25d045bf-4ec4-4365-a39e-0e3e207a7ba9",
+      "title": "He-Man and She-Ra: A Christmas Special",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "he-man-and-she-ra-a-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "0920b6a8-0838-4254-99e7-8302e931cf36",
+      "title": "The Pound Puppies",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-pound-puppies",
+      "has_reactions": false
+    },
+    {
+      "id": "07fa4183-91b9-4c03-8043-a31f9df0f1fa",
+      "title": "Daniel and the Lion's Den",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "daniel-and-the-lion-s-den",
+      "has_reactions": false
+    },
+    {
+      "id": "3a582119-7cf0-4ace-a3a8-fbd3cbc1711f",
+      "title": "The Nativity",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-nativity",
+      "has_reactions": false
+    },
+    {
+      "id": "9bbc5e95-11c2-42f2-bbf8-a5d61bdf669d",
+      "title": "Skeletor's Revenge",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "skeletor-s-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "0956569d-2cb7-4421-a9e9-fda838f6dd26",
+      "title": "Wuzzles: Bulls of a Feather",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wuzzles-bulls-of-a-feather",
+      "has_reactions": false
+    },
+    {
+      "id": "1666abb0-0ccb-4ce6-bbaa-69710cda4391",
+      "title": "The Smurfs: 'Tis the Season to Be Smurfy",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-tis-the-season-to-be-smurfy",
+      "has_reactions": false
+    },
+    {
+      "id": "16e0894c-60cd-4e11-9464-63002aa9ed4d",
+      "title": "Blondie & Dagwood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "blondie-dagwood",
+      "has_reactions": false
+    },
+    {
+      "id": "5d5fce37-ede0-4cfe-9659-29e1a3663ce6",
+      "title": "Scooby-Doo! and the Reluctant Werewolf",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-reluctant-werewolf",
+      "has_reactions": false
+    },
+    {
+      "id": "71c232b2-b5c8-41cc-93fa-903f88febc27",
+      "title": "BraveStarr: The Legend",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bravestarr-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "a9adefb4-1702-4e78-bc1d-e90d67c85269",
+      "title": "Blondie & Dagwood: Second Wedding Workout",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "blondie-dagwood-second-wedding-workout",
+      "has_reactions": false
+    },
+    {
+      "id": "fbf888dd-7bfa-46af-8b56-8b57d525493d",
+      "title": "Shadow Strikers",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "shadow-strikers",
+      "has_reactions": false
+    },
+    {
+      "id": "33375191-4437-44b5-845b-243df19d6a9a",
+      "title": "Lucy & Desi: Before the Laughter",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "lucy-desi-before-the-laughter",
+      "has_reactions": false
+    },
+    {
+      "id": "05422244-95dd-49ee-85cf-6a5bf2df79bd",
+      "title": "Absolute Strangers",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "absolute-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "777b5e0f-97d8-4cdf-9f8a-24b2add6abdf",
+      "title": "Music Machine",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "music-machine",
+      "has_reactions": false
+    },
+    {
+      "id": "eed62696-e0f9-40d7-b97d-29a33f4c7cd6",
+      "title": "Invisible: The Chronicles of Benjamin Knight",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "invisible-the-chronicles-of-benjamin-knight",
+      "has_reactions": false
+    },
+    {
+      "id": "d271ddb5-52e8-4cbb-b157-02060cf31fc8",
+      "title": "Edith Ann: Homeless Go Home",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "edith-ann-homeless-go-home",
+      "has_reactions": false
+    },
+    {
+      "id": "82c22101-6594-4222-9b64-c2a856b2bda2",
+      "title": "Trancers 4: Jack of Swords",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "trancers-4-jack-of-swords",
+      "has_reactions": false
+    },
+    {
+      "id": "d11b4b73-aa2a-4b99-8e93-517ded8f953b",
+      "title": "Trancers 5: Sudden Deth",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "trancers-5-sudden-deth",
+      "has_reactions": false
+    },
+    {
+      "id": "5363ac78-4c39-4091-bb18-60930cda40ce",
+      "title": "Culture",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "culture",
+      "has_reactions": false
+    },
+    {
+      "id": "1b9d7a3c-06dc-42fd-bbe3-de578faec9a1",
+      "title": "The Secret Life of Bees",
+      "release_year": 2008,
+      "studio_label": "Dune Entertainment III",
+      "slug": "the-secret-life-of-bees",
+      "has_reactions": true
+    },
+    {
+      "id": "63f5bf3c-914d-4c4e-9a65-4b6e1b50d50f",
+      "title": "Wrangler: Anatomy of an Icon",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "wrangler-anatomy-of-an-icon",
+      "has_reactions": false
+    },
+    {
+      "id": "57895ae4-47af-4cdd-b2b4-4e5cd66dbf65",
+      "title": "Jane Doe: Eye of the Beholder",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "jane-doe-eye-of-the-beholder",
+      "has_reactions": false
+    },
+    {
+      "id": "2117fbc7-007b-4d31-923f-159804b88082",
+      "title": "9",
+      "release_year": 2009,
+      "studio_label": "Tim Burton Productions",
+      "slug": "9",
+      "has_reactions": false
+    },
+    {
+      "id": "40d7ecf0-aa69-4c29-99fa-2a1ef14b4abc",
+      "title": "Superman/Batman: Public Enemies",
+      "release_year": 2009,
+      "studio_label": "Warner Premiere",
+      "slug": "superman-batman-public-enemies",
+      "has_reactions": true
+    },
+    {
+      "id": "fa005c63-9820-4c78-aa83-ba9426875721",
+      "title": "Toy Masters",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "toy-masters",
+      "has_reactions": false
+    },
+    {
+      "id": "be6fa6af-291b-49e2-8126-9907433d2024",
+      "title": "Foxcatcher",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "foxcatcher",
+      "has_reactions": false
+    },
+    {
+      "id": "a9e9c528-e66a-4169-82aa-2367a39a46d7",
+      "title": "Fall of Grayskull",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "fall-of-grayskull",
+      "has_reactions": false
+    },
+    {
+      "id": "56bd88fb-4cce-426a-a0d2-6cfbcb76c598",
+      "title": "The Curse of the Three Terrors",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-curse-of-the-three-terrors",
+      "has_reactions": false
+    },
+    {
+      "id": "2c76ccc8-b62f-4821-ab8d-1d66c2d7be3b",
+      "title": "Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "power-of-grayskull-the-definitive-history-of-he-man-and-the-masters-of-the-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "c0034bc2-2f44-4e90-b119-fc19fca5d73c",
+      "title": "Forky Asks a Question: What Is Time?",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "forky-asks-a-question-what-is-time",
+      "has_reactions": false
+    },
+    {
+      "id": "f236f2ae-1131-4533-9d4c-4e5afc1b5713",
+      "title": "Toy Story 4",
+      "release_year": 2019,
+      "studio_label": "Pixar",
+      "slug": "toy-story-4",
+      "has_reactions": true
+    },
+    {
+      "id": "e38ebd5e-0130-4089-9d45-ffa7dabe2c3c",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-rescue-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "14af840b-5f9f-4eea-8cc6-67e329a97735",
+      "title": "Life After the NeverEnding Story",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "life-after-the-neverending-story",
+      "has_reactions": false
+    },
+    {
+      "id": "b8baf495-c037-4394-9586-c84b91a6d706",
+      "title": "Trancers: The Whole Dethly Affair",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "trancers-the-whole-dethly-affair",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "id": "7dae1a65-ff28-415f-9960-b10a2518f47f",
+  "name": "Luis Guzm\u00e1n",
+  "slug": "luis-guzm-n",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg",
+  "filmography": [
+    {
+      "id": "eaf8ee89-c956-45a5-bc7d-9924bcbf4e3b",
+      "title": "Short Eyes",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "short-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "5b202385-7721-41d2-8d9d-60e4c1179a6d",
+      "title": "Variety",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "variety",
+      "has_reactions": false
+    },
+    {
+      "id": "6699811f-bc62-4c08-8658-55e05711886c",
+      "title": "Heartbeat",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "heartbeat",
+      "has_reactions": false
+    },
+    {
+      "id": "f80bf3e3-6f43-4dc7-b18f-c82ee50d5326",
+      "title": "Crocodile Dundee II",
+      "release_year": 1988,
+      "studio_label": "Rimfire Films",
+      "slug": "crocodile-dundee-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "e18c7f89-d997-4e45-9d2c-9b2aa2e77995",
+      "title": "Black Rain",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "black-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "513f8eea-fee9-476c-91ef-0d99736721c4",
+      "title": "Q & A",
+      "release_year": 1990,
+      "studio_label": "Regency Enterprises",
+      "slug": "q-a",
+      "has_reactions": false
+    },
+    {
+      "id": "7ac195f6-4a13-4213-b21a-12fa512a6797",
+      "title": "The Hard Way",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-hard-way",
+      "has_reactions": false
+    },
+    {
+      "id": "7e40dc91-f3a6-4a31-939c-62ccc4860117",
+      "title": "Rafael Hern\u00e1ndez, jibarito del mundo",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "rafael-hern-ndez-jibarito-del-mundo",
+      "has_reactions": false
+    },
+    {
+      "id": "e17ebddf-da67-4a41-95e7-6eb38b89b345",
+      "title": "Innocent Blood",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "innocent-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "9c79643d-590e-4d26-bc8b-8f2ca70853a4",
+      "title": "Carlito's Way",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "carlito-s-way",
+      "has_reactions": true
+    },
+    {
+      "id": "2f518635-f4e2-4085-8325-45180b1f59ee",
+      "title": "Guilty as Sin",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "guilty-as-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "3bdfebcf-3aab-4a65-ad55-dd7a1459c5bf",
+      "title": "Naked in New York",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "naked-in-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "9854897c-47f1-437b-a745-6887c3d7b869",
+      "title": "The Cowboy Way",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-cowboy-way",
+      "has_reactions": false
+    },
+    {
+      "id": "ed609150-24ea-46b9-a1f6-d2bca2634c90",
+      "title": "Pronto",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pronto",
+      "has_reactions": false
+    },
+    {
+      "id": "166209ff-eb31-4de3-bf6d-cde0e01f4df5",
+      "title": "Boogie Nights",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "boogie-nights",
+      "has_reactions": true
+    },
+    {
+      "id": "4c0a2fee-9e1e-4f11-b276-345fbee39360",
+      "title": "Out of Sight",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "out-of-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "9be6b75f-be3f-4f46-817a-6e2fb1183cf6",
+      "title": "Snake Eyes",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "snake-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "baface88-04bc-4f6a-810a-595fd46c6ba3",
+      "title": "One Tough Cop",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "one-tough-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "e329aca9-ae78-4d5f-a92b-f1ac6251d66a",
+      "title": "The Bone Collector",
+      "release_year": 1999,
+      "studio_label": "Universal Pictures",
+      "slug": "the-bone-collector",
+      "has_reactions": true
+    },
+    {
+      "id": "87914eb7-d8b3-441a-abc2-ea219d96c6d9",
+      "title": "The Limey",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-limey",
+      "has_reactions": false
+    },
+    {
+      "id": "93f092a8-4a83-4d1d-aa2f-45327ba3855a",
+      "title": "Traffic",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "14638225-c6a1-46d2-9bf1-3760020b3180",
+      "title": "Thin Air",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "thin-air",
+      "has_reactions": false
+    },
+    {
+      "id": "563d4cca-57dd-416f-ba94-17738bf63cec",
+      "title": "Inside Traffic: The Making of 'Traffic'",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "inside-traffic-the-making-of-traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "48ccadd1-089e-40bc-93ff-6b1e040be9fa",
+      "title": "Luckytown",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "luckytown",
+      "has_reactions": false
+    },
+    {
+      "id": "c9f7ad26-bda9-400e-a50d-13928deef6bf",
+      "title": "Home Invaders",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "home-invaders",
+      "has_reactions": false
+    },
+    {
+      "id": "ebe8f608-cc67-4a0c-8c1c-ea5442a11766",
+      "title": "Sam the Man",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "sam-the-man",
+      "has_reactions": false
+    },
+    {
+      "id": "6c27b811-e2e2-4e34-b1b4-8049bf79bfd3",
+      "title": "Punch-Drunk Love",
+      "release_year": 2002,
+      "studio_label": "Revolution Studios",
+      "slug": "punch-drunk-love",
+      "has_reactions": true
+    },
+    {
+      "id": "ce48c0b6-6d7d-42b7-93f8-a2bab7ca7b0f",
+      "title": "The Count of Monte Cristo",
+      "release_year": 2002,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-count-of-monte-cristo",
+      "has_reactions": true
+    },
+    {
+      "id": "d844224c-9865-4c0a-94cd-7f61dc9edb98",
+      "title": "The Adventures of Pluto Nash",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-pluto-nash",
+      "has_reactions": false
+    },
+    {
+      "id": "ed99b6fe-c5e4-49f0-98e4-7812463dfe46",
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "lemony-snicket-s-a-series-of-unfortunate-events",
+      "has_reactions": false
+    },
+    {
+      "id": "cb9d68f9-00e2-44e2-97d1-d1546cc4bd5b",
+      "title": "Carlito's Way: Rise to Power",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "carlito-s-way-rise-to-power",
+      "has_reactions": false
+    },
+    {
+      "id": "fba9a047-7147-4ef7-b757-3dbda6c2388a",
+      "title": "Dreamer: Inspired By a True Story",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "dreamer-inspired-by-a-true-story",
+      "has_reactions": false
+    },
+    {
+      "id": "fbf64c4f-92ce-42e2-9ea3-f24a5484ca55",
+      "title": "Waiting...",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "waiting",
+      "has_reactions": false
+    },
+    {
+      "id": "054e8cb3-0e9e-42f4-b6ca-fdb68a606d78",
+      "title": "Hard Luck",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hard-luck",
+      "has_reactions": false
+    },
+    {
+      "id": "457b9ac7-1d31-449a-9053-2714ac5d720c",
+      "title": "War",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "war",
+      "has_reactions": false
+    },
+    {
+      "id": "5f61bd34-4113-44e7-8e57-d62feda8d811",
+      "title": "Cleaner",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "cleaner",
+      "has_reactions": false
+    },
+    {
+      "id": "e30e1026-5ed8-4032-975e-e81d29fdb3c5",
+      "title": "Maldeamores",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "maldeamores",
+      "has_reactions": false
+    },
+    {
+      "id": "cc632a19-5e06-4636-85ef-1206f460902c",
+      "title": "The Manufacturing of 'Fast Food Nation'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-manufacturing-of-fast-food-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "4b77f226-66f2-4610-a854-4781a33d070b",
+      "title": "Beverly Hills Chihuahua",
+      "release_year": 2008,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "beverly-hills-chihuahua",
+      "has_reactions": true
+    },
+    {
+      "id": "b9116a0f-bbdc-4bea-bc5a-4f66aa982603",
+      "title": "Old Dogs",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "old-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "49f13610-4e24-4d61-8a25-25565149952c",
+      "title": "He's Just Not That Into You",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "he-s-just-not-that-into-you",
+      "has_reactions": false
+    },
+    {
+      "id": "e38698a9-ef07-43af-9e9c-2252f82774f9",
+      "title": "Fighting",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "fighting",
+      "has_reactions": false
+    },
+    {
+      "id": "0d3ce9cc-626c-43ea-befd-29b4f6b5c44d",
+      "title": "The Taking of Pelham 1 2 3",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-1-2-3",
+      "has_reactions": false
+    },
+    {
+      "id": "d63e2225-9fe0-4c44-b1a5-6a7760603fe1",
+      "title": "The Face is Familiar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-face-is-familiar",
+      "has_reactions": false
+    },
+    {
+      "id": "b094ecc4-9a1d-4740-bfb1-1e2feffe0bb7",
+      "title": "Arthur",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "arthur",
+      "has_reactions": false
+    },
+    {
+      "id": "f9b95d86-30bf-4f70-84a8-b5e9026a62a2",
+      "title": "Rise of the Damned",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "rise-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "ca90f1bc-ba7f-4f72-8c4f-5b87f4301c23",
+      "title": "The Caller",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-caller",
+      "has_reactions": false
+    },
+    {
+      "id": "10928d4a-78fb-4cb8-bfc6-5ed54714537a",
+      "title": "Journey 2: The Mysterious Island",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "journey-2-the-mysterious-island",
+      "has_reactions": false
+    },
+    {
+      "id": "fad12ccf-0d98-4992-b092-b055b32f2d15",
+      "title": "We're the Millers",
+      "release_year": 2013,
+      "studio_label": "New Line Cinema",
+      "slug": "we-re-the-millers",
+      "has_reactions": true
+    },
+    {
+      "id": "74527f5a-6bfd-4f4c-b9f3-09fc4f3ea089",
+      "title": "Aztec Warrior",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "aztec-warrior",
+      "has_reactions": false
+    },
+    {
+      "id": "b758de02-1bf8-49a6-a0b1-c748ac6a59c7",
+      "title": "Turbo",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "turbo",
+      "has_reactions": false
+    },
+    {
+      "id": "7c38c88a-1d44-4a81-8056-23a80e7a7ecc",
+      "title": "The Lookalike",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-lookalike",
+      "has_reactions": false
+    },
+    {
+      "id": "5fbe658b-4ba0-48fc-9b37-ccbd1e585678",
+      "title": "Top Five",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "top-five",
+      "has_reactions": false
+    },
+    {
+      "id": "1d116282-b6cf-4aa9-b2e5-9fe13cf23920",
+      "title": "Puerto Ricans in Paris",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "puerto-ricans-in-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "c26cfbca-afbe-4c55-b1a7-454fa7433bd4",
+      "title": "Don Quixote: The Ingenious Gentleman of La Mancha",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "don-quixote-the-ingenious-gentleman-of-la-mancha",
+      "has_reactions": false
+    },
+    {
+      "id": "127570d5-7fb1-4d9f-bd25-b2784786cdd3",
+      "title": "De Puerto Rico para el mundo",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "de-puerto-rico-para-el-mundo",
+      "has_reactions": false
+    },
+    {
+      "id": "0a974f6c-5dff-46dd-8a23-82468ef629b8",
+      "title": "Keanu",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "keanu",
+      "has_reactions": false
+    },
+    {
+      "id": "7a59446a-5fb7-485c-83e5-8f60258d192b",
+      "title": "The Do-Over",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-do-over",
+      "has_reactions": false
+    },
+    {
+      "id": "f69c99de-38c3-4bac-b9b3-5074e1552336",
+      "title": "Literally, Right Before Aaron",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "literally-right-before-aaron",
+      "has_reactions": false
+    },
+    {
+      "id": "730874a6-a3fe-4d80-8087-d53ee8f995af",
+      "title": "Sandy Wexler",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "sandy-wexler",
+      "has_reactions": false
+    },
+    {
+      "id": "7c32fd11-ffdf-49e5-8458-5a6fc8fb5836",
+      "title": "9/11",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "9-11",
+      "has_reactions": false
+    },
+    {
+      "id": "ac5666cd-6e35-4534-9ebb-cd13e5ac303d",
+      "title": "Omar Sy, c'est ta chance",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "omar-sy-c-est-ta-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "3cd0cce1-29b8-4e5a-91de-c02b829fe8c1",
+      "title": "The Disappearance of Toby Blackwood",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-disappearance-of-toby-blackwood",
+      "has_reactions": false
+    },
+    {
+      "id": "40282817-9c1d-4569-bbb6-5829bc23fef3",
+      "title": "Entergalactic",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "entergalactic",
+      "has_reactions": false
+    },
+    {
+      "id": "9a1eb4a9-9b71-491a-8963-37e1f52d4094",
+      "title": "You Are So Not Invited to My Bat Mitzvah",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "you-are-so-not-invited-to-my-bat-mitzvah",
+      "has_reactions": false
+    },
+    {
+      "id": "dc7884c6-b0a3-4a1c-8a66-b24d5c16badc",
+      "title": "Out of Order",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "out-of-order",
+      "has_reactions": false
+    }
+  ]
+}

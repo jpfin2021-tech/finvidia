@@ -1,0 +1,616 @@
+{
+  "id": "26c9bdd8-5987-4e7e-a7c6-5367b76f203a",
+  "name": "Jon Lovitz",
+  "slug": "jon-lovitz",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg",
+  "filmography": [
+    {
+      "id": "68ba18a3-4125-4657-85fd-56feff276b87",
+      "title": "Redemption",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "183704b0-fbd4-40c4-a26f-1cdbc7132bc7",
+      "title": "\u00a1Three Amigos!",
+      "release_year": 1986,
+      "studio_label": "L.A. Films",
+      "slug": "three-amigos",
+      "has_reactions": true
+    },
+    {
+      "id": "293ba7ac-877f-44b3-bfe1-e154a5a532db",
+      "title": "Jumpin' Jack Flash",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "jumpin-jack-flash",
+      "has_reactions": false
+    },
+    {
+      "id": "869376ce-695e-43b1-b7c7-ef12cc8b06ce",
+      "title": "Ratboy",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "ratboy",
+      "has_reactions": false
+    },
+    {
+      "id": "c90334e6-a758-4d7d-8e0e-bcf9a70cfd14",
+      "title": "Shadoevision",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "shadoevision",
+      "has_reactions": false
+    },
+    {
+      "id": "8df88c10-fb18-4b99-ba04-4073aa3958ef",
+      "title": "Hamburger: The Motion Picture",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "hamburger-the-motion-picture",
+      "has_reactions": false
+    },
+    {
+      "id": "85018388-71ae-4d1d-8179-5762bb8cd398",
+      "title": "The Brave Little Toaster",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-brave-little-toaster",
+      "has_reactions": false
+    },
+    {
+      "id": "8ffb896e-f628-4292-855a-590d55e362a7",
+      "title": "Big",
+      "release_year": 1988,
+      "studio_label": "American Entertainment Partners II L.P.",
+      "slug": "big",
+      "has_reactions": true
+    },
+    {
+      "id": "efd58096-6b1f-43c1-b485-a6fc19818395",
+      "title": "My Stepmother Is an Alien",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "my-stepmother-is-an-alien",
+      "has_reactions": false
+    },
+    {
+      "id": "65126de7-d120-41a8-ba00-3763ec906520",
+      "title": "Saturday Night Live: 15th Anniversary",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-15th-anniversary",
+      "has_reactions": false
+    },
+    {
+      "id": "c5fc96ff-57aa-475f-8d19-c6d834d075e2",
+      "title": "Mr. Destiny",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mr-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "a57be55e-4ab8-4768-9376-1eebf18c5cb7",
+      "title": "Mom and Dad Save the World",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "mom-and-dad-save-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "58495462-bbff-4585-a961-1f2a2db0cab4",
+      "title": "A League of Their Own",
+      "release_year": 1992,
+      "studio_label": "Columbia Pictures",
+      "slug": "a-league-of-their-own",
+      "has_reactions": true
+    },
+    {
+      "id": "349d1bbf-0818-4c30-b0b1-8f1e189a492e",
+      "title": "The Please Watch the Jon Lovitz Special, Live!",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-please-watch-the-jon-lovitz-special-live",
+      "has_reactions": false
+    },
+    {
+      "id": "333772e4-d17d-4e15-a11d-b8799bafe6a5",
+      "title": "Coneheads",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "coneheads",
+      "has_reactions": false
+    },
+    {
+      "id": "42435614-7f66-4b2e-899f-de2018e3b336",
+      "title": "City Slickers II: The Legend of Curly's Gold",
+      "release_year": 1994,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "city-slickers-ii-the-legend-of-curly-s-gold",
+      "has_reactions": true
+    },
+    {
+      "id": "81fdf049-f4bf-473e-be43-647a0c7d07b1",
+      "title": "North",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "north",
+      "has_reactions": false
+    },
+    {
+      "id": "645c89fd-0efb-4c2e-9ca1-7b3b99765356",
+      "title": "The Great White Hype",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-great-white-hype",
+      "has_reactions": false
+    },
+    {
+      "id": "4bb2f282-33ba-4544-9654-f7b4aef5f6e8",
+      "title": "High School High",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "high-school-high",
+      "has_reactions": false
+    },
+    {
+      "id": "24fc424d-19f4-43fe-a765-59a76937ea3f",
+      "title": "Matilda",
+      "release_year": 1996,
+      "studio_label": "Jersey Films",
+      "slug": "matilda",
+      "has_reactions": true
+    },
+    {
+      "id": "2139a90d-5492-414d-b864-6826243f2ae0",
+      "title": "The Wedding Singer",
+      "release_year": 1998,
+      "studio_label": "Robert Simonds Productions",
+      "slug": "the-wedding-singer",
+      "has_reactions": true
+    },
+    {
+      "id": "09725330-8345-4a54-9b06-53645e5e7073",
+      "title": "Happiness",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "5f83a42d-1c12-475a-a4d1-710e4ba4e954",
+      "title": "Saturday Night Live: The Best of Phil Hartman",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-phil-hartman",
+      "has_reactions": false
+    },
+    {
+      "id": "bd5e43f4-c21c-4edf-b927-715f49a7f410",
+      "title": "Banjo-Kazooie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "banjo-kazooie",
+      "has_reactions": false
+    },
+    {
+      "id": "43a63799-beeb-42fb-a14a-b7e60ecc6ce5",
+      "title": "Little Nicky",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "little-nicky",
+      "has_reactions": true
+    },
+    {
+      "id": "1370e078-3011-442b-857f-371ed1e9a9f2",
+      "title": "One Night with Robbie Williams",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "one-night-with-robbie-williams",
+      "has_reactions": false
+    },
+    {
+      "id": "6dcb5b26-36cb-4414-9ea5-8d51c5d5e52a",
+      "title": "Playboy Mansion Parties Uncensored",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "playboy-mansion-parties-uncensored",
+      "has_reactions": false
+    },
+    {
+      "id": "6575f382-cb7b-41e5-aa43-e43848a47f38",
+      "title": "Eight Crazy Nights",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "eight-crazy-nights",
+      "has_reactions": false
+    },
+    {
+      "id": "f59694c1-e3bb-4f6c-9cf0-e52f3a587c4d",
+      "title": "Dickie Roberts: Former Child Star",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "dickie-roberts-former-child-star",
+      "has_reactions": false
+    },
+    {
+      "id": "9e5b8f77-2dd6-4a39-84de-608f3f121f84",
+      "title": "Pancho's Pizza",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "pancho-s-pizza",
+      "has_reactions": false
+    },
+    {
+      "id": "f8af9cce-b308-4f3f-9d44-dde9e6ad6ce2",
+      "title": "The Producers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-producers",
+      "has_reactions": false
+    },
+    {
+      "id": "88d689b5-9106-4f36-8f01-a73d145a3478",
+      "title": "Saturday Night Live: The Best of Jon Lovitz",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-jon-lovitz",
+      "has_reactions": false
+    },
+    {
+      "id": "d6b185d8-6c2c-4bf3-8ae0-acc17380e685",
+      "title": "Farce of the Penguins",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "farce-of-the-penguins",
+      "has_reactions": false
+    },
+    {
+      "id": "67910ab7-4a0c-400b-948a-e80d49c23770",
+      "title": "The Benchwarmers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-benchwarmers",
+      "has_reactions": false
+    },
+    {
+      "id": "925bb76b-c0f0-432c-8513-2b9e9080ae99",
+      "title": "I Could Never Be Your Woman",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "i-could-never-be-your-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "e24b5142-b5bf-4a20-b221-e364d3d063e6",
+      "title": "Comedy Central Roast of Bob Saget",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-bob-saget",
+      "has_reactions": false
+    },
+    {
+      "id": "44441fc1-6a29-4919-b4c5-b1f911d100b5",
+      "title": "USIDent TV: Surveilling the Southland",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "usident-tv-surveilling-the-southland",
+      "has_reactions": false
+    },
+    {
+      "id": "5b1ed85d-8a12-4c8e-9dd6-d77258fa905f",
+      "title": "Casino Jack",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "casino-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "501d1c34-38f3-43b9-b68c-6c7096fd195a",
+      "title": "Jon Lovitz Presents",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jon-lovitz-presents",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6755a4-1300-4e00-90ef-412dddd65c15",
+      "title": "A Russell Peters Christmas",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "a-russell-peters-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "0e333bef-d47d-4aa9-b00a-1d00f981ec66",
+      "title": "Comedy Central Roast of Charlie Sheen",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-charlie-sheen",
+      "has_reactions": false
+    },
+    {
+      "id": "c8da6591-fbbb-4902-b303-0de846a18e9f",
+      "title": "Jewtopia",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jewtopia",
+      "has_reactions": false
+    },
+    {
+      "id": "ed746e8b-b771-4dac-9974-5cb21ab87295",
+      "title": "Vanilla Ice Archive",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "vanilla-ice-archive",
+      "has_reactions": false
+    },
+    {
+      "id": "0dddcb50-d67e-4909-b2e2-003da278dfaa",
+      "title": "Sharkproof",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sharkproof",
+      "has_reactions": false
+    },
+    {
+      "id": "48e1f55a-ee57-407a-97d8-f825872b2d3f",
+      "title": "Hotel Transylvania",
+      "release_year": 2012,
+      "studio_label": "Columbia Pictures",
+      "slug": "hotel-transylvania",
+      "has_reactions": true
+    },
+    {
+      "id": "e00b11e8-86d8-4a6f-af44-48443ed0749f",
+      "title": "Bula Quo!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bula-quo",
+      "has_reactions": false
+    },
+    {
+      "id": "aef7ae55-d013-4160-87c9-e993ce9a33d4",
+      "title": "Grown Ups 2",
+      "release_year": 2013,
+      "studio_label": "Columbia Pictures",
+      "slug": "grown-ups-2",
+      "has_reactions": true
+    },
+    {
+      "id": "a07b9e01-93ba-4a09-a6eb-73ae7db6cd86",
+      "title": "Jay and Silent Bob's Super Groovy Cartoon Movie",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jay-and-silent-bob-s-super-groovy-cartoon-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "46a8cbb1-d370-4b1f-abe6-669aee9132e9",
+      "title": "Coffee Shop",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "coffee-shop",
+      "has_reactions": false
+    },
+    {
+      "id": "6e4f1a0f-ee6d-4c45-b3cf-aeeb142a6914",
+      "title": "Hotel Transylvania 2",
+      "release_year": 2015,
+      "studio_label": "Columbia Pictures",
+      "slug": "hotel-transylvania-2",
+      "has_reactions": true
+    },
+    {
+      "id": "067408f7-c1ce-4a68-9a8a-aa77afa2b032",
+      "title": "Bark Ranger",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bark-ranger",
+      "has_reactions": false
+    },
+    {
+      "id": "2efc076c-5a56-4308-b8cd-0a039ac08d22",
+      "title": "Mother's Day",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "mother-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "730874a6-a3fe-4d80-8087-d53ee8f995af",
+      "title": "Sandy Wexler",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "sandy-wexler",
+      "has_reactions": false
+    },
+    {
+      "id": "ef567acc-34ed-408b-9144-209ec643540a",
+      "title": "Jim & Andy: The Great Beyond",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "jim-andy-the-great-beyond",
+      "has_reactions": false
+    },
+    {
+      "id": "3d3ddb02-5f96-433f-afe3-a8d580b9fc73",
+      "title": "And the Winner Isn't",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "and-the-winner-isn-t",
+      "has_reactions": false
+    },
+    {
+      "id": "8f20c12f-71fa-4957-96c2-006e647f76d8",
+      "title": "Chasing the Blues",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "chasing-the-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "82ed2db1-cc66-483d-b723-872fa6ab3058",
+      "title": "Bachelor Lions",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bachelor-lions",
+      "has_reactions": false
+    },
+    {
+      "id": "4da11926-45c3-443e-8fc7-92339e642ad4",
+      "title": "Paws P.I.",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "paws-p-i",
+      "has_reactions": false
+    },
+    {
+      "id": "85b4f648-14bb-4c99-b89d-c4c25c06789e",
+      "title": "Hooked",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "hooked",
+      "has_reactions": false
+    },
+    {
+      "id": "febd5595-7a1a-4cba-812e-cafd55074dac",
+      "title": "Still Laugh-In: The Stars Celebrate",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "still-laugh-in-the-stars-celebrate",
+      "has_reactions": false
+    },
+    {
+      "id": "0a71dbb1-71a5-413e-a403-40f4bc6f48c7",
+      "title": "Influence",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "influence",
+      "has_reactions": false
+    },
+    {
+      "id": "f9543e7b-a4a0-45c3-9969-82e49c825b8d",
+      "title": "The Follow-Up",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-follow-up",
+      "has_reactions": false
+    },
+    {
+      "id": "01feaaed-2050-4a2d-9d82-a7dfe9356248",
+      "title": "The Swing of Things",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-swing-of-things",
+      "has_reactions": false
+    },
+    {
+      "id": "c4d8eafc-9aef-4807-b674-586a3842d74c",
+      "title": "Lacy's Christmas Do-Over",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "lacy-s-christmas-do-over",
+      "has_reactions": false
+    },
+    {
+      "id": "2a43c14a-ab2e-4b1e-acd2-590b5e184113",
+      "title": "Ace & the Christmas Miracle",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "ace-the-christmas-miracle",
+      "has_reactions": false
+    },
+    {
+      "id": "ff43b177-67da-4d90-ae91-78fc91a01ecd",
+      "title": "Extinct",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "extinct",
+      "has_reactions": false
+    },
+    {
+      "id": "40ca9624-360a-4744-90c8-e411d5e603b9",
+      "title": "Agent Toby Barks",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "agent-toby-barks",
+      "has_reactions": false
+    },
+    {
+      "id": "65a86a09-a87b-4b61-8a68-56c1c9032abb",
+      "title": "Love on the Rock",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "love-on-the-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "39a74df1-bcc8-4abf-a081-07c6cf2e0926",
+      "title": "Tales of a Fifth Grade Robin Hood",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "tales-of-a-fifth-grade-robin-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "237e43b1-3cd8-4652-a6c1-37a5322093e0",
+      "title": "Dirty Daddy: The Bob Saget Tribute",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dirty-daddy-the-bob-saget-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "b7a06164-12d2-4c13-91a6-d0666efa4eb2",
+      "title": "Unstuffed: A Build-A-Bear Story",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "unstuffed-a-build-a-bear-story",
+      "has_reactions": false
+    },
+    {
+      "id": "dc869cdf-5d6a-4f2f-98f0-1badbc4ab6b8",
+      "title": "Lost & Found in Cleveland",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "lost-found-in-cleveland",
+      "has_reactions": false
+    },
+    {
+      "id": "303fa5f7-98f3-4069-93eb-0a5412cd244a",
+      "title": "A Tooth Fairy Tale",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "a-tooth-fairy-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "e6ed928d-7e28-45ab-9648-babdc36b3300",
+      "title": "Netflix Tudum 2025",
+      "release_year": 2025,
+      "studio_label": "Silent House Productions",
+      "slug": "netflix-tudum-2025",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae0818b-2398-4c44-8db0-ebb8c0adcbaa",
+      "title": "Happy Gilmore 2",
+      "release_year": 2025,
+      "studio_label": "Happy Madison Productions",
+      "slug": "happy-gilmore-2",
+      "has_reactions": true
+    },
+    {
+      "id": "fe560d4b-7fb8-4137-b2d6-13500b20e862",
+      "title": "Downey Wrote That",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "downey-wrote-that",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1f936ed4-9971-4775-82b3-4c5d63effd16",
+  "name": "Miguel Mora",
+  "slug": "miguel-mora",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/yVjtjXQ4WWlN8XiDYsHKdwcBRXU.jpg",
+  "filmography": [
+    {
+      "id": "d01a2d48-bea8-4e00-b587-b485ba452b72",
+      "title": "The Black Phone",
+      "release_year": 2022,
+      "studio_label": "Blumhouse Productions",
+      "slug": "the-black-phone",
+      "has_reactions": true
+    },
+    {
+      "id": "996ec890-4f98-4bc7-82f9-43d6cc3710b3",
+      "title": "Black Phone 2",
+      "release_year": 2025,
+      "studio_label": "Blumhouse Productions",
+      "slug": "black-phone-2",
+      "has_reactions": true
+    },
+    {
+      "id": "24b0f5ca-776e-4713-987b-f6f3845db3c9",
+      "title": "The Fallen",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-fallen",
+      "has_reactions": false
+    }
+  ]
+}

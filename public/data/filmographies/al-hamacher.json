@@ -1,0 +1,32 @@
+{
+  "id": "681cf4a2-d277-4aae-900b-c10861c18da0",
+  "name": "Al Hamacher",
+  "slug": "al-hamacher",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/u5QxguVAJDIkF8npPvpxjRjJ7Ft.jpg",
+  "filmography": [
+    {
+      "id": "d1856b19-43c4-46e0-bc5c-a8b8f706cafe",
+      "title": "Nobody's Fool",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "nobody-s-fool",
+      "has_reactions": false
+    },
+    {
+      "id": "cb120c20-8510-42c7-84d8-6179fdb6ccd3",
+      "title": "Werewolf by Night",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "werewolf-by-night",
+      "has_reactions": true
+    },
+    {
+      "id": "acea955d-dadb-41e0-b9ac-edc455ad527a",
+      "title": "Director by Night",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "director-by-night",
+      "has_reactions": false
+    }
+  ]
+}

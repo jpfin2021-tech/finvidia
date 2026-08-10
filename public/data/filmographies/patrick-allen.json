@@ -1,0 +1,536 @@
+{
+  "id": "5a1c0065-3ca7-4d99-b1f2-3a6d252cd038",
+  "name": "Patrick Allen",
+  "slug": "patrick-allen",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "990dba3e-d6db-4184-812d-448bde9573a6",
+      "title": "Dial M for Murder",
+      "release_year": 1954,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "dial-m-for-murder",
+      "has_reactions": true
+    },
+    {
+      "id": "861d7781-f275-4b2d-8d0f-0070d96fbd19",
+      "title": "Confession",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "confession",
+      "has_reactions": false
+    },
+    {
+      "id": "a6ca76e3-f5ec-4e9b-b6ef-0d13f5be2a62",
+      "title": "Cross Channel",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "cross-channel",
+      "has_reactions": false
+    },
+    {
+      "id": "c3294a43-3428-49cb-8aa4-a9eaa16f8cbb",
+      "title": "1984",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "1984",
+      "has_reactions": false
+    },
+    {
+      "id": "1c03c8a4-f165-4fb0-84c7-ae4c7ecf9ba0",
+      "title": "Wicked as They Come",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "wicked-as-they-come",
+      "has_reactions": false
+    },
+    {
+      "id": "cad7c09f-541b-4f4d-8c9b-f6557c5ff657",
+      "title": "The Baby and the Battleship",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-baby-and-the-battleship",
+      "has_reactions": false
+    },
+    {
+      "id": "678f101d-75dd-4f83-b6e5-bd5f7a134635",
+      "title": "High Tide at Noon",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "high-tide-at-noon",
+      "has_reactions": false
+    },
+    {
+      "id": "dda45bc6-dbba-4a97-a5a8-e3941cb34e2d",
+      "title": "The Long Haul",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-long-haul",
+      "has_reactions": false
+    },
+    {
+      "id": "736040b2-2116-4b10-b448-b19a023e3dcd",
+      "title": "Dunkirk",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "dunkirk",
+      "has_reactions": false
+    },
+    {
+      "id": "aa3c91a5-8f31-453c-9e6a-537491f52c0e",
+      "title": "High Hell",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "high-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "6d97a83c-f276-4ef8-886b-ad6c22aa70d9",
+      "title": "The Man Who Wouldn't Talk",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-wouldn-t-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "e9d37ab8-7890-43f6-9edd-2aa636fbe73a",
+      "title": "I Was Monty's Double",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "i-was-monty-s-double",
+      "has_reactions": false
+    },
+    {
+      "id": "3f39be7d-a7a7-43d4-b1b1-56fd58bf9267",
+      "title": "Jet Storm",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "jet-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "f90d7ea7-106d-473e-afa2-29f667656099",
+      "title": "The Sinister Man",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-sinister-man",
+      "has_reactions": false
+    },
+    {
+      "id": "c3d80fea-d1e4-480b-9597-6339c247ad1d",
+      "title": "Candida",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "candida",
+      "has_reactions": false
+    },
+    {
+      "id": "0d5660d2-3cb6-4633-a5f3-5048d17f723d",
+      "title": "Captain Clegg",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "captain-clegg",
+      "has_reactions": false
+    },
+    {
+      "id": "5d09316a-f46a-482d-908c-88afca67937e",
+      "title": "Flight from Singapore",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "flight-from-singapore",
+      "has_reactions": false
+    },
+    {
+      "id": "ab369150-c364-4fce-853e-61f9797dd9d3",
+      "title": "The Traitors",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "the-traitors",
+      "has_reactions": false
+    },
+    {
+      "id": "83775044-844a-49d8-9ac3-6cadff07d8dd",
+      "title": "As You Like It",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "as-you-like-it",
+      "has_reactions": false
+    },
+    {
+      "id": "06562cf0-217a-4a59-b64e-fa0acbf54350",
+      "title": "A Midsummer Night's Dream",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "a-midsummer-night-s-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "5cb00719-ba7d-4f6a-96ab-fa0ae240fbc3",
+      "title": "The Big Job",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-big-job",
+      "has_reactions": false
+    },
+    {
+      "id": "b90ad424-b9fd-46cb-802d-ffed66fd2d77",
+      "title": "Dead Silence",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "dead-silence",
+      "has_reactions": false
+    },
+    {
+      "id": "20935998-601a-4329-80e5-5c869a50fc7c",
+      "title": "Carry On Doctor",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "carry-on-doctor",
+      "has_reactions": false
+    },
+    {
+      "id": "7b7678ea-1c22-411a-a486-fdef1ceccef4",
+      "title": "Benjamin Britten and His Festival",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "benjamin-britten-and-his-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "51234d01-41a7-48d2-92e5-1f07a46599f0",
+      "title": "Night of the Big Heat",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-big-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "5639024f-2a36-4355-8c93-537821f3a7e3",
+      "title": "Don't Lose Your Head",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "don-t-lose-your-head",
+      "has_reactions": false
+    },
+    {
+      "id": "53100371-7cb1-4095-80a6-2bb26a4b43f6",
+      "title": "Journey Into Darkness",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "journey-into-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "c8917519-6064-4c52-ba2f-48b56b0a3585",
+      "title": "Carry On Up the Khyber",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "carry-on-up-the-khyber",
+      "has_reactions": false
+    },
+    {
+      "id": "4962ac7e-9500-41f5-b925-062a623cb051",
+      "title": "All My Loving",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "all-my-loving",
+      "has_reactions": false
+    },
+    {
+      "id": "bf22645d-62de-4e5f-b408-900115f26047",
+      "title": "The Big Switch",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-big-switch",
+      "has_reactions": false
+    },
+    {
+      "id": "db3dc858-c152-4bfc-857c-03b1567e07ff",
+      "title": "Medieval England: The Peasants' Revolt",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "medieval-england-the-peasants-revolt",
+      "has_reactions": false
+    },
+    {
+      "id": "76499600-25b6-44ae-82b2-6180290b4ab4",
+      "title": "Cream: Farewell Concert",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "cream-farewell-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "05ae94f5-49d3-4fb7-a368-9f8e439b5d30",
+      "title": "What's a Girl Like You?",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "what-s-a-girl-like-you",
+      "has_reactions": false
+    },
+    {
+      "id": "294115aa-4e89-446a-8965-21b7a4087e67",
+      "title": "The World at Their Feet",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-world-at-their-feet",
+      "has_reactions": false
+    },
+    {
+      "id": "d6230993-4b01-437d-81a9-1fcb16fcfe6a",
+      "title": "When Dinosaurs Ruled the Earth",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "when-dinosaurs-ruled-the-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "9f5449e6-ff7f-49bc-906a-ae7b85faa3b0",
+      "title": "Puppet on a Chain",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "puppet-on-a-chain",
+      "has_reactions": false
+    },
+    {
+      "id": "29824c66-9ea7-49b2-b8c8-6fcd2e0ac5d9",
+      "title": "Erotic Fantasies",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "erotic-fantasies",
+      "has_reactions": false
+    },
+    {
+      "id": "d2e79eb6-48ab-4828-9df9-43ea7ad691ec",
+      "title": "Sign It Death",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "sign-it-death",
+      "has_reactions": false
+    },
+    {
+      "id": "9d00c634-7213-40eb-996d-b45d973085f0",
+      "title": "Protect and Survive",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "protect-and-survive",
+      "has_reactions": false
+    },
+    {
+      "id": "2f2ef001-b411-421a-b13f-0277bbd930ff",
+      "title": "The Domino Principle",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-domino-principle",
+      "has_reactions": false
+    },
+    {
+      "id": "61ae7222-cf65-4e7e-bed5-0a425c2b3581",
+      "title": "Aerial Ambassador",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "aerial-ambassador",
+      "has_reactions": false
+    },
+    {
+      "id": "e07b26f6-f8d2-4284-a289-62ad2c211e19",
+      "title": "Lady Oscar",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "lady-oscar",
+      "has_reactions": false
+    },
+    {
+      "id": "a89a109d-500a-410d-9351-b8acbdeb2d91",
+      "title": "Alien Attack",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "alien-attack",
+      "has_reactions": false
+    },
+    {
+      "id": "a77d1f85-647e-4350-8ce1-45603fb4a451",
+      "title": "The Trial of Lady Chatterley",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-trial-of-lady-chatterley",
+      "has_reactions": false
+    },
+    {
+      "id": "5fe1f33e-23a8-44fe-896f-42d68772de05",
+      "title": "Invasion: UFO",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "invasion-ufo",
+      "has_reactions": false
+    },
+    {
+      "id": "0542b77b-c718-49a1-91fb-92e8684b527d",
+      "title": "Murder Is Easy",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "murder-is-easy",
+      "has_reactions": false
+    },
+    {
+      "id": "2650cad1-22bf-476e-9d9f-fa8fb82cb476",
+      "title": "Who Dares Wins",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "who-dares-wins",
+      "has_reactions": false
+    },
+    {
+      "id": "e138f566-844d-442a-8251-4ef013195265",
+      "title": "Threads",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "threads",
+      "has_reactions": false
+    },
+    {
+      "id": "06ff9ffa-9909-46ae-9b9a-3b33401c47a6",
+      "title": "Pericles, Prince of Tyre",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "pericles-prince-of-tyre",
+      "has_reactions": false
+    },
+    {
+      "id": "6a79818b-f08a-4934-bf2a-1efef3c1bf34",
+      "title": "Love After Lunch",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "love-after-lunch",
+      "has_reactions": false
+    },
+    {
+      "id": "46426a69-8e51-4565-ae07-e9dd45c1a737",
+      "title": "Naked Down Under",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "naked-down-under",
+      "has_reactions": false
+    },
+    {
+      "id": "c8d5d54e-67d1-459a-8fff-fefe802232ff",
+      "title": "D-Day: Assault on Fortress Europe",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "d-day-assault-on-fortress-europe",
+      "has_reactions": false
+    },
+    {
+      "id": "1647ff6e-103f-4f8a-8213-f125083ec77f",
+      "title": "The Gestapo: Hitler's Secret Police",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-gestapo-hitler-s-secret-police",
+      "has_reactions": false
+    },
+    {
+      "id": "f6c0fed2-c8e4-4945-af10-186408d7761c",
+      "title": "Fergie & Andrew: Behind the Palace Doors",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "fergie-andrew-behind-the-palace-doors",
+      "has_reactions": false
+    },
+    {
+      "id": "f4899872-eb64-463f-9c4a-e6a6569e21b1",
+      "title": "The Conquest of Everest 1953",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-conquest-of-everest-1953",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e022ec-b677-4d54-9a26-380f450395e5",
+      "title": "Story of the Spitfire",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "story-of-the-spitfire",
+      "has_reactions": false
+    },
+    {
+      "id": "1ddcc220-e6f8-40ef-a930-52b1302e039c",
+      "title": "The Hawker Hurricane",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-hawker-hurricane",
+      "has_reactions": false
+    },
+    {
+      "id": "eaf73e3d-0c6a-4af1-b39e-a1e56d6492be",
+      "title": "The War File: Battleships at War",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-war-file-battleships-at-war",
+      "has_reactions": false
+    },
+    {
+      "id": "78f86a78-4f4f-4852-a86f-61c2417ef65c",
+      "title": "The War File: Tank Battles: El Alamein to the Volga",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-war-file-tank-battles-el-alamein-to-the-volga",
+      "has_reactions": false
+    },
+    {
+      "id": "21ab886f-45f0-468a-a252-ddf72c16c327",
+      "title": "The War File: Great Sea Battles of World War Two",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-war-file-great-sea-battles-of-world-war-two",
+      "has_reactions": false
+    },
+    {
+      "id": "61113008-4d14-4d17-8581-b35f4cf5b857",
+      "title": "Hitler's War",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hitler-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "507fe64b-e291-43d7-af32-706b23a6487e",
+      "title": "Heroes of the Second World War",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "heroes-of-the-second-world-war",
+      "has_reactions": false
+    },
+    {
+      "id": "6782257a-eb7c-4b7d-b90d-27a1e20b946d",
+      "title": "Unsolved Mysteries Of The Second World War - The Enigma Of Swastika / The Eagle And The Swastika",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "unsolved-mysteries-of-the-second-world-war-the-enigma-of-swastika-the-eagle-and-the-swastika",
+      "has_reactions": false
+    },
+    {
+      "id": "1fef41f6-0d96-479e-8243-fc25da341871",
+      "title": "The Official Story of the British Army",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-official-story-of-the-british-army",
+      "has_reactions": false
+    },
+    {
+      "id": "a54b03a3-9227-4b83-a985-349a3d7983eb",
+      "title": "The War File: Hitler's War",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-war-file-hitler-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "69b6b3be-2034-4bd0-95ff-349fb6131dd6",
+      "title": "Blackadder: The Lost Pilot",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "blackadder-the-lost-pilot",
+      "has_reactions": false
+    }
+  ]
+}

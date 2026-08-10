@@ -1,0 +1,608 @@
+{
+  "id": "6f0e4851-7d6d-45c8-9400-e16266002ffb",
+  "name": "J.K. Simmons",
+  "slug": "j-k-simmons",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+  "filmography": [
+    {
+      "id": "6a5ea32c-52b4-4cb4-849a-d48871a78ea1",
+      "title": "The Prince",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-prince",
+      "has_reactions": false
+    },
+    {
+      "id": "69797392-ad54-49db-bee6-a54b1403e45d",
+      "title": "Monkey Quest",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "monkey-quest",
+      "has_reactions": false
+    },
+    {
+      "id": "f8c9daa0-e855-450c-80c9-0c564564a340",
+      "title": "The Ref",
+      "release_year": 1994,
+      "studio_label": "Don Simpson/Jerry Bruckheimer Films",
+      "slug": "the-ref",
+      "has_reactions": true
+    },
+    {
+      "id": "5c8565d5-2686-4f94-9eeb-e52b47e860f9",
+      "title": "Love Walked In",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "love-walked-in",
+      "has_reactions": false
+    },
+    {
+      "id": "ea217f7b-0e58-4f2b-93b2-add44a3d2cb3",
+      "title": "Face Down",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "face-down",
+      "has_reactions": false
+    },
+    {
+      "id": "d184be91-4ea0-4029-8926-6bdc90100f67",
+      "title": "Anastasia",
+      "release_year": 1997,
+      "studio_label": "Fox Animation Studios",
+      "slug": "anastasia",
+      "has_reactions": true
+    },
+    {
+      "id": "76ab47b8-70ee-4866-83ea-2e9c6bb909e6",
+      "title": "For Love of the Game",
+      "release_year": 1999,
+      "studio_label": "Universal Pictures",
+      "slug": "for-love-of-the-game",
+      "has_reactions": true
+    },
+    {
+      "id": "aaa4d939-3812-4dd1-94ee-4adc94a8fdde",
+      "title": "The Cider House Rules",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-cider-house-rules",
+      "has_reactions": false
+    },
+    {
+      "id": "edb24a38-e7b5-4983-87d2-7053c7a717cd",
+      "title": "Hit and Runway",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "hit-and-runway",
+      "has_reactions": false
+    },
+    {
+      "id": "58205d6b-ef87-47af-8747-e16cd3d6dc6e",
+      "title": "The Gift",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-gift",
+      "has_reactions": false
+    },
+    {
+      "id": "5a774fb6-df42-4214-adf3-266f6e66ca9e",
+      "title": "Spider-Man",
+      "release_year": 2002,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man",
+      "has_reactions": true
+    },
+    {
+      "id": "e037f032-b71c-4058-8b71-99e0222a47af",
+      "title": "Spider-Man 2",
+      "release_year": 2004,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "566157d0-2a61-46a1-835d-8961f77555b2",
+      "title": "Hidalgo",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hidalgo",
+      "has_reactions": false
+    },
+    {
+      "id": "d4ba835b-a5b5-416b-953b-0d7d6db62fbb",
+      "title": "Harsh Times",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "harsh-times",
+      "has_reactions": false
+    },
+    {
+      "id": "5844a4da-c065-427a-b1be-5f8821bd5eea",
+      "title": "First Snow",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "first-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "12c625ef-3ba3-4821-9392-d08e3636bcdf",
+      "title": "Spider-Man 3",
+      "release_year": 2007,
+      "studio_label": "Laura Ziskin Productions",
+      "slug": "spider-man-3",
+      "has_reactions": true
+    },
+    {
+      "id": "2e0f0715-bc39-4087-b39f-e389758770e0",
+      "title": "The Astronaut Farmer",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-astronaut-farmer",
+      "has_reactions": false
+    },
+    {
+      "id": "c9118bcf-2e79-43fc-a79a-34875291d98e",
+      "title": "Juno",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "juno",
+      "has_reactions": false
+    },
+    {
+      "id": "056062e9-d5e3-49a5-a1b2-035941746c6a",
+      "title": "Bury My Heart at Wounded Knee",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "bury-my-heart-at-wounded-knee",
+      "has_reactions": false
+    },
+    {
+      "id": "8cd1ddaf-95b2-4ba4-9481-12cdf0386d6b",
+      "title": "Burn After Reading",
+      "release_year": 2008,
+      "studio_label": "Focus Features",
+      "slug": "burn-after-reading",
+      "has_reactions": true
+    },
+    {
+      "id": "008aba2c-90f5-4bb2-a45a-66d5026b11a6",
+      "title": "Extract",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "extract",
+      "has_reactions": false
+    },
+    {
+      "id": "865fdce9-3daa-4ed8-a4b0-495d612f4d76",
+      "title": "I Love You, Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-man",
+      "has_reactions": false
+    },
+    {
+      "id": "28f9d074-082b-482e-99e9-26e8625998ab",
+      "title": "Up in the Air",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "up-in-the-air",
+      "has_reactions": false
+    },
+    {
+      "id": "d8cc0799-fefa-47a3-8923-e8fa82b0d12f",
+      "title": "The Vicious Kind",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-vicious-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "f833b58c-c3b8-4868-890a-05a20edf2a0d",
+      "title": "New in Town",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "new-in-town",
+      "has_reactions": false
+    },
+    {
+      "id": "c877f76f-737f-4320-811a-1ad64ed5e377",
+      "title": "Jennifer's Body",
+      "release_year": 2009,
+      "studio_label": "Fox Atomic",
+      "slug": "jennifer-s-body",
+      "has_reactions": true
+    },
+    {
+      "id": "5a43a269-cd0d-4cfb-9d92-15b7c8009eac",
+      "title": "An Invisible Sign",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "an-invisible-sign",
+      "has_reactions": false
+    },
+    {
+      "id": "ffec4613-a6d0-4e6e-a633-b4c540b6e72b",
+      "title": "Megamind",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "megamind",
+      "has_reactions": true
+    },
+    {
+      "id": "74c82994-28df-4e5a-be1e-0280367abdbb",
+      "title": "Young Adult",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "young-adult",
+      "has_reactions": false
+    },
+    {
+      "id": "419dabc2-7156-40e0-8109-0dfad6aa04b9",
+      "title": "The Music Never Stopped",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-music-never-stopped",
+      "has_reactions": false
+    },
+    {
+      "id": "647f0c12-a466-4630-ac43-16824ebfff82",
+      "title": "Contraband",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "contraband",
+      "has_reactions": false
+    },
+    {
+      "id": "f93e17fc-b710-4898-a988-9b091d0cba62",
+      "title": "Dark Skies",
+      "release_year": 2013,
+      "studio_label": "Cinema Vehicle Services",
+      "slug": "dark-skies",
+      "has_reactions": true
+    },
+    {
+      "id": "5600c03c-7117-4525-aa20-18a0954cfcde",
+      "title": "3 Geezers!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "3-geezers",
+      "has_reactions": false
+    },
+    {
+      "id": "79bfbe6a-1a12-46e9-99cf-52950cb7d00b",
+      "title": "Jobs",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jobs",
+      "has_reactions": false
+    },
+    {
+      "id": "dfe13acc-db8e-4646-8ed7-d9f6532b0ad9",
+      "title": "The Magic Bracelet",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-magic-bracelet",
+      "has_reactions": false
+    },
+    {
+      "id": "3c5b78a9-9784-44fc-b05a-6e5bc16333a5",
+      "title": "Whiplash",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "whiplash",
+      "has_reactions": false
+    },
+    {
+      "id": "953bd57e-9b29-405c-b4cf-5b29e20e3aff",
+      "title": "Whiplash",
+      "release_year": 2014,
+      "studio_label": "Bold Films",
+      "slug": "whiplash",
+      "has_reactions": true
+    },
+    {
+      "id": "33496bf9-cabb-4c16-b903-c176f24266b0",
+      "title": "Murder of a Cat",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "murder-of-a-cat",
+      "has_reactions": false
+    },
+    {
+      "id": "a209865b-8997-4eac-ba14-0598b46ee26e",
+      "title": "Men, Women & Children",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "men-women-children",
+      "has_reactions": false
+    },
+    {
+      "id": "80fb72d8-17fb-4e6f-a3f5-b65cf16c4f7f",
+      "title": "The Boxcar Children",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-boxcar-children",
+      "has_reactions": false
+    },
+    {
+      "id": "0586310e-0f4b-4520-ac66-f2025c84a477",
+      "title": "Break Point",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "break-point",
+      "has_reactions": false
+    },
+    {
+      "id": "3293f68a-be7b-44e9-878b-90f6380103a7",
+      "title": "Barefoot",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "barefoot",
+      "has_reactions": false
+    },
+    {
+      "id": "3d93cc49-e292-4590-91c2-c65fd0726951",
+      "title": "O.W.C.A. Files",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "o-w-c-a-files",
+      "has_reactions": false
+    },
+    {
+      "id": "7e88a153-c21e-41d1-9dc8-0036d4d1544e",
+      "title": "Worlds Apart",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "worlds-apart",
+      "has_reactions": false
+    },
+    {
+      "id": "befa53f9-aafd-4d57-9327-89fe0ae22798",
+      "title": "The Accountant",
+      "release_year": 2016,
+      "studio_label": "Zero Gravity Management",
+      "slug": "the-accountant",
+      "has_reactions": true
+    },
+    {
+      "id": "26c3d6d7-8c7c-4f59-88ed-c27b4caafd7f",
+      "title": "Kung Fu Panda 3",
+      "release_year": 2016,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-3",
+      "has_reactions": true
+    },
+    {
+      "id": "ffd8908a-03f4-45aa-9eba-a6cd92ecf1d8",
+      "title": "Zootopia",
+      "release_year": 2016,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "zootopia",
+      "has_reactions": true
+    },
+    {
+      "id": "a29bd5a2-a4b3-45d5-b3b9-0344b3ab9703",
+      "title": "Patriots Day",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "patriots-day",
+      "has_reactions": false
+    },
+    {
+      "id": "7ca71641-67ca-4777-b934-21aaad1eff8b",
+      "title": "Rock Dog",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "rock-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "945c2123-c22c-4ac4-ac06-97edeb7b7720",
+      "title": "Punching Henry",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "punching-henry",
+      "has_reactions": false
+    },
+    {
+      "id": "dad0b735-eb9f-466f-a809-619f52fcee6a",
+      "title": "Justice League",
+      "release_year": 2017,
+      "studio_label": "Cruel & Unusual Films",
+      "slug": "justice-league",
+      "has_reactions": true
+    },
+    {
+      "id": "ccba0670-47f2-4e5d-b6d3-3389bea86aac",
+      "title": "Renegades",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "renegades",
+      "has_reactions": false
+    },
+    {
+      "id": "df1934d9-3025-47a9-8179-faae72312ab8",
+      "title": "All Nighter",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "all-nighter",
+      "has_reactions": false
+    },
+    {
+      "id": "d8d9544c-7d3e-4164-adcd-2a9dbda60de7",
+      "title": "Father Figures",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "father-figures",
+      "has_reactions": false
+    },
+    {
+      "id": "0adf6b11-03f8-498d-962f-54c602ce8179",
+      "title": "The Bachelors",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-bachelors",
+      "has_reactions": false
+    },
+    {
+      "id": "2c4d60fd-7b91-4371-a3be-0e45e0e6509f",
+      "title": "Klaus",
+      "release_year": 2019,
+      "studio_label": "Atresmedia",
+      "slug": "klaus",
+      "has_reactions": true
+    },
+    {
+      "id": "e6dc5f20-598e-4df9-a1e5-b177ed179ecf",
+      "title": "Fanboy",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "fanboy",
+      "has_reactions": false
+    },
+    {
+      "id": "870f988d-3190-452e-b6ca-3a9d0d652d88",
+      "title": "Palm Springs",
+      "release_year": 2020,
+      "studio_label": "Limelight",
+      "slug": "palm-springs",
+      "has_reactions": true
+    },
+    {
+      "id": "5365f12e-6011-4e9f-b0e7-6a3ea5a34e94",
+      "title": "Ghostbusters: Afterlife",
+      "release_year": 2021,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters-afterlife",
+      "has_reactions": true
+    },
+    {
+      "id": "bd3ab90b-3d6b-4ee8-a57b-eb1af93c6d92",
+      "title": "Seal Team",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "seal-team",
+      "has_reactions": false
+    },
+    {
+      "id": "40c15ce5-d95f-4e6a-9f73-61dbc2eb9b7d",
+      "title": "Venom: Let There Be Carnage",
+      "release_year": 2021,
+      "studio_label": "Columbia Pictures",
+      "slug": "venom-let-there-be-carnage",
+      "has_reactions": true
+    },
+    {
+      "id": "336ec780-80f0-4ff2-8bfb-a2f361e55bcd",
+      "title": "Glorious",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "glorious",
+      "has_reactions": false
+    },
+    {
+      "id": "e38ebd5e-0130-4089-9d45-ffa7dabe2c3c",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-rescue-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "bb2ee633-7f63-44ef-90b5-1e63130a7e1d",
+      "title": "Rivals: Ohio State vs. Michigan",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rivals-ohio-state-vs-michigan",
+      "has_reactions": false
+    },
+    {
+      "id": "5d954950-3d88-4638-93b8-6eb658844ff4",
+      "title": "Prophets of Change",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "prophets-of-change",
+      "has_reactions": false
+    },
+    {
+      "id": "5a739cbe-c970-4752-9e85-5541e29aff93",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "release_year": 2023,
+      "studio_label": "Columbia Pictures",
+      "slug": "spider-man-across-the-spider-verse",
+      "has_reactions": true
+    },
+    {
+      "id": "c00a2b80-54d5-4fbf-9f4e-067deadc9e6c",
+      "title": "Rally Road Racers",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "rally-road-racers",
+      "has_reactions": false
+    },
+    {
+      "id": "42fca0ef-f8e9-4d74-ad31-1025ea4af13d",
+      "title": "The Venture Bros.: Radiant Is the Blood of the Baboon Heart",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-venture-bros-radiant-is-the-blood-of-the-baboon-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "b5afe56d-b497-4c34-bba6-5989e27ae2ad",
+      "title": "One Day as a Lion",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "one-day-as-a-lion",
+      "has_reactions": false
+    },
+    {
+      "id": "aa57cfc2-3e05-4bbb-a177-2eebe051cce0",
+      "title": "Red One",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "red-one",
+      "has_reactions": false
+    },
+    {
+      "id": "9620ff5a-97fa-4155-8ef9-bf817443ceac",
+      "title": "You Can't Run Forever",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "you-can-t-run-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "62c4bf78-5aa4-4ee6-96c6-61615b5e88ce",
+      "title": "Saturday Night",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "saturday-night",
+      "has_reactions": false
+    },
+    {
+      "id": "3240da63-3076-452c-bb6f-286fbbc9ed07",
+      "title": "Juror #2",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "juror-2",
+      "has_reactions": false
+    },
+    {
+      "id": "cedf2707-8aeb-4b29-9016-de456f4003bf",
+      "title": "The Accountant\u00b2",
+      "release_year": 2025,
+      "studio_label": "Artists Equity",
+      "slug": "the-accountant",
+      "has_reactions": true
+    },
+    {
+      "id": "a79cb8fb-0a34-4083-8607-85e4a59b4732",
+      "title": "Little Brother",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "little-brother",
+      "has_reactions": false
+    }
+  ]
+}

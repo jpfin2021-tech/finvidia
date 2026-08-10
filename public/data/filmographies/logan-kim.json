@@ -1,0 +1,32 @@
+{
+  "id": "142f63a6-b86b-45ae-9fef-0c4c852f48cc",
+  "name": "Logan Kim",
+  "slug": "logan-kim",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/enI1CJeXSKOSTvC4mp945xxGU9X.jpg",
+  "filmography": [
+    {
+      "id": "5365f12e-6011-4e9f-b0e7-6a3ea5a34e94",
+      "title": "Ghostbusters: Afterlife",
+      "release_year": 2021,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters-afterlife",
+      "has_reactions": true
+    },
+    {
+      "id": "af0fe69c-1ae4-4dfc-add1-147746770a16",
+      "title": "Kung Fu Panda 4",
+      "release_year": 2024,
+      "studio_label": "DreamWorks Animation",
+      "slug": "kung-fu-panda-4",
+      "has_reactions": true
+    },
+    {
+      "id": "ff03b8cd-ab32-4f51-88a8-b2f6f1d4742a",
+      "title": "Ghostbusters: Frozen Empire",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ghostbusters-frozen-empire",
+      "has_reactions": false
+    }
+  ]
+}

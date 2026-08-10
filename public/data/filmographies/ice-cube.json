@@ -1,0 +1,608 @@
+{
+  "id": "91cc2bd7-614d-45ca-b174-01c9214f05b3",
+  "name": "Ice Cube",
+  "slug": "ice-cube",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg",
+  "filmography": [
+    {
+      "id": "3d221f00-ce42-4ab5-902e-130534de7e85",
+      "title": "Ride Along 3",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "ride-along-3",
+      "has_reactions": false
+    },
+    {
+      "id": "4cdacb11-63a2-419a-a37c-57ac7257045e",
+      "title": "Humbug",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "humbug",
+      "has_reactions": false
+    },
+    {
+      "id": "e7d04758-e9b9-4928-bf98-c9c7f5383f63",
+      "title": "24 Jump Street",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "24-jump-street",
+      "has_reactions": false
+    },
+    {
+      "id": "2387e573-5b7a-45f9-b6ef-3b0273638ca8",
+      "title": "Last Friday",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "last-friday",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc31cb5-b2cc-45aa-85e0-7d4da25a352d",
+      "title": "Accidentes",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "accidentes",
+      "has_reactions": false
+    },
+    {
+      "id": "febd1ff0-e9f9-429d-ac2d-1aff3c4f4509",
+      "title": "Boyz n the Hood",
+      "release_year": 1991,
+      "studio_label": "Columbia Pictures",
+      "slug": "boyz-n-the-hood",
+      "has_reactions": true
+    },
+    {
+      "id": "c40b50f0-c828-4f1c-83ea-0029facad4ee",
+      "title": "Trespass",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "trespass",
+      "has_reactions": false
+    },
+    {
+      "id": "cb623ea8-e74f-4503-b739-1928959d94cb",
+      "title": "Birth of a Nation: 4.29.92",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "birth-of-a-nation-4-29-92",
+      "has_reactions": false
+    },
+    {
+      "id": "19e64cb2-6fa4-4778-8889-8a77fdca4cf6",
+      "title": "CB4",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "cb4",
+      "has_reactions": true
+    },
+    {
+      "id": "885d70c5-4a58-436f-960c-94a8e492e993",
+      "title": "Friday",
+      "release_year": 1995,
+      "studio_label": "New Line Cinema",
+      "slug": "friday",
+      "has_reactions": true
+    },
+    {
+      "id": "03f87ea9-61dd-4dbe-8369-bd324f8270a6",
+      "title": "Higher Learning",
+      "release_year": 1995,
+      "studio_label": "New Deal Productions",
+      "slug": "higher-learning",
+      "has_reactions": true
+    },
+    {
+      "id": "a347ac1c-6e08-4f58-ad18-459e99ded7be",
+      "title": "Rap: Looking for the Perfect Beat",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "rap-looking-for-the-perfect-beat",
+      "has_reactions": false
+    },
+    {
+      "id": "1348b110-d6f9-4b82-b271-c8c4c7e79e64",
+      "title": "Anaconda",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "f8e41244-ec79-4a72-9ac2-25e657ad1c4e",
+      "title": "Dangerous Ground",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "dangerous-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "664f043e-bc0f-4879-980b-4f270fd7de2b",
+      "title": "The Players Club",
+      "release_year": 1998,
+      "studio_label": "New Line Cinema",
+      "slug": "the-players-club",
+      "has_reactions": true
+    },
+    {
+      "id": "a278c653-60cb-4494-a2d0-522ed52f1ddd",
+      "title": "Thicker Than Water",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "thicker-than-water",
+      "has_reactions": false
+    },
+    {
+      "id": "6f8655b0-142c-490e-b96a-1cc20c6caf4c",
+      "title": "Family Values Tour '98",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "family-values-tour-98",
+      "has_reactions": false
+    },
+    {
+      "id": "f965cc21-3fbb-46bd-8bfa-a56afd0cca6f",
+      "title": "Next Friday",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "next-friday",
+      "has_reactions": true
+    },
+    {
+      "id": "d758af4d-824c-4a89-bb7b-0d3b9dfbc777",
+      "title": "Woodstock '99",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "woodstock-99",
+      "has_reactions": false
+    },
+    {
+      "id": "92a6f159-bfd8-4b41-a8ab-d3cc551bb2af",
+      "title": "The Up in Smoke Tour",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-up-in-smoke-tour",
+      "has_reactions": false
+    },
+    {
+      "id": "3b834fd0-57c3-412e-a207-0cf15e556b41",
+      "title": "An Intimate Look Inside the Acting Process with Ice Cube",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "an-intimate-look-inside-the-acting-process-with-ice-cube",
+      "has_reactions": false
+    },
+    {
+      "id": "c84820f2-5c36-4ddc-a516-ff0fcbcb20e5",
+      "title": "Straight from the Streets",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "straight-from-the-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "e1f5bbb6-cac3-4919-8ad8-42aa49dd7ed8",
+      "title": "Red Desert Nights: Making Ghosts of Mars",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "red-desert-nights-making-ghosts-of-mars",
+      "has_reactions": false
+    },
+    {
+      "id": "03f78182-2c50-4ce4-a9e1-69f6b02717a4",
+      "title": "Ghosts of Mars",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ghosts-of-mars",
+      "has_reactions": false
+    },
+    {
+      "id": "18e97915-3ce8-4d58-88a4-1c57507df8d5",
+      "title": "All About the Benjamins",
+      "release_year": 2002,
+      "studio_label": "New Line Cinema",
+      "slug": "all-about-the-benjamins",
+      "has_reactions": true
+    },
+    {
+      "id": "74e6a377-82f0-4094-b3d2-f8f3c1a57a2e",
+      "title": "Friday After Next",
+      "release_year": 2002,
+      "studio_label": "New Line Cinema",
+      "slug": "friday-after-next",
+      "has_reactions": true
+    },
+    {
+      "id": "58f35c5f-50d5-4f45-8a73-7fa73715fa2d",
+      "title": "Barbershop",
+      "release_year": 2002,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "barbershop",
+      "has_reactions": true
+    },
+    {
+      "id": "2c2d2066-21c3-4a6b-800f-28f7d8999f33",
+      "title": "Korn: Deuce",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "korn-deuce",
+      "has_reactions": false
+    },
+    {
+      "id": "0ba49790-5180-423b-8ad3-e568c942ea6b",
+      "title": "Beef",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "beef",
+      "has_reactions": false
+    },
+    {
+      "id": "c2c1eed9-f8fa-4819-9f79-e2db03386f3c",
+      "title": "Barbershop 2: Back in Business",
+      "release_year": 2004,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "barbershop-2-back-in-business",
+      "has_reactions": true
+    },
+    {
+      "id": "cfd3ebfa-d82a-490c-b8c1-c46da9bf9a40",
+      "title": "Torque",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "torque",
+      "has_reactions": false
+    },
+    {
+      "id": "fd0611ec-140b-43bc-926b-a346c1188a5c",
+      "title": "Westside Connection: Gangsta Nation Live",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "westside-connection-gangsta-nation-live",
+      "has_reactions": false
+    },
+    {
+      "id": "cab90747-87cc-418b-83af-96a8147836bb",
+      "title": "Beef II",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "beef-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "9de31f06-a698-4a30-88f7-2421dff97834",
+      "title": "Ice Cube: The Making of a Don",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ice-cube-the-making-of-a-don",
+      "has_reactions": false
+    },
+    {
+      "id": "63ec61f2-396c-47b5-a174-c7057a258b3b",
+      "title": "xXx: State of the Union",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "xxx-state-of-the-union",
+      "has_reactions": false
+    },
+    {
+      "id": "b9b439fb-d4d6-4f10-9ca6-e40939e80d9b",
+      "title": "Are We Done Yet?",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "are-we-done-yet",
+      "has_reactions": false
+    },
+    {
+      "id": "0b18fcaf-d9de-47b9-9263-b4e932b6d14b",
+      "title": "DJ Crazy Toones | It's A CT Experience: The DVD Files",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "dj-crazy-toones-it-s-a-ct-experience-the-dvd-files",
+      "has_reactions": false
+    },
+    {
+      "id": "19ef33a8-d407-4f53-8421-c9484a218f82",
+      "title": "20 Most Shocking Unsolved Crimes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "20-most-shocking-unsolved-crimes",
+      "has_reactions": false
+    },
+    {
+      "id": "bb93d355-b4f7-4675-8c71-6b6dd7bea26a",
+      "title": "First Sunday",
+      "release_year": 2008,
+      "studio_label": "Cube Vision",
+      "slug": "first-sunday",
+      "has_reactions": true
+    },
+    {
+      "id": "dc79838b-02c0-47a8-98b7-a3b75f8271b8",
+      "title": "The Longshots",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-longshots",
+      "has_reactions": false
+    },
+    {
+      "id": "6e38fd0e-8c8f-4a8b-a586-e753990f0769",
+      "title": "DJ SWB Volume 6 | This Is How We Do",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "dj-swb-volume-6-this-is-how-we-do",
+      "has_reactions": false
+    },
+    {
+      "id": "50e23e0d-7ce2-4663-9cb8-44df550a04e9",
+      "title": "Janky Promoters",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "janky-promoters",
+      "has_reactions": false
+    },
+    {
+      "id": "fafe81c7-9372-44e9-95aa-9c7c8ab2e676",
+      "title": "\u2018Friday\u2019 Straight Up",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "friday-straight-up",
+      "has_reactions": false
+    },
+    {
+      "id": "f5d62f07-5327-4115-a5a6-9e4518914fdd",
+      "title": "Lottery Ticket",
+      "release_year": 2010,
+      "studio_label": "Sweepstake Productions",
+      "slug": "lottery-ticket",
+      "has_reactions": true
+    },
+    {
+      "id": "e070cc44-40ff-4c6e-be59-f7ba73148b27",
+      "title": "Katt Williams: 9 Lives",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "katt-williams-9-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "e2ae61be-96fb-448c-a3d7-67f2bff05651",
+      "title": "Straight Outta L.A.",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "straight-outta-l-a",
+      "has_reactions": false
+    },
+    {
+      "id": "46433d26-ea93-48ad-9afe-c286c4fbaade",
+      "title": "The Fab Five",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-fab-five",
+      "has_reactions": false
+    },
+    {
+      "id": "91ca29fe-e1ea-4a67-85a7-adbd072ed9be",
+      "title": "21 Jump Street",
+      "release_year": 2012,
+      "studio_label": "Columbia Pictures",
+      "slug": "21-jump-street",
+      "has_reactions": true
+    },
+    {
+      "id": "1957f525-8bc7-4555-a8a5-66dbd6335dfa",
+      "title": "Ride Along",
+      "release_year": 2014,
+      "studio_label": "Rainforest Entertainment",
+      "slug": "ride-along",
+      "has_reactions": true
+    },
+    {
+      "id": "910c685e-8694-457e-a6ad-e5b12c74ec08",
+      "title": "22 Jump Street",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "22-jump-street",
+      "has_reactions": true
+    },
+    {
+      "id": "22623f05-7a75-4c3e-8bbd-90ad4c8fc348",
+      "title": "Hip Hop Don't Stop",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "hip-hop-don-t-stop",
+      "has_reactions": false
+    },
+    {
+      "id": "3b3cf9f9-5347-4781-90bd-774bab171fc8",
+      "title": "The Book of Life",
+      "release_year": 2014,
+      "studio_label": "Reel FX Creative Studios",
+      "slug": "the-book-of-life",
+      "has_reactions": true
+    },
+    {
+      "id": "c5f86e33-5a37-42f2-8f17-8d271a3584ca",
+      "title": "The Game: The Documentary 2",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-game-the-documentary-2",
+      "has_reactions": false
+    },
+    {
+      "id": "9cebf90f-1535-4349-af1e-8276b11651a8",
+      "title": "Ride Along 2",
+      "release_year": 2016,
+      "studio_label": "Reel Chefs Catering",
+      "slug": "ride-along-2",
+      "has_reactions": true
+    },
+    {
+      "id": "06f1e767-8889-401d-b4b4-64143b84f4d9",
+      "title": "Barbershop: The Next Cut",
+      "release_year": 2016,
+      "studio_label": "New Line Cinema",
+      "slug": "barbershop-the-next-cut",
+      "has_reactions": true
+    },
+    {
+      "id": "d930bac7-e054-4303-8335-47504f2a34f9",
+      "title": "NWA & Eazy-E: The Kings of Compton",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "nwa-eazy-e-the-kings-of-compton",
+      "has_reactions": false
+    },
+    {
+      "id": "09df818c-4543-478f-b65e-ab206c84bffa",
+      "title": "The Making of Mr. October: The Reggie Jackson Story",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-mr-october-the-reggie-jackson-story",
+      "has_reactions": false
+    },
+    {
+      "id": "5f8ae4de-39a9-4309-8363-ab29535b3fe4",
+      "title": "Fist Fight",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "fist-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "3df76aa1-5f1e-4a74-9184-6d8261f02f23",
+      "title": "xXx: Return of Xander Cage",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "xxx-return-of-xander-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "ba10af38-590e-4b5d-a3d7-266fdec16120",
+      "title": "The Tuck Rule",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-tuck-rule",
+      "has_reactions": false
+    },
+    {
+      "id": "6c0e7ae1-fd35-4c1a-b2bf-6dc8d8210b77",
+      "title": "Burn Motherfucker, Burn!",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "burn-motherfucker-burn",
+      "has_reactions": false
+    },
+    {
+      "id": "023bb11c-6d48-4c2c-8a97-2831af61e62e",
+      "title": "G-Funk",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "g-funk",
+      "has_reactions": false
+    },
+    {
+      "id": "ec5ed08d-26ad-47fd-b784-c2115fdc7df6",
+      "title": "Comedy Central's Colossal Clusterfest",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-s-colossal-clusterfest",
+      "has_reactions": false
+    },
+    {
+      "id": "81b3faa4-9598-4f68-b92c-edb8c323aff5",
+      "title": "Coachella: 20 Years in the Desert",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "coachella-20-years-in-the-desert",
+      "has_reactions": false
+    },
+    {
+      "id": "d18f258e-f207-4b97-bea1-fb1b0c8db278",
+      "title": "Jake Paul vs. Ben Askren",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jake-paul-vs-ben-askren",
+      "has_reactions": false
+    },
+    {
+      "id": "f1f86e65-031c-4f5d-adac-175d009b7e61",
+      "title": "Bitchin': The Sound and Fury of Rick James",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "bitchin-the-sound-and-fury-of-rick-james",
+      "has_reactions": false
+    },
+    {
+      "id": "005c2cc6-c29d-456f-8865-e9d6cbb4b4db",
+      "title": "Beats Music Presents: It Was A Good Day, The Live 90s Hip Hop Playlist",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "beats-music-presents-it-was-a-good-day-the-live-90s-hip-hop-playlist",
+      "has_reactions": false
+    },
+    {
+      "id": "1945fe7c-efb5-473b-8340-28ab17f477f8",
+      "title": "The DOC",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-doc",
+      "has_reactions": false
+    },
+    {
+      "id": "f24eb008-be9f-4242-9d16-d597a1195384",
+      "title": "The Crossover: 50 Years of Hip Hop and Sports",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-crossover-50-years-of-hip-hop-and-sports",
+      "has_reactions": false
+    },
+    {
+      "id": "19c5f0b4-8d52-41da-9494-a9db06bc2ced",
+      "title": "Stand",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "stand",
+      "has_reactions": false
+    },
+    {
+      "id": "9df55935-c182-4917-9868-12839d6aacf4",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "release_year": 2023,
+      "studio_label": "Paramount Pictures",
+      "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+      "has_reactions": true
+    },
+    {
+      "id": "7dbcbc34-6edd-410a-8a5f-cccdcb4423eb",
+      "title": "Comin' Up Short",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "comin-up-short",
+      "has_reactions": false
+    },
+    {
+      "id": "628dde8a-3579-4d2d-a656-3726808ff93e",
+      "title": "War of the Worlds",
+      "release_year": 2025,
+      "studio_label": "Universal Pictures",
+      "slug": "war-of-the-worlds",
+      "has_reactions": false
+    },
+    {
+      "id": "0ed3e1c1-99a3-4f1d-b59a-ae176cab793e",
+      "title": "Anaconda",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "ef857fe1-9c51-44f1-93cb-5c05079dd83c",
+      "title": "N.W.A.: Not Without Alonzo",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "n-w-a-not-without-alonzo",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "id": "fe277573-81b5-4779-ad74-db279eb491c1",
+  "name": "Lou Diamond Phillips",
+  "slug": "lou-diamond-phillips",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg",
+  "filmography": [
+    {
+      "id": "cc97d622-1d8b-4266-8522-c4c878a84554",
+      "title": "Young Guns III",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "young-guns-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "bf334bdf-bd13-41c9-8ed2-7958f1f152d5",
+      "title": "City Kid",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "city-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "edb677c4-3ef2-4aea-b23c-5033827a1e4f",
+      "title": "Time Bomb",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "time-bomb",
+      "has_reactions": false
+    },
+    {
+      "id": "164d3b90-ace3-4be4-8ff9-a7b8d6900c9f",
+      "title": "Interface",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "interface",
+      "has_reactions": false
+    },
+    {
+      "id": "c5ff2faf-fea2-4b4f-86ac-941456cf1466",
+      "title": "Trespasses",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "trespasses",
+      "has_reactions": false
+    },
+    {
+      "id": "fad665a1-2a6f-4169-ac75-455c79638ea9",
+      "title": "The Three Kings",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-three-kings",
+      "has_reactions": false
+    },
+    {
+      "id": "b74490a8-a4f2-4eee-a1b2-61e9771b76e7",
+      "title": "Young Guns",
+      "release_year": 1988,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "young-guns",
+      "has_reactions": true
+    },
+    {
+      "id": "6733d304-cc84-404b-8b86-156ccb76d40f",
+      "title": "Stand and Deliver",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "stand-and-deliver",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb288a2-6627-41d1-a925-621e954a235b",
+      "title": "Renegades",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "renegades",
+      "has_reactions": false
+    },
+    {
+      "id": "52eddfe8-af64-4f5f-ae33-de6a3cc1e128",
+      "title": "Disorganized Crime",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "disorganized-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "3a014cdd-c596-42aa-a699-cdbba5778322",
+      "title": "Young Guns II",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "young-guns-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "7af75a90-cb6e-44b0-a01d-a8405e2b24ca",
+      "title": "The First Power",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-first-power",
+      "has_reactions": false
+    },
+    {
+      "id": "f4191de1-e94d-49ba-9c0b-8604bdcc980e",
+      "title": "A Show of Force",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "a-show-of-force",
+      "has_reactions": false
+    },
+    {
+      "id": "7ffd220a-a0df-415a-9f7a-1f1a90d882e9",
+      "title": "Harley",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "harley",
+      "has_reactions": false
+    },
+    {
+      "id": "a8c7e9a5-ec8b-4595-bad3-8709ef8448a6",
+      "title": "Ambition",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "ambition",
+      "has_reactions": false
+    },
+    {
+      "id": "7de77f82-25e2-4fcb-8b33-efdfab332c52",
+      "title": "Shadow of the Wolf",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "shadow-of-the-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "43894fcc-1d8a-4c03-9ab8-bafcf489bd37",
+      "title": "The Dark Wind",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-dark-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "bb33d9f1-2508-48c1-9049-7332f09bb0c2",
+      "title": "Wind in the Wire",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "wind-in-the-wire",
+      "has_reactions": false
+    },
+    {
+      "id": "446a7749-2f78-464a-9bfb-aadcb0f3e981",
+      "title": "Willie Nelson: The Big Six-O",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-the-big-six-o",
+      "has_reactions": false
+    },
+    {
+      "id": "98f9ef1d-d2ff-4f93-8578-f2035f30953b",
+      "title": "Boulevard",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "boulevard",
+      "has_reactions": false
+    },
+    {
+      "id": "8cf51e64-5010-4caf-982e-fe4a9f86cafb",
+      "title": "Override",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "override",
+      "has_reactions": false
+    },
+    {
+      "id": "41bd81b0-aece-49a4-acc0-fef3664b6d41",
+      "title": "Sioux City",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "sioux-city",
+      "has_reactions": false
+    },
+    {
+      "id": "0576c4e8-4c6b-47fd-b229-88ff4408bcf2",
+      "title": "Dangerous Touch",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dangerous-touch",
+      "has_reactions": false
+    },
+    {
+      "id": "16bbf190-8a9c-42a0-b604-228c770798db",
+      "title": "Courage Under Fire",
+      "release_year": 1996,
+      "studio_label": "Davis Entertainment",
+      "slug": "courage-under-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "5bdac244-0eb9-4b69-b4e1-1bc29e1332aa",
+      "title": "Undertow",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "undertow",
+      "has_reactions": false
+    },
+    {
+      "id": "b1c3ed32-e4f7-4e06-90ac-18a35486bb88",
+      "title": "Smoke Alarm: The Unfiltered Truth About Cigarettes",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "smoke-alarm-the-unfiltered-truth-about-cigarettes",
+      "has_reactions": false
+    },
+    {
+      "id": "7ccfde23-ff59-45c5-90a0-c6fccdfe04b1",
+      "title": "Hourglass",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "hourglass",
+      "has_reactions": false
+    },
+    {
+      "id": "16a8eaa4-bf45-4106-8241-37be5117669d",
+      "title": "The Trial of Adolf Eichmann",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-trial-of-adolf-eichmann",
+      "has_reactions": false
+    },
+    {
+      "id": "666e8972-2df3-43d9-9efb-7eb9330b98ce",
+      "title": "In a Class of His Own",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "in-a-class-of-his-own",
+      "has_reactions": false
+    },
+    {
+      "id": "e18505d2-b656-4cb6-a686-2deaae6fd688",
+      "title": "Behind The Music: The Day The Music Died",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "behind-the-music-the-day-the-music-died",
+      "has_reactions": false
+    },
+    {
+      "id": "fe681a2a-988d-4f7c-bc36-a8de74b3fa86",
+      "title": "Supernova",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "supernova",
+      "has_reactions": false
+    },
+    {
+      "id": "3e22922f-fc7c-4f41-809c-676bd32ad2e9",
+      "title": "Route 666",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "route-666",
+      "has_reactions": false
+    },
+    {
+      "id": "5b6fe81d-86b5-4c77-ae17-0fcb42aa3a70",
+      "title": "Knight Club",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "knight-club",
+      "has_reactions": false
+    },
+    {
+      "id": "85026bf3-d804-4ee4-85b4-c4db845c2708",
+      "title": "Hangman",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "hangman",
+      "has_reactions": false
+    },
+    {
+      "id": "85d88723-2e2f-4b4c-8ed4-2b3ee93cd93f",
+      "title": "A Better Way to Die",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-better-way-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "ccb6b176-4613-41df-b6bc-fc56d7597145",
+      "title": "Stark Raving Mad",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "stark-raving-mad",
+      "has_reactions": false
+    },
+    {
+      "id": "dd18f7e6-7638-419c-a718-73652ade966c",
+      "title": "Lone Hero",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "lone-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "ced373f7-fcbf-4607-a979-b22e76ba45f1",
+      "title": "Malevolent",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "malevolent",
+      "has_reactions": false
+    },
+    {
+      "id": "9730031c-86c2-4f2e-8d22-667d09d3015a",
+      "title": "An Untold Triumph: America's Filipino Soldiers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "an-untold-triumph-america-s-filipino-soldiers",
+      "has_reactions": false
+    },
+    {
+      "id": "6822d570-225d-4c28-bc2b-810ac0f38f98",
+      "title": "Hollywood Homicide",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hollywood-homicide",
+      "has_reactions": false
+    },
+    {
+      "id": "fcacf14b-25fc-420a-a10d-85495f97a1d4",
+      "title": "Absolon",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "absolon",
+      "has_reactions": false
+    },
+    {
+      "id": "52e08e34-655e-4e82-8935-5947df492341",
+      "title": "Red Water",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "red-water",
+      "has_reactions": false
+    },
+    {
+      "id": "8952570f-0c8d-4a14-8760-b13b793739eb",
+      "title": "The Trail to Hope Rose",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-trail-to-hope-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "bfdcb3b9-4383-47d1-b4f0-2b70fcf6784a",
+      "title": "Grandpa's Place",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "grandpa-s-place",
+      "has_reactions": false
+    },
+    {
+      "id": "45f201dc-fa07-4d08-96b2-f8672984acd5",
+      "title": "Gone But Not Forgotten",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "gone-but-not-forgotten",
+      "has_reactions": false
+    },
+    {
+      "id": "a0062efb-6c61-4d37-9593-fe6ba1ad950c",
+      "title": "Murder at the Presidio",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "murder-at-the-presidio",
+      "has_reactions": false
+    },
+    {
+      "id": "b01ce96d-42c5-4c9e-a622-df1f73c77a75",
+      "title": "Alien Express",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "alien-express",
+      "has_reactions": false
+    },
+    {
+      "id": "3864786b-7ace-44d8-8eaf-2ea11052f5b8",
+      "title": "Striking Range",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "striking-range",
+      "has_reactions": false
+    },
+    {
+      "id": "e9022e5f-0f2b-4e43-b2e1-4d14b6f8539a",
+      "title": "Aquaman",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "aquaman",
+      "has_reactions": false
+    },
+    {
+      "id": "5915a0c7-482f-4d35-81b6-32411b5ce4f3",
+      "title": "El Cortez",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "el-cortez",
+      "has_reactions": false
+    },
+    {
+      "id": "6efb92eb-de5b-4ba1-8121-d04bab45bb20",
+      "title": "Termination Point",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "termination-point",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c29254-acc4-463c-9e46-2ff75a59e817",
+      "title": "Backyards & Bullets",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "backyards-bullets",
+      "has_reactions": false
+    },
+    {
+      "id": "eac81e3b-bb86-4dc9-9eb8-5bbf0d06dd0b",
+      "title": "Che: Part Two",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "che-part-two",
+      "has_reactions": false
+    },
+    {
+      "id": "394df38e-1a7b-439c-9a99-01564f63dbb7",
+      "title": "Never Forget",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "never-forget",
+      "has_reactions": false
+    },
+    {
+      "id": "6899a31a-c8a3-4a15-aa37-5a79099bb914",
+      "title": "Death Toll",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "death-toll",
+      "has_reactions": false
+    },
+    {
+      "id": "f53c860d-6c59-4a16-9790-4629a3e70a63",
+      "title": "Lone Rider",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "lone-rider",
+      "has_reactions": false
+    },
+    {
+      "id": "48e59cc9-428a-4f1f-a57f-9f9e97f23982",
+      "title": "Naked Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "naked-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "f4466074-a85d-45f5-bc19-662c96da2fb9",
+      "title": "Carny",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "carny",
+      "has_reactions": false
+    },
+    {
+      "id": "503b57aa-e82a-4382-840d-d5f4795c3c9e",
+      "title": "Angel and the Badman",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "angel-and-the-badman",
+      "has_reactions": false
+    },
+    {
+      "id": "fd26fbe1-29ec-4ea4-8dff-40ee102ebfdc",
+      "title": "Love Takes Wing",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "love-takes-wing",
+      "has_reactions": false
+    },
+    {
+      "id": "892f403d-2323-48f2-9581-f3c63d5c6602",
+      "title": "Takedown",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "takedown",
+      "has_reactions": false
+    },
+    {
+      "id": "d1c1b15f-e2fe-4a9b-b832-fa31afbc9e0b",
+      "title": "The Invited",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-invited",
+      "has_reactions": false
+    },
+    {
+      "id": "da3b1b79-bfb9-44f2-a95c-3c31538133fb",
+      "title": "Metal Tornado",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "metal-tornado",
+      "has_reactions": false
+    },
+    {
+      "id": "81913260-45ae-45af-9405-6ca11e2cb45b",
+      "title": "Filly Brown",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "filly-brown",
+      "has_reactions": false
+    },
+    {
+      "id": "45ce5d18-32b0-4ac7-b37a-938d8bd8b392",
+      "title": "Lucy in the Sky with Diamond",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "lucy-in-the-sky-with-diamond",
+      "has_reactions": false
+    },
+    {
+      "id": "319408b3-eb1b-4b39-a1ae-e5c498dd25ea",
+      "title": "Sanitarium",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sanitarium",
+      "has_reactions": false
+    },
+    {
+      "id": "b39ada34-8a7b-4889-96e9-4fa27b400772",
+      "title": "Sequoia",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "sequoia",
+      "has_reactions": false
+    },
+    {
+      "id": "8a4d828c-1461-497e-9d3c-807c6dfbdb36",
+      "title": "The 33",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-33",
+      "has_reactions": false
+    },
+    {
+      "id": "6bbab4a2-5f21-4a03-9675-fd2ec6999b4d",
+      "title": "The Wiggles - Rock and Roll Preschool",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-wiggles-rock-and-roll-preschool",
+      "has_reactions": false
+    },
+    {
+      "id": "eedac925-50cf-4e18-b174-927531abc292",
+      "title": "Sky",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "sky",
+      "has_reactions": false
+    },
+    {
+      "id": "8bcbe725-b7e7-4ec0-978c-a233c3819786",
+      "title": "The Night Stalker",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-night-stalker",
+      "has_reactions": false
+    },
+    {
+      "id": "a17896e2-a89e-4c39-bad7-e0d8d6223d9b",
+      "title": "Quest",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "quest",
+      "has_reactions": false
+    },
+    {
+      "id": "5c4da5ea-6db1-45f8-a5a3-7bc698335afd",
+      "title": "Created Equal",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "created-equal",
+      "has_reactions": false
+    },
+    {
+      "id": "6a995b3e-0f0a-4ed0-9930-c2cc69610061",
+      "title": "Cop and a Half: New Recruit",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cop-and-a-half-new-recruit",
+      "has_reactions": false
+    },
+    {
+      "id": "6d7c9153-0a97-4e18-8816-c9cc151a9eea",
+      "title": "Avenge the Crows",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "avenge-the-crows",
+      "has_reactions": false
+    },
+    {
+      "id": "f086bf7b-594c-4d7b-808d-120f29a0895e",
+      "title": "Elena of Avalor: Realm of the Jaquins",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "elena-of-avalor-realm-of-the-jaquins",
+      "has_reactions": false
+    },
+    {
+      "id": "31e7db64-86b6-487d-85f8-4f59edcd141c",
+      "title": "The Last Train",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-last-train",
+      "has_reactions": false
+    },
+    {
+      "id": "aa840f8f-2305-4331-83bd-25042df582c8",
+      "title": "Urban Country",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "urban-country",
+      "has_reactions": false
+    },
+    {
+      "id": "8050d624-b554-4578-a9e2-a0717a363dda",
+      "title": "Big Kill",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "big-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "696ded2c-299f-406c-a2b5-5c15c6a44105",
+      "title": "Adverse",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "adverse",
+      "has_reactions": false
+    },
+    {
+      "id": "bc418c8e-76dc-4bcd-a671-6ea1558ac4ee",
+      "title": "Easter Sunday",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "easter-sunday",
+      "has_reactions": false
+    },
+    {
+      "id": "ac8d41f6-1ba3-4aad-8fda-d0570d23ed72",
+      "title": "DC Showcase - Constantine: The House of Mystery",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-constantine-the-house-of-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "c1ac1c2a-9b32-44d4-86cf-0f1efa5a58bb",
+      "title": "Justice League: Crisis on Infinite Earths Part Two",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "justice-league-crisis-on-infinite-earths-part-two",
+      "has_reactions": false
+    },
+    {
+      "id": "3df1cb03-c15c-44d0-9ab2-e7ff4ce73266",
+      "title": "Werewolves",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "werewolves",
+      "has_reactions": false
+    },
+    {
+      "id": "73c91309-db54-4fc6-b1bb-43e229a866c5",
+      "title": "Et Tu",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "et-tu",
+      "has_reactions": false
+    },
+    {
+      "id": "bcba12d6-155a-46ca-9f8b-734ee32e7792",
+      "title": "Gangland",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "gangland",
+      "has_reactions": false
+    }
+  ]
+}

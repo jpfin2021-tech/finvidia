@@ -1,0 +1,480 @@
+{
+  "id": "3a77cd1f-2f72-4c5a-a2c5-549dfad66b13",
+  "name": "Charlie Adler",
+  "slug": "charlie-adler",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg",
+  "filmography": [
+    {
+      "id": "0920b6a8-0838-4254-99e7-8302e931cf36",
+      "title": "The Pound Puppies",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-pound-puppies",
+      "has_reactions": false
+    },
+    {
+      "id": "e2bd220b-0dbd-4c45-a9fb-e19531b79246",
+      "title": "The GLO Friends Save Christmas",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-glo-friends-save-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "4a1e5c24-dd47-4edd-8d6f-771d623540b0",
+      "title": "Rainbow Brite and the Star Stealer",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "rainbow-brite-and-the-star-stealer",
+      "has_reactions": false
+    },
+    {
+      "id": "1f9161a2-44bc-4dc9-90c7-42b492bec6e5",
+      "title": "G.I. Joe: Arise, Serpentor, Arise!",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-arise-serpentor-arise",
+      "has_reactions": false
+    },
+    {
+      "id": "0d92825d-4af3-42c9-9609-c8f6d41f42c6",
+      "title": "My Little Pony: The Movie",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "my-little-pony-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "85f4f9fc-89ef-4cf7-8bda-e371161ac084",
+      "title": "G.I. Joe: The Movie",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "1666abb0-0ccb-4ce6-bbaa-69710cda4391",
+      "title": "The Smurfs: 'Tis the Season to Be Smurfy",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-smurfs-tis-the-season-to-be-smurfy",
+      "has_reactions": false
+    },
+    {
+      "id": "8a23434c-8624-4a9a-8c4b-4f7175ad5a5b",
+      "title": "The Little Troll Prince",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-little-troll-prince",
+      "has_reactions": false
+    },
+    {
+      "id": "71c232b2-b5c8-41cc-93fa-903f88febc27",
+      "title": "BraveStarr: The Legend",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bravestarr-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "8d89580d-3399-452e-85b1-a2ed564642d3",
+      "title": "Star Street: The Happy Birthday Movie",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "star-street-the-happy-birthday-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "a9adefb4-1702-4e78-bc1d-e90d67c85269",
+      "title": "Blondie & Dagwood: Second Wedding Workout",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "blondie-dagwood-second-wedding-workout",
+      "has_reactions": false
+    },
+    {
+      "id": "b50139d5-a728-44fc-91b8-ab75b63cac07",
+      "title": "The Monster Bed",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-monster-bed",
+      "has_reactions": false
+    },
+    {
+      "id": "40e7dbee-dcd2-4899-aa12-d2d2d458ea29",
+      "title": "Hound Town",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "hound-town",
+      "has_reactions": false
+    },
+    {
+      "id": "0887ffe4-e295-40d2-8890-8b302d005a3f",
+      "title": "The Prince and the Pauper",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-prince-and-the-pauper",
+      "has_reactions": false
+    },
+    {
+      "id": "a882f4c1-d960-42a0-9dee-c6fc01ba7ea9",
+      "title": "The Yum Yums: The Day Things Went Sour",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-yum-yums-the-day-things-went-sour",
+      "has_reactions": false
+    },
+    {
+      "id": "0f26de68-76d1-4ea1-afc1-ad484a8a92cb",
+      "title": "Talespin: Plunder & Lightning",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "talespin-plunder-lightning",
+      "has_reactions": false
+    },
+    {
+      "id": "39af5d11-a613-4e97-a04d-ae5accde00af",
+      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "ducktales-the-movie-treasure-of-the-lost-lamp",
+      "has_reactions": false
+    },
+    {
+      "id": "b3730676-788d-4733-8f99-8ed389be0b10",
+      "title": "Timeless Tales: The Ugly Duckling",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "timeless-tales-the-ugly-duckling",
+      "has_reactions": false
+    },
+    {
+      "id": "2ba518f0-349f-4543-b782-a1860b91247d",
+      "title": "The Rescuers Down Under",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-rescuers-down-under",
+      "has_reactions": false
+    },
+    {
+      "id": "42921c0c-d396-4e22-8bb0-12b1a9bbf2f2",
+      "title": "Defenders of Dynatron City",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "defenders-of-dynatron-city",
+      "has_reactions": false
+    },
+    {
+      "id": "1a13c75c-e9f9-40dd-b40f-0cee755b4ee2",
+      "title": "Aladdin",
+      "release_year": 1992,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "aladdin",
+      "has_reactions": true
+    },
+    {
+      "id": "e4e8569b-dee8-418e-ab3f-90fe24d05bed",
+      "title": "P.J.'s Unfunnybunny Christmas",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "p-j-s-unfunnybunny-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "1575c6d7-d013-496b-9fd5-25ae4558323b",
+      "title": "The Flintstones: Hollyrock a Bye Baby",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-flintstones-hollyrock-a-bye-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "6ec8b733-ba57-4d4e-b0f5-067af5027af4",
+      "title": "Once Upon a Forest",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "31bfcf3c-a84c-4279-8a16-59d9d0a5aa73",
+      "title": "Yogi the Easter Bear",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "yogi-the-easter-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "d8da2c69-d580-4a92-8b3c-8a9a92de3731",
+      "title": "The Bears Who Saved Christmas: Christopher & Holly",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-bears-who-saved-christmas-christopher-holly",
+      "has_reactions": false
+    },
+    {
+      "id": "0c93dcab-5f4f-464b-bc40-6bf10f6e8291",
+      "title": "Scooby-Doo! in Arabian Nights",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-in-arabian-nights",
+      "has_reactions": false
+    },
+    {
+      "id": "e5d0a673-82c5-4b44-9775-133879eaf1ce",
+      "title": "Gramps",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "gramps",
+      "has_reactions": false
+    },
+    {
+      "id": "768a038a-e7bc-44bc-9ab5-4639b2a9092c",
+      "title": "Jungle Cubs (Volume 1): Born to be Wild",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jungle-cubs-volume-1-born-to-be-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "72939d5c-bf37-409d-8dc3-bdb80cd0e4dc",
+      "title": "Siegfried & Roy: Masters of the Impossible",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "siegfried-roy-masters-of-the-impossible",
+      "has_reactions": false
+    },
+    {
+      "id": "31e116ec-fa31-4b34-913b-64ba4ed6b41a",
+      "title": "On Holiday With Timon & Pumbaa",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "on-holiday-with-timon-pumbaa",
+      "has_reactions": false
+    },
+    {
+      "id": "dcad3336-7407-439e-b878-1f5b3c389b6d",
+      "title": "The Rugrats Movie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-rugrats-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "aabfcae7-7acb-49ac-9713-d3691ab7420e",
+      "title": "Rusty: A Dog's Tale",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "rusty-a-dog-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "c147ed3f-40fc-4fa1-ab00-126a4fa29a9c",
+      "title": "The Wacky Adventures of Ronald McDonald: The Visitors from Outer Space",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-the-visitors-from-outer-space",
+      "has_reactions": false
+    },
+    {
+      "id": "254d36a2-7799-4cae-bdbe-7d5d137a5146",
+      "title": "Rugrats in Paris: The Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rugrats-in-paris-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "1fc6c396-c396-4c3f-bc5c-336d88947065",
+      "title": "The Wacky Adventures of Ronald McDonald: Birthday World",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-birthday-world",
+      "has_reactions": false
+    },
+    {
+      "id": "0d9800ac-d8ae-49f9-b4ab-73ce11a058bf",
+      "title": "The Wacky Adventures of Ronald McDonald: Have Time, Will Travel",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-have-time-will-travel",
+      "has_reactions": false
+    },
+    {
+      "id": "2e106a27-f9a8-45ec-bc92-18fbc576a5f4",
+      "title": "Rugrats: All Growed Up",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "rugrats-all-growed-up",
+      "has_reactions": false
+    },
+    {
+      "id": "2f477beb-7557-434a-b540-223d4a64aa44",
+      "title": "The 1st 13th Annual Fancy Anvil Awards Show Program Special: Live in Stereo",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-1st-13th-annual-fancy-anvil-awards-show-program-special-live-in-stereo",
+      "has_reactions": false
+    },
+    {
+      "id": "eed5cbbe-d0e0-40f9-a0d5-789640f3d68a",
+      "title": "Walt Disney's Fables - Vol.1",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "walt-disney-s-fables-vol-1",
+      "has_reactions": false
+    },
+    {
+      "id": "500aefa7-f487-479c-b45f-26ab47f0070e",
+      "title": "Charlotte's Web 2: Wilbur's Great Adventure",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "charlotte-s-web-2-wilbur-s-great-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "d7db00fc-d6d7-4298-8717-b847fa72df93",
+      "title": "The Wacky Adventures of Ronald McDonald: The Monster O' McDonaldland Loch",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-the-monster-o-mcdonaldland-loch",
+      "has_reactions": false
+    },
+    {
+      "id": "79962483-f000-4866-85cd-1824fd28e923",
+      "title": "Cartoon Network Christmas: Yuletide Follies",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "cartoon-network-christmas-yuletide-follies",
+      "has_reactions": false
+    },
+    {
+      "id": "e09b6dcd-8fd5-4d6f-8e7d-a754540dc66b",
+      "title": "Bratz Pet Show",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "bratz-pet-show",
+      "has_reactions": false
+    },
+    {
+      "id": "608055fd-e67b-4dd3-96f7-9cd0d3cb6015",
+      "title": "Jimmy Neutron: The League of Villains",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "jimmy-neutron-the-league-of-villains",
+      "has_reactions": false
+    },
+    {
+      "id": "c0688e5b-71dc-4983-aa7d-62f76977f76a",
+      "title": "Stuart Little 3: Call of the Wild",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "stuart-little-3-call-of-the-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "fbef0293-f448-46d7-aeb3-d0d885069127",
+      "title": "Big Babies",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "big-babies",
+      "has_reactions": false
+    },
+    {
+      "id": "f9c40472-2a38-468b-817e-ea069236f0c5",
+      "title": "Bratz: Genie Magic",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bratz-genie-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "33c127c0-3029-412b-b2bb-a3ee5ae9ea85",
+      "title": "Bratz: Passion 4 Fashion - Diamondz",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bratz-passion-4-fashion-diamondz",
+      "has_reactions": false
+    },
+    {
+      "id": "7dee9740-bc70-4321-b01d-b77921dfd1a2",
+      "title": "Transformers",
+      "release_year": 2007,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "transformers",
+      "has_reactions": true
+    },
+    {
+      "id": "a619bcaa-146e-4031-bc7d-ad134d8479df",
+      "title": "Scooby-Doo: Agence toutou risques, vol. 1 : Le voleur de v\u00e9lo",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-agence-toutou-risques-vol-1-le-voleur-de-v-lo",
+      "has_reactions": false
+    },
+    {
+      "id": "05fbce47-c782-44f3-b1ee-c92062a23c2d",
+      "title": "Scooby-Doo: Agence toutou risques, vol. 2 : Le fant\u00f4me de la t\u00e9l\u00e9",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-agence-toutou-risques-vol-2-le-fant-me-de-la-t-l",
+      "has_reactions": false
+    },
+    {
+      "id": "39936ad7-4e5b-4385-a777-b4a7ecdc5c19",
+      "title": "Transformers: Revenge of the Fallen",
+      "release_year": 2009,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "transformers-revenge-of-the-fallen",
+      "has_reactions": true
+    },
+    {
+      "id": "b1ea4593-457d-4061-b1a0-ef893efda265",
+      "title": "Transformers: Dark of the Moon",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "transformers-dark-of-the-moon",
+      "has_reactions": true
+    },
+    {
+      "id": "5540f4ce-42c5-45ec-8ad8-146bc66f3232",
+      "title": "Phineas and Ferb: Mission Marvel",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "phineas-and-ferb-mission-marvel",
+      "has_reactions": false
+    },
+    {
+      "id": "724a9f44-9c97-429e-9f68-d4514e0447a3",
+      "title": "Big Hero 6",
+      "release_year": 2014,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "big-hero-6",
+      "has_reactions": true
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "0dac7f32-0c90-4464-a80d-a1aa0b19a8f8",
+      "title": "Mariah Carey's All I Want for Christmas Is You",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "mariah-carey-s-all-i-want-for-christmas-is-you",
+      "has_reactions": false
+    },
+    {
+      "id": "a260ca42-e02e-4200-98ad-ea8038800046",
+      "title": "Hitpig!",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hitpig",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "3197148d-6ab8-4470-9585-6d7a246ce036",
+  "name": "Tantoo Cardinal",
+  "slug": "tantoo-cardinal",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rxhjfygJlPwztf36iRI7UDn5dr7.jpg",
+  "filmography": [
+    {
+      "id": "3acd253f-db97-41a7-8b5b-3a8f58e61eed",
+      "title": "Marie Ann",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "marie-ann",
+      "has_reactions": false
+    },
+    {
+      "id": "75c08ea2-ef76-4c21-85cf-545a27f0f99e",
+      "title": "Death Hunt",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "death-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "adcf81fd-ce2e-4d4a-8aaf-382f4917636a",
+      "title": "Places Not Our Own",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "places-not-our-own",
+      "has_reactions": false
+    },
+    {
+      "id": "b9f79787-c777-4190-ba1e-1989296f06d9",
+      "title": "War Party",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "war-party",
+      "has_reactions": false
+    },
+    {
+      "id": "735c70ef-9027-4e71-9784-70249ad334d2",
+      "title": "Dances with Wolves",
+      "release_year": 1990,
+      "studio_label": "Tig Productions",
+      "slug": "dances-with-wolves",
+      "has_reactions": true
+    },
+    {
+      "id": "1bebdb27-00e4-4d1c-a661-7926a5b5fdb3",
+      "title": "Divided Loyalties",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "divided-loyalties",
+      "has_reactions": false
+    },
+    {
+      "id": "f78fa04c-4052-4604-8d45-b6843337af91",
+      "title": "The Lightning Incident",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-lightning-incident",
+      "has_reactions": false
+    },
+    {
+      "id": "7f080ae3-8526-4ac1-9365-b6f289ea837c",
+      "title": "Where the Rivers Flow North",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "where-the-rivers-flow-north",
+      "has_reactions": false
+    },
+    {
+      "id": "57a709b8-aed1-48b4-b448-bd7348acff97",
+      "title": "Mustard Bath",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "mustard-bath",
+      "has_reactions": false
+    },
+    {
+      "id": "fe61730e-2ee0-49aa-8994-112aed030965",
+      "title": "Legends of the Fall",
+      "release_year": 1994,
+      "studio_label": "Bedford Falls Productions",
+      "slug": "legends-of-the-fall",
+      "has_reactions": true
+    },
+    {
+      "id": "cca38808-f453-4c7c-b225-2846f87d924b",
+      "title": "Silent Tongue",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "silent-tongue",
+      "has_reactions": false
+    },
+    {
+      "id": "41bd81b0-aece-49a4-acc0-fef3664b6d41",
+      "title": "Sioux City",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "sioux-city",
+      "has_reactions": false
+    },
+    {
+      "id": "41d671d4-3e95-4fec-b43f-c9289e50df56",
+      "title": "Lakota Woman: Siege at Wounded Knee",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "lakota-woman-siege-at-wounded-knee",
+      "has_reactions": false
+    },
+    {
+      "id": "56dc1fcf-6f29-4c3e-b48c-6e655e1ea518",
+      "title": "Nobody's Girls: Five Women of the West",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "nobody-s-girls-five-women-of-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "56db6ba5-fcff-42c9-bcb2-f65e600de02b",
+      "title": "Prophecy, Milestones & Challenges",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "prophecy-milestones-challenges",
+      "has_reactions": false
+    },
+    {
+      "id": "9bbbfe99-c5ef-4304-be22-bda28dba3ee0",
+      "title": "Grand Avenue",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "grand-avenue",
+      "has_reactions": false
+    },
+    {
+      "id": "f0d5a688-51b8-4650-b8b2-a9571419ab16",
+      "title": "The Education of Little Tree",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-education-of-little-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "998d567c-4658-4732-a590-0fcdf4d19dcd",
+      "title": "Heartwood",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "heartwood",
+      "has_reactions": false
+    },
+    {
+      "id": "80989387-c444-4905-ab24-e5a45fcefd49",
+      "title": "Smoke Signals",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "smoke-signals",
+      "has_reactions": false
+    },
+    {
+      "id": "44800863-6043-464f-8edf-7fc137e6dfcc",
+      "title": "Big Bear",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "big-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "7d948f6f-f914-45fa-a584-8f0b17235e66",
+      "title": "Honey Moccasin",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "honey-moccasin",
+      "has_reactions": false
+    },
+    {
+      "id": "984f347f-14f8-4692-8daf-15f8233395a3",
+      "title": "A Stranger in the Kingdom",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "a-stranger-in-the-kingdom",
+      "has_reactions": false
+    },
+    {
+      "id": "1448d030-c705-49a4-a153-57d5412a20e9",
+      "title": "The Hi-Line",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-hi-line",
+      "has_reactions": false
+    },
+    {
+      "id": "85736d22-930b-4ea6-ba63-56a298a296bc",
+      "title": "Navigating the Heart",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "navigating-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "35b09550-129f-4466-a434-338e8019f8a8",
+      "title": "Postmark Paradise",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "postmark-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "88c30949-3801-4c62-a443-6e3dbad13404",
+      "title": "In the Light of Reverence",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "in-the-light-of-reverence",
+      "has_reactions": false
+    },
+    {
+      "id": "77d7a768-4a52-49d1-82ac-dec3c1383102",
+      "title": "Dodson's Journey",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dodson-s-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "8b5424b1-8691-4c78-91bc-d99c3f3fef81",
+      "title": "Edge of Madness",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "edge-of-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "ff0cd0dc-0c8c-4100-b24c-41dd569fde7c",
+      "title": "How the Fiddle Flows",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "how-the-fiddle-flows",
+      "has_reactions": false
+    },
+    {
+      "id": "6a377352-9d6c-4e78-8677-e0fd753e09ee",
+      "title": "Dreamkeeper",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "dreamkeeper",
+      "has_reactions": false
+    },
+    {
+      "id": "1d119dc1-b9be-46a1-9e8b-be3717c7642b",
+      "title": "H2O",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "h2o",
+      "has_reactions": false
+    },
+    {
+      "id": "4a09de8e-54ad-4283-b554-4fca7e5ee6e6",
+      "title": "Unnatural & Accidental",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "unnatural-accidental",
+      "has_reactions": false
+    },
+    {
+      "id": "9f5d0efb-854a-45fd-bed9-42664d947592",
+      "title": "The Road to Christmas",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "39fb67ee-32ec-43df-b0cc-cc98b77e25ab",
+      "title": "Mom, Dad and Her",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mom-dad-and-her",
+      "has_reactions": false
+    },
+    {
+      "id": "501c1609-033b-42c2-92cd-f65de5fe9c36",
+      "title": "Mothers & Daughters",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mothers-daughters",
+      "has_reactions": false
+    },
+    {
+      "id": "f6376508-bc4c-4408-b4cb-dd0a1ee686e3",
+      "title": "Older Than America",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "older-than-america",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f66d6a-f7aa-43cf-92f8-59b141072cb1",
+      "title": "Changing Climates, Changing Times",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "changing-climates-changing-times",
+      "has_reactions": false
+    },
+    {
+      "id": "8387afaf-b50f-405a-aea0-b29fdc3cbe57",
+      "title": "Fathers & Sons",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "fathers-sons",
+      "has_reactions": false
+    },
+    {
+      "id": "d9ddee37-f3ee-44ca-8009-c8e16e151e06",
+      "title": "Every Emotion Costs",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "every-emotion-costs",
+      "has_reactions": false
+    },
+    {
+      "id": "e40998c3-076f-4416-8e7d-2e599f2c429c",
+      "title": "Shouting Secrets",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "shouting-secrets",
+      "has_reactions": false
+    },
+    {
+      "id": "6eb9593c-f5bb-4336-8ec3-21a23ac6f30f",
+      "title": "Rez Carz",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rez-carz",
+      "has_reactions": false
+    },
+    {
+      "id": "959ed1d9-b856-4730-9e6a-6816158a8954",
+      "title": "Down Here",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "down-here",
+      "has_reactions": false
+    },
+    {
+      "id": "fddb7aa4-aa92-4ec9-8c2e-cba98469d37e",
+      "title": "Hope Bridge",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hope-bridge",
+      "has_reactions": false
+    },
+    {
+      "id": "2db7c9e6-aa58-48d5-9345-5c5ba57e2612",
+      "title": "On the Farm",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "on-the-farm",
+      "has_reactions": false
+    },
+    {
+      "id": "853fdcf1-0499-4bb1-848f-474128efca21",
+      "title": "ARQ",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "arq",
+      "has_reactions": false
+    },
+    {
+      "id": "790e6ab3-27ca-45f0-92d1-f6fd69af94b1",
+      "title": "Wind River",
+      "release_year": 2017,
+      "studio_label": "Savvy Media Holdings",
+      "slug": "wind-river",
+      "has_reactions": true
+    },
+    {
+      "id": "6d731843-a11c-4bf0-84e8-af667461de22",
+      "title": "The Great Northern Candy Drop",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-great-northern-candy-drop",
+      "has_reactions": false
+    },
+    {
+      "id": "164b3eab-1a3c-44f3-bec5-d4a0816feea3",
+      "title": "Falls Around Her",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "falls-around-her",
+      "has_reactions": false
+    },
+    {
+      "id": "b324336b-40b0-4e57-a980-cf05d5458f20",
+      "title": "Hold the Dark",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "hold-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "09bea534-cd35-4fba-90bd-784307302794",
+      "title": "Abandoned: Angelique's Isle",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "abandoned-angelique-s-isle",
+      "has_reactions": false
+    },
+    {
+      "id": "dc3f280a-bbe7-4489-99e2-16d5688e7e41",
+      "title": "Through Black Spruce",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "through-black-spruce",
+      "has_reactions": false
+    },
+    {
+      "id": "d02f51c2-8b6e-4e6f-b67f-a94fa0a45f75",
+      "title": "The Grizzlies",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-grizzlies",
+      "has_reactions": false
+    },
+    {
+      "id": "64f3357f-7a9c-4e16-b7d8-ced37127333d",
+      "title": "Red Snow",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "red-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "ca0e98d9-5efc-4817-b493-24b7f2adaab7",
+      "title": "The Corruption of Divine Providence",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-corruption-of-divine-providence",
+      "has_reactions": false
+    },
+    {
+      "id": "040ea558-2ad4-4739-b18c-8d6e35742c4f",
+      "title": "Tantoo Cardinal",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "tantoo-cardinal",
+      "has_reactions": false
+    },
+    {
+      "id": "63199207-7891-4cb7-9da2-0b5adcbdd6b5",
+      "title": "However Wide the Sky: Places of Power",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "however-wide-the-sky-places-of-power",
+      "has_reactions": false
+    },
+    {
+      "id": "7f73f5a2-a906-4d69-aebd-fa9cacf2555a",
+      "title": "Wendell & Wild",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "wendell-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "0ea4eb18-1a36-43b8-bc1b-a6a5198dfbf7",
+      "title": "The Last Manhunt",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-last-manhunt",
+      "has_reactions": false
+    },
+    {
+      "id": "0de85533-1c51-495c-9e39-87f724ad63bb",
+      "title": "Killers of the Flower Moon",
+      "release_year": 2023,
+      "studio_label": "Apple Studios",
+      "slug": "killers-of-the-flower-moon",
+      "has_reactions": true
+    },
+    {
+      "id": "deefb1ed-f6c1-4129-b14b-6143dbebce48",
+      "title": "Marvel Studios Assembled: The Making of Echo",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "marvel-studios-assembled-the-making-of-echo",
+      "has_reactions": false
+    },
+    {
+      "id": "d4ef23e0-48dc-47f1-a854-9d962583079e",
+      "title": "Inkwo for When the Starving Return",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "inkwo-for-when-the-starving-return",
+      "has_reactions": false
+    },
+    {
+      "id": "54e5dcbe-54f1-4e7a-9ac4-88ca909bf121",
+      "title": "An Ode for Leviticus",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "an-ode-for-leviticus",
+      "has_reactions": false
+    },
+    {
+      "id": "fca1d423-e414-4578-9b1c-7c5d14b47360",
+      "title": "Bearing Witness Native American Voices in Hollywood",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "bearing-witness-native-american-voices-in-hollywood",
+      "has_reactions": false
+    }
+  ]
+}

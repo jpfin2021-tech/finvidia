@@ -1,0 +1,32 @@
+{
+  "id": "2f85687c-7aa3-4fa6-af6e-eb745207ba7e",
+  "name": "John Louie",
+  "slug": "john-louie",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eYg6cxemjl5UScTXrq6tOj81NZH.jpg",
+  "filmography": [
+    {
+      "id": "69ac725a-a836-4beb-8821-8682c6a6e53d",
+      "title": "Oh, God! Book II",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "oh-god-book-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "26758f80-e089-466a-91ba-9562814f26a3",
+      "title": "Scout's Honor",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "scout-s-honor",
+      "has_reactions": false
+    },
+    {
+      "id": "1ab8b7fd-f71e-44b5-bdf6-34f574828f49",
+      "title": "Gremlins",
+      "release_year": 1984,
+      "studio_label": "Amblin Entertainment",
+      "slug": "gremlins",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "id": "eb1d8183-0b11-4cf3-acdb-2b0fbe660feb",
+  "name": "Fredric March",
+  "slug": "fredric-march",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/285cjPToJMXn0ALimtQoqofgM2G.jpg",
+  "filmography": [
+    {
+      "id": "66ed9749-b27c-476c-bcae-ac648fe308f5",
+      "title": "The Devil",
+      "release_year": 1921,
+      "studio_label": "\u2014",
+      "slug": "the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "1e16e314-439e-458b-a6f0-143f1c09bdd4",
+      "title": "Paying the Piper",
+      "release_year": 1921,
+      "studio_label": "\u2014",
+      "slug": "paying-the-piper",
+      "has_reactions": false
+    },
+    {
+      "id": "e778e9d9-a1ce-4823-8cf2-618cc21391e0",
+      "title": "The Great Adventure",
+      "release_year": 1921,
+      "studio_label": "\u2014",
+      "slug": "the-great-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "338e21e8-83e1-4a77-98cb-6801a22545c1",
+      "title": "The Wild Party",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-wild-party",
+      "has_reactions": false
+    },
+    {
+      "id": "ba580a02-06fb-4e8c-a8e8-65919b0f2755",
+      "title": "The Studio Murder Mystery",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-studio-murder-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "d5416880-8684-4188-89c7-cb0e4fe4dea1",
+      "title": "The Marriage Playground",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-marriage-playground",
+      "has_reactions": false
+    },
+    {
+      "id": "d816f6e1-c0a4-4d5a-8d25-5a9064d033f7",
+      "title": "Paris Bound",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "paris-bound",
+      "has_reactions": false
+    },
+    {
+      "id": "a457140c-efba-4d75-af54-a6628f3b5012",
+      "title": "Footlights and Fools",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "footlights-and-fools",
+      "has_reactions": false
+    },
+    {
+      "id": "9af20b70-f890-440e-94ab-181a951a0d38",
+      "title": "Jealousy",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "jealousy",
+      "has_reactions": false
+    },
+    {
+      "id": "8fdb5874-e0b2-41ee-8780-420c550ff979",
+      "title": "The Dummy",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-dummy",
+      "has_reactions": false
+    },
+    {
+      "id": "2ad8f2fc-1c8f-4259-86d9-4de9489626d2",
+      "title": "The Royal Family of Broadway",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-royal-family-of-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b9bf66-6d14-40d0-bd80-553955c71144",
+      "title": "Manslaughter",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "manslaughter",
+      "has_reactions": false
+    },
+    {
+      "id": "90539bef-7ae6-4531-9934-45e083ad1a8a",
+      "title": "True to the Navy",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "true-to-the-navy",
+      "has_reactions": false
+    },
+    {
+      "id": "478f044d-9fd0-49e0-abb4-b3b39b96be94",
+      "title": "Paramount on Parade",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "paramount-on-parade",
+      "has_reactions": false
+    },
+    {
+      "id": "60a77d95-2f01-4b92-90ed-58260795b24c",
+      "title": "Laughter",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "laughter",
+      "has_reactions": false
+    },
+    {
+      "id": "40baebca-5964-4f3f-ac56-ce43e56122ec",
+      "title": "Sarah and Son",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "sarah-and-son",
+      "has_reactions": false
+    },
+    {
+      "id": "ef75ee72-32ec-4211-8eee-3eb77dcd2903",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "dr-jekyll-and-mr-hyde",
+      "has_reactions": false
+    },
+    {
+      "id": "2bde5096-d0f2-4ca2-a1f8-98d7a7fec7d7",
+      "title": "The Night Angel",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-night-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "d1ca7ea9-20bb-4344-92ac-7c75c1d79ba4",
+      "title": "My Sin",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "my-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "a954e5b0-4a66-437c-8f4b-4530111fa2ab",
+      "title": "Hollywood on Parade No. A-1",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "hollywood-on-parade-no-a-1",
+      "has_reactions": false
+    },
+    {
+      "id": "c6f45f0b-0534-4acf-b26c-f55d6b1d2df8",
+      "title": "Merrily We Go to Hell",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "merrily-we-go-to-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "2024c56b-6b26-4d72-bd6d-27b6cfe57d98",
+      "title": "The Sign of the Cross",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-sign-of-the-cross",
+      "has_reactions": false
+    },
+    {
+      "id": "3f3c018b-0dc0-4a4e-89e0-6c5f054c0c79",
+      "title": "Strangers in Love",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "strangers-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "373d5932-bea2-4730-899c-bd894517773e",
+      "title": "Smilin' Through",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "smilin-through",
+      "has_reactions": false
+    },
+    {
+      "id": "f255006c-55ca-4026-9fa9-5e4ce7d17a8e",
+      "title": "Design for Living",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "design-for-living",
+      "has_reactions": false
+    },
+    {
+      "id": "a87dd376-8b84-46f1-99c8-47e0f97b3823",
+      "title": "The Eagle and the Hawk",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-eagle-and-the-hawk",
+      "has_reactions": false
+    },
+    {
+      "id": "5690acfb-918c-4e06-a132-2342a89860c4",
+      "title": "Tonight Is Ours",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "tonight-is-ours",
+      "has_reactions": false
+    },
+    {
+      "id": "5ab31260-576b-4ed6-a425-3c80c46bb041",
+      "title": "Death Takes a Holiday",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "death-takes-a-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "c970822f-6bd5-4591-b520-3b547e6ebdf1",
+      "title": "We Live Again",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "we-live-again",
+      "has_reactions": false
+    },
+    {
+      "id": "d306aa10-41d7-46ea-8e88-15d84c350ca8",
+      "title": "Les Mis\u00e9rables",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "les-mis-rables",
+      "has_reactions": false
+    },
+    {
+      "id": "80a3e568-4545-4849-8649-7045bc01a499",
+      "title": "Anna Karenina",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "anna-karenina",
+      "has_reactions": false
+    },
+    {
+      "id": "99bef77c-9071-4d24-b5e9-94e17d332a85",
+      "title": "Anthony Adverse",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "anthony-adverse",
+      "has_reactions": false
+    },
+    {
+      "id": "1f63946b-35a3-466f-b508-99f0482e6d75",
+      "title": "The Making of a Great Motion Picture",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-a-great-motion-picture",
+      "has_reactions": false
+    },
+    {
+      "id": "da97fbc4-ab3e-4f97-bbd5-4d2684c61424",
+      "title": "The Road to Glory",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "23bb80e8-3c54-4fde-ab5b-3cf22919854e",
+      "title": "Breakdowns of 1936",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "breakdowns-of-1936",
+      "has_reactions": false
+    },
+    {
+      "id": "57fea787-f158-42d0-bbc2-41b11cdab94e",
+      "title": "A Star Is Born",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born",
+      "has_reactions": false
+    },
+    {
+      "id": "67086418-5354-4696-9518-d19a670838ab",
+      "title": "There Goes My Heart",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "there-goes-my-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "cd5e939d-e1c7-4a2a-a92f-77cf15562c5c",
+      "title": "The Buccaneer",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-buccaneer",
+      "has_reactions": false
+    },
+    {
+      "id": "bd40ddf8-590d-45dd-a0f7-d8ba73814a3f",
+      "title": "Trade Winds",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "trade-winds",
+      "has_reactions": false
+    },
+    {
+      "id": "f2f98f0e-faa9-484d-ae5e-6c16eaaf59de",
+      "title": "The 400 Million",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-400-million",
+      "has_reactions": false
+    },
+    {
+      "id": "23e9a352-ded2-41aa-b1e8-b5d2ac520f39",
+      "title": "Cavalcade of the Academy Awards",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "cavalcade-of-the-academy-awards",
+      "has_reactions": false
+    },
+    {
+      "id": "1cf07757-711d-44ce-beea-6da8596c1125",
+      "title": "Hollywood: Style Center of the World",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "hollywood-style-center-of-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "73e5b0a3-716e-44d4-a369-4cfdc380a350",
+      "title": "Bedtime Story",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "bedtime-story",
+      "has_reactions": false
+    },
+    {
+      "id": "35b390fa-64f7-4291-b6d3-a081af7cedc4",
+      "title": "One Foot in Heaven",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "one-foot-in-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "e0e03ff0-2536-4220-9a0e-fb15b32d5384",
+      "title": "I Married a Witch",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "i-married-a-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "d894de0d-5734-47b2-9927-d5b6c57313cd",
+      "title": "The Adventures of Mark Twain",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-mark-twain",
+      "has_reactions": false
+    },
+    {
+      "id": "d1dfa49a-b962-40ab-a039-07cb5469f879",
+      "title": "The Valley of the Tennessee",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-valley-of-the-tennessee",
+      "has_reactions": false
+    },
+    {
+      "id": "e07cb994-3013-4654-b293-8b3cb5a78f27",
+      "title": "Tomorrow, the World!",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "tomorrow-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "2f690d40-9f2c-44d5-8f93-a7d908fcf5e6",
+      "title": "A Pass to Tomorrow",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "a-pass-to-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "498160bb-08a2-417b-9594-5f8c50c70dd6",
+      "title": "Welcome Home",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "welcome-home",
+      "has_reactions": false
+    },
+    {
+      "id": "be7cac8f-b9f9-4034-b06d-0fa88be43c69",
+      "title": "The Best Years of Our Lives",
+      "release_year": 1946,
+      "studio_label": "Samuel Goldwyn Productions",
+      "slug": "the-best-years-of-our-lives",
+      "has_reactions": true
+    },
+    {
+      "id": "dab91555-9574-46c4-a1bc-5761f881f1e3",
+      "title": "Another Part of the Forest",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "another-part-of-the-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "8299b8ec-1349-431b-b539-275e58f5d118",
+      "title": "An Act of Murder",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "an-act-of-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "c8e189a7-ad99-4a17-93ba-f9adc713c068",
+      "title": "Christopher Columbus",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "christopher-columbus",
+      "has_reactions": false
+    },
+    {
+      "id": "a65f9ff6-908a-4136-b120-273bcb37717e",
+      "title": "The Titan: Story of Michelangelo",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-titan-story-of-michelangelo",
+      "has_reactions": false
+    },
+    {
+      "id": "ead5562b-ac3f-4a46-9e59-81f8be1d8e0d",
+      "title": "It's a Big Country",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-big-country",
+      "has_reactions": false
+    },
+    {
+      "id": "12a49769-8066-4969-a2ba-1951b9c364c2",
+      "title": "Death of a Salesman",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "death-of-a-salesman",
+      "has_reactions": false
+    },
+    {
+      "id": "5aa6cab2-c860-4eb0-a2d3-c9c9ff80106d",
+      "title": "Man on a Tightrope",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "man-on-a-tightrope",
+      "has_reactions": false
+    },
+    {
+      "id": "72e9e5ea-8411-43f2-ba53-cf272b1d15b9",
+      "title": "A Christmas Carol",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "d86fe87c-0240-453a-8b2d-c185d5755b9b",
+      "title": "The Desperate Hours",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-desperate-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "ffdedb17-090c-4855-aed8-67cb2e5453b2",
+      "title": "Island of Allah",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "island-of-allah",
+      "has_reactions": false
+    },
+    {
+      "id": "f76262b6-d301-4a85-85f3-90902f41aaeb",
+      "title": "Albert Schweitzer",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "albert-schweitzer",
+      "has_reactions": false
+    },
+    {
+      "id": "c70df219-2cb2-4932-aa23-dbd208a5f7f2",
+      "title": "The Winslow Boy",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-winslow-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "3135d445-07f5-46e8-a0e2-e2064862146e",
+      "title": "Middle of the Night",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "middle-of-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "6b0ae134-5dfc-41a6-9449-85fbad101590",
+      "title": "A Christmas Carol",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "2616a59b-b67f-451b-a213-332f0cc4169b",
+      "title": "Inherit the Wind",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "inherit-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "306733ba-9aee-4f7a-9e4e-a9590aeaccee",
+      "title": "The Young Doctors",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-young-doctors",
+      "has_reactions": false
+    },
+    {
+      "id": "957e5fac-d135-4476-ac53-612a6b5a6056",
+      "title": "Seven Days in May",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "seven-days-in-may",
+      "has_reactions": false
+    },
+    {
+      "id": "32fd0320-0238-4851-bcd5-b1a7177e724d",
+      "title": "Brother, Can You Spare a Dime?",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "brother-can-you-spare-a-dime",
+      "has_reactions": false
+    },
+    {
+      "id": "b7e36fb4-eaa8-4804-987c-68d1ffa3a22f",
+      "title": "Going Hollywood: The '30s",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "going-hollywood-the-30s",
+      "has_reactions": false
+    },
+    {
+      "id": "8567661d-9c14-4155-ae00-6f1a6f16f8a4",
+      "title": "The Spencer Tracy Legacy: A Tribute by Katharine Hepburn",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-spencer-tracy-legacy-a-tribute-by-katharine-hepburn",
+      "has_reactions": false
+    },
+    {
+      "id": "469a8372-18d6-4608-958a-2d293c090a89",
+      "title": "Myrna Loy: So Nice to Come Home To",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "myrna-loy-so-nice-to-come-home-to",
+      "has_reactions": false
+    },
+    {
+      "id": "5f55b0c0-65b0-41f3-abea-1cd4e35aceea",
+      "title": "Famous Monster: Forrest J Ackerman",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "famous-monster-forrest-j-ackerman",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "id": "e9199f72-8191-4abd-be41-23b89faf2c60",
+  "name": "Pat Hingle",
+  "slug": "pat-hingle",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg",
+  "filmography": [
+    {
+      "id": "f008b46a-88c6-4873-855a-fca7a5c0482f",
+      "title": "On the Waterfront",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "on-the-waterfront",
+      "has_reactions": false
+    },
+    {
+      "id": "b92c1736-ace1-420e-804e-914388203d92",
+      "title": "No Down Payment",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "no-down-payment",
+      "has_reactions": false
+    },
+    {
+      "id": "c379adb9-a18a-43b5-aff9-83a82a2144bc",
+      "title": "Splendor in the Grass",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "splendor-in-the-grass",
+      "has_reactions": false
+    },
+    {
+      "id": "2c9756a9-155b-475b-a39d-13acd3a5d96e",
+      "title": "The Ugly American",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-ugly-american",
+      "has_reactions": false
+    },
+    {
+      "id": "be290ed5-12e1-44ee-a954-1f47c5d2e73f",
+      "title": "All the Way Home",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "all-the-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "0354d3b5-b83a-4dfb-a9b3-00af8f15c926",
+      "title": "Invitation to a Gunfighter",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "invitation-to-a-gunfighter",
+      "has_reactions": false
+    },
+    {
+      "id": "631b3456-dacb-4096-80b4-90d31c8f6339",
+      "title": "A Texas Romance, 1909",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "a-texas-romance-1909",
+      "has_reactions": false
+    },
+    {
+      "id": "b502dcf0-7175-49d4-9373-6f6c66dd00df",
+      "title": "Nevada Smith",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "nevada-smith",
+      "has_reactions": false
+    },
+    {
+      "id": "5ce4e907-8b4c-4c86-a585-6e5a0ade7150",
+      "title": "The Glass Menagerie",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-glass-menagerie",
+      "has_reactions": false
+    },
+    {
+      "id": "574a16f2-a6c6-4537-82dd-9017e500fbba",
+      "title": "Sol Madrid",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "sol-madrid",
+      "has_reactions": false
+    },
+    {
+      "id": "c00beba3-a29a-4507-b42f-6a89d0af57df",
+      "title": "The Ballad of Andy Crocker",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-andy-crocker",
+      "has_reactions": false
+    },
+    {
+      "id": "dcd79b83-9704-4284-a994-4b2a552254b8",
+      "title": "Norwood",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "norwood",
+      "has_reactions": false
+    },
+    {
+      "id": "43c0c080-4825-484d-9e0b-81d76ac542b6",
+      "title": "Bloody Mama",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "bloody-mama",
+      "has_reactions": false
+    },
+    {
+      "id": "983a355e-331c-473c-8c59-76bc7da632de",
+      "title": "A Clear and Present Danger",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "a-clear-and-present-danger",
+      "has_reactions": false
+    },
+    {
+      "id": "4a0cf4cd-d2e1-4d86-becb-3affe0fdf56e",
+      "title": "If Tomorrow Comes",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "if-tomorrow-comes",
+      "has_reactions": false
+    },
+    {
+      "id": "948d3fce-bfdc-48a2-81d7-411e03b6277d",
+      "title": "All the Way Home",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "all-the-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "2c63e5f6-1e04-4bcf-9837-9f22cad4a443",
+      "title": "Sweet, Sweet Rachel",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "sweet-sweet-rachel",
+      "has_reactions": false
+    },
+    {
+      "id": "12f2363a-1003-4973-b496-be3b3e1af9c1",
+      "title": "The Carey Treatment",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-carey-treatment",
+      "has_reactions": false
+    },
+    {
+      "id": "eb428655-dfcc-4997-b565-f79f645840a1",
+      "title": "One Little Indian",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "one-little-indian",
+      "has_reactions": false
+    },
+    {
+      "id": "0ce88952-cf83-448f-9425-bae6ec1477ac",
+      "title": "Hazel's People",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "hazel-s-people",
+      "has_reactions": false
+    },
+    {
+      "id": "f101cdd6-5c21-4e9c-b036-27fd6b226ae8",
+      "title": "The Last Angry Man",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-last-angry-man",
+      "has_reactions": false
+    },
+    {
+      "id": "0d85536d-c514-460a-819e-cb75b2dd5fd0",
+      "title": "The Super Cops",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-super-cops",
+      "has_reactions": false
+    },
+    {
+      "id": "36e4be56-29e7-4b90-a9cd-2dde3e5377e3",
+      "title": "Twigs",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "twigs",
+      "has_reactions": false
+    },
+    {
+      "id": "7a831866-a759-4987-b6e7-877598958078",
+      "title": "Independence",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "independence",
+      "has_reactions": false
+    },
+    {
+      "id": "3943f577-10c7-4358-841c-3b8b6f6193a5",
+      "title": "The Secret Life of John Chapman",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-secret-life-of-john-chapman",
+      "has_reactions": false
+    },
+    {
+      "id": "129f7ce1-6066-4f47-9cc8-71e2413f8874",
+      "title": "Tarantulas: The Deadly Cargo",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "tarantulas-the-deadly-cargo",
+      "has_reactions": false
+    },
+    {
+      "id": "4f3bf475-c120-4414-a0c8-7d10362d15dc",
+      "title": "Escape from Bogen County",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "escape-from-bogen-county",
+      "has_reactions": false
+    },
+    {
+      "id": "09faacff-0a98-4b94-bec3-31d5e2df4008",
+      "title": "Sunshine Christmas",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "sunshine-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "b2aa0e04-0bd2-48b8-9d6e-156205a90264",
+      "title": "Norma Rae",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "norma-rae",
+      "has_reactions": false
+    },
+    {
+      "id": "3e87f28c-dc8c-4e80-8c2b-43ce94f8e861",
+      "title": "Stone",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "stone",
+      "has_reactions": false
+    },
+    {
+      "id": "32307db5-bc56-445a-8285-42aa9e94047f",
+      "title": "Elvis",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "elvis",
+      "has_reactions": false
+    },
+    {
+      "id": "a9d570d7-1d07-4ff0-ac57-5850388bb3c3",
+      "title": "Of Mice and Men",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "of-mice-and-men",
+      "has_reactions": false
+    },
+    {
+      "id": "75a804ba-108a-4fa3-9027-3c9ad1d8ac43",
+      "title": "America Lost and Found",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "america-lost-and-found",
+      "has_reactions": false
+    },
+    {
+      "id": "24b89ce0-2bf6-4072-8d7c-2d2039dfa7ef",
+      "title": "The Private History of a Campaign That Failed",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-private-history-of-a-campaign-that-failed",
+      "has_reactions": false
+    },
+    {
+      "id": "c230c404-cb12-4172-991d-99c425ba61bd",
+      "title": "Washington Mistress",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "washington-mistress",
+      "has_reactions": false
+    },
+    {
+      "id": "dfa19763-305e-4116-9ba6-3f2a1e356238",
+      "title": "Bus Stop",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "bus-stop",
+      "has_reactions": false
+    },
+    {
+      "id": "5ffe46cf-23f4-4f55-a296-197d2ab2b359",
+      "title": "Sudden Impact",
+      "release_year": 1983,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "sudden-impact",
+      "has_reactions": true
+    },
+    {
+      "id": "61f52d25-b0f4-4608-9c1d-dea4d1f3d212",
+      "title": "Going Berserk",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "going-berserk",
+      "has_reactions": false
+    },
+    {
+      "id": "c6a84793-d3fd-45df-be15-e5f6f0295195",
+      "title": "The Fighter",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "0f6bede2-f2ac-4976-90e5-5f0040073393",
+      "title": "The Act",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-act",
+      "has_reactions": false
+    },
+    {
+      "id": "860ae09a-c383-41db-81ae-92c646245bd3",
+      "title": "In 'N Out",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "in-n-out",
+      "has_reactions": false
+    },
+    {
+      "id": "e77576ee-8c0c-456b-ade0-6ce84638af7b",
+      "title": "Brewster's Millions",
+      "release_year": 1985,
+      "studio_label": "Silver Pictures",
+      "slug": "brewster-s-millions",
+      "has_reactions": true
+    },
+    {
+      "id": "6b6e6732-72c2-437a-8911-0df3e7b36d7b",
+      "title": "The Falcon and the Snowman",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-falcon-and-the-snowman",
+      "has_reactions": false
+    },
+    {
+      "id": "3f720a62-a1fe-414e-ac6d-0ab7cef69d75",
+      "title": "The Rape of Richard Beck",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-rape-of-richard-beck",
+      "has_reactions": false
+    },
+    {
+      "id": "534e4bc4-fafa-4540-9172-10089e052454",
+      "title": "The Lady from Yesterday",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-lady-from-yesterday",
+      "has_reactions": false
+    },
+    {
+      "id": "825196d2-d8d0-4082-a819-cb489ab24135",
+      "title": "Maximum Overdrive",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "maximum-overdrive",
+      "has_reactions": false
+    },
+    {
+      "id": "c9b4f268-8c1c-4150-8088-9aeea68c7b16",
+      "title": "Casebusters",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "casebusters",
+      "has_reactions": false
+    },
+    {
+      "id": "be1d52e0-47f6-4aa4-a4c1-a15b9f0a418a",
+      "title": "Manhunt for Claude Dallas",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "manhunt-for-claude-dallas",
+      "has_reactions": false
+    },
+    {
+      "id": "e4b0ede0-9ae0-4190-8208-bc385f237973",
+      "title": "Baby Boom",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "baby-boom",
+      "has_reactions": false
+    },
+    {
+      "id": "882068b3-170c-4b1e-9696-2c7728022b01",
+      "title": "The Land Before Time",
+      "release_year": 1988,
+      "studio_label": "Universal Pictures",
+      "slug": "the-land-before-time",
+      "has_reactions": true
+    },
+    {
+      "id": "4887aef3-6247-4840-9f42-0a7e2c46f2d1",
+      "title": "The Town Bully",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-town-bully",
+      "has_reactions": false
+    },
+    {
+      "id": "62822c55-d7e2-479d-a30a-dcf2d8848113",
+      "title": "Batman",
+      "release_year": 1989,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman",
+      "has_reactions": true
+    },
+    {
+      "id": "fb8dcd4c-3c0d-418a-ae0e-9693e3f4f4ff",
+      "title": "Everybody's Baby: The Rescue of Jessica McClure",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "everybody-s-baby-the-rescue-of-jessica-mcclure",
+      "has_reactions": false
+    },
+    {
+      "id": "6726d058-e372-4c9a-9aed-5f64cc8777cb",
+      "title": "Amazing Stories: The Movie II",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "amazing-stories-the-movie-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "5bb8585c-c580-41d8-b2af-6f3d3b910b08",
+      "title": "Not of This World",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "not-of-this-world",
+      "has_reactions": false
+    },
+    {
+      "id": "666ae76e-461a-47cf-8e56-6f4acd057eea",
+      "title": "Batman Returns",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-returns",
+      "has_reactions": true
+    },
+    {
+      "id": "2385bfd7-2eab-4519-8b80-7b4641216f83",
+      "title": "The Habitation of Dragons",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-habitation-of-dragons",
+      "has_reactions": false
+    },
+    {
+      "id": "3f045d6a-5a90-4f66-8fe9-f9e530c7daf8",
+      "title": "Citizen Cohn",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "citizen-cohn",
+      "has_reactions": false
+    },
+    {
+      "id": "72cd72c6-0eee-41cb-a425-3eaf413a9698",
+      "title": "Lightning Jack",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "lightning-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "542002d9-ce26-4758-ba6b-69f8ff6bbb0d",
+      "title": "Against Her Will: The Carrie Buck Story",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "against-her-will-the-carrie-buck-story",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4ba196-70df-43cb-a540-4be6f6f8ad93",
+      "title": "Batman Forever",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-forever",
+      "has_reactions": true
+    },
+    {
+      "id": "32f7100a-c0a6-45cc-b4be-c46e7f169b4c",
+      "title": "The Quick and the Dead",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-quick-and-the-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "dff63856-b34b-4d99-832f-29a24f44a2cf",
+      "title": "Larger Than Life",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "larger-than-life",
+      "has_reactions": false
+    },
+    {
+      "id": "bfa7af63-43b6-4009-9396-c3b126850c41",
+      "title": "Batman & Robin",
+      "release_year": 1997,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-robin",
+      "has_reactions": true
+    },
+    {
+      "id": "33722dce-6cad-4396-a1e5-c4c2158ca3c8",
+      "title": "A Thousand Acres",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-thousand-acres",
+      "has_reactions": false
+    },
+    {
+      "id": "e8df9199-f09f-4cb4-b072-a680ba7a7003",
+      "title": "The Horror Story",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-horror-story",
+      "has_reactions": false
+    },
+    {
+      "id": "5690d915-1e41-4cec-9490-c63eb08faaa5",
+      "title": "The Member of the Wedding",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-member-of-the-wedding",
+      "has_reactions": false
+    },
+    {
+      "id": "00330ea2-db30-4408-8ac5-901785e3823c",
+      "title": "Horror Story",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "horror-story",
+      "has_reactions": false
+    },
+    {
+      "id": "de91a9eb-0d0f-48d1-a3ae-7b4cb1d71537",
+      "title": "The Hunter's Moon",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-hunter-s-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "1d8f1a6a-5d4a-4dfe-b601-4436065fe204",
+      "title": "Shaft",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "shaft",
+      "has_reactions": true
+    },
+    {
+      "id": "a1794ea4-1c71-49bb-8bdc-9c8c3f12aab3",
+      "title": "The Runaway",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-runaway",
+      "has_reactions": false
+    },
+    {
+      "id": "653251d6-eecc-4ca3-b7dd-71dc0cc181b8",
+      "title": "Road to Redemption",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "0499264c-8f27-46bc-ab52-4b0803727035",
+      "title": "Waltzing Anna",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "waltzing-anna",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c119cd-3b23-4d63-80fb-9b24a02b75a5",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "release_year": 2006,
+      "studio_label": "Apatow Productions",
+      "slug": "talladega-nights-the-ballad-of-ricky-bobby",
+      "has_reactions": true
+    },
+    {
+      "id": "a774924e-f276-4013-b06a-672ea68fb2b8",
+      "title": "Two Tickets to Paradise",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "two-tickets-to-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "d0c5418a-3615-457c-a4c4-7c06c71af70c",
+      "title": "The List",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-list",
+      "has_reactions": false
+    }
+  ]
+}

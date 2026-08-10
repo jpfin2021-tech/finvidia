@@ -1,0 +1,784 @@
+{
+  "id": "4cadbe14-737b-473c-8d19-01cc70877da2",
+  "name": "Pedro Armend\u00e1riz",
+  "slug": "pedro-armend-riz",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rcjOD4kAs7Rfx8fJfp5oVPaFfQz.jpg",
+  "filmography": [
+    {
+      "id": "ff4c9695-ead5-4d96-893d-3fe4e577d040",
+      "title": "Amapola Del Camino",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "amapola-del-camino",
+      "has_reactions": false
+    },
+    {
+      "id": "3db79eb0-e3fa-490a-96a7-2a6ea46b8e94",
+      "title": "Jalisco nunca pierde",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "jalisco-nunca-pierde",
+      "has_reactions": false
+    },
+    {
+      "id": "0e17e562-0975-4cf8-91aa-f0377e778e62",
+      "title": "Mi candidato",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "mi-candidato",
+      "has_reactions": false
+    },
+    {
+      "id": "14519f76-3aa6-418c-b51f-5c8247671ec2",
+      "title": "Canto a mi tierra",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "canto-a-mi-tierra",
+      "has_reactions": false
+    },
+    {
+      "id": "d82e4ee4-b2bd-4aec-a3a7-476c7c1a341d",
+      "title": "El indio",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "el-indio",
+      "has_reactions": false
+    },
+    {
+      "id": "f72a9cee-6366-4fbe-8f89-be0c82730d6e",
+      "title": "Los millones de Chafl\u00e1n",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "los-millones-de-chafl-n",
+      "has_reactions": false
+    },
+    {
+      "id": "43dcf949-0e6f-4dc0-b08d-cae35d973e0b",
+      "title": "La China Hilaria",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "la-china-hilaria",
+      "has_reactions": false
+    },
+    {
+      "id": "bf6cc32e-0af3-4599-af02-8e504f146c00",
+      "title": "Con Los Dorados De Villa",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "con-los-dorados-de-villa",
+      "has_reactions": false
+    },
+    {
+      "id": "f8554235-585a-4615-9216-3249cb51c0e0",
+      "title": "El charro Negro",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "el-charro-negro",
+      "has_reactions": false
+    },
+    {
+      "id": "db956d00-1c20-43bf-bd1e-a5cf0783d2ab",
+      "title": "Pobre diablo",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "pobre-diablo",
+      "has_reactions": false
+    },
+    {
+      "id": "10236226-a218-4394-9c99-7346443afe30",
+      "title": "Mala yerba",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "mala-yerba",
+      "has_reactions": false
+    },
+    {
+      "id": "331465d6-fb4c-4596-8d88-2672879bb054",
+      "title": "El Zorro de Jalisco",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "el-zorro-de-jalisco",
+      "has_reactions": false
+    },
+    {
+      "id": "ddcb9c1e-ffb3-475e-ae27-80db81938358",
+      "title": "El secreto del sacerdote",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "el-secreto-del-sacerdote",
+      "has_reactions": false
+    },
+    {
+      "id": "725fd205-57f9-42ad-a355-cb963db1d98b",
+      "title": "Ni sangre ni arena",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "ni-sangre-ni-arena",
+      "has_reactions": false
+    },
+    {
+      "id": "e4618229-3ebf-4e9c-adbe-a78fec3088b1",
+      "title": "All\u00e1 en el bajio",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "all-en-el-bajio",
+      "has_reactions": false
+    },
+    {
+      "id": "7cd0a25c-32a0-4363-bf97-93c853a7ec95",
+      "title": "Sim\u00f3n Bol\u00edvar",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "sim-n-bol-var",
+      "has_reactions": false
+    },
+    {
+      "id": "5a743828-634b-4f1d-83e7-0351f97552d4",
+      "title": "Del rancho a la capital",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "del-rancho-a-la-capital",
+      "has_reactions": false
+    },
+    {
+      "id": "153bb2d2-b262-4c31-b608-53667d1bb749",
+      "title": "I'm a Real Mexican",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "i-m-a-real-mexican",
+      "has_reactions": false
+    },
+    {
+      "id": "369451c4-e265-4791-8f95-d6d58862ddd2",
+      "title": "Another Dawn",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "another-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "de4d4928-bd15-47ec-97b5-33037d8f5272",
+      "title": "Wild Flower",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "wild-flower",
+      "has_reactions": false
+    },
+    {
+      "id": "b52d0e52-ea08-4e9b-bc0e-f4414dddcf0e",
+      "title": "Tierra De Pasiones",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "tierra-de-pasiones",
+      "has_reactions": false
+    },
+    {
+      "id": "d8455599-3ea9-4d44-b68c-9dca08bd3e67",
+      "title": "Konga Roja",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "konga-roja",
+      "has_reactions": false
+    },
+    {
+      "id": "0d2ad186-d374-4c4c-9c6c-002b133b9e2d",
+      "title": "Maria Candelaria",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "maria-candelaria",
+      "has_reactions": false
+    },
+    {
+      "id": "cb134da2-7386-4011-86ae-5a70957904aa",
+      "title": "La Guerra de los Pasteles",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "la-guerra-de-los-pasteles",
+      "has_reactions": false
+    },
+    {
+      "id": "f7c83d78-4842-4227-824b-ac2d19f99159",
+      "title": "The Skulls of Terror Return",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-skulls-of-terror-return",
+      "has_reactions": false
+    },
+    {
+      "id": "590065fd-01f3-4cb0-b9af-ce2d1184d144",
+      "title": "The Abandoned",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "the-abandoned",
+      "has_reactions": false
+    },
+    {
+      "id": "080b55c9-647e-4ab4-aad1-dcdbdd509409",
+      "title": "Entre hermanos",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "entre-hermanos",
+      "has_reactions": false
+    },
+    {
+      "id": "78f1ca1a-b762-4fd3-a00e-761e55ab61f9",
+      "title": "El capit\u00e1n Malacara",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "el-capit-n-malacara",
+      "has_reactions": false
+    },
+    {
+      "id": "643879b8-0c21-409e-abe1-e4a636f64785",
+      "title": "Bugambilia",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "bugambilia",
+      "has_reactions": false
+    },
+    {
+      "id": "67d6d1d1-5fe5-423c-a110-328c2dbe815b",
+      "title": "Enamorada",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "enamorada",
+      "has_reactions": false
+    },
+    {
+      "id": "dce4ba43-1e96-470c-89ae-b2bd4da0a7f3",
+      "title": "The Fugitive",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-fugitive",
+      "has_reactions": false
+    },
+    {
+      "id": "19862251-d20e-465f-b68c-566cc4c37292",
+      "title": "La casa colorada",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "la-casa-colorada",
+      "has_reactions": false
+    },
+    {
+      "id": "687f28f6-3593-43db-9c07-b20a3560ea01",
+      "title": "Albur de amor",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "albur-de-amor",
+      "has_reactions": false
+    },
+    {
+      "id": "618f9671-4fb2-4b44-a470-c3f9d0366c56",
+      "title": "The Pearl",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-pearl",
+      "has_reactions": false
+    },
+    {
+      "id": "0b57d679-95fa-4a47-bb08-b726035d50e7",
+      "title": "Maclovia",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "maclovia",
+      "has_reactions": false
+    },
+    {
+      "id": "6aee02d3-cfe6-43c0-83f5-9fb5fcfee2a3",
+      "title": "3 Godfathers",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "3-godfathers",
+      "has_reactions": false
+    },
+    {
+      "id": "0fb2fe6a-2430-4230-adba-5d7248b77fc2",
+      "title": "Fort Apache",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "fort-apache",
+      "has_reactions": false
+    },
+    {
+      "id": "8ce61a22-262c-4767-838d-88831ac65884",
+      "title": "Juan Charrasqueado",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "juan-charrasqueado",
+      "has_reactions": false
+    },
+    {
+      "id": "d9c06fc8-4d19-4f92-8e49-30070561154f",
+      "title": "En la Hacienda de la Flor",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "en-la-hacienda-de-la-flor",
+      "has_reactions": false
+    },
+    {
+      "id": "0bc20f53-cd9f-409e-81f0-21b686dc9e31",
+      "title": "Tulsa",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "tulsa",
+      "has_reactions": false
+    },
+    {
+      "id": "650b8f69-825d-4161-8a6f-7814cb799c09",
+      "title": "The Unloved Woman",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-unloved-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "e39e6ede-d4f4-48f2-ac03-a3ef3be10de4",
+      "title": "El abandonado",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "el-abandonado",
+      "has_reactions": false
+    },
+    {
+      "id": "3defc4fc-cda0-4fc7-ba7c-8f61ad0e9520",
+      "title": "We Were Strangers",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "we-were-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "62bdecb0-4c1e-4ea2-a7ca-5b43a7af35e9",
+      "title": "El charro y la dama",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "el-charro-y-la-dama",
+      "has_reactions": false
+    },
+    {
+      "id": "6d51126f-2c46-4a2e-838e-f7ada5b31c65",
+      "title": "Late Afternoon",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "late-afternoon",
+      "has_reactions": false
+    },
+    {
+      "id": "ac048418-9e08-4598-9b13-6280e0b56c7d",
+      "title": "The Torch",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-torch",
+      "has_reactions": false
+    },
+    {
+      "id": "f87391cf-d8a3-4c9c-8146-85f51166a4a3",
+      "title": "Rosauro Castro",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "rosauro-castro",
+      "has_reactions": false
+    },
+    {
+      "id": "6b5a2fc8-a034-4487-8a04-86ad07ade6ac",
+      "title": "By the False Door",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "by-the-false-door",
+      "has_reactions": false
+    },
+    {
+      "id": "888b0ff1-0ebb-4b3b-b33d-686de805a8e4",
+      "title": "Pancho Villa vuelve",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "pancho-villa-vuelve",
+      "has_reactions": false
+    },
+    {
+      "id": "eb5bb687-49fd-46fe-8768-059e689084b0",
+      "title": "La loca de la casa",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "la-loca-de-la-casa",
+      "has_reactions": false
+    },
+    {
+      "id": "2bebe3db-7c22-4a56-9a51-1e4306f56154",
+      "title": "Weddings of fire",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "weddings-of-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "fd784087-cad7-4aba-948e-441aa1e0940f",
+      "title": "Hell Road",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "hell-road",
+      "has_reactions": false
+    },
+    {
+      "id": "575e07c4-ca48-45d2-a5a5-d9060444591f",
+      "title": "Ella y yo",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "ella-y-yo",
+      "has_reactions": false
+    },
+    {
+      "id": "c22d29ab-02ac-4fd7-b85f-940252845048",
+      "title": "Tierra baja",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "tierra-baja",
+      "has_reactions": false
+    },
+    {
+      "id": "96c4544b-e6e0-4dfe-8435-60cb5902125c",
+      "title": "For Loving a Woman",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "for-loving-a-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "3beef31a-885b-42d4-89f7-0a7db8055a14",
+      "title": "Soledad's Shawl",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "soledad-s-shawl",
+      "has_reactions": false
+    },
+    {
+      "id": "8241f36f-2c8a-447e-a3e5-d258dc903a1e",
+      "title": "Meat in Prison",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "meat-in-prison",
+      "has_reactions": false
+    },
+    {
+      "id": "281f6d4c-7fa5-4757-9375-ea76efd7b85c",
+      "title": "Los tres alegres compadres",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "los-tres-alegres-compadres",
+      "has_reactions": false
+    },
+    {
+      "id": "4c9513e5-2345-4e7f-ab28-293f8e3480c0",
+      "title": "Lucr\u00e8ce Borgia",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "lucr-ce-borgia",
+      "has_reactions": false
+    },
+    {
+      "id": "a69a8c95-2659-4fe8-a27f-e7aec9212b82",
+      "title": "The Brute",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-brute",
+      "has_reactions": false
+    },
+    {
+      "id": "b38fce94-1272-4205-acba-41457aac599c",
+      "title": "Dos mundos y un amor",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dos-mundos-y-un-amor",
+      "has_reactions": false
+    },
+    {
+      "id": "a7fc8531-e674-4cc7-8445-3a3b97eb4c8b",
+      "title": "Border River",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "border-river",
+      "has_reactions": false
+    },
+    {
+      "id": "4e65b3b3-9300-4f1f-a4b8-b36ef76813c6",
+      "title": "Rebellion of the Hanged",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "rebellion-of-the-hanged",
+      "has_reactions": false
+    },
+    {
+      "id": "b1ac80d3-3442-4303-a109-a12a1c6163f5",
+      "title": "Mulata",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "mulata",
+      "has_reactions": false
+    },
+    {
+      "id": "6c63f23d-cf3b-4aad-8577-5281dcd4192d",
+      "title": "Fortune carr\u00e9e",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "fortune-carr-e",
+      "has_reactions": false
+    },
+    {
+      "id": "04082827-7513-4afd-b18f-e9c3203da3de",
+      "title": "The Littlest Outlaw",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-littlest-outlaw",
+      "has_reactions": false
+    },
+    {
+      "id": "67bb38a6-41df-4485-ba79-161fa7f44dc8",
+      "title": "The Conqueror",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-conqueror",
+      "has_reactions": false
+    },
+    {
+      "id": "2e15a956-6a34-41e0-a634-f514e75c4352",
+      "title": "Basket of Mexican Tales",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "basket-of-mexican-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "acd02c83-1f83-4f36-a844-4111093f99ec",
+      "title": "This Was Pancho Villa: First chapter",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "this-was-pancho-villa-first-chapter",
+      "has_reactions": false
+    },
+    {
+      "id": "f46b2dca-4f49-459d-be74-4084e89e1213",
+      "title": "Men and Wolves",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "men-and-wolves",
+      "has_reactions": false
+    },
+    {
+      "id": "2272922f-7393-4700-9ebc-28c2de3ba3c4",
+      "title": "The Big Boodle",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-big-boodle",
+      "has_reactions": false
+    },
+    {
+      "id": "24b8afe4-1414-4b03-8a77-9db1e3cfb7fc",
+      "title": "Manuela",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "manuela",
+      "has_reactions": false
+    },
+    {
+      "id": "0f6c6b43-83c9-463d-b447-8bd9863b8e91",
+      "title": "La mujer que no tuvo infancia",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "la-mujer-que-no-tuvo-infancia",
+      "has_reactions": false
+    },
+    {
+      "id": "812c74ad-b70a-43ce-810c-614e1e0b8987",
+      "title": "Los salvajes",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "los-salvajes",
+      "has_reactions": false
+    },
+    {
+      "id": "ff11c79d-701b-4ff5-90f6-d4f1d5f4438b",
+      "title": "This Was Pancho Villa: Third chapter",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "this-was-pancho-villa-third-chapter",
+      "has_reactions": false
+    },
+    {
+      "id": "9d9cf647-0395-4bd7-bbeb-94ba61315afc",
+      "title": "This Was Pancho Villa: Second chapter",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "this-was-pancho-villa-second-chapter",
+      "has_reactions": false
+    },
+    {
+      "id": "6ba16afb-6c3e-4f03-8a53-f4880fd07576",
+      "title": "The Little Savage",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-little-savage",
+      "has_reactions": false
+    },
+    {
+      "id": "00421932-aacd-43fb-a51f-8c6f3dfde9ff",
+      "title": "El zarco",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "el-zarco",
+      "has_reactions": false
+    },
+    {
+      "id": "8b53e7d1-f709-4282-9188-d352cddc8b0d",
+      "title": "La Cucaracha",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "la-cucaracha",
+      "has_reactions": false
+    },
+    {
+      "id": "a8beb52d-57c6-4a29-80a1-4393a8a06a41",
+      "title": "Caf\u00e9 Col\u00f3n",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "caf-col-n",
+      "has_reactions": false
+    },
+    {
+      "id": "c1029abd-3f13-4fe8-8900-f521bf73e875",
+      "title": "Yo pecador",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "yo-pecador",
+      "has_reactions": false
+    },
+    {
+      "id": "fc1ab362-57dc-418f-9840-6bfa0def6456",
+      "title": "I'm flying low",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "i-m-flying-low",
+      "has_reactions": false
+    },
+    {
+      "id": "5ad7c1a1-d815-4d37-8b02-a81f4fadbdb1",
+      "title": "The Vivanco Ladies",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-vivanco-ladies",
+      "has_reactions": false
+    },
+    {
+      "id": "1afb22b7-87c6-43c8-afe1-d80e03a1fa78",
+      "title": "La c\u00e1rcel de Cananea",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "la-c-rcel-de-cananea",
+      "has_reactions": false
+    },
+    {
+      "id": "c4c3892a-4bae-4a69-9913-b7e0387ebc85",
+      "title": "Calibre 44",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "calibre-44",
+      "has_reactions": false
+    },
+    {
+      "id": "d4b1b98a-a1df-444e-afbe-accd525a530e",
+      "title": "Violent Summer",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "violent-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "e7962c37-cfa2-4e00-8074-e0bdfb7cbc81",
+      "title": "Our Daily Hunger",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "our-daily-hunger",
+      "has_reactions": false
+    },
+    {
+      "id": "8bcbfc00-efae-4ff7-ad28-b129fd14e90a",
+      "title": "Dos hijos desobedientes",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "dos-hijos-desobedientes",
+      "has_reactions": false
+    },
+    {
+      "id": "6758feb5-c515-404a-be8b-98265dd3e408",
+      "title": "El impostor",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "el-impostor",
+      "has_reactions": false
+    },
+    {
+      "id": "36f7598b-d948-478c-89fd-d6ecd42b9a42",
+      "title": "My Son, the Hero",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "my-son-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "151a274f-eef0-4efd-b627-1bd69ac396dd",
+      "title": "My Son, the Hero",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "my-son-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "52085fef-4150-4983-b9fd-a1888580d272",
+      "title": "Miracles Weaver",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "miracles-weaver",
+      "has_reactions": false
+    },
+    {
+      "id": "e0aa340f-4835-4aa6-91d7-7afb0045eaa5",
+      "title": "Los valientes no mueren",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "los-valientes-no-mueren",
+      "has_reactions": false
+    },
+    {
+      "id": "67a40adf-65c6-46b6-b086-0bf704dd395b",
+      "title": "From Russia with Love",
+      "release_year": 1963,
+      "studio_label": "EON Productions",
+      "slug": "from-russia-with-love",
+      "has_reactions": true
+    },
+    {
+      "id": "7301898b-1818-400e-b70c-c698289b7aa4",
+      "title": "La Bandida",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "la-bandida",
+      "has_reactions": false
+    },
+    {
+      "id": "61d84d3e-c33c-4334-a4a8-400a29f05492",
+      "title": "Captain Sindbad",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "captain-sindbad",
+      "has_reactions": false
+    },
+    {
+      "id": "007c490b-e389-44cc-8b2b-9005099ff132",
+      "title": "The Conqueror: Hollywood Fallout",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-conqueror-hollywood-fallout",
+      "has_reactions": false
+    }
+  ]
+}

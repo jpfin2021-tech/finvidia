@@ -1,0 +1,624 @@
+{
+  "id": "8e90c7db-6d73-4c63-8b74-e3ed5eeeb46a",
+  "name": "Kenneth Branagh",
+  "slug": "kenneth-branagh",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+  "filmography": [
+    {
+      "id": "0e08d65d-3ddb-4fdf-a48e-2858d6bf8da1",
+      "title": "Chariots of Fire",
+      "release_year": 1981,
+      "studio_label": "Enigma Productions",
+      "slug": "chariots-of-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "b43b7549-9089-459d-9e40-035491c68521",
+      "title": "Too Late to Talk to Billy",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "too-late-to-talk-to-billy",
+      "has_reactions": false
+    },
+    {
+      "id": "1c6c0419-0110-4892-a076-ce8da4314af4",
+      "title": "A Matter of Choice for Billy",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "a-matter-of-choice-for-billy",
+      "has_reactions": false
+    },
+    {
+      "id": "c1f0608b-8fc3-45d3-9516-42e7154b21a1",
+      "title": "To the Lighthouse",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "to-the-lighthouse",
+      "has_reactions": false
+    },
+    {
+      "id": "f769defc-4cd5-4e15-bb1b-24c413ec4ff1",
+      "title": "A Coming to Terms for Billy",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-coming-to-terms-for-billy",
+      "has_reactions": false
+    },
+    {
+      "id": "4cc61f5a-a8e0-4e11-a814-865b80a2b155",
+      "title": "Coming Through",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "coming-through",
+      "has_reactions": false
+    },
+    {
+      "id": "047a92db-a619-4d47-a34b-ce20a505aef1",
+      "title": "The Lady's Not For Burning",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-lady-s-not-for-burning",
+      "has_reactions": false
+    },
+    {
+      "id": "6a2e7d19-b34e-4126-967c-491f1755b9af",
+      "title": "A Month in the Country",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-month-in-the-country",
+      "has_reactions": false
+    },
+    {
+      "id": "bd8e2ec7-49e3-42c6-9d4c-f7ebe403ad1e",
+      "title": "Ghosts",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "d022be14-a705-4038-a19e-ae1b0952a30d",
+      "title": "High Season",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "high-season",
+      "has_reactions": false
+    },
+    {
+      "id": "76f2901d-f8c6-4fb3-b405-24960ab338aa",
+      "title": "Lorna",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "lorna",
+      "has_reactions": false
+    },
+    {
+      "id": "97d2ed73-7222-4822-9c99-a3c92ca419b6",
+      "title": "Thames Wallah",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "thames-wallah",
+      "has_reactions": false
+    },
+    {
+      "id": "5f78e487-7464-4139-b157-7648acd5c390",
+      "title": "Look Back in Anger",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-back-in-anger",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f183fd-051f-4288-a353-2a174972dcad",
+      "title": "Swing Kids",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "swing-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "915fc331-9d84-4e43-a9fa-c16ebb04bf0c",
+      "title": "It's Alive: The True Story of Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "it-s-alive-the-true-story-of-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "6899cbbe-50f7-47d2-b4c2-89c6475ce373",
+      "title": "Mary Shelley's Frankenstein",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mary-shelley-s-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "b53c0380-5729-48d7-8cd1-d44b39bc6298",
+      "title": "Shadow of a Gunman",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "shadow-of-a-gunman",
+      "has_reactions": false
+    },
+    {
+      "id": "a168854b-fdd5-4a9e-89f5-f38db2a433f1",
+      "title": "Anne Frank Remembered",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "anne-frank-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "41ddafe5-9ede-401f-b69f-9a0ae7888d0b",
+      "title": "Hamlet",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "dd992da6-a78c-4ad4-89be-f4e56c63a751",
+      "title": "The Proposition",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-proposition",
+      "has_reactions": false
+    },
+    {
+      "id": "7a9a7d1f-4536-4020-b1ab-ed235cb32f71",
+      "title": "The Gingerbread Man",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-gingerbread-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c39b0e-ff88-4e7d-9233-4defb43769c8",
+      "title": "Universal Horror",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "universal-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc70a02-ebd0-4db5-bcc4-55a8f8e04265",
+      "title": "The Dance of Shiva",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-dance-of-shiva",
+      "has_reactions": false
+    },
+    {
+      "id": "3cafa7bf-ffbe-43a3-aa20-b44a83394a51",
+      "title": "IMAX: Galapagos 3D",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "imax-galapagos-3d",
+      "has_reactions": false
+    },
+    {
+      "id": "7f9f0d99-289e-4e4a-8a56-f2332c9dcbd0",
+      "title": "The Periwig-Maker",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-periwig-maker",
+      "has_reactions": false
+    },
+    {
+      "id": "f693fab2-8bd8-4b65-a4e7-2f21b9cb4180",
+      "title": "The Theory of Flight",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-theory-of-flight",
+      "has_reactions": false
+    },
+    {
+      "id": "ea42f174-8593-4063-b1d2-89399d38db13",
+      "title": "Wild Wild West: Evil Devices",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-evil-devices",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b422eb-5177-40ab-a040-97c3581ae870",
+      "title": "It's a Whole New West: The Making of 'Wild, Wild West'",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-whole-new-west-the-making-of-wild-wild-west",
+      "has_reactions": false
+    },
+    {
+      "id": "db57ee95-02dc-4c06-8000-487c526d96e5",
+      "title": "Wild Wild West: Loveless's Ladies",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-loveless-s-ladies",
+      "has_reactions": false
+    },
+    {
+      "id": "b1f2728b-067d-4630-a213-1cfbd4d94a86",
+      "title": "The Road to El Dorado",
+      "release_year": 2000,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "the-road-to-el-dorado",
+      "has_reactions": true
+    },
+    {
+      "id": "1dcf4c72-872d-487a-9352-9d317788392c",
+      "title": "The Making of Walking with Dinosaurs",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-walking-with-dinosaurs",
+      "has_reactions": false
+    },
+    {
+      "id": "813b8c64-6697-437d-a1c5-a126ae0dae18",
+      "title": "Lon Chaney: A Thousand Faces",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lon-chaney-a-thousand-faces",
+      "has_reactions": false
+    },
+    {
+      "id": "929e16b7-59d5-4238-956e-bc4085db8431",
+      "title": "Love's Labour's Lost",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "love-s-labour-s-lost",
+      "has_reactions": false
+    },
+    {
+      "id": "3d3bf473-e32e-46e2-b995-1f9cdde7f209",
+      "title": "The Book That Wrote Itself",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-book-that-wrote-itself",
+      "has_reactions": false
+    },
+    {
+      "id": "e916d993-a878-4dc1-8a88-fbf49d20f7b9",
+      "title": "Altman on His Own Terms",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "altman-on-his-own-terms",
+      "has_reactions": false
+    },
+    {
+      "id": "6beac07a-a2c2-41c7-943e-0a50a13c7eec",
+      "title": "Schneider's 2nd Stage",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "schneider-s-2nd-stage",
+      "has_reactions": false
+    },
+    {
+      "id": "62f80ef9-4599-45d8-b5e1-51fe1f774da0",
+      "title": "Triumph of the Beasts",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "triumph-of-the-beasts",
+      "has_reactions": false
+    },
+    {
+      "id": "3da72c38-2aaa-467b-98dc-d3e7418131b4",
+      "title": "Conspiracy",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca777df-33b6-434e-ac23-34a2aaa01edb",
+      "title": "The Beasts Within",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-beasts-within",
+      "has_reactions": false
+    },
+    {
+      "id": "b633f3eb-6748-4cf4-b9be-f0f94486ce11",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "release_year": 2002,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-chamber-of-secrets",
+      "has_reactions": true
+    },
+    {
+      "id": "2ee82ce2-9de1-4145-8221-889e44e7a039",
+      "title": "Rabbit-Proof Fence",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "rabbit-proof-fence",
+      "has_reactions": false
+    },
+    {
+      "id": "00c6054f-d673-4a7d-a544-b4e4860d0e69",
+      "title": "The Tramp and the Dictator",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-tramp-and-the-dictator",
+      "has_reactions": false
+    },
+    {
+      "id": "68a1db59-5a4a-423f-91de-1033282b1956",
+      "title": "How to Kill Your Neighbor's Dog",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "how-to-kill-your-neighbor-s-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "6b11462c-546b-4b55-8746-07fa5fe11f99",
+      "title": "Following the Rabbit-Proof Fence",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "following-the-rabbit-proof-fence",
+      "has_reactions": false
+    },
+    {
+      "id": "36cd5c6d-90fb-441a-95bf-05c669c56c18",
+      "title": "Five Children and It",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "five-children-and-it",
+      "has_reactions": false
+    },
+    {
+      "id": "9ff1c6a5-3b72-459c-8a4e-766407ec4360",
+      "title": "The Magic Touch of Harry Potter",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-magic-touch-of-harry-potter",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e60583-0344-411c-897c-ea33c02de5c3",
+      "title": "Cecil B. DeMille: American Epic",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "cecil-b-demille-american-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "0d8f83de-9173-4cdf-8968-8f1845f99f1f",
+      "title": "Walking with Monsters",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "walking-with-monsters",
+      "has_reactions": false
+    },
+    {
+      "id": "f30076a3-cb4d-4814-9b26-ae7da9863db9",
+      "title": "Warm Springs",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "warm-springs",
+      "has_reactions": false
+    },
+    {
+      "id": "eb5f0a5b-b73f-44df-b179-122ef6f089be",
+      "title": "Stephen Fry: 50 Not Out",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "stephen-fry-50-not-out",
+      "has_reactions": false
+    },
+    {
+      "id": "cf048ec4-6c7f-4996-ba81-0f07e0c238bc",
+      "title": "James Ellis: An Actor's Life",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "james-ellis-an-actor-s-life",
+      "has_reactions": false
+    },
+    {
+      "id": "c376b8a8-7f78-494a-9178-01cc29a66572",
+      "title": "Valkyrie",
+      "release_year": 2008,
+      "studio_label": "Bad Hat Harry Productions",
+      "slug": "valkyrie",
+      "has_reactions": true
+    },
+    {
+      "id": "3db90d38-0676-4f30-9353-0ae18c20b486",
+      "title": "Alien Love Triangle",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "alien-love-triangle",
+      "has_reactions": false
+    },
+    {
+      "id": "417fcaaf-1867-40f8-aa1c-11caf6efbc9c",
+      "title": "The Boat That Rocked",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-boat-that-rocked",
+      "has_reactions": false
+    },
+    {
+      "id": "8e1a225d-71cf-4f0d-9b3f-241e3ae5bf65",
+      "title": "1939: Hollywood's Greatest Year",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "1939-hollywood-s-greatest-year",
+      "has_reactions": false
+    },
+    {
+      "id": "71472dec-968f-4dff-a433-5a112a8b07c5",
+      "title": "A Night at the Movies: The Suspenseful World of Thrillers",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-night-at-the-movies-the-suspenseful-world-of-thrillers",
+      "has_reactions": false
+    },
+    {
+      "id": "e1bf0e11-ece8-4c38-87d3-7ce90a4d8f08",
+      "title": "A Night at the Movies: The Gigantic World of Epics",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-night-at-the-movies-the-gigantic-world-of-epics",
+      "has_reactions": false
+    },
+    {
+      "id": "87305936-eac8-4009-bd02-a25e91abc6c6",
+      "title": "Discovering Hamlet",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "discovering-hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "803af9c2-d85a-4218-9bc3-c6433612204e",
+      "title": "Prodigal",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "prodigal",
+      "has_reactions": false
+    },
+    {
+      "id": "0f45c1e5-a25b-47be-8ce5-0b165fd82b2e",
+      "title": "My Week with Marilyn",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "my-week-with-marilyn",
+      "has_reactions": false
+    },
+    {
+      "id": "15296974-8f76-4164-9144-32eb3733490a",
+      "title": "Thor: From Asgard to Earth",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "thor-from-asgard-to-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "bd62673f-f76e-4c19-b204-e084a79a98f2",
+      "title": "National Theatre Live: Macbeth",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "national-theatre-live-macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "faa34686-7dbf-4fab-b685-6ed05ffef1b2",
+      "title": "Marvel Studios: Assembling a Universe",
+      "release_year": 2014,
+      "studio_label": "ABC Studios",
+      "slug": "marvel-studios-assembling-a-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "e9616e06-1ff8-42e4-b00d-b4d743fb5a42",
+      "title": "Branagh Theatre Live: The Winter's Tale",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "branagh-theatre-live-the-winter-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "d83f0f33-03ae-4208-b25d-b08b4061ef04",
+      "title": "Branagh Theatre Live: The Entertainer",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "branagh-theatre-live-the-entertainer",
+      "has_reactions": false
+    },
+    {
+      "id": "a1149ce1-b233-4d18-ab2d-50a393dd2ecd",
+      "title": "Dunkirk",
+      "release_year": 2017,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "dunkirk",
+      "has_reactions": true
+    },
+    {
+      "id": "3e46d8eb-4a6a-4b48-9023-99021e6184e4",
+      "title": "Murder on the Orient Express",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "murder-on-the-orient-express",
+      "has_reactions": false
+    },
+    {
+      "id": "c9676921-7814-473d-91d9-98d94b30531f",
+      "title": "Avengers: Infinity War",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-infinity-war",
+      "has_reactions": true
+    },
+    {
+      "id": "53f4e4f0-d620-4778-a3e4-74675a07f145",
+      "title": "All Is True",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "all-is-true",
+      "has_reactions": false
+    },
+    {
+      "id": "e46b1f6c-c021-417a-a47b-25865f37e3bc",
+      "title": "Lost Lives",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "lost-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "5c908cad-9afa-4be9-9f59-fd2a7aa2398c",
+      "title": "Tenet",
+      "release_year": 2020,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "tenet",
+      "has_reactions": true
+    },
+    {
+      "id": "60f9ba46-774a-430d-98c3-e093aa0aa196",
+      "title": "Looking at the World in a New Way: The Making of \u2018Tenet\u2019",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "looking-at-the-world-in-a-new-way-the-making-of-tenet",
+      "has_reactions": false
+    },
+    {
+      "id": "1a276ab0-8f71-44fd-a10d-d4145b78ef23",
+      "title": "A Haunting in Venice",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-haunting-in-venice",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7e20a9-8e60-41be-8e35-340df168fd08",
+      "title": "Oppenheimer",
+      "release_year": 2023,
+      "studio_label": "Syncopy",
+      "slug": "oppenheimer",
+      "has_reactions": true
+    },
+    {
+      "id": "ac6c5aaa-631b-4858-b824-49025eea2446",
+      "title": "The King of Kings",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-king-of-kings",
+      "has_reactions": false
+    },
+    {
+      "id": "96371ccd-4f02-42b2-9ca4-5354f33ef860",
+      "title": "The Devil Wears Prada 2",
+      "release_year": 2026,
+      "studio_label": "20th Century Studios",
+      "slug": "the-devil-wears-prada-2",
+      "has_reactions": true
+    },
+    {
+      "id": "1112c199-c95e-42f1-856f-301e5b837a31",
+      "title": "Atonement",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "atonement",
+      "has_reactions": false
+    }
+  ]
+}

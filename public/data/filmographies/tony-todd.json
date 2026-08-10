@@ -1,0 +1,664 @@
+{
+  "id": "4ac43409-2fca-4e31-9267-3b227d2bf96d",
+  "name": "Tony Todd",
+  "slug": "tony-todd",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg",
+  "filmography": [
+    {
+      "id": "fa0b3ba7-07bc-4ccb-bf66-61058ab1ccbb",
+      "title": "Enemy Territory",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "enemy-territory",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6fe489-30f0-4897-aaa4-123d07243140",
+      "title": "Lean On Me",
+      "release_year": 1989,
+      "studio_label": "Norman Twain Productions",
+      "slug": "lean-on-me",
+      "has_reactions": true
+    },
+    {
+      "id": "2f9292e1-180a-490a-bf2d-5545464b7842",
+      "title": "Voodoo Dawn",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "voodoo-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb4dc4d-251c-4857-886b-10b4f767f2ec",
+      "title": "Criminal Justice",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "criminal-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "4a75ec24-d7dd-4c3d-8ccc-31895e9a9e27",
+      "title": "Night of the Living Dead",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "4382c2df-7374-4165-b9d4-7367adf46782",
+      "title": "Candyman",
+      "release_year": 1992,
+      "studio_label": "Propaganda Films",
+      "slug": "candyman",
+      "has_reactions": true
+    },
+    {
+      "id": "e647d34f-41f0-4f7f-846e-c985258a767b",
+      "title": "The Crow",
+      "release_year": 1994,
+      "studio_label": "Entertainment Media Investment",
+      "slug": "the-crow",
+      "has_reactions": true
+    },
+    {
+      "id": "42ce4f9e-070d-43bb-b0e3-3c94e61cbd4f",
+      "title": "Candyman: Farewell to the Flesh",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "candyman-farewell-to-the-flesh",
+      "has_reactions": false
+    },
+    {
+      "id": "ed625b43-9921-4c23-90f9-1238a864fca1",
+      "title": "Black Fox",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "black-fox",
+      "has_reactions": false
+    },
+    {
+      "id": "edcb3b83-a8e2-43a8-8bae-5802a6d8ba81",
+      "title": "Black Fox: The Price of Peace",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "black-fox-the-price-of-peace",
+      "has_reactions": false
+    },
+    {
+      "id": "a5d3f108-2aef-4f7a-8db5-d66110469c8f",
+      "title": "Burnzy's Last Call",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "burnzy-s-last-call",
+      "has_reactions": false
+    },
+    {
+      "id": "8ac9b983-2a8b-46aa-80fd-63d28cc7540e",
+      "title": "The Rock",
+      "release_year": 1996,
+      "studio_label": "Don Simpson/Jerry Bruckheimer Films",
+      "slug": "the-rock",
+      "has_reactions": true
+    },
+    {
+      "id": "531fa5cf-57a7-4c17-8890-7c4d6b3cac1d",
+      "title": "Sabotage",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "sabotage",
+      "has_reactions": false
+    },
+    {
+      "id": "f038364f-162a-4ac6-972d-2aeea857c725",
+      "title": "Them",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "them",
+      "has_reactions": false
+    },
+    {
+      "id": "ab8b7a3b-52af-48ca-ac58-4df648d4fcf1",
+      "title": "Univers'l",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "univers-l",
+      "has_reactions": false
+    },
+    {
+      "id": "37961655-49a7-4409-b4bc-190156e8212a",
+      "title": "The Pandora Project",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-pandora-project",
+      "has_reactions": false
+    },
+    {
+      "id": "500b1f18-07ab-483c-95ec-e8097b8e4a2f",
+      "title": "Butter",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "butter",
+      "has_reactions": false
+    },
+    {
+      "id": "5cb88775-cf7b-455b-b74d-491240d79a24",
+      "title": "Driven",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "driven",
+      "has_reactions": false
+    },
+    {
+      "id": "7b281ec7-7081-4faa-899d-360c4df80476",
+      "title": "Babylon 5: A Call to Arms",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "babylon-5-a-call-to-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "d34bdbd6-f5fa-4690-81dc-ca93e9db30e2",
+      "title": "Final Destination",
+      "release_year": 2000,
+      "studio_label": "Zide-Perry Productions",
+      "slug": "final-destination",
+      "has_reactions": true
+    },
+    {
+      "id": "d388a3e8-b988-4e35-b746-ecb73ad091a9",
+      "title": "The Secret",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "dfdf3920-6252-4c4f-82b4-af4742de6dd7",
+      "title": "Scarecrow Slayer",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "scarecrow-slayer",
+      "has_reactions": false
+    },
+    {
+      "id": "ea04df6e-d676-4585-bfaf-4aec60dbb4f2",
+      "title": "Final Destination 2",
+      "release_year": 2003,
+      "studio_label": "New Line Cinema",
+      "slug": "final-destination-2",
+      "has_reactions": true
+    },
+    {
+      "id": "548a4ef0-fb63-4db2-b147-9aa4c11bee0b",
+      "title": "Control Factor",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "control-factor",
+      "has_reactions": false
+    },
+    {
+      "id": "885bf7f6-4c8f-407a-a2f3-9f93e42c3454",
+      "title": "The Only Witness",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-only-witness",
+      "has_reactions": false
+    },
+    {
+      "id": "e5dd50f6-201d-449f-9b7c-a7c94267de81",
+      "title": "Murder-Set-Pieces",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "murder-set-pieces",
+      "has_reactions": false
+    },
+    {
+      "id": "62302ee4-4251-4939-9fd4-a51722658ca5",
+      "title": "Minotaur",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "minotaur",
+      "has_reactions": false
+    },
+    {
+      "id": "fa9520c3-82f8-41dc-b256-cc32502a0d8a",
+      "title": "Hatchet",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hatchet",
+      "has_reactions": false
+    },
+    {
+      "id": "371fc224-b633-4fd4-9164-3ea67a6132ef",
+      "title": "Shadow: Dead Riot",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "shadow-dead-riot",
+      "has_reactions": false
+    },
+    {
+      "id": "51d182b9-79e3-4afd-a0fd-2c9d84b68746",
+      "title": "Final Destination 3",
+      "release_year": 2006,
+      "studio_label": "New Line Cinema",
+      "slug": "final-destination-3",
+      "has_reactions": true
+    },
+    {
+      "id": "f1f845d2-7180-4eed-a7d8-a90e01a43a76",
+      "title": "Valerie on the Stairs",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "valerie-on-the-stairs",
+      "has_reactions": false
+    },
+    {
+      "id": "203dde0e-1759-487b-8a1a-8d7864369d67",
+      "title": "Shadow Puppets",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "shadow-puppets",
+      "has_reactions": false
+    },
+    {
+      "id": "e9d8687d-a5af-41ac-a9d2-c00caddfc11b",
+      "title": "The Man from Earth",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-man-from-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "ec48d983-ca0d-48f7-b216-2564286a0704",
+      "title": "Chicago Massacre: Richard Speck",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "chicago-massacre-richard-speck",
+      "has_reactions": false
+    },
+    {
+      "id": "1fe0ca8c-3010-47ec-853c-ee54aae744bf",
+      "title": "The Mannsfield 12",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-mannsfield-12",
+      "has_reactions": false
+    },
+    {
+      "id": "263ded56-f59e-46d3-b1cb-9489a2e23dc2",
+      "title": "Tournament of Dreams",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "tournament-of-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "2643b63d-4ad7-462e-a43a-96b5f1cd8a27",
+      "title": "Bryan Loves You",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bryan-loves-you",
+      "has_reactions": false
+    },
+    {
+      "id": "2b1b6576-93f6-4b70-9aeb-d46ccee2a43c",
+      "title": "iMurders",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "imurders",
+      "has_reactions": false
+    },
+    {
+      "id": "d6e8a898-8350-4661-a315-c86f72acf419",
+      "title": "Nite Tales",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "nite-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "39936ad7-4e5b-4385-a777-b4a7ecdc5c19",
+      "title": "Transformers: Revenge of the Fallen",
+      "release_year": 2009,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "transformers-revenge-of-the-fallen",
+      "has_reactions": true
+    },
+    {
+      "id": "608a61a5-2f8f-4ece-aab3-7c4bc21d0b05",
+      "title": "Vampire In Vegas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "vampire-in-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "27ad2d1a-6bf6-43f1-89dc-aa93f2518069",
+      "title": "Are You Scared 2",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "are-you-scared-2",
+      "has_reactions": false
+    },
+    {
+      "id": "d0aa9448-2233-4996-a486-58590ecd8cdd",
+      "title": "Beg",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "beg",
+      "has_reactions": false
+    },
+    {
+      "id": "78456d59-aac6-40fc-87fd-253fcd550b1f",
+      "title": "Hatchet II",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hatchet-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "60677362-9238-4b9b-afe5-74ae6000f4d3",
+      "title": "Three Chris's",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "three-chris-s",
+      "has_reactions": false
+    },
+    {
+      "id": "963a3c4a-2ef2-48d0-a343-da4748e1295d",
+      "title": "The Family",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-family",
+      "has_reactions": false
+    },
+    {
+      "id": "49fc5377-0bd8-4055-bd57-8e22dd10e86d",
+      "title": "Final Destination 5",
+      "release_year": 2011,
+      "studio_label": "Parallel Zide",
+      "slug": "final-destination-5",
+      "has_reactions": true
+    },
+    {
+      "id": "9b4f5b44-3286-42ea-9450-f5cae526b241",
+      "title": "Sushi Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "97a3fea0-2da1-45f3-b799-beca604893d5",
+      "title": "Changing the Game",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "changing-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "5366b308-1863-4cfa-a8ab-91065eabf388",
+      "title": "Falling Away",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "falling-away",
+      "has_reactions": false
+    },
+    {
+      "id": "1b907f5e-2a35-457b-bdd4-672dd7ea929c",
+      "title": "Sushi Girl: A Documentary",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl-a-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "feb3be67-7f16-4ffc-9d42-4151af37337a",
+      "title": "Army of the Damned",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "army-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "f85fd009-8a94-4b85-a0fe-7ffecc818767",
+      "title": "Dead of the Nite",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "dead-of-the-nite",
+      "has_reactions": false
+    },
+    {
+      "id": "0a82d82b-1cc8-4fb0-b900-b134dc6dce3f",
+      "title": "Jack the Reaper",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jack-the-reaper",
+      "has_reactions": false
+    },
+    {
+      "id": "ab75e5bd-a3f2-46c9-851d-350041d97ad3",
+      "title": "Beyond the Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "8ad4aee0-be3e-4a76-9aeb-abf04c774d50",
+      "title": "Disciples",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "disciples",
+      "has_reactions": false
+    },
+    {
+      "id": "e08eaa6f-7aaa-4d4a-8443-0dcd9cf61b19",
+      "title": "VANish",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "vanish",
+      "has_reactions": false
+    },
+    {
+      "id": "954edb5a-a246-4249-8bfb-2a4498ec72bc",
+      "title": "Agoraphobia",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "agoraphobia",
+      "has_reactions": false
+    },
+    {
+      "id": "3ee45d50-82ba-4631-9d6b-f5015ff2e63d",
+      "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-comics-super-heroes-justice-league-attack-of-the-legion-of-doom",
+      "has_reactions": false
+    },
+    {
+      "id": "e0e78bda-d5b5-494d-b440-a26e6974a50f",
+      "title": "Frankenstein",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "f73ab789-acf4-4c03-8c2e-ddc7f67636c5",
+      "title": "Smoke and Mirrors: The Story of Tom Savini",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "smoke-and-mirrors-the-story-of-tom-savini",
+      "has_reactions": false
+    },
+    {
+      "id": "9adc65ed-64e9-4511-a2c3-a8422134ca5f",
+      "title": "Scream at the Devil",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "scream-at-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "660bd0ac-1ffb-4b47-821f-71f730af02ac",
+      "title": "Night of the Living Dead: Darkest Dawn",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-dead-darkest-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "90add222-f033-4d17-8b29-6d22f2c48b33",
+      "title": "Drive Me to Vegas and Mars",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "drive-me-to-vegas-and-mars",
+      "has_reactions": false
+    },
+    {
+      "id": "92f9cb5e-317f-44ab-aaa0-60b71f16c379",
+      "title": "Night Night",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "night-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c2a1b8b1-12f1-4411-94e2-261013522c6b",
+      "title": "The Reenactment",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-reenactment",
+      "has_reactions": false
+    },
+    {
+      "id": "ba564aca-25c5-4e48-872b-3ccee63e51d8",
+      "title": "Traveling Light",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "traveling-light",
+      "has_reactions": false
+    },
+    {
+      "id": "a259b6a4-dafa-4f6b-a958-4b518f5d39e0",
+      "title": "The House Next Door: Meet the Blacks 2",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-house-next-door-meet-the-blacks-2",
+      "has_reactions": false
+    },
+    {
+      "id": "90c27767-5cfb-4207-8344-08adc99bd1fc",
+      "title": "All Gone Wrong",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "all-gone-wrong",
+      "has_reactions": false
+    },
+    {
+      "id": "b68dd6c2-67f2-4d2b-92ad-0fc135a68a47",
+      "title": "Bitch Ass",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bitch-ass",
+      "has_reactions": false
+    },
+    {
+      "id": "78e0d58b-5a5a-49f8-bd10-304e4e903b69",
+      "title": "Catfish Christmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "catfish-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "ed5b97d3-345f-4637-8ba3-dc242337eeeb",
+      "title": "Hellblazers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "hellblazers",
+      "has_reactions": false
+    },
+    {
+      "id": "707503e0-b0f9-4ff5-a432-8deb7196033b",
+      "title": "Devilreaux",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "devilreaux",
+      "has_reactions": false
+    },
+    {
+      "id": "73a9e44d-bad7-43eb-a443-ec6a410c4684",
+      "title": "The Nana Project",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-nana-project",
+      "has_reactions": false
+    },
+    {
+      "id": "a621f710-e44c-46c3-ac79-c96329f4a47b",
+      "title": "Dixieland",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dixieland",
+      "has_reactions": false
+    },
+    {
+      "id": "b71c3fe9-47eb-4730-be27-fcf491e608ec",
+      "title": "Stream",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "stream",
+      "has_reactions": false
+    },
+    {
+      "id": "74293982-f2ec-41bb-b0bc-9593f57a9d88",
+      "title": "Karma: Death at Latigo Springs",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "karma-death-at-latigo-springs",
+      "has_reactions": false
+    },
+    {
+      "id": "a82c977c-3d35-4af3-a220-35a14fabd723",
+      "title": "Realm of Shadows",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "realm-of-shadows",
+      "has_reactions": false
+    },
+    {
+      "id": "168c5c70-f3ca-4a43-991d-d5f86955e8ef",
+      "title": "The Activated Man",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-activated-man",
+      "has_reactions": false
+    },
+    {
+      "id": "9b81efe6-fcf3-4b4b-89cd-9afbc4efc1d7",
+      "title": "The Pitchfork Retreat",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-pitchfork-retreat",
+      "has_reactions": false
+    },
+    {
+      "id": "7d3ae8e7-5d87-41f9-addf-2fee01e51c04",
+      "title": "Werewolf Game",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "werewolf-game",
+      "has_reactions": false
+    },
+    {
+      "id": "bdcf16e0-7296-4c3d-9f53-0f9cdfc35e71",
+      "title": "Final Destination Bloodlines",
+      "release_year": 2025,
+      "studio_label": "New Line Cinema",
+      "slug": "final-destination-bloodlines",
+      "has_reactions": true
+    }
+  ]
+}

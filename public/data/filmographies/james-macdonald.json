@@ -1,0 +1,640 @@
+{
+  "id": "f116e075-28dd-447e-b5b1-39ef532b5f58",
+  "name": "James MacDonald",
+  "slug": "james-macdonald",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qf3IMvOrc39jKz6Bddtv4Ur2ski.jpg",
+  "filmography": [
+    {
+      "id": "b7100dcc-25e9-417e-b5bc-ddfce60ea491",
+      "title": "Thru the Mirror",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "thru-the-mirror",
+      "has_reactions": false
+    },
+    {
+      "id": "6863b336-f51e-48bc-91b6-2cd3026fc4ff",
+      "title": "Walt Disney's A Trip Through the Walt Disney Studios",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "walt-disney-s-a-trip-through-the-walt-disney-studios",
+      "has_reactions": false
+    },
+    {
+      "id": "8163e97b-62eb-465f-bdb6-b516f6b4b338",
+      "title": "Clock Cleaners",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "clock-cleaners",
+      "has_reactions": false
+    },
+    {
+      "id": "028db48c-e80d-4108-89b0-24228b51fd13",
+      "title": "Donald's Cousin Gus",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "donald-s-cousin-gus",
+      "has_reactions": false
+    },
+    {
+      "id": "c3e40de9-5336-4b3f-b6fc-9a967f97ae30",
+      "title": "How Walt Disney Cartoons Are Made",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "how-walt-disney-cartoons-are-made",
+      "has_reactions": false
+    },
+    {
+      "id": "60060b91-f1a5-4cd0-a7dd-a385a3fd7734",
+      "title": "Bone Trouble",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "bone-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "3b2a590d-2b0f-432a-839a-80876e8f9d83",
+      "title": "Dumbo",
+      "release_year": 1941,
+      "studio_label": "Walt Disney Productions",
+      "slug": "dumbo",
+      "has_reactions": true
+    },
+    {
+      "id": "cfdc468a-c86c-4f56-9919-102a62c516f3",
+      "title": "Private Pluto",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "private-pluto",
+      "has_reactions": false
+    },
+    {
+      "id": "0f11e8df-7ca1-4207-9630-a2632b00b923",
+      "title": "Donald Duck and the Gorilla",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "donald-duck-and-the-gorilla",
+      "has_reactions": false
+    },
+    {
+      "id": "7d5c944f-50d4-4d2d-a7c8-16c943ba3550",
+      "title": "African Diary",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "african-diary",
+      "has_reactions": false
+    },
+    {
+      "id": "416509b7-afe1-4750-8057-b319d003c64a",
+      "title": "Squatter's Rights",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "squatter-s-rights",
+      "has_reactions": false
+    },
+    {
+      "id": "be13dd59-5b6c-4185-837c-fd5f645e995d",
+      "title": "Pluto's Kid Brother",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "pluto-s-kid-brother",
+      "has_reactions": false
+    },
+    {
+      "id": "bec4f47c-4a88-4de2-9f88-e3827e8d0e79",
+      "title": "Chip an' Dale",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "chip-an-dale",
+      "has_reactions": false
+    },
+    {
+      "id": "3f098872-dbec-42e8-963c-0682ebf140b8",
+      "title": "Fun and Fancy Free",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "fun-and-fancy-free",
+      "has_reactions": false
+    },
+    {
+      "id": "5536c8b4-b627-407c-8b58-8ba220f47699",
+      "title": "Mickey Down Under",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "mickey-down-under",
+      "has_reactions": false
+    },
+    {
+      "id": "04b5a92e-28c5-4972-a4f0-d11415caad15",
+      "title": "Mickey and the Seal",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "mickey-and-the-seal",
+      "has_reactions": false
+    },
+    {
+      "id": "423c9e6b-eaee-4120-96f3-361d28818e5c",
+      "title": "Three for Breakfast",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "three-for-breakfast",
+      "has_reactions": false
+    },
+    {
+      "id": "5e3663c8-da7a-4b44-96e7-5f008f7a2dfc",
+      "title": "Pluto's Purchase",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "pluto-s-purchase",
+      "has_reactions": false
+    },
+    {
+      "id": "2d04cbb6-d955-4768-a34b-99271cc52387",
+      "title": "The Big Wash",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-big-wash",
+      "has_reactions": false
+    },
+    {
+      "id": "e9c4c3fd-1cdd-4718-82d2-c859767184f9",
+      "title": "Winter Storage",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "winter-storage",
+      "has_reactions": false
+    },
+    {
+      "id": "5c3d1563-0555-43aa-8351-480c8174b66f",
+      "title": "All in a Nutshell",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "all-in-a-nutshell",
+      "has_reactions": false
+    },
+    {
+      "id": "03908cb6-3be6-4ac8-9c3f-7cbf8f4bb5b6",
+      "title": "Pueblo Pluto",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "pueblo-pluto",
+      "has_reactions": false
+    },
+    {
+      "id": "cb240797-c9e7-4a12-b969-c5014da37301",
+      "title": "Toy Tinkers",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "toy-tinkers",
+      "has_reactions": false
+    },
+    {
+      "id": "29edc60f-4806-4329-819f-15b44f97e6ed",
+      "title": "Cinderella",
+      "release_year": 1950,
+      "studio_label": "Walt Disney Productions",
+      "slug": "cinderella",
+      "has_reactions": false
+    },
+    {
+      "id": "6ddaedb3-6b47-4fdf-84f0-1633c4ade6f4",
+      "title": "Out on a Limb",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "out-on-a-limb",
+      "has_reactions": false
+    },
+    {
+      "id": "16f31c7b-02ad-4527-817a-daf1b8b65b09",
+      "title": "Food for Feudin'",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "food-for-feudin",
+      "has_reactions": false
+    },
+    {
+      "id": "f385306f-2df7-4f8a-8226-338869942be1",
+      "title": "Crazy Over Daisy",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "crazy-over-daisy",
+      "has_reactions": false
+    },
+    {
+      "id": "167d05b8-7fbf-47aa-b37b-1957b154b28b",
+      "title": "Trailer Horn",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "trailer-horn",
+      "has_reactions": false
+    },
+    {
+      "id": "76a9f355-38ee-4b04-a61b-69e7b76d05f0",
+      "title": "Hold That Pose",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "hold-that-pose",
+      "has_reactions": false
+    },
+    {
+      "id": "54ae70d2-d350-4ff5-b536-a72c23a2c1e6",
+      "title": "Plutopia",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "plutopia",
+      "has_reactions": false
+    },
+    {
+      "id": "1fa9a450-e60f-4d86-9bf1-da2c0a4974a5",
+      "title": "Lion Down",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "lion-down",
+      "has_reactions": false
+    },
+    {
+      "id": "29c65e84-297a-4d37-9db4-3c1d63240052",
+      "title": "Test Pilot Donald",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "test-pilot-donald",
+      "has_reactions": false
+    },
+    {
+      "id": "32b6e651-8964-4fcd-aa09-62241585a7c1",
+      "title": "Corn Chips",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "corn-chips",
+      "has_reactions": false
+    },
+    {
+      "id": "c6f45ef9-585e-40b7-b7bf-850d80251184",
+      "title": "Chicken in the Rough",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "chicken-in-the-rough",
+      "has_reactions": false
+    },
+    {
+      "id": "1b3567de-4bef-4e13-8369-b471bcf0d1de",
+      "title": "Out of Scale",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "out-of-scale",
+      "has_reactions": false
+    },
+    {
+      "id": "4a85dee6-a0b2-4ae6-a456-924b344059f0",
+      "title": "R'Coon Dawg",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "r-coon-dawg",
+      "has_reactions": false
+    },
+    {
+      "id": "805bbcbd-08e3-4479-befd-cae77e4710fe",
+      "title": "Alice in Wonderland",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "alice-in-wonderland",
+      "has_reactions": false
+    },
+    {
+      "id": "fa8e3da7-50a0-4385-a56f-9286e5899ec9",
+      "title": "Two Chips and a Miss",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "two-chips-and-a-miss",
+      "has_reactions": false
+    },
+    {
+      "id": "83bdb34d-31ec-442c-af04-d7a1a41e0297",
+      "title": "Pluto's Party",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "pluto-s-party",
+      "has_reactions": false
+    },
+    {
+      "id": "993c4d5f-98e5-46ae-9589-3a3b14fcf2d9",
+      "title": "Pluto's Christmas Tree",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "pluto-s-christmas-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "4ea05cd3-09fd-4394-83df-7659507152a3",
+      "title": "Lambert the Sheepish Lion",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "lambert-the-sheepish-lion",
+      "has_reactions": false
+    },
+    {
+      "id": "6bc63c00-514a-4e11-84df-46bd4ceeed4c",
+      "title": "Donald Applecore",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "donald-applecore",
+      "has_reactions": false
+    },
+    {
+      "id": "14e4876d-dbed-43de-924e-5f251daf5ecd",
+      "title": "Working for Peanuts",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "working-for-peanuts",
+      "has_reactions": false
+    },
+    {
+      "id": "8896c26b-676f-4e45-9bb9-ea030827c50d",
+      "title": "Walt Disney's Halloween Hilarities",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "walt-disney-s-halloween-hilarities",
+      "has_reactions": false
+    },
+    {
+      "id": "8bcd50de-8d82-4526-b181-87f5e8a349c4",
+      "title": "Rugged Bear",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "rugged-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "f2389e3b-4103-4ebe-b2ca-f5f257318c42",
+      "title": "The Simple Things",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-simple-things",
+      "has_reactions": false
+    },
+    {
+      "id": "c78e275c-21f2-4962-a0d9-23a141906411",
+      "title": "The Lone Chipmunks",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-lone-chipmunks",
+      "has_reactions": false
+    },
+    {
+      "id": "89600124-e2f7-47e7-9e6a-9ef134da6cd3",
+      "title": "Grin and Bear It",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "grin-and-bear-it",
+      "has_reactions": false
+    },
+    {
+      "id": "740abc54-e4d9-47f2-b12d-38fc159094c4",
+      "title": "Dragon Around",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dragon-around",
+      "has_reactions": false
+    },
+    {
+      "id": "125350af-e7ef-4c5c-9c4d-e47464b0b6c8",
+      "title": "Bearly Asleep",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "bearly-asleep",
+      "has_reactions": false
+    },
+    {
+      "id": "68bae810-7274-4d75-87e9-2601538fab44",
+      "title": "Beezy Bear",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "beezy-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "a735decf-a70c-4bd5-ad73-335c3a583f2a",
+      "title": "Up a Tree",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "up-a-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "c3390223-67c4-48ef-8d6f-9fbe6c533c81",
+      "title": "Chips Ahoy",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "chips-ahoy",
+      "has_reactions": false
+    },
+    {
+      "id": "71fa923f-1788-4426-a7d3-2b286dfc3d55",
+      "title": "In the Bag",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "in-the-bag",
+      "has_reactions": false
+    },
+    {
+      "id": "0be38e75-2134-4a37-bee7-1fce13b46441",
+      "title": "Hooked Bear",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "hooked-bear",
+      "has_reactions": false
+    },
+    {
+      "id": "5e080363-fd77-464f-8e1e-5f1850c12d78",
+      "title": "Duck Flies Coop",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "duck-flies-coop",
+      "has_reactions": false
+    },
+    {
+      "id": "e4980a30-e01d-4a4f-b246-c3f27be95170",
+      "title": "This Is Your Life Donald Duck",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "this-is-your-life-donald-duck",
+      "has_reactions": false
+    },
+    {
+      "id": "fe60cada-996f-4787-b16d-867b8aa43ad2",
+      "title": "Toby Tyler or Ten Weeks with a Circus",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "toby-tyler-or-ten-weeks-with-a-circus",
+      "has_reactions": false
+    },
+    {
+      "id": "68cd355e-5e72-40be-acb3-b9a2eb56d1a3",
+      "title": "Backstage Party",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "backstage-party",
+      "has_reactions": false
+    },
+    {
+      "id": "546f01aa-98b2-4aa2-b1b7-53182f361966",
+      "title": "The Sword in the Stone",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-sword-in-the-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "6c29e003-111a-43e3-a53a-3b8f5e6597b5",
+      "title": "The Jungle Book",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-jungle-book",
+      "has_reactions": false
+    },
+    {
+      "id": "dbf604b0-d57c-40cd-adbc-9e5f05529f93",
+      "title": "The Mickey Mouse Anniversary Show",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-mickey-mouse-anniversary-show",
+      "has_reactions": false
+    },
+    {
+      "id": "d1192e0f-084d-4f72-b9d8-0c5c74acb3e8",
+      "title": "Disney's Greatest Villains",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "disney-s-greatest-villains",
+      "has_reactions": false
+    },
+    {
+      "id": "07b15f4e-3434-43dc-be4a-68fcb0179cd7",
+      "title": "The Rescuers",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-rescuers",
+      "has_reactions": false
+    },
+    {
+      "id": "17a5b1d5-1cd0-4c44-8d60-118f05ce6c0a",
+      "title": "The Fox and the Hound",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-fox-and-the-hound",
+      "has_reactions": false
+    },
+    {
+      "id": "5ee2fada-29c5-40c7-b172-e4ef6aa568ec",
+      "title": "Here's Goofy!",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "here-s-goofy",
+      "has_reactions": false
+    },
+    {
+      "id": "f8af0880-c46f-46c3-a00e-ef22e6b8e6ff",
+      "title": "The Cartoon Collection",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-cartoon-collection",
+      "has_reactions": false
+    },
+    {
+      "id": "3bf00021-17d1-40a7-b383-c6a3475578f9",
+      "title": "Rootin' Tootin' Roundup",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "rootin-tootin-roundup",
+      "has_reactions": false
+    },
+    {
+      "id": "69af5db5-ea08-4006-8460-fecbf9981e64",
+      "title": "Disney\u2019s Coyote Tales",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "disney-s-coyote-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "6077f234-bd09-4266-aab3-c71392ee50b0",
+      "title": "Disney Sing-Along Songs: Colors of the Wind",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "disney-sing-along-songs-colors-of-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "0c4276d9-342f-417c-9a25-cff626842d9a",
+      "title": "Mickey's Family Album",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-family-album",
+      "has_reactions": false
+    },
+    {
+      "id": "9bde771b-b623-4e95-8396-71d7a101466c",
+      "title": "Everybody Loves Mickey",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "everybody-loves-mickey",
+      "has_reactions": false
+    },
+    {
+      "id": "2f45bf70-9cc5-4fd8-9f6e-01e701cdd7d7",
+      "title": "Everybody Loves Donald",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "everybody-loves-donald",
+      "has_reactions": false
+    },
+    {
+      "id": "76a0c480-9437-4268-a458-ceed764a88dc",
+      "title": "Chip 'n' Dale: Here Comes Trouble",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-here-comes-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "26242416-b945-47ce-a196-7993fc07b0e0",
+      "title": "Walt Disney's Fables - Vol.5",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "walt-disney-s-fables-vol-5",
+      "has_reactions": false
+    },
+    {
+      "id": "7e2d9bf6-e673-458f-b461-410a97331874",
+      "title": "Chip 'n Dale: Trouble in a Tree",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-trouble-in-a-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "610523d4-8b7b-4c54-bd79-22984308a8f0",
+      "title": "Disney's Christmas Favorites",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "disney-s-christmas-favorites",
+      "has_reactions": false
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "0facbf86-4d8b-45a7-b02f-287907aed6db",
+      "title": "Donald Duck's Christmas Favourites",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "donald-duck-s-christmas-favourites",
+      "has_reactions": false
+    }
+  ]
+}

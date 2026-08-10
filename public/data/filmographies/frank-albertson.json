@@ -1,0 +1,632 @@
+{
+  "id": "0b62e3af-c0d1-4b83-985a-c066b0df1977",
+  "name": "Frank Albertson",
+  "slug": "frank-albertson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/sT9JZ8GgHgunZS4PWIDX6wMoIS7.jpg",
+  "filmography": [
+    {
+      "id": "bb76aa29-81fd-4f36-91bb-57abd689876d",
+      "title": "The Covered Wagon",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "the-covered-wagon",
+      "has_reactions": false
+    },
+    {
+      "id": "5152e25e-0e02-4bc0-bd8c-0b0297ff99f0",
+      "title": "Prep and Pep",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "prep-and-pep",
+      "has_reactions": false
+    },
+    {
+      "id": "951a0640-d07d-4f30-b12b-3c8d39924505",
+      "title": "Words and Music",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "words-and-music",
+      "has_reactions": false
+    },
+    {
+      "id": "c2491d14-927b-4307-a2d6-3ca1b31aaa23",
+      "title": "Blue Skies",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "blue-skies",
+      "has_reactions": false
+    },
+    {
+      "id": "0ee0ecb4-6414-4931-b8c4-f1088068d238",
+      "title": "Just Imagine",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "just-imagine",
+      "has_reactions": false
+    },
+    {
+      "id": "b7c203f7-1b41-4df9-af13-cb48184e1ca6",
+      "title": "Spring Is Here",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "spring-is-here",
+      "has_reactions": false
+    },
+    {
+      "id": "7919e9c1-d5bf-4198-85df-ee7c5fdfe562",
+      "title": "Wild Company",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "wild-company",
+      "has_reactions": false
+    },
+    {
+      "id": "2308e80c-275a-4711-a2c4-d0ab8d638616",
+      "title": "The Big Party",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-big-party",
+      "has_reactions": false
+    },
+    {
+      "id": "07aa9fed-b931-4639-b1fd-fcafffec0da1",
+      "title": "Son of the Gods",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "son-of-the-gods",
+      "has_reactions": false
+    },
+    {
+      "id": "792df82b-d541-42d3-88cc-9b3c8f2c0720",
+      "title": "So This Is London",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "so-this-is-london",
+      "has_reactions": false
+    },
+    {
+      "id": "00f604ff-bb9f-4d38-bf7a-af8f355f0a95",
+      "title": "Big Business Girl",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "big-business-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "980277d8-bed6-4e89-b078-cd0288653c66",
+      "title": "Traveling Husbands",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "traveling-husbands",
+      "has_reactions": false
+    },
+    {
+      "id": "b0d5a971-e8c0-4ed7-ab2b-4b62cb0a2f9f",
+      "title": "The Brat",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-brat",
+      "has_reactions": false
+    },
+    {
+      "id": "2d766892-c09c-4a96-a56d-3f1610ecfd98",
+      "title": "The Lost Special",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-lost-special",
+      "has_reactions": false
+    },
+    {
+      "id": "a6bd6bf5-0456-4b74-9e9b-3cfc65268499",
+      "title": "Racing Youth",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "racing-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "f7639336-17c5-42cf-9c94-50eb92602a5f",
+      "title": "Huddle",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "huddle",
+      "has_reactions": false
+    },
+    {
+      "id": "a2dd6e12-60d2-43e0-9e64-5d3f47d08041",
+      "title": "Boys Will Be Boys",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "boys-will-be-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "81328e38-279f-4298-9638-4b2dc4c4a159",
+      "title": "Midshipman Jack",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "midshipman-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "58c404d2-20b3-4e13-945e-08eccebd888e",
+      "title": "Ever in My Heart",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "ever-in-my-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "50d5584a-595c-42da-99cf-e46ca30084d8",
+      "title": "Ann Carver's Profession",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "ann-carver-s-profession",
+      "has_reactions": false
+    },
+    {
+      "id": "740ccfb0-997e-4772-90c3-bc6dfb6188b0",
+      "title": "Rainbow Over Broadway",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "rainbow-over-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "5dc470ad-5cb6-4307-9511-2ad6d516c18a",
+      "title": "The Plumber and the Lady",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-plumber-and-the-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "1ff5b982-a72d-4341-98e3-9faa3b9fa414",
+      "title": "King for a Night",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "king-for-a-night",
+      "has_reactions": false
+    },
+    {
+      "id": "5e26fe54-48c9-4abd-8070-39e795c38139",
+      "title": "Tripping Through the Tropics",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "tripping-through-the-tropics",
+      "has_reactions": false
+    },
+    {
+      "id": "6260084e-3a1f-4bca-b51f-0d2efc4b53eb",
+      "title": "Love Detectives",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "love-detectives",
+      "has_reactions": false
+    },
+    {
+      "id": "b3c9eac5-1583-4f03-8fc6-18991554c37b",
+      "title": "Hollywood Mystery",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "hollywood-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "15f57c55-0609-4681-9286-4b5713e09878",
+      "title": "The Last Gentleman",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-last-gentleman",
+      "has_reactions": false
+    },
+    {
+      "id": "83e5ed49-e2a4-49c0-bcbd-4edfb8012fce",
+      "title": "Doubting Thomas",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "doubting-thomas",
+      "has_reactions": false
+    },
+    {
+      "id": "115f96e4-d8cb-4066-aae4-86adc00941d2",
+      "title": "Personal Maid's Secret",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "personal-maid-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "99b5ab22-d685-4971-8207-4570062e3b65",
+      "title": "Waterfront Lady",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "waterfront-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "75bc82fc-0c7d-4335-af75-525730cf6e19",
+      "title": "Alice Adams",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "alice-adams",
+      "has_reactions": false
+    },
+    {
+      "id": "ea3983b6-6fff-4eb3-939a-9d92ebf2a6f9",
+      "title": "East of Java",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "east-of-java",
+      "has_reactions": false
+    },
+    {
+      "id": "3c2e7903-b423-4603-b50f-023cb5848afc",
+      "title": "Kind Lady",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "kind-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "c5a77188-83e0-4f2b-94e8-f89dca38ec86",
+      "title": "Enter Madame",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "enter-madame",
+      "has_reactions": false
+    },
+    {
+      "id": "1f3536c0-6b1d-4029-8373-af8c4a37a720",
+      "title": "Fury",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "fury",
+      "has_reactions": false
+    },
+    {
+      "id": "cdfed151-af40-4704-bb86-365514e95168",
+      "title": "The Farmer in the Dell",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-farmer-in-the-dell",
+      "has_reactions": false
+    },
+    {
+      "id": "6fc1618b-3aa9-433f-8972-80dbcf8d64e2",
+      "title": "Navy Blue and Gold",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "navy-blue-and-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "4d868683-8990-4deb-a7ef-bdff9023ff69",
+      "title": "Hold That Kiss",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "hold-that-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "4cda43af-2f20-4003-84a5-faf8071c220e",
+      "title": "The Shining Hour",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-shining-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "9d190fcf-0f12-42d3-a070-70fad2ee4ea7",
+      "title": "Mother Carey's Chickens",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "mother-carey-s-chickens",
+      "has_reactions": false
+    },
+    {
+      "id": "fecea009-5918-4e5f-96dc-e174e84853ef",
+      "title": "Room Service",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "room-service",
+      "has_reactions": false
+    },
+    {
+      "id": "a9810ceb-709f-4c4e-85fa-5df973c5e93d",
+      "title": "The Magician's Daughter",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-magician-s-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "99c15524-dbe3-401e-a328-52ea7e8c521c",
+      "title": "Fugitives for a Night",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "fugitives-for-a-night",
+      "has_reactions": false
+    },
+    {
+      "id": "7fb1ff2e-bda6-4f91-8f04-f993808dd2c9",
+      "title": "Rhumba Rhythm at the Hollywood La Conga",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "rhumba-rhythm-at-the-hollywood-la-conga",
+      "has_reactions": false
+    },
+    {
+      "id": "e2b59fd3-3050-46ad-a221-7826f2ba7147",
+      "title": "I'll Tell the World",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "i-ll-tell-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "ae352dd6-f44a-4238-b224-dd3142100bb8",
+      "title": "Dr. Christian Meets the Women",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "dr-christian-meets-the-women",
+      "has_reactions": false
+    },
+    {
+      "id": "5be403d5-01c0-4e1a-b160-1fe177036c7d",
+      "title": "Framed",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "framed",
+      "has_reactions": false
+    },
+    {
+      "id": "9f6eda3b-b5c8-4a72-8f42-0f9981c87cd8",
+      "title": "When the Daltons Rode",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "when-the-daltons-rode",
+      "has_reactions": false
+    },
+    {
+      "id": "914a4266-ad09-4a87-91e1-f630fb7bba52",
+      "title": "Behind the News",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "behind-the-news",
+      "has_reactions": false
+    },
+    {
+      "id": "da85bb92-f5f5-4397-aa2f-587bf6dfedae",
+      "title": "Man-Made Monster",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "man-made-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "58a2cc4f-b207-4f2c-88bf-f8dae7de5b37",
+      "title": "Ellery Queen's Penthouse Mystery",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "ellery-queen-s-penthouse-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "9780528b-1108-4d91-b373-98f49a531903",
+      "title": "Father Steps Out",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "father-steps-out",
+      "has_reactions": false
+    },
+    {
+      "id": "c9b12de3-95de-4978-ab5e-1f79be971d6f",
+      "title": "Citadel of Crime",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "citadel-of-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "45ab3e34-62f7-47e0-a3e6-7d829f2c915d",
+      "title": "Man From Headquarters",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "man-from-headquarters",
+      "has_reactions": false
+    },
+    {
+      "id": "aeb5aa93-c9d3-4569-9208-c8bad5d7f00a",
+      "title": "Shepherd of the Ozarks",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "shepherd-of-the-ozarks",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a84c7c-75e3-4f41-8c34-938f67f62aaa",
+      "title": "Dead End Kids Go To War",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "dead-end-kids-go-to-war",
+      "has_reactions": false
+    },
+    {
+      "id": "844a08ed-9f3c-4ef6-9bdf-c6517e419772",
+      "title": "City of Silent Men",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "city-of-silent-men",
+      "has_reactions": false
+    },
+    {
+      "id": "7155e43c-f327-4a23-98f0-3bb13a68e71c",
+      "title": "Underground Agent",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "underground-agent",
+      "has_reactions": false
+    },
+    {
+      "id": "807b170c-8273-4cb9-84af-06b32de3b508",
+      "title": "Junior G-Men of the Air",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "junior-g-men-of-the-air",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f97648-eeee-4766-8813-24aec0ee5e86",
+      "title": "Keep 'Em Slugging",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "keep-em-slugging",
+      "has_reactions": false
+    },
+    {
+      "id": "9c3297ce-b698-4715-a7fb-2faebbe419c8",
+      "title": "O, My Darling Clementine",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "o-my-darling-clementine",
+      "has_reactions": false
+    },
+    {
+      "id": "fa7f074f-dc51-4587-bd31-a38301f1b3b1",
+      "title": "Silent Witness",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "silent-witness",
+      "has_reactions": false
+    },
+    {
+      "id": "c4cf0412-d9ac-4547-8e64-ec5aedbe7e2f",
+      "title": "Rosie the Riveter",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "rosie-the-riveter",
+      "has_reactions": false
+    },
+    {
+      "id": "e051cb67-c889-4388-ad0f-782e50d72d1b",
+      "title": "Arson Squad",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "arson-squad",
+      "has_reactions": false
+    },
+    {
+      "id": "c1b437b7-9a69-4c2b-8149-797bcc31ae65",
+      "title": "It's a Wonderful Life",
+      "release_year": 1946,
+      "studio_label": "Liberty Films",
+      "slug": "it-s-a-wonderful-life",
+      "has_reactions": true
+    },
+    {
+      "id": "f5e6539a-00c2-4b54-8164-549ece9464f3",
+      "title": "They Made Me a Killer",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "they-made-me-a-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "3be668ad-68b8-4871-8e03-4538770800e6",
+      "title": "Gay Blades",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "gay-blades",
+      "has_reactions": false
+    },
+    {
+      "id": "0a7213da-c9f3-4377-a997-e34644d8d956",
+      "title": "The Hucksters",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-hucksters",
+      "has_reactions": false
+    },
+    {
+      "id": "ff755124-4a87-43de-87d4-595dee65ffc9",
+      "title": "Killer Dill",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "killer-dill",
+      "has_reactions": false
+    },
+    {
+      "id": "d33025fb-78c9-41b9-a37d-4f0901f81e33",
+      "title": "Main Street to Broadway",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "main-street-to-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "768744f3-8c0d-480f-84b4-f4f6410de2f7",
+      "title": "Girl on the Run",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "girl-on-the-run",
+      "has_reactions": false
+    },
+    {
+      "id": "66496483-df93-4228-b05f-10fe4fac2ba3",
+      "title": "Nightfall",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "nightfall",
+      "has_reactions": false
+    },
+    {
+      "id": "1520eb7e-065f-4450-9af2-afb0204fe8dd",
+      "title": "The Enemy Below",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-enemy-below",
+      "has_reactions": false
+    },
+    {
+      "id": "a38add6f-ca15-47d3-b6f6-81e2e49aa8c2",
+      "title": "The Last Hurrah",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-last-hurrah",
+      "has_reactions": false
+    },
+    {
+      "id": "05c14c38-a788-41e3-91fd-44516bed11ca",
+      "title": "Psycho",
+      "release_year": 1960,
+      "studio_label": "Shamley Productions",
+      "slug": "psycho",
+      "has_reactions": true
+    },
+    {
+      "id": "df72d736-8094-4c34-b65e-b516b06a41b6",
+      "title": "Man-Trap",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "man-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "24ad307a-6a68-4402-82bc-6c4e41cf784e",
+      "title": "Don't Knock the Twist",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "don-t-knock-the-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "632967c3-5ffe-4814-a20e-c9ca8f52ab6b",
+      "title": "Bye Bye Birdie",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "bye-bye-birdie",
+      "has_reactions": false
+    }
+  ]
+}

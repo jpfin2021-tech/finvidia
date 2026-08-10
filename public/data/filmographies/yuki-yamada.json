@@ -1,0 +1,40 @@
+{
+  "id": "4d4542ea-40b7-421f-bf32-1b08aa8656c6",
+  "name": "Yuki Yamada",
+  "slug": "yuki-yamada",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg",
+  "filmography": [
+    {
+      "id": "cb4494fd-1f29-4137-a569-f44c9083bb92",
+      "title": "A Crocodile Who Lived for 100 Days",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "a-crocodile-who-lived-for-100-days",
+      "has_reactions": false
+    },
+    {
+      "id": "7917d307-78e5-4441-a868-061a35df3998",
+      "title": "The Last 10 Years",
+      "release_year": 2022,
+      "studio_label": "Warner Bros. Japan",
+      "slug": "the-last-10-years",
+      "has_reactions": false
+    },
+    {
+      "id": "ee4b99ab-5fb6-4582-b7b6-66673c8255b6",
+      "title": "Godzilla Minus One",
+      "release_year": 2023,
+      "studio_label": "TOHO",
+      "slug": "godzilla-minus-one",
+      "has_reactions": true
+    },
+    {
+      "id": "5b61745d-b51d-4193-b489-3d7cfd840f62",
+      "title": "Godzilla Minus Zero",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "godzilla-minus-zero",
+      "has_reactions": false
+    }
+  ]
+}

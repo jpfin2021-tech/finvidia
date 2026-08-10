@@ -1,0 +1,616 @@
+{
+  "id": "b4f7be68-e602-4140-88c2-d58785fe94f0",
+  "name": "Denzel Washington",
+  "slug": "denzel-washington",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jj2Gcobpopokal0YstuCQW0ldJ4.jpg",
+  "filmography": [
+    {
+      "id": "f2b46229-1087-4cd3-bcfa-745fd613f057",
+      "title": "American Gangster Special",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "american-gangster-special",
+      "has_reactions": false
+    },
+    {
+      "id": "4e1c2d5c-d1ea-40e0-8494-5734c9ded112",
+      "title": "Untitled Hannibal Film",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-hannibal-film",
+      "has_reactions": false
+    },
+    {
+      "id": "33862082-7b2b-4d6f-aa34-e4e85521991d",
+      "title": "Here Comes the Flood",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "here-comes-the-flood",
+      "has_reactions": false
+    },
+    {
+      "id": "830d62fa-db8b-4520-9cd0-71816df3f781",
+      "title": "Wilma",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "wilma",
+      "has_reactions": false
+    },
+    {
+      "id": "8f375507-38b7-46bd-8ad7-a05e1ad0d026",
+      "title": "Flesh & Blood",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "flesh-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "81eedddd-56e7-460b-ab31-eb9d40ddd0e5",
+      "title": "Coriolanus",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "coriolanus",
+      "has_reactions": false
+    },
+    {
+      "id": "f152acf2-406a-4010-9a82-287fff09b60c",
+      "title": "Carbon Copy",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "carbon-copy",
+      "has_reactions": false
+    },
+    {
+      "id": "6336ab81-ef2a-4cf3-a00c-ade764231802",
+      "title": "A Soldier's Story",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-soldier-s-story",
+      "has_reactions": false
+    },
+    {
+      "id": "050e6702-ead0-4832-b189-b5d998b2b830",
+      "title": "License to Kill",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "license-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "49d0a483-5f5e-4dc3-b011-244e35d1cac8",
+      "title": "Cry Freedom",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "cry-freedom",
+      "has_reactions": false
+    },
+    {
+      "id": "08c3e161-242b-4dc9-a0d6-5d0c55a1011c",
+      "title": "The George McKenna Story",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-george-mckenna-story",
+      "has_reactions": false
+    },
+    {
+      "id": "cd455c16-41fc-46d6-8f99-026dc3c55a53",
+      "title": "For Queen & Country",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "for-queen-country",
+      "has_reactions": false
+    },
+    {
+      "id": "cce02e43-4227-409d-bcfe-5241c0dcdc30",
+      "title": "Nelson Mandela 70th Birthday Tribute",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "nelson-mandela-70th-birthday-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "345f79ca-3ce0-449e-9aa0-3db11b6c8c59",
+      "title": "Glory",
+      "release_year": 1989,
+      "studio_label": "Freddie Fields Productions",
+      "slug": "glory",
+      "has_reactions": true
+    },
+    {
+      "id": "57b10da2-1775-4e14-9173-7040a180b699",
+      "title": "The Mighty Quinn",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-mighty-quinn",
+      "has_reactions": false
+    },
+    {
+      "id": "619bebd4-8d5d-48e6-9607-b29b7238cd65",
+      "title": "Rabbit Ears - John Henry",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "rabbit-ears-john-henry",
+      "has_reactions": false
+    },
+    {
+      "id": "fac4c232-0e2d-46e1-8548-901945851043",
+      "title": "Heart Condition",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "heart-condition",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf5ec1f-2ed6-49bf-b348-8e8f821c43fa",
+      "title": "Ricochet",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "ricochet",
+      "has_reactions": false
+    },
+    {
+      "id": "ec081077-3cba-40b2-9e00-a743265c0cef",
+      "title": "Rabbit Ears - Anansi",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "rabbit-ears-anansi",
+      "has_reactions": false
+    },
+    {
+      "id": "981180b2-c860-4cc8-91ca-811810d2ac86",
+      "title": "Mississippi Masala",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mississippi-masala",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c561e9-83a8-4a21-ad0b-acf212b3ec90",
+      "title": "Malcolm X",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "malcolm-x",
+      "has_reactions": true
+    },
+    {
+      "id": "2092762f-0dfd-42d1-b313-7a45b18e54be",
+      "title": "Liberators: Fighting on Two Fronts in World War II",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "liberators-fighting-on-two-fronts-in-world-war-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "be232324-e33f-4014-b6e8-6c312288380f",
+      "title": "Jammin': Jelly Roll Morton on Broadway",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "jammin-jelly-roll-morton-on-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "671762b9-83c0-4f3f-b11c-63f619438bb9",
+      "title": "The Pelican Brief",
+      "release_year": 1993,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-pelican-brief",
+      "has_reactions": true
+    },
+    {
+      "id": "04eef7b5-2afe-4834-8333-caaa9cdfa245",
+      "title": "Philadelphia",
+      "release_year": 1993,
+      "studio_label": "TriStar Pictures",
+      "slug": "philadelphia",
+      "has_reactions": true
+    },
+    {
+      "id": "cdc8f06c-8dcd-455a-9609-54cc390b37d1",
+      "title": "Crimson Tide",
+      "release_year": 1995,
+      "studio_label": "Hollywood Pictures",
+      "slug": "crimson-tide",
+      "has_reactions": true
+    },
+    {
+      "id": "0c56b90e-4641-4f9f-9a28-732b0caa7ac0",
+      "title": "The Making of 'Crimson Tide'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-crimson-tide",
+      "has_reactions": false
+    },
+    {
+      "id": "54bbfe37-db01-4f89-a254-d2a9a1e0ba5a",
+      "title": "Devil in a Blue Dress",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "devil-in-a-blue-dress",
+      "has_reactions": false
+    },
+    {
+      "id": "16bbf190-8a9c-42a0-b604-228c770798db",
+      "title": "Courage Under Fire",
+      "release_year": 1996,
+      "studio_label": "Davis Entertainment",
+      "slug": "courage-under-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "b2beb287-7451-422c-9139-43edd2e9b64b",
+      "title": "The Preacher's Wife",
+      "release_year": 1996,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-preacher-s-wife",
+      "has_reactions": true
+    },
+    {
+      "id": "51a9ba89-6714-423e-9b8a-b1afdfb53c4f",
+      "title": "NBA at 50",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "nba-at-50",
+      "has_reactions": false
+    },
+    {
+      "id": "ad08274e-7894-4b4a-a710-69051ebe04ba",
+      "title": "Mother Goose: A Rappin' and Rhymin' Special",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mother-goose-a-rappin-and-rhymin-special",
+      "has_reactions": false
+    },
+    {
+      "id": "da8bee38-7dbf-4d1d-9972-0bbd708fafbd",
+      "title": "Fallen",
+      "release_year": 1998,
+      "studio_label": "Turner Pictures",
+      "slug": "fallen",
+      "has_reactions": true
+    },
+    {
+      "id": "25a63629-984b-43a9-ac81-c70c6ab7bfb0",
+      "title": "The Siege",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-siege",
+      "has_reactions": false
+    },
+    {
+      "id": "e329aca9-ae78-4d5f-a92b-f1ac6251d66a",
+      "title": "The Bone Collector",
+      "release_year": 1999,
+      "studio_label": "Universal Pictures",
+      "slug": "the-bone-collector",
+      "has_reactions": true
+    },
+    {
+      "id": "c2ddc0ba-45bd-4f89-b057-e09ee278125d",
+      "title": "The Hurricane",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-hurricane",
+      "has_reactions": false
+    },
+    {
+      "id": "a245e0f6-dd9d-4110-8596-bb74c8620d60",
+      "title": "Remember the Titans",
+      "release_year": 2000,
+      "studio_label": "Jerry Bruckheimer Films",
+      "slug": "remember-the-titans",
+      "has_reactions": true
+    },
+    {
+      "id": "c84820f2-5c36-4ddc-a516-ff0fcbcb20e5",
+      "title": "Straight from the Streets",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "straight-from-the-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "16f030ec-e8a6-4c0c-bf4f-5be7d0aa3f6a",
+      "title": "Training Day",
+      "release_year": 2001,
+      "studio_label": "WV Films II",
+      "slug": "training-day",
+      "has_reactions": true
+    },
+    {
+      "id": "ba8821d0-9c90-4cd5-98bf-4ac7558b1aa9",
+      "title": "John Q",
+      "release_year": 2002,
+      "studio_label": "Evolution Entertainment",
+      "slug": "john-q",
+      "has_reactions": true
+    },
+    {
+      "id": "0e84f655-b01a-4285-98cd-fbc4a37ec947",
+      "title": "Antwone Fisher",
+      "release_year": 2002,
+      "studio_label": "Mundy Lane Entertainment",
+      "slug": "antwone-fisher",
+      "has_reactions": true
+    },
+    {
+      "id": "eb940a06-7c55-47c2-a0c5-9d81597853ec",
+      "title": "Behind the Scenes of 'John Q'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "behind-the-scenes-of-john-q",
+      "has_reactions": false
+    },
+    {
+      "id": "6812092c-2c5c-4573-bc57-e92f1f1e917c",
+      "title": "Out of Time",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "out-of-time",
+      "has_reactions": false
+    },
+    {
+      "id": "255528a5-4790-446a-8973-575d473fa5d4",
+      "title": "The Manchurian Candidate",
+      "release_year": 2004,
+      "studio_label": "Clinica Estetico",
+      "slug": "the-manchurian-candidate",
+      "has_reactions": true
+    },
+    {
+      "id": "c2d40760-8733-4f6c-a874-f465219ea2ee",
+      "title": "Man on Fire",
+      "release_year": 2004,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "man-on-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "93a69579-a980-4b72-aff2-944f22833853",
+      "title": "People Like Us: Making 'Philadelphia'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "people-like-us-making-philadelphia",
+      "has_reactions": false
+    },
+    {
+      "id": "7654f479-4837-475e-b700-9998279fdb08",
+      "title": "By Any Means Necessary: The Making of 'Malcolm X'",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "by-any-means-necessary-the-making-of-malcolm-x",
+      "has_reactions": false
+    },
+    {
+      "id": "3c2d332a-5645-410f-92dc-112f9e244ea7",
+      "title": "Inside Man",
+      "release_year": 2006,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "inside-man",
+      "has_reactions": true
+    },
+    {
+      "id": "52d1d591-651c-4637-ba00-b4d597f2e50e",
+      "title": "D\u00e9j\u00e0 Vu",
+      "release_year": 2006,
+      "studio_label": "Touchstone Pictures",
+      "slug": "d-j-vu",
+      "has_reactions": true
+    },
+    {
+      "id": "25a97678-d1f7-4135-9ba1-a77e634cb1fc",
+      "title": "The Great Debaters",
+      "release_year": 2007,
+      "studio_label": "Marshall Production",
+      "slug": "the-great-debaters",
+      "has_reactions": true
+    },
+    {
+      "id": "c0fb1ac4-6596-42a8-9132-659c7cd18b11",
+      "title": "American Gangster",
+      "release_year": 2007,
+      "studio_label": "Film Rites",
+      "slug": "american-gangster",
+      "has_reactions": true
+    },
+    {
+      "id": "80df8d8d-76d4-430c-8edc-51449a0a5d81",
+      "title": "Fallen Empire: Making 'American Gangster'",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "fallen-empire-making-american-gangster",
+      "has_reactions": false
+    },
+    {
+      "id": "0d3ce9cc-626c-43ea-befd-29b4f6b5c44d",
+      "title": "The Taking of Pelham 1 2 3",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-1-2-3",
+      "has_reactions": false
+    },
+    {
+      "id": "917940cf-3592-4107-b212-068551577ce7",
+      "title": "We Are One: The Obama Inaugural Celebration at the Lincoln Memorial",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "we-are-one-the-obama-inaugural-celebration-at-the-lincoln-memorial",
+      "has_reactions": false
+    },
+    {
+      "id": "b1fa146d-218d-4cfb-8cd7-929041a75d3f",
+      "title": "The Book of Eli",
+      "release_year": 2010,
+      "studio_label": "Alcon Entertainment",
+      "slug": "the-book-of-eli",
+      "has_reactions": true
+    },
+    {
+      "id": "a2a1fcad-159e-4877-a8c3-60f198ad7926",
+      "title": "Unstoppable",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "unstoppable",
+      "has_reactions": false
+    },
+    {
+      "id": "568c04e4-f0d1-4d73-94b9-761cfa6301df",
+      "title": "Flight",
+      "release_year": 2012,
+      "studio_label": "Paramount Pictures",
+      "slug": "flight",
+      "has_reactions": true
+    },
+    {
+      "id": "1c897903-23d2-4faa-9e96-6ddd9119bf74",
+      "title": "Safe House",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "safe-house",
+      "has_reactions": false
+    },
+    {
+      "id": "d8a5a5bd-c033-45d7-a5e6-df7d4f8468cd",
+      "title": "The Equalizer",
+      "release_year": 2014,
+      "studio_label": "Lonetree Entertainment",
+      "slug": "the-equalizer",
+      "has_reactions": true
+    },
+    {
+      "id": "c9303b82-7d66-4fd1-8463-4ba546896838",
+      "title": "The Magnificent Seven",
+      "release_year": 2016,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "the-magnificent-seven",
+      "has_reactions": true
+    },
+    {
+      "id": "ad6ab519-2418-4945-9a01-c7cc2d4840bd",
+      "title": "Fences",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "fences",
+      "has_reactions": false
+    },
+    {
+      "id": "49cccf9c-63e9-4e49-b868-218a642f2755",
+      "title": "Roman J. Israel, Esq.",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "roman-j-israel-esq",
+      "has_reactions": false
+    },
+    {
+      "id": "b43c7d76-361f-4a53-9cd9-4aa76220ef2e",
+      "title": "Chasing Trane",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chasing-trane",
+      "has_reactions": false
+    },
+    {
+      "id": "626a4107-b607-4110-b472-6a880e548060",
+      "title": "The Equalizer 2",
+      "release_year": 2018,
+      "studio_label": "Lonetree Entertainment",
+      "slug": "the-equalizer-2",
+      "has_reactions": true
+    },
+    {
+      "id": "e75cba0b-1902-428a-b70b-6cd93332ee1c",
+      "title": "Denzel Washington: Reel Life",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "denzel-washington-reel-life",
+      "has_reactions": false
+    },
+    {
+      "id": "b22bc8cf-cce0-4fe0-aceb-167c88e3ab52",
+      "title": "Giving Voice",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "giving-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "36d7fd53-3603-4f64-b441-ffceeacb9bd2",
+      "title": "Chadwick Boseman: A Tribute for a King",
+      "release_year": 2020,
+      "studio_label": "ABC News",
+      "slug": "chadwick-boseman-a-tribute-for-a-king",
+      "has_reactions": false
+    },
+    {
+      "id": "845077c6-db07-444c-b335-9444c9f4f6ca",
+      "title": "The Little Things",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-little-things",
+      "has_reactions": false
+    },
+    {
+      "id": "8446af64-d3df-40a3-bded-0766a8f89cb1",
+      "title": "The Tragedy of Macbeth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-tragedy-of-macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "1b8f792c-e0bf-4baf-86e4-be6169bd9421",
+      "title": "Quentin Tarantino: From a Movie Buff to a Hollywood Legend",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "quentin-tarantino-from-a-movie-buff-to-a-hollywood-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "ee82c957-102d-41cb-9fbd-62f85060b3d5",
+      "title": "The Equalizer 3",
+      "release_year": 2023,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-equalizer-3",
+      "has_reactions": true
+    },
+    {
+      "id": "97ec9e70-8c2b-433e-bab3-b5fdde1309b8",
+      "title": "Gladiator II",
+      "release_year": 2024,
+      "studio_label": "Paramount Pictures",
+      "slug": "gladiator-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "4e8050cd-3adf-41a9-ae01-d873d9b2e95d",
+      "title": "Denzel Washington: American Icon",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "denzel-washington-american-icon",
+      "has_reactions": false
+    },
+    {
+      "id": "fdad2877-dc43-41a8-990e-1a06a094074a",
+      "title": "The Piano Lesson: Legacy and a Vision",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-piano-lesson-legacy-and-a-vision",
+      "has_reactions": false
+    },
+    {
+      "id": "d1a0da28-2aa8-45e3-919b-1c9081136540",
+      "title": "Denzel Washington: Falling Forward",
+      "release_year": 2025,
+      "studio_label": "Entertain ME",
+      "slug": "denzel-washington-falling-forward",
+      "has_reactions": false
+    },
+    {
+      "id": "b2107b07-8f17-4fc4-8dd0-95c8dd5dd062",
+      "title": "Black Panther 3",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "black-panther-3",
+      "has_reactions": false
+    }
+  ]
+}

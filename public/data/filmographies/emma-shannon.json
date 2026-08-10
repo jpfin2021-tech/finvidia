@@ -1,0 +1,48 @@
+{
+  "id": "a1f58bf9-3d4e-4008-80ee-54e7e8211a04",
+  "name": "Emma Shannon",
+  "slug": "emma-shannon",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/6N5nK4VgKHv4rKSl8nzmlgguGUH.jpg",
+  "filmography": [
+    {
+      "id": "78f5ec2f-bef0-4cb4-abc1-b13d3b5623d8",
+      "title": "Bloodmare",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bloodmare",
+      "has_reactions": false
+    },
+    {
+      "id": "82aa925e-650b-4650-99d1-6507eec08d04",
+      "title": "Finding Dory",
+      "release_year": 2016,
+      "studio_label": "Pixar",
+      "slug": "finding-dory",
+      "has_reactions": true
+    },
+    {
+      "id": "55023b66-9dda-4754-8562-821eef21d396",
+      "title": "Lemon",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "lemon",
+      "has_reactions": false
+    },
+    {
+      "id": "ab7cc6b1-4d74-4e74-a867-2fc4b1677e6d",
+      "title": "Annie: Origins",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "annie-origins",
+      "has_reactions": false
+    },
+    {
+      "id": "2c4d60fd-7b91-4371-a3be-0e45e0e6509f",
+      "title": "Klaus",
+      "release_year": 2019,
+      "studio_label": "Atresmedia",
+      "slug": "klaus",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cff3230f-009d-4b72-9430-3d77603d1855",
+  "name": "Mary Gibbs",
+  "slug": "mary-gibbs",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nqYOXIaf8ztfacrludRtS1Bytzz.jpg",
+  "filmography": [
+    {
+      "id": "0b1fd50e-b097-4197-9a7c-b37515be44a1",
+      "title": "Monsters, Inc.",
+      "release_year": 2001,
+      "studio_label": "Pixar",
+      "slug": "monsters-inc",
+      "has_reactions": true
+    },
+    {
+      "id": "3cf40c1f-3e82-47a9-88c1-ca24c7166e81",
+      "title": "Mulan II",
+      "release_year": 2004,
+      "studio_label": "DisneyToon Studios",
+      "slug": "mulan-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "95249c0c-5b3f-42ec-aaa8-c3bef25b883e",
+      "title": "Inside Out",
+      "release_year": 2015,
+      "studio_label": "Pixar",
+      "slug": "inside-out",
+      "has_reactions": true
+    }
+  ]
+}

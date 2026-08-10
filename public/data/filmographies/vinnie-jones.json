@@ -1,0 +1,624 @@
+{
+  "id": "3ea3bf67-c88b-4ca9-8ccf-b332ec36b778",
+  "name": "Vinnie Jones",
+  "slug": "vinnie-jones",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tkYWG9gY2QpoBfOh4OWNz8yQfsw.jpg",
+  "filmography": [
+    {
+      "id": "fc304ade-bec4-407a-bc41-be49bf0623ac",
+      "title": "Vinnie Jones: Great Balls of Fire",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "vinnie-jones-great-balls-of-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "3e73bba7-0506-4bcc-be76-abc08ef7c3be",
+      "title": "Leeds United's Race For The Title 1989/90",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "leeds-united-s-race-for-the-title-1989-90",
+      "has_reactions": false
+    },
+    {
+      "id": "ec9c0976-0c96-430c-b07d-2fc5a61aa76f",
+      "title": "Soccer's Hard Men",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "soccer-s-hard-men",
+      "has_reactions": false
+    },
+    {
+      "id": "b995b660-6f10-4623-bf79-9871c124e5e5",
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "release_year": 1998,
+      "studio_label": "The Steve Tisch Company",
+      "slug": "lock-stock-and-two-smoking-barrels",
+      "has_reactions": true
+    },
+    {
+      "id": "4bf87552-052e-4bd7-a28e-2ebce5e75e64",
+      "title": "It Takes Two",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "it-takes-two",
+      "has_reactions": false
+    },
+    {
+      "id": "c64873be-9783-4fc5-9afa-97ee9303d321",
+      "title": "Snatch",
+      "release_year": 2000,
+      "studio_label": "Marv",
+      "slug": "snatch",
+      "has_reactions": true
+    },
+    {
+      "id": "8c3b3568-7d3f-4770-b5af-8833e2be8e56",
+      "title": "Gone in Sixty Seconds",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "gone-in-sixty-seconds",
+      "has_reactions": true
+    },
+    {
+      "id": "76bde931-4802-4aa5-96ff-6d83d8af8801",
+      "title": "Ally McCoist's Trial and Error's",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ally-mccoist-s-trial-and-error-s",
+      "has_reactions": false
+    },
+    {
+      "id": "7c8f6cfc-ea27-4353-bc9a-a41a72cb6100",
+      "title": "Victoria's Secrets",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "victoria-s-secrets",
+      "has_reactions": false
+    },
+    {
+      "id": "615c21e1-87dc-47ba-a74f-300c6ad876c0",
+      "title": "Mean Machine",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mean-machine",
+      "has_reactions": false
+    },
+    {
+      "id": "81f7e58b-b889-42bd-bef5-3a12f0315b54",
+      "title": "Night at the Golden Eagle",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "night-at-the-golden-eagle",
+      "has_reactions": false
+    },
+    {
+      "id": "5a89a88e-9709-41eb-baab-9c8e5dd8d34b",
+      "title": "EuroTrip",
+      "release_year": 2004,
+      "studio_label": "The Montecito Picture Company",
+      "slug": "eurotrip",
+      "has_reactions": true
+    },
+    {
+      "id": "17991b43-bafe-43b1-865b-37dd740644e2",
+      "title": "Survive Style 5+",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "survive-style-5",
+      "has_reactions": false
+    },
+    {
+      "id": "78571798-15f1-4342-944a-f9c2e04f6217",
+      "title": "The Big Bounce",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-big-bounce",
+      "has_reactions": false
+    },
+    {
+      "id": "15a2563d-1cde-484e-9c82-79fa8b72bd4f",
+      "title": "Tooth",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "tooth",
+      "has_reactions": false
+    },
+    {
+      "id": "4dacb7b5-965a-482f-914a-4329808d42b2",
+      "title": "Blast",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "blast",
+      "has_reactions": false
+    },
+    {
+      "id": "4e5ad264-6a57-49bc-8a47-76320a002fb0",
+      "title": "Slipstream",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "slipstream",
+      "has_reactions": false
+    },
+    {
+      "id": "25c0a58b-9f05-4489-9124-77dc16477b94",
+      "title": "Submerged",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "submerged",
+      "has_reactions": false
+    },
+    {
+      "id": "e0b67c92-5c81-46e4-a1be-bda506bdfbb0",
+      "title": "She's the Man",
+      "release_year": 2006,
+      "studio_label": "Lakeshore Entertainment",
+      "slug": "she-s-the-man",
+      "has_reactions": true
+    },
+    {
+      "id": "898fc1aa-b375-4ef6-ad53-1235e2f4a6b6",
+      "title": "The Number One Girl",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-number-one-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "088b609f-cbc9-4619-9423-2b68b0cf68cd",
+      "title": "Johnny Was",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "johnny-was",
+      "has_reactions": false
+    },
+    {
+      "id": "655d7653-b275-48f3-9097-e27695dfd5a9",
+      "title": "The Other Half",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-other-half",
+      "has_reactions": false
+    },
+    {
+      "id": "c8b8e5b8-aac4-456f-8626-a6bacec78760",
+      "title": "X-Men: The Last Stand",
+      "release_year": 2006,
+      "studio_label": "The Donners' Company",
+      "slug": "x-men-the-last-stand",
+      "has_reactions": true
+    },
+    {
+      "id": "06705b28-c018-4030-8d86-ae272ad3e3ee",
+      "title": "The Condemned",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-condemned",
+      "has_reactions": false
+    },
+    {
+      "id": "5faf1526-584f-4666-b99f-25a2803907e4",
+      "title": "The Riddle",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-riddle",
+      "has_reactions": false
+    },
+    {
+      "id": "a7455565-e6ab-4194-ad5e-69c1c8a40729",
+      "title": "7-10 Split",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "7-10-split",
+      "has_reactions": false
+    },
+    {
+      "id": "d7ba2d90-4b5b-466f-85f7-145b6741cc51",
+      "title": "Hell Ride",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hell-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "522762b1-a5bd-40bc-ade4-654a4cc71cfc",
+      "title": "The Midnight Meat Train",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-midnight-meat-train",
+      "has_reactions": false
+    },
+    {
+      "id": "88766c42-533c-4e19-a5ca-79dff39c7ac2",
+      "title": "Loaded",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "loaded",
+      "has_reactions": false
+    },
+    {
+      "id": "39e4498d-4f0c-4e53-b1ad-cf3b4af8d1c9",
+      "title": "The Bleeding",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-bleeding",
+      "has_reactions": false
+    },
+    {
+      "id": "f1fefad9-1a6b-4587-b28f-23ef7f9dda3b",
+      "title": "Legend of the Bog",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "legend-of-the-bog",
+      "has_reactions": false
+    },
+    {
+      "id": "6d338d2e-90f7-46b2-bbb6-32d68ca333f7",
+      "title": "(Untitled)",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "untitled",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3ad9d6-c21c-4bf8-b89d-530c281729d8",
+      "title": "Year One",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "year-one",
+      "has_reactions": false
+    },
+    {
+      "id": "b087e2b6-d582-42e9-bb5b-4c83fc8f0c3c",
+      "title": "Smokin' Aces 2: Assassins' Ball",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "smokin-aces-2-assassins-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc183d9-473f-40af-ab03-0e8d5c25c5d7",
+      "title": "Locked Down",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "locked-down",
+      "has_reactions": false
+    },
+    {
+      "id": "3f3d0ab9-b8f6-4ca4-8a54-286cee3f5293",
+      "title": "The Heavy",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-heavy",
+      "has_reactions": false
+    },
+    {
+      "id": "25dffa17-c468-4045-bd19-cb85cca4eab0",
+      "title": "Not Another Not Another Movie",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "not-another-not-another-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "33a0772d-c4d8-46f4-9462-3ce1c000a327",
+      "title": "The Liquidator",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-liquidator",
+      "has_reactions": false
+    },
+    {
+      "id": "db5c493f-712f-4f36-91fd-a0348c2e6713",
+      "title": "Freelancers",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "freelancers",
+      "has_reactions": false
+    },
+    {
+      "id": "5ea1b7de-b359-4370-8daf-1f5d7b1f8fac",
+      "title": "Magic Boys",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "magic-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "1c7c42e2-5bf7-4508-93bf-34997d60b380",
+      "title": "Freddie Flintoff: The hidden side of sport",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "freddie-flintoff-the-hidden-side-of-sport",
+      "has_reactions": false
+    },
+    {
+      "id": "0dad88bb-0f51-4f55-83bd-bc55e1577734",
+      "title": "Hijacked",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hijacked",
+      "has_reactions": false
+    },
+    {
+      "id": "9febda0b-8e86-4317-8131-9d15291e0f04",
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "release_year": 2012,
+      "studio_label": "DreamWorks Animation",
+      "slug": "madagascar-3-europe-s-most-wanted",
+      "has_reactions": true
+    },
+    {
+      "id": "ecbbf4ff-307c-4474-91b2-79e6dd7dc6d2",
+      "title": "Fractured",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "fractured",
+      "has_reactions": false
+    },
+    {
+      "id": "c2cad4af-b6d9-4be0-94cd-de13c09922be",
+      "title": "Blood of Redemption",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blood-of-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "3c689e06-9669-4eb4-b261-05accefe5174",
+      "title": "Ambushed",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "ambushed",
+      "has_reactions": false
+    },
+    {
+      "id": "c2b5bb50-36c9-4318-bfc0-46431054f7d7",
+      "title": "Redirected",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "redirected",
+      "has_reactions": false
+    },
+    {
+      "id": "368d50b6-eaec-4636-90c5-856899be840c",
+      "title": "Way of the Wicked",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "way-of-the-wicked",
+      "has_reactions": false
+    },
+    {
+      "id": "9f4582a8-b77d-4c69-b297-46b25a24b840",
+      "title": "Calculator",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "calculator",
+      "has_reactions": false
+    },
+    {
+      "id": "9b37514a-4588-427d-b0d0-5c72b0bf46a9",
+      "title": "Puncture Wounds",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "puncture-wounds",
+      "has_reactions": false
+    },
+    {
+      "id": "0b0a3f28-bbff-4d37-b870-a70c4a02a7cf",
+      "title": "Throwdown",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "throwdown",
+      "has_reactions": false
+    },
+    {
+      "id": "3c6b2fe5-6f24-4d0c-8034-9124ca5be185",
+      "title": "In Security",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "in-security",
+      "has_reactions": false
+    },
+    {
+      "id": "0fb67767-3703-42dc-91a2-e58c6394556b",
+      "title": "The Crazy Gang - When Wimbledon Won The Cup",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-crazy-gang-when-wimbledon-won-the-cup",
+      "has_reactions": false
+    },
+    {
+      "id": "0ea8c757-2688-4f8c-88a5-a715ce577ecf",
+      "title": "Hypnotized",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hypnotized",
+      "has_reactions": false
+    },
+    {
+      "id": "0ceb2c0b-2e56-49e3-9d6d-1326e0f03989",
+      "title": "Absolution",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "absolution",
+      "has_reactions": false
+    },
+    {
+      "id": "f90fc938-9efe-4150-bc4f-3e0d9de63237",
+      "title": "Rivers 9",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "rivers-9",
+      "has_reactions": false
+    },
+    {
+      "id": "9eaf23c5-7f50-4602-956b-cd86cf786735",
+      "title": "Awaken",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "awaken",
+      "has_reactions": false
+    },
+    {
+      "id": "86d88db4-b4db-409f-8343-51f3820d90f6",
+      "title": "Toxin",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "toxin",
+      "has_reactions": false
+    },
+    {
+      "id": "116c454c-54bc-4930-aaea-346145162fb6",
+      "title": "Checkmate",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "checkmate",
+      "has_reactions": false
+    },
+    {
+      "id": "0b369ae0-c74d-4b6a-b480-735198c78c46",
+      "title": "Blood Trap",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "blood-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "2cad81ca-24ee-4d19-a5d4-9d63bb35a124",
+      "title": "Gascoigne",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "gascoigne",
+      "has_reactions": false
+    },
+    {
+      "id": "3610c509-e969-4335-9680-7d7fd68c6856",
+      "title": "Kill Kane",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "kill-kane",
+      "has_reactions": false
+    },
+    {
+      "id": "c92034c5-6925-46ee-b75b-7f989df3276f",
+      "title": "The Midnight Man",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-midnight-man",
+      "has_reactions": false
+    },
+    {
+      "id": "d98ce16f-a1f2-43c2-ae64-cd9e682eecea",
+      "title": "Do You Want To Win?",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "do-you-want-to-win",
+      "has_reactions": false
+    },
+    {
+      "id": "f8658815-f20e-46d5-becf-afe61e0c259c",
+      "title": "Cross Wars",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cross-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "f36f2a30-8ab6-4845-8182-62df119af038",
+      "title": "Madness in the Method",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "madness-in-the-method",
+      "has_reactions": false
+    },
+    {
+      "id": "337cf93c-ecb3-423c-a485-5cd56e975a85",
+      "title": "Cross: Rise of the Villains",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "cross-rise-of-the-villains",
+      "has_reactions": false
+    },
+    {
+      "id": "cac679fe-5512-40ae-a52a-f13bc67681ae",
+      "title": "I Am Vengeance: Retaliation",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "i-am-vengeance-retaliation",
+      "has_reactions": false
+    },
+    {
+      "id": "26406244-5902-4d21-a91a-62345cd32f8d",
+      "title": "La Desgracia de Ron Hopper",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "la-desgracia-de-ron-hopper",
+      "has_reactions": false
+    },
+    {
+      "id": "4065b70f-d759-46ef-85c3-bb94e88033ac",
+      "title": "The Big Ugly",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-big-ugly",
+      "has_reactions": false
+    },
+    {
+      "id": "9bb7f79c-fc92-4f1b-af43-f830e7b48aea",
+      "title": "Rise of the Footsoldier: Origins",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rise-of-the-footsoldier-origins",
+      "has_reactions": false
+    },
+    {
+      "id": "6ed5b9a8-6225-4ae2-b1b5-5160c2210c97",
+      "title": "The Bezonians",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-bezonians",
+      "has_reactions": false
+    },
+    {
+      "id": "23389dab-c33c-4e24-ae3a-6f7926adcfc3",
+      "title": "Bullet Proof",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bullet-proof",
+      "has_reactions": false
+    },
+    {
+      "id": "65055222-674d-49e1-bf8e-cd4f25d9df49",
+      "title": "Vinnie Jones; From Football Villain to Cult Icon",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "vinnie-jones-from-football-villain-to-cult-icon",
+      "has_reactions": false
+    },
+    {
+      "id": "085c05cb-d18a-4a37-9803-d4dc218bfe12",
+      "title": "Reckless",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "reckless",
+      "has_reactions": false
+    },
+    {
+      "id": "8f239841-f124-4654-ba73-6eabf0311f00",
+      "title": "Untold UK: Vinnie Jones",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "untold-uk-vinnie-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f1ef7d-ba21-43b1-b972-8acb87a30407",
+      "title": "Viva la Madness",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "viva-la-madness",
+      "has_reactions": false
+    }
+  ]
+}

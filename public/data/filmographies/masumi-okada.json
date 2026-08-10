@@ -1,0 +1,656 @@
+{
+  "id": "ca310541-6ed1-4cf0-b6dc-dacf66a2c882",
+  "name": "Masumi Okada",
+  "slug": "masumi-okada",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9BEjh34GZpRGwaLSGJGLqYEd6zS.jpg",
+  "filmography": [
+    {
+      "id": "dff0ccd1-6b9f-48d5-9fec-f939a0348710",
+      "title": "The Green Music Box",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-green-music-box",
+      "has_reactions": false
+    },
+    {
+      "id": "91026e2b-5cf5-4124-b313-6193f7c5bd6f",
+      "title": "Tales of Ginza",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "tales-of-ginza",
+      "has_reactions": false
+    },
+    {
+      "id": "5a915f96-ad1f-4ff0-8e1f-859bc708a82d",
+      "title": "Funny Friend: The Baby and Express",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "funny-friend-the-baby-and-express",
+      "has_reactions": false
+    },
+    {
+      "id": "335766ae-d1d2-4c6e-a9f5-39d38a5d3644",
+      "title": "Crazed Fruit",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "crazed-fruit",
+      "has_reactions": false
+    },
+    {
+      "id": "3382ee37-b71f-465f-94e7-cb484541cf85",
+      "title": "Lunar Eclipse",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "lunar-eclipse",
+      "has_reactions": false
+    },
+    {
+      "id": "9e62077d-262c-4806-ba71-e124cb8b1a52",
+      "title": "Frankie the Milkman",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "frankie-the-milkman",
+      "has_reactions": false
+    },
+    {
+      "id": "2d98b1f7-fd73-4c45-8329-03f2d6426fee",
+      "title": "Season of the Sun",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "season-of-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "7a538000-ca9f-4adf-9917-d1e5537505fb",
+      "title": "Hungry Soul, Part II",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "hungry-soul-part-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "96fc23d3-4105-4542-ac59-20eb0c0e8543",
+      "title": "Jazz on Parade (1956): The Tomboy from the Backstreets",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "jazz-on-parade-1956-the-tomboy-from-the-backstreets",
+      "has_reactions": false
+    },
+    {
+      "id": "f23aa0fc-a170-4214-a0f6-5a4d7b836ddf",
+      "title": "Man Who Causes a Storm",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "man-who-causes-a-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "bf289d26-7c35-46ac-8460-4fa2f8530d91",
+      "title": "A Sun-Tribe Myth from the Bakumatsu Era",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "a-sun-tribe-myth-from-the-bakumatsu-era",
+      "has_reactions": false
+    },
+    {
+      "id": "1a89a62f-82c5-495d-801e-c2aba3ee4031",
+      "title": "Streetlights",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "streetlights",
+      "has_reactions": false
+    },
+    {
+      "id": "09c89e5d-6cc9-470a-bef2-539b297ef8e1",
+      "title": "Madam",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "madam",
+      "has_reactions": false
+    },
+    {
+      "id": "98069719-84cd-47ed-b168-d457b84c9929",
+      "title": "Devil Flesh",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "devil-flesh",
+      "has_reactions": false
+    },
+    {
+      "id": "8b7df45a-5fb3-46df-9f1b-d9a40471b37d",
+      "title": "Dancing Sisters",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "dancing-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "9ca1b489-3a5f-4568-8516-8a48a4de2024",
+      "title": "Red Pier",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "red-pier",
+      "has_reactions": false
+    },
+    {
+      "id": "165214c4-a743-4945-be9e-cbecce8e5de0",
+      "title": "The Perfect Game",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-game",
+      "has_reactions": false
+    },
+    {
+      "id": "06776627-7c14-447d-9fed-a8a37163984a",
+      "title": "The Girl from Osaka",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-girl-from-osaka",
+      "has_reactions": false
+    },
+    {
+      "id": "2f36f949-db92-43d4-a382-cd7366f4d98b",
+      "title": "Zoku f\u00fbfu hyakkei",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "zoku-f-fu-hyakkei",
+      "has_reactions": false
+    },
+    {
+      "id": "3318f853-bc73-4be8-8f5e-1097108cc708",
+      "title": "The Man Who Wagers Tomorrow",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-wagers-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "47e3c54b-78c3-4654-a1df-a743b9176a3e",
+      "title": "Fangs of Night",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "fangs-of-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e3e07a15-10c3-4d8e-9bd7-9b40a9d7692c",
+      "title": "City Boys, City Girls",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "city-boys-city-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "5cce1257-c3a1-4cf0-b595-c68d14900222",
+      "title": "I Will Challenge",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "i-will-challenge",
+      "has_reactions": false
+    },
+    {
+      "id": "2783316f-d03f-493e-b83d-b24a30389193",
+      "title": "Crazy Jailbreak",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "crazy-jailbreak",
+      "has_reactions": false
+    },
+    {
+      "id": "bf73d166-f271-41cc-9bf3-80030a673580",
+      "title": "Adorable Flowers",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "adorable-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "28495338-680e-431f-b512-9a6075d6b67a",
+      "title": "Dynamite ni Hi o Tsukero",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "dynamite-ni-hi-o-tsukero",
+      "has_reactions": false
+    },
+    {
+      "id": "bfb4e8d1-1a1b-4046-9e3e-a871859a7b20",
+      "title": "Immoral Lecture",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "immoral-lecture",
+      "has_reactions": false
+    },
+    {
+      "id": "94b71eb2-9245-41ba-95e8-d6603bb090bf",
+      "title": "\u304a\u30e4\u30a8\u306e\u5bb6\u3064\u304d\u5973\u4e2d",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "3cc8101c-265f-4cb7-bb09-46d7d7292ecf",
+      "title": "Passport to Darkness",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "passport-to-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "2e105623-221b-4cff-ac94-07d684e03349",
+      "title": "Windy Street",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "windy-street",
+      "has_reactions": false
+    },
+    {
+      "id": "6a8ea89b-e9f2-4d6c-8cca-65e00363a594",
+      "title": "Gun Number Zero",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "gun-number-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "ff14aac6-2535-4874-b979-90d5821093aa",
+      "title": "Her Name Was Sakura",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "her-name-was-sakura",
+      "has_reactions": false
+    },
+    {
+      "id": "b9520488-f4b6-4505-8fe7-5a49f90049f5",
+      "title": "The Lovelorn Geisha",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-lovelorn-geisha",
+      "has_reactions": false
+    },
+    {
+      "id": "aae2de30-46fa-4b72-8e16-288a30c019bf",
+      "title": "The Rambler on a Pearl Farm",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-rambler-on-a-pearl-farm",
+      "has_reactions": false
+    },
+    {
+      "id": "0baf1c09-f74b-403d-bd75-d9cd7b9c94cb",
+      "title": "The World's Most Noble Guy: Taro's Rush",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-world-s-most-noble-guy-taro-s-rush",
+      "has_reactions": false
+    },
+    {
+      "id": "abe5c634-9501-43fd-bba6-8416bacc6bb8",
+      "title": "The Sand City in Manchuria",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-sand-city-in-manchuria",
+      "has_reactions": false
+    },
+    {
+      "id": "d123cd79-f4e0-41ed-8ca2-6d5706789d00",
+      "title": "Ore wa Ginza no kiheitai",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "ore-wa-ginza-no-kiheitai",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb0bb9e-c54b-42b5-adc2-0862d0557671",
+      "title": "The Guitarist and the Rancher",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-guitarist-and-the-rancher",
+      "has_reactions": false
+    },
+    {
+      "id": "475dc533-58c3-4a1a-b05b-0ac7e31b4a1b",
+      "title": "Knock Down",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "knock-down",
+      "has_reactions": false
+    },
+    {
+      "id": "ba8d45fb-14be-4907-b113-556d404058b1",
+      "title": "Pacific Porters",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "pacific-porters",
+      "has_reactions": false
+    },
+    {
+      "id": "c73da0b5-fbaf-427f-9bcd-c95a9eea93be",
+      "title": "Zokuzoku bant\u014dhan to detchidon",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "zokuzoku-bant-han-to-detchidon",
+      "has_reactions": false
+    },
+    {
+      "id": "930e934e-b166-4d00-804e-69dc5a9722de",
+      "title": "Element of Surprise",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "element-of-surprise",
+      "has_reactions": false
+    },
+    {
+      "id": "13fcc429-a76c-4bc0-8473-1bf6305340b6",
+      "title": "Kigeki: Tonkatsu ichidai",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "kigeki-tonkatsu-ichidai",
+      "has_reactions": false
+    },
+    {
+      "id": "f373192b-505f-4b8f-b5c4-5b56ae4f1994",
+      "title": "\u014ckuma Shigenobu the great",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "kuma-shigenobu-the-great",
+      "has_reactions": false
+    },
+    {
+      "id": "a666a094-7d0a-4284-8c13-4a79a775eb9d",
+      "title": "Hibari, Chiemi, Izumi: We Are Three Best Friends",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "hibari-chiemi-izumi-we-are-three-best-friends",
+      "has_reactions": false
+    },
+    {
+      "id": "f534b913-da3c-46ae-ad46-c8dbb5508b51",
+      "title": "Song of Dawn",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "song-of-dawn",
+      "has_reactions": false
+    },
+    {
+      "id": "04352c6f-2d91-4e7b-81fa-935dd7392771",
+      "title": "Love on the Rainbow",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "love-on-the-rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "7b4ce90e-5f79-4d71-aab3-685ead9ffff2",
+      "title": "My Sweetheart",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "my-sweetheart",
+      "has_reactions": false
+    },
+    {
+      "id": "8ed3afe8-7fb4-4b20-9bc3-93399c8df05c",
+      "title": "The Return of the Filthy Seven",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-the-filthy-seven",
+      "has_reactions": false
+    },
+    {
+      "id": "03c8c6f2-ff4b-46a9-96a7-484e20f630e6",
+      "title": "Living Skeleton",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "living-skeleton",
+      "has_reactions": false
+    },
+    {
+      "id": "ee367393-050e-43c4-82ec-f7b4f3aff635",
+      "title": "The Blazing Continent",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-blazing-continent",
+      "has_reactions": false
+    },
+    {
+      "id": "60e466e4-ed36-43fe-ab6a-5aed10e40720",
+      "title": "Latitude Zero",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "latitude-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "92eba6a0-a1ab-4197-853a-31654c0b8d82",
+      "title": "Daring Girls",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "daring-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "6f459d46-aee4-437d-a433-8a8ed76778ba",
+      "title": "New Prison Walls of Abashiri: Stray Wolf in Snow",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "new-prison-walls-of-abashiri-stray-wolf-in-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "a82b0aa4-84c9-4431-9917-82415ebaf714",
+      "title": "Woman His Prey",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "woman-his-prey",
+      "has_reactions": false
+    },
+    {
+      "id": "c9869a68-3abb-4d87-adc1-fe7d2390a8c4",
+      "title": "Marco",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "marco",
+      "has_reactions": false
+    },
+    {
+      "id": "35de8fc3-e828-446c-9a1f-d60e37ab0ae3",
+      "title": "A Tale of Sorrow and Sadness",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "a-tale-of-sorrow-and-sadness",
+      "has_reactions": false
+    },
+    {
+      "id": "7bcec390-3b79-4005-aecd-fcb24563146a",
+      "title": "Winter's Flower",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "winter-s-flower",
+      "has_reactions": false
+    },
+    {
+      "id": "e3f94ac2-1586-482b-8f50-296685d8ff6d",
+      "title": "Vampire Dracula appears in Kobe",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "vampire-dracula-appears-in-kobe",
+      "has_reactions": false
+    },
+    {
+      "id": "b4966374-a533-4a93-89a9-fca569e53cbf",
+      "title": "Four Seasons: Natsuko",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "four-seasons-natsuko",
+      "has_reactions": false
+    },
+    {
+      "id": "d7776db6-170c-4dcf-a660-fab0c3874bd4",
+      "title": "Tomorrow's Joe 2: The Movie",
+      "release_year": 1981,
+      "studio_label": "SANKYO",
+      "slug": "tomorrow-s-joe-2-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "07dc5c16-aa8d-41e1-bc07-bb4bc0a6f235",
+      "title": "On the Road",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "on-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "0e88e128-dd0a-4396-8e06-407a0e29392a",
+      "title": "The Key",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-key",
+      "has_reactions": false
+    },
+    {
+      "id": "b2f0b082-8622-451d-a231-628526b46fb9",
+      "title": "Sayonara Jupiter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "sayonara-jupiter",
+      "has_reactions": false
+    },
+    {
+      "id": "3a4c9d1b-537f-4e3d-bb1f-dfb9e6469ab9",
+      "title": "Yakyuukyou no Uta",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "yakyuukyou-no-uta",
+      "has_reactions": false
+    },
+    {
+      "id": "1650a2a6-a48d-4a12-9a07-2a0172222f83",
+      "title": "Akagawa Jiro's Vampire is Coming of Age",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "akagawa-jiro-s-vampire-is-coming-of-age",
+      "has_reactions": false
+    },
+    {
+      "id": "f6197f77-6a70-45c0-ab6f-0095d7e986c1",
+      "title": "\u7f8e\u4eba\u6bcd\u5a18\uff13\u4eba\u3000\u3042\u3042\u83ef\u9e97\u306a\u308b\u7d50\u5a5a\u30b5\u30ae",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "1e07a52b-7c59-426c-95d8-20d727747dc6",
+      "title": "Goryokaku",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "goryokaku",
+      "has_reactions": false
+    },
+    {
+      "id": "45cf74ba-a419-4074-9295-f91d582ce448",
+      "title": "Umi e, See You",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "umi-e-see-you",
+      "has_reactions": false
+    },
+    {
+      "id": "7a9ec69a-1df1-40ce-8fce-949adaac7a2a",
+      "title": "Kaito Ruby",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "kaito-ruby",
+      "has_reactions": false
+    },
+    {
+      "id": "50418cbc-3f93-419b-9bab-82392cc9bdfb",
+      "title": "cf Girl",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "cf-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "be4f102c-f27a-4d13-9aa6-9737f05b7ac7",
+      "title": "The Devil's Messenger DEATH MESSENGER",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-devil-s-messenger-death-messenger",
+      "has_reactions": false
+    },
+    {
+      "id": "4a7c7ce9-8d16-4549-b4f4-57a28d83cc14",
+      "title": "Jingi",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "jingi",
+      "has_reactions": false
+    },
+    {
+      "id": "5b0cb235-be8d-4550-9ed4-2bd0608cf56d",
+      "title": "Sometime, Somewhere",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "sometime-somewhere",
+      "has_reactions": false
+    },
+    {
+      "id": "a5ed3945-ff48-4ec0-9f44-790e3a5522e6",
+      "title": "Getting Any?",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "getting-any",
+      "has_reactions": false
+    },
+    {
+      "id": "88d0d8a0-b355-4ad5-ba06-c1adabcde8bd",
+      "title": "The Hunted",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-hunted",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8c8d99-a36f-4b2e-998b-91f39249efe3",
+      "title": "To Love",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "to-love",
+      "has_reactions": false
+    },
+    {
+      "id": "8e310121-6c2f-4387-8f0b-ef5df0edeee8",
+      "title": "Hakuchi: The Innocent",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "hakuchi-the-innocent",
+      "has_reactions": false
+    },
+    {
+      "id": "df37618f-8bc2-4fbb-bcc1-8afe7b3767f6",
+      "title": "Fan of Hong Kong star",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "fan-of-hong-kong-star",
+      "has_reactions": false
+    },
+    {
+      "id": "5cbb0a2d-0944-4ac0-a965-b8267bef56f1",
+      "title": "Waru: The End",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "waru-the-end",
+      "has_reactions": false
+    },
+    {
+      "id": "40c6b908-7319-4fe3-a049-9eb49085aba2",
+      "title": "Trick Haha no Izumi Hen Cho Kanzen Ban",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "trick-haha-no-izumi-hen-cho-kanzen-ban",
+      "has_reactions": false
+    }
+  ]
+}

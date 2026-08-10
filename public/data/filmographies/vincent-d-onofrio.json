@@ -1,0 +1,664 @@
+{
+  "id": "674ffa51-a75c-40b2-aded-a6495faef90d",
+  "name": "Vincent D'Onofrio",
+  "slug": "vincent-d-onofrio",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg",
+  "filmography": [
+    {
+      "id": "2ecb8316-e27b-4ca8-9007-5d3535f12309",
+      "title": "The First Turn-On!!",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-first-turn-on",
+      "has_reactions": false
+    },
+    {
+      "id": "6c307cab-ee8d-4a04-86d3-afb44b468d48",
+      "title": "It Don't Pay to Be an Honest Citizen",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "it-don-t-pay-to-be-an-honest-citizen",
+      "has_reactions": false
+    },
+    {
+      "id": "9a6b89ea-b268-462a-85ce-b0dbbcddc1f8",
+      "title": "Full Metal Jacket",
+      "release_year": 1987,
+      "studio_label": "Natant",
+      "slug": "full-metal-jacket",
+      "has_reactions": true
+    },
+    {
+      "id": "72e0bd86-f08d-496a-b886-ce7d42f8220a",
+      "title": "Adventures in Babysitting",
+      "release_year": 1987,
+      "studio_label": "Silver Screen Partners III",
+      "slug": "adventures-in-babysitting",
+      "has_reactions": true
+    },
+    {
+      "id": "09877c36-8798-46aa-888d-8b9d581186fd",
+      "title": "Signs of Life",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "signs-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "f99e1567-6050-4a89-86dd-d8f61979a8b3",
+      "title": "The Blood of Heroes",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-blood-of-heroes",
+      "has_reactions": false
+    },
+    {
+      "id": "2a0cad90-cf20-4d09-90ac-53de4e30e864",
+      "title": "Naked Tango",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "naked-tango",
+      "has_reactions": false
+    },
+    {
+      "id": "34d57abc-dc17-4516-a82f-e1a49ba5fe8e",
+      "title": "JFK",
+      "release_year": 1991,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "jfk",
+      "has_reactions": true
+    },
+    {
+      "id": "fb08fdf0-30a4-4ff7-9273-6befe526da2b",
+      "title": "Dying Young",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dying-young",
+      "has_reactions": false
+    },
+    {
+      "id": "f100dcc1-f453-4edd-b23c-013567196955",
+      "title": "Crooked Hearts",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "crooked-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "a387e069-465a-429e-9ccc-b91b8e7a53b7",
+      "title": "Fires Within",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "fires-within",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "a39db6ef-5423-4191-a01a-51352f51dc5e",
+      "title": "Salt on Our Skin",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "salt-on-our-skin",
+      "has_reactions": false
+    },
+    {
+      "id": "de67ac1e-7565-4722-9faa-da0f4c8d4457",
+      "title": "Mr. Wonderful",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "mr-wonderful",
+      "has_reactions": false
+    },
+    {
+      "id": "4f4a0ceb-ea65-4631-a085-e8ca783ce58a",
+      "title": "Household Saints",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "household-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "ea44b975-cf4f-48ac-8a9e-e6fcda52de6c",
+      "title": "Ed Wood",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "ed-wood",
+      "has_reactions": false
+    },
+    {
+      "id": "802c40a0-febb-4875-847c-7bbc75c5554e",
+      "title": "The Investigator",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-investigator",
+      "has_reactions": false
+    },
+    {
+      "id": "4cb3628c-ecff-4012-909d-74a77690545a",
+      "title": "Being Human",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "being-human",
+      "has_reactions": false
+    },
+    {
+      "id": "480f19ff-544f-41e4-b22e-192ff4f1ea35",
+      "title": "Nunzio's Second Cousin",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "nunzio-s-second-cousin",
+      "has_reactions": false
+    },
+    {
+      "id": "e2cc667c-059e-417e-9039-429fd4e499dd",
+      "title": "Stuart Saves His Family",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "stuart-saves-his-family",
+      "has_reactions": false
+    },
+    {
+      "id": "e60aa8b2-0c98-4c2c-842d-58ff3e8a8f67",
+      "title": "Strange Days",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "strange-days",
+      "has_reactions": false
+    },
+    {
+      "id": "2a0eb810-01f4-4933-8e56-f0b918e9cc0e",
+      "title": "Hotel Paradise",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "hotel-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "87c0ddd1-b488-41dc-8a66-a6e079135263",
+      "title": "The Whole Wide World",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-whole-wide-world",
+      "has_reactions": false
+    },
+    {
+      "id": "60c889dc-0e0e-4203-bd33-9cfcd53e24c8",
+      "title": "The Winner",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-winner",
+      "has_reactions": false
+    },
+    {
+      "id": "d9815f84-b5b5-4a51-8308-85a8d8ca1ba2",
+      "title": "Feeling Minnesota",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "feeling-minnesota",
+      "has_reactions": false
+    },
+    {
+      "id": "d3ffe1fd-5c15-4561-9470-c323e4ce2e51",
+      "title": "Men in Black",
+      "release_year": 1997,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black",
+      "has_reactions": true
+    },
+    {
+      "id": "ce94741e-50ec-450c-9540-1cec0b65c697",
+      "title": "Boys Life 2",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "boys-life-2",
+      "has_reactions": false
+    },
+    {
+      "id": "5b92847f-ab1c-46fe-9c36-ccae8e795305",
+      "title": "Good Luck",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "good-luck",
+      "has_reactions": false
+    },
+    {
+      "id": "98884a70-5b80-4a34-9f73-0ed5e6675b93",
+      "title": "Guy",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "guy",
+      "has_reactions": false
+    },
+    {
+      "id": "e87491b1-d115-4edb-9ff2-4ba680cfb664",
+      "title": "Claire Dolan",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "claire-dolan",
+      "has_reactions": false
+    },
+    {
+      "id": "5ded4d07-01b3-41b8-a346-b13577466142",
+      "title": "The Taking of Pelham One Two Three",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-taking-of-pelham-one-two-three",
+      "has_reactions": false
+    },
+    {
+      "id": "d6ff90e0-2458-402c-8430-bdd4c462d9e1",
+      "title": "That Championship Season",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "that-championship-season",
+      "has_reactions": false
+    },
+    {
+      "id": "a7920bcd-8dbe-44bb-9d71-008bed1e7333",
+      "title": "The Velocity of Gary",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-velocity-of-gary",
+      "has_reactions": false
+    },
+    {
+      "id": "c4800e9b-cb20-4469-b6f7-b69859f0257d",
+      "title": "The Cell",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-cell",
+      "has_reactions": false
+    },
+    {
+      "id": "1f91fb96-595e-4dcd-b7f3-f739d29e4b51",
+      "title": "Spanish Judges",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "spanish-judges",
+      "has_reactions": false
+    },
+    {
+      "id": "c5efacc8-556c-428e-8439-3179b423383a",
+      "title": "Happy Accidents",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "happy-accidents",
+      "has_reactions": false
+    },
+    {
+      "id": "9123ea5d-611f-4fef-9a22-3c5528dbd057",
+      "title": "Steal This Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "steal-this-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "d570f51c-6c4c-4f3e-915f-eca9b00a68de",
+      "title": "Chelsea Walls",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "chelsea-walls",
+      "has_reactions": false
+    },
+    {
+      "id": "a9dcf6d8-9d8f-4291-a383-5ed3f0938cda",
+      "title": "The Red Sneakers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-red-sneakers",
+      "has_reactions": false
+    },
+    {
+      "id": "c1ab719e-e4af-49a2-ae57-719800e63526",
+      "title": "Sherlock: Case of Evil",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sherlock-case-of-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "4ed7f240-696b-473f-a90b-c69aae699d95",
+      "title": "Bark!",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "bark",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b72479-324e-4c81-ade7-e2b9d6c83b1a",
+      "title": "Overnight",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "overnight",
+      "has_reactions": false
+    },
+    {
+      "id": "7527b07f-d0e2-4edb-83ab-9960c8e93dab",
+      "title": "Thumbsucker",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "thumbsucker",
+      "has_reactions": false
+    },
+    {
+      "id": "a013908b-db82-439c-bdcf-c1f7ce02644d",
+      "title": "Five Minutes, Mr. Welles",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "five-minutes-mr-welles",
+      "has_reactions": false
+    },
+    {
+      "id": "1d60298b-700f-4531-92e1-4888669e4eb0",
+      "title": "Thumbsucker - Behind the Scenes",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "thumbsucker-behind-the-scenes",
+      "has_reactions": false
+    },
+    {
+      "id": "e00c25f4-e68f-4278-9505-13469ecbb741",
+      "title": "Full Metal Jacket: Between Good and Evil",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "full-metal-jacket-between-good-and-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "f2b90bef-75ac-4ab2-80fc-64210c5d34ed",
+      "title": "The Narrows",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-narrows",
+      "has_reactions": false
+    },
+    {
+      "id": "a0808f74-40d8-470a-8bb9-aa5f389e6604",
+      "title": "Cadillac Records",
+      "release_year": 2008,
+      "studio_label": "Parkwood Entertainment",
+      "slug": "cadillac-records",
+      "has_reactions": true
+    },
+    {
+      "id": "a6d3557c-94ff-4838-bebb-b10bc5bd3a1a",
+      "title": "Staten Island",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "staten-island",
+      "has_reactions": false
+    },
+    {
+      "id": "8f49455e-e59d-424e-b42d-f57172cb1286",
+      "title": "The New Tenants",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-new-tenants",
+      "has_reactions": false
+    },
+    {
+      "id": "f7d09218-73c6-438c-80c6-ddf46c57aa77",
+      "title": "Boys On Film: Bad Romance",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "boys-on-film-bad-romance",
+      "has_reactions": false
+    },
+    {
+      "id": "b9295656-863e-4cb4-9c81-976a46d384d3",
+      "title": "Sinister",
+      "release_year": 2012,
+      "studio_label": "Automatik Entertainment",
+      "slug": "sinister",
+      "has_reactions": true
+    },
+    {
+      "id": "214e9b91-274f-4f4b-bc10-7188c34d0fe2",
+      "title": "Chained",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "chained",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b51a25-b035-46e1-94b2-a71f7704bcbd",
+      "title": "Heroes Behind the Badge",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "heroes-behind-the-badge",
+      "has_reactions": false
+    },
+    {
+      "id": "c2b15f00-2a06-4500-8a55-22e883685316",
+      "title": "Ass Backwards",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "ass-backwards",
+      "has_reactions": false
+    },
+    {
+      "id": "9936ed8e-78fc-4476-8815-050cf5557da8",
+      "title": "Pawn Shop Chronicles",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "pawn-shop-chronicles",
+      "has_reactions": false
+    },
+    {
+      "id": "55f4fcfd-7810-44ba-91c2-5472690c7a6c",
+      "title": "Heroes Behind The Badge: Sacrifice & Survival",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "heroes-behind-the-badge-sacrifice-survival",
+      "has_reactions": false
+    },
+    {
+      "id": "5e2072a5-e1cd-4192-83fe-750785bb4530",
+      "title": "Mall",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "mall",
+      "has_reactions": false
+    },
+    {
+      "id": "fd3a29ec-10cc-46cd-9105-31b93891f4b9",
+      "title": "Kubrick Remembered",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kubrick-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "02dd3932-2e74-4bac-963b-d619a471fe64",
+      "title": "Jurassic World",
+      "release_year": 2015,
+      "studio_label": "Amblin Entertainment",
+      "slug": "jurassic-world",
+      "has_reactions": true
+    },
+    {
+      "id": "5070d18c-e082-4467-8075-dfb8ca132136",
+      "title": "Broken Horses",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "broken-horses",
+      "has_reactions": false
+    },
+    {
+      "id": "8e3836c1-8514-4c0c-a590-ede0bfb99f96",
+      "title": "Run All Night",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "run-all-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c9303b82-7d66-4fd1-8463-4ba546896838",
+      "title": "The Magnificent Seven",
+      "release_year": 2016,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "the-magnificent-seven",
+      "has_reactions": true
+    },
+    {
+      "id": "575bd0e8-98ba-45de-b9c5-43545fc6c98d",
+      "title": "Pel\u00e9: Birth of a Legend",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "pel-birth-of-a-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "9429db11-fd12-4f24-a245-4d7b5e8e0c59",
+      "title": "In Dubious Battle",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "in-dubious-battle",
+      "has_reactions": false
+    },
+    {
+      "id": "dace47f8-77f0-487a-adcd-d3648b3392b1",
+      "title": "Tenn",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tenn",
+      "has_reactions": false
+    },
+    {
+      "id": "d871828a-a415-42b7-bbe5-93c8405023b5",
+      "title": "CHiPs",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chips",
+      "has_reactions": false
+    },
+    {
+      "id": "d2129745-8207-4998-9f9a-2edbc5f990b2",
+      "title": "El Camino Christmas",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "el-camino-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "9eb77a02-0013-4dbd-8749-0b9e9f6b79e7",
+      "title": "Citizen Jane: Battle for the City",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "citizen-jane-battle-for-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "7301af41-228a-4979-bba1-898ca837e862",
+      "title": "Night of Too Many Stars: America Unites for Autism Programs",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "night-of-too-many-stars-america-unites-for-autism-programs",
+      "has_reactions": false
+    },
+    {
+      "id": "405510bf-7b45-4ebd-9d19-e6347b97380e",
+      "title": "Rings",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "rings",
+      "has_reactions": false
+    },
+    {
+      "id": "adb8c2a6-6580-41d5-942f-0c3581ce4cfe",
+      "title": "Death Wish",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "death-wish",
+      "has_reactions": false
+    },
+    {
+      "id": "fbe4341d-a1c6-4a1b-953d-3fa5d35b24d9",
+      "title": "The Kid",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "40a5aef1-8739-445a-abfe-f7f24127cf10",
+      "title": "The Eyes of Tammy Faye",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-eyes-of-tammy-faye",
+      "has_reactions": false
+    },
+    {
+      "id": "2efe4c30-b52e-4cba-97e0-1be34859eef3",
+      "title": "The Unforgivable",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-unforgivable",
+      "has_reactions": false
+    },
+    {
+      "id": "9448076d-2b87-4ac7-9ae7-967e31039d9c",
+      "title": "Night of the Cooters",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-cooters",
+      "has_reactions": false
+    },
+    {
+      "id": "ed04e072-a973-4a34-9ada-9635cc542866",
+      "title": "Lift",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lift",
+      "has_reactions": false
+    },
+    {
+      "id": "b5919d4e-351d-472e-8bf6-061dd97a9803",
+      "title": "Wildcat",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "wildcat",
+      "has_reactions": false
+    },
+    {
+      "id": "dd5a4703-b6ee-41ae-8b1b-c924f3d2dc21",
+      "title": "Like Tears in Rain",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "like-tears-in-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "deefb1ed-f6c1-4129-b14b-6143dbebce48",
+      "title": "Marvel Studios Assembled: The Making of Echo",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "marvel-studios-assembled-the-making-of-echo",
+      "has_reactions": false
+    },
+    {
+      "id": "8a7f7b68-4b9f-496b-aed5-7faa4f635578",
+      "title": "The Many Miracles of Household Saints",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-many-miracles-of-household-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "c2e7e9ee-f5fa-48cd-9fb0-3629b5c6cc29",
+      "title": "Caught Stealing",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "caught-stealing",
+      "has_reactions": false
+    }
+  ]
+}

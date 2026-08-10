@@ -1,0 +1,536 @@
+{
+  "id": "e43f9315-cee8-47b6-a2dd-ab3297cee391",
+  "name": "Glenn Close",
+  "slug": "glenn-close",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg",
+  "filmography": [
+    {
+      "id": "e25f3a60-48a2-47c5-91c1-a89ef2efcb2d",
+      "title": "Encore",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "encore",
+      "has_reactions": false
+    },
+    {
+      "id": "a3b9afb8-1c16-4033-8a82-6f6a8f2b01e6",
+      "title": "Too Far to Go",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "too-far-to-go",
+      "has_reactions": false
+    },
+    {
+      "id": "40dc72f6-6019-4107-97ff-de3782d86356",
+      "title": "The World According to Garp",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-world-according-to-garp",
+      "has_reactions": false
+    },
+    {
+      "id": "f8055648-0b5c-4b5c-b660-ef6802ed5f55",
+      "title": "The Natural",
+      "release_year": 1984,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-natural",
+      "has_reactions": true
+    },
+    {
+      "id": "ccac4228-c519-45c6-a0f1-ad5b090df6f3",
+      "title": "Something About Amelia",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "something-about-amelia",
+      "has_reactions": false
+    },
+    {
+      "id": "98353bd3-c9e2-42d2-ae1e-d3918329de0d",
+      "title": "Jagged Edge",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "jagged-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f508f3-3611-4661-bc3a-cba23bea043f",
+      "title": "Maxie",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "maxie",
+      "has_reactions": false
+    },
+    {
+      "id": "833c507d-4d93-405a-bda9-a49c1c662e28",
+      "title": "Fatal Attraction",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "fatal-attraction",
+      "has_reactions": false
+    },
+    {
+      "id": "5bb40d4f-a745-4d85-be5c-8ce49d31b4a0",
+      "title": "The Legend of Sleepy Hollow",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-sleepy-hollow",
+      "has_reactions": false
+    },
+    {
+      "id": "d6841487-a1ce-4eea-a915-925c1f1be319",
+      "title": "Immediate Family",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "immediate-family",
+      "has_reactions": false
+    },
+    {
+      "id": "65126de7-d120-41a8-ba00-3763ec906520",
+      "title": "Saturday Night Live: 15th Anniversary",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-15th-anniversary",
+      "has_reactions": false
+    },
+    {
+      "id": "d479bdc7-293f-43c0-bf7d-14677e69ff4e",
+      "title": "The Divine Garbo",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-divine-garbo",
+      "has_reactions": false
+    },
+    {
+      "id": "e66bdf32-94e4-4f85-b5bf-5af97cdcd3db",
+      "title": "Reversal of Fortune",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "reversal-of-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "eca7c9a6-c5d7-45ed-971e-07229ea62d7f",
+      "title": "Hook",
+      "release_year": 1991,
+      "studio_label": "Amblin Entertainment",
+      "slug": "hook",
+      "has_reactions": true
+    },
+    {
+      "id": "bfb26e2c-41c2-4e2a-8417-bab7721d07b4",
+      "title": "Sarah, Plain and Tall",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "sarah-plain-and-tall",
+      "has_reactions": false
+    },
+    {
+      "id": "29f5472a-116f-4a9b-abb8-651eb8fad952",
+      "title": "Meeting Venus",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "meeting-venus",
+      "has_reactions": false
+    },
+    {
+      "id": "1a218380-96ca-47e4-bec2-619b4561cafa",
+      "title": "Sondheim: A Celebration at Carnegie Hall",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "sondheim-a-celebration-at-carnegie-hall",
+      "has_reactions": false
+    },
+    {
+      "id": "a452678b-7686-4e42-8727-95286c3a716f",
+      "title": "The House of the Spirits",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-house-of-the-spirits",
+      "has_reactions": false
+    },
+    {
+      "id": "9b7399af-0421-4a7c-ba21-6899797a0e93",
+      "title": "Skylark",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "skylark",
+      "has_reactions": false
+    },
+    {
+      "id": "a168854b-fdd5-4a9e-89f5-f38db2a433f1",
+      "title": "Anne Frank Remembered",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "anne-frank-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "3c9bf078-54b4-4857-b2a7-5a7bd8020db6",
+      "title": "Mars Attacks!",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mars-attacks",
+      "has_reactions": true
+    },
+    {
+      "id": "4dbaf93d-6ec2-4933-b674-73b1131de4b7",
+      "title": "Mary Reilly",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mary-reilly",
+      "has_reactions": false
+    },
+    {
+      "id": "3ceb38db-4225-419e-82f7-c7cd0feb6267",
+      "title": "101 Dalmatians",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "101-dalmatians",
+      "has_reactions": false
+    },
+    {
+      "id": "3e06ce5b-825e-4f72-beba-a431bbdcfee2",
+      "title": "The Good, The Bad, and the Beautiful",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-good-the-bad-and-the-beautiful",
+      "has_reactions": false
+    },
+    {
+      "id": "eb1df3f8-438a-43c8-8af7-97afd80c4120",
+      "title": "Air Force One",
+      "release_year": 1997,
+      "studio_label": "Radiant Productions",
+      "slug": "air-force-one",
+      "has_reactions": true
+    },
+    {
+      "id": "d5b2f744-efc6-4b9b-87a0-4bcf074dfd3c",
+      "title": "In the Gloaming",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-the-gloaming",
+      "has_reactions": false
+    },
+    {
+      "id": "f8cd2d92-6928-46a3-84b5-fca9263dd647",
+      "title": "In & Out",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-out",
+      "has_reactions": false
+    },
+    {
+      "id": "4e971c39-5d79-4e67-b0f5-7d9cd0bd573f",
+      "title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "andrew-lloyd-webber-the-royal-albert-hall-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "99ca7bda-d539-40fd-b967-776761b8c1f8",
+      "title": "Tarzan",
+      "release_year": 1999,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "tarzan",
+      "has_reactions": false
+    },
+    {
+      "id": "81a56b6e-f963-4469-804b-b42d35eb71cb",
+      "title": "Cookie's Fortune",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "cookie-s-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "1900ce86-e253-4da1-aa39-26cec53a5f56",
+      "title": "The Lady with the Torch",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-lady-with-the-torch",
+      "has_reactions": false
+    },
+    {
+      "id": "172ca32a-8cd8-4127-8fc0-7b8df0c7ebf4",
+      "title": "SNL: The Best of Adam Sandler",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "snl-the-best-of-adam-sandler",
+      "has_reactions": false
+    },
+    {
+      "id": "edea4551-3b67-4c7c-a355-d492264c5f31",
+      "title": "The Big Chill: A Reunion",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-big-chill-a-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "9c867aaa-f701-4a49-848c-8ca3d1c580b3",
+      "title": "Sarah, Plain and Tall: Winter's End",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "sarah-plain-and-tall-winter-s-end",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6ad878-4f7a-4583-a416-32783423642e",
+      "title": "102 Dalmatians",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "102-dalmatians",
+      "has_reactions": false
+    },
+    {
+      "id": "c12c4241-3278-435b-90a2-f986714473e8",
+      "title": "The Ballad of Lucy Whipple",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-lucy-whipple",
+      "has_reactions": false
+    },
+    {
+      "id": "087349c9-b265-4f48-ac2d-a9022cd895f9",
+      "title": "South Pacific",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "south-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "755eeb72-fa08-4280-8b23-b30112421aae",
+      "title": "Le Divorce",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "le-divorce",
+      "has_reactions": false
+    },
+    {
+      "id": "66f53475-7154-46ad-8e20-3d5b944d41e8",
+      "title": "In Search of the Jaguar",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "in-search-of-the-jaguar",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b1fd7b-7e2c-4207-ae1a-0b9bba650577",
+      "title": "Brush with Fate",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "brush-with-fate",
+      "has_reactions": false
+    },
+    {
+      "id": "113f13cc-2e3d-49b6-9daa-53c4c4c6579b",
+      "title": "Strip Search",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "strip-search",
+      "has_reactions": false
+    },
+    {
+      "id": "569ac6a1-81e9-499a-b4f4-8ac4ee12816c",
+      "title": "Hoodwinked!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hoodwinked",
+      "has_reactions": false
+    },
+    {
+      "id": "6930c6af-f30b-43b2-9c66-ce9f41572f86",
+      "title": "The Chumscrubber",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-chumscrubber",
+      "has_reactions": false
+    },
+    {
+      "id": "5f62cbe0-0a9e-43af-b412-0b20a73b1173",
+      "title": "Tarzan II",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "tarzan-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "69ed8956-1590-420b-ac63-33e33b49afe7",
+      "title": "Peter Matthiessen: No Boundaries",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "peter-matthiessen-no-boundaries",
+      "has_reactions": false
+    },
+    {
+      "id": "96f4f060-6764-471f-b7cf-0e681db509a8",
+      "title": "Hoodwinked Too! Hood VS. Evil",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hoodwinked-too-hood-vs-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "a04a488b-8972-4e27-a9c8-15fe733ecbd4",
+      "title": "Albert Nobbs",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "albert-nobbs",
+      "has_reactions": false
+    },
+    {
+      "id": "87305936-eac8-4009-bd02-a25e91abc6c6",
+      "title": "Discovering Hamlet",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "discovering-hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "502c6201-7b18-468b-81b6-e1eea4fcfeff",
+      "title": "5 to 7",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "5-to-7",
+      "has_reactions": false
+    },
+    {
+      "id": "4d4aba97-370e-4164-809b-ac4ac917d639",
+      "title": "Guardians of the Galaxy",
+      "release_year": 2014,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy",
+      "has_reactions": true
+    },
+    {
+      "id": "f8fc68b9-cfba-49ff-8897-ab5d9d6231ab",
+      "title": "Warcraft",
+      "release_year": 2016,
+      "studio_label": "Legendary Pictures",
+      "slug": "warcraft",
+      "has_reactions": true
+    },
+    {
+      "id": "400efd25-ebcd-4a05-b3fc-c1b841b44cd2",
+      "title": "The Girl with All the Gifts",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-girl-with-all-the-gifts",
+      "has_reactions": false
+    },
+    {
+      "id": "f979ce3f-e143-410d-8216-03ee7935d761",
+      "title": "The Wilde Wedding",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-wilde-wedding",
+      "has_reactions": false
+    },
+    {
+      "id": "fb01df76-a9c4-4b0f-9f46-856da8e10f5d",
+      "title": "The Wife",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "d8d9544c-7d3e-4164-adcd-2a9dbda60de7",
+      "title": "Father Figures",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "father-figures",
+      "has_reactions": false
+    },
+    {
+      "id": "cab9e318-af0a-48fa-b0a1-1864522d4768",
+      "title": "What Happened to Monday",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "what-happened-to-monday",
+      "has_reactions": false
+    },
+    {
+      "id": "e41fc503-009e-4ca7-83d6-857dd58b2a77",
+      "title": "Andrew Lloyd Webber: Tribute to a Superstar",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "andrew-lloyd-webber-tribute-to-a-superstar",
+      "has_reactions": false
+    },
+    {
+      "id": "a44b39e6-f3f8-4a3d-8216-839f7e4332d3",
+      "title": "Let's Dance",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "let-s-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "98cd1cdd-8fb6-4c04-9cbd-60c94c479748",
+      "title": "Baba Yaga",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "baba-yaga",
+      "has_reactions": false
+    },
+    {
+      "id": "a136f616-693b-4133-b290-4c193fda45ba",
+      "title": "Heart of Stone",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "heart-of-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "7831f802-245f-4e8d-b2a9-c699d5566c7c",
+      "title": "Super/Man: The Christopher Reeve Story",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "super-man-the-christopher-reeve-story",
+      "has_reactions": false
+    },
+    {
+      "id": "d076ade5-0113-4fb1-942f-17065e166579",
+      "title": "A Look Through His Lens",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "a-look-through-his-lens",
+      "has_reactions": false
+    },
+    {
+      "id": "5cc855c3-f0c3-4352-8f37-0af5e7c55ac1",
+      "title": "The Deliverance",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-deliverance",
+      "has_reactions": false
+    },
+    {
+      "id": "8983bc4d-430f-4c98-b67a-015f0cd15de1",
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "release_year": 2025,
+      "studio_label": "T-Street",
+      "slug": "wake-up-dead-man-a-knives-out-mystery",
+      "has_reactions": true
+    },
+    {
+      "id": "a28a81bb-9d77-431a-8438-eba53cb5fc21",
+      "title": "The Summer Book",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-summer-book",
+      "has_reactions": false
+    },
+    {
+      "id": "ad7151ce-225b-485e-b406-f11252695698",
+      "title": "Back in Action",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "back-in-action",
+      "has_reactions": false
+    }
+  ]
+}

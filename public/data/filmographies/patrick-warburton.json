@@ -1,0 +1,616 @@
+{
+  "id": "47883200-9b53-4cb7-a15f-eb5452de3974",
+  "name": "Patrick Warburton",
+  "slug": "patrick-warburton",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eLqDtbFYmlTxov9vT9Dwldn839v.jpg",
+  "filmography": [
+    {
+      "id": "053ad736-969f-44f1-8d04-40029d447a84",
+      "title": "The Unearthly",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-unearthly",
+      "has_reactions": false
+    },
+    {
+      "id": "6fdbf499-f0f7-4443-bafb-9fa28326a963",
+      "title": "New York Rom Com",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "new-york-rom-com",
+      "has_reactions": false
+    },
+    {
+      "id": "d18304e9-66df-4d52-93af-2e06f1c87882",
+      "title": "Going There",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "going-there",
+      "has_reactions": false
+    },
+    {
+      "id": "d62780ff-2889-438b-adf2-560425960790",
+      "title": "Mick Skylark: Mini Golf Prodigy",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "mick-skylark-mini-golf-prodigy",
+      "has_reactions": false
+    },
+    {
+      "id": "3cd8277e-bd64-4216-b9ff-cb08ebb1c135",
+      "title": "Dragonard",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "dragonard",
+      "has_reactions": false
+    },
+    {
+      "id": "35fbc9c3-0a62-46a6-92e1-6ae8e8f81d9a",
+      "title": "Master of Dragonard Hill",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "master-of-dragonard-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "08db934f-1ecd-46cc-8282-4111db43c335",
+      "title": "Scorchers",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "scorchers",
+      "has_reactions": false
+    },
+    {
+      "id": "93c3d397-76f5-47fb-91f2-ba9bef91e0f7",
+      "title": "Rise & Walk: The Dennis Byrd Story",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "rise-walk-the-dennis-byrd-story",
+      "has_reactions": false
+    },
+    {
+      "id": "6f2cd936-c5e1-4ec8-b9b2-fcb737183ee2",
+      "title": "Harry Anderson: The Tricks of His Trade",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "harry-anderson-the-tricks-of-his-trade",
+      "has_reactions": false
+    },
+    {
+      "id": "9c80a55e-c0c7-4fbe-ae90-7b4734ec7ed8",
+      "title": "The Woman Chaser",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-woman-chaser",
+      "has_reactions": false
+    },
+    {
+      "id": "b3f34b80-9e0e-4a47-8b1f-915049cf774b",
+      "title": "The Apartment Complex",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-apartment-complex",
+      "has_reactions": false
+    },
+    {
+      "id": "c2f30101-7ddc-4e11-ab50-8d5f854b7955",
+      "title": "The Emperor's New Groove",
+      "release_year": 2000,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "the-emperor-s-new-groove",
+      "has_reactions": true
+    },
+    {
+      "id": "88d5b81a-6e5b-4058-b936-487721d00468",
+      "title": "Scream 3",
+      "release_year": 2000,
+      "studio_label": "Dimension Films",
+      "slug": "scream-3",
+      "has_reactions": true
+    },
+    {
+      "id": "7f9b08a6-d4a4-44ea-a09c-e9f6d5c179a0",
+      "title": "Buzz Lightyear of Star Command: The Adventure Begins",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "buzz-lightyear-of-star-command-the-adventure-begins",
+      "has_reactions": false
+    },
+    {
+      "id": "525b66ef-ed26-421b-a4c6-9b5431999bcf",
+      "title": "Angels in the Infield",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "angels-in-the-infield",
+      "has_reactions": false
+    },
+    {
+      "id": "af178a2d-1772-4afa-b840-1d24b065a010",
+      "title": "The Dish",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-dish",
+      "has_reactions": false
+    },
+    {
+      "id": "5ebb72bc-f8af-4089-bfe3-4fc5b421a144",
+      "title": "Joe Somebody",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "joe-somebody",
+      "has_reactions": false
+    },
+    {
+      "id": "c8a9c38a-a314-4c0d-b45f-2f6a542e593a",
+      "title": "Camouflage",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "camouflage",
+      "has_reactions": false
+    },
+    {
+      "id": "2efbf2e3-88e5-4dec-b89e-4e4fca307b42",
+      "title": "Dirt",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dirt",
+      "has_reactions": false
+    },
+    {
+      "id": "6dcb5b26-36cb-4414-9ea5-8d51c5d5e52a",
+      "title": "Playboy Mansion Parties Uncensored",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "playboy-mansion-parties-uncensored",
+      "has_reactions": false
+    },
+    {
+      "id": "f49f61d9-ddf2-4db5-84e4-93eee179ba08",
+      "title": "Disney's California Adventure Grand Opening Special",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "disney-s-california-adventure-grand-opening-special",
+      "has_reactions": false
+    },
+    {
+      "id": "0581f73c-43fd-4430-b850-1841685593bc",
+      "title": "A Very Special Family Guy Freakin' Christmas",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-very-special-family-guy-freakin-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "eced2810-b1ea-407f-8a82-abfe873524db",
+      "title": "Men in Black II",
+      "release_year": 2002,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "51731bef-2639-4aa1-8763-a47c45356848",
+      "title": "Big Trouble",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "big-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "6565e2bd-fbcc-4a47-be27-18f530b67b10",
+      "title": "Run Ronnie Run",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "run-ronnie-run",
+      "has_reactions": false
+    },
+    {
+      "id": "b355e40b-821c-4ad7-bf70-7b74dcb670b7",
+      "title": "The Sweatbox",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-sweatbox",
+      "has_reactions": false
+    },
+    {
+      "id": "bbf0b8f9-c4d6-4736-b0d8-c04d3cd0bce5",
+      "title": "The Ruining",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-ruining",
+      "has_reactions": false
+    },
+    {
+      "id": "6456495a-bd5c-4c62-adcc-b49557c8ecac",
+      "title": "Walt Disney World Christmas Day Parade",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "walt-disney-world-christmas-day-parade",
+      "has_reactions": false
+    },
+    {
+      "id": "62183440-6754-4533-b6cc-0acbbff36ba3",
+      "title": "Rebound",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "rebound",
+      "has_reactions": false
+    },
+    {
+      "id": "569ac6a1-81e9-499a-b4f4-8ac4ee12816c",
+      "title": "Hoodwinked!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hoodwinked",
+      "has_reactions": false
+    },
+    {
+      "id": "8055aeac-3fed-40bc-a8ba-f39273268dd1",
+      "title": "Kronk's New Groove",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kronk-s-new-groove",
+      "has_reactions": false
+    },
+    {
+      "id": "6e943d19-846b-4215-8c61-a78bc2efe83b",
+      "title": "Sky High",
+      "release_year": 2005,
+      "studio_label": "Max Stronghold Productions Inc.",
+      "slug": "sky-high",
+      "has_reactions": true
+    },
+    {
+      "id": "bb1e3948-f5b1-478f-84cb-c89af3a1eac8",
+      "title": "Once Upon a Halloween",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bc31d4-52ca-45c5-9147-662ea9165241",
+      "title": "Kim Possible Movie: So the Drama",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kim-possible-movie-so-the-drama",
+      "has_reactions": false
+    },
+    {
+      "id": "764ab580-8e84-48f2-9210-b21692a5c9b1",
+      "title": "Open Season",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "open-season",
+      "has_reactions": false
+    },
+    {
+      "id": "bcc1b5a0-007b-47ae-b6a2-2e1e5eadc1d8",
+      "title": "Bee Movie",
+      "release_year": 2007,
+      "studio_label": "Columbus 81 Productions",
+      "slug": "bee-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "03197602-0f5f-449a-9a6e-8557e34a82b0",
+      "title": "Underdog",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "underdog",
+      "has_reactions": false
+    },
+    {
+      "id": "38c976a2-9791-4b9a-880b-00dd23863466",
+      "title": "Happily N'Ever After",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "happily-n-ever-after",
+      "has_reactions": false
+    },
+    {
+      "id": "589dde61-96b0-4a0b-b693-3750c5f7e6ae",
+      "title": "I'll Believe You",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "i-ll-believe-you",
+      "has_reactions": false
+    },
+    {
+      "id": "dcbd17a7-1aad-4089-83a6-c712d49f0b7f",
+      "title": "Family Guy Presents: Blue Harvest",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-blue-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "aab792c1-d70f-40ed-afe4-4dcab28e050f",
+      "title": "Get Smart",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "get-smart",
+      "has_reactions": false
+    },
+    {
+      "id": "4e0fe0cd-3e1e-420c-a9bb-929f0af431c2",
+      "title": "Get Smart's Bruce and Lloyd Out of Control",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "get-smart-s-bruce-and-lloyd-out-of-control",
+      "has_reactions": false
+    },
+    {
+      "id": "78fdd3b3-f619-462c-868e-a7c8efceafc1",
+      "title": "Space Chimps",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "space-chimps",
+      "has_reactions": false
+    },
+    {
+      "id": "241d9509-1c77-4705-9fc1-dca72fdf4f74",
+      "title": "Family Guy Presents: Stewie Kills Lois and Lois Kills Stewie",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-stewie-kills-lois-and-lois-kills-stewie",
+      "has_reactions": false
+    },
+    {
+      "id": "d8dc489a-774f-42a1-8aa8-522532d89059",
+      "title": "Family Guy Presents: Something, Something, Something, Dark Side",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-something-something-something-dark-side",
+      "has_reactions": false
+    },
+    {
+      "id": "88016dde-f32d-4f69-b439-57dc86d29ddb",
+      "title": "The Action Hero's Guide to Saving Lives",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-action-hero-s-guide-to-saving-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "f6bd38cb-0877-4911-b625-17c996e45118",
+      "title": "The Fairly OddParents: Wishology!",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-fairly-oddparents-wishology",
+      "has_reactions": false
+    },
+    {
+      "id": "38823fbd-cafe-47fa-9391-31af232a8bc6",
+      "title": "Family Guy Presents: Seth & Alex's Almost Live Comedy Show",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-seth-alex-s-almost-live-comedy-show",
+      "has_reactions": false
+    },
+    {
+      "id": "e0a2d46f-56c1-4d09-9d0f-94b1be7915c3",
+      "title": "Rock Slyde",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "rock-slyde",
+      "has_reactions": false
+    },
+    {
+      "id": "d832d338-744c-4b87-a0c3-5aff11bca01c",
+      "title": "Flicka 2",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "flicka-2",
+      "has_reactions": false
+    },
+    {
+      "id": "96f4f060-6764-471f-b7cf-0e681db509a8",
+      "title": "Hoodwinked Too! Hood VS. Evil",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hoodwinked-too-hood-vs-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "ce72b85b-40cd-474a-8440-92872aeef956",
+      "title": "The Little Engine That Could",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-little-engine-that-could",
+      "has_reactions": false
+    },
+    {
+      "id": "046dcb41-1b2e-4f6d-b091-d407b7ac3039",
+      "title": "Ted",
+      "release_year": 2012,
+      "studio_label": "Universal Pictures",
+      "slug": "ted",
+      "has_reactions": true
+    },
+    {
+      "id": "e55483b8-fdd0-4bed-b412-9ab6d64dffcf",
+      "title": "Sophomore",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sophomore",
+      "has_reactions": false
+    },
+    {
+      "id": "1fb0c5e4-5501-4032-812f-426ccafe0adb",
+      "title": "Bad Milo!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bad-milo",
+      "has_reactions": false
+    },
+    {
+      "id": "611fef94-8e5a-46fc-8b6b-803e097a9a35",
+      "title": "School Dance",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "school-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "204301b9-cee8-4856-be5e-763fc4ce51e2",
+      "title": "Ted 2",
+      "release_year": 2015,
+      "studio_label": "Smart Entertainment",
+      "slug": "ted-2",
+      "has_reactions": true
+    },
+    {
+      "id": "6188a83f-63c8-40aa-8046-86d1b7f0fc0e",
+      "title": "Larry Gaye: Renegade Male Flight Attendant",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "larry-gaye-renegade-male-flight-attendant",
+      "has_reactions": false
+    },
+    {
+      "id": "39bdac6a-b3fa-4074-80e1-dfc60fd1a198",
+      "title": "Divine Access",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "divine-access",
+      "has_reactions": false
+    },
+    {
+      "id": "d5b84dac-604c-4e49-bf03-8e62648ab912",
+      "title": "Joe Dirt 2: Beautiful Loser",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "joe-dirt-2-beautiful-loser",
+      "has_reactions": false
+    },
+    {
+      "id": "f42dbb51-49df-4d55-99a1-0afed51fa89c",
+      "title": "Must See TV: An All Star Tribute to James Burrows",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "must-see-tv-an-all-star-tribute-to-james-burrows",
+      "has_reactions": false
+    },
+    {
+      "id": "55ed1054-e8ac-4e94-bdf4-3a2b5da7cc5b",
+      "title": "Red Christmas: Making 'Better Watch Out'",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "red-christmas-making-better-watch-out",
+      "has_reactions": false
+    },
+    {
+      "id": "d4c1e31f-2501-4996-8468-374e2d52f43b",
+      "title": "Better Watch Out",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "better-watch-out",
+      "has_reactions": false
+    },
+    {
+      "id": "13129f29-0476-4141-8dc7-69d474b60065",
+      "title": "The Wedding Year",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-wedding-year",
+      "has_reactions": false
+    },
+    {
+      "id": "0d2dfbfb-0b3c-4f42-ad07-79a2ecf0ea4e",
+      "title": "Inheritance",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "inheritance",
+      "has_reactions": false
+    },
+    {
+      "id": "bd3ab90b-3d6b-4ee8-a57b-eb1af93c6d92",
+      "title": "Seal Team",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "seal-team",
+      "has_reactions": false
+    },
+    {
+      "id": "ef4911d6-c799-457b-9f70-a7567204390f",
+      "title": "Scarlett",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "scarlett",
+      "has_reactions": false
+    },
+    {
+      "id": "f7c3f78a-af52-49c4-84f7-48a2ead3a075",
+      "title": "MEAD",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "mead",
+      "has_reactions": false
+    },
+    {
+      "id": "42fca0ef-f8e9-4d74-ad31-1025ea4af13d",
+      "title": "The Venture Bros.: Radiant Is the Blood of the Baboon Heart",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-venture-bros-radiant-is-the-blood-of-the-baboon-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "5056fc1e-8a87-4bec-9ff3-64679e5b171e",
+      "title": "Baby Shark's Big Movie",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "baby-shark-s-big-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "191457e9-8cd0-4168-a994-5c9d694c3377",
+      "title": "The Duel",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-duel",
+      "has_reactions": false
+    },
+    {
+      "id": "6aea9382-0be2-440e-a27b-c6288ab3771c",
+      "title": "Best Christmas Movies Ever!",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "best-christmas-movies-ever",
+      "has_reactions": false
+    },
+    {
+      "id": "96664545-727b-4279-96c2-1384296c4416",
+      "title": "Christmas Telethon",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "christmas-telethon",
+      "has_reactions": false
+    },
+    {
+      "id": "7950c9fe-d4d6-4150-8f20-80ad92a5645b",
+      "title": "Patrick Warburton: Still Catholic",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "patrick-warburton-still-catholic",
+      "has_reactions": false
+    },
+    {
+      "id": "6bd45890-d093-4f50-80a7-e377f93c37d9",
+      "title": "Zootopia 2",
+      "release_year": 2025,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "zootopia-2",
+      "has_reactions": true
+    },
+    {
+      "id": "806f6493-09f5-49f2-a739-6095489ee4bb",
+      "title": "When We Went MAD!",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "when-we-went-mad",
+      "has_reactions": false
+    }
+  ]
+}

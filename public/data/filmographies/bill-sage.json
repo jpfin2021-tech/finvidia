@@ -1,0 +1,544 @@
+{
+  "id": "eebb1f5a-b2db-4e70-8c0a-fa9444a827ea",
+  "name": "Bill Sage",
+  "slug": "bill-sage",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3q2r6eDcC843GgVHVA7mSehcqC9.jpg",
+  "filmography": [
+    {
+      "id": "2a99a546-dc9d-497d-b279-6eaabe2d2261",
+      "title": "Sidewalk Stories",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "sidewalk-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "47945723-f796-4b44-a690-8296dcb0810c",
+      "title": "The Unbelievable Truth",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-unbelievable-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "8c8afa20-bcf8-4134-822d-4f1d168d1900",
+      "title": "Theory of Achievement",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "theory-of-achievement",
+      "has_reactions": false
+    },
+    {
+      "id": "a9e69cf6-6526-4032-9d64-232d38a536d5",
+      "title": "Ambition",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "ambition",
+      "has_reactions": false
+    },
+    {
+      "id": "ef2970ce-e31b-43b6-8dc8-e6c1bb080121",
+      "title": "Simple Men",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "simple-men",
+      "has_reactions": false
+    },
+    {
+      "id": "8b33d942-8f6a-4718-ae2b-4e7485908a78",
+      "title": "Laws of Gravity",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "laws-of-gravity",
+      "has_reactions": false
+    },
+    {
+      "id": "e189d3dd-a0f6-4db2-999e-1465a95e9a7b",
+      "title": "Rift",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "rift",
+      "has_reactions": false
+    },
+    {
+      "id": "3431febb-d2b4-4605-ab97-6d12be64b249",
+      "title": "Flirt",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "flirt",
+      "has_reactions": false
+    },
+    {
+      "id": "9578e691-1365-4c25-9002-bef03aaa3113",
+      "title": "Lies to Live By: Babylon",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "lies-to-live-by-babylon",
+      "has_reactions": false
+    },
+    {
+      "id": "decca781-9350-43d1-84dc-a31f407477e7",
+      "title": "Affair Play",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "affair-play",
+      "has_reactions": false
+    },
+    {
+      "id": "ec702b98-1354-4278-aa8f-7d31f192686d",
+      "title": "If Lucy Fell",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "if-lucy-fell",
+      "has_reactions": false
+    },
+    {
+      "id": "bb41af34-3356-48ad-b27f-5fd571f58831",
+      "title": "Flirt",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "flirt",
+      "has_reactions": false
+    },
+    {
+      "id": "a1d6418e-0933-46d5-9f32-5d85c818d727",
+      "title": "I Shot Andy Warhol",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "i-shot-andy-warhol",
+      "has_reactions": false
+    },
+    {
+      "id": "6127684a-7597-4a7b-9b18-5cdebfb89243",
+      "title": "Cost of Living",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "cost-of-living",
+      "has_reactions": false
+    },
+    {
+      "id": "270617c6-aa14-4a9d-ada9-958a38a78bb2",
+      "title": "Somewhere in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "somewhere-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "b549eaf4-c689-49a3-a0ef-896467249bf0",
+      "title": "The Insider",
+      "release_year": 1999,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-insider",
+      "has_reactions": true
+    },
+    {
+      "id": "177e5a2c-0115-4988-a543-10767d1f7600",
+      "title": "American Psycho",
+      "release_year": 2000,
+      "studio_label": "Lionsgate",
+      "slug": "american-psycho",
+      "has_reactions": true
+    },
+    {
+      "id": "d1c452f2-71b7-4509-aecc-b59e32653217",
+      "title": "Urbania",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "urbania",
+      "has_reactions": false
+    },
+    {
+      "id": "056c61ea-005b-48cd-980e-ca045468cf77",
+      "title": "Boiler Room",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "boiler-room",
+      "has_reactions": false
+    },
+    {
+      "id": "b81be0e8-7e9f-4553-9922-b7fa80e69a63",
+      "title": "Double Parked",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "double-parked",
+      "has_reactions": false
+    },
+    {
+      "id": "db38f6c3-e9fb-44d9-b4eb-6f7370e433db",
+      "title": "Glitter",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "glitter",
+      "has_reactions": false
+    },
+    {
+      "id": "c08394a0-3a6f-4f65-83bf-2aaf84d2596b",
+      "title": "My Best Friend's Wife",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "my-best-friend-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "c57500b7-795e-4349-b339-83a99a512105",
+      "title": "No Such Thing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "no-such-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "0d997fa5-7ff4-4aec-9ecc-faf0af171103",
+      "title": "Stray Dogs",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "stray-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "fab65df3-f22f-4682-a502-f54cb049a817",
+      "title": "Desert Saints",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "desert-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "1c9ebdf0-5af3-4b27-bc68-f2252de105ab",
+      "title": "EvenHand",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "evenhand",
+      "has_reactions": false
+    },
+    {
+      "id": "f45dad05-650f-48c8-8d17-2fb440e45e4c",
+      "title": "Sin",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "sin",
+      "has_reactions": false
+    },
+    {
+      "id": "19eef8a3-b2e8-4f4c-897f-bc310b3d6196",
+      "title": "Shooting Vegetarians",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shooting-vegetarians",
+      "has_reactions": false
+    },
+    {
+      "id": "c015c52b-ab0d-4f3a-808f-6e5e83e65b41",
+      "title": "The Girl from Monday",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-girl-from-monday",
+      "has_reactions": false
+    },
+    {
+      "id": "5a547cc7-cc81-421e-947b-63a43b5b821e",
+      "title": "Heavens Fall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "heavens-fall",
+      "has_reactions": false
+    },
+    {
+      "id": "39040cfa-3717-44ee-a3cb-74a8448ede15",
+      "title": "The Handyman",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-handyman",
+      "has_reactions": false
+    },
+    {
+      "id": "9b14ba60-3ad1-451b-93e4-bd0b51cf7270",
+      "title": "One Night",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "one-night",
+      "has_reactions": false
+    },
+    {
+      "id": "93c39f14-6346-4284-b6a4-e6e5f38e432e",
+      "title": "Tennessee",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tennessee",
+      "has_reactions": false
+    },
+    {
+      "id": "f00629af-4c09-4ef6-94ad-b0a15762b1a3",
+      "title": "Off Season",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "off-season",
+      "has_reactions": false
+    },
+    {
+      "id": "f044b3b3-c4b5-4e4d-9d85-381803854442",
+      "title": "Handsome Harry",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "handsome-harry",
+      "has_reactions": false
+    },
+    {
+      "id": "9eda70cb-49df-4216-b39f-91ed2dcc319c",
+      "title": "The New Twenty",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-new-twenty",
+      "has_reactions": false
+    },
+    {
+      "id": "d8048d35-a60a-4293-8dfd-9535ff6dd20b",
+      "title": "Precious: Based on the Novel 'Push' by Sapphire",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "precious-based-on-the-novel-push-by-sapphire",
+      "has_reactions": false
+    },
+    {
+      "id": "8773f636-4d1d-4ac4-b353-c5cea3f89069",
+      "title": "Boy Wonder",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "boy-wonder",
+      "has_reactions": false
+    },
+    {
+      "id": "3f8c4d88-663b-4170-bd5f-04db5c50aadd",
+      "title": "The Scientist",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-scientist",
+      "has_reactions": false
+    },
+    {
+      "id": "74c3681b-ceb3-46ce-8671-d3fec23cd19b",
+      "title": "The Green",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-green",
+      "has_reactions": false
+    },
+    {
+      "id": "d9f8b2e7-be62-45c2-b2e8-e7c243df180c",
+      "title": "Electrick Children",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "electrick-children",
+      "has_reactions": false
+    },
+    {
+      "id": "fe03f0e9-587a-4543-9bd5-1ce9c3a2bd2d",
+      "title": "Bad Parents",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-parents",
+      "has_reactions": false
+    },
+    {
+      "id": "9ee2ec58-5a2e-4c59-8bd2-677c8f80bb95",
+      "title": "Blumenthal",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blumenthal",
+      "has_reactions": false
+    },
+    {
+      "id": "e0ac7dab-b1ce-4bbb-b124-cdd82ef272dd",
+      "title": "We Are What We Are",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "we-are-what-we-are",
+      "has_reactions": false
+    },
+    {
+      "id": "139e2a99-7946-4eb7-a039-d8d2923f99e9",
+      "title": "Born to Race: Fast Track",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "born-to-race-fast-track",
+      "has_reactions": false
+    },
+    {
+      "id": "d5b3beaa-208b-44f9-8a5f-a76431f54d90",
+      "title": "The Legend of the Flying Tomato",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-the-flying-tomato",
+      "has_reactions": false
+    },
+    {
+      "id": "bc20c844-3152-4221-8b81-fe558f383f66",
+      "title": "The Blackout",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "f63555ca-aa9b-4491-bc6c-439175513e09",
+      "title": "Shockwave Darkside",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "shockwave-darkside",
+      "has_reactions": false
+    },
+    {
+      "id": "435c9c92-f64c-41c6-a0aa-be0a580a5470",
+      "title": "Ned Rifle",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "ned-rifle",
+      "has_reactions": false
+    },
+    {
+      "id": "b39b4396-8c91-4431-b104-f7d17f77b239",
+      "title": "The Boy",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "34027429-642f-4117-9acf-54ae4d2cd902",
+      "title": "Fan Girl",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "fan-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "9a9a86ac-1a40-46fc-972f-3179aea82f31",
+      "title": "Welcome to Willits",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-willits",
+      "has_reactions": false
+    },
+    {
+      "id": "8e13aac5-cfc6-4b90-a9e3-3971144479cf",
+      "title": "The Preppie Connection",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-preppie-connection",
+      "has_reactions": false
+    },
+    {
+      "id": "3c243995-ecbe-4b48-ad82-112b46b0b881",
+      "title": "Fender Bender",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "fender-bender",
+      "has_reactions": false
+    },
+    {
+      "id": "a5c8fec1-a4a8-4204-91f1-0ca3c3b6815f",
+      "title": "Ascent to Hell",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "ascent-to-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "785bb04c-d0b4-4567-9ea0-a4933faec6e0",
+      "title": "All Summers End",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "all-summers-end",
+      "has_reactions": false
+    },
+    {
+      "id": "e463acd0-e076-4738-90c0-04bcc666a8e1",
+      "title": "AWOL",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "awol",
+      "has_reactions": false
+    },
+    {
+      "id": "1b04532c-938f-4830-9d15-11b5e0ebacb8",
+      "title": "The Price",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-price",
+      "has_reactions": false
+    },
+    {
+      "id": "57b9c4bc-e389-4590-b2c9-1f874ce0456b",
+      "title": "The Archer",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-archer",
+      "has_reactions": false
+    },
+    {
+      "id": "fc48b393-8e7d-4f5d-943a-86b4faff9e6b",
+      "title": "Delinquent",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "delinquent",
+      "has_reactions": false
+    },
+    {
+      "id": "8fca4a50-e6f5-4960-81aa-4c2f15d189dd",
+      "title": "The Wave",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-wave",
+      "has_reactions": false
+    },
+    {
+      "id": "b88564b3-80d0-48d0-a38c-becfde00e856",
+      "title": "The Pale Door",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-pale-door",
+      "has_reactions": false
+    },
+    {
+      "id": "afb8ac40-efc5-4899-bde4-c9f8c6f6069a",
+      "title": "The Catch",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-catch",
+      "has_reactions": false
+    },
+    {
+      "id": "19fcee6b-ccda-45a5-a4dd-e7cbb8913597",
+      "title": "Wrong Turn",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "wrong-turn",
+      "has_reactions": false
+    },
+    {
+      "id": "5cc42eef-07c8-463b-8f1f-f5ce81a8a773",
+      "title": "Payback",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "payback",
+      "has_reactions": false
+    },
+    {
+      "id": "2be44994-3ca6-4a47-babe-95e3043dc69f",
+      "title": "Hayseed",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hayseed",
+      "has_reactions": false
+    },
+    {
+      "id": "c7bf015b-1d36-4e9a-a0a7-165f472c0510",
+      "title": "Edward",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "edward",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5a906d20-229a-4e20-b215-459475c4ab31",
+  "name": "Jude Hill",
+  "slug": "jude-hill",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/yAcW6qaqQVok6UpfPb1D9dPBFbK.jpg",
+  "filmography": [
+    {
+      "id": "484df2bd-e3b1-40a0-a70c-0e9a2d97b63f",
+      "title": "Belfast",
+      "release_year": 2021,
+      "studio_label": "TKBC",
+      "slug": "belfast",
+      "has_reactions": true
+    },
+    {
+      "id": "cce85ac4-c45d-442a-b627-70901f4870b0",
+      "title": "Mandrake",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "mandrake",
+      "has_reactions": false
+    },
+    {
+      "id": "1a276ab0-8f71-44fd-a10d-d4145b78ef23",
+      "title": "A Haunting in Venice",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-haunting-in-venice",
+      "has_reactions": false
+    },
+    {
+      "id": "0166a5f1-e52c-4168-8d0d-2c2d0de34776",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "release_year": 2023,
+      "studio_label": "Entertainment One",
+      "slug": "dungeons-dragons-honor-among-thieves",
+      "has_reactions": true
+    },
+    {
+      "id": "b71e5f85-aa54-4083-ae2e-1a42178c870d",
+      "title": "Way of the Warrior Kid",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "way-of-the-warrior-kid",
+      "has_reactions": false
+    }
+  ]
+}

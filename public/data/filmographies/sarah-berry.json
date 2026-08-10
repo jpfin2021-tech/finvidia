@@ -1,0 +1,24 @@
+{
+  "id": "3797a2c1-ebcd-422b-9d78-dc153dd4bd8f",
+  "name": "Sarah Berry",
+  "slug": "sarah-berry",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "ca89e6c7-7394-4f8c-8b6d-4cc940a1f3f8",
+      "title": "Evil Dead II",
+      "release_year": 1987,
+      "studio_label": "Rosebud Releasing Corporation",
+      "slug": "evil-dead-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "685fc35e-334a-4f5d-b21e-c629512a3171",
+      "title": "C.H.U.D. II: Bud the Chud",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "c-h-u-d-ii-bud-the-chud",
+      "has_reactions": false
+    }
+  ]
+}

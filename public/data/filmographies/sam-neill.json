@@ -1,0 +1,560 @@
+{
+  "id": "05410b5d-2d37-4921-b18d-c55b47fab063",
+  "name": "Sam Neill",
+  "slug": "sam-neill",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+  "filmography": [
+    {
+      "id": "64d9e667-cb49-4b69-9c61-b7aace27a627",
+      "title": "The City of No",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-city-of-no",
+      "has_reactions": false
+    },
+    {
+      "id": "97cd1cfa-cfcf-4af9-8604-7433515e9ad4",
+      "title": "Hunt's Duffer",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "hunt-s-duffer",
+      "has_reactions": false
+    },
+    {
+      "id": "ebe107fa-448c-4f0a-9521-c850fd4bb6e1",
+      "title": "Just Out Of Reach",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "just-out-of-reach",
+      "has_reactions": false
+    },
+    {
+      "id": "841b4038-6115-4f33-bc42-c00372eadd15",
+      "title": "My Brilliant Career",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "my-brilliant-career",
+      "has_reactions": false
+    },
+    {
+      "id": "e4b550a4-adfd-4883-bfc6-0a8966c5c270",
+      "title": "The Journalist",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-journalist",
+      "has_reactions": false
+    },
+    {
+      "id": "d7b846cd-867c-4d87-a12e-5bbc927e8019",
+      "title": "From a Far Country",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "from-a-far-country",
+      "has_reactions": false
+    },
+    {
+      "id": "21b38be0-8fab-47ac-bdc6-8cf111c08152",
+      "title": "Possession",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "possession",
+      "has_reactions": false
+    },
+    {
+      "id": "b6b9a658-658e-425e-992d-7ac8009ec3e0",
+      "title": "The Final Conflict",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-final-conflict",
+      "has_reactions": false
+    },
+    {
+      "id": "0585485d-af65-47b8-8c7a-30586800020c",
+      "title": "Ivanhoe",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "ivanhoe",
+      "has_reactions": false
+    },
+    {
+      "id": "6e1c57b8-2ef2-4d91-95ad-299025a822ca",
+      "title": "The Blood of Others",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-blood-of-others",
+      "has_reactions": false
+    },
+    {
+      "id": "910dded0-eb0a-4698-9f9d-6dcf73805fb2",
+      "title": "Robbery Under Arms",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "robbery-under-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "ce5784e3-6079-488b-9c9b-670d0e64c396",
+      "title": "The Good Wife",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-good-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "43d816cd-77d1-4a07-84d8-0031a6dbb1ec",
+      "title": "Evil Angels",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "evil-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "1127c99a-def7-46c5-97e6-2a071b02ea32",
+      "title": "The French Revolution",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-french-revolution",
+      "has_reactions": false
+    },
+    {
+      "id": "e921c578-a4ed-4b17-ba3a-e0254bf04d12",
+      "title": "The Hunt for Red October",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-hunt-for-red-october",
+      "has_reactions": true
+    },
+    {
+      "id": "0e76afe0-0097-4397-b32c-91fdd2646f01",
+      "title": "Shadow of China",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "shadow-of-china",
+      "has_reactions": false
+    },
+    {
+      "id": "fa79632c-bf59-44da-b709-05a80036ab69",
+      "title": "Cowboys of Culture",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cowboys-of-culture",
+      "has_reactions": false
+    },
+    {
+      "id": "6c953efe-257c-47f1-aab3-e22463bb93c8",
+      "title": "Until the End of the World",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "until-the-end-of-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "007e0aa4-bf63-42c9-abec-30eef39e278c",
+      "title": "Fever",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "fever",
+      "has_reactions": false
+    },
+    {
+      "id": "95441b72-9e39-4d3a-babb-d9756355c115",
+      "title": "Death in Brunswick",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "death-in-brunswick",
+      "has_reactions": false
+    },
+    {
+      "id": "7f293c6d-94d7-4b22-8efe-98c8d3d52096",
+      "title": "Memoirs of an Invisible Man",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memoirs-of-an-invisible-man",
+      "has_reactions": true
+    },
+    {
+      "id": "0d4e86b3-3900-4718-9b89-6690440dad30",
+      "title": "Jurassic Park",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "jurassic-park",
+      "has_reactions": true
+    },
+    {
+      "id": "963738b6-6b7c-4721-bbc2-3274723df0eb",
+      "title": "The Piano",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-piano",
+      "has_reactions": false
+    },
+    {
+      "id": "8a38161c-d102-404a-92a4-472dc5b46ac3",
+      "title": "Country Life",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "country-life",
+      "has_reactions": false
+    },
+    {
+      "id": "224fcb13-84ac-4652-bc00-b1510abea0c9",
+      "title": "In the Mouth of Madness",
+      "release_year": 1995,
+      "studio_label": "New Line Cinema",
+      "slug": "in-the-mouth-of-madness",
+      "has_reactions": true
+    },
+    {
+      "id": "8f75216c-da17-4625-8a28-ee97e74615ee",
+      "title": "The Making of 'Jurassic Park'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jurassic-park",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee12fd0-0974-4b4b-a4e9-5025885d5ce8",
+      "title": "Event Horizon",
+      "release_year": 1997,
+      "studio_label": "Impact Pictures",
+      "slug": "event-horizon",
+      "has_reactions": true
+    },
+    {
+      "id": "fff79fdf-b97d-4d32-b14e-63b1c148060e",
+      "title": "Forgotten Silver",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "forgotten-silver",
+      "has_reactions": false
+    },
+    {
+      "id": "72cb76b4-b92b-4251-9811-2bfcde3a53ce",
+      "title": "The Rainbow Warrior",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-rainbow-warrior",
+      "has_reactions": false
+    },
+    {
+      "id": "031bb9e1-6042-44dc-a17b-b2349c92e2ee",
+      "title": "Bicentennial Man",
+      "release_year": 1999,
+      "studio_label": "Columbia Pictures",
+      "slug": "bicentennial-man",
+      "has_reactions": true
+    },
+    {
+      "id": "63015f9d-6b23-4b73-a621-0655f4c57be0",
+      "title": "The Magic Pudding",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-magic-pudding",
+      "has_reactions": false
+    },
+    {
+      "id": "af178a2d-1772-4afa-b840-1d24b065a010",
+      "title": "The Dish",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-dish",
+      "has_reactions": false
+    },
+    {
+      "id": "2bae1162-114c-4de0-b88f-62ae9e2a7dc0",
+      "title": "Sally Hemings: An American Scandal",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sally-hemings-an-american-scandal",
+      "has_reactions": false
+    },
+    {
+      "id": "86e30751-cc7f-4b6f-b988-caba194f3179",
+      "title": "My Mother Frank",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "my-mother-frank",
+      "has_reactions": false
+    },
+    {
+      "id": "6f7dc05c-99a6-4840-9848-55eaf2abd82c",
+      "title": "Numero Bruno",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "numero-bruno",
+      "has_reactions": false
+    },
+    {
+      "id": "fd8e7ef2-cd06-4369-b889-153f08d84af5",
+      "title": "Jurassic Park III",
+      "release_year": 2001,
+      "studio_label": "Universal Pictures",
+      "slug": "jurassic-park-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "c50b70f2-41ae-4d07-91be-f6687d62c596",
+      "title": "Submerged",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "submerged",
+      "has_reactions": false
+    },
+    {
+      "id": "a6407ca2-0102-48e3-8bd1-fa6441561187",
+      "title": "The Zookeeper",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-zookeeper",
+      "has_reactions": false
+    },
+    {
+      "id": "7e16c3ce-991a-43a6-83fd-0f39fd93cb97",
+      "title": "The Making Of  Jurassic Park III",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jurassic-park-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "b4ed9ca7-3765-4d90-ad04-935fd8d16951",
+      "title": "Framed",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "framed",
+      "has_reactions": false
+    },
+    {
+      "id": "c3120aa5-3d3a-4ca5-8c67-e6bd842ef4f7",
+      "title": "Dirty Deeds",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "dirty-deeds",
+      "has_reactions": false
+    },
+    {
+      "id": "0cde8551-a2b7-4172-a09e-5ea0372a644d",
+      "title": "Perfect Strangers",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "perfect-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "caad0be2-b513-441a-8239-9300e4ef55aa",
+      "title": "Wimbledon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "wimbledon",
+      "has_reactions": false
+    },
+    {
+      "id": "dae95b4b-4aea-45e0-90cf-ed44b41bcc3b",
+      "title": "Jessica",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "jessica",
+      "has_reactions": false
+    },
+    {
+      "id": "f5153248-bad3-4d3d-8aa3-6f345c12cf73",
+      "title": "The Making of Sleeping Dogs",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-sleeping-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "b03237f9-bd50-4770-9ad3-df2648d0475e",
+      "title": "Stiff",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "stiff",
+      "has_reactions": false
+    },
+    {
+      "id": "4e2de277-a8b5-4c82-ad7c-5456fe88b73d",
+      "title": "Gallipoli",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "gallipoli",
+      "has_reactions": false
+    },
+    {
+      "id": "60d62658-63e1-4c4f-a0b7-31c74bfba2f2",
+      "title": "Voyage of the Nautilus",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "voyage-of-the-nautilus",
+      "has_reactions": false
+    },
+    {
+      "id": "b3dedf40-5d79-4470-b3d8-5e7dccc2278a",
+      "title": "Irresistible",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "irresistible",
+      "has_reactions": false
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "02d24ea1-c467-49af-b370-578e62000f83",
+      "title": "Dean Spanley",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dean-spanley",
+      "has_reactions": false
+    },
+    {
+      "id": "03b17fd8-f8a6-4743-b6f5-f170708e08d6",
+      "title": "Under the Mountain",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "under-the-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "3ba61fca-7779-4b2c-964a-028b2eeac76e",
+      "title": "Iron Road",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "iron-road",
+      "has_reactions": false
+    },
+    {
+      "id": "0c73c80d-5eab-40c3-898f-4c6b6a1e8df4",
+      "title": "The Man in the Hat",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-man-in-the-hat",
+      "has_reactions": false
+    },
+    {
+      "id": "db5ebf8b-7f49-4d88-83ea-a86d0830f957",
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "legend-of-the-guardians-the-owls-of-ga-hoole",
+      "has_reactions": false
+    },
+    {
+      "id": "c2a1288d-6022-4162-8148-b12722e3ca61",
+      "title": "Daybreakers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "daybreakers",
+      "has_reactions": false
+    },
+    {
+      "id": "b1a1c94f-383b-4c8b-bf8b-c8b0958b84e7",
+      "title": "The Hunter",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "fc312152-4408-4bfa-9045-cf0d97aaf557",
+      "title": "The Vow",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-vow",
+      "has_reactions": false
+    },
+    {
+      "id": "474fa571-8fb4-4352-9ad6-e0f401fe76c0",
+      "title": "The Ordained",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-ordained",
+      "has_reactions": false
+    },
+    {
+      "id": "3a88d330-a66f-46b6-b690-6055601be788",
+      "title": "Why Anzac with Sam Neill",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "why-anzac-with-sam-neill",
+      "has_reactions": false
+    },
+    {
+      "id": "730ca362-7cf3-4430-b916-a0a850cd9bfe",
+      "title": "MindGamers",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "mindgamers",
+      "has_reactions": false
+    },
+    {
+      "id": "baf23f1d-2410-40a0-90cd-b8a0351057a7",
+      "title": "Tommy's Honour",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tommy-s-honour",
+      "has_reactions": false
+    },
+    {
+      "id": "e5667e12-d3c0-45f5-a36f-2e774e0e5b7e",
+      "title": "Jurassic World Dominion",
+      "release_year": 2022,
+      "studio_label": "Amblin Entertainment",
+      "slug": "jurassic-world-dominion",
+      "has_reactions": true
+    },
+    {
+      "id": "44819d31-ae52-48a2-9e45-258c44812971",
+      "title": "Voice Activated",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "voice-activated",
+      "has_reactions": false
+    },
+    {
+      "id": "ebbda5a4-7807-43b0-ab01-7e7ca6085bb2",
+      "title": "Thor: Love and Thunder",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "thor-love-and-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "abdc2f03-8891-4055-b9ef-89cabe6ff222",
+      "title": "Jurassic Greatest Moments: Jurassic Park to Jurassic World",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jurassic-greatest-moments-jurassic-park-to-jurassic-world",
+      "has_reactions": false
+    },
+    {
+      "id": "97c163dc-9203-416e-964a-f181126eb513",
+      "title": "Scarygirl",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "scarygirl",
+      "has_reactions": false
+    },
+    {
+      "id": "511e976b-a43d-4891-9232-84186147cb29",
+      "title": "Assassin Club",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "assassin-club",
+      "has_reactions": false
+    },
+    {
+      "id": "783638a2-95bf-44d4-8bfe-e1b51486862d",
+      "title": "Bring Him to Me",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "bring-him-to-me",
+      "has_reactions": false
+    }
+  ]
+}

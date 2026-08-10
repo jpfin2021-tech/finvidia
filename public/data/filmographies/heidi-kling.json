@@ -1,0 +1,32 @@
+{
+  "id": "54b2bd2d-fe1c-4b44-aee8-c3b477a21dc4",
+  "name": "Heidi Kling",
+  "slug": "heidi-kling",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7nRVPGjXRR2SjQPGzHagXIxcuuV.jpg",
+  "filmography": [
+    {
+      "id": "c794aa66-61c0-438c-9df4-528770e28dd3",
+      "title": "The Mighty Ducks",
+      "release_year": 1992,
+      "studio_label": "Avnet/Kerner Productions",
+      "slug": "the-mighty-ducks",
+      "has_reactions": true
+    },
+    {
+      "id": "e46201a4-347b-4759-aad4-d07b21dac4ae",
+      "title": "D3: The Mighty Ducks",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "d3-the-mighty-ducks",
+      "has_reactions": false
+    },
+    {
+      "id": "e4be142a-377b-4947-9fd7-897287821b29",
+      "title": "Turbulence",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "turbulence",
+      "has_reactions": false
+    }
+  ]
+}

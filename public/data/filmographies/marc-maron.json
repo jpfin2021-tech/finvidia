@@ -1,0 +1,48 @@
+{
+  "id": "c95d2cb9-8a97-4dfc-9e76-36edde04752f",
+  "name": "Marc Maron",
+  "slug": "marc-maron",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg",
+  "filmography": [
+    {
+      "id": "536cdf62-07d6-46a8-8340-fba16287c113",
+      "title": "Almost Famous",
+      "release_year": 2000,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "almost-famous",
+      "has_reactions": true
+    },
+    {
+      "id": "8fc136ea-45e3-4600-a557-5eaca6ab2826",
+      "title": "Joker",
+      "release_year": 2019,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "joker",
+      "has_reactions": true
+    },
+    {
+      "id": "21c3c388-a190-476f-b8aa-4bfd165ec37b",
+      "title": "Best of Stand-Up 2020",
+      "release_year": 2020,
+      "studio_label": "Champion Turf Inc.",
+      "slug": "best-of-stand-up-2020",
+      "has_reactions": false
+    },
+    {
+      "id": "4954f3db-57f8-4f06-93af-c1a700fbb122",
+      "title": "The Bad Guys",
+      "release_year": 2022,
+      "studio_label": "DreamWorks Animation",
+      "slug": "the-bad-guys",
+      "has_reactions": true
+    },
+    {
+      "id": "2608a3c6-5cab-4a76-aa82-94c4baf39da5",
+      "title": "The Bad Guys 2",
+      "release_year": 2025,
+      "studio_label": "DreamWorks Animation",
+      "slug": "the-bad-guys-2",
+      "has_reactions": true
+    }
+  ]
+}

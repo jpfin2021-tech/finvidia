@@ -1,0 +1,576 @@
+{
+  "id": "4972b7b0-fc3c-45d5-ae2e-2556f09ed91b",
+  "name": "Gabriel Byrne",
+  "slug": "gabriel-byrne",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9r9oDGENg92VYYFMkV4C09IUlrb.jpg",
+  "filmography": [
+    {
+      "id": "bff9bf1b-762a-438d-a583-639db2be9641",
+      "title": "Sauver Mozart",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "sauver-mozart",
+      "has_reactions": false
+    },
+    {
+      "id": "6c0c895b-3c42-433a-834f-5ebe55e86130",
+      "title": "Excalibur",
+      "release_year": 1981,
+      "studio_label": "Orion Pictures",
+      "slug": "excalibur",
+      "has_reactions": true
+    },
+    {
+      "id": "f0a7123d-735e-42d1-9001-6c4d7c994554",
+      "title": "The Rocking Horse Winner",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-rocking-horse-winner",
+      "has_reactions": false
+    },
+    {
+      "id": "e4ca6081-982e-4bdd-b323-168cf2cd8f8e",
+      "title": "Hanna K.",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hanna-k",
+      "has_reactions": false
+    },
+    {
+      "id": "328ce28d-e92a-4995-b689-7f38682d586e",
+      "title": "The Treatment",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-treatment",
+      "has_reactions": false
+    },
+    {
+      "id": "fc89631b-f628-4de6-90e0-411e6da5f0f9",
+      "title": "Reflections",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "reflections",
+      "has_reactions": false
+    },
+    {
+      "id": "0e2120db-48d3-4e5e-99b3-df073092afdd",
+      "title": "Lionheart",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "lionheart",
+      "has_reactions": false
+    },
+    {
+      "id": "1bcc3aad-30e1-49e1-88d2-8ed69e0c6ce0",
+      "title": "Gothic",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "gothic",
+      "has_reactions": false
+    },
+    {
+      "id": "0f651a44-9820-4fd8-8cd1-878ee6a9e680",
+      "title": "Siesta",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "siesta",
+      "has_reactions": false
+    },
+    {
+      "id": "7546c525-fb0a-4b07-a5d8-bc28583dcf74",
+      "title": "The Courier",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-courier",
+      "has_reactions": false
+    },
+    {
+      "id": "680e3724-024e-4f9c-b26f-0605e297e1cc",
+      "title": "Diamond Skulls",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "diamond-skulls",
+      "has_reactions": false
+    },
+    {
+      "id": "1f1e86c3-7c41-4d97-bb8b-d5d713bcfb80",
+      "title": "Shipwrecked",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "shipwrecked",
+      "has_reactions": false
+    },
+    {
+      "id": "0b1d6954-bd0e-486f-b8b9-0f02babdd41e",
+      "title": "Into the West",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "into-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "221d83c4-08d0-47a7-bb4a-0ffdea3acf46",
+      "title": "Point of No Return",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "point-of-no-return",
+      "has_reactions": false
+    },
+    {
+      "id": "653bf77f-605d-4b3d-b91e-40ed61374afb",
+      "title": "A Dangerous Woman",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "c2bfcb6d-6695-4400-bb40-d0e00a158f17",
+      "title": "A Simple Twist of Fate",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-simple-twist-of-fate",
+      "has_reactions": false
+    },
+    {
+      "id": "4baf3daa-25cf-4895-ae9a-3efd3a891f53",
+      "title": "Little Women",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "little-women",
+      "has_reactions": false
+    },
+    {
+      "id": "cebd4e6a-b0bf-4c8a-9ed0-624900b3d838",
+      "title": "The Usual Suspects",
+      "release_year": 1995,
+      "studio_label": "Bad Hat Harry Productions",
+      "slug": "the-usual-suspects",
+      "has_reactions": true
+    },
+    {
+      "id": "5c61bb06-399f-4cbe-beee-452de4dfdaf4",
+      "title": "Dead Man",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dead-man",
+      "has_reactions": false
+    },
+    {
+      "id": "6204f7d6-c32b-4beb-a4fe-947342b15b05",
+      "title": "Frankie Starlight",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "frankie-starlight",
+      "has_reactions": false
+    },
+    {
+      "id": "29f99895-834d-450d-b507-9ad3910a363d",
+      "title": "Buffalo Girls",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "buffalo-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "75f1175d-b998-4174-9631-ef82fdaa7f4a",
+      "title": "Mad Dog Time",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mad-dog-time",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b01d9f-aa7d-4024-8b3b-9e50eb8d1031",
+      "title": "The Brylcreem Boys",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-brylcreem-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "b7b853ee-fa04-4f74-8a08-ce470af0b5e5",
+      "title": "This Is the Sea",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "this-is-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "38b71fbc-07c8-4eb2-8b38-79ea68485059",
+      "title": "Smilla's Sense of Snow",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "smilla-s-sense-of-snow",
+      "has_reactions": false
+    },
+    {
+      "id": "5c76d8a8-6fcd-4de5-9d3c-ab497c3cb8a7",
+      "title": "Weapons of Mass Distraction",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "weapons-of-mass-distraction",
+      "has_reactions": false
+    },
+    {
+      "id": "67f1b054-f31a-4d96-8fbe-9aaba6d6b227",
+      "title": "Enemy of the State",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "enemy-of-the-state",
+      "has_reactions": true
+    },
+    {
+      "id": "183ca223-514d-4a2e-96cd-f25781b2b73d",
+      "title": "Quest for Camelot",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "quest-for-camelot",
+      "has_reactions": false
+    },
+    {
+      "id": "85a27426-5395-4f78-a930-7b5f77cd578c",
+      "title": "Nothing Is What It Seems:  The Making Of 'The Usual Suspects'",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "nothing-is-what-it-seems-the-making-of-the-usual-suspects",
+      "has_reactions": false
+    },
+    {
+      "id": "9fdc7d0e-8287-400e-90aa-3248fc15a3f7",
+      "title": "Stigmata",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "stigmata",
+      "has_reactions": false
+    },
+    {
+      "id": "fa2a3f1d-cdaa-491d-9f71-5db09b9f5622",
+      "title": "When Brendan Met Trudy",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "when-brendan-met-trudy",
+      "has_reactions": false
+    },
+    {
+      "id": "9218ae0f-ec21-4653-ba0d-97adbcbe4f02",
+      "title": "Making Love",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "making-love",
+      "has_reactions": false
+    },
+    {
+      "id": "b89ecf1e-9b78-493a-8a8c-a158dd4ae0e5",
+      "title": "Spider",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spider",
+      "has_reactions": false
+    },
+    {
+      "id": "931e86a7-01cb-4a87-a890-6c6a80328ccf",
+      "title": "Pursuing the Suspects",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "pursuing-the-suspects",
+      "has_reactions": false
+    },
+    {
+      "id": "6a851d7f-f35a-4759-b42c-367e54500914",
+      "title": "Ghost Ship",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ghost-ship",
+      "has_reactions": false
+    },
+    {
+      "id": "dc859ca4-ba8a-4c66-b89d-c7466208b556",
+      "title": "Horses: The Story of Equus",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "horses-the-story-of-equus",
+      "has_reactions": false
+    },
+    {
+      "id": "11b17d60-fb82-4058-8f35-a05c048da70e",
+      "title": "Shade",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "shade",
+      "has_reactions": false
+    },
+    {
+      "id": "2c11be55-136a-4240-b1f0-39c9a47dd3d2",
+      "title": "Flight from Death: The Quest for Immortality",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "flight-from-death-the-quest-for-immortality",
+      "has_reactions": false
+    },
+    {
+      "id": "2feacaa2-0ee1-4a69-9de0-e87dafe31ad5",
+      "title": "Vanity Fair",
+      "release_year": 2004,
+      "studio_label": "Focus Features",
+      "slug": "vanity-fair",
+      "has_reactions": false
+    },
+    {
+      "id": "94420976-8025-4c49-aff4-48ff365d0278",
+      "title": "P.S.",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "p-s",
+      "has_reactions": false
+    },
+    {
+      "id": "30e047e4-7cc4-4596-9ea3-3b7e314d3f54",
+      "title": "Patrick",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "patrick",
+      "has_reactions": false
+    },
+    {
+      "id": "aa774a71-15e2-4e9e-bb6a-9ee3f8d7c1ad",
+      "title": "Assault on Precinct 13",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "assault-on-precinct-13",
+      "has_reactions": false
+    },
+    {
+      "id": "b495d7c6-8351-4f37-b497-d9fbfd02eac1",
+      "title": "Wah-Wah",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "wah-wah",
+      "has_reactions": false
+    },
+    {
+      "id": "3c3282af-a053-4d01-9bfa-44ab1bc55b1d",
+      "title": "Jindabyne",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jindabyne",
+      "has_reactions": false
+    },
+    {
+      "id": "023a079c-6b7f-40aa-8c23-2b03d3b6cfcc",
+      "title": "Camelot: Live from Lincoln Center",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "camelot-live-from-lincoln-center",
+      "has_reactions": false
+    },
+    {
+      "id": "bf679b16-fe93-4a3b-b162-43971d578bc6",
+      "title": "Gabriel Byrne: Stories from Home",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "gabriel-byrne-stories-from-home",
+      "has_reactions": false
+    },
+    {
+      "id": "64ea8b41-f118-4b1c-8c6a-7139ade18fa0",
+      "title": "Leningrad",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "leningrad",
+      "has_reactions": false
+    },
+    {
+      "id": "3fb03bc3-0c35-4413-ac6f-dcee180c6d19",
+      "title": "Perrier's Bounty",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "perrier-s-bounty",
+      "has_reactions": false
+    },
+    {
+      "id": "a4484ae0-94bc-4ed8-a249-22d82c1c18e2",
+      "title": "John Ford: Dreaming the Quiet Man",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "john-ford-dreaming-the-quiet-man",
+      "has_reactions": false
+    },
+    {
+      "id": "b10216e7-1158-45a1-bb89-30bf1d0283fe",
+      "title": "I, Anna",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "i-anna",
+      "has_reactions": false
+    },
+    {
+      "id": "3191bdff-e7d4-4211-8c3e-2cc155321361",
+      "title": "Capital",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "capital",
+      "has_reactions": false
+    },
+    {
+      "id": "6c7f0dac-f820-43fd-8fcf-77877ae6f71f",
+      "title": "All Things To All Men",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "all-things-to-all-men",
+      "has_reactions": false
+    },
+    {
+      "id": "97e078aa-f8ef-4882-bc56-87a8c8de329a",
+      "title": "Just a Sigh",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "just-a-sigh",
+      "has_reactions": false
+    },
+    {
+      "id": "f4f2a511-605a-4d57-93bc-d2fdd070f568",
+      "title": "Vampire Academy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "vampire-academy",
+      "has_reactions": false
+    },
+    {
+      "id": "1ee4dddd-8acb-4a0a-93c5-769d8d6a371f",
+      "title": "Endless Night",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "endless-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e40224b3-23a8-4dad-8b44-8d446739e0a9",
+      "title": "Louder Than Bombs",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "louder-than-bombs",
+      "has_reactions": false
+    },
+    {
+      "id": "8a4d828c-1461-497e-9d3c-807c6dfbdb36",
+      "title": "The 33",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-33",
+      "has_reactions": false
+    },
+    {
+      "id": "970a85fd-b926-4571-933b-a4b71927357e",
+      "title": "Versus: The Life and Films of Ken Loach",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "versus-the-life-and-films-of-ken-loach",
+      "has_reactions": false
+    },
+    {
+      "id": "9eec9984-2806-4618-a432-384909c011df",
+      "title": "No Pay, Nudity",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "no-pay-nudity",
+      "has_reactions": false
+    },
+    {
+      "id": "42313e65-4380-477d-82a3-643483435a53",
+      "title": "Carrie Pilby",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "carrie-pilby",
+      "has_reactions": false
+    },
+    {
+      "id": "d05ef53f-46bc-413f-998a-a89cc212c0e4",
+      "title": "Into the Night: Portraits of Life and Death",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "into-the-night-portraits-of-life-and-death",
+      "has_reactions": false
+    },
+    {
+      "id": "3c28b22e-e6a3-4bca-bfe1-3257342cf50f",
+      "title": "Hereditary",
+      "release_year": 2018,
+      "studio_label": "PalmStar Media",
+      "slug": "hereditary",
+      "has_reactions": true
+    },
+    {
+      "id": "ccfe170f-5e27-4d96-8268-2a661e621742",
+      "title": "Atlantic Salmon: Lost at Sea",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "atlantic-salmon-lost-at-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "25abdab4-bf61-4672-875e-8f3188aebe78",
+      "title": "Lies We Tell",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "lies-we-tell",
+      "has_reactions": false
+    },
+    {
+      "id": "127f2971-abcd-4b5a-a29a-2f0686702a42",
+      "title": "Cursed: The True Nature of Hereditary",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "cursed-the-true-nature-of-hereditary",
+      "has_reactions": false
+    },
+    {
+      "id": "57bae2cb-04fe-44d2-9f27-3742b2debe09",
+      "title": "My Astonishing Self: Gabriel Byrne on George Bernard Shaw",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "my-astonishing-self-gabriel-byrne-on-george-bernard-shaw",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a1f389-e020-4931-bf46-9b111d83ee2c",
+      "title": "Lamborghini: The Man Behind the Legend",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "lamborghini-the-man-behind-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "762e251a-d487-4b18-85cf-86f7663b02b4",
+      "title": "Walking with Ghosts",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "walking-with-ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "8fa20bba-f621-42a7-a7de-27d0d5500906",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-boy-the-mole-the-fox-and-the-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "6ccff9eb-f51a-41e0-96f9-b5ad204d58d8",
+      "title": "Dance First",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dance-first",
+      "has_reactions": false
+    },
+    {
+      "id": "c53fb5b9-841e-4bc3-8889-19b1e276e2a8",
+      "title": "Ballerina",
+      "release_year": 2025,
+      "studio_label": "Thunder Road",
+      "slug": "ballerina",
+      "has_reactions": true
+    }
+  ]
+}

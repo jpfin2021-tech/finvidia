@@ -1,0 +1,544 @@
+{
+  "id": "6a1337a2-5aa5-4b83-a12a-7dc250d4fba2",
+  "name": "Richard Roundtree",
+  "slug": "richard-roundtree",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9yZseMTfcRuQYp4Nt0qB7kBdEov.jpg",
+  "filmography": [
+    {
+      "id": "532993ce-3c09-4f8f-a744-940d1eb15282",
+      "title": "What Do You Say to a Naked Lady?",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "what-do-you-say-to-a-naked-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "72cf2136-165f-4684-a643-26730be92c48",
+      "title": "Shaft",
+      "release_year": 1971,
+      "studio_label": "Shaft Productions",
+      "slug": "shaft",
+      "has_reactions": true
+    },
+    {
+      "id": "50b5e311-44e3-4359-a854-cea4526abd90",
+      "title": "Soul in Cinema: Filming 'Shaft' on Location",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "soul-in-cinema-filming-shaft-on-location",
+      "has_reactions": false
+    },
+    {
+      "id": "23b77bd1-f9b9-46d3-a014-a6e07149f42f",
+      "title": "Embassy",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "embassy",
+      "has_reactions": false
+    },
+    {
+      "id": "09825145-74d5-47da-8d1c-92446ec905cc",
+      "title": "Nationtime: Gary",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "nationtime-gary",
+      "has_reactions": false
+    },
+    {
+      "id": "d64fe481-90ff-4627-a97a-8665e900916f",
+      "title": "Charley-One-Eye",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "charley-one-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "4cfbd8dd-dd31-43c4-883d-38fb39aee68b",
+      "title": "Firehouse",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "firehouse",
+      "has_reactions": false
+    },
+    {
+      "id": "46786221-15b6-41cf-94cb-2c5ab1043fbe",
+      "title": "Diamonds",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "diamonds",
+      "has_reactions": false
+    },
+    {
+      "id": "38fdb2dc-d734-4d19-b8f8-0f7480eba465",
+      "title": "Man Friday",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "man-friday",
+      "has_reactions": false
+    },
+    {
+      "id": "68f5aab6-65e0-4660-8e2a-848dc59c32ad",
+      "title": "Day of the Assassin",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "day-of-the-assassin",
+      "has_reactions": false
+    },
+    {
+      "id": "fc3a7eb9-42e5-4f64-96b9-c363946755f2",
+      "title": "Game for Vultures",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "game-for-vultures",
+      "has_reactions": false
+    },
+    {
+      "id": "7222009d-1980-45d2-a763-a2184e7817dc",
+      "title": "An Eye for an Eye",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "an-eye-for-an-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "5306ab4c-c682-4b59-b281-8b8c2c4251a6",
+      "title": "Inchon",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "inchon",
+      "has_reactions": false
+    },
+    {
+      "id": "939a95e8-cb01-4824-882b-e5a12fec3846",
+      "title": "Young Warriors",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "young-warriors",
+      "has_reactions": false
+    },
+    {
+      "id": "8919cd01-3dd3-4c5f-bade-0e5bec745a3d",
+      "title": "Just an Overnight Guest",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "just-an-overnight-guest",
+      "has_reactions": false
+    },
+    {
+      "id": "d7032b6a-927e-4180-8795-941fa3ff06af",
+      "title": "The Baron and the Kid",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-baron-and-the-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "1c609a9d-0d72-47fd-9d0c-afb5d18d2dc2",
+      "title": "Killpoint",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "killpoint",
+      "has_reactions": false
+    },
+    {
+      "id": "fac980ab-2932-40a4-bb82-ded2d6bd31c4",
+      "title": "Opposing Force",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "opposing-force",
+      "has_reactions": false
+    },
+    {
+      "id": "4267686b-0b7a-4e97-8334-d5f9ed27d685",
+      "title": "Party Line",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "party-line",
+      "has_reactions": false
+    },
+    {
+      "id": "f9f90257-6dd3-41e9-aadb-143f20309ea0",
+      "title": "Angel III: The Final Chapter",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "angel-iii-the-final-chapter",
+      "has_reactions": false
+    },
+    {
+      "id": "db0f8c03-4d3b-40ff-8ece-5d498b9f7d19",
+      "title": "Getting Even",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "getting-even",
+      "has_reactions": false
+    },
+    {
+      "id": "0d80edb5-9d91-4aab-8904-b00154204f07",
+      "title": "The Banker",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-banker",
+      "has_reactions": false
+    },
+    {
+      "id": "56b5d793-baf6-4daa-8494-23164043f72c",
+      "title": "Night Visitor",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "night-visitor",
+      "has_reactions": false
+    },
+    {
+      "id": "7092498f-c47a-4f4e-814e-f76d7c620f01",
+      "title": "Miami Cops",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "miami-cops",
+      "has_reactions": false
+    },
+    {
+      "id": "d93690c8-bf03-4584-81cd-1fed87380a32",
+      "title": "Bad Jim",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "bad-jim",
+      "has_reactions": false
+    },
+    {
+      "id": "57dedae6-bf41-41f3-a0ee-88611e3de2ea",
+      "title": "Gypsy Angels",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "gypsy-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "66f5e2af-9771-404e-85b8-99a73d96eb98",
+      "title": "Bloodfist III: Forced to Fight",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "bloodfist-iii-forced-to-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "ace7ed2a-90a1-4b50-aca7-169cf280d76b",
+      "title": "Amityville: A New Generation",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "amityville-a-new-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "884ecc05-50c1-4d8a-8163-70a895889473",
+      "title": "Deadly Rivals",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "deadly-rivals",
+      "has_reactions": false
+    },
+    {
+      "id": "2fe19f7a-5429-427a-a166-359b726716ed",
+      "title": "Sins of the Night",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "sins-of-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "15603be5-9ff3-4495-a135-03f2ccf7c65a",
+      "title": "Bonanza: The Return",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "bonanza-the-return",
+      "has_reactions": false
+    },
+    {
+      "id": "dbd72aeb-089a-4f35-884a-d2e528cf95cd",
+      "title": "Blind Man's Bluff",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "blind-man-s-bluff",
+      "has_reactions": false
+    },
+    {
+      "id": "1efbeccc-3ad5-47a8-9e97-23e11ea2bcb5",
+      "title": "Shadows of Desire",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "shadows-of-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c32f7e-3f8b-41f6-98f6-a73adb3f7736",
+      "title": "Black as the Heart",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "black-as-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "f5727efa-0f83-457d-9fe6-abfa7d9ca1eb",
+      "title": "Se7en",
+      "release_year": 1995,
+      "studio_label": "New Line Cinema",
+      "slug": "se7en",
+      "has_reactions": true
+    },
+    {
+      "id": "5f5b2ded-4a4a-4382-9840-75e09bec1def",
+      "title": "Theodore Rex",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "theodore-rex",
+      "has_reactions": false
+    },
+    {
+      "id": "490978eb-7ba9-42c5-95cb-8b362e6841a7",
+      "title": "Ballistic",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "ballistic",
+      "has_reactions": false
+    },
+    {
+      "id": "94f399ce-2528-4c4a-b276-afac1bccea78",
+      "title": "Once Upon a Time... When We Were Colored",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-when-we-were-colored",
+      "has_reactions": false
+    },
+    {
+      "id": "3ec020ae-ab79-453d-b3ef-5e7190fb605b",
+      "title": "Any Place But Home",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "any-place-but-home",
+      "has_reactions": false
+    },
+    {
+      "id": "37ba3cfc-c95e-43aa-8df3-171248978df4",
+      "title": "Having Our Say: The Delany Sisters' First 100 Years",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "having-our-say-the-delany-sisters-first-100-years",
+      "has_reactions": false
+    },
+    {
+      "id": "1d8f1a6a-5d4a-4dfe-b601-4436065fe204",
+      "title": "Shaft",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "shaft",
+      "has_reactions": true
+    },
+    {
+      "id": "a3d1656a-1869-422a-8e3f-32c4a5935fb0",
+      "title": "Corky Romano",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "corky-romano",
+      "has_reactions": false
+    },
+    {
+      "id": "ee5eb5a5-20bd-4c70-8c74-a2acc68462e7",
+      "title": "Hawaiian Gardens",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "hawaiian-gardens",
+      "has_reactions": false
+    },
+    {
+      "id": "3e233cbf-324f-415f-b6e2-1e129fbc7818",
+      "title": "Undercover Brother",
+      "release_year": 2002,
+      "studio_label": "Universal Pictures",
+      "slug": "undercover-brother",
+      "has_reactions": true
+    },
+    {
+      "id": "d91a3184-1ec4-4c1f-8b77-a4be22884f26",
+      "title": "Boat Trip",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "boat-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "abcde6f2-6cc2-4027-86b2-695901a8628d",
+      "title": "Men Cry in the Dark",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "men-cry-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "13428c0a-8e7a-46d5-90ff-35c721455037",
+      "title": "Vegas Vampires",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "vegas-vampires",
+      "has_reactions": false
+    },
+    {
+      "id": "c5be5364-673c-481d-b2d8-ae9aafa2ab54",
+      "title": "Max Havoc: Curse Of The Dragon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "max-havoc-curse-of-the-dragon",
+      "has_reactions": false
+    },
+    {
+      "id": "7f876626-a9d7-424f-8ed8-e33626f9900d",
+      "title": "Painkiller Jane",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "painkiller-jane",
+      "has_reactions": false
+    },
+    {
+      "id": "77acb6d5-0a40-4a24-8889-00e23c3a8889",
+      "title": "Wild Seven",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wild-seven",
+      "has_reactions": false
+    },
+    {
+      "id": "8e5c83f6-d498-4697-bf22-5910aa15607a",
+      "title": "All The Days Before Tomorrow",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "all-the-days-before-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "1b275a9b-71c3-4a5b-9e61-e46b57221356",
+      "title": "Point of Entry",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "point-of-entry",
+      "has_reactions": false
+    },
+    {
+      "id": "418d544c-a43a-4908-b78d-cbbbb1b8a283",
+      "title": "Ladies of the House",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "ladies-of-the-house",
+      "has_reactions": false
+    },
+    {
+      "id": "417498a1-53af-412c-994a-d19294177bb4",
+      "title": "Speed Racer",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "speed-racer",
+      "has_reactions": true
+    },
+    {
+      "id": "8771bdf3-3f38-492a-a539-73ac81f5a1db",
+      "title": "Final Approach",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "final-approach",
+      "has_reactions": false
+    },
+    {
+      "id": "a20b1b09-1d4e-45aa-9720-f08cf64b442f",
+      "title": "Speed Racer: Wonderful World of Racing - The Amazing Racer Family",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "speed-racer-wonderful-world-of-racing-the-amazing-racer-family",
+      "has_reactions": false
+    },
+    {
+      "id": "d69d3119-cd9f-4844-9373-a1a0121d96e8",
+      "title": "Set Apart",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "set-apart",
+      "has_reactions": false
+    },
+    {
+      "id": "73896781-4728-43ce-b33d-5b2cfa4cbcd2",
+      "title": "Whatever She Wants",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "whatever-she-wants",
+      "has_reactions": false
+    },
+    {
+      "id": "d4961830-708e-4dde-b70c-91035b71536e",
+      "title": "The Confidant",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-confidant",
+      "has_reactions": false
+    },
+    {
+      "id": "6d7f2c82-519e-4c77-b85f-f859533ba909",
+      "title": "Retreat!",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "retreat",
+      "has_reactions": false
+    },
+    {
+      "id": "1dd995a7-04c2-4dd3-8857-1bbc1b69bb66",
+      "title": "Harlem to Hollywood",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "harlem-to-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "a506a1c4-df02-4b95-b2b3-239fb8437e5b",
+      "title": "What Men Want",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "what-men-want",
+      "has_reactions": false
+    },
+    {
+      "id": "4bda9eb6-1fa7-4243-a380-bb50b36e9e8a",
+      "title": "Shaft",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "shaft",
+      "has_reactions": false
+    },
+    {
+      "id": "c61e500b-44d1-4a8b-ae70-0f24c19e6b81",
+      "title": "Haunting of the Mary Celeste",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "haunting-of-the-mary-celeste",
+      "has_reactions": false
+    },
+    {
+      "id": "45dfc180-8cb2-4c24-811b-745b73a97050",
+      "title": "A Choice of Weapons: Inspired by Gordon Parks",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "a-choice-of-weapons-inspired-by-gordon-parks",
+      "has_reactions": false
+    },
+    {
+      "id": "bb473450-3563-4b26-814c-425e6bbb67cf",
+      "title": "Moving On",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "moving-on",
+      "has_reactions": false
+    },
+    {
+      "id": "aae35e12-9725-434b-a12a-3f7d3c716a70",
+      "title": "Thelma",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "thelma",
+      "has_reactions": false
+    }
+  ]
+}

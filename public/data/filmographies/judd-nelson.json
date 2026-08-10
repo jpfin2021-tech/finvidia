@@ -1,0 +1,632 @@
+{
+  "id": "7d0f667c-53e3-4e0a-a3ac-888226957c42",
+  "name": "Judd Nelson",
+  "slug": "judd-nelson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wBmrilZLGk4kWOf4exboIQ6PP3l.jpg",
+  "filmography": [
+    {
+      "id": "896bc46c-4070-4407-a192-6102eed23bd1",
+      "title": "Rock 'n' Roll Hotel",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "rock-n-roll-hotel",
+      "has_reactions": false
+    },
+    {
+      "id": "5f010527-449e-4151-a4e3-111503699cc1",
+      "title": "Making the Grade",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "making-the-grade",
+      "has_reactions": false
+    },
+    {
+      "id": "ab4e6a8c-ae28-4a96-98f6-bcb3a490a9fa",
+      "title": "The Breakfast Club",
+      "release_year": 1985,
+      "studio_label": "Universal Pictures",
+      "slug": "the-breakfast-club",
+      "has_reactions": true
+    },
+    {
+      "id": "f8cde71d-7747-4a06-a3e7-64586cbd2935",
+      "title": "Fandango",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "fandango",
+      "has_reactions": false
+    },
+    {
+      "id": "8d4f5a2a-a0cd-401c-ac0d-4162a81e2313",
+      "title": "The Transformers: The Movie",
+      "release_year": 1986,
+      "studio_label": "Marvel Productions",
+      "slug": "the-transformers-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e077f6dd-2347-426a-9bd0-34fc1f281c9d",
+      "title": "Shattered: If Your Kid's on Drugs",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "shattered-if-your-kid-s-on-drugs",
+      "has_reactions": false
+    },
+    {
+      "id": "f8c34352-9513-4132-b630-dbf7b92a182d",
+      "title": "From the Hip",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "from-the-hip",
+      "has_reactions": false
+    },
+    {
+      "id": "75647a1c-c025-4f2b-8116-6646dca3d8f6",
+      "title": "Billionaire Boys Club",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "billionaire-boys-club",
+      "has_reactions": false
+    },
+    {
+      "id": "45047d0c-a8c8-4041-920d-0700b8a80c1f",
+      "title": "Funny, You Don't Look 200: A Constitutional Vaudeville",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "funny-you-don-t-look-200-a-constitutional-vaudeville",
+      "has_reactions": false
+    },
+    {
+      "id": "053a8239-55aa-41e8-88bc-af54ad003e90",
+      "title": "Never on Tuesday",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "never-on-tuesday",
+      "has_reactions": false
+    },
+    {
+      "id": "e9384ecb-825b-40ea-a8c9-8be6a598a847",
+      "title": "Relentless",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "relentless",
+      "has_reactions": false
+    },
+    {
+      "id": "a9ceb84d-24fb-4e7f-9387-b2e5871d5aad",
+      "title": "Far Out Man",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "far-out-man",
+      "has_reactions": false
+    },
+    {
+      "id": "25f4aeae-ace6-4218-a9cb-ba4d6f5fc256",
+      "title": "Hiroshima: Out of the Ashes",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "hiroshima-out-of-the-ashes",
+      "has_reactions": false
+    },
+    {
+      "id": "98f09bb1-0efc-4d7d-9435-97c3e39ca2bb",
+      "title": "New Jack City",
+      "release_year": 1991,
+      "studio_label": "Jacmac Films",
+      "slug": "new-jack-city",
+      "has_reactions": true
+    },
+    {
+      "id": "8b6235d1-011a-440f-9df9-fd51a8c62189",
+      "title": "The Dark Backward",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-dark-backward",
+      "has_reactions": false
+    },
+    {
+      "id": "631437d3-0ac9-4ee3-b194-f8af4e059e66",
+      "title": "Primary Motive",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "primary-motive",
+      "has_reactions": false
+    },
+    {
+      "id": "f1802901-f4a9-4105-a8bc-280487a6db62",
+      "title": "Entangled",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "entangled",
+      "has_reactions": false
+    },
+    {
+      "id": "ac6a2b8f-a277-4517-a63a-359de6684778",
+      "title": "Conflict of Interest",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "conflict-of-interest",
+      "has_reactions": false
+    },
+    {
+      "id": "c404a4e9-e99c-413e-b16d-6c926d6511a4",
+      "title": "Flinch",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "flinch",
+      "has_reactions": false
+    },
+    {
+      "id": "ea3d471f-d40f-4d57-9ec9-22573c4f6521",
+      "title": "Airheads",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "airheads",
+      "has_reactions": false
+    },
+    {
+      "id": "4519e2af-feeb-402f-88b3-e667384b2343",
+      "title": "Blindfold: Acts of Obsession",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "blindfold-acts-of-obsession",
+      "has_reactions": false
+    },
+    {
+      "id": "31335c53-bb3f-455f-ab70-7b6f5a7f4448",
+      "title": "Every Breath",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "every-breath",
+      "has_reactions": false
+    },
+    {
+      "id": "9d39ed59-a903-412f-b542-03716bd19b1d",
+      "title": "Caroline at Midnight",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "caroline-at-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "5775d0f3-5672-43f7-bf00-4d6920d6456c",
+      "title": "Blackwater Trail",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "blackwater-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "43b6389d-b601-46ba-99e0-ab4193134057",
+      "title": "Circumstances Unknown",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "circumstances-unknown",
+      "has_reactions": false
+    },
+    {
+      "id": "177b0a37-43a4-4593-be28-eedb61ecf354",
+      "title": "For a Few Lousy Dollars",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "for-a-few-lousy-dollars",
+      "has_reactions": false
+    },
+    {
+      "id": "46ad1cd5-94d6-438c-938b-978b8b296f2e",
+      "title": "Light It Up",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "light-it-up",
+      "has_reactions": false
+    },
+    {
+      "id": "36b24b11-baf2-487f-9d67-e003b56c66ff",
+      "title": "Mr. Rock n Roll: The Alan Freed Story",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "mr-rock-n-roll-the-alan-freed-story",
+      "has_reactions": false
+    },
+    {
+      "id": "103bd0e3-9e53-4ac4-9086-392a7a07dc67",
+      "title": "Cabin by the Lake",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "cabin-by-the-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "4b2f544a-d5be-4718-aab7-c780ac21b2df",
+      "title": "The Spiral Staircase",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-spiral-staircase",
+      "has_reactions": false
+    },
+    {
+      "id": "fe4e7a68-57cc-4118-97d6-44348e223aeb",
+      "title": "Return to Cabin by the Lake",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "return-to-cabin-by-the-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "eac74d10-12c7-46ea-a4f8-0d6e4e45af56",
+      "title": "Jay and Silent Bob Strike Back",
+      "release_year": 2001,
+      "studio_label": "Dimension Films",
+      "slug": "jay-and-silent-bob-strike-back",
+      "has_reactions": true
+    },
+    {
+      "id": "22eecf0d-faf6-4cde-ba6d-48a29abb2976",
+      "title": "The Cure for Boredom",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-cure-for-boredom",
+      "has_reactions": false
+    },
+    {
+      "id": "492f596b-dc82-477a-8f8d-3b070ac25db8",
+      "title": "Strange Frequency",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "strange-frequency",
+      "has_reactions": false
+    },
+    {
+      "id": "c36d5b4c-ead0-45ff-9b8b-39f46d9375ed",
+      "title": "Dark Asylum",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dark-asylum",
+      "has_reactions": false
+    },
+    {
+      "id": "ebb45200-237a-4152-b2df-6411e3e6e0ac",
+      "title": "Deceived",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "deceived",
+      "has_reactions": false
+    },
+    {
+      "id": "b22a5706-d6c8-44dc-8b22-cf3f116cf843",
+      "title": "White Rush",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "white-rush",
+      "has_reactions": false
+    },
+    {
+      "id": "220945cd-9e7b-4058-9a05-3d0ded3258c7",
+      "title": "Cybermutt",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "cybermutt",
+      "has_reactions": false
+    },
+    {
+      "id": "3f94fc1d-2032-44e2-b77a-53f8c84224ad",
+      "title": "The Freediver",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-freediver",
+      "has_reactions": false
+    },
+    {
+      "id": "74caca80-a5e9-48fe-a178-65adf037a7df",
+      "title": "Oh, What a Lovely Tea Party",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "oh-what-a-lovely-tea-party",
+      "has_reactions": false
+    },
+    {
+      "id": "9c1099bf-5647-4268-aee3-86afc07e2d73",
+      "title": "The Lost Angel",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-lost-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "1eb6f8d1-3735-4d3d-9414-209256952922",
+      "title": "Three Wise Guys",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "three-wise-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "cbf53bbd-d240-4341-9372-ef66f067e350",
+      "title": "The Black Hole",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-black-hole",
+      "has_reactions": false
+    },
+    {
+      "id": "6bb238d3-7bd9-44fa-bd8a-1e8a4e6ea0a2",
+      "title": "National Lampoon's TV: The Movie",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "national-lampoon-s-tv-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "3d3be90a-d247-44c6-b85c-b815fe348e0e",
+      "title": "Infected",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "infected",
+      "has_reactions": false
+    },
+    {
+      "id": "87f1f920-dda8-41ba-8cd4-eacc2c4d854c",
+      "title": "The Day the Earth Stopped",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-day-the-earth-stopped",
+      "has_reactions": false
+    },
+    {
+      "id": "ef42e5a9-1981-4028-869d-8959b6196656",
+      "title": "The Kidnapping",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-kidnapping",
+      "has_reactions": false
+    },
+    {
+      "id": "5697a200-f930-40cb-bb91-2c5a0206324e",
+      "title": "Nevermore",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "nevermore",
+      "has_reactions": false
+    },
+    {
+      "id": "f4732f2c-a25a-4e47-bb6e-8714917a5a6b",
+      "title": "The Boondock Saints II: All Saints Day",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-boondock-saints-ii-all-saints-day",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bb5004-cbbf-4b34-b6de-18b92e201568",
+      "title": "Teen Spirit: Teenagers and Hollywood",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "teen-spirit-teenagers-and-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "90695f5c-dadf-4ab8-ac2c-d8defe61d49b",
+      "title": "The Terror Experiment",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-terror-experiment",
+      "has_reactions": false
+    },
+    {
+      "id": "63519225-a07a-4945-87f2-4fbb4c48ad2b",
+      "title": "Endure",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "endure",
+      "has_reactions": false
+    },
+    {
+      "id": "d83b64b6-97da-4259-bb09-0aa34bf7d231",
+      "title": "Mayor Cupcake",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mayor-cupcake",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9f3331-ed39-48f1-b28c-8e6f97404091",
+      "title": "Cancel Christmas",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "cancel-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "72ddc5da-809e-47fd-94a0-552b29009a02",
+      "title": "Shadow People",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "shadow-people",
+      "has_reactions": false
+    },
+    {
+      "id": "d6083a3a-3c54-4f54-af3a-62d861ddabbe",
+      "title": "Just 45 Minutes from Broadway",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "just-45-minutes-from-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "faaa16bd-59ef-4d65-ab45-6fa7e6462d37",
+      "title": "Bad Kids Go to Hell",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-kids-go-to-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "bc83d33c-a432-4503-82bf-db3c64b8987a",
+      "title": "Down and Dangerous",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "down-and-dangerous",
+      "has_reactions": false
+    },
+    {
+      "id": "5b44cd0f-9e14-404a-a9a6-d1d55d51b673",
+      "title": "Nurse 3-D",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "nurse-3-d",
+      "has_reactions": false
+    },
+    {
+      "id": "3e31cc9c-0eed-44cf-ada6-902d801a5338",
+      "title": "Kristin's Christmas Past",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kristin-s-christmas-past",
+      "has_reactions": false
+    },
+    {
+      "id": "cccf08f9-3437-4d4c-b4f2-304ab944aa25",
+      "title": "Road to the Open",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-open",
+      "has_reactions": false
+    },
+    {
+      "id": "c2282660-8a8c-49a0-a51b-5cd07cd65f1d",
+      "title": "Haunting of the Innocent",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "haunting-of-the-innocent",
+      "has_reactions": false
+    },
+    {
+      "id": "0a21c520-e67f-49ff-8f44-3d94fb20caeb",
+      "title": "Private Number",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "private-number",
+      "has_reactions": false
+    },
+    {
+      "id": "88a1e9c7-d400-41b0-8550-4436c3ea640c",
+      "title": "This Is Happening",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "this-is-happening",
+      "has_reactions": false
+    },
+    {
+      "id": "0e784f30-1799-425e-adf5-a2c7f7b0266c",
+      "title": "When Duty Calls",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "when-duty-calls",
+      "has_reactions": false
+    },
+    {
+      "id": "61221ffd-3316-4dfb-9f59-4d6d4151e7a9",
+      "title": "The Bandit Hound",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-bandit-hound",
+      "has_reactions": false
+    },
+    {
+      "id": "67657f98-918b-4347-b5d3-ed8e3687ee4c",
+      "title": "Stagecoach: The Texas Jack Story",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "stagecoach-the-texas-jack-story",
+      "has_reactions": false
+    },
+    {
+      "id": "9e706c43-e54f-40d9-a156-e980590e7a9f",
+      "title": "Transformers: Titans Return",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "transformers-titans-return",
+      "has_reactions": false
+    },
+    {
+      "id": "5112e0f7-e695-4b8a-894a-d3f2ed7ee8a7",
+      "title": "From Straight A's to XXX",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "from-straight-a-s-to-xxx",
+      "has_reactions": false
+    },
+    {
+      "id": "5d178e07-5f1a-45f9-ba28-63fd2c14b392",
+      "title": "Transformers: Power of the Primes",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "transformers-power-of-the-primes",
+      "has_reactions": false
+    },
+    {
+      "id": "c3c29e01-aefe-4ec1-8ce3-755f5180caae",
+      "title": "1/1",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "1-1",
+      "has_reactions": false
+    },
+    {
+      "id": "22022036-8d8c-4ccf-9d90-dfa821632e2a",
+      "title": "Cojot: A Second Chance Comes Only Once",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "cojot-a-second-chance-comes-only-once",
+      "has_reactions": false
+    },
+    {
+      "id": "68b22013-24f9-4b4c-9d70-47fc03cc9878",
+      "title": "Billionaire Boys Club",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "billionaire-boys-club",
+      "has_reactions": false
+    },
+    {
+      "id": "de21e4a0-30f1-4932-8564-8a2862e0e458",
+      "title": "Dauntless: The Battle of Midway",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dauntless-the-battle-of-midway",
+      "has_reactions": false
+    },
+    {
+      "id": "f36f2a30-8ab6-4845-8182-62df119af038",
+      "title": "Madness in the Method",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "madness-in-the-method",
+      "has_reactions": false
+    },
+    {
+      "id": "2f802d2d-49b1-4dbc-a81f-0b5a728f2521",
+      "title": "#Unknown",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "unknown",
+      "has_reactions": false
+    },
+    {
+      "id": "ac4d5238-6430-492b-b896-5604591e0e98",
+      "title": "Save Christmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "save-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "820cbb36-bf9e-4d14-b99e-97383c742e9c",
+      "title": "The Engagement Plan",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-engagement-plan",
+      "has_reactions": false
+    }
+  ]
+}

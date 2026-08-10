@@ -1,0 +1,624 @@
+{
+  "id": "1108a3f6-081f-453f-b9d2-47d39fba702a",
+  "name": "Richard Attenborough",
+  "slug": "richard-attenborough",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg",
+  "filmography": [
+    {
+      "id": "6829fca9-1480-4137-b7dd-fb031d57c7ce",
+      "title": "Svejk Wrecks Germany",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "svejk-wrecks-germany",
+      "has_reactions": false
+    },
+    {
+      "id": "ac6979a3-c5d7-4c3b-808f-938f10ddf4a2",
+      "title": "The Hundred Pound Window",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-hundred-pound-window",
+      "has_reactions": false
+    },
+    {
+      "id": "f312e145-2a29-4b13-87e3-d1cd4e1d1ea1",
+      "title": "Journey Together",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "journey-together",
+      "has_reactions": false
+    },
+    {
+      "id": "6c55c787-13d2-4fda-972a-fbcf04726542",
+      "title": "The True Glory",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "the-true-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "21675944-5110-4d67-848e-f36bd330cecf",
+      "title": "The Man Within",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-man-within",
+      "has_reactions": false
+    },
+    {
+      "id": "f1f456f1-e550-4e29-897b-f229a88aa005",
+      "title": "Dancing with Crime",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "dancing-with-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "f0bf6ca6-0471-4e43-be3a-4b0409de3cf2",
+      "title": "London Belongs to Me",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "london-belongs-to-me",
+      "has_reactions": false
+    },
+    {
+      "id": "8959a44f-1056-4fc2-8c89-f93ea9b3865b",
+      "title": "Brighton Rock",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "brighton-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "a46c22ba-7409-48e7-82d2-1916c2da97b0",
+      "title": "The Guinea Pig",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-guinea-pig",
+      "has_reactions": false
+    },
+    {
+      "id": "f5565f72-3f61-4a70-bf18-7332b060c2f6",
+      "title": "Boys in Brown",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "boys-in-brown",
+      "has_reactions": false
+    },
+    {
+      "id": "68541537-8685-4619-b410-2f4464234b5f",
+      "title": "The Lost People",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-lost-people",
+      "has_reactions": false
+    },
+    {
+      "id": "b458b68f-ae13-42f2-8810-a4f8080e23d6",
+      "title": "Hell Is Sold Out",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "hell-is-sold-out",
+      "has_reactions": false
+    },
+    {
+      "id": "65a8ea7b-7fa5-4882-94c8-86f281e07bcd",
+      "title": "Father's Doing Fine",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "father-s-doing-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "73cebbb0-4d1a-4e23-a708-be661afa393c",
+      "title": "The Magic Box",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-magic-box",
+      "has_reactions": false
+    },
+    {
+      "id": "326d075d-d6a9-4c04-871b-02de39c21b61",
+      "title": "Box for One",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "box-for-one",
+      "has_reactions": false
+    },
+    {
+      "id": "89fa3342-aa6a-47af-ba98-9d68a307f6b8",
+      "title": "Eight O'Clock Walk",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "eight-o-clock-walk",
+      "has_reactions": false
+    },
+    {
+      "id": "bcd2a5da-0e80-4a63-ade2-581f92aaa370",
+      "title": "The Ship That Died of Shame",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-ship-that-died-of-shame",
+      "has_reactions": false
+    },
+    {
+      "id": "611d8ab0-c3a1-49d8-8fbd-3da6f49e35f3",
+      "title": "Private's Progress",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "private-s-progress",
+      "has_reactions": false
+    },
+    {
+      "id": "cad7c09f-541b-4f4d-8c9b-f6557c5ff657",
+      "title": "The Baby and the Battleship",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-baby-and-the-battleship",
+      "has_reactions": false
+    },
+    {
+      "id": "00a2179f-6950-4ffc-acdb-f4962f3208ca",
+      "title": "Brothers in Law",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-law",
+      "has_reactions": false
+    },
+    {
+      "id": "99bf62d2-ed41-4f9a-853b-a4cee0ce40ca",
+      "title": "The Scamp",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-scamp",
+      "has_reactions": false
+    },
+    {
+      "id": "b8882110-1489-4cea-8869-b767c7948850",
+      "title": "The Man Upstairs",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-man-upstairs",
+      "has_reactions": false
+    },
+    {
+      "id": "736040b2-2116-4b10-b448-b19a023e3dcd",
+      "title": "Dunkirk",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "dunkirk",
+      "has_reactions": false
+    },
+    {
+      "id": "13ba412c-91f1-466e-808d-c7c8b8eb7da0",
+      "title": "Sea of Sand",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "sea-of-sand",
+      "has_reactions": false
+    },
+    {
+      "id": "3f39be7d-a7a7-43d4-b1b1-56fd58bf9267",
+      "title": "Jet Storm",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "jet-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "730550f3-d6ec-445f-a5d6-c83f903cb8ba",
+      "title": "SOS Pacific",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "sos-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "d404040b-4891-4742-b379-d1bb759afe76",
+      "title": "Danger Within",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "danger-within",
+      "has_reactions": false
+    },
+    {
+      "id": "36a59f07-5c3a-42fe-97f9-e73a8d43206e",
+      "title": "All Night Long",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "all-night-long",
+      "has_reactions": false
+    },
+    {
+      "id": "ec36bfbe-e17a-4f84-b867-3365e90d892c",
+      "title": "The Great Escape",
+      "release_year": 1963,
+      "studio_label": "The Mirisch Company",
+      "slug": "the-great-escape",
+      "has_reactions": true
+    },
+    {
+      "id": "b15774f5-f696-42f9-9854-38a417f72b22",
+      "title": "Seance on a Wet Afternoon",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "seance-on-a-wet-afternoon",
+      "has_reactions": false
+    },
+    {
+      "id": "e1ae7532-823c-4e94-bf97-5cc80629708c",
+      "title": "The Sand Pebbles",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-sand-pebbles",
+      "has_reactions": false
+    },
+    {
+      "id": "4cf5d25d-881b-400a-8dc2-62e50cba757e",
+      "title": "Only When I Larf",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "only-when-i-larf",
+      "has_reactions": false
+    },
+    {
+      "id": "c62971b4-c05a-4d22-a5f8-180a108ddc21",
+      "title": "The Bliss of Mrs. Blossom",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-bliss-of-mrs-blossom",
+      "has_reactions": false
+    },
+    {
+      "id": "c15d24b0-0f6d-4eef-9cb2-f0078cefbf60",
+      "title": "The Magic Christian",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-magic-christian",
+      "has_reactions": false
+    },
+    {
+      "id": "3f1792cd-b0e1-4991-82f8-c300e4579ceb",
+      "title": "Loot",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "loot",
+      "has_reactions": false
+    },
+    {
+      "id": "7aef4b3e-1e3b-4e54-892d-6dc2d171ac2f",
+      "title": "Don't Make Me Laugh",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "don-t-make-me-laugh",
+      "has_reactions": false
+    },
+    {
+      "id": "a47853d7-e76d-4f2b-b654-10e0783117ff",
+      "title": "The Last Grenade",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-last-grenade",
+      "has_reactions": false
+    },
+    {
+      "id": "a4e347a0-0593-4497-a619-a2a7b61c2ecb",
+      "title": "10 Rillington Place",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "10-rillington-place",
+      "has_reactions": false
+    },
+    {
+      "id": "3cb08f84-3a0e-4aff-a967-a564c3449b16",
+      "title": "A Severed Head",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "a-severed-head",
+      "has_reactions": false
+    },
+    {
+      "id": "49e4457a-c499-4718-b39b-59e74451bd8e",
+      "title": "And Then There Were None",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "and-then-there-were-none",
+      "has_reactions": false
+    },
+    {
+      "id": "cf8942bf-d368-4745-a34a-c3e3d78914a6",
+      "title": "Brannigan",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "brannigan",
+      "has_reactions": false
+    },
+    {
+      "id": "65b91ae6-b726-443e-a7ea-cd9aef03b820",
+      "title": "Rosebud",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "rosebud",
+      "has_reactions": false
+    },
+    {
+      "id": "cd94b299-f403-41c3-8ec1-8ad771e25afc",
+      "title": "The Chess Players",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-chess-players",
+      "has_reactions": false
+    },
+    {
+      "id": "1bb654d6-2ca2-4366-97cf-7bcbf6e1d45f",
+      "title": "A Bridge Too Far",
+      "release_year": 1977,
+      "studio_label": "United Artists",
+      "slug": "a-bridge-too-far",
+      "has_reactions": true
+    },
+    {
+      "id": "61bf4145-744a-4987-a074-c68f99d20340",
+      "title": "The Human Factor",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-human-factor",
+      "has_reactions": false
+    },
+    {
+      "id": "4a67e4b6-642e-41a8-8861-2a853adf3180",
+      "title": "The Golden Gong: The Story of Rank Films - British Cinema's Legendary Studio",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-golden-gong-the-story-of-rank-films-british-cinema-s-legendary-studio",
+      "has_reactions": false
+    },
+    {
+      "id": "a53ef1aa-45a0-4832-bbd6-ee20d343f957",
+      "title": "Mother Teresa",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "mother-teresa",
+      "has_reactions": false
+    },
+    {
+      "id": "0d4e86b3-3900-4718-9b89-6690440dad30",
+      "title": "Jurassic Park",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "jurassic-park",
+      "has_reactions": true
+    },
+    {
+      "id": "0dd96e1b-9256-4f67-b206-e4374f87d1d7",
+      "title": "Miracle on 34th Street",
+      "release_year": 1994,
+      "studio_label": "20th Century Fox",
+      "slug": "miracle-on-34th-street",
+      "has_reactions": true
+    },
+    {
+      "id": "f612c90a-1fb0-49fa-a609-d1bb49be68fc",
+      "title": "In Darkest Hollywood: Cinema and Apartheid",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "in-darkest-hollywood-cinema-and-apartheid",
+      "has_reactions": false
+    },
+    {
+      "id": "b2e31a1f-383c-411d-bea5-c500af3bc746",
+      "title": "A Century of Cinema",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-century-of-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "8f75216c-da17-4625-8a28-ee97e74615ee",
+      "title": "The Making of 'Jurassic Park'",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-jurassic-park",
+      "has_reactions": false
+    },
+    {
+      "id": "41ddafe5-9ede-401f-b69f-9a0ae7888d0b",
+      "title": "Hamlet",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "57c0cc41-5ab0-405a-a0a6-1395a2fae5de",
+      "title": "E=MC\u00b2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "e-mc",
+      "has_reactions": false
+    },
+    {
+      "id": "dfae3502-0c52-4375-b9c7-fe35eb8de50d",
+      "title": "The Lost World: Jurassic Park",
+      "release_year": 1997,
+      "studio_label": "Universal Pictures",
+      "slug": "the-lost-world-jurassic-park",
+      "has_reactions": true
+    },
+    {
+      "id": "8c3fc0bb-aef3-4048-b73c-2f27eb1515d8",
+      "title": "The Making of 'The Lost World'",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-lost-world",
+      "has_reactions": false
+    },
+    {
+      "id": "c50b0445-8590-4bdd-838f-5decf9b4f120",
+      "title": "Diana: Queen of Hearts",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "diana-queen-of-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "5b309a1d-a8bc-4a17-81d5-c7255f8f235b",
+      "title": "Frank Sinatra: The Voice of the Century",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "frank-sinatra-the-voice-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "1d9d7367-aa78-443f-b192-5480c18fd368",
+      "title": "Sir John Mills' Moving Memories",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sir-john-mills-moving-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "221cc7ce-e70a-4903-86c2-e5428ee155b6",
+      "title": "The Railway Children",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-railway-children",
+      "has_reactions": false
+    },
+    {
+      "id": "abe1ae42-4665-4a26-9a72-0daa3fcd80b3",
+      "title": "Light Keeps Me Company",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "light-keeps-me-company",
+      "has_reactions": false
+    },
+    {
+      "id": "c201cfb0-fef2-4d9e-b014-2c55977090c7",
+      "title": "The Children Who Cheated the Nazis",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-children-who-cheated-the-nazis",
+      "has_reactions": false
+    },
+    {
+      "id": "d04bf7fa-ee24-4c8d-b66f-67995bd34a8a",
+      "title": "Beyond Jurassic Park",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "beyond-jurassic-park",
+      "has_reactions": false
+    },
+    {
+      "id": "0cacbb95-c7d2-4103-8293-10d316a30262",
+      "title": "Forever Ealing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "forever-ealing",
+      "has_reactions": false
+    },
+    {
+      "id": "415589ed-c2ad-41c2-90a9-aa30e8f1bc7a",
+      "title": "Puckoon",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "puckoon",
+      "has_reactions": false
+    },
+    {
+      "id": "396f8884-08c4-42d0-9c66-38ecc14c5d56",
+      "title": "The Many Lives of Richard Attenborough",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-many-lives-of-richard-attenborough",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b44cc0-b48e-438f-90de-8d58f03890e2",
+      "title": "Within the Way Without",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "within-the-way-without",
+      "has_reactions": false
+    },
+    {
+      "id": "bf95d7f5-31e3-4ed3-8d15-46f099873eb7",
+      "title": "Toward the Unknown Region: Malcolm Arnold - A Story of Survival",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "toward-the-unknown-region-malcolm-arnold-a-story-of-survival",
+      "has_reactions": false
+    },
+    {
+      "id": "f1998f79-5b13-427b-b6ee-05d24253c927",
+      "title": "Steve McQueen: The Essence of Cool",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "steve-mcqueen-the-essence-of-cool",
+      "has_reactions": false
+    },
+    {
+      "id": "8e3a4728-d26e-48be-9fdd-ef782708ff56",
+      "title": "The Making of 'The Sand Pebbles'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-sand-pebbles",
+      "has_reactions": false
+    },
+    {
+      "id": "60df81b7-fd26-413b-8a98-3ade54e82af1",
+      "title": "Chaplin the Hero",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "chaplin-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "98e61e93-c50e-4106-86a5-51849d80b2fd",
+      "title": "Strolling Into the Sunset",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "strolling-into-the-sunset",
+      "has_reactions": false
+    },
+    {
+      "id": "7c8c17e8-3c2f-486a-8528-9ea7c6a8693c",
+      "title": "The Most Famous Man in the World!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-most-famous-man-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "4a927879-8d78-45c0-90f2-7863193e4cac",
+      "title": "Return to Jurassic Park",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "return-to-jurassic-park",
+      "has_reactions": false
+    },
+    {
+      "id": "e01d1f8b-124a-4604-a6a9-2250c63860ce",
+      "title": "Richard Attenborough: A Life in Film",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "richard-attenborough-a-life-in-film",
+      "has_reactions": false
+    },
+    {
+      "id": "c8dbe20b-f1a4-4bc0-a2b4-8315d0a26239",
+      "title": "Diana: The People's Princess",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "diana-the-people-s-princess",
+      "has_reactions": false
+    },
+    {
+      "id": "18976d18-ca57-4456-b2e8-82fe268bdcfc",
+      "title": "Humphrey Jennings: The Man Who Listened to Britain",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "humphrey-jennings-the-man-who-listened-to-britain",
+      "has_reactions": false
+    }
+  ]
+}

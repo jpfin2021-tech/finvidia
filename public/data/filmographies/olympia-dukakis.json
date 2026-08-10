@@ -1,0 +1,680 @@
+{
+  "id": "59b1a730-71d9-424a-89f0-b3fc78a53693",
+  "name": "Olympia Dukakis",
+  "slug": "olympia-dukakis",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg",
+  "filmography": [
+    {
+      "id": "ea4cc5a9-2f1a-4150-8080-971e373a245f",
+      "title": "Twice a Man",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "twice-a-man",
+      "has_reactions": false
+    },
+    {
+      "id": "a1085c37-1f3d-41a2-a03d-063a5d67019d",
+      "title": "Lilith",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "lilith",
+      "has_reactions": false
+    },
+    {
+      "id": "2ca3cd59-cc29-46f5-a7eb-ed8af9a65388",
+      "title": "John and Mary",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "john-and-mary",
+      "has_reactions": false
+    },
+    {
+      "id": "a4b90f27-a8e2-4502-9607-69a4c1079cc9",
+      "title": "Stiletto",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "stiletto",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c3ed0a-136e-404c-b250-cbdb1bc469f2",
+      "title": "Made For Each Other",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "made-for-each-other",
+      "has_reactions": false
+    },
+    {
+      "id": "b88a8579-9196-41cc-b535-c891ddc534b1",
+      "title": "Sisters",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "bdfc34dc-8bbc-4e79-93b1-6b425a2e18ef",
+      "title": "Nicky's World",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "nicky-s-world",
+      "has_reactions": false
+    },
+    {
+      "id": "bc18c097-0240-43a7-bc0c-a2a863021bdc",
+      "title": "The Rehearsal",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-rehearsal",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8f89fa-e072-429c-ab9b-06fcc8de3c9c",
+      "title": "The Seagull",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-seagull",
+      "has_reactions": false
+    },
+    {
+      "id": "3dc17977-51cf-47e4-9311-ac2fe4dee151",
+      "title": "Rich Kids",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "rich-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "0dc7c287-a471-4af2-8781-1f332c844d10",
+      "title": "The Wanderers",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-wanderers",
+      "has_reactions": false
+    },
+    {
+      "id": "cced09f9-249f-41ab-8394-ccacb32fa430",
+      "title": "F.D.R.: The Last Year",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "f-d-r-the-last-year",
+      "has_reactions": false
+    },
+    {
+      "id": "ea014391-279c-44ef-96de-28c7275c7eb1",
+      "title": "The Neighborhood",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-neighborhood",
+      "has_reactions": false
+    },
+    {
+      "id": "802b6a72-54ee-4a5c-b4ea-bd8ed9e595bd",
+      "title": "National Lampoon's Movie Madness",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "national-lampoon-s-movie-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "879c0a47-701d-4e42-b996-85c6f0c37cab",
+      "title": "Flanagan",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "flanagan",
+      "has_reactions": false
+    },
+    {
+      "id": "2065aa28-6f5e-48b2-995b-3e0abc5e82f3",
+      "title": "Moonstruck",
+      "release_year": 1987,
+      "studio_label": "Star Partners",
+      "slug": "moonstruck",
+      "has_reactions": true
+    },
+    {
+      "id": "30a31baf-efcf-45d5-b073-238ce24c5b41",
+      "title": "Working Girl",
+      "release_year": 1988,
+      "studio_label": "20th Century Fox",
+      "slug": "working-girl",
+      "has_reactions": true
+    },
+    {
+      "id": "6e00ef06-dbf6-47c3-9caa-d6bee8eb3e11",
+      "title": "Steel Magnolias",
+      "release_year": 1989,
+      "studio_label": "Rastar Productions",
+      "slug": "steel-magnolias",
+      "has_reactions": true
+    },
+    {
+      "id": "e4044e01-468c-455c-afae-c1059c3a3a04",
+      "title": "Look Who's Talking",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking",
+      "has_reactions": false
+    },
+    {
+      "id": "cc804195-4cdb-425f-9b68-da3818a71e7b",
+      "title": "Dad",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "dad",
+      "has_reactions": false
+    },
+    {
+      "id": "5aea5e96-5347-4662-a6ca-4f6ea73b5a53",
+      "title": "In the Spirit",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "in-the-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "774d7326-f4fc-4f8d-8a70-af4a0897f910",
+      "title": "Look Who's Talking Too",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-too",
+      "has_reactions": false
+    },
+    {
+      "id": "76b9e8f8-ea80-4cf5-a68b-8edc99faf1b9",
+      "title": "Fire in the Dark",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "fire-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "379f3c4d-de88-4891-8c3d-0d36529c6dc8",
+      "title": "Lucky Day",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "lucky-day",
+      "has_reactions": false
+    },
+    {
+      "id": "0fcbdfa2-db48-48cc-b8e9-dc2e899a00e6",
+      "title": "Over the Hill",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "over-the-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "c36503bf-a252-4143-9299-696f41499d60",
+      "title": "Look Who's Talking Now!",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-now",
+      "has_reactions": false
+    },
+    {
+      "id": "91acbf1c-3b25-415f-82d0-94761839f0b0",
+      "title": "The Cemetery Club",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-cemetery-club",
+      "has_reactions": false
+    },
+    {
+      "id": "0614d4be-2533-4e70-99a8-7c260cba4278",
+      "title": "Naked Gun 33\u2153: The Final Insult",
+      "release_year": 1994,
+      "studio_label": "Paramount Pictures",
+      "slug": "naked-gun-33-the-final-insult",
+      "has_reactions": true
+    },
+    {
+      "id": "1c2ac91c-bc96-472d-9a9e-8fdf425b1000",
+      "title": "Mr. Holland's Opus",
+      "release_year": 1995,
+      "studio_label": "Hollywood Pictures",
+      "slug": "mr-holland-s-opus",
+      "has_reactions": true
+    },
+    {
+      "id": "c301a349-f59d-4b85-9711-ec1b5d6bb53e",
+      "title": "Mighty Aphrodite",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mighty-aphrodite",
+      "has_reactions": false
+    },
+    {
+      "id": "fc7bcea1-600c-41b9-81ca-da58a1c72267",
+      "title": "Young at Heart",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "young-at-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "61db4c45-2e80-46b6-93e2-44accc1de926",
+      "title": "Dream Journey",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dream-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "48df3372-640d-4340-a365-320fbed9dbe5",
+      "title": "Mother",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mother",
+      "has_reactions": false
+    },
+    {
+      "id": "8f143bbf-b541-418b-9031-f0c466e08557",
+      "title": "Jerusalem",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jerusalem",
+      "has_reactions": false
+    },
+    {
+      "id": "d174232e-788a-4a7b-bac4-328bb73ad632",
+      "title": "Never Too Late",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "never-too-late",
+      "has_reactions": false
+    },
+    {
+      "id": "e2a66fff-32c7-4be0-96cb-79d7142db2c7",
+      "title": "A Match Made in Heaven",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-match-made-in-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "61a9fb66-77d0-4909-9295-3db6da60342a",
+      "title": "Balkan Island: The Last Story of the Century",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "balkan-island-the-last-story-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "3fcbbe1e-bf0a-4023-963c-92bf53a2d9c7",
+      "title": "Better Living",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "better-living",
+      "has_reactions": false
+    },
+    {
+      "id": "5f337986-ea43-481a-9304-690239d7c571",
+      "title": "The Pentagon Wars",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-pentagon-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "57739923-1b98-4888-888c-9a185b344b2d",
+      "title": "Jane Austen's Mafia!",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "jane-austen-s-mafia",
+      "has_reactions": false
+    },
+    {
+      "id": "39107d00-30e4-453a-994d-eda3089925f7",
+      "title": "Scattering Dad",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "scattering-dad",
+      "has_reactions": false
+    },
+    {
+      "id": "bd65c4e7-664b-4707-8221-e314a7994dd3",
+      "title": "A Life for a Life",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-life-for-a-life",
+      "has_reactions": false
+    },
+    {
+      "id": "525b2f59-a5f8-4db9-a11f-6e1dab468c1c",
+      "title": "Crimes of Honour",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "crimes-of-honour",
+      "has_reactions": false
+    },
+    {
+      "id": "9db2d41c-5373-4274-abd2-6f9f578cd5fc",
+      "title": "Borough of Kings",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "borough-of-kings",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a5f03d-5075-4c64-9ffb-6b7718f1f070",
+      "title": "The Last of the Blonde Bombshells",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-the-blonde-bombshells",
+      "has_reactions": false
+    },
+    {
+      "id": "65400010-3884-42b6-befb-d522800292db",
+      "title": "Strange Relations",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "strange-relations",
+      "has_reactions": false
+    },
+    {
+      "id": "c340bb5a-acb5-4f2d-81f6-318d0bb4a142",
+      "title": "And Never Let Her Go",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "and-never-let-her-go",
+      "has_reactions": false
+    },
+    {
+      "id": "f6254d1f-5eb5-43ef-b025-413cd7fe695b",
+      "title": "Ladies and The Champ",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ladies-and-the-champ",
+      "has_reactions": false
+    },
+    {
+      "id": "c3a34529-24a5-425f-91fa-cf743df29960",
+      "title": "The Intended",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-intended",
+      "has_reactions": false
+    },
+    {
+      "id": "1571c309-5d85-4cb2-a131-c754c51ad7a8",
+      "title": "Guilty Hearts",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "guilty-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "a8692148-1d7d-4f82-bc51-8195de443085",
+      "title": "The Event",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-event",
+      "has_reactions": false
+    },
+    {
+      "id": "6686dde3-bc39-453a-9ec4-eb7a57b1619f",
+      "title": "Mafia Doctor",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "mafia-doctor",
+      "has_reactions": false
+    },
+    {
+      "id": "9a458d60-f58b-41e7-b5b2-7ab9ba3e36b4",
+      "title": "Charlie's War",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "charlie-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "557371cf-0187-448b-9f92-db963732a301",
+      "title": "The Librarian: Quest for the Spear",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-librarian-quest-for-the-spear",
+      "has_reactions": false
+    },
+    {
+      "id": "30309b4c-3bb1-402d-84bb-f07e3e12767c",
+      "title": "Signs Out of Time: The Life of Archaeologist Marija Gimbutas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "signs-out-of-time-the-life-of-archaeologist-marija-gimbutas",
+      "has_reactions": false
+    },
+    {
+      "id": "42bed05f-f50c-4a4b-8233-20b2541b074f",
+      "title": "The Great New Wonderful",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-great-new-wonderful",
+      "has_reactions": false
+    },
+    {
+      "id": "239718c9-7ce0-4c19-9637-1aaf6235e974",
+      "title": "Whiskey School",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "whiskey-school",
+      "has_reactions": false
+    },
+    {
+      "id": "210265e8-5c3d-4f16-895c-fedd746d794c",
+      "title": "The Thing About My Folks",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-thing-about-my-folks",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f89cad-e693-4c7e-87de-c607f8c4d5b1",
+      "title": "3 Needles",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "3-needles",
+      "has_reactions": false
+    },
+    {
+      "id": "a8863a20-b658-4830-a5c1-ebbeef89ad94",
+      "title": "Jesus, Mary and Joey",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jesus-mary-and-joey",
+      "has_reactions": false
+    },
+    {
+      "id": "6998dc12-63ba-4deb-afcf-ee7524debefb",
+      "title": "The Librarian: Return to King Solomon's Mines",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-librarian-return-to-king-solomon-s-mines",
+      "has_reactions": false
+    },
+    {
+      "id": "d713884d-bf3e-42fc-b7c9-a031f303f261",
+      "title": "Day On Fire",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "day-on-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "e3282932-2520-49b2-b43f-320d7f2f890f",
+      "title": "Moonstruck: At the Heart of an Italian Family",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "moonstruck-at-the-heart-of-an-italian-family",
+      "has_reactions": false
+    },
+    {
+      "id": "1c93918e-c493-4548-90d3-fb7dd08c5cfb",
+      "title": "In the Land of Women",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "in-the-land-of-women",
+      "has_reactions": false
+    },
+    {
+      "id": "055b05ac-fd15-4f2e-a011-69a5fc210713",
+      "title": "Away from Her",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "away-from-her",
+      "has_reactions": false
+    },
+    {
+      "id": "207f3db6-4cd1-4ce5-9170-93dd4856c899",
+      "title": "Cloudburst",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "cloudburst",
+      "has_reactions": false
+    },
+    {
+      "id": "8c005eaf-ce8e-4a9b-81b8-a5ef399dfef6",
+      "title": "Birds of a Feather",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "birds-of-a-feather",
+      "has_reactions": false
+    },
+    {
+      "id": "d5be14c5-027d-4684-8d0c-06b3eabf13c7",
+      "title": "Joe Papp in Five Acts",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "joe-papp-in-five-acts",
+      "has_reactions": false
+    },
+    {
+      "id": "0592cc2d-0523-4ef5-947d-ece0b42c1e4d",
+      "title": "The Christmas Spirit",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "b9c0016a-2d62-446a-9b9e-87ca45ca0adf",
+      "title": "The Last Keepers",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-last-keepers",
+      "has_reactions": false
+    },
+    {
+      "id": "a6278813-b36e-4582-838d-c54b9adcea87",
+      "title": "Big Driver",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "big-driver",
+      "has_reactions": false
+    },
+    {
+      "id": "c7b3f36b-bd82-4b0e-8478-1b317aae0288",
+      "title": "A Little Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "a-little-game",
+      "has_reactions": false
+    },
+    {
+      "id": "a9ddab92-6cbe-4908-9ad2-c1a936ad1af5",
+      "title": "Beneath the Olive Tree",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "beneath-the-olive-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "9df06e16-725d-4310-a5c9-662e292ad5ac",
+      "title": "7 Chinese Brothers",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "7-chinese-brothers",
+      "has_reactions": false
+    },
+    {
+      "id": "837c07af-d344-4bc5-bc4a-334ccd100ec0",
+      "title": "Emily & Tim",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "emily-tim",
+      "has_reactions": false
+    },
+    {
+      "id": "9a2a9578-1afc-46f9-b0c1-fbb7eedec40c",
+      "title": "Irene & Marie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "irene-marie",
+      "has_reactions": false
+    },
+    {
+      "id": "ed6edf08-207d-4fd6-ab06-fdf36dd85bb1",
+      "title": "Her Secret Sessions",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "her-secret-sessions",
+      "has_reactions": false
+    },
+    {
+      "id": "fa30dd57-5bcd-4391-9178-d3291a41df56",
+      "title": "The Infiltrator",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-infiltrator",
+      "has_reactions": false
+    },
+    {
+      "id": "db1817de-1bc2-4b42-9f4f-3e12d3eb334e",
+      "title": "The Untold Tales of Armistead Maupin",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-untold-tales-of-armistead-maupin",
+      "has_reactions": false
+    },
+    {
+      "id": "0cee53b7-2d2a-4a37-86d5-b33baf9cc5d0",
+      "title": "Olympia",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "olympia",
+      "has_reactions": false
+    },
+    {
+      "id": "ff289ba1-3ec8-498f-9d9e-1b87c3c020e0",
+      "title": "Change in the Air",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "change-in-the-air",
+      "has_reactions": false
+    },
+    {
+      "id": "a9cac72b-5862-4a6c-8f9b-d6821eb01c73",
+      "title": "The New Abolitionists",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-new-abolitionists",
+      "has_reactions": false
+    },
+    {
+      "id": "4493c0d4-03c2-443c-8942-604057bb2ae8",
+      "title": "The New Greek Americans",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-new-greek-americans",
+      "has_reactions": false
+    },
+    {
+      "id": "749f28e2-e3b7-4024-97c1-703118fd279b",
+      "title": "Not to Forget",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "not-to-forget",
+      "has_reactions": false
+    }
+  ]
+}

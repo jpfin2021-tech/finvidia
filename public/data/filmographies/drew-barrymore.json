@@ -1,0 +1,504 @@
+{
+  "id": "0aa6dd17-b23f-459f-b276-4fb87167efb8",
+  "name": "Drew Barrymore",
+  "slug": "drew-barrymore",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
+  "filmography": [
+    {
+      "id": "a1b6449f-20a6-4f83-8742-c52af2a5e553",
+      "title": "Suddenly, Love",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "suddenly-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1ec8b186-5c09-4c79-b9c4-841c83d941a6",
+      "title": "E.T. the Extra-Terrestrial",
+      "release_year": 1982,
+      "studio_label": "Universal Pictures",
+      "slug": "e-t-the-extra-terrestrial",
+      "has_reactions": true
+    },
+    {
+      "id": "65eaaedd-df0e-45ae-83ac-cb81466a9a30",
+      "title": "EPCOT Center: The Opening Celebration",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "epcot-center-the-opening-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "8102b5c1-9510-4a55-9997-fa280f6ee9e3",
+      "title": "The Fairest of Them All",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-fairest-of-them-all",
+      "has_reactions": false
+    },
+    {
+      "id": "49da25e2-c241-486d-90a8-ecfebb7e6168",
+      "title": "Firestarter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "firestarter",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8310da-a359-4da1-851b-55111aee564d",
+      "title": "Irreconcilable Differences",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "irreconcilable-differences",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b40ff2-a5c6-45c4-ade6-53c903f184ae",
+      "title": "Cat's Eye",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "cat-s-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "6ad14322-0d36-4f61-bcda-9a396c1c5ca7",
+      "title": "Disneyland's 30th Anniversary Celebration",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "disneyland-s-30th-anniversary-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "8ccba96e-66c5-44f0-b7f9-0f155e3cc5fb",
+      "title": "The Adventures of Con Sawyer and Hucklemary Finn",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-con-sawyer-and-hucklemary-finn",
+      "has_reactions": false
+    },
+    {
+      "id": "72dec6f7-6dc9-44de-9080-3ca3319ec93d",
+      "title": "Star Fairies",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "star-fairies",
+      "has_reactions": false
+    },
+    {
+      "id": "475733a0-b801-4c38-8c02-d727bfb9b872",
+      "title": "A Conspiracy of Love",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-conspiracy-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1a8a49b3-12b2-4cec-bda7-3c450278da4f",
+      "title": "Happy 100th Birthday, Hollywood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "happy-100th-birthday-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "aa4e4b60-4b14-4ea2-8054-158b89471db0",
+      "title": "Citizen Steve",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "citizen-steve",
+      "has_reactions": false
+    },
+    {
+      "id": "5998c673-bcf5-4c39-aa0f-42395404dd24",
+      "title": "Far from Home",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "far-from-home",
+      "has_reactions": false
+    },
+    {
+      "id": "e725ca9c-2e11-4364-9d13-d0112d485cea",
+      "title": "Motorama",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "motorama",
+      "has_reactions": false
+    },
+    {
+      "id": "eba501f3-de0c-4ad9-a605-34a7e1ef7c55",
+      "title": "Guncrazy",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "guncrazy",
+      "has_reactions": false
+    },
+    {
+      "id": "5656739d-bca8-4f57-a7f7-8bb60f6a6391",
+      "title": "Sketch Artist",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "sketch-artist",
+      "has_reactions": false
+    },
+    {
+      "id": "f08edbcb-98d3-49bc-ae2b-94afdc77f76d",
+      "title": "Wayne's World 2",
+      "release_year": 1993,
+      "studio_label": "Paramount Pictures",
+      "slug": "wayne-s-world-2",
+      "has_reactions": true
+    },
+    {
+      "id": "70e507ea-580c-4b24-8fdf-3d4c3d0348ce",
+      "title": "The Amy Fisher Story",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-amy-fisher-story",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4ba196-70df-43cb-a540-4be6f6f8ad93",
+      "title": "Batman Forever",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-forever",
+      "has_reactions": true
+    },
+    {
+      "id": "53b39b7d-3894-426c-b5e1-ea00f46f05f0",
+      "title": "Boys on the Side",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "boys-on-the-side",
+      "has_reactions": false
+    },
+    {
+      "id": "aef328f4-8cae-4afd-8ff3-60d15de16754",
+      "title": "Saturday Morning: Cartoons' Greatest Hits",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "saturday-morning-cartoons-greatest-hits",
+      "has_reactions": false
+    },
+    {
+      "id": "27b3a69c-3f8e-4a17-ba11-162d3c779033",
+      "title": "Scream",
+      "release_year": 1996,
+      "studio_label": "Dimension Films",
+      "slug": "scream",
+      "has_reactions": true
+    },
+    {
+      "id": "175c3884-d6ae-4ec8-99d1-c7e8ea8601ac",
+      "title": "Everyone Says I Love You",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "everyone-says-i-love-you",
+      "has_reactions": false
+    },
+    {
+      "id": "dc26c5d5-7a67-4d62-b775-76816c410ff1",
+      "title": "The Making of 'E.T. the Extra-Terrestrial'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-e-t-the-extra-terrestrial",
+      "has_reactions": false
+    },
+    {
+      "id": "0fd91615-ba4a-4585-810f-10d35641a0c2",
+      "title": "Best Men",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "best-men",
+      "has_reactions": false
+    },
+    {
+      "id": "2139a90d-5492-414d-b864-6826243f2ae0",
+      "title": "The Wedding Singer",
+      "release_year": 1998,
+      "studio_label": "Robert Simonds Productions",
+      "slug": "the-wedding-singer",
+      "has_reactions": true
+    },
+    {
+      "id": "c488c2b9-b5dc-4287-b164-7b0647689e1e",
+      "title": "EverAfter",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "everafter",
+      "has_reactions": false
+    },
+    {
+      "id": "4b3042a5-6887-47b4-ba30-31cfbefc4815",
+      "title": "Never Been Kissed",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "never-been-kissed",
+      "has_reactions": false
+    },
+    {
+      "id": "f562a3e3-a8c8-457f-a9a5-77f42b08b665",
+      "title": "Saturday Night Live: 25th Anniversary Special",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-25th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "49964ae0-4906-4741-be8b-d66495c4abd8",
+      "title": "Charlie's Angels",
+      "release_year": 2000,
+      "studio_label": "Columbia Pictures",
+      "slug": "charlie-s-angels",
+      "has_reactions": true
+    },
+    {
+      "id": "049e4aef-fe6b-4c72-939e-933c4fbf309d",
+      "title": "The Tom Green Cancer Special",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-tom-green-cancer-special",
+      "has_reactions": false
+    },
+    {
+      "id": "dd866483-f501-4ebc-8c10-399901367e7e",
+      "title": "Behind the Scream",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "behind-the-scream",
+      "has_reactions": false
+    },
+    {
+      "id": "c93433ff-f1d9-40c2-b91e-c20ce77d8680",
+      "title": "Donnie Darko",
+      "release_year": 2001,
+      "studio_label": "Flower Films",
+      "slug": "donnie-darko",
+      "has_reactions": true
+    },
+    {
+      "id": "0ad1dabf-a42b-4ce0-8d89-a7add3aa7194",
+      "title": "Riding in Cars with Boys",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "riding-in-cars-with-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "d88b9d23-3423-4af2-8ac7-6572518a801e",
+      "title": "Freddy Got Fingered",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "freddy-got-fingered",
+      "has_reactions": false
+    },
+    {
+      "id": "40639e36-fbb2-4287-97c4-54693e0049fe",
+      "title": "E.T. the Extra-Terrestrial 20th Anniversary Special",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "e-t-the-extra-terrestrial-20th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "f4286494-de2e-4250-9235-5259fd15186d",
+      "title": "Saturday Night Live: The Best of Will Ferrell",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-will-ferrell",
+      "has_reactions": false
+    },
+    {
+      "id": "bad21a6d-3951-47f7-8215-f127a21d6486",
+      "title": "Duplex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "duplex",
+      "has_reactions": false
+    },
+    {
+      "id": "d16db9a9-a6ec-41ce-ab97-990cd9b9704e",
+      "title": "50 First Dates",
+      "release_year": 2004,
+      "studio_label": "Columbia Pictures",
+      "slug": "50-first-dates",
+      "has_reactions": true
+    },
+    {
+      "id": "a2a00774-4746-4ba3-8610-bc9197ba3d1b",
+      "title": "Ramones: Raw",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ramones-raw",
+      "has_reactions": false
+    },
+    {
+      "id": "5ca843ce-6eff-406e-9ffa-f7509bff5dd8",
+      "title": "Fever Pitch",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "fever-pitch",
+      "has_reactions": false
+    },
+    {
+      "id": "8fd33575-545c-46b7-9dcf-002425668aae",
+      "title": "My Date with Drew",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "my-date-with-drew",
+      "has_reactions": false
+    },
+    {
+      "id": "0b6b3206-a231-47e2-8762-4eea486c46c0",
+      "title": "Making a Scene: Fever Pitch",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "making-a-scene-fever-pitch",
+      "has_reactions": false
+    },
+    {
+      "id": "1edcb2a4-cf3f-48c0-8763-3ef540d34ac1",
+      "title": "Playboy: Celebrity Centerfolds",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "playboy-celebrity-centerfolds",
+      "has_reactions": false
+    },
+    {
+      "id": "cb07edc8-2000-487b-bcba-964483be7e5d",
+      "title": "The Chuck Barris Story: My Life On The Edge",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-chuck-barris-story-my-life-on-the-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "60d68eff-0a7a-4695-a158-31c3669b1e20",
+      "title": "Most Shocking Celebrity Moments of the 80s",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "most-shocking-celebrity-moments-of-the-80s",
+      "has_reactions": false
+    },
+    {
+      "id": "4b77f226-66f2-4610-a854-4781a33d070b",
+      "title": "Beverly Hills Chihuahua",
+      "release_year": 2008,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "beverly-hills-chihuahua",
+      "has_reactions": true
+    },
+    {
+      "id": "49f13610-4e24-4d61-8a25-25565149952c",
+      "title": "He's Just Not That Into You",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "he-s-just-not-that-into-you",
+      "has_reactions": false
+    },
+    {
+      "id": "4695ee7b-7f04-479f-946f-52e2665f5e63",
+      "title": "Grey Gardens",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "grey-gardens",
+      "has_reactions": false
+    },
+    {
+      "id": "a9151692-efc3-47e4-8bab-104c439252fc",
+      "title": "Saturday Night Live: The Best of Amy Poehler",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-amy-poehler",
+      "has_reactions": false
+    },
+    {
+      "id": "8121256f-eedf-42f4-aef6-9144bbb05f46",
+      "title": "SNL Presents: A Very Gilly Christmas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "snl-presents-a-very-gilly-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "aa4062c1-09b1-4446-aa9f-2a9094b3b802",
+      "title": "The 'E.T.' Journals",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-e-t-journals",
+      "has_reactions": false
+    },
+    {
+      "id": "bcec8a00-a8e1-4240-9fcb-f722a83843b0",
+      "title": "Blended",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "blended",
+      "has_reactions": false
+    },
+    {
+      "id": "9779b447-bef6-43c6-80f7-78db68145c8a",
+      "title": "A Castle for Christmas",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "a-castle-for-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "b32cf43d-806c-40d8-aa50-1b1c1f289fbd",
+      "title": "Who Are You, Charlie Brown?",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "who-are-you-charlie-brown",
+      "has_reactions": false
+    },
+    {
+      "id": "be7cddc1-6b09-48e0-a3fc-e2d0ce14501a",
+      "title": "Scream",
+      "release_year": 2022,
+      "studio_label": "Paramount Pictures",
+      "slug": "scream",
+      "has_reactions": true
+    },
+    {
+      "id": "f73f9b74-2cb5-4b29-afa1-0b2832766f07",
+      "title": "Mariah Carey: Merry Christmas to All!",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "mariah-carey-merry-christmas-to-all",
+      "has_reactions": false
+    },
+    {
+      "id": "ffa9d7bb-62f9-4c00-b6d4-2c75733ed259",
+      "title": "Celebrating Betty White: America's Golden Girl",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "celebrating-betty-white-america-s-golden-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "660306bb-0d78-447e-943c-c1c7fef1c432",
+      "title": "Smile 2",
+      "release_year": 2024,
+      "studio_label": "Paramount Pictures",
+      "slug": "smile-2",
+      "has_reactions": true
+    },
+    {
+      "id": "9ebf53dc-51b9-4577-9cff-6142fca4f2d1",
+      "title": "The Secret Lives of Bill Bartell",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-secret-lives-of-bill-bartell",
+      "has_reactions": false
+    },
+    {
+      "id": "02d40089-21ea-4707-8d8a-fcfd7321fd98",
+      "title": "Influenced",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "influenced",
+      "has_reactions": false
+    }
+  ]
+}

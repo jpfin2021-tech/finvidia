@@ -1,0 +1,624 @@
+{
+  "id": "d2775a5c-a332-40b5-b79c-53a60a34dc29",
+  "name": "Brad Dourif",
+  "slug": "brad-dourif",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg",
+  "filmography": [
+    {
+      "id": "435bb86e-b3d3-4efd-8445-accc3893b9ee",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "release_year": 1975,
+      "studio_label": "Fantasy Films",
+      "slug": "one-flew-over-the-cuckoo-s-nest",
+      "has_reactions": true
+    },
+    {
+      "id": "8630c655-f36c-4782-87bc-760e2dea35d2",
+      "title": "The Mound Builders",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-mound-builders",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a3dca4-01fd-4c5b-89e2-e6445868c404",
+      "title": "Group Portrait with a Lady",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "group-portrait-with-a-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "1ad43801-8a5f-4a98-95aa-81e05d6b39a9",
+      "title": "Ragtime",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ragtime",
+      "has_reactions": false
+    },
+    {
+      "id": "62acb64e-2ece-40be-8c48-35f0af845633",
+      "title": "Istanbul",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "istanbul",
+      "has_reactions": false
+    },
+    {
+      "id": "dbf4e830-ea46-4821-9ce4-eda71fcf3ab1",
+      "title": "Blue Velvet",
+      "release_year": 1986,
+      "studio_label": "DEG",
+      "slug": "blue-velvet",
+      "has_reactions": true
+    },
+    {
+      "id": "daaa0606-64ea-4a40-aa37-2786b8eaaece",
+      "title": "Impure Thoughts",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "impure-thoughts",
+      "has_reactions": false
+    },
+    {
+      "id": "c84074f3-af1f-4a3d-90fe-f30aa9f25c3a",
+      "title": "Vengeance: The Story of Tony Cimo",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "vengeance-the-story-of-tony-cimo",
+      "has_reactions": false
+    },
+    {
+      "id": "0449b7c5-1a29-46f6-944b-df511c71bafb",
+      "title": "Rage of Angels: The Story Continues",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "rage-of-angels-the-story-continues",
+      "has_reactions": false
+    },
+    {
+      "id": "7b5d6a73-f22b-4501-8e71-9c47ac2474f3",
+      "title": "Fatal Beauty",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "fatal-beauty",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6242b7-043b-440c-ba7c-bbb3babeea68",
+      "title": "Child's Play",
+      "release_year": 1988,
+      "studio_label": "United Artists",
+      "slug": "child-s-play",
+      "has_reactions": true
+    },
+    {
+      "id": "d2f7c23e-6170-4328-b0f4-07abf4e13033",
+      "title": "Mississippi Burning",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "mississippi-burning",
+      "has_reactions": false
+    },
+    {
+      "id": "9d8ec58d-09b0-4d17-b254-8d1542acaec1",
+      "title": "Sonny Boy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "sonny-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "eebb19d3-3d0a-4b03-a86f-53fec3acbc39",
+      "title": "Spontaneous Combustion",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "spontaneous-combustion",
+      "has_reactions": false
+    },
+    {
+      "id": "48d04831-4bd6-4c5d-857e-07fd784b1909",
+      "title": "Child's Play 2",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "child-s-play-2",
+      "has_reactions": false
+    },
+    {
+      "id": "757cfc82-962b-47e5-b1cf-711c9a1f0e79",
+      "title": "The Exorcist III",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-exorcist-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "96db9f2d-1141-41be-be43-6269ef0c9ffc",
+      "title": "Graveyard Shift",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "graveyard-shift",
+      "has_reactions": false
+    },
+    {
+      "id": "ff452e61-8148-4958-903a-3656c6f89a9e",
+      "title": "The Making of 'Hidden Agenda'",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-hidden-agenda",
+      "has_reactions": false
+    },
+    {
+      "id": "23d6cdea-171f-4af4-bc9b-5df36e74b8d6",
+      "title": "Horseplayer",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "horseplayer",
+      "has_reactions": false
+    },
+    {
+      "id": "bd0b875f-528a-4941-9420-80d673c81691",
+      "title": "Child's Play 3",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "child-s-play-3",
+      "has_reactions": false
+    },
+    {
+      "id": "52dc4147-e0f9-4149-a5e4-34e423f1ef50",
+      "title": "Jungle Fever",
+      "release_year": 1991,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "jungle-fever",
+      "has_reactions": true
+    },
+    {
+      "id": "7e8708a7-e55f-46ce-9d51-cd1e33209e92",
+      "title": "London Kills Me",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "london-kills-me",
+      "has_reactions": false
+    },
+    {
+      "id": "8718bd20-0334-4c0f-baa5-5a97de1bb1e2",
+      "title": "Body Parts",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "body-parts",
+      "has_reactions": false
+    },
+    {
+      "id": "a64b6768-4136-462b-97b5-15eb52699e55",
+      "title": "Scream of Stone",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "scream-of-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "be7e33b2-a01c-49f7-96f1-69c3df2c65ea",
+      "title": "Dead Certain",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dead-certain",
+      "has_reactions": false
+    },
+    {
+      "id": "d76d86f9-74c8-43d5-a636-ec6c31f4ae5f",
+      "title": "Critters 4",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "critters-4",
+      "has_reactions": false
+    },
+    {
+      "id": "0e09b1f7-e821-40bf-b6ff-b9f954dbdc10",
+      "title": "Final Judgement",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "final-judgement",
+      "has_reactions": false
+    },
+    {
+      "id": "254eab00-f3b4-48fe-8700-b99bd049ae07",
+      "title": "Trauma",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "trauma",
+      "has_reactions": false
+    },
+    {
+      "id": "0211e87f-d5a0-4082-9e1b-17bc625f02d3",
+      "title": "A Worn Path",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-worn-path",
+      "has_reactions": false
+    },
+    {
+      "id": "ef794b84-376d-447b-9992-fcd470704f9a",
+      "title": "Phoenix",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "phoenix",
+      "has_reactions": false
+    },
+    {
+      "id": "11129760-1f4a-4ad4-a3e6-a3779b3dec85",
+      "title": "Murder in the First",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-first",
+      "has_reactions": false
+    },
+    {
+      "id": "f532d066-a2c9-4ddd-ac83-47fc31450e43",
+      "title": "Blackout",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "c81a4f3f-0480-4e11-9fa1-454af9d0ab52",
+      "title": "Alien Resurrection",
+      "release_year": 1997,
+      "studio_label": "20th Century Fox",
+      "slug": "alien-resurrection",
+      "has_reactions": true
+    },
+    {
+      "id": "df5b23c7-a250-4400-b86e-20c7a2cd3114",
+      "title": "Jamaica Beat",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "jamaica-beat",
+      "has_reactions": false
+    },
+    {
+      "id": "cfa3cf63-ab31-4d91-8064-e5258591b01b",
+      "title": "Bride of Chucky",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "bride-of-chucky",
+      "has_reactions": false
+    },
+    {
+      "id": "47b36d9e-4663-4851-a18c-128970752448",
+      "title": "Senseless",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "senseless",
+      "has_reactions": false
+    },
+    {
+      "id": "973a98de-6f27-411f-8f68-b07ed4e3c019",
+      "title": "The Diary of the Hurdy-Gurdy Man",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-diary-of-the-hurdy-gurdy-man",
+      "has_reactions": false
+    },
+    {
+      "id": "0be07f40-c6f4-4e06-abc0-bb71f0c80a76",
+      "title": "Cypress Edge",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "cypress-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "0b6f8437-15ea-4315-9242-d4fcf918c6e6",
+      "title": "Interceptors",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "interceptors",
+      "has_reactions": false
+    },
+    {
+      "id": "58056d9a-c97d-4445-b62f-e9208b3a2bcf",
+      "title": "The Storytellers",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-storytellers",
+      "has_reactions": false
+    },
+    {
+      "id": "d76ad8f1-212e-462f-b097-b169cd4f4e7a",
+      "title": "The Prophecy 3: The Ascent",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-prophecy-3-the-ascent",
+      "has_reactions": false
+    },
+    {
+      "id": "99bf69e8-eb4b-45ca-b202-ddb1eaf562f8",
+      "title": "Soulkeeper",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "soulkeeper",
+      "has_reactions": false
+    },
+    {
+      "id": "cc7cc109-121d-471c-9f5b-11bc3d2313de",
+      "title": "The Lord of the Rings: The Two Towers",
+      "release_year": 2002,
+      "studio_label": "New Line Cinema",
+      "slug": "the-lord-of-the-rings-the-two-towers",
+      "has_reactions": true
+    },
+    {
+      "id": "0f38a1e3-0a00-4a3a-8cf7-e035512ba8c7",
+      "title": "The Calling",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-calling",
+      "has_reactions": false
+    },
+    {
+      "id": "f8cfc985-5fcb-4ed1-afdb-5442e6e823e9",
+      "title": "The Hazing",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-hazing",
+      "has_reactions": false
+    },
+    {
+      "id": "3f4a5197-dc3e-48e4-aad6-cb8915209737",
+      "title": "Seed of Chucky",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "seed-of-chucky",
+      "has_reactions": false
+    },
+    {
+      "id": "5c0f3b4d-f2df-4be8-907b-0bc3b94c6db3",
+      "title": "Remembering Ragtime",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "remembering-ragtime",
+      "has_reactions": false
+    },
+    {
+      "id": "0299728e-0f12-4653-a2aa-a2832a31b692",
+      "title": "The Wild Blue Yonder",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-wild-blue-yonder",
+      "has_reactions": false
+    },
+    {
+      "id": "9881ec9b-9581-4e85-aeca-466a956b3b26",
+      "title": "Playing Patti",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "playing-patti",
+      "has_reactions": false
+    },
+    {
+      "id": "77cf13ad-5a03-4c98-b2e2-58e565d05d10",
+      "title": "Halloween",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "31f431bb-9476-4924-b0ee-d22dc85f774b",
+      "title": "The List",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-list",
+      "has_reactions": false
+    },
+    {
+      "id": "6aa14fc2-d96d-49e2-ac40-9787081d9e58",
+      "title": "Humboldt County",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "humboldt-county",
+      "has_reactions": false
+    },
+    {
+      "id": "fead64b0-fe8d-44f5-a6db-765f6c6babd7",
+      "title": "Touching Home",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "touching-home",
+      "has_reactions": false
+    },
+    {
+      "id": "c8bfd9fc-3cf1-41d4-8b8a-7909f8e1fb3b",
+      "title": "Michael Lives: The Making of Halloween",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "michael-lives-the-making-of-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "4eb40251-f705-40f5-ae26-9621c5963092",
+      "title": "Fading of the Cries",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "fading-of-the-cries",
+      "has_reactions": false
+    },
+    {
+      "id": "09042b1c-d420-4fdf-ae31-2e364b0d80a6",
+      "title": "Halloween II",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halloween-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "6d95e80b-e6a4-4db7-8f82-ebf3abd5f62e",
+      "title": "Chain Letter",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "chain-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "9ac7b4ab-a45f-491b-b305-bdf2ae6df185",
+      "title": "My Son, My Son, What Have Ye Done",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "my-son-my-son-what-have-ye-done",
+      "has_reactions": false
+    },
+    {
+      "id": "9f748f07-ad34-4fb7-9c19-02a0cf32be2b",
+      "title": "Death and Cremation",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "death-and-cremation",
+      "has_reactions": false
+    },
+    {
+      "id": "c2ba873b-abd1-460e-be79-bac17d6a76e9",
+      "title": "Priest",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "priest",
+      "has_reactions": false
+    },
+    {
+      "id": "d11e670a-eddd-4506-8bd7-c4eeb0ee6cbd",
+      "title": "Few Options",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "few-options",
+      "has_reactions": false
+    },
+    {
+      "id": "2871540f-def3-492b-aee1-11ccc38c0763",
+      "title": "Miami Magma",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "miami-magma",
+      "has_reactions": false
+    },
+    {
+      "id": "5733da04-32ba-4a88-9d4a-69f421580a8b",
+      "title": "Born of Earth",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "born-of-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "eb009119-07b1-453e-8bb5-dbcc72346012",
+      "title": "Last Kind Words",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "last-kind-words",
+      "has_reactions": false
+    },
+    {
+      "id": "de91b8d4-9ccb-4602-b3b9-9642bfa5262a",
+      "title": "Avarice",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "avarice",
+      "has_reactions": false
+    },
+    {
+      "id": "ae8f4d72-61be-4a18-9b45-8554be989f36",
+      "title": "Curse of Chucky",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "curse-of-chucky",
+      "has_reactions": false
+    },
+    {
+      "id": "fc648006-8819-4b26-8ebd-174090a559b0",
+      "title": "End of the World",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "end-of-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "25733ef6-5bc3-4628-8b2e-297376e0428f",
+      "title": "Blood Shot",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blood-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "a830dca6-ebc4-44dd-8c54-9c67acdd0a3f",
+      "title": "Malignant",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "malignant",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe05656-147c-420d-8b8f-f414a9c7c141",
+      "title": "Santa Monica",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "santa-monica",
+      "has_reactions": false
+    },
+    {
+      "id": "c674852f-f545-4ada-ab27-c763bfa95750",
+      "title": "Gingerclown",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "gingerclown",
+      "has_reactions": false
+    },
+    {
+      "id": "123ce56f-2b63-40df-bd0b-f41ac5fe6241",
+      "title": "Rosemont",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "rosemont",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fecc9f-755c-4547-b1d9-85ba2d415b8b",
+      "title": "Death, Be Not Proud: The Making of \"The Exorcist III\"",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "death-be-not-proud-the-making-of-the-exorcist-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "d326e7fb-9733-4255-9779-9e93bfa63f13",
+      "title": "Out to Lunch",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "out-to-lunch",
+      "has_reactions": false
+    },
+    {
+      "id": "891b29f0-48f8-4bc7-bd98-daa272a9153c",
+      "title": "Wildling",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "wildling",
+      "has_reactions": false
+    },
+    {
+      "id": "a00a0e8e-708a-4dc0-ac05-b2c5683bd25e",
+      "title": "The Shuroo Process",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-shuroo-process",
+      "has_reactions": false
+    },
+    {
+      "id": "94b9c082-d9da-4e24-acc0-63719ec4e7f9",
+      "title": "The Living",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-living",
+      "has_reactions": false
+    }
+  ]
+}

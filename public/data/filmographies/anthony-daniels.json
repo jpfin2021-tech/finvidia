@@ -1,0 +1,272 @@
+{
+  "id": "33af476f-dd47-4ddc-b702-32e4c9ec45c5",
+  "name": "Anthony Daniels",
+  "slug": "anthony-daniels",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg",
+  "filmography": [
+    {
+      "id": "a9123561-2f3a-4f51-875a-1796ed15b0fc",
+      "title": "Star Wars",
+      "release_year": 1977,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "9d2ad7af-d418-4a52-a322-57f1bf9122bb",
+      "title": "The Lord of the Rings",
+      "release_year": 1978,
+      "studio_label": "Fantasy Films",
+      "slug": "the-lord-of-the-rings",
+      "has_reactions": false
+    },
+    {
+      "id": "c9d34021-ea5c-44c6-bba6-3dd98d690bae",
+      "title": "The Empire Strikes Back",
+      "release_year": 1980,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-empire-strikes-back",
+      "has_reactions": true
+    },
+    {
+      "id": "5dbc1063-4727-4233-a57f-dae64d6011c3",
+      "title": "Return of the Jedi",
+      "release_year": 1983,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "return-of-the-jedi",
+      "has_reactions": true
+    },
+    {
+      "id": "42c61e4c-8973-4682-94ff-c8101f51a6b3",
+      "title": "Classic Creatures: Return of the Jedi",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "classic-creatures-return-of-the-jedi",
+      "has_reactions": false
+    },
+    {
+      "id": "3fabb1fe-12d8-4229-b7c4-c8c875fd7117",
+      "title": "Donald Duck's 50th Birthday",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "donald-duck-s-50th-birthday",
+      "has_reactions": false
+    },
+    {
+      "id": "7cb078b7-4bf3-4144-851e-83bceca9f0a8",
+      "title": "Disneyland's 35th Anniversary Celebration",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "disneyland-s-35th-anniversary-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "a0031b88-102b-43eb-950b-84fd132464b6",
+      "title": "The Very Best of the Muppet Show",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-very-best-of-the-muppet-show",
+      "has_reactions": false
+    },
+    {
+      "id": "09dc5ec0-fa8e-43f2-9fbe-3f0e05963b3b",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "release_year": 1999,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-i-the-phantom-menace",
+      "has_reactions": true
+    },
+    {
+      "id": "b525214b-2534-4496-abfb-495b38737539",
+      "title": "R2-D2: Beneath the Dome",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "r2-d2-beneath-the-dome",
+      "has_reactions": false
+    },
+    {
+      "id": "95a66f85-7960-43bf-be2a-3d9572b1759e",
+      "title": "Star Wars vs. Star Trek: The Rivalry Continues",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "star-wars-vs-star-trek-the-rivalry-continues",
+      "has_reactions": false
+    },
+    {
+      "id": "22c94e60-b4e6-4633-b66e-c9e5762f78e7",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "release_year": 2002,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-ii-attack-of-the-clones",
+      "has_reactions": true
+    },
+    {
+      "id": "ea561173-ce36-4ccf-b1f2-a9f7441978f4",
+      "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "empire-of-dreams-the-story-of-the-star-wars-trilogy",
+      "has_reactions": false
+    },
+    {
+      "id": "b7432155-23bb-483b-aabc-bfc7d0acf05a",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "release_year": 2005,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-iii-revenge-of-the-sith",
+      "has_reactions": true
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "f9403789-a29e-4118-8f34-6fc12985ae92",
+      "title": "Star Wars: The Clone Wars",
+      "release_year": 2008,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-clone-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "08dec03e-07d3-427e-a66d-ff73e663b5eb",
+      "title": "The Robot Chicken: Star Wars Episode III",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-star-wars-episode-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "d243e386-49ac-47ad-82b0-72c18b3e7a88",
+      "title": "LEGO Star Wars: The Padawan Menace",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "lego-star-wars-the-padawan-menace",
+      "has_reactions": false
+    },
+    {
+      "id": "bacefccc-1a65-41ee-af67-3b5a5daefdbc",
+      "title": "The Lego Movie",
+      "release_year": 2014,
+      "studio_label": "Lin Pictures",
+      "slug": "the-lego-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "87ab29e4-cacc-45e1-a3fa-a0ee8b1afec4",
+      "title": "Star Wars at the BBC",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "star-wars-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "c0483cce-3e03-45ae-bf9f-df5f8616234a",
+      "title": "Star Wars: The Force Awakens",
+      "release_year": 2015,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-force-awakens",
+      "has_reactions": true
+    },
+    {
+      "id": "2a4c66cf-0a8a-4581-a3d2-a9a0f2c12f8e",
+      "title": "Secrets of the Force Awakens: A Cinematic Journey",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "secrets-of-the-force-awakens-a-cinematic-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "9518a5bb-67e4-4bbd-b03e-1127bc30a46f",
+      "title": "Rogue One: A Star Wars Story",
+      "release_year": 2016,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "rogue-one-a-star-wars-story",
+      "has_reactions": true
+    },
+    {
+      "id": "7c11c96c-6e24-49e9-a591-48ddd10c2a9c",
+      "title": "Star Wars: The Last Jedi",
+      "release_year": 2017,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-last-jedi",
+      "has_reactions": true
+    },
+    {
+      "id": "253c38d1-d0f7-4589-afe7-a79b3d6de7be",
+      "title": "Ralph Breaks the Internet",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "ralph-breaks-the-internet",
+      "has_reactions": false
+    },
+    {
+      "id": "d738aa00-95a8-4071-bad6-fa32ae973f50",
+      "title": "Solo: A Star Wars Story",
+      "release_year": 2018,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "solo-a-star-wars-story",
+      "has_reactions": true
+    },
+    {
+      "id": "634fd175-d874-4fd2-b2c7-907fb56e97c6",
+      "title": "The Force of Sound",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-force-of-sound",
+      "has_reactions": false
+    },
+    {
+      "id": "54d18ab5-5f9d-4540-b7f0-6af9c93f2a8b",
+      "title": "The Director and the Jedi",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-director-and-the-jedi",
+      "has_reactions": false
+    },
+    {
+      "id": "8d1e5ede-3cd6-43c9-989c-10cdc154ec63",
+      "title": "Star Wars: The Rise of Skywalker",
+      "release_year": 2019,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-rise-of-skywalker",
+      "has_reactions": true
+    },
+    {
+      "id": "8b355b34-815a-4eff-9759-bf79458c260c",
+      "title": "The Empire Strikes Door",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-empire-strikes-door",
+      "has_reactions": false
+    },
+    {
+      "id": "1104e2ca-899a-496e-9352-548ee99371bc",
+      "title": "The Skywalker Legacy",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-skywalker-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "d000cce8-ff66-4800-93d9-7f556437e801",
+      "title": "Attack of the Doc!",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "attack-of-the-doc",
+      "has_reactions": false
+    },
+    {
+      "id": "09f914e0-eaee-4f36-a3d9-ee66273d7ac4",
+      "title": "Jim Henson Idea Man",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "jim-henson-idea-man",
+      "has_reactions": false
+    }
+  ]
+}

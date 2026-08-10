@@ -1,0 +1,24 @@
+{
+  "id": "d7cd55f3-26f3-4791-bae4-50973affcd70",
+  "name": "Jim Brown",
+  "slug": "jim-brown",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wfp06VC5yr9mdzdZ5JcbzqD5YEG.jpg",
+  "filmography": [
+    {
+      "id": "2201df80-8493-4fd6-a90a-dc610dfe559b",
+      "title": "The Running Man",
+      "release_year": 1987,
+      "studio_label": "Braveworld Productions",
+      "slug": "the-running-man",
+      "has_reactions": true
+    },
+    {
+      "id": "3c9bf078-54b4-4857-b2a7-5a7bd8020db6",
+      "title": "Mars Attacks!",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mars-attacks",
+      "has_reactions": true
+    }
+  ]
+}

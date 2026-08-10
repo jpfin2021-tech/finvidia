@@ -1,0 +1,608 @@
+{
+  "id": "c1b59fe0-bcc3-4f8b-8be7-2695a385abec",
+  "name": "Dan Castellaneta",
+  "slug": "dan-castellaneta",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+  "filmography": [
+    {
+      "id": "5cfe6cc9-8fb1-4a43-abae-6f7693647ff4",
+      "title": "Darkwing Duck: Justice Ducks Unite!",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "darkwing-duck-justice-ducks-unite",
+      "has_reactions": false
+    },
+    {
+      "id": "d451ca49-226b-4f2a-87b2-605b1b77aba5",
+      "title": "Birthday Boy",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "birthday-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "edf601f9-e117-4e8e-bf91-7b7c6f8abf44",
+      "title": "The War of the Roses",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-war-of-the-roses",
+      "has_reactions": false
+    },
+    {
+      "id": "22950a24-6618-4518-89e4-077c4f0ad141",
+      "title": "Say Anything...",
+      "release_year": 1989,
+      "studio_label": "Gracie Films",
+      "slug": "say-anything",
+      "has_reactions": true
+    },
+    {
+      "id": "7a53ce5e-a524-494d-a288-46d399456cd9",
+      "title": "K-9",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "k-9",
+      "has_reactions": false
+    },
+    {
+      "id": "4219fe4c-7e15-440a-a1e8-9266cd1e6341",
+      "title": "Working Tra$h",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "working-tra-h",
+      "has_reactions": false
+    },
+    {
+      "id": "1738e319-2a28-462c-8d23-1e948aaa9072",
+      "title": "The Best of the Tracey Ullman Show",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-the-tracey-ullman-show",
+      "has_reactions": false
+    },
+    {
+      "id": "e6a7f348-def2-42f3-9834-a49e81382291",
+      "title": "Back to the Future: Dickens of a Christmas",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "back-to-the-future-dickens-of-a-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "455e3700-0e51-452a-bfb8-e05298eab32a",
+      "title": "Don't Tell Mom the Babysitter's Dead",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "don-t-tell-mom-the-babysitter-s-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "772c0d81-f966-425e-8aea-71e3985f76cb",
+      "title": "Darkwing Duck: Comic Book Capers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "darkwing-duck-comic-book-capers",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc9bf97-66b9-45e8-adc2-a43d41edbb35",
+      "title": "Super Mario Bros.",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros",
+      "has_reactions": false
+    },
+    {
+      "id": "356fb764-f093-4bdb-b636-d84599187f32",
+      "title": "Tracey Ullman Takes on New York",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "tracey-ullman-takes-on-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "11b3ee86-f461-47ab-a226-1779fc2a1a87",
+      "title": "The Return of Jafar",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-jafar",
+      "has_reactions": false
+    },
+    {
+      "id": "f8348c82-6ea0-4174-992a-0e1aebf73c83",
+      "title": "Darkwing Duck. Ai confini della realt\u00e0",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "darkwing-duck-ai-confini-della-realt",
+      "has_reactions": false
+    },
+    {
+      "id": "56301548-3d37-40bf-bac9-0481f4650f57",
+      "title": "Forget Paris",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "forget-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "f2c6ba33-ae37-408a-8e90-a1904f6562ba",
+      "title": "Driving Mr. Pink",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "driving-mr-pink",
+      "has_reactions": false
+    },
+    {
+      "id": "89687381-d0c7-4885-9b60-8640e4da745d",
+      "title": "The Computer Wore Tennis Shoes",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-computer-wore-tennis-shoes",
+      "has_reactions": false
+    },
+    {
+      "id": "0c8b2594-519c-423f-bbb7-68853df49f22",
+      "title": "Arnold",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "arnold",
+      "has_reactions": false
+    },
+    {
+      "id": "09a5b7ad-a8c5-4a9e-a5d0-929f63bcf80a",
+      "title": "All Dogs Go to Heaven 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "all-dogs-go-to-heaven-2",
+      "has_reactions": false
+    },
+    {
+      "id": "f83e2bc0-70aa-4823-ae98-1b827c6b7e20",
+      "title": "Animaniacs: Spooky Stuff",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "animaniacs-spooky-stuff",
+      "has_reactions": false
+    },
+    {
+      "id": "ed56aff7-c702-4449-832a-5ac6e81a947e",
+      "title": "Hey Arnold! Arnold's Christmas",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "hey-arnold-arnold-s-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "bb29c7be-1849-43df-a0ee-f1c5305883d7",
+      "title": "Space Jam",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Family Entertainment",
+      "slug": "space-jam",
+      "has_reactions": true
+    },
+    {
+      "id": "d1728598-5745-4c58-9146-1c3577204207",
+      "title": "The Simpsons: Live and Uncut!",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-live-and-uncut",
+      "has_reactions": false
+    },
+    {
+      "id": "22b19f3b-70af-47ff-9db2-8f4c1c71751f",
+      "title": "The Online Adventures of Ozzie the Elf",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-online-adventures-of-ozzie-the-elf",
+      "has_reactions": false
+    },
+    {
+      "id": "ee9bdb1a-d6de-4944-b566-9a1fc302fc14",
+      "title": "My Giant",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "my-giant",
+      "has_reactions": false
+    },
+    {
+      "id": "00701423-0182-4d3a-9e32-fef079a4ad93",
+      "title": "The Simpsons: Too Hot For TV",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-too-hot-for-tv",
+      "has_reactions": false
+    },
+    {
+      "id": "ac1f73ca-5892-4591-a1b9-31ccd52f631a",
+      "title": "Joseph: King of Dreams",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "joseph-king-of-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "254d36a2-7799-4cae-bdbe-7d5d137a5146",
+      "title": "Rugrats in Paris: The Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rugrats-in-paris-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "70c7d9dd-e82d-4d12-b1ce-d919bf73e8fd",
+      "title": "The Simpsons: America's First Family",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-america-s-first-family",
+      "has_reactions": false
+    },
+    {
+      "id": "001d01f0-9816-4b5e-8bec-ac30221a2bc2",
+      "title": "CyberWorld",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "cyberworld",
+      "has_reactions": false
+    },
+    {
+      "id": "dc8401d8-00cb-4c18-9343-cbf96e475514",
+      "title": "Laughter on the 23rd Floor",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "laughter-on-the-23rd-floor",
+      "has_reactions": false
+    },
+    {
+      "id": "f464155d-d90a-4898-8bdf-e4ab3cc559c0",
+      "title": "Return to Never Land",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "return-to-never-land",
+      "has_reactions": false
+    },
+    {
+      "id": "95668573-3502-4aa2-b628-cbf66f4ae320",
+      "title": "Hey Arnold! The Movie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hey-arnold-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "838c78e9-eec3-427c-890c-0d85a42073f7",
+      "title": "The Simpsons: Treehouse of Horror",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-treehouse-of-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "e045a6cf-c59e-4156-b5a3-f1bc1e2f6987",
+      "title": "Recess: Taking the Fifth Grade",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "recess-taking-the-fifth-grade",
+      "has_reactions": false
+    },
+    {
+      "id": "bed3594f-bf9c-46ff-987e-405a52eee160",
+      "title": "The Simpsons: Christmas",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e4e7651e-f236-4b15-abea-41a6b332641f",
+      "title": "The Cat in the Hat",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-cat-in-the-hat",
+      "has_reactions": false
+    },
+    {
+      "id": "b1b5c50e-0ccc-46fe-95d4-b0dce32d404b",
+      "title": "Party Wagon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "party-wagon",
+      "has_reactions": false
+    },
+    {
+      "id": "a33f8456-0d59-44ff-adf3-3dd7bbac9cbc",
+      "title": "Behind the Camera: The Unauthorized Story of Charlie's Angels",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "behind-the-camera-the-unauthorized-story-of-charlie-s-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "890c0cb2-711c-464a-8b64-07b5eec1b5ae",
+      "title": "The Simpsons: Christmas 2",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-christmas-2",
+      "has_reactions": false
+    },
+    {
+      "id": "e7d4fa87-9847-4364-a8c1-5d3afcbf1d54",
+      "title": "Jasmine's Enchanted Tales: Journey of a Princess",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "jasmine-s-enchanted-tales-journey-of-a-princess",
+      "has_reactions": false
+    },
+    {
+      "id": "69271131-5ba8-4b96-a750-25fdbc290cf2",
+      "title": "The Pursuit of Happyness",
+      "release_year": 2006,
+      "studio_label": "Escape Artists",
+      "slug": "the-pursuit-of-happyness",
+      "has_reactions": true
+    },
+    {
+      "id": "878896b9-3c0d-471f-8099-6dd00dc99d2e",
+      "title": "Casper's Scare School",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "casper-s-scare-school",
+      "has_reactions": false
+    },
+    {
+      "id": "195f7c2f-27c4-4905-b48b-e502f3f9d5ec",
+      "title": "I Want Someone to Eat Cheese With",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "i-want-someone-to-eat-cheese-with",
+      "has_reactions": false
+    },
+    {
+      "id": "d04fe063-a7ff-4030-9dbe-412af83e36a9",
+      "title": "The Simpsons Movie",
+      "release_year": 2007,
+      "studio_label": "Gracie Films",
+      "slug": "the-simpsons-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "9009397b-b4c0-48d1-90fa-5d7931d53475",
+      "title": "Making Pursuit: An Italian Take on the American Dream",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "making-pursuit-an-italian-take-on-the-american-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3aa504-6ddb-4ef7-a98f-97ca8d25f9a9",
+      "title": "Chasing Robert",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "chasing-robert",
+      "has_reactions": false
+    },
+    {
+      "id": "f803c3b0-cbb0-4b90-8541-36f5a92b532a",
+      "title": "Hellboy Animated: Iron Shoes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "hellboy-animated-iron-shoes",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3c8199-4347-47a8-9f23-339f2155264a",
+      "title": "Superhero Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "superhero-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "0f936d48-e59f-4184-ac97-04c13a8a5321",
+      "title": "Relative Stranger",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "relative-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "4f4a96bc-342b-42ad-8d7f-e2c5da809fff",
+      "title": "The Simpsons 20th Anniversary Special - In 3D! On Ice!",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-20th-anniversary-special-in-3d-on-ice",
+      "has_reactions": false
+    },
+    {
+      "id": "561a899f-3841-42a4-b282-a90f53e10d5b",
+      "title": "Super 8",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "super-8",
+      "has_reactions": true
+    },
+    {
+      "id": "0cf34fbf-fdc5-4e4e-abfb-27ce68448bc4",
+      "title": "The Simpsons Guy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "ae21b6b9-9dc8-4881-9051-c98d47255415",
+      "title": "Willie's Views on Scottish Independence",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "willie-s-views-on-scottish-independence",
+      "has_reactions": false
+    },
+    {
+      "id": "42771936-14a3-483a-bcc1-916f6cf3e6ce",
+      "title": "Fantastic Four",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "fantastic-four",
+      "has_reactions": false
+    },
+    {
+      "id": "053d3acc-332d-46a4-968e-499a375cde33",
+      "title": "Trumptastic Voyage",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "trumptastic-voyage",
+      "has_reactions": false
+    },
+    {
+      "id": "aec85f8b-753e-4bcc-b362-adcf7ff7e734",
+      "title": "The Unauthorized Melrose Place Story",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-unauthorized-melrose-place-story",
+      "has_reactions": false
+    },
+    {
+      "id": "f187dfa2-a2cc-4544-8523-b0dd07b00452",
+      "title": "Tony Bennett Celebrates 90",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "tony-bennett-celebrates-90",
+      "has_reactions": false
+    },
+    {
+      "id": "6d8efae1-4503-424b-a896-52b9829ae9df",
+      "title": "Planet of the Couches",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "planet-of-the-couches",
+      "has_reactions": false
+    },
+    {
+      "id": "d7461e24-330c-46ec-a785-37fcf5935a71",
+      "title": "Springfield of Dreams: The Legend of Homer Simpson",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "springfield-of-dreams-the-legend-of-homer-simpson",
+      "has_reactions": false
+    },
+    {
+      "id": "9e43d8b3-894d-4f32-8688-8787cc23995e",
+      "title": "Hey Arnold! The Jungle Movie",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "hey-arnold-the-jungle-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "c856b1b4-74be-46f7-a438-4bb1d15d49dd",
+      "title": "Dear Class of 2020",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "dear-class-of-2020",
+      "has_reactions": false
+    },
+    {
+      "id": "2ce16444-822e-4e39-a306-b7848d2ec1d0",
+      "title": "The Good, the Bart, and the Loki",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-good-the-bart-and-the-loki",
+      "has_reactions": false
+    },
+    {
+      "id": "41c92806-b35b-480c-85d3-ea5639d03e81",
+      "title": "The Simpsons | Balenciaga",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-balenciaga",
+      "has_reactions": false
+    },
+    {
+      "id": "7bd9eaed-21f6-4153-8edb-de882090ed86",
+      "title": "The Simpsons in Plusaversary",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-in-plusaversary",
+      "has_reactions": false
+    },
+    {
+      "id": "5c429a91-d27e-49b6-b238-97cbb24095e0",
+      "title": "The Simpsons: A Serious Flanders",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-a-serious-flanders",
+      "has_reactions": false
+    },
+    {
+      "id": "1f753bd7-2f7a-4b2b-a970-724f320f3e72",
+      "title": "The Simpsons Meet the Bocellis in \"Feliz Navidad\"",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-meet-the-bocellis-in-feliz-navidad",
+      "has_reactions": false
+    },
+    {
+      "id": "04585909-2bfb-47ba-9551-11d11d4785c8",
+      "title": "Shelter in Solitude",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "shelter-in-solitude",
+      "has_reactions": false
+    },
+    {
+      "id": "3be8f4de-252e-40a2-9341-b8b5964bb7ac",
+      "title": "May the 12th Be with You",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "may-the-12th-be-with-you",
+      "has_reactions": false
+    },
+    {
+      "id": "883ccfde-2637-4cd1-9586-66013d57a38d",
+      "title": "The Simpsons: O C'mon All Ye Faithful",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-o-c-mon-all-ye-faithful",
+      "has_reactions": false
+    },
+    {
+      "id": "29e7e256-e997-4a18-8f75-d228f2d858f3",
+      "title": "The Simpsons Funday Football",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-funday-football",
+      "has_reactions": false
+    },
+    {
+      "id": "1d229bf3-f993-4294-b59c-7a56a8dc3ab4",
+      "title": "Extreme Makeover: Homer Edition",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "extreme-makeover-homer-edition",
+      "has_reactions": false
+    },
+    {
+      "id": "2241d97e-4806-4f25-819b-28e6b3d04a19",
+      "title": "Simpsley",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "simpsley",
+      "has_reactions": false
+    },
+    {
+      "id": "72e4307d-2e3b-40e7-b23b-e7376037d27a",
+      "title": "Yellow Mirror",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "yellow-mirror",
+      "has_reactions": false
+    },
+    {
+      "id": "b0ae21f1-3ade-4a0f-866a-a96e14805603",
+      "title": "The Simpsons Movie 2",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "the-simpsons-movie-2",
+      "has_reactions": false
+    }
+  ]
+}

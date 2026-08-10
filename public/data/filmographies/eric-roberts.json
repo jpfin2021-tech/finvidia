@@ -1,0 +1,752 @@
+{
+  "id": "7266a84f-ab58-48bf-bca5-a3c7f1849b28",
+  "name": "Eric Roberts",
+  "slug": "eric-roberts",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+  "filmography": [
+    {
+      "id": "2a098f63-e1ab-4286-b75e-f3751951db06",
+      "title": "King of the Gypsies",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "king-of-the-gypsies",
+      "has_reactions": false
+    },
+    {
+      "id": "e92aeaf3-45e0-48d9-bcb2-4a3b46226d4a",
+      "title": "Star 80",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "star-80",
+      "has_reactions": false
+    },
+    {
+      "id": "8f3f9978-58c9-4009-99ab-6458a67aaed0",
+      "title": "The Pope of Greenwich Village",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-pope-of-greenwich-village",
+      "has_reactions": false
+    },
+    {
+      "id": "4605475a-8c80-4b8f-8c33-f32cb13a6e4b",
+      "title": "The Coca-Cola Kid",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-coca-cola-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "b18503e7-86be-48e4-ac11-05fc19404a9d",
+      "title": "Nobody's Fool",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "nobody-s-fool",
+      "has_reactions": false
+    },
+    {
+      "id": "649ef9fc-9c55-4ef9-84f0-57fcdf1075da",
+      "title": "Rude Awakening",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "rude-awakening",
+      "has_reactions": false
+    },
+    {
+      "id": "940e48c0-dae4-4e07-a1f6-60caaee05441",
+      "title": "By the Sword",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "by-the-sword",
+      "has_reactions": false
+    },
+    {
+      "id": "785d56fa-b01e-4e14-8b40-3b75bd091615",
+      "title": "Best of the Best 2",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "best-of-the-best-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7e2fa036-8762-4bfa-8d88-dc86a18b04f8",
+      "title": "Vendetta II: The New Mafia",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "vendetta-ii-the-new-mafia",
+      "has_reactions": false
+    },
+    {
+      "id": "c835a8ea-569c-432d-915a-df19d5cc527d",
+      "title": "The Specialist",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-specialist",
+      "has_reactions": false
+    },
+    {
+      "id": "67ecfa68-122b-47ce-b845-6d5329ae0806",
+      "title": "The Immortals",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-immortals",
+      "has_reactions": false
+    },
+    {
+      "id": "fd233c63-3364-4ed4-93c8-67bbe049bf54",
+      "title": "The Cable Guy",
+      "release_year": 1996,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-cable-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "3d5a384f-5b81-4b2c-84c7-462375b22005",
+      "title": "It's My Party",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "it-s-my-party",
+      "has_reactions": false
+    },
+    {
+      "id": "ea0213e4-f6cb-469a-8072-ed99978bd6db",
+      "title": "Doctor Who",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "doctor-who",
+      "has_reactions": false
+    },
+    {
+      "id": "14e90710-a45a-4ded-a50c-e48087ee6723",
+      "title": "Heaven's Prisoners",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "heaven-s-prisoners",
+      "has_reactions": false
+    },
+    {
+      "id": "cfaabead-402d-4883-bbeb-b62fefb64ec1",
+      "title": "Most Wanted",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "most-wanted",
+      "has_reactions": false
+    },
+    {
+      "id": "4f7f4816-2805-46c6-94d0-6905424f7d43",
+      "title": "The Prophecy II",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-prophecy-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "1af0ffa1-745f-4819-9258-2e250aa90926",
+      "title": "The Shadow Men",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-shadow-men",
+      "has_reactions": false
+    },
+    {
+      "id": "c70250cb-4cb5-449a-aceb-e038732aea17",
+      "title": "Purgatory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "purgatory",
+      "has_reactions": false
+    },
+    {
+      "id": "7b19bf51-4bde-4c8d-a542-4f1e3da17d7c",
+      "title": "Sanctimony",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sanctimony",
+      "has_reactions": false
+    },
+    {
+      "id": "c611da2b-2700-4302-93ec-af845e28e61b",
+      "title": "The Alternate",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-alternate",
+      "has_reactions": false
+    },
+    {
+      "id": "5af63959-5ea8-42ec-97da-f7a08e5593a5",
+      "title": "Mercy Streets",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mercy-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "f92dcbf7-1c7b-44d8-8a64-90a79a0dd082",
+      "title": "Wildflowers",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "wildflowers",
+      "has_reactions": false
+    },
+    {
+      "id": "b1e6279a-d2cd-428e-bb41-580e55b29876",
+      "title": "No Alibi",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "no-alibi",
+      "has_reactions": false
+    },
+    {
+      "id": "8569893f-e3f9-4664-8c8c-19bdd375bfc8",
+      "title": "Rough Air: Danger on Flight 534",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "rough-air-danger-on-flight-534",
+      "has_reactions": false
+    },
+    {
+      "id": "69af34b2-f9e9-4d57-9723-f4ea30d9a50a",
+      "title": "Raptor",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "raptor",
+      "has_reactions": false
+    },
+    {
+      "id": "158ef42c-af97-4eac-8b6f-883390306042",
+      "title": "Fast Sofa",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "fast-sofa",
+      "has_reactions": false
+    },
+    {
+      "id": "aab4e1cf-ff5b-43b6-9235-8a3ea2400484",
+      "title": "Christmas Rush",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "christmas-rush",
+      "has_reactions": false
+    },
+    {
+      "id": "e593e907-96ef-4f80-8604-8b9cfcf14fe5",
+      "title": "Wolves of Wall Street",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "wolves-of-wall-street",
+      "has_reactions": false
+    },
+    {
+      "id": "dcd9d0a6-8e61-4112-a57e-9f13d67c9ca8",
+      "title": "Spun",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "spun",
+      "has_reactions": false
+    },
+    {
+      "id": "47cae911-7f5c-43e1-bd4d-7035177fc9a0",
+      "title": "Miss Cast Away and the Island Girls",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "miss-cast-away-and-the-island-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "11c762e0-ea4f-4ebe-9c3a-f01fda4cd787",
+      "title": "Graves End",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "graves-end",
+      "has_reactions": false
+    },
+    {
+      "id": "2bc8453d-aef0-47f5-8a65-e55430f47d84",
+      "title": "Final Approach",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "final-approach",
+      "has_reactions": false
+    },
+    {
+      "id": "a4cf78f9-460a-42fd-ac8a-c18f3c8a2247",
+      "title": "Confessions of an Action Star",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "confessions-of-an-action-star",
+      "has_reactions": false
+    },
+    {
+      "id": "cff0114c-ea6f-4435-b37e-d3f42e03547e",
+      "title": "DOA: Dead or Alive",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "doa-dead-or-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "a73ef4fe-e2c5-4adf-bac3-cfad3ed5c993",
+      "title": "One Way",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "one-way",
+      "has_reactions": false
+    },
+    {
+      "id": "19043022-9ca1-42ac-bc9a-7881003ee60c",
+      "title": "Fatal Desire",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "fatal-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "ac007c87-68f0-4302-abb2-421712306edb",
+      "title": "Aurora",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "aurora",
+      "has_reactions": false
+    },
+    {
+      "id": "986bede1-1f8b-4d67-aef0-48189c5e7d44",
+      "title": "The Ultimate Fighter",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ultimate-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "f32498da-33ee-43a9-8335-96c0eb2926f8",
+      "title": "The Dark Knight",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-dark-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "1093cce7-7b2a-41d7-b45e-93448e32dbf5",
+      "title": "Depth Charge",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "depth-charge",
+      "has_reactions": false
+    },
+    {
+      "id": "59b7dcab-d4a6-4785-9203-7dff26981648",
+      "title": "Cyclops",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cyclops",
+      "has_reactions": false
+    },
+    {
+      "id": "9e4614ba-db81-4fee-a0c0-cd13e8054070",
+      "title": "Dark Honeymoon",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dark-honeymoon",
+      "has_reactions": false
+    },
+    {
+      "id": "69d225a6-e65f-4489-a992-33fdc485df49",
+      "title": "Royal Kill",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "royal-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "a9f48abb-26a7-45dd-a024-46037425a53f",
+      "title": "In the Blink of an Eye",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "in-the-blink-of-an-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "e945580b-a2dd-4d15-9685-3c59e4c53973",
+      "title": "The Expendables",
+      "release_year": 2010,
+      "studio_label": "Nimar Studios",
+      "slug": "the-expendables",
+      "has_reactions": true
+    },
+    {
+      "id": "a2c54a11-569f-4124-ae50-2d27b91ed217",
+      "title": "Enemies Among Us",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "enemies-among-us",
+      "has_reactions": false
+    },
+    {
+      "id": "779fec22-0e80-4d45-9fb9-301005f39457",
+      "title": "Bed & Breakfast",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bed-breakfast",
+      "has_reactions": false
+    },
+    {
+      "id": "dff16608-7598-4582-b009-406b8cdc6755",
+      "title": "Hunt to Kill",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hunt-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "b69b0955-21d1-439b-bce0-5c52a97697a1",
+      "title": "Reality Star",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "reality-star",
+      "has_reactions": false
+    },
+    {
+      "id": "eb91a691-92d2-4205-98ce-55b5164fb278",
+      "title": "Groupie",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "groupie",
+      "has_reactions": false
+    },
+    {
+      "id": "e0a2d46f-56c1-4d09-9d0f-94b1be7915c3",
+      "title": "Rock Slyde",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "rock-slyde",
+      "has_reactions": false
+    },
+    {
+      "id": "910b4c1f-912f-4aaf-9171-969dccb280cc",
+      "title": "Sharktopus",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "sharktopus",
+      "has_reactions": false
+    },
+    {
+      "id": "e0df3892-89ee-49c5-ac1c-019e20870bae",
+      "title": "The Wayshower",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-wayshower",
+      "has_reactions": false
+    },
+    {
+      "id": "34a5d90e-7cc5-4327-8c9c-ace52d9c7f4b",
+      "title": "Dante's Hell Animated",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "dante-s-hell-animated",
+      "has_reactions": false
+    },
+    {
+      "id": "e51cff34-0f0d-4983-817e-6553815a0d8e",
+      "title": "A Fatal Obsession",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-fatal-obsession",
+      "has_reactions": false
+    },
+    {
+      "id": "b61ea83a-4e53-4a3f-94bf-97806524f1ed",
+      "title": "Rock Story",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "rock-story",
+      "has_reactions": false
+    },
+    {
+      "id": "d42f3e16-0f0b-4337-a26b-c91fcd32576c",
+      "title": "The Matadors",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-matadors",
+      "has_reactions": false
+    },
+    {
+      "id": "620f1941-385b-43d8-968c-c7da2e3e8257",
+      "title": "Q-4: Dream Corporation",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "q-4-dream-corporation",
+      "has_reactions": false
+    },
+    {
+      "id": "a7719766-0940-41d0-b88d-cc36c20fc9f2",
+      "title": "Mystic Journey to India",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "mystic-journey-to-india",
+      "has_reactions": false
+    },
+    {
+      "id": "7ceb6b3d-0b81-405d-b9bb-d448e63df362",
+      "title": "The Doctors: The Paul McGann Years",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-doctors-the-paul-mcgann-years",
+      "has_reactions": false
+    },
+    {
+      "id": "5c5f0def-5bba-4abe-836e-aa7ff54b7e34",
+      "title": "Mark & Clark World Adventurers",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "mark-clark-world-adventurers",
+      "has_reactions": false
+    },
+    {
+      "id": "452a4e6d-3e0e-41ad-89d9-3e123206058c",
+      "title": "Party from Hell",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "party-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "f1ff0823-a256-4fab-893f-5fa90a579ddb",
+      "title": "Marked",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "marked",
+      "has_reactions": false
+    },
+    {
+      "id": "a00a0e8e-708a-4dc0-ac05-b2c5683bd25e",
+      "title": "The Shuroo Process",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-shuroo-process",
+      "has_reactions": false
+    },
+    {
+      "id": "92f9cb5e-317f-44ab-aaa0-60b71f16c379",
+      "title": "Night Night",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "night-night",
+      "has_reactions": false
+    },
+    {
+      "id": "0791c481-b819-4ee7-8cd6-27f5cdd6d1a5",
+      "title": "Stringer",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "stringer",
+      "has_reactions": false
+    },
+    {
+      "id": "1bb4bf5b-296b-4903-b4e5-61356e93c967",
+      "title": "Jessie: The Golden Heart",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jessie-the-golden-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "1e9627c1-f6e2-4b18-8bd5-9ee1e1e77006",
+      "title": "Soul Pursuit",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "soul-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "b3dc5efb-8904-4693-bf51-e52729340ab0",
+      "title": "The Elevator",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-elevator",
+      "has_reactions": false
+    },
+    {
+      "id": "4ea0c707-2daf-49ad-81fe-a14cf247816c",
+      "title": "Alter Ego",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "alter-ego",
+      "has_reactions": false
+    },
+    {
+      "id": "bf875b87-3d2e-4027-90eb-af1f5be1bb16",
+      "title": "Megaboa",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "megaboa",
+      "has_reactions": false
+    },
+    {
+      "id": "6835e1d6-ecf9-49cd-9267-5c90d69ffacb",
+      "title": "Sour Honey",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "sour-honey",
+      "has_reactions": false
+    },
+    {
+      "id": "c9cde955-abc1-45fa-b758-fae29b3c405c",
+      "title": "Survivor's Choice",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "survivor-s-choice",
+      "has_reactions": false
+    },
+    {
+      "id": "eb3925c1-91ef-487e-9916-e39259fd5540",
+      "title": "It's Beginning to Look a Lot Like Murder",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "it-s-beginning-to-look-a-lot-like-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "ad899c63-ec74-48fb-b59b-aa5992304468",
+      "title": "Controlled",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "controlled",
+      "has_reactions": false
+    },
+    {
+      "id": "8c142e21-8688-48d3-910d-308faafdb700",
+      "title": "Dog Boy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dog-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "6650868e-0c52-42dd-bf13-e0f73e7c0dfc",
+      "title": "The Surprise Visit",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-surprise-visit",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc0609a-7006-4ca9-bdec-73ca51024a56",
+      "title": "The Electric Man",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-electric-man",
+      "has_reactions": false
+    },
+    {
+      "id": "014fbcf9-3914-4f96-950a-39bc5c43c0b3",
+      "title": "Caroltyn",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "caroltyn",
+      "has_reactions": false
+    },
+    {
+      "id": "c26497ab-3600-409f-a387-e89861f7b199",
+      "title": "Beneath the Green",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "beneath-the-green",
+      "has_reactions": false
+    },
+    {
+      "id": "cd6724bb-240e-4cc2-ae31-da927c9e1436",
+      "title": "Night of the Caregiver",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-caregiver",
+      "has_reactions": false
+    },
+    {
+      "id": "617c9649-bee0-4ce0-8dff-b35f79cd0b54",
+      "title": "Hitmen",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hitmen",
+      "has_reactions": false
+    },
+    {
+      "id": "35c67ad1-d099-4205-9fd4-e71a9560179a",
+      "title": "If I Can't Have You",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "if-i-can-t-have-you",
+      "has_reactions": false
+    },
+    {
+      "id": "aeff92de-f2dc-4df0-a904-b9fd214650c3",
+      "title": "Buckle Up",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "buckle-up",
+      "has_reactions": false
+    },
+    {
+      "id": "55d5648a-b434-4f7b-ae34-f687cbacb2f7",
+      "title": "Assault on Hill 400",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "assault-on-hill-400",
+      "has_reactions": false
+    },
+    {
+      "id": "1c959a6c-4969-4c30-81b3-7c9c89e2cf50",
+      "title": "Amityville Bigfoot",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "amityville-bigfoot",
+      "has_reactions": false
+    },
+    {
+      "id": "ce9ddb7a-7cb7-4a9e-8ec6-ea61ce552fe8",
+      "title": "Lumina",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lumina",
+      "has_reactions": false
+    },
+    {
+      "id": "370403ad-f6e1-43db-8635-a2fff30814de",
+      "title": "Desert Fiends",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "desert-fiends",
+      "has_reactions": false
+    },
+    {
+      "id": "14a08ad8-309f-4b36-bdb8-08eaead335a4",
+      "title": "Jump Scare",
+      "release_year": 2025,
+      "studio_label": "Ugly Duckling Pictures",
+      "slug": "jump-scare",
+      "has_reactions": false
+    },
+    {
+      "id": "57b52d1d-d8ad-461a-8bed-07bb86266c0f",
+      "title": "Darkness of Man",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "darkness-of-man",
+      "has_reactions": false
+    },
+    {
+      "id": "2712667e-3d4f-4e32-a573-b816a60c39b2",
+      "title": "The Lost Princess",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-lost-princess",
+      "has_reactions": false
+    },
+    {
+      "id": "5e437ed5-15c9-4ada-9d2c-8abb8ebbfcbd",
+      "title": "Someone Dies Tonight",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "someone-dies-tonight",
+      "has_reactions": false
+    }
+  ]
+}

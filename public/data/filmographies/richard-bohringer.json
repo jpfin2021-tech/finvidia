@@ -1,0 +1,768 @@
+{
+  "id": "3de5f100-81ed-4a7d-9e71-63762811fd3f",
+  "name": "Richard Bohringer",
+  "slug": "richard-bohringer",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/v6372ku0d2Y28zUJ7mGrwaNQ04g.jpg",
+  "filmography": [
+    {
+      "id": "adca6e80-d85b-441b-b9fb-ae9c4df4a1f4",
+      "title": "Les Frangines",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "les-frangines",
+      "has_reactions": false
+    },
+    {
+      "id": "891e3b32-473d-470f-9e1d-2df6e3d6e08a",
+      "title": "La pomme ou L'histoire d'une histoire",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "la-pomme-ou-l-histoire-d-une-histoire",
+      "has_reactions": false
+    },
+    {
+      "id": "668aca03-f859-4bfd-bef1-936c284edc7f",
+      "title": "The House",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-house",
+      "has_reactions": false
+    },
+    {
+      "id": "acebef9f-1ded-44c7-8f20-e43e32bc1fd1",
+      "title": "The Italian of the Roses",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-italian-of-the-roses",
+      "has_reactions": false
+    },
+    {
+      "id": "ed517b19-53c5-4015-8025-a8200a0f2cbc",
+      "title": "The Conquistadores",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-conquistadores",
+      "has_reactions": false
+    },
+    {
+      "id": "45cfb8a9-ef28-4d88-9d98-e8b016d78166",
+      "title": "Animal",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "animal",
+      "has_reactions": false
+    },
+    {
+      "id": "ef4cd470-cde5-4379-9ee3-709b2f515906",
+      "title": "Martin and Lea",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "martin-and-lea",
+      "has_reactions": false
+    },
+    {
+      "id": "9b0c0980-46fe-4fcd-892b-ed5ce4f0a56a",
+      "title": "Inspector Blunder",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "inspector-blunder",
+      "has_reactions": false
+    },
+    {
+      "id": "ff8cb284-8704-4827-8c66-851bdbfb270d",
+      "title": "The Last Metro",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-last-metro",
+      "has_reactions": false
+    },
+    {
+      "id": "9fb6e2a4-f445-4422-b506-31db2cf99795",
+      "title": "The Under-Gifted",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-under-gifted",
+      "has_reactions": false
+    },
+    {
+      "id": "6c934e85-4ee2-40ef-ab36-0d3a9ce62cc9",
+      "title": "Alors... Heureux ?",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "alors-heureux",
+      "has_reactions": false
+    },
+    {
+      "id": "fbba449a-775a-4c81-b8f9-9681d1a21972",
+      "title": "The Party",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-party",
+      "has_reactions": false
+    },
+    {
+      "id": "f1817033-9a9a-4c30-8821-86186f227316",
+      "title": "Diva",
+      "release_year": 1981,
+      "studio_label": "Les Films Galaxie",
+      "slug": "diva",
+      "has_reactions": true
+    },
+    {
+      "id": "d2446418-bbbc-4a90-a601-ceb78b21c588",
+      "title": "Bolero",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "bolero",
+      "has_reactions": false
+    },
+    {
+      "id": "658b2547-f0f5-4dc1-a58f-4217d19d3878",
+      "title": "Quand tu seras d\u00e9bloqu\u00e9... fais-moi signe !",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "quand-tu-seras-d-bloqu-fais-moi-signe",
+      "has_reactions": false
+    },
+    {
+      "id": "7719840f-0413-494d-ad88-4b0e61c90734",
+      "title": "The Big Pardon",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-big-pardon",
+      "has_reactions": false
+    },
+    {
+      "id": "062d19ec-972e-49ef-a473-589fad14be74",
+      "title": "Transit",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "transit",
+      "has_reactions": false
+    },
+    {
+      "id": "d23d9673-14e9-44f0-a298-838ebe90f839",
+      "title": "Caf\u00e9 Plongeoir",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "caf-plongeoir",
+      "has_reactions": false
+    },
+    {
+      "id": "ab14e28a-0845-4c1c-8949-5d7e9d42c7b5",
+      "title": "Le Destin de Juliette",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "le-destin-de-juliette",
+      "has_reactions": false
+    },
+    {
+      "id": "62242294-bea8-4c42-9348-135200a102c3",
+      "title": "I Married a Shadow",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "i-married-a-shadow",
+      "has_reactions": false
+    },
+    {
+      "id": "06546583-84dd-41e0-b160-76d470e14bfb",
+      "title": "Cap Canaille",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "cap-canaille",
+      "has_reactions": false
+    },
+    {
+      "id": "cf2f227a-3878-4c28-b01d-16e16bfd2bef",
+      "title": "Ballade \u00e0 blanc",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "ballade-blanc",
+      "has_reactions": false
+    },
+    {
+      "id": "9981922b-dc9e-4061-bbc9-28781754373d",
+      "title": "Pablo Est Mort",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "pablo-est-mort",
+      "has_reactions": false
+    },
+    {
+      "id": "d5915665-bc09-4971-bc07-ff8d21c6db9e",
+      "title": "Stand Up Crabs, the Sea Is Rising!",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "stand-up-crabs-the-sea-is-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "dd718767-27ee-4759-9d10-7f218c9f1f17",
+      "title": "L'Addition",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "l-addition",
+      "has_reactions": false
+    },
+    {
+      "id": "1addc243-68e9-428f-a54d-a6a629f4945b",
+      "title": "Salt on the Skin",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "salt-on-the-skin",
+      "has_reactions": false
+    },
+    {
+      "id": "13543fb0-8980-4c8d-95f4-fd4e5b3e3a32",
+      "title": "The Judge",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-judge",
+      "has_reactions": false
+    },
+    {
+      "id": "2f930add-103e-404e-95ec-428284f5e742",
+      "title": "El diablo y la dama",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "el-diablo-y-la-dama",
+      "has_reactions": false
+    },
+    {
+      "id": "ca86ff8c-09d4-491d-a525-1866c406f93b",
+      "title": "Death in a French Garden",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "death-in-a-french-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "1450a487-81ea-42dc-ac88-a161eec3185f",
+      "title": "Folie suisse",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "folie-suisse",
+      "has_reactions": false
+    },
+    {
+      "id": "aaef43ce-84c7-46cd-82a2-2ab032305aa4",
+      "title": "Le Pactole",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "le-pactole",
+      "has_reactions": false
+    },
+    {
+      "id": "b8586df9-f1b0-4e98-9566-c5af5130cdc9",
+      "title": "Subway",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "subway",
+      "has_reactions": false
+    },
+    {
+      "id": "4e317d4d-24ba-4bc1-8427-458c99391250",
+      "title": "Les Folles Ann\u00e9es du Twist",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "les-folles-ann-es-du-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4b8f8b-bcfc-46bf-9a2f-6ee70b752982",
+      "title": "The Nonentity",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-nonentity",
+      "has_reactions": false
+    },
+    {
+      "id": "d3c3cf65-9dfd-4606-b4de-24b65eae1d18",
+      "title": "Kamikaze",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "kamikaze",
+      "has_reactions": false
+    },
+    {
+      "id": "3f569419-ba54-40ab-913e-b25adcb25be3",
+      "title": "Cent francs l'amour",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "cent-francs-l-amour",
+      "has_reactions": false
+    },
+    {
+      "id": "dfa5985a-e000-4394-83db-f1abcaacc3bc",
+      "title": "The Grand Highway",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-grand-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "858b3fc3-efb7-40f9-8ed2-8caab9b89c4e",
+      "title": "Flag",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "flag",
+      "has_reactions": false
+    },
+    {
+      "id": "f8068287-629b-43d9-86f4-270ec8beb898",
+      "title": "Door on the Left as You Leave the Elevator",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "door-on-the-left-as-you-leave-the-elevator",
+      "has_reactions": false
+    },
+    {
+      "id": "f218f4e7-f899-4eda-85b4-4f40fae982e1",
+      "title": "The Seasons of Pleasure",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-seasons-of-pleasure",
+      "has_reactions": false
+    },
+    {
+      "id": "60b2d817-20ee-445c-a7d8-9bb3f53b14e4",
+      "title": "Lebanon, the Land of Honey and Incense",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "lebanon-the-land-of-honey-and-incense",
+      "has_reactions": false
+    },
+    {
+      "id": "438ce365-17d5-4a91-9e7d-bfa83f90d422",
+      "title": "Ada in the Jungle",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "ada-in-the-jungle",
+      "has_reactions": false
+    },
+    {
+      "id": "ec178bde-4b09-4271-8909-a4432e70e34f",
+      "title": "The War Is Over",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-war-is-over",
+      "has_reactions": false
+    },
+    {
+      "id": "5072c63b-e703-4278-ad25-3d01c74b1152",
+      "title": "La soule",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "la-soule",
+      "has_reactions": false
+    },
+    {
+      "id": "a23172d9-406c-4899-ae53-fcc9f9b965b8",
+      "title": "Stan the Flasher",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "stan-the-flasher",
+      "has_reactions": false
+    },
+    {
+      "id": "1ec1f42a-48b3-4db3-ba14-3589f5393be0",
+      "title": "Gallant Ladies",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "gallant-ladies",
+      "has_reactions": false
+    },
+    {
+      "id": "20bd2053-9227-4104-b1c0-25fbf206edbd",
+      "title": "Une \u00e9poque formidable",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "une-poque-formidable",
+      "has_reactions": false
+    },
+    {
+      "id": "a4a56ce7-cebe-4961-a164-e13599c42f7e",
+      "title": "The White Queen",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-white-queen",
+      "has_reactions": false
+    },
+    {
+      "id": "5869d37d-83ad-4228-b9bc-1babf1318577",
+      "title": "Ragazzi",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "ragazzi",
+      "has_reactions": false
+    },
+    {
+      "id": "b805d1e8-a1c4-4427-a0cb-61d2798aa8a9",
+      "title": "Welcome to Veraz",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-veraz",
+      "has_reactions": false
+    },
+    {
+      "id": "468083de-3f71-43aa-bbce-39e0f1077184",
+      "title": "Barjo",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "barjo",
+      "has_reactions": false
+    },
+    {
+      "id": "16e9784b-fc10-4f76-9078-e8a462652130",
+      "title": "Ville \u00e0 vendre",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "ville-vendre",
+      "has_reactions": false
+    },
+    {
+      "id": "a8bbb023-ffa3-4ab3-aec0-72794663013a",
+      "title": "The Accompanist",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-accompanist",
+      "has_reactions": false
+    },
+    {
+      "id": "d970c96b-b912-4d5d-9d6c-15163d1856e3",
+      "title": "Too Close to the Gods",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "too-close-to-the-gods",
+      "has_reactions": false
+    },
+    {
+      "id": "ccf54ed4-43fe-4f6c-99c4-b8ed3545ccf9",
+      "title": "Tango",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "tango",
+      "has_reactions": false
+    },
+    {
+      "id": "4e447965-9588-4c5b-962c-9f9aaf6a58dc",
+      "title": "Le Sourire",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "le-sourire",
+      "has_reactions": false
+    },
+    {
+      "id": "4a322790-36a0-456a-8e35-e3846b10a9b7",
+      "title": "L'amour est un jeu d'enfant",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "l-amour-est-un-jeu-d-enfant",
+      "has_reactions": false
+    },
+    {
+      "id": "377a7cbe-e9c0-43c5-aae4-fd9a76025bf9",
+      "title": "La Lumi\u00e8re des \u00e9toiles mortes",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "la-lumi-re-des-toiles-mortes",
+      "has_reactions": false
+    },
+    {
+      "id": "ed14135d-2a51-4513-ab9b-b07ab67df28c",
+      "title": "The Perfume of Yvonne",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-perfume-of-yvonne",
+      "has_reactions": false
+    },
+    {
+      "id": "854b17b3-b1f5-405d-af8b-53f983631ade",
+      "title": "God, My Mother's Lover and the Butcher's Son",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "god-my-mother-s-lover-and-the-butcher-s-son",
+      "has_reactions": false
+    },
+    {
+      "id": "d1b1c1d9-2fa8-49d8-92bf-d71773213c34",
+      "title": "Unpredictable Nature of the River",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "unpredictable-nature-of-the-river",
+      "has_reactions": false
+    },
+    {
+      "id": "6cdbf47d-1b68-45ba-bef9-80a48b9b3de0",
+      "title": "Lucky Punch",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "lucky-punch",
+      "has_reactions": false
+    },
+    {
+      "id": "9d323cc4-f9d5-4da0-a88e-b3831f5112b7",
+      "title": "Tykho Moon",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "tykho-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "e34eb467-2488-4a54-8cbb-24e3e707feb4",
+      "title": "Would I Lie to You?",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "would-i-lie-to-you",
+      "has_reactions": false
+    },
+    {
+      "id": "1aa97cf1-4a58-471c-b017-8c49ca224fa7",
+      "title": "Wild Games",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "wild-games",
+      "has_reactions": false
+    },
+    {
+      "id": "558eb8d6-0384-4234-9307-6a59c289c072",
+      "title": "Wild Animals",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "wild-animals",
+      "has_reactions": false
+    },
+    {
+      "id": "6500fc4a-49b1-424a-b063-7084ef53d2c0",
+      "title": "Last Trading Post in India",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "last-trading-post-in-india",
+      "has_reactions": false
+    },
+    {
+      "id": "773c27d3-f56b-42bc-bd35-d236a253b0db",
+      "title": "Saraka Bo",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "saraka-bo",
+      "has_reactions": false
+    },
+    {
+      "id": "e5458ca8-dc04-463a-a2fd-83a7b0de7953",
+      "title": "Comme une b\u00eate",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "comme-une-b-te",
+      "has_reactions": false
+    },
+    {
+      "id": "aa7ad641-e95c-40e1-ab8b-82990a82183b",
+      "title": "Opera ball",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "opera-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "0b87eb6f-de46-4fae-b205-e07eb4df4fdc",
+      "title": "The Cat's Meow",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-cat-s-meow",
+      "has_reactions": false
+    },
+    {
+      "id": "aaaf1653-0ed4-4bfb-8e88-e27910ce4d93",
+      "title": "Une fille dans l'azur",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "une-fille-dans-l-azur",
+      "has_reactions": false
+    },
+    {
+      "id": "db05234f-322c-4272-9237-1a485faeaa2a",
+      "title": "Transfixed",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "transfixed",
+      "has_reactions": false
+    },
+    {
+      "id": "dc8a644a-2105-4b92-ba26-320c65f7a487",
+      "title": "Total Kh\u00e9ops",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "total-kh-ops",
+      "has_reactions": false
+    },
+    {
+      "id": "c2f12a26-ac2c-4c72-9fcc-4d4bb3069214",
+      "title": "Au bout du rouleau",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "au-bout-du-rouleau",
+      "has_reactions": false
+    },
+    {
+      "id": "35ca0abb-0382-459d-afab-0f04ae86aec5",
+      "title": "Virus au paradis",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "virus-au-paradis",
+      "has_reactions": false
+    },
+    {
+      "id": "bd27b37b-0d16-4696-9e61-d84059336e0d",
+      "title": "Young, Beautiful and Screwed Up",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "young-beautiful-and-screwed-up",
+      "has_reactions": false
+    },
+    {
+      "id": "46dc287a-35e3-4a36-8f8f-e098ad56f8cf",
+      "title": "The Overeater",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-overeater",
+      "has_reactions": false
+    },
+    {
+      "id": "b24a6805-7f04-4018-92a3-d08e80c1cbba",
+      "title": "Crime Spree",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "crime-spree",
+      "has_reactions": false
+    },
+    {
+      "id": "c0cb8ce5-730d-4330-9f1a-187327e6ae4d",
+      "title": "Carrot Top",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "carrot-top",
+      "has_reactions": false
+    },
+    {
+      "id": "6bb7ca0a-f90b-483d-9bad-a24f7bc8e77c",
+      "title": "La Petite Fadette",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "la-petite-fadette",
+      "has_reactions": false
+    },
+    {
+      "id": "8c72fdbe-679d-4c54-809c-46d35a4603c4",
+      "title": "Cavalcade",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "cavalcade",
+      "has_reactions": false
+    },
+    {
+      "id": "d8da6ca2-5406-47b6-a14b-d272da92a3b4",
+      "title": "Pom, le poulain",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "pom-le-poulain",
+      "has_reactions": false
+    },
+    {
+      "id": "b6936ce6-57eb-47ea-a51a-64724987a034",
+      "title": "A City Is Beautiful at Night",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "a-city-is-beautiful-at-night",
+      "has_reactions": false
+    },
+    {
+      "id": "cdd947e4-d904-4b8d-9764-b1ebc7370a5b",
+      "title": "Admiral",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "admiral",
+      "has_reactions": false
+    },
+    {
+      "id": "2bbcb954-c93b-46f5-9ed6-950474cacc38",
+      "title": "Louise's Diary 1942",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "louise-s-diary-1942",
+      "has_reactions": false
+    },
+    {
+      "id": "8c4b45dd-5e7c-4d21-9155-2bcaa153dde7",
+      "title": "Tied",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "tied",
+      "has_reactions": false
+    },
+    {
+      "id": "bc3cd1c5-26e1-4588-a7e7-b770e31100d3",
+      "title": "Fumer tue",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "fumer-tue",
+      "has_reactions": false
+    },
+    {
+      "id": "6213182b-1b9b-413c-af53-e967ec02c4bf",
+      "title": "Le Renard jaune",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "le-renard-jaune",
+      "has_reactions": false
+    },
+    {
+      "id": "ef881616-8095-4aae-8689-2eb2f966451c",
+      "title": "Le myst\u00e8re des jonquilles",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "le-myst-re-des-jonquilles",
+      "has_reactions": false
+    },
+    {
+      "id": "2e05e17c-2ba4-4e64-a126-7cd50ced7cac",
+      "title": "Murder in Bastia",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "murder-in-bastia",
+      "has_reactions": false
+    },
+    {
+      "id": "7f1943d7-be1f-404c-82eb-0c1f0bf7dc7f",
+      "title": "V\u00e9n\u00e9neuses",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "v-n-neuses",
+      "has_reactions": false
+    },
+    {
+      "id": "e2cd7537-e05d-4173-9dac-fe1543559b76",
+      "title": "Sunday's Illness",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "sunday-s-illness",
+      "has_reactions": false
+    },
+    {
+      "id": "1bbfd6d6-723e-4232-b1d0-ef5ce0bb01f7",
+      "title": "L'Amour flou",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "l-amour-flou",
+      "has_reactions": false
+    },
+    {
+      "id": "627fe7f3-bbc1-4b36-892b-36f07d9f4e97",
+      "title": "Victorious Square",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "victorious-square",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "67770b61-b967-4dd4-a5cb-198e406c4d1b",
+  "name": "Matt McAllister",
+  "slug": "matt-mcallister",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/9QAccDN4Gsi1hGoGO35Z0yR7uq.jpg",
+  "filmography": [
+    {
+      "id": "fe3c44bc-3304-463a-9073-3de3ac1b0b75",
+      "title": "Terrifier",
+      "release_year": 2018,
+      "studio_label": "Dark Age Cinema",
+      "slug": "terrifier",
+      "has_reactions": true
+    },
+    {
+      "id": "85976ac9-0efd-41f4-a71b-597cd0c69b33",
+      "title": "On the Arm",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "on-the-arm",
+      "has_reactions": false
+    },
+    {
+      "id": "ce78d768-937e-410f-91a3-eecc028c8dc6",
+      "title": "Terrifier 2",
+      "release_year": 2022,
+      "studio_label": "Dark Age Cinema",
+      "slug": "terrifier-2",
+      "has_reactions": true
+    }
+  ]
+}

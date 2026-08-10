@@ -1,0 +1,40 @@
+{
+  "id": "1d4360d4-00ab-4fb6-bafd-ccec6ed3e4d9",
+  "name": "Jake Brown",
+  "slug": "jake-brown",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/p3kIlJNenOJ0nUSQKd8vRXpSvzh.jpg",
+  "filmography": [
+    {
+      "id": "789d00e3-c865-4bc2-b4c4-ad711318340b",
+      "title": "Debt Collectors",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "debt-collectors",
+      "has_reactions": false
+    },
+    {
+      "id": "b82e2f51-368b-4b78-8bb5-cd2214406228",
+      "title": "We Love You, Sally Carmichael!",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "we-love-you-sally-carmichael",
+      "has_reactions": false
+    },
+    {
+      "id": "3c28b22e-e6a3-4bca-bfe1-3257342cf50f",
+      "title": "Hereditary",
+      "release_year": 2018,
+      "studio_label": "PalmStar Media",
+      "slug": "hereditary",
+      "has_reactions": true
+    },
+    {
+      "id": "974be280-eedd-4f47-90b3-2ff0104e7fa1",
+      "title": "Galaxy Games",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "galaxy-games",
+      "has_reactions": false
+    }
+  ]
+}

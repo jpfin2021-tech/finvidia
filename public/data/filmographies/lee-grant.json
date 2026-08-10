@@ -1,0 +1,496 @@
+{
+  "id": "ade31c61-033f-45dc-ad37-60ebe253c3a3",
+  "name": "Lee Grant",
+  "slug": "lee-grant",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2WesW19wpxYve32Zp3oq1pwzoen.jpg",
+  "filmography": [
+    {
+      "id": "d0833181-7749-4483-bf03-fc34b4d810f0",
+      "title": "Detective Story",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "detective-story",
+      "has_reactions": false
+    },
+    {
+      "id": "1fa9bbdf-0b39-471e-929a-f364423be44b",
+      "title": "Storm Fear",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "storm-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "3135d445-07f5-46e8-a0e2-e2064862146e",
+      "title": "Middle of the Night",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "middle-of-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "479dfff3-816d-4e5a-b89d-4f596c2e2daf",
+      "title": "The World of Sholom Aleichem",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-world-of-sholom-aleichem",
+      "has_reactions": false
+    },
+    {
+      "id": "05e38e6e-69ed-4c0d-946f-f4650ccc342c",
+      "title": "An Affair of the Skin",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "an-affair-of-the-skin",
+      "has_reactions": false
+    },
+    {
+      "id": "1d4c7854-88cf-44d4-a21f-9275e4cdea26",
+      "title": "Pie in the Sky",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "pie-in-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "b01cac2d-2f50-43ae-9806-7d5be6b2cc7c",
+      "title": "In the Heat of the Night",
+      "release_year": 1967,
+      "studio_label": "United Artists",
+      "slug": "in-the-heat-of-the-night",
+      "has_reactions": true
+    },
+    {
+      "id": "2b38d90b-36cd-46cb-a42b-d7f079869407",
+      "title": "Buona Sera, Mrs. Campbell",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "buona-sera-mrs-campbell",
+      "has_reactions": false
+    },
+    {
+      "id": "38ba06ba-2ed3-4569-bfc6-00c1d72dfac0",
+      "title": "The Love Song of Barney Kempinski",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-love-song-of-barney-kempinski",
+      "has_reactions": false
+    },
+    {
+      "id": "d140777b-22fd-4ec3-9843-0d9bab7a5f4a",
+      "title": "Marooned",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "marooned",
+      "has_reactions": false
+    },
+    {
+      "id": "7374dd36-a70a-4a70-af01-9ca414c11edd",
+      "title": "The Landlord",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-landlord",
+      "has_reactions": false
+    },
+    {
+      "id": "a93bf3f2-134c-4a8e-a82f-11c8d1357a91",
+      "title": "Plaza Suite",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "plaza-suite",
+      "has_reactions": false
+    },
+    {
+      "id": "fc6f057d-959b-4c0a-8c55-c2f99e0a77a8",
+      "title": "Ransom for a Dead Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "ransom-for-a-dead-man",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8f89fa-e072-429c-ab9b-06fcc8de3c9c",
+      "title": "The Seagull",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-seagull",
+      "has_reactions": false
+    },
+    {
+      "id": "58ecf4e3-a316-4b01-bb60-3287e16e2350",
+      "title": "TVTV Looks at the Oscars",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "tvtv-looks-at-the-oscars",
+      "has_reactions": false
+    },
+    {
+      "id": "72cb5e9a-9619-4ee6-9b66-5a0091453f05",
+      "title": "Voyage of the Damned",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "voyage-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "fe4ee803-e633-4245-9514-327a8c16941a",
+      "title": "Perilous Voyage",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "perilous-voyage",
+      "has_reactions": false
+    },
+    {
+      "id": "e39cbb51-548a-4f38-896d-c6a7bdfb42c8",
+      "title": "The Mafu Cage",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-mafu-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "6ff713ea-05a2-433c-a1fa-d37e265b4f2d",
+      "title": "The Swarm",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-swarm",
+      "has_reactions": false
+    },
+    {
+      "id": "be15c372-caf7-41f9-97b8-3730b11aa4d6",
+      "title": "The Good Doctor",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-good-doctor",
+      "has_reactions": false
+    },
+    {
+      "id": "d8faa99c-5478-490a-9f42-1b1b71ac9b9c",
+      "title": "You Can't Go Home Again",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "you-can-t-go-home-again",
+      "has_reactions": false
+    },
+    {
+      "id": "2b50c1fb-a39e-47a4-88e4-dfec3346b083",
+      "title": "Little Miss Marker",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "little-miss-marker",
+      "has_reactions": false
+    },
+    {
+      "id": "5d033f00-f02f-4625-9500-cedeb176ad9e",
+      "title": "Charlie Chan and the Curse of the Dragon Queen",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "charlie-chan-and-the-curse-of-the-dragon-queen",
+      "has_reactions": false
+    },
+    {
+      "id": "73937481-f9ea-4deb-9dba-e9d89a6b5c23",
+      "title": "The Willmar 8",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-willmar-8",
+      "has_reactions": false
+    },
+    {
+      "id": "b0d4ecca-6f87-4682-a052-2ce2839498c4",
+      "title": "Thou Shalt Not Kill",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "thou-shalt-not-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "553bf3ef-6192-4d48-b313-86b6a8a3bc7c",
+      "title": "Plaza Suite",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "plaza-suite",
+      "has_reactions": false
+    },
+    {
+      "id": "7d9fed80-9767-41ac-a40d-1371455656d5",
+      "title": "When Women Kill",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "when-women-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "7cffafc3-73ad-417f-a847-37904e802b1a",
+      "title": "Will There Really Be a Morning?",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "will-there-really-be-a-morning",
+      "has_reactions": false
+    },
+    {
+      "id": "2997095b-bcd0-4140-bce8-05444d6372f2",
+      "title": "Teachers",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "teachers",
+      "has_reactions": false
+    },
+    {
+      "id": "be78a78b-ffa5-40d3-900a-a0563acf6034",
+      "title": "What Sex Am I?",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "what-sex-am-i",
+      "has_reactions": false
+    },
+    {
+      "id": "7ae1fdce-df87-4169-9a1c-5ebbcbb75bb6",
+      "title": "Down and Out in America",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "down-and-out-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "26dad29d-f4cb-464e-9fde-83c54b85a4e0",
+      "title": "The Hijacking of the Achille Lauro",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-hijacking-of-the-achille-lauro",
+      "has_reactions": false
+    },
+    {
+      "id": "ab30a1a1-cfcc-4bed-9263-e9f4dfed631d",
+      "title": "Battered",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "battered",
+      "has_reactions": false
+    },
+    {
+      "id": "c05b0863-e020-4edf-b18b-e4c1380947ae",
+      "title": "She Said No",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "she-said-no",
+      "has_reactions": false
+    },
+    {
+      "id": "f7bad0f4-4476-4736-8b16-fc46f3f2fa4f",
+      "title": "Sanford Meisner: The American Theatre's Best Kept Secret",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "sanford-meisner-the-american-theatre-s-best-kept-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "6b49b7ed-9fc6-4272-9808-1dc0732e935a",
+      "title": "Defending Your Life",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "defending-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "cc9293f3-ec9e-431e-8014-68d7d8e92232",
+      "title": "Something to Live for: The Alison Gertz Story",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "something-to-live-for-the-alison-gertz-story",
+      "has_reactions": false
+    },
+    {
+      "id": "3f045d6a-5a90-4f66-8fe9-f9e530c7daf8",
+      "title": "Citizen Cohn",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "citizen-cohn",
+      "has_reactions": false
+    },
+    {
+      "id": "e2e87705-7f59-4253-a7c1-466dc271948c",
+      "title": "The Iceman Tapes: Conversations with a Killer",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-iceman-tapes-conversations-with-a-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "bc5d0cc6-a66a-4601-a05c-f40b2165b679",
+      "title": "Women on Trial",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "women-on-trial",
+      "has_reactions": false
+    },
+    {
+      "id": "d444ec04-342c-4083-a68c-e8d36df8faad",
+      "title": "Earth and the American Dream",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "earth-and-the-american-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "41f2dbda-d565-426a-8641-dfc343415c11",
+      "title": "In My Daughter's Name",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "in-my-daughter-s-name",
+      "has_reactions": false
+    },
+    {
+      "id": "2cf5acbd-26be-42ef-a178-d49c556ade97",
+      "title": "Under Heat",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "under-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "27f7335c-798e-4b05-8fbd-072d5796a12b",
+      "title": "The Substance of Fire",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-substance-of-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "3d5a384f-5b81-4b2c-84c7-462375b22005",
+      "title": "It's My Party",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "it-s-my-party",
+      "has_reactions": false
+    },
+    {
+      "id": "59fdc84e-1e23-4faa-89ed-a1c2e765d34a",
+      "title": "Who Is Henry Jaglom?",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "who-is-henry-jaglom",
+      "has_reactions": false
+    },
+    {
+      "id": "3f35e97a-7f79-4076-88b9-0f725f6a40bf",
+      "title": "Mulholland Drive",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mulholland-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "aca1a5d7-22db-4d67-b220-2902a92e832b",
+      "title": "The Amati Girls",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-amati-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "0a15711d-dd3c-4184-8db1-1681f9176155",
+      "title": "Hidden Values: The Movies of the Fifties",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "hidden-values-the-movies-of-the-fifties",
+      "has_reactions": false
+    },
+    {
+      "id": "a3960635-e214-488c-a2f4-46a849d8c92d",
+      "title": "The Omen Legacy",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-omen-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "43545d05-e4ef-450a-8409-9bc0a716715e",
+      "title": "Arthur Miller, Elia Kazan and the Blacklist: None Without Sin",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "arthur-miller-elia-kazan-and-the-blacklist-none-without-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "e552b32c-a798-4644-8be2-c165996ef159",
+      "title": "The John Garfield Story",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-john-garfield-story",
+      "has_reactions": false
+    },
+    {
+      "id": "c47a306c-d7c7-4832-b84d-17c95ebc126f",
+      "title": "Going Shopping",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "going-shopping",
+      "has_reactions": false
+    },
+    {
+      "id": "0fc8c466-f453-489c-b562-ae41a74ba755",
+      "title": "Gotta Get Off This Merry-Go-Round: 'Valley of the Dolls'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "gotta-get-off-this-merry-go-round-valley-of-the-dolls",
+      "has_reactions": false
+    },
+    {
+      "id": "96321a07-4d4e-4314-8036-11d020905e9d",
+      "title": "Seeing is Believing: Women Direct",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "seeing-is-believing-women-direct",
+      "has_reactions": false
+    },
+    {
+      "id": "4f1f846d-7fe7-4bd9-90f6-6b98c516313d",
+      "title": "Truth and Lies: The Family Manson",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "truth-and-lies-the-family-manson",
+      "has_reactions": false
+    },
+    {
+      "id": "7053c226-5403-4f0c-bf3f-9cf4458e8f96",
+      "title": "Scandal: The Trial of Mary Astor",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "scandal-the-trial-of-mary-astor",
+      "has_reactions": false
+    },
+    {
+      "id": "c302ee91-2c32-49dd-bd81-504e9b57796d",
+      "title": "Hal",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "hal",
+      "has_reactions": false
+    },
+    {
+      "id": "5fccb0c5-145f-4348-8584-545a50389324",
+      "title": "Killian & the Comeback Kids",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "killian-the-comeback-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "45944aa6-87ed-4520-acde-047464bef8a5",
+      "title": "Boris Karloff: The Man Behind the Monster",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "boris-karloff-the-man-behind-the-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "14d35f97-f9c5-47c5-b3b0-73a90b46cb09",
+      "title": "Dangerous Citizen: The Life and Times of Abraham Polonsky",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "dangerous-citizen-the-life-and-times-of-abraham-polonsky",
+      "has_reactions": false
+    }
+  ]
+}

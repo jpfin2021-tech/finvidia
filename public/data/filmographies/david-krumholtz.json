@@ -1,0 +1,408 @@
+{
+  "id": "1fca0650-123f-46d4-b739-c9f89a0bc44e",
+  "name": "David Krumholtz",
+  "slug": "david-krumholtz",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+  "filmography": [
+    {
+      "id": "e006c4e8-0a12-4376-ac6f-1e1b58eb0f19",
+      "title": "Tuesday, New York",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "tuesday-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "695d2475-cee6-4ba6-b192-d0a840dbe2ed",
+      "title": "Addams Family Values",
+      "release_year": 1993,
+      "studio_label": "Scott Rudin Productions",
+      "slug": "addams-family-values",
+      "has_reactions": true
+    },
+    {
+      "id": "6811ecf4-7f50-4b1e-8c9e-f00e8f417838",
+      "title": "Life with Mikey",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "life-with-mikey",
+      "has_reactions": false
+    },
+    {
+      "id": "e5826f7c-822a-4bf5-9dfc-db0cdb38804a",
+      "title": "The Santa Clause",
+      "release_year": 1994,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-santa-clause",
+      "has_reactions": true
+    },
+    {
+      "id": "145005f5-2c55-437e-85a4-9eb7ffd7522f",
+      "title": "Slums of Beverly Hills",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "slums-of-beverly-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "c9258577-36c8-46fc-9f57-71f43cc1e8be",
+      "title": "10 Things I Hate About You",
+      "release_year": 1999,
+      "studio_label": "Mad Chance",
+      "slug": "10-things-i-hate-about-you",
+      "has_reactions": true
+    },
+    {
+      "id": "95a2dcc5-0ec2-422c-b317-7b07dcefa454",
+      "title": "Sidewalks of New York",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "sidewalks-of-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "b34ff456-58f9-457f-a796-23ffb0827540",
+      "title": "Two Can Play That Game",
+      "release_year": 2001,
+      "studio_label": "Screen Gems",
+      "slug": "two-can-play-that-game",
+      "has_reactions": true
+    },
+    {
+      "id": "55c74d1d-a5ad-41f5-ade4-00762280d9ce",
+      "title": "According to Spencer",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "according-to-spencer",
+      "has_reactions": false
+    },
+    {
+      "id": "3e6c8cb5-04b6-4b3a-aadc-ed8b2b4b42b9",
+      "title": "Cheats",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "cheats",
+      "has_reactions": false
+    },
+    {
+      "id": "9112b50c-1fbd-451a-84f0-01638e3e5b1a",
+      "title": "Big Shot: Confessions of a Campus Bookie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "big-shot-confessions-of-a-campus-bookie",
+      "has_reactions": false
+    },
+    {
+      "id": "68a1db59-5a4a-423f-91de-1033282b1956",
+      "title": "How to Kill Your Neighbor's Dog",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "how-to-kill-your-neighbor-s-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "60600e85-1671-4cdf-828f-dfea7e3b2a82",
+      "title": "Scorched",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "scorched",
+      "has_reactions": false
+    },
+    {
+      "id": "4c73e4c3-8228-4ecd-952c-569d0d609f4d",
+      "title": "Sick in the Head",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "sick-in-the-head",
+      "has_reactions": false
+    },
+    {
+      "id": "b8278318-88b5-4403-8c26-db7ca61120fb",
+      "title": "Kill the Poor",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "kill-the-poor",
+      "has_reactions": false
+    },
+    {
+      "id": "1bfb3f29-0fed-45c4-8848-01d2a4b819b9",
+      "title": "Harold & Kumar Go to White Castle",
+      "release_year": 2004,
+      "studio_label": "Senator International",
+      "slug": "harold-kumar-go-to-white-castle",
+      "has_reactions": true
+    },
+    {
+      "id": "1343880d-3151-4a3a-ac3b-c10697551ebc",
+      "title": "Ray",
+      "release_year": 2004,
+      "studio_label": "Bristol Bay Productions",
+      "slug": "ray",
+      "has_reactions": true
+    },
+    {
+      "id": "b9cd6451-003d-403d-a85e-b9f5e709114b",
+      "title": "Serenity",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "serenity",
+      "has_reactions": true
+    },
+    {
+      "id": "fe09192a-948b-4173-a6e7-67208bd2cc48",
+      "title": "Guess Who",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "guess-who",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff3cdc7-dcba-4995-80ff-02662ed2f809",
+      "title": "American Storage",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "american-storage",
+      "has_reactions": false
+    },
+    {
+      "id": "1e1475ea-ae5f-4097-8ec9-0ff2a0148220",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "walk-hard-the-dewey-cox-story",
+      "has_reactions": true
+    },
+    {
+      "id": "1bab45f7-cb4f-4481-8e28-d6d0482c6ddb",
+      "title": "Superbad",
+      "release_year": 2007,
+      "studio_label": "Columbia Pictures",
+      "slug": "superbad",
+      "has_reactions": true
+    },
+    {
+      "id": "58e64489-5c52-44f7-bbc6-e5078cf0805e",
+      "title": "Harold & Kumar Escape from Guantanamo Bay",
+      "release_year": 2008,
+      "studio_label": "New Line Cinema",
+      "slug": "harold-kumar-escape-from-guantanamo-bay",
+      "has_reactions": true
+    },
+    {
+      "id": "865fdce9-3daa-4ed8-a4b0-495d612f4d76",
+      "title": "I Love You, Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-man",
+      "has_reactions": false
+    },
+    {
+      "id": "37bb6dda-fc31-47b3-8898-5b65efc510d0",
+      "title": "Mr. Popper's Penguins",
+      "release_year": 2011,
+      "studio_label": "Davis Entertainment",
+      "slug": "mr-popper-s-penguins",
+      "has_reactions": true
+    },
+    {
+      "id": "45604915-9e4b-4666-aaa2-78ae91d8c4f0",
+      "title": "This Is the End",
+      "release_year": 2013,
+      "studio_label": "Columbia Pictures",
+      "slug": "this-is-the-end",
+      "has_reactions": true
+    },
+    {
+      "id": "42fd6448-4ac2-44be-aa2b-e3ca6e9668b5",
+      "title": "Seth Rogen Is the Worst Person in the World",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "seth-rogen-is-the-worst-person-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "1d2a2070-aa52-49ee-9038-40b4561f8d3a",
+      "title": "The Big Ask",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-big-ask",
+      "has_reactions": false
+    },
+    {
+      "id": "48e034f8-2fb1-4fd6-965e-8f762e256d0a",
+      "title": "Sausage Party",
+      "release_year": 2016,
+      "studio_label": "Columbia Pictures",
+      "slug": "sausage-party",
+      "has_reactions": true
+    },
+    {
+      "id": "ad8d6d13-4720-4019-9cb4-bfe526a87451",
+      "title": "I Saw the Light",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "i-saw-the-light",
+      "has_reactions": false
+    },
+    {
+      "id": "4a57fede-e515-4a4b-83b7-580ea9b98592",
+      "title": "Ghost Team",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ghost-team",
+      "has_reactions": false
+    },
+    {
+      "id": "28de19eb-51fb-4099-be0a-4f3299f78140",
+      "title": "Casual Encounters",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "casual-encounters",
+      "has_reactions": false
+    },
+    {
+      "id": "ef88059a-96e1-40d7-8677-f5de54a01b70",
+      "title": "Wonder Wheel",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "wonder-wheel",
+      "has_reactions": false
+    },
+    {
+      "id": "4c58dfe7-10c7-451a-9f06-59df4178ae68",
+      "title": "The Ballad of Buster Scruggs",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-buster-scruggs",
+      "has_reactions": false
+    },
+    {
+      "id": "59aed57f-4d69-4ac9-860e-5e83fc607405",
+      "title": "Crown Vic",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "crown-vic",
+      "has_reactions": false
+    },
+    {
+      "id": "b7f88d0d-0d98-4e0a-8d21-2924430ec6e0",
+      "title": "Entree Des Artists",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "entree-des-artists",
+      "has_reactions": false
+    },
+    {
+      "id": "ab941966-b448-46fa-a7b9-2af4ab49bfcc",
+      "title": "Class",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "class",
+      "has_reactions": false
+    },
+    {
+      "id": "29771902-842e-4c7c-8bf7-64a896363041",
+      "title": "Down with the King",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "down-with-the-king",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7e20a9-8e60-41be-8e35-340df168fd08",
+      "title": "Oppenheimer",
+      "release_year": 2023,
+      "studio_label": "Syncopy",
+      "slug": "oppenheimer",
+      "has_reactions": true
+    },
+    {
+      "id": "326503a1-b282-4e88-954f-f2f4556c04f3",
+      "title": "Kidnapping Oscar Isaac",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "kidnapping-oscar-isaac",
+      "has_reactions": false
+    },
+    {
+      "id": "2b26c45a-a484-4c4a-b54c-d693dcaa7731",
+      "title": "Lousy Carter",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lousy-carter",
+      "has_reactions": false
+    },
+    {
+      "id": "90307303-2096-4447-8259-7678e24c0e81",
+      "title": "Scattered",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "scattered",
+      "has_reactions": false
+    },
+    {
+      "id": "bc13d1ee-9d85-4010-966f-69567f1ce629",
+      "title": "Not Fade Away: A Celebration of the Grateful Dead Legacy",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "not-fade-away-a-celebration-of-the-grateful-dead-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "3c4ce7dc-ea77-4fca-b05d-f7ff365dad18",
+      "title": "If That Mockingbird Don\u2019t Sing",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "if-that-mockingbird-don-t-sing",
+      "has_reactions": false
+    },
+    {
+      "id": "f93577e2-b2d4-4be9-acd6-1201cd8e69d3",
+      "title": "An Intimate Evening with Adam Pally",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "an-intimate-evening-with-adam-pally",
+      "has_reactions": false
+    },
+    {
+      "id": "cc97a2db-8878-4a19-bf36-7980c675cafa",
+      "title": "Forelock",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "forelock",
+      "has_reactions": false
+    },
+    {
+      "id": "02d40089-21ea-4707-8d8a-fcfd7321fd98",
+      "title": "Influenced",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "influenced",
+      "has_reactions": false
+    },
+    {
+      "id": "8e8e3be4-de1a-4dcd-bdb0-bbedbaad78fb",
+      "title": "Supergirl",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "supergirl",
+      "has_reactions": false
+    },
+    {
+      "id": "26337492-9fc5-4b51-adf8-5aff6ed041c7",
+      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "mr-irrelevant-the-john-tuggle-story",
+      "has_reactions": false
+    },
+    {
+      "id": "fc3a44c8-89db-465f-9fad-1c54e9d1a14b",
+      "title": "Kill Me",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "kill-me",
+      "has_reactions": false
+    }
+  ]
+}

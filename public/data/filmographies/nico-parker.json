@@ -1,0 +1,32 @@
+{
+  "id": "17631c20-2b81-4be8-bf99-37171535979b",
+  "name": "Nico Parker",
+  "slug": "nico-parker",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg",
+  "filmography": [
+    {
+      "id": "9ded2338-794e-41ca-9ff8-3c158e322ea2",
+      "title": "Dumbo",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dumbo",
+      "has_reactions": false
+    },
+    {
+      "id": "9b95365f-905e-4b64-a0c2-2cf968d03a08",
+      "title": "Reminiscence",
+      "release_year": 2021,
+      "studio_label": "FilmNation Entertainment",
+      "slug": "reminiscence",
+      "has_reactions": false
+    },
+    {
+      "id": "2916e3c1-863e-487d-ba01-5b1c2538e71d",
+      "title": "How to Train Your Dragon",
+      "release_year": 2025,
+      "studio_label": "DreamWorks Animation",
+      "slug": "how-to-train-your-dragon",
+      "has_reactions": true
+    }
+  ]
+}

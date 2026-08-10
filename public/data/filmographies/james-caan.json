@@ -1,0 +1,512 @@
+{
+  "id": "84d4545e-2b43-421f-96b5-2a5680200481",
+  "name": "James Caan",
+  "slug": "james-caan",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg",
+  "filmography": [
+    {
+      "id": "ceea7561-2d84-4d06-a7b7-54440afbfeda",
+      "title": "Irma la Douce",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "irma-la-douce",
+      "has_reactions": false
+    },
+    {
+      "id": "18cd293f-fd48-4996-8549-7e450d8fefbf",
+      "title": "Lady in a Cage",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "lady-in-a-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "4358ea57-79ff-4619-a905-a50b9837662e",
+      "title": "The Glory Guys",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-glory-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "02cda42d-4466-4d7b-9f90-fa9eb83e74d6",
+      "title": "El Dorado",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "el-dorado",
+      "has_reactions": false
+    },
+    {
+      "id": "8e0065ed-cd13-40f1-9bd8-c523cee86463",
+      "title": "Journey to Shiloh",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "journey-to-shiloh",
+      "has_reactions": false
+    },
+    {
+      "id": "656fd5f2-8f29-4747-8150-171872fe34dc",
+      "title": "Submarine X-1",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "submarine-x-1",
+      "has_reactions": false
+    },
+    {
+      "id": "3d427f66-992c-4f48-9611-334da52e3b02",
+      "title": "Rabbit, Run",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "rabbit-run",
+      "has_reactions": false
+    },
+    {
+      "id": "a9b0a28c-34c6-4e56-96fd-a7ee121e2f10",
+      "title": "Brian's Song",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "brian-s-song",
+      "has_reactions": false
+    },
+    {
+      "id": "155c7b20-c1c0-400b-95c7-1638e43319a1",
+      "title": "The Godfather",
+      "release_year": 1972,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather",
+      "has_reactions": true
+    },
+    {
+      "id": "b551d6d2-82eb-4f0a-80eb-a2bd9047a88c",
+      "title": "Cinderella Liberty",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "cinderella-liberty",
+      "has_reactions": false
+    },
+    {
+      "id": "a9ca0945-b585-4406-8e83-3cd06c132ae3",
+      "title": "Freebie and the Bean",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "freebie-and-the-bean",
+      "has_reactions": false
+    },
+    {
+      "id": "c58ef30b-3ff7-4fae-8b8f-b7cf9289d3e8",
+      "title": "The Gambler",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-gambler",
+      "has_reactions": false
+    },
+    {
+      "id": "eb8898db-41d1-4778-a818-6558177e254c",
+      "title": "The Godfather Part II",
+      "release_year": 1974,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-part-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "9734f3e3-a165-400a-881e-92d43c4601c1",
+      "title": "Funny Lady",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "funny-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "cba049e5-cb08-430a-b670-36e9eeaffa34",
+      "title": "Rollerball",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "rollerball",
+      "has_reactions": false
+    },
+    {
+      "id": "6420ec9a-c1a7-4424-800a-2aa4c4149c44",
+      "title": "Gone with the West",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "gone-with-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "2e8cadf9-01fd-406e-a3ee-7562ec7b5a4f",
+      "title": "Harry and Walter Go to New York",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "harry-and-walter-go-to-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "1bb654d6-2ca2-4366-97cf-7bcbf6e1d45f",
+      "title": "A Bridge Too Far",
+      "release_year": 1977,
+      "studio_label": "United Artists",
+      "slug": "a-bridge-too-far",
+      "has_reactions": true
+    },
+    {
+      "id": "bd944cb8-a2ee-4bf7-ba78-013dbd6a6233",
+      "title": "Another Man, Another Chance",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "another-man-another-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "80b075a9-eaf2-48c8-a841-9b310c8f9f3f",
+      "title": "Comes a Horseman",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "comes-a-horseman",
+      "has_reactions": false
+    },
+    {
+      "id": "208423dc-59c3-4a8b-861c-16f2e387269b",
+      "title": "Chapter Two",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "chapter-two",
+      "has_reactions": false
+    },
+    {
+      "id": "6bd5e0ac-d066-45e4-9a15-bdb5d806c35b",
+      "title": "Hide in Plain Sight",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "hide-in-plain-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "6f7bf071-78c0-4f20-83c4-01a00a372f44",
+      "title": "Thief",
+      "release_year": 1981,
+      "studio_label": "Mann/Caan Productions",
+      "slug": "thief",
+      "has_reactions": true
+    },
+    {
+      "id": "d2446418-bbbc-4a90-a601-ceb78b21c588",
+      "title": "Bolero",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "bolero",
+      "has_reactions": false
+    },
+    {
+      "id": "3aae0b0d-a81e-4011-8a43-6cbb3bdb0d23",
+      "title": "Alien Nation",
+      "release_year": 1988,
+      "studio_label": "20th Century Fox",
+      "slug": "alien-nation",
+      "has_reactions": true
+    },
+    {
+      "id": "570082ef-9026-4df3-9fe7-349232ec4e74",
+      "title": "Misery",
+      "release_year": 1990,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "misery",
+      "has_reactions": true
+    },
+    {
+      "id": "fba4797e-3ce2-46ec-9910-b2e7862a9661",
+      "title": "For the Boys",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "for-the-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "a2359713-3227-4731-a3bf-f63a979961b8",
+      "title": "Honeymoon in Vegas",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "honeymoon-in-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "dccc1063-d91d-4582-b162-2cfb4184b385",
+      "title": "A Boy Called Hate",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-boy-called-hate",
+      "has_reactions": false
+    },
+    {
+      "id": "9bc70632-8192-4405-959a-d67281b11a14",
+      "title": "Mickey Blue Eyes",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "mickey-blue-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "5cb7f1d1-ebc6-4795-b811-e1c26c058e16",
+      "title": "This Is My Father",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "this-is-my-father",
+      "has_reactions": false
+    },
+    {
+      "id": "48ccadd1-089e-40bc-93ff-6b1e040be9fa",
+      "title": "Luckytown",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "luckytown",
+      "has_reactions": false
+    },
+    {
+      "id": "7305ea56-305d-40b5-bebc-17c03f52c4cd",
+      "title": "The Yards",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-yards",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a1ac69-2f7b-44a1-a787-2426d6b92bb4",
+      "title": "A Glimpse of Hell",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-glimpse-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "8c27d31f-4ca6-472c-be87-df545536152a",
+      "title": "Dead Simple",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dead-simple",
+      "has_reactions": false
+    },
+    {
+      "id": "89f8eeb6-810a-4ade-8c41-41467c82054c",
+      "title": "Lathe of Heaven",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "lathe-of-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "7e25b38d-325b-4f01-9d6a-9f245d8ce8b7",
+      "title": "Blood Crime",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "blood-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "a731168b-1c02-4c2d-9693-ce4c14199107",
+      "title": "City of Ghosts",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "city-of-ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "81f7e58b-b889-42bd-bef5-3a12f0315b54",
+      "title": "Night at the Golden Eagle",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "night-at-the-golden-eagle",
+      "has_reactions": false
+    },
+    {
+      "id": "0fc6d6e7-2387-4ac7-bb18-d8fc1da5990a",
+      "title": "Elf",
+      "release_year": 2003,
+      "studio_label": "New Line Cinema",
+      "slug": "elf",
+      "has_reactions": true
+    },
+    {
+      "id": "a36f0620-5d90-47b5-bd2a-62fd1a12c25c",
+      "title": "Misery Loves Company",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "misery-loves-company",
+      "has_reactions": false
+    },
+    {
+      "id": "06ae5aa7-1c41-42c3-9e64-a5b33a636607",
+      "title": "Dogville",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "dogville",
+      "has_reactions": false
+    },
+    {
+      "id": "c3bb359d-5b88-4ca7-84bb-641684e863a5",
+      "title": "Jericho Mansions",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "jericho-mansions",
+      "has_reactions": false
+    },
+    {
+      "id": "c3b0ac42-e2e4-4820-abdf-1c09b5ca4304",
+      "title": "Willie Nelson & Friends: Outlaws & Angels",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-friends-outlaws-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "2d5d2c16-769b-42ef-8a77-19a6b0725415",
+      "title": "Santa's Slay",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "santa-s-slay",
+      "has_reactions": false
+    },
+    {
+      "id": "94573ba7-85a4-4272-bf73-e23c27deff5a",
+      "title": "Gangland: Bullets over Hollywood",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "gangland-bullets-over-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "aab792c1-d70f-40ed-afe4-4dcab28e050f",
+      "title": "Get Smart",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "get-smart",
+      "has_reactions": false
+    },
+    {
+      "id": "4f27a401-737c-420a-a78a-46f9295596e3",
+      "title": "Wisegal",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "wisegal",
+      "has_reactions": false
+    },
+    {
+      "id": "9d9ded9b-16f3-4236-beb1-273f9b2137b9",
+      "title": "Hollywood Gangster",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hollywood-gangster",
+      "has_reactions": false
+    },
+    {
+      "id": "8bf80983-024d-4c7a-bf40-1c49449c9b6b",
+      "title": "Cloudy with a Chance of Meatballs",
+      "release_year": 2009,
+      "studio_label": "Sony Pictures Animation",
+      "slug": "cloudy-with-a-chance-of-meatballs",
+      "has_reactions": true
+    },
+    {
+      "id": "8747b0c9-f6af-4e7d-be19-2a50b772576e",
+      "title": "Mercy",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "mercy",
+      "has_reactions": false
+    },
+    {
+      "id": "3303d1d3-75b9-44ce-9730-cfb4a7d70771",
+      "title": "Henry's Crime",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "henry-s-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "f55e26d9-8c58-4cdb-a0ed-d80a108ce91b",
+      "title": "For the Love of Money",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "for-the-love-of-money",
+      "has_reactions": false
+    },
+    {
+      "id": "315ddb36-650e-4c0a-98db-4163bfd2aeec",
+      "title": "That's My Boy",
+      "release_year": 2012,
+      "studio_label": "Relativity Media",
+      "slug": "that-s-my-boy",
+      "has_reactions": true
+    },
+    {
+      "id": "6758a44b-234a-435b-9147-1ab459c8f252",
+      "title": "Seduced and Abandoned",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "seduced-and-abandoned",
+      "has_reactions": false
+    },
+    {
+      "id": "3424769d-2004-4455-9a79-4c46a5cbb5d0",
+      "title": "Cloudy with a Chance of Meatballs 2",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "cloudy-with-a-chance-of-meatballs-2",
+      "has_reactions": false
+    },
+    {
+      "id": "5af7b37a-3b86-4ab8-ae83-7b825a49f819",
+      "title": "Preggoland",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "preggoland",
+      "has_reactions": false
+    },
+    {
+      "id": "5d1357ad-9e94-437b-880e-88923603f71c",
+      "title": "Wuthering High",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "wuthering-high",
+      "has_reactions": false
+    },
+    {
+      "id": "16449d8b-1ad8-412f-95ae-7d73251505e0",
+      "title": "The Throwaways",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-throwaways",
+      "has_reactions": false
+    },
+    {
+      "id": "3eb68ce6-b8c3-4143-a31a-1d88b48e74d8",
+      "title": "The Outsider",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-outsider",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a28d92-5b85-4742-9bb3-7667d41bdcab",
+      "title": "The Good Neighbor",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-good-neighbor",
+      "has_reactions": false
+    },
+    {
+      "id": "86fdd878-cae1-442c-8703-901a2015cd96",
+      "title": "J.L. Family Ranch",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "j-l-family-ranch",
+      "has_reactions": false
+    },
+    {
+      "id": "b85d7fb7-608c-4187-8425-100793123f9d",
+      "title": "King on Screen",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "king-on-screen",
+      "has_reactions": false
+    }
+  ]
+}

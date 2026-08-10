@@ -1,0 +1,40 @@
+{
+  "id": "eb9ecc88-0c98-427c-bdc7-7229edb82f27",
+  "name": "Sarah Holcomb",
+  "slug": "sarah-holcomb",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nvbFYFakQceQDo1Ips8gcf31lZt.jpg",
+  "filmography": [
+    {
+      "id": "5afe8c87-847d-48a1-b02a-c35f65fe9418",
+      "title": "Animal House",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "animal-house",
+      "has_reactions": true
+    },
+    {
+      "id": "b8e38359-4a18-43ac-8f1a-cfb56a4551a9",
+      "title": "Mr. Mike's Mondo Video",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "mr-mike-s-mondo-video",
+      "has_reactions": false
+    },
+    {
+      "id": "352b92fa-b7cc-4b67-8a28-1ae66d430be8",
+      "title": "Caddyshack",
+      "release_year": 1980,
+      "studio_label": "Orion Pictures",
+      "slug": "caddyshack",
+      "has_reactions": true
+    },
+    {
+      "id": "e4eeb8a6-5e64-4b75-8326-6c8cc32fa53e",
+      "title": "Happy Birthday, Gemini",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "happy-birthday-gemini",
+      "has_reactions": false
+    }
+  ]
+}

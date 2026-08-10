@@ -1,0 +1,512 @@
+{
+  "id": "6d5c4c5f-c06a-4d73-b62f-6807b6b17248",
+  "name": "Amy Madigan",
+  "slug": "amy-madigan",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/h2jErDWMDFFJth4Y9GiVNmwZf65.jpg",
+  "filmography": [
+    {
+      "id": "459972b1-29c1-48b9-beae-82ad5766d25c",
+      "title": "School for the Blind",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "school-for-the-blind",
+      "has_reactions": false
+    },
+    {
+      "id": "1793d66b-d788-4235-98ac-c6b7241e50c2",
+      "title": "I Passed This Way",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "i-passed-this-way",
+      "has_reactions": false
+    },
+    {
+      "id": "d54623e1-ff35-4ee7-93f1-d6950b117077",
+      "title": "Sponsor",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "sponsor",
+      "has_reactions": false
+    },
+    {
+      "id": "06e0a62b-cb24-49ed-b08c-d561a7163b35",
+      "title": "Crazy Times",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "crazy-times",
+      "has_reactions": false
+    },
+    {
+      "id": "7f2ebc1a-4da8-4648-8b66-44009b8093c0",
+      "title": "The Ambush Murders",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-ambush-murders",
+      "has_reactions": false
+    },
+    {
+      "id": "8fc5d3c4-6f75-4d2a-b151-c03fcd2298f1",
+      "title": "Love Child",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "love-child",
+      "has_reactions": false
+    },
+    {
+      "id": "b7c781d3-d731-454c-8062-f0b7a49281b3",
+      "title": "Love Letters",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "love-letters",
+      "has_reactions": false
+    },
+    {
+      "id": "e31398de-4186-4781-8ee0-928d4d587ebd",
+      "title": "The Day After",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-day-after",
+      "has_reactions": false
+    },
+    {
+      "id": "c5035a6b-67ec-45bb-81cb-7cbe65cb4536",
+      "title": "Streets of Fire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "streets-of-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "01a5e4de-2846-4054-a466-3bb2652867cd",
+      "title": "Places in the Heart",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "places-in-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "94fe395f-7094-41b3-a507-fb0e5e46f31d",
+      "title": "The Laundromat",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-laundromat",
+      "has_reactions": false
+    },
+    {
+      "id": "ab9a7c45-756d-4cdf-b599-a79e9b9df896",
+      "title": "Alamo Bay",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "alamo-bay",
+      "has_reactions": false
+    },
+    {
+      "id": "4673e05f-bc50-49ca-879f-ddaa413f33f0",
+      "title": "Fat Guy Goes Nutzoid",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "fat-guy-goes-nutzoid",
+      "has_reactions": false
+    },
+    {
+      "id": "11f0eb20-49ab-41a7-9d36-cd40458eb6bb",
+      "title": "Nowhere to Hide",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "nowhere-to-hide",
+      "has_reactions": false
+    },
+    {
+      "id": "bf6133b8-7cc0-49b3-884d-1be0a0e393f2",
+      "title": "The Prince of Pennsylvania",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-prince-of-pennsylvania",
+      "has_reactions": false
+    },
+    {
+      "id": "726ee498-809b-42b5-8dcc-583525863d65",
+      "title": "The Revolt of Mother",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-revolt-of-mother",
+      "has_reactions": false
+    },
+    {
+      "id": "6d34782b-7ee8-41f6-b760-f8f87298ced9",
+      "title": "Uncle Buck",
+      "release_year": 1989,
+      "studio_label": "Hughes Entertainment",
+      "slug": "uncle-buck",
+      "has_reactions": true
+    },
+    {
+      "id": "6e4ce346-9b7d-45ae-a2e9-6bfe21d10f77",
+      "title": "Field of Dreams",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "field-of-dreams",
+      "has_reactions": true
+    },
+    {
+      "id": "fabf1699-ee31-4943-84f3-3e8be623755c",
+      "title": "Roe vs. Wade",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "roe-vs-wade",
+      "has_reactions": false
+    },
+    {
+      "id": "379f3c4d-de88-4891-8c3d-0d36529c6dc8",
+      "title": "Lucky Day",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "lucky-day",
+      "has_reactions": false
+    },
+    {
+      "id": "df7d0b17-d859-45d8-9712-c314d49bc95b",
+      "title": "The Donner Party",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-donner-party",
+      "has_reactions": false
+    },
+    {
+      "id": "ed570ea0-8eec-4c80-99f2-4ff39d1daade",
+      "title": "And Then There Was One",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "and-then-there-was-one",
+      "has_reactions": false
+    },
+    {
+      "id": "6a356e4d-e829-4730-b02c-9b68295e6897",
+      "title": "Riders of the Purple Sage",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "riders-of-the-purple-sage",
+      "has_reactions": false
+    },
+    {
+      "id": "5d2b63ed-40b3-432d-ae97-fbb33f2f4792",
+      "title": "Female Perversions",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "female-perversions",
+      "has_reactions": false
+    },
+    {
+      "id": "b3353904-618c-49dc-8164-95f7aaa64e00",
+      "title": "Loved",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "loved",
+      "has_reactions": false
+    },
+    {
+      "id": "9eed973b-552a-4725-a050-4595dce245f4",
+      "title": "With Friends Like These",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "with-friends-like-these",
+      "has_reactions": false
+    },
+    {
+      "id": "a10cfd3a-0541-4ac3-8b62-7dcad35d04a3",
+      "title": "A Bright Shining Lie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-bright-shining-lie",
+      "has_reactions": false
+    },
+    {
+      "id": "37ba3cfc-c95e-43aa-8df3-171248978df4",
+      "title": "Having Our Say: The Delany Sisters' First 100 Years",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "having-our-say-the-delany-sisters-first-100-years",
+      "has_reactions": false
+    },
+    {
+      "id": "1c87fd96-d544-41d6-9e2e-c401a75b07be",
+      "title": "In the Name of the People",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "in-the-name-of-the-people",
+      "has_reactions": false
+    },
+    {
+      "id": "60821b03-e7d8-46c0-9557-6b9694a1c8b0",
+      "title": "Shot in the Heart",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "shot-in-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "2ee18ef5-7900-45c5-85f6-55b11765eb35",
+      "title": "The Sleepy Time Gal",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-sleepy-time-gal",
+      "has_reactions": false
+    },
+    {
+      "id": "71242322-a13e-4345-b424-740db24f83d2",
+      "title": "A Time for Dancing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "a-time-for-dancing",
+      "has_reactions": false
+    },
+    {
+      "id": "34419d3a-6576-4a1a-b324-dbcaf704c8c4",
+      "title": "Mark Twain",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mark-twain",
+      "has_reactions": false
+    },
+    {
+      "id": "15313e14-1bce-4308-847d-d7cdaa1ef5e7",
+      "title": "Is Your Mama a Llama?",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "is-your-mama-a-llama",
+      "has_reactions": false
+    },
+    {
+      "id": "afa7f537-1453-45c8-984d-85b575753f04",
+      "title": "Making 'Carniv\u00e0le': The Show Behind the Show",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "making-carniv-le-the-show-behind-the-show",
+      "has_reactions": false
+    },
+    {
+      "id": "c80da5f6-e6ff-4e15-ac82-249542e4f3a1",
+      "title": "Admissions",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "admissions",
+      "has_reactions": false
+    },
+    {
+      "id": "befddebf-fd48-49ed-b614-1de7ce655723",
+      "title": "Unforgivable Blackness: The Rise and Fall of Jack Johnson",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "unforgivable-blackness-the-rise-and-fall-of-jack-johnson",
+      "has_reactions": false
+    },
+    {
+      "id": "40d516ce-ea84-4afa-88eb-e77eb53bdcd8",
+      "title": "The Ranch",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-ranch",
+      "has_reactions": false
+    },
+    {
+      "id": "a9b61b73-eb05-435a-b087-82380842a818",
+      "title": "In the Land of Milk and Money",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "in-the-land-of-milk-and-money",
+      "has_reactions": false
+    },
+    {
+      "id": "fba24c19-9ab6-4ea7-8543-2555f0294436",
+      "title": "Murder on Pleasant Drive",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "murder-on-pleasant-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "8e92cc2f-26db-4cef-82ce-5524e0ce7805",
+      "title": "Winter Passing",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "winter-passing",
+      "has_reactions": false
+    },
+    {
+      "id": "a703f109-6d42-44ac-82ed-41d6c1fd437c",
+      "title": "Once Fallen",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "once-fallen",
+      "has_reactions": false
+    },
+    {
+      "id": "284e9b83-901a-4f6e-a51b-317664ce1189",
+      "title": "Virginia",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "virginia",
+      "has_reactions": false
+    },
+    {
+      "id": "894905f8-9991-43b3-a898-6183c28db124",
+      "title": "That's What I Am",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "that-s-what-i-am",
+      "has_reactions": false
+    },
+    {
+      "id": "6aa5ccb0-d55c-4ef4-9d65-3c65a70bda2a",
+      "title": "Future Weather",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "future-weather",
+      "has_reactions": false
+    },
+    {
+      "id": "b2273e0c-4c58-45d7-ad44-a57aad90f779",
+      "title": "Rumble on the Lot: Walter Hill's Streets of Fire Revisited",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "rumble-on-the-lot-walter-hill-s-streets-of-fire-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "fee3b6ce-8f88-42c0-9b0b-278677c77476",
+      "title": "The Lifeguard",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-lifeguard",
+      "has_reactions": false
+    },
+    {
+      "id": "4a044347-192b-4c4c-89eb-713c7e9db8f1",
+      "title": "Sweetwater",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sweetwater",
+      "has_reactions": false
+    },
+    {
+      "id": "2ed1539e-1f68-4c93-913e-ea8271d849e6",
+      "title": "Shirin in Love",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "shirin-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "e73437c8-4b3d-46d1-9fec-69d486455366",
+      "title": "Frontera",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "frontera",
+      "has_reactions": false
+    },
+    {
+      "id": "b0954d3c-5846-432f-a2ba-fffd14b56a4d",
+      "title": "Sensitivity Training",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "sensitivity-training",
+      "has_reactions": false
+    },
+    {
+      "id": "a70455af-a175-4a94-9100-bc87b3fd7773",
+      "title": "Buried Child",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "buried-child",
+      "has_reactions": false
+    },
+    {
+      "id": "0aa63904-ca6b-4057-bcc8-b43117473cbb",
+      "title": "Grey Lady",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "grey-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "b7382695-248a-4794-b595-c135d056f05e",
+      "title": "American Socialist: The Life and Times of Eugene Victor Debs",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "american-socialist-the-life-and-times-of-eugene-victor-debs",
+      "has_reactions": false
+    },
+    {
+      "id": "afa6044c-fe33-4056-a7dd-24d33edf80a2",
+      "title": "A Crooked Somebody",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "a-crooked-somebody",
+      "has_reactions": false
+    },
+    {
+      "id": "2619cc07-518d-4f30-944a-4edcb8ce62bb",
+      "title": "Stuck",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "stuck",
+      "has_reactions": false
+    },
+    {
+      "id": "f4226b8e-a3fc-4eef-906a-dac03935da28",
+      "title": "Go For Grandma",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "go-for-grandma",
+      "has_reactions": false
+    },
+    {
+      "id": "736a031f-9b15-4e67-855b-796358430daa",
+      "title": "Bull Street",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "bull-street",
+      "has_reactions": false
+    },
+    {
+      "id": "7f2b0ee3-a55e-4a24-85d0-c9bc38495be7",
+      "title": "Brooklyn, Minnesota",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "brooklyn-minnesota",
+      "has_reactions": false
+    },
+    {
+      "id": "28e26e16-c431-4d8a-a473-ccdab4964fbf",
+      "title": "Weapons",
+      "release_year": 2025,
+      "studio_label": "Subconscious",
+      "slug": "weapons",
+      "has_reactions": true
+    },
+    {
+      "id": "76deb644-cd1a-44df-a88f-2ff413660816",
+      "title": "Off the Horse",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "off-the-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "8cd24fa3-63e5-423d-849e-251a18ef1856",
+      "title": "Rebuilding",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "rebuilding",
+      "has_reactions": false
+    },
+    {
+      "id": "da294c69-16d6-48c6-81c2-6d67a822d470",
+      "title": "Gladys",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "gladys",
+      "has_reactions": false
+    }
+  ]
+}

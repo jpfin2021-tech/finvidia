@@ -1,0 +1,616 @@
+{
+  "id": "00d01255-28c1-4661-8d06-b0683b98ffc8",
+  "name": "Hiroyuki Sanada",
+  "slug": "hiroyuki-sanada",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg",
+  "filmography": [
+    {
+      "id": "82f70466-3085-4084-b96f-6dc6213176b1",
+      "title": "Game of Chance",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "game-of-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "d0ed6d52-1eb6-40c2-badc-8db248715f06",
+      "title": "Game of Chance 3",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "game-of-chance-3",
+      "has_reactions": false
+    },
+    {
+      "id": "448a291f-5a6b-42e6-a655-37f88fa8408c",
+      "title": "Game of Chance 2",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "game-of-chance-2",
+      "has_reactions": false
+    },
+    {
+      "id": "9cb9b156-c1f8-4b41-ae93-8c2575554af7",
+      "title": "New Prison Walls of Abashiri: The Vagrant Comes to a Port Town",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "new-prison-walls-of-abashiri-the-vagrant-comes-to-a-port-town",
+      "has_reactions": false
+    },
+    {
+      "id": "612bf061-9ffc-4490-83f2-cefb0b7baaf1",
+      "title": "The Executioner",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-executioner",
+      "has_reactions": false
+    },
+    {
+      "id": "fd92a59b-5a59-4e86-a55f-d17f868211c0",
+      "title": "Message from Space",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "message-from-space",
+      "has_reactions": false
+    },
+    {
+      "id": "e450402e-3346-483c-bd65-579d4c233cd2",
+      "title": "Shogun's Samurai",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "shogun-s-samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "29c5099f-fade-46c3-b20d-ba95247b9229",
+      "title": "The Shogun Assassins",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-shogun-assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "4fd92ab2-4d66-4be4-bcf8-8fa38d618c26",
+      "title": "G.I. Samurai",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "g-i-samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "f1261506-c35e-4dc0-891d-98ca7a60197e",
+      "title": "Yagyu Abaretabi",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "yagyu-abaretabi",
+      "has_reactions": false
+    },
+    {
+      "id": "96ea1180-951c-4e50-afd1-e30e85a21a4d",
+      "title": "Shogun's Ninja",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "shogun-s-ninja",
+      "has_reactions": false
+    },
+    {
+      "id": "9efcb84d-ac9f-47ea-9040-253c1fede973",
+      "title": "Dreamy Fifteen",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "dreamy-fifteen",
+      "has_reactions": false
+    },
+    {
+      "id": "e85bcd25-c48a-4420-a7cf-b39a63d99364",
+      "title": "Samurai Reincarnation",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "samurai-reincarnation",
+      "has_reactions": false
+    },
+    {
+      "id": "d6781665-076f-434a-b84b-fac2a54f3f7a",
+      "title": "Swords of the Space Ark",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "swords-of-the-space-ark",
+      "has_reactions": false
+    },
+    {
+      "id": "af7de0a6-dd93-4a62-b20d-b3930024f6f3",
+      "title": "Kamikaze, the Adventurer",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "kamikaze-the-adventurer",
+      "has_reactions": false
+    },
+    {
+      "id": "202378f5-5873-4bb6-978a-859dcc412a87",
+      "title": "The Blazing Valiant",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-blazing-valiant",
+      "has_reactions": false
+    },
+    {
+      "id": "fda317ea-06ed-45b5-8c8b-1b7e4d7983ad",
+      "title": "Ninja Wars",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "ninja-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "ca6ce3cc-8fa3-4f9e-b83f-067add26743c",
+      "title": "Kabamaru the Ninja Boy",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "kabamaru-the-ninja-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "41765ceb-753a-4887-bf80-daa4e8221bd0",
+      "title": "The Awesome Circus Bastard",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-awesome-circus-bastard",
+      "has_reactions": false
+    },
+    {
+      "id": "afb7385d-3a88-4cb1-bd6e-9de5f5925750",
+      "title": "The Street of Desire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-street-of-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "028ad9b4-b627-4493-91fd-ea09c5e8fa71",
+      "title": "Mahjong Horoki",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "mahjong-horoki",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2a5d21-b219-4a23-9c92-88515f5f2e16",
+      "title": "Kotaro, An Audacious Karate Boy",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "kotaro-an-audacious-karate-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "d886cc8e-5116-4927-8b70-e538ef398dc8",
+      "title": "Cabaret",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "cabaret",
+      "has_reactions": false
+    },
+    {
+      "id": "ace7818b-ed66-4c62-8863-c34ee3b807b6",
+      "title": "House on Fire",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "house-on-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "877e18cf-3541-4e61-8cb2-9ac4f8151fc3",
+      "title": "One Who Died in Vain",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "one-who-died-in-vain",
+      "has_reactions": false
+    },
+    {
+      "id": "b2c17529-121a-44ef-a511-a3a4ccb73399",
+      "title": "Sure Death 4",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "sure-death-4",
+      "has_reactions": false
+    },
+    {
+      "id": "df6e9c48-f095-472c-9f6f-25916ef44d38",
+      "title": "Seiko Matsuda's Sweet Memories",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "seiko-matsuda-s-sweet-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "e7ea044e-44f4-4b2b-b63b-0a5d7c774cee",
+      "title": "I Love You So Much",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-so-much",
+      "has_reactions": false
+    },
+    {
+      "id": "7a9ec69a-1df1-40ce-8fce-949adaac7a2a",
+      "title": "Kaito Ruby",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "kaito-ruby",
+      "has_reactions": false
+    },
+    {
+      "id": "e1d6b697-051e-43e1-a3fc-6cd7315e9c39",
+      "title": "Tokugawa Ieyasu \u2013 TBS Warlord Special",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "tokugawa-ieyasu-tbs-warlord-special",
+      "has_reactions": false
+    },
+    {
+      "id": "5e7d91d2-0281-445a-b369-63c47754dfce",
+      "title": "Who Do I Choose?",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "who-do-i-choose",
+      "has_reactions": false
+    },
+    {
+      "id": "769edd52-3e8f-458c-972a-88983f215028",
+      "title": "Ryoma Sakamoto: Samurai Gunslinger",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "ryoma-sakamoto-samurai-gunslinger",
+      "has_reactions": false
+    },
+    {
+      "id": "f847abbc-ed12-4636-8ceb-f873bb376303",
+      "title": "Tsugumi",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tsugumi",
+      "has_reactions": false
+    },
+    {
+      "id": "7ca78bf0-285f-49db-9cb0-4c348462b802",
+      "title": "Let's Go to the Hospital",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "let-s-go-to-the-hospital",
+      "has_reactions": false
+    },
+    {
+      "id": "d080291b-df90-4452-b8aa-775d08f189f7",
+      "title": "Shingo's Ten Duels",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "shingo-s-ten-duels",
+      "has_reactions": false
+    },
+    {
+      "id": "f1f3d538-cf6d-4841-a7a6-22b0ef40960f",
+      "title": "Yellow Fangs",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "yellow-fangs",
+      "has_reactions": false
+    },
+    {
+      "id": "849ffb11-aa7d-4e60-a1b6-15b5654e9397",
+      "title": "Succession",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "succession",
+      "has_reactions": false
+    },
+    {
+      "id": "859104e5-095f-410d-b83f-990222719037",
+      "title": "Yamai wa kikara: By\u00f4in e ik\u00f4 2",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "yamai-wa-kikara-by-in-e-ik-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0bea47ff-a497-4234-ae8b-a0593dea56db",
+      "title": "The City That Never Sleeps: Shinjuku Shark",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-city-that-never-sleeps-shinjuku-shark",
+      "has_reactions": false
+    },
+    {
+      "id": "dde88953-9571-4cf5-a48f-af037a2cf5f6",
+      "title": "We Are Not Alone",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "we-are-not-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "f0c3bd05-0621-4034-9118-be6c2f9b106e",
+      "title": "119",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "119",
+      "has_reactions": false
+    },
+    {
+      "id": "55b6dd1f-f367-4276-9e77-1b99fa30b227",
+      "title": "Uneasy Encounters",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "uneasy-encounters",
+      "has_reactions": false
+    },
+    {
+      "id": "01eaeed4-110c-4a9d-a5a8-b3881d0f2b93",
+      "title": "Crest of Betrayal",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "crest-of-betrayal",
+      "has_reactions": false
+    },
+    {
+      "id": "e3565791-4765-4907-b640-d9ec886cff72",
+      "title": "Hero Interview",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hero-interview",
+      "has_reactions": false
+    },
+    {
+      "id": "f60afc17-e5ba-4419-9cf9-7659f6550c2f",
+      "title": "Sharaku",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "sharaku",
+      "has_reactions": false
+    },
+    {
+      "id": "124e4742-e2e2-473e-8b23-9d95697bf107",
+      "title": "The Abe Clan",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-abe-clan",
+      "has_reactions": false
+    },
+    {
+      "id": "2c72980b-44a8-4c0c-9bec-e0534a924b7f",
+      "title": "East Meets West",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "east-meets-west",
+      "has_reactions": false
+    },
+    {
+      "id": "442ddb9b-90fd-40d1-be5a-1e4c21b0f88b",
+      "title": "Kinkyu Yobidashi: Emergency Call",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "kinkyu-yobidashi-emergency-call",
+      "has_reactions": false
+    },
+    {
+      "id": "66eb637d-e63e-4d51-907c-9a92eee08254",
+      "title": "Murder on D Street",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "murder-on-d-street",
+      "has_reactions": false
+    },
+    {
+      "id": "05be3105-e179-4c18-a712-b76791c437fd",
+      "title": "Tadon and Chikuwa",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "tadon-and-chikuwa",
+      "has_reactions": false
+    },
+    {
+      "id": "b31c501d-997c-4d98-87d4-150678ccc0ba",
+      "title": "Ring 2",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "ring-2",
+      "has_reactions": false
+    },
+    {
+      "id": "55b78644-d4f9-418a-b649-13490ddaeaab",
+      "title": "Keijitachi no Natsu",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "keijitachi-no-natsu",
+      "has_reactions": false
+    },
+    {
+      "id": "8b80048d-1ccf-4874-b623-1f4f693e8e54",
+      "title": "Round About Midnight",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "round-about-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "b973695e-2e86-457f-8115-084aacac0d12",
+      "title": "All About Our House",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "all-about-our-house",
+      "has_reactions": false
+    },
+    {
+      "id": "bceb1205-ecc8-49e2-b64e-e9d493a8a62a",
+      "title": "Onmyoji",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "onmyoji",
+      "has_reactions": false
+    },
+    {
+      "id": "d905eea1-8d0f-4e0d-94d4-05ee8645b7c2",
+      "title": "Vengeance for Sale",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "vengeance-for-sale",
+      "has_reactions": false
+    },
+    {
+      "id": "a80a6071-63a4-485d-9cd7-22aef31ed2b5",
+      "title": "The Last Samurai",
+      "release_year": 2003,
+      "studio_label": "Radar Pictures",
+      "slug": "the-last-samurai",
+      "has_reactions": true
+    },
+    {
+      "id": "1eb107cf-cde5-436d-b1e5-1e3208be907d",
+      "title": "The White Countess",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-white-countess",
+      "has_reactions": false
+    },
+    {
+      "id": "4f7f9834-3312-4d67-9ba3-d8fed0578130",
+      "title": "Aegis",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "aegis",
+      "has_reactions": false
+    },
+    {
+      "id": "212964ff-9921-48c5-809c-b977df4e670a",
+      "title": "Rush Hour 3",
+      "release_year": 2007,
+      "studio_label": "New Line Cinema",
+      "slug": "rush-hour-3",
+      "has_reactions": true
+    },
+    {
+      "id": "47427bb5-4526-4def-a93b-223b4998a0a5",
+      "title": "Sunshine",
+      "release_year": 2007,
+      "studio_label": "Ingenious Media",
+      "slug": "sunshine",
+      "has_reactions": true
+    },
+    {
+      "id": "a20b1b09-1d4e-45aa-9720-f08cf64b442f",
+      "title": "Speed Racer: Wonderful World of Racing - The Amazing Racer Family",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "speed-racer-wonderful-world-of-racing-the-amazing-racer-family",
+      "has_reactions": false
+    },
+    {
+      "id": "417498a1-53af-412c-994a-d19294177bb4",
+      "title": "Speed Racer",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "speed-racer",
+      "has_reactions": true
+    },
+    {
+      "id": "0c972443-fb7b-4d2a-9334-aaa6017fbe97",
+      "title": "The City of Your Final Destination",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-city-of-your-final-destination",
+      "has_reactions": false
+    },
+    {
+      "id": "630bb5ba-d027-45f2-ab4b-07671c931ae1",
+      "title": "The Wolverine",
+      "release_year": 2013,
+      "studio_label": "The Donners' Company",
+      "slug": "the-wolverine",
+      "has_reactions": true
+    },
+    {
+      "id": "35990f19-d6fa-4c98-a764-ae88e3d96beb",
+      "title": "The Railway Man",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-railway-man",
+      "has_reactions": false
+    },
+    {
+      "id": "62d75d0c-7c60-48fa-baf9-a518144c7cfc",
+      "title": "Minions",
+      "release_year": 2015,
+      "studio_label": "Illumination",
+      "slug": "minions",
+      "has_reactions": true
+    },
+    {
+      "id": "b4740bde-335c-4b9d-8a66-6ad1befb5f89",
+      "title": "Life",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "life",
+      "has_reactions": false
+    },
+    {
+      "id": "47059572-f887-4925-be25-cf6c359356c7",
+      "title": "The Catcher Was a Spy",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-catcher-was-a-spy",
+      "has_reactions": false
+    },
+    {
+      "id": "d9002057-e449-47e4-aa9b-c6244dcfcf55",
+      "title": "Avengers: Endgame",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-endgame",
+      "has_reactions": true
+    },
+    {
+      "id": "cf2a95a5-32b5-4232-9086-9bf714d50e37",
+      "title": "Minamata",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "minamata",
+      "has_reactions": false
+    },
+    {
+      "id": "dbdd0aea-5cf2-4fac-a438-a08089823e99",
+      "title": "Mortal Kombat",
+      "release_year": 2021,
+      "studio_label": "Atomic Monster",
+      "slug": "mortal-kombat",
+      "has_reactions": true
+    },
+    {
+      "id": "b8234e6b-a70b-4b3f-9136-060d681f6d23",
+      "title": "Army of the Dead",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "army-of-the-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "5bbf3050-0f3c-4fa8-a03b-e170319625e1",
+      "title": "Bullet Train",
+      "release_year": 2022,
+      "studio_label": "87North Productions",
+      "slug": "bullet-train",
+      "has_reactions": true
+    },
+    {
+      "id": "aba94203-618b-413b-9d7b-de56419eb61a",
+      "title": "John Wick: Chapter 4",
+      "release_year": 2023,
+      "studio_label": "Thunder Road",
+      "slug": "john-wick-chapter-4",
+      "has_reactions": true
+    },
+    {
+      "id": "9ac6e698-2a9d-4d6d-a3d0-e9aa760199de",
+      "title": "Mortal Kombat II",
+      "release_year": 2026,
+      "studio_label": "New Line Cinema",
+      "slug": "mortal-kombat-ii",
+      "has_reactions": true
+    }
+  ]
+}

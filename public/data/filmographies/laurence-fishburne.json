@@ -1,0 +1,584 @@
+{
+  "id": "afe4c0cc-1d9e-4ecc-b401-09736b635257",
+  "name": "Laurence Fishburne",
+  "slug": "laurence-fishburne",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2GbXERENPpl5MmlqOLlPVaVtifD.jpg",
+  "filmography": [
+    {
+      "id": "a22be4c2-c448-4520-be55-5cc285717c62",
+      "title": "The Little Bedroom",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-little-bedroom",
+      "has_reactions": false
+    },
+    {
+      "id": "89034e05-52a9-4632-9936-a7d0b01d5428",
+      "title": "Blacksmith",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "blacksmith",
+      "has_reactions": false
+    },
+    {
+      "id": "979ff829-73ca-4505-9b2e-ee8a18180a70",
+      "title": "Cornbread, Earl and Me",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "cornbread-earl-and-me",
+      "has_reactions": false
+    },
+    {
+      "id": "6b1a8489-a145-47ef-86b2-d50f4f385952",
+      "title": "Apocalypse Now",
+      "release_year": 1979,
+      "studio_label": "American Zoetrope",
+      "slug": "apocalypse-now",
+      "has_reactions": true
+    },
+    {
+      "id": "7709767c-8c2d-48ad-b942-8f22a3a5c550",
+      "title": "Death Wish II",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "death-wish-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "63ca7c9d-f6ad-4892-a5de-01dfd5eb0c53",
+      "title": "For Us, the Living: The Story of Medgar Evers",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "for-us-the-living-the-story-of-medgar-evers",
+      "has_reactions": false
+    },
+    {
+      "id": "7505ee40-7179-43c8-b966-56ace3842020",
+      "title": "Rumble Fish",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "rumble-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "1ed925f0-7c45-4fd6-a374-7ad668b5297c",
+      "title": "The Color Purple",
+      "release_year": 1985,
+      "studio_label": "Amblin Entertainment",
+      "slug": "the-color-purple",
+      "has_reactions": true
+    },
+    {
+      "id": "1b91f40d-e7d0-4341-964c-6405d0a7a8ff",
+      "title": "Band of the Hand",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "band-of-the-hand",
+      "has_reactions": false
+    },
+    {
+      "id": "b055f4dc-9205-4b2c-af72-1055a30f4832",
+      "title": "School Daze",
+      "release_year": 1988,
+      "studio_label": "Columbia Pictures",
+      "slug": "school-daze",
+      "has_reactions": true
+    },
+    {
+      "id": "6b620d57-a945-4d5b-ba12-bf5d764c711c",
+      "title": "Pee-wee's Playhouse Christmas Special",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "pee-wee-s-playhouse-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "7165775b-7cd3-4ecf-a0df-4cb57e1578b1",
+      "title": "Red Heat",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "red-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "8bdca8a0-7f85-499b-a39d-266f5e7cdc23",
+      "title": "Decoration Day",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "decoration-day",
+      "has_reactions": false
+    },
+    {
+      "id": "5c94242d-6bf2-4fd7-82bc-2b9cf7701af1",
+      "title": "Cadence",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cadence",
+      "has_reactions": false
+    },
+    {
+      "id": "cceb5586-9f7b-4403-9963-d50e206c082c",
+      "title": "King of New York",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "king-of-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "febd1ff0-e9f9-429d-ac2d-1aff3c4f4509",
+      "title": "Boyz n the Hood",
+      "release_year": 1991,
+      "studio_label": "Columbia Pictures",
+      "slug": "boyz-n-the-hood",
+      "has_reactions": true
+    },
+    {
+      "id": "3676ffa8-c8c0-4179-a7b7-096157e54cbe",
+      "title": "Class Action",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "class-action",
+      "has_reactions": false
+    },
+    {
+      "id": "aadb1c83-aeaa-40a5-804a-08c84b1c0238",
+      "title": "Deep Cover",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "deep-cover",
+      "has_reactions": false
+    },
+    {
+      "id": "5705bce6-c4bd-411f-8a28-b4f5c4d7f5ae",
+      "title": "What's Love Got to Do with It",
+      "release_year": 1993,
+      "studio_label": "Touchstone Pictures",
+      "slug": "what-s-love-got-to-do-with-it",
+      "has_reactions": true
+    },
+    {
+      "id": "5195c0a0-f6c5-4aca-80e9-cca36ffc941d",
+      "title": "The Tuskegee Airmen",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-tuskegee-airmen",
+      "has_reactions": false
+    },
+    {
+      "id": "09fef3e1-6e50-4b9d-bfdf-be66e1604d47",
+      "title": "Just Cause",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "just-cause",
+      "has_reactions": false
+    },
+    {
+      "id": "64632163-d21c-44b0-a484-dc005fd57403",
+      "title": "Bad Company",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "bad-company",
+      "has_reactions": false
+    },
+    {
+      "id": "03f87ea9-61dd-4dbe-8369-bd324f8270a6",
+      "title": "Higher Learning",
+      "release_year": 1995,
+      "studio_label": "New Deal Productions",
+      "slug": "higher-learning",
+      "has_reactions": true
+    },
+    {
+      "id": "386be86c-cc85-4c94-9b4f-fd5f422c2654",
+      "title": "Fled",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "fled",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee12fd0-0974-4b4b-a4e9-5025885d5ce8",
+      "title": "Event Horizon",
+      "release_year": 1997,
+      "studio_label": "Impact Pictures",
+      "slug": "event-horizon",
+      "has_reactions": true
+    },
+    {
+      "id": "a0ee330c-02d4-40ab-9786-621f8467748d",
+      "title": "Black Hollywood",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "black-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "95388fb1-4a4a-4ad7-855e-5369e8e91542",
+      "title": "Miss Evers' Boys",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "miss-evers-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "cdce2dfc-8c9c-4222-8849-41d7447f343c",
+      "title": "Always Outnumbered",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "always-outnumbered",
+      "has_reactions": false
+    },
+    {
+      "id": "8c031d71-7185-42a3-aef0-035f23b9e24a",
+      "title": "The Matrix",
+      "release_year": 1999,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "the-matrix",
+      "has_reactions": true
+    },
+    {
+      "id": "4e0411ea-1e9e-4a24-ba1f-6fb13ea56952",
+      "title": "Michael Jordan to the Max",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "michael-jordan-to-the-max",
+      "has_reactions": false
+    },
+    {
+      "id": "413ddc4f-c593-46f0-a70e-c0ffb69787e8",
+      "title": "Sex and the Matrix",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sex-and-the-matrix",
+      "has_reactions": false
+    },
+    {
+      "id": "214b2d6b-455a-4bff-87fa-fb113864bc3f",
+      "title": "Osmosis Jones",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "osmosis-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "86d95bb8-dc0b-4afc-b730-388649465c3e",
+      "title": "Spooge",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "spooge",
+      "has_reactions": false
+    },
+    {
+      "id": "06bc3a79-36cb-4d29-b8a3-4c7299d69443",
+      "title": "Mystic River",
+      "release_year": 2003,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mystic-river",
+      "has_reactions": true
+    },
+    {
+      "id": "409f6e85-8e2c-4157-b4cb-6309de51103c",
+      "title": "The Matrix Reloaded",
+      "release_year": 2003,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "the-matrix-reloaded",
+      "has_reactions": true
+    },
+    {
+      "id": "3d76c129-7c8f-4ada-817e-543b889a3988",
+      "title": "The Matrix Revolutions",
+      "release_year": 2003,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "the-matrix-revolutions",
+      "has_reactions": true
+    },
+    {
+      "id": "d3cfcba9-8668-4475-bea2-f9284db0bcf5",
+      "title": "Behind the Action in 'Biker Boyz'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "behind-the-action-in-biker-boyz",
+      "has_reactions": false
+    },
+    {
+      "id": "f1d84c75-c31f-42bc-a9bd-9cc7320bafcb",
+      "title": "A History of Sex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "a-history-of-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "fafe08cf-d051-43fc-ae4d-da4d73efa6fc",
+      "title": "The Soul of a Man",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-soul-of-a-man",
+      "has_reactions": false
+    },
+    {
+      "id": "aa774a71-15e2-4e9e-bb6a-9ee3f8d7c1ad",
+      "title": "Assault on Precinct 13",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "assault-on-precinct-13",
+      "has_reactions": false
+    },
+    {
+      "id": "64e0e1e8-75c8-408a-b879-b1561449f3bf",
+      "title": "Akeelah and the Bee",
+      "release_year": 2006,
+      "studio_label": "Lions Gate Films",
+      "slug": "akeelah-and-the-bee",
+      "has_reactions": true
+    },
+    {
+      "id": "8776da3e-f734-4402-ab04-60823dba6692",
+      "title": "Mission: Impossible III",
+      "release_year": 2006,
+      "studio_label": "Paramount Pictures",
+      "slug": "mission-impossible-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "2a92f3f5-3561-46ed-9428-036432948da0",
+      "title": "The Making of 'Event Horizon'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-event-horizon",
+      "has_reactions": false
+    },
+    {
+      "id": "c979c6f8-291b-46ce-b849-02055eaa2b9e",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "release_year": 2007,
+      "studio_label": "1492 Pictures",
+      "slug": "fantastic-four-rise-of-the-silver-surfer",
+      "has_reactions": true
+    },
+    {
+      "id": "36dd3bba-fe54-4351-86b2-fb7aa34c0543",
+      "title": "King: Man of Peace in a Time of War",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "king-man-of-peace-in-a-time-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "5f5da1d8-0e1d-4cb7-a97a-a893b29d9942",
+      "title": "The Death and Life of Bobby Z",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-death-and-life-of-bobby-z",
+      "has_reactions": false
+    },
+    {
+      "id": "81e0fa53-045d-49ac-9dfc-9dc66d13d158",
+      "title": "21",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "21",
+      "has_reactions": false
+    },
+    {
+      "id": "c658d70f-41c7-4135-a9c4-b38aa9d1f293",
+      "title": "Days of Wrath",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "days-of-wrath",
+      "has_reactions": false
+    },
+    {
+      "id": "c882ca91-6d93-4d7f-80ec-f3fecb31de87",
+      "title": "Tortured",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tortured",
+      "has_reactions": false
+    },
+    {
+      "id": "21ab83a7-4317-4429-b447-9fa627c74fee",
+      "title": "Armored",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "armored",
+      "has_reactions": false
+    },
+    {
+      "id": "5fdb70af-7f6f-4422-bc6c-ddddedd16792",
+      "title": "The Black List: Volume Two",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-black-list-volume-two",
+      "has_reactions": false
+    },
+    {
+      "id": "7ba01d9c-007b-47b4-a379-d99f364103c4",
+      "title": "Predators",
+      "release_year": 2010,
+      "studio_label": "Davis Entertainment",
+      "slug": "predators",
+      "has_reactions": true
+    },
+    {
+      "id": "195553f4-10d9-45c8-851f-3a8adaeb2753",
+      "title": "Have a Little Faith",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "have-a-little-faith",
+      "has_reactions": false
+    },
+    {
+      "id": "aa616e1f-0696-42b6-a40f-4f717fd1155a",
+      "title": "Thurgood",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "thurgood",
+      "has_reactions": false
+    },
+    {
+      "id": "db9b19b2-cdce-4aff-af58-da4cf2557d40",
+      "title": "Man of Steel",
+      "release_year": 2013,
+      "studio_label": "Syncopy",
+      "slug": "man-of-steel",
+      "has_reactions": true
+    },
+    {
+      "id": "7edf65fa-5d88-4941-b0f0-5c2d6c2e046e",
+      "title": "The Colony",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-colony",
+      "has_reactions": false
+    },
+    {
+      "id": "1957f525-8bc7-4555-a8a5-66dbd6335dfa",
+      "title": "Ride Along",
+      "release_year": 2014,
+      "studio_label": "Rainforest Entertainment",
+      "slug": "ride-along",
+      "has_reactions": true
+    },
+    {
+      "id": "de220bf6-63e6-4c8c-ada1-39fd35d921d2",
+      "title": "Rudderless",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rudderless",
+      "has_reactions": false
+    },
+    {
+      "id": "b083b73a-fac9-4edd-bcc9-21d0139e7c6e",
+      "title": "The Signal",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-signal",
+      "has_reactions": false
+    },
+    {
+      "id": "77fcca6d-d862-4405-937c-d7f3f6df8728",
+      "title": "August Wilson: The Ground on Which I Stand",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "august-wilson-the-ground-on-which-i-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "d84eb9fa-ea4d-49c0-9e24-ffd204fa2a8c",
+      "title": "Batman v Superman: Dawn of Justice",
+      "release_year": 2016,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-v-superman-dawn-of-justice",
+      "has_reactions": true
+    },
+    {
+      "id": "d45ebc64-4653-4ac1-a629-d04335b1a298",
+      "title": "Standoff",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "standoff",
+      "has_reactions": false
+    },
+    {
+      "id": "a5397583-4380-4998-9307-889d3d52f8b6",
+      "title": "John Wick: Chapter 2",
+      "release_year": 2017,
+      "studio_label": "Thunder Road",
+      "slug": "john-wick-chapter-2",
+      "has_reactions": true
+    },
+    {
+      "id": "8131d3d3-e1f4-4d91-9dcb-900e82ae5715",
+      "title": "Last Flag Flying",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "last-flag-flying",
+      "has_reactions": false
+    },
+    {
+      "id": "ffbb6da1-bb93-44c7-9c56-4f85a3102a4d",
+      "title": "Ant-Man and the Wasp",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp",
+      "has_reactions": true
+    },
+    {
+      "id": "450bca09-dd5c-4417-b226-472d17bf3ea8",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "release_year": 2019,
+      "studio_label": "Thunder Road",
+      "slug": "john-wick-chapter-3-parabellum",
+      "has_reactions": true
+    },
+    {
+      "id": "e20f9555-8f16-4d6f-8c45-07850a5c2660",
+      "title": "Bonnie",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bonnie",
+      "has_reactions": false
+    },
+    {
+      "id": "65295cd5-80de-455d-9ba1-858395e15038",
+      "title": "black-ish: A Celebration \u2013 An ABC News Special",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "black-ish-a-celebration-an-abc-news-special",
+      "has_reactions": false
+    },
+    {
+      "id": "ff1a5206-42c6-46a7-8bc8-2fded86d8cab",
+      "title": "Is That Black Enough for You?!?",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "is-that-black-enough-for-you",
+      "has_reactions": false
+    },
+    {
+      "id": "aba94203-618b-413b-9d7b-de56419eb61a",
+      "title": "John Wick: Chapter 4",
+      "release_year": 2023,
+      "studio_label": "Thunder Road",
+      "slug": "john-wick-chapter-4",
+      "has_reactions": true
+    },
+    {
+      "id": "682dae28-8695-4a11-a169-af96600f44dd",
+      "title": "Transformers One",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "transformers-one",
+      "has_reactions": false
+    },
+    {
+      "id": "ee94efe3-c5e4-4e6b-9ed6-92b1cad4a7e6",
+      "title": "The Amateur",
+      "release_year": 2025,
+      "studio_label": "20th Century Studios",
+      "slug": "the-amateur",
+      "has_reactions": true
+    }
+  ]
+}

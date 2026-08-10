@@ -1,0 +1,656 @@
+{
+  "id": "790ce098-ca14-4465-bb9e-69ad713f4fd9",
+  "name": "Bill Murray",
+  "slug": "bill-murray",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
+  "filmography": [
+    {
+      "id": "3984e64b-8166-4958-9219-767e5a1b5171",
+      "title": "Being Mortal",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "being-mortal",
+      "has_reactions": false
+    },
+    {
+      "id": "8e0add1f-1dc5-4b4a-8f03-f1c1b5155327",
+      "title": "The King of Counterfeit",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-king-of-counterfeit",
+      "has_reactions": false
+    },
+    {
+      "id": "04c22863-69b0-4326-a878-38e0679d61fb",
+      "title": "Twilight Park",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "twilight-park",
+      "has_reactions": false
+    },
+    {
+      "id": "c0a258cc-784d-4451-aa44-b57f61d3e332",
+      "title": "Super Bowl",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "super-bowl",
+      "has_reactions": false
+    },
+    {
+      "id": "ea51b853-ffd8-48d1-a043-ce68162fbd36",
+      "title": "Next Stop, Greenwich Village",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "next-stop-greenwich-village",
+      "has_reactions": false
+    },
+    {
+      "id": "58ecf4e3-a316-4b01-bb60-3287e16e2350",
+      "title": "TVTV Looks at the Oscars",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "tvtv-looks-at-the-oscars",
+      "has_reactions": false
+    },
+    {
+      "id": "ee62c075-9981-4c9a-b4d6-ae035436d75d",
+      "title": "Loose Shoes",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "loose-shoes",
+      "has_reactions": false
+    },
+    {
+      "id": "e533fb4b-07f1-4415-abae-3d4fa174fc6c",
+      "title": "The Rutles: All You Need Is Cash",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-rutles-all-you-need-is-cash",
+      "has_reactions": false
+    },
+    {
+      "id": "b6c60b1d-abe1-4f69-a610-49e5ca5385ee",
+      "title": "The Dogs",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f69e25-9258-4bb0-bd0f-7da899cd5217",
+      "title": "Meatballs",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "meatballs",
+      "has_reactions": false
+    },
+    {
+      "id": "b8e38359-4a18-43ac-8f1a-cfb56a4551a9",
+      "title": "Mr. Mike's Mondo Video",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "mr-mike-s-mondo-video",
+      "has_reactions": false
+    },
+    {
+      "id": "352b92fa-b7cc-4b67-8a28-1ae66d430be8",
+      "title": "Caddyshack",
+      "release_year": 1980,
+      "studio_label": "Orion Pictures",
+      "slug": "caddyshack",
+      "has_reactions": true
+    },
+    {
+      "id": "c1ba03eb-1535-42de-a56a-7df90a018b53",
+      "title": "Where the Buffalo Roam",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "where-the-buffalo-roam",
+      "has_reactions": false
+    },
+    {
+      "id": "df42b372-d800-49b4-879d-c3e45b8e07fb",
+      "title": "Bill Murray Live from the Second City",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "bill-murray-live-from-the-second-city",
+      "has_reactions": false
+    },
+    {
+      "id": "763e803b-73c2-43d0-b25f-7945484bf061",
+      "title": "Stripes",
+      "release_year": 1981,
+      "studio_label": "Columbia Pictures",
+      "slug": "stripes",
+      "has_reactions": true
+    },
+    {
+      "id": "7f6dc96c-19d9-4c48-b483-9b7377026756",
+      "title": "Steve Martin's Best Show Ever",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "steve-martin-s-best-show-ever",
+      "has_reactions": false
+    },
+    {
+      "id": "372a34f4-03bb-4ee6-988b-afbbf4fa373e",
+      "title": "Tootsie",
+      "release_year": 1982,
+      "studio_label": "Mirage Enterprises",
+      "slug": "tootsie",
+      "has_reactions": true
+    },
+    {
+      "id": "c60ad512-34b6-471e-b5ed-9d71b3e1c1f1",
+      "title": "The Rodney Dangerfield Show: It's Not Easy Bein' Me",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-rodney-dangerfield-show-it-s-not-easy-bein-me",
+      "has_reactions": false
+    },
+    {
+      "id": "0a225e02-bfbc-481f-b4c7-d1071d1ea414",
+      "title": "Twilight Theatre",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "twilight-theatre",
+      "has_reactions": false
+    },
+    {
+      "id": "e98e3a8c-0eb6-416e-8940-d9693e8c82fb",
+      "title": "Ghostbusters",
+      "release_year": 1984,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters",
+      "has_reactions": true
+    },
+    {
+      "id": "9be6892a-4572-494b-8fda-81a39ef2d6a8",
+      "title": "The Razor's Edge",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-razor-s-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "1ead8c11-d5fc-4368-8cf7-40f0859c5233",
+      "title": "The Best of John Belushi",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-john-belushi",
+      "has_reactions": false
+    },
+    {
+      "id": "42968e47-5a47-4d07-8193-9ea60e066cf0",
+      "title": "Little Shop of Horrors",
+      "release_year": 1986,
+      "studio_label": "Geffen Pictures",
+      "slug": "little-shop-of-horrors",
+      "has_reactions": true
+    },
+    {
+      "id": "ff946844-2708-4a4f-b7a9-2366bc9ad467",
+      "title": "Scrooged",
+      "release_year": 1988,
+      "studio_label": "Paramount Pictures",
+      "slug": "scrooged",
+      "has_reactions": true
+    },
+    {
+      "id": "44e07c44-9105-477b-9bf7-33084a92d6a6",
+      "title": "Ghostbusters II",
+      "release_year": 1989,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "7f01010f-e46e-4ce3-adb6-356305342af3",
+      "title": "Quick Change",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "quick-change",
+      "has_reactions": false
+    },
+    {
+      "id": "329a781c-8ed7-4acb-905a-53f223a37290",
+      "title": "What About Bob?",
+      "release_year": 1991,
+      "studio_label": "Touchstone Pictures",
+      "slug": "what-about-bob",
+      "has_reactions": true
+    },
+    {
+      "id": "2aae56e8-6b8e-4000-adab-bfc471dc2359",
+      "title": "Groundhog Day",
+      "release_year": 1993,
+      "studio_label": "Columbia Pictures",
+      "slug": "groundhog-day",
+      "has_reactions": true
+    },
+    {
+      "id": "ecf686f9-1700-4d30-a4e0-b222170c939b",
+      "title": "Mad Dog and Glory",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "mad-dog-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "ea44b975-cf4f-48ac-8a9e-e6fcda52de6c",
+      "title": "Ed Wood",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "ed-wood",
+      "has_reactions": false
+    },
+    {
+      "id": "bb29c7be-1849-43df-a0ee-f1c5305883d7",
+      "title": "Space Jam",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Family Entertainment",
+      "slug": "space-jam",
+      "has_reactions": true
+    },
+    {
+      "id": "dff63856-b34b-4d99-832f-29a24f44a2cf",
+      "title": "Larger Than Life",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "larger-than-life",
+      "has_reactions": false
+    },
+    {
+      "id": "d060c8d7-aed0-4e73-a017-54b628592573",
+      "title": "Kingpin",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "kingpin",
+      "has_reactions": false
+    },
+    {
+      "id": "ab82e1f1-a29e-4025-b0f5-61cee4540545",
+      "title": "Wild Things",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "wild-things",
+      "has_reactions": false
+    },
+    {
+      "id": "9eed973b-552a-4725-a050-4595dce245f4",
+      "title": "With Friends Like These",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "with-friends-like-these",
+      "has_reactions": false
+    },
+    {
+      "id": "f562a3e3-a8c8-457f-a9a5-77f42b08b665",
+      "title": "Saturday Night Live: 25th Anniversary Special",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-25th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "49964ae0-4906-4741-be8b-d66495c4abd8",
+      "title": "Charlie's Angels",
+      "release_year": 2000,
+      "studio_label": "Columbia Pictures",
+      "slug": "charlie-s-angels",
+      "has_reactions": true
+    },
+    {
+      "id": "23d32196-dea9-41ae-b2f7-26a44ae225c7",
+      "title": "Hamlet",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "4e0411ea-1e9e-4a24-ba1f-6fb13ea56952",
+      "title": "Michael Jordan to the Max",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "michael-jordan-to-the-max",
+      "has_reactions": false
+    },
+    {
+      "id": "acac3493-4da4-4aed-866c-b1be6d3c97d6",
+      "title": "The Royal Tenenbaums",
+      "release_year": 2001,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-royal-tenenbaums",
+      "has_reactions": true
+    },
+    {
+      "id": "214b2d6b-455a-4bff-87fa-fb113864bc3f",
+      "title": "Osmosis Jones",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "osmosis-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "55c4b624-06d0-465d-a9ec-1066c481cdcd",
+      "title": "Speaking of Sex",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "speaking-of-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "2e3e1565-bf71-4534-8673-9553bccdb080",
+      "title": "With the Filmmaker: Wes Anderson",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "with-the-filmmaker-wes-anderson",
+      "has_reactions": false
+    },
+    {
+      "id": "23e2a808-7c7c-48cb-b851-009ccddf1048",
+      "title": "Lost in Translation",
+      "release_year": 2003,
+      "studio_label": "American Zoetrope",
+      "slug": "lost-in-translation",
+      "has_reactions": true
+    },
+    {
+      "id": "8e39ddaf-a497-4666-b529-6c417a2552f4",
+      "title": "Coffee and Cigarettes",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "coffee-and-cigarettes",
+      "has_reactions": false
+    },
+    {
+      "id": "da2f09b4-836e-48ba-8c94-1844e6f95922",
+      "title": "Garfield",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "garfield",
+      "has_reactions": false
+    },
+    {
+      "id": "089b543c-70c4-4c0d-9f72-87f631eb5abe",
+      "title": "The Life Aquatic with Steve Zissou",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-life-aquatic-with-steve-zissou",
+      "has_reactions": false
+    },
+    {
+      "id": "a66ba58a-6118-4fd3-bdbe-545f16f91757",
+      "title": "Lost on Location: Behind the Scenes of 'Lost in Translation'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "lost-on-location-behind-the-scenes-of-lost-in-translation",
+      "has_reactions": false
+    },
+    {
+      "id": "41178a22-ec6a-493e-96da-20445ad19622",
+      "title": "Garfield: Bringing the Cat to Life",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "garfield-bringing-the-cat-to-life",
+      "has_reactions": false
+    },
+    {
+      "id": "7c6add2e-40c2-480b-8c5a-8ac931ddba51",
+      "title": "Broken Flowers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "broken-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "9946dd2e-2ea0-4fc0-b921-9ae76ff26e90",
+      "title": "Saturday Night Live: The Best of Dan Aykroyd",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-dan-aykroyd",
+      "has_reactions": false
+    },
+    {
+      "id": "2d0898f0-04c5-4551-8897-d2033280992a",
+      "title": "Matthew Gray Gubler's Life Aquatic Intern Journal",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "matthew-gray-gubler-s-life-aquatic-intern-journal",
+      "has_reactions": false
+    },
+    {
+      "id": "3a8186e7-823b-4875-b28c-eff8b0649d38",
+      "title": "The Darjeeling Limited",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-darjeeling-limited",
+      "has_reactions": false
+    },
+    {
+      "id": "aab792c1-d70f-40ed-afe4-4dcab28e050f",
+      "title": "Get Smart",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "get-smart",
+      "has_reactions": false
+    },
+    {
+      "id": "9707a367-4482-41a3-beac-fe41410aed47",
+      "title": "City of Ember",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "city-of-ember",
+      "has_reactions": false
+    },
+    {
+      "id": "48f5dbe3-13fc-4f09-a7f8-292715bc238f",
+      "title": "Zombieland",
+      "release_year": 2009,
+      "studio_label": "Columbia Pictures",
+      "slug": "zombieland",
+      "has_reactions": true
+    },
+    {
+      "id": "d8874deb-f6fe-496e-9144-f648f022097d",
+      "title": "Fantastic Mr. Fox",
+      "release_year": 2009,
+      "studio_label": "Regency Enterprises",
+      "slug": "fantastic-mr-fox",
+      "has_reactions": true
+    },
+    {
+      "id": "6784875b-cb69-45fd-8798-da01fd27ccaf",
+      "title": "The Limits of Control",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-limits-of-control",
+      "has_reactions": false
+    },
+    {
+      "id": "4a51835f-2c24-450b-9c66-a011fbdd787f",
+      "title": "The Making of 'The Darjeeling Limited'",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-darjeeling-limited",
+      "has_reactions": false
+    },
+    {
+      "id": "da370196-f0fd-439a-9478-4a22683528d7",
+      "title": "Ballhawks",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "ballhawks",
+      "has_reactions": false
+    },
+    {
+      "id": "02d4a3da-6d23-4c8e-986c-4e7596a0b030",
+      "title": "Behind Jim Jarmusch",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "behind-jim-jarmusch",
+      "has_reactions": false
+    },
+    {
+      "id": "b82e22eb-2ac4-404f-a70d-b6003b9cb591",
+      "title": "Passion Play",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "passion-play",
+      "has_reactions": false
+    },
+    {
+      "id": "d0ae84a6-ec36-4b4e-b115-5e68484fbb51",
+      "title": "Hyde Park on Hudson",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hyde-park-on-hudson",
+      "has_reactions": false
+    },
+    {
+      "id": "2ef03ec5-5588-4868-bc99-ec0edcacfb34",
+      "title": "The Monuments Men",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-monuments-men",
+      "has_reactions": true
+    },
+    {
+      "id": "24be7b48-1e3f-4b79-9fd9-72230cec9f79",
+      "title": "Dumb and Dumber To",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dumb-and-dumber-to",
+      "has_reactions": false
+    },
+    {
+      "id": "3e91ff46-1401-4417-929c-ed9a34bc646f",
+      "title": "The Grand Budapest Hotel",
+      "release_year": 2014,
+      "studio_label": "Fox Searchlight Pictures",
+      "slug": "the-grand-budapest-hotel",
+      "has_reactions": true
+    },
+    {
+      "id": "0fd3eeca-47c8-4b34-a5d4-f32d4b3368f1",
+      "title": "St. Vincent",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "st-vincent",
+      "has_reactions": false
+    },
+    {
+      "id": "817e068b-50de-4d80-b05b-83afffb9c955",
+      "title": "Rock the Kasbah",
+      "release_year": 2015,
+      "studio_label": "Shangri-La Entertainment",
+      "slug": "rock-the-kasbah",
+      "has_reactions": false
+    },
+    {
+      "id": "77815f7f-5327-4a55-a3c2-8a9bfb62337b",
+      "title": "Aloha",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "aloha",
+      "has_reactions": false
+    },
+    {
+      "id": "95666a5c-07d0-4fd5-9080-01d7bf5a37ab",
+      "title": "A Very Murray Christmas",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-very-murray-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "a7d1c20a-1f1d-456c-9627-7dc7f7a20cc7",
+      "title": "Thank You, Del: The Story of the Del Close Marathon",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "thank-you-del-the-story-of-the-del-close-marathon",
+      "has_reactions": false
+    },
+    {
+      "id": "0b682cef-fc7e-4672-b226-d3e1c6893e8f",
+      "title": "Ghostbusters",
+      "release_year": 2016,
+      "studio_label": "Ghost Corps",
+      "slug": "ghostbusters",
+      "has_reactions": true
+    },
+    {
+      "id": "9ae3534f-a0b0-4a10-8c8d-0665f4cc72b0",
+      "title": "'85: The Greatest Team in Football History",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "85-the-greatest-team-in-football-history",
+      "has_reactions": false
+    },
+    {
+      "id": "36e6b65a-9623-4030-bb08-746889d19e73",
+      "title": "The Bill Murray Experience",
+      "release_year": 2017,
+      "studio_label": "BME Films",
+      "slug": "the-bill-murray-experience",
+      "has_reactions": false
+    },
+    {
+      "id": "28757e73-41d4-4b17-88f5-4311910d8c24",
+      "title": "TVTV: Video Revolutionaries",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "tvtv-video-revolutionaries",
+      "has_reactions": false
+    },
+    {
+      "id": "5365f12e-6011-4e9f-b0e7-6a3ea5a34e94",
+      "title": "Ghostbusters: Afterlife",
+      "release_year": 2021,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters-afterlife",
+      "has_reactions": true
+    },
+    {
+      "id": "45f19abf-09f9-4c4e-bd55-58d81d89a196",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp-quantumania",
+      "has_reactions": true
+    },
+    {
+      "id": "886ee246-878b-424d-ae17-74a8e6a0a595",
+      "title": "Spirit of Golf",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "spirit-of-golf",
+      "has_reactions": false
+    },
+    {
+      "id": "4a25ae9f-4d70-46a8-a849-c499619396a9",
+      "title": "Franz Klammer - The Ski \"Kaiser\" Will Be 70",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "franz-klammer-the-ski-kaiser-will-be-70",
+      "has_reactions": false
+    },
+    {
+      "id": "ff03b8cd-ab32-4f51-88a8-b2f6f1d4742a",
+      "title": "Ghostbusters: Frozen Empire",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ghostbusters-frozen-empire",
+      "has_reactions": false
+    },
+    {
+      "id": "12e1d573-4a8e-4c91-a354-c15de7ed96b2",
+      "title": "The Friend",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-friend",
+      "has_reactions": false
+    }
+  ]
+}

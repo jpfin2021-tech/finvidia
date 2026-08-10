@@ -1,0 +1,576 @@
+{
+  "id": "7d495fe1-9184-4c13-b691-1b03c7023c9c",
+  "name": "Jim Gaffigan",
+  "slug": "jim-gaffigan",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/dhguhHxIrb26jvPznBt8y25Fb2U.jpg",
+  "filmography": [
+    {
+      "id": "4facc412-b89d-4754-8dd8-d7d3d15f861f",
+      "title": "Untitled Mitch Hedberg Documentary",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-mitch-hedberg-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "52356c24-2cce-4f91-8ebb-d2f25ceace82",
+      "title": "Fool's Paradise",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "fool-s-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "7991df1d-5dde-4ce9-9515-a60a35ba167d",
+      "title": "Hook'd Up",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "hook-d-up",
+      "has_reactions": false
+    },
+    {
+      "id": "11f05f68-ad74-4313-95c8-5dcebae027cd",
+      "title": "Kimberly",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "kimberly",
+      "has_reactions": false
+    },
+    {
+      "id": "e95c3644-dc0d-458f-9637-0488c8b13e70",
+      "title": "Puppet",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "puppet",
+      "has_reactions": false
+    },
+    {
+      "id": "924021f3-2e7b-461c-abd9-57f7d20ac12b",
+      "title": "Not Afraid to Say...",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "not-afraid-to-say",
+      "has_reactions": false
+    },
+    {
+      "id": "0f5972d1-7cb6-4bda-9c07-39658295a1d1",
+      "title": "Cry Baby Lane",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "cry-baby-lane",
+      "has_reactions": false
+    },
+    {
+      "id": "a85a0ad6-59a0-496b-a9be-b8d13419314b",
+      "title": "Super Troopers",
+      "release_year": 2001,
+      "studio_label": "Broken Lizard Industries",
+      "slug": "super-troopers",
+      "has_reactions": true
+    },
+    {
+      "id": "99a5fe3b-2ad3-4060-b587-8b9a1f312b1c",
+      "title": "No Sleep 'til Madison",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "no-sleep-til-madison",
+      "has_reactions": false
+    },
+    {
+      "id": "85a3013e-9f59-4372-8238-5be1f6329a2b",
+      "title": "Igby Goes Down",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "igby-goes-down",
+      "has_reactions": false
+    },
+    {
+      "id": "06a4b018-18c6-4b99-9b81-6091d60c8569",
+      "title": "Season of Youth",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "season-of-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "113f13cc-2e3d-49b6-9daa-53c4c4c6579b",
+      "title": "Strip Search",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "strip-search",
+      "has_reactions": false
+    },
+    {
+      "id": "b0da1c31-70a0-42ae-9d61-bd78c0ddaa27",
+      "title": "13 Going on 30",
+      "release_year": 2004,
+      "studio_label": "Revolution Studios",
+      "slug": "13-going-on-30",
+      "has_reactions": true
+    },
+    {
+      "id": "dab3591b-e76e-489c-a563-906573e35c5d",
+      "title": "Bad Apple",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "bad-apple",
+      "has_reactions": false
+    },
+    {
+      "id": "3a6c9e56-28ad-47e3-ad27-390645157fa7",
+      "title": "Trust the Man",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "trust-the-man",
+      "has_reactions": false
+    },
+    {
+      "id": "01e65f6d-f6f7-4f36-b93a-deebe1307883",
+      "title": "Pale Force",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "pale-force",
+      "has_reactions": false
+    },
+    {
+      "id": "42bed05f-f50c-4a4b-8233-20b2541b074f",
+      "title": "The Great New Wonderful",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-great-new-wonderful",
+      "has_reactions": false
+    },
+    {
+      "id": "2894af70-598d-457f-ab97-02d71e1f13e1",
+      "title": "Jim Gaffigan: Beyond the Pale",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-beyond-the-pale",
+      "has_reactions": false
+    },
+    {
+      "id": "c6239e60-225b-4530-8a7e-b1e029fe1ccf",
+      "title": "Stephanie Daley",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "stephanie-daley",
+      "has_reactions": false
+    },
+    {
+      "id": "b8f81fff-bb50-4860-8256-9779dd7745a3",
+      "title": "Shoot First And Pray You Live",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "shoot-first-and-pray-you-live",
+      "has_reactions": false
+    },
+    {
+      "id": "39ee93b5-c6d2-4af5-abeb-4ee84e057190",
+      "title": "Duane Incarnate",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "duane-incarnate",
+      "has_reactions": false
+    },
+    {
+      "id": "acc62eec-b972-4d28-8188-da751dc1957d",
+      "title": "Jim Gaffigan: King Baby",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-king-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "1470a951-4234-4cd4-a83a-99a5c5294553",
+      "title": "17 Again",
+      "release_year": 2009,
+      "studio_label": "New Line Cinema",
+      "slug": "17-again",
+      "has_reactions": true
+    },
+    {
+      "id": "5dcec9ba-8c75-491e-9e14-44191cba62dd",
+      "title": "I Am Comic",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "i-am-comic",
+      "has_reactions": false
+    },
+    {
+      "id": "461a273d-8e93-4d15-9f4b-3aefc6e5886b",
+      "title": "It's Kind of a Funny Story",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "it-s-kind-of-a-funny-story",
+      "has_reactions": false
+    },
+    {
+      "id": "e654a4ba-9a2d-4485-af42-0bfeecf03155",
+      "title": "Salvation Boulevard",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "salvation-boulevard",
+      "has_reactions": false
+    },
+    {
+      "id": "0f302aba-0acf-4ea5-80b2-e744796cf408",
+      "title": "Dying to Do Letterman",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "dying-to-do-letterman",
+      "has_reactions": false
+    },
+    {
+      "id": "07549a16-2760-4cb2-b3df-6ffcdaef3e99",
+      "title": "Jim Gaffigan: Mr. Universe",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-mr-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "db19f14b-a57e-45ca-a970-06737a48909a",
+      "title": "Kilimanjaro",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "kilimanjaro",
+      "has_reactions": false
+    },
+    {
+      "id": "1fccc203-28b4-4324-8fdb-01c6a3ad76be",
+      "title": "Jim Gaffigan: Obsessed",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-obsessed",
+      "has_reactions": false
+    },
+    {
+      "id": "eebffe07-4f82-45f1-8aed-5d93d449d218",
+      "title": "The Nobodies",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-nobodies",
+      "has_reactions": false
+    },
+    {
+      "id": "dd2031d6-a189-4e4d-8673-96ab4291386d",
+      "title": "Hot Pursuit",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hot-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "61724e31-8387-450e-bf0f-29926f64723a",
+      "title": "Walter",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "walter",
+      "has_reactions": false
+    },
+    {
+      "id": "328cfabe-805f-4a98-a131-957757a2630c",
+      "title": "Staten Island Summer",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "staten-island-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "5081a70b-6c7d-495d-b4e0-b5541d3281bf",
+      "title": "Adventures in Comedy",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "adventures-in-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "843696b7-d621-4985-aa1f-e0efbe843047",
+      "title": "Once Upon a Sesame Street Christmas",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-sesame-street-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "983ef659-6e14-4843-9e92-86682bf1ca71",
+      "title": "The Original Image of Divine Mercy",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-original-image-of-divine-mercy",
+      "has_reactions": false
+    },
+    {
+      "id": "0e113f31-1734-4115-a417-4f731e796abc",
+      "title": "Jim Gaffigan: Cinco",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-cinco",
+      "has_reactions": false
+    },
+    {
+      "id": "7301af41-228a-4979-bba1-898ca837e862",
+      "title": "Night of Too Many Stars: America Unites for Autism Programs",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "night-of-too-many-stars-america-unites-for-autism-programs",
+      "has_reactions": false
+    },
+    {
+      "id": "a823d67d-daf7-44d3-b22c-a705d9b73f87",
+      "title": "Chuck",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chuck",
+      "has_reactions": false
+    },
+    {
+      "id": "2872ad72-b4eb-4377-8909-d905ee5ba879",
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "release_year": 2018,
+      "studio_label": "Columbia Pictures",
+      "slug": "hotel-transylvania-3-summer-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "6e248d14-93f5-4225-9fb9-dbd4aa156ad8",
+      "title": "Duck Duck Goose",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "duck-duck-goose",
+      "has_reactions": false
+    },
+    {
+      "id": "96acffe5-13af-4b69-8599-733eaababdaf",
+      "title": "Chappaquiddick",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "chappaquiddick",
+      "has_reactions": false
+    },
+    {
+      "id": "b45f0a6f-bb64-4ac2-86d9-beca8ba36ae3",
+      "title": "Jim Gaffigan: Noble Ape",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-noble-ape",
+      "has_reactions": false
+    },
+    {
+      "id": "e588af46-7f58-4b66-ad61-4cc5c9d1171f",
+      "title": "Above the Shadows",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "above-the-shadows",
+      "has_reactions": false
+    },
+    {
+      "id": "2f181147-105f-4dd3-a9de-4c4a67234900",
+      "title": "Jim Gaffigan: Quality Time",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-quality-time",
+      "has_reactions": false
+    },
+    {
+      "id": "9d36357c-3e1c-4e0a-9a02-42a5f5d1bfce",
+      "title": "Drunk Parents",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "drunk-parents",
+      "has_reactions": false
+    },
+    {
+      "id": "dec8fb75-e3c9-4b3e-ae20-dde540baddba",
+      "title": "It Started As a Joke",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "it-started-as-a-joke",
+      "has_reactions": false
+    },
+    {
+      "id": "5ac9dc20-bc8c-4289-830b-43139638f10d",
+      "title": "Playmobil: The Movie",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "playmobil-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "83d09f6d-b29f-40fc-a23a-0eeeb3cad3ca",
+      "title": "The Day Shall Come",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-day-shall-come",
+      "has_reactions": false
+    },
+    {
+      "id": "eea0d440-50d4-40bf-9ce3-98a5cff679d3",
+      "title": "American Dreamer",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "american-dreamer",
+      "has_reactions": false
+    },
+    {
+      "id": "342efa65-ea5c-42a7-9083-553355d4a135",
+      "title": "25 Sets",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "25-sets",
+      "has_reactions": false
+    },
+    {
+      "id": "b4b98cb6-c094-4389-8d35-f9c8edd796c7",
+      "title": "Jim Gaffigan: Florida Man",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-florida-man",
+      "has_reactions": false
+    },
+    {
+      "id": "37c746e9-0ee3-4a05-9b93-56cf154399e0",
+      "title": "Time Warp Vol. 1: Midnight Madness",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-1-midnight-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "e466c620-505c-4b77-8c60-a6b41f6ebda5",
+      "title": "Jim Gaffigan: Asian American",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-asian-american",
+      "has_reactions": false
+    },
+    {
+      "id": "7a8d365b-29e8-4176-9cd6-124acd27f030",
+      "title": "I've Got Issues",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "i-ve-got-issues",
+      "has_reactions": false
+    },
+    {
+      "id": "2c1eedb9-be5e-48a4-9a77-b3e17b93bd29",
+      "title": "Time Warp Vol. 3: Comedy and Camp",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-3-comedy-and-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "629babc3-0c1a-4584-9336-16bf51e2899f",
+      "title": "Jim Gaffigan: The Pale Tourist 1 - Canadian American",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-the-pale-tourist-1-canadian-american",
+      "has_reactions": false
+    },
+    {
+      "id": "f6d39373-5fbb-44b5-91be-11740b125efb",
+      "title": "Jim Gaffigan: The Pale Tourist 2 - Spanish American",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-the-pale-tourist-2-spanish-american",
+      "has_reactions": false
+    },
+    {
+      "id": "24a23562-72b1-469a-96d0-0629af21ea64",
+      "title": "Luca",
+      "release_year": 2021,
+      "studio_label": "Pixar",
+      "slug": "luca",
+      "has_reactions": true
+    },
+    {
+      "id": "761dd772-5c8f-4065-adf2-aa8523242042",
+      "title": "Jim Gaffigan: Comedy Monster",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-comedy-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "ee349a85-de6e-4a12-b4a8-6938fd81c45e",
+      "title": "Hotel Transylvania: Transformania",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "hotel-transylvania-transformania",
+      "has_reactions": false
+    },
+    {
+      "id": "d7de1615-fca7-4b7d-8505-b7730d712dc6",
+      "title": "Reindeer in Here",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "reindeer-in-here",
+      "has_reactions": false
+    },
+    {
+      "id": "7a838f51-7cda-4e27-91fe-b695ad23dd2d",
+      "title": "Linoleum",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "linoleum",
+      "has_reactions": false
+    },
+    {
+      "id": "c403f1b2-cc9c-48e8-b105-c617e395ea45",
+      "title": "Jim Gaffigan: Dark Pale",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-dark-pale",
+      "has_reactions": false
+    },
+    {
+      "id": "477e42f9-1bae-40bb-80df-953b9b35cc03",
+      "title": "Susie Searches",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "susie-searches",
+      "has_reactions": false
+    },
+    {
+      "id": "b059e369-7d6a-4922-8f59-8185fb75fe15",
+      "title": "Jim Gaffigan: The Skinny",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-the-skinny",
+      "has_reactions": false
+    },
+    {
+      "id": "338f842e-d256-4215-afc6-72ccd72c8168",
+      "title": "An Almost Christmas Story",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "an-almost-christmas-story",
+      "has_reactions": false
+    },
+    {
+      "id": "800d4794-4244-472e-b796-f16ef59263a5",
+      "title": "Eugene the Marine",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "eugene-the-marine",
+      "has_reactions": false
+    },
+    {
+      "id": "81aa2dbd-f8d8-4eb2-8dfd-d315960a40d7",
+      "title": "Jim Gaffigan: Live from Old Forester \u2014 The Bourbon Set",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "jim-gaffigan-live-from-old-forester-the-bourbon-set",
+      "has_reactions": false
+    },
+    {
+      "id": "0f2ee08d-c06e-4c9f-9f19-ce86d8a70872",
+      "title": "Maintenance Required",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "maintenance-required",
+      "has_reactions": false
+    }
+  ]
+}

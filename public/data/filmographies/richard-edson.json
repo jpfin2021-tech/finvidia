@@ -1,0 +1,528 @@
+{
+  "id": "5fdd5a2a-05cb-404b-b791-b89b7ba8dd95",
+  "name": "Richard Edson",
+  "slug": "richard-edson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/at6HIxt1D0QWy6rMbrGZuVa30zi.jpg",
+  "filmography": [
+    {
+      "id": "56ab173f-ad27-4b76-817a-d0ac5879db8d",
+      "title": "Stranger Than Paradise",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "stranger-than-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "ac74e0e4-a7c5-4c63-805a-250c851bb58a",
+      "title": "Stranger Than Paradise",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "stranger-than-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "5f997cc1-47f5-47ea-bb10-8d4ba461b5c5",
+      "title": "Kino '84: The Making of Jim Jarmusch",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "kino-84-the-making-of-jim-jarmusch",
+      "has_reactions": false
+    },
+    {
+      "id": "acf2e8df-2205-4ee2-a7dd-449514eca409",
+      "title": "Desperately Seeking Susan",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "desperately-seeking-susan",
+      "has_reactions": false
+    },
+    {
+      "id": "3242bb07-8749-4732-907b-d64522786a3e",
+      "title": "Platoon",
+      "release_year": 1986,
+      "studio_label": "Hemdale Film Corporation",
+      "slug": "platoon",
+      "has_reactions": true
+    },
+    {
+      "id": "9dfde6ab-5f52-4a3a-93c5-dded00d341e2",
+      "title": "Howard the Duck",
+      "release_year": 1986,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "howard-the-duck",
+      "has_reactions": true
+    },
+    {
+      "id": "d31012b8-a0db-4080-ba58-4246999c9b5d",
+      "title": "Ferris Bueller's Day Off",
+      "release_year": 1986,
+      "studio_label": "Paramount Pictures",
+      "slug": "ferris-bueller-s-day-off",
+      "has_reactions": true
+    },
+    {
+      "id": "c2131843-4638-436b-8c56-c4a77b7a39d1",
+      "title": "Good Morning, Vietnam",
+      "release_year": 1987,
+      "studio_label": "Touchstone Pictures",
+      "slug": "good-morning-vietnam",
+      "has_reactions": true
+    },
+    {
+      "id": "1e5da73f-85d3-40fe-ad9d-666cb83acc8b",
+      "title": "Tougher Than Leather",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "tougher-than-leather",
+      "has_reactions": false
+    },
+    {
+      "id": "48ba7566-81ad-416c-aa35-1200331a4863",
+      "title": "Do the Right Thing",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "do-the-right-thing",
+      "has_reactions": true
+    },
+    {
+      "id": "69046ea2-4ead-4dfc-aa2e-028b3e66cc56",
+      "title": "Making 'Do the Right Thing'",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "making-do-the-right-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "8668a808-5744-42d3-995a-80d0c7dd3f0d",
+      "title": "China Lake",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "china-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "a5d5d34a-29b9-444e-8778-9b1f7ba078ae",
+      "title": "Murder in High Places",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "murder-in-high-places",
+      "has_reactions": false
+    },
+    {
+      "id": "609cec99-e501-4e38-97e0-5aa06f339297",
+      "title": "Eyes of an Angel",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "eyes-of-an-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "bc01d9e0-1033-4bde-a86e-04594a7baee8",
+      "title": "Fourth Story",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "fourth-story",
+      "has_reactions": false
+    },
+    {
+      "id": "497a9d0e-5894-4c2d-8431-52c5c6330605",
+      "title": "Love Is Like That",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "love-is-like-that",
+      "has_reactions": false
+    },
+    {
+      "id": "b0bbd4f0-d92d-4212-bcfc-91f3c7bb9e7c",
+      "title": "Crossing the Bridge",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "crossing-the-bridge",
+      "has_reactions": false
+    },
+    {
+      "id": "785d53ea-7283-4664-b5f5-6485d411fe10",
+      "title": "Posse",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "posse",
+      "has_reactions": false
+    },
+    {
+      "id": "47f59485-d0ad-4166-b4a8-20f2df29de61",
+      "title": "What About Me",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "what-about-me",
+      "has_reactions": false
+    },
+    {
+      "id": "6c59acf7-2df6-4045-a2a9-4c21de575107",
+      "title": "Joey Breaker",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "joey-breaker",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc9bf97-66b9-45e8-adc2-a43d41edbb35",
+      "title": "Super Mario Bros.",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros",
+      "has_reactions": false
+    },
+    {
+      "id": "90b4b7ae-3287-4dfd-9fb0-1f251b01b971",
+      "title": "Motorcycle Gang",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "motorcycle-gang",
+      "has_reactions": false
+    },
+    {
+      "id": "e5b4c89e-2e32-47b1-9058-7c601470ce46",
+      "title": "Jury Duty",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "jury-duty",
+      "has_reactions": false
+    },
+    {
+      "id": "7c836d27-6c20-4bde-9aa4-0d0d61891ae4",
+      "title": "Destiny Turns on the Radio",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "destiny-turns-on-the-radio",
+      "has_reactions": false
+    },
+    {
+      "id": "e60aa8b2-0c98-4c2c-842d-58ff3e8a8f67",
+      "title": "Strange Days",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "strange-days",
+      "has_reactions": false
+    },
+    {
+      "id": "5f91a514-c322-46f1-b34b-e7ffa9b05a33",
+      "title": "Things I Never Told You",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "things-i-never-told-you",
+      "has_reactions": false
+    },
+    {
+      "id": "87d9850f-bb6f-4c17-96c5-ef4890fbc214",
+      "title": "Intimate Betrayal",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "intimate-betrayal",
+      "has_reactions": false
+    },
+    {
+      "id": "dab38704-075c-4943-9ba2-768bfee50d47",
+      "title": "Scorpion Spring",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "scorpion-spring",
+      "has_reactions": false
+    },
+    {
+      "id": "e1388533-1618-4eea-9eba-c584c2b9f3f5",
+      "title": "Wedding Bell Blues",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "wedding-bell-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "60c889dc-0e0e-4203-bd33-9cfcd53e24c8",
+      "title": "The Winner",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-winner",
+      "has_reactions": false
+    },
+    {
+      "id": "06a29192-5652-4423-93ed-cf0e3e7c43f4",
+      "title": "This World, Then the Fireworks",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "this-world-then-the-fireworks",
+      "has_reactions": false
+    },
+    {
+      "id": "f1291cca-702e-4587-8fbf-24c21a2e8b1f",
+      "title": "Double Tap",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "double-tap",
+      "has_reactions": false
+    },
+    {
+      "id": "148efc17-2b96-41ed-8f2e-0cf4d81087de",
+      "title": "Marco Polo: Haperek Ha'aharon",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "marco-polo-haperek-ha-aharon",
+      "has_reactions": false
+    },
+    {
+      "id": "c70250cb-4cb5-449a-aceb-e038732aea17",
+      "title": "Purgatory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "purgatory",
+      "has_reactions": false
+    },
+    {
+      "id": "630bc58d-e541-4c8e-8339-0629e0dd9ed9",
+      "title": "The Shade",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-shade",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad676cd-f439-4759-a1eb-62b1170ab70b",
+      "title": "Timecode",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "timecode",
+      "has_reactions": false
+    },
+    {
+      "id": "b132caed-7d11-4187-9ac8-539f543708d6",
+      "title": "Desperate But Not Serious",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "desperate-but-not-serious",
+      "has_reactions": false
+    },
+    {
+      "id": "041c26fa-89b5-457a-891b-8fd7009b6cc7",
+      "title": "Cement",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "cement",
+      "has_reactions": false
+    },
+    {
+      "id": "2227a253-9820-4dc4-8847-cc9456042bfa",
+      "title": "Jack of Hearts",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "jack-of-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "dca15030-ebb2-4b78-84cf-0d8d7ea2e74e",
+      "title": "I am Josh Polonski's Brother",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "i-am-josh-polonski-s-brother",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb31f23-3c35-40ff-bf61-7590d934bf7c",
+      "title": "Southlander: Diary of a Desperate Musician",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "southlander-diary-of-a-desperate-musician",
+      "has_reactions": false
+    },
+    {
+      "id": "79bd1874-7111-47d4-9272-0097b05d8caf",
+      "title": "Some Days in January, 1984",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "some-days-in-january-1984",
+      "has_reactions": false
+    },
+    {
+      "id": "d90c2778-fd9b-4143-a268-a4e70ca70dc5",
+      "title": "Apartment #5C",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "apartment-5c",
+      "has_reactions": false
+    },
+    {
+      "id": "332ae593-3e16-49e0-874b-a660793881bf",
+      "title": "Sunshine State",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sunshine-state",
+      "has_reactions": false
+    },
+    {
+      "id": "e476d505-0fde-43bd-8ea6-28d56fe3b875",
+      "title": "Land of Plenty",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "land-of-plenty",
+      "has_reactions": false
+    },
+    {
+      "id": "8ce42967-190d-445f-816a-9766b445e510",
+      "title": "Goodnight, Joseph Parker",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "goodnight-joseph-parker",
+      "has_reactions": false
+    },
+    {
+      "id": "efe078a2-7ed1-4f8c-842f-0ffa4cfe8fb9",
+      "title": "Frankenfish",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "frankenfish",
+      "has_reactions": false
+    },
+    {
+      "id": "0472af18-eadb-4d35-b729-1e28fcc5ceb0",
+      "title": "Starsky & Hutch",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "starsky-hutch",
+      "has_reactions": false
+    },
+    {
+      "id": "e5602f22-630e-41f9-9f53-81298e6aadde",
+      "title": "Hard Scrambled",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hard-scrambled",
+      "has_reactions": false
+    },
+    {
+      "id": "2e0f0715-bc39-4087-b39f-e389758770e0",
+      "title": "The Astronaut Farmer",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-astronaut-farmer",
+      "has_reactions": false
+    },
+    {
+      "id": "ec06cf9b-7dee-4bb9-b914-b4c02d8281f9",
+      "title": "Momma's Man",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "momma-s-man",
+      "has_reactions": false
+    },
+    {
+      "id": "3bc3c913-87b6-4dc3-84ec-9b2b32b43a16",
+      "title": "The Greims",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-greims",
+      "has_reactions": false
+    },
+    {
+      "id": "554c234f-029d-4938-a08f-359060af5cc8",
+      "title": "Do the Right Thing: 20 Years Later",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "do-the-right-thing-20-years-later",
+      "has_reactions": false
+    },
+    {
+      "id": "053aaecc-96eb-4852-b4b1-b0191e333037",
+      "title": "Space Cadet",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "space-cadet",
+      "has_reactions": false
+    },
+    {
+      "id": "259374fe-f56d-4547-ae13-edd359b4e5e6",
+      "title": "Super Mario Bros: This Ain't No Video Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros-this-ain-t-no-video-game",
+      "has_reactions": false
+    },
+    {
+      "id": "5b52668d-ede4-4a7f-bbd8-2a8472341fac",
+      "title": "3 Holes and a Smoking Gun",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "3-holes-and-a-smoking-gun",
+      "has_reactions": false
+    },
+    {
+      "id": "827fa121-9afd-49da-85cd-fd985a7f710e",
+      "title": "Dark Hearts",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dark-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "4514f94a-ea62-4f08-8af3-bbeaba800361",
+      "title": "Dutch Book",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "dutch-book",
+      "has_reactions": false
+    },
+    {
+      "id": "eb6c45ce-9b8f-4719-9d01-af28ab3b8e57",
+      "title": "Where is Rocky II?",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "where-is-rocky-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "cfa46d57-9cf9-4df3-8260-f3599b2a7a2b",
+      "title": "Dream Murder Machine",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "dream-murder-machine",
+      "has_reactions": false
+    },
+    {
+      "id": "30b89be8-6e2e-4098-a57a-80c0b981cf8a",
+      "title": "Burning Shadow",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "burning-shadow",
+      "has_reactions": false
+    },
+    {
+      "id": "58ad72bf-b81f-4446-b85b-2634b163c5dd",
+      "title": "Brothers in Arms",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "fe07bd9e-acdf-41b9-bc09-8a60fd662eea",
+      "title": "3 from Hell",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "3-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "2034612c-f587-44fd-842a-1ccfc85b9c3f",
+      "title": "To Hell and Back: The Making of 3 From Hell",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "to-hell-and-back-the-making-of-3-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "70264ee1-d058-4fff-86ca-416ee12aebfc",
+      "title": "The Code",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-code",
+      "has_reactions": false
+    }
+  ]
+}

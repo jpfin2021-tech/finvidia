@@ -1,0 +1,584 @@
+{
+  "id": "434ba8d0-2672-473e-8309-e7f7d5f80686",
+  "name": "Kirsten Dunst",
+  "slug": "kirsten-dunst",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg",
+  "filmography": [
+    {
+      "id": "bcc5351a-0c80-4010-8911-5e027f4f605b",
+      "title": "The Entertainment System Is Down",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-entertainment-system-is-down",
+      "has_reactions": false
+    },
+    {
+      "id": "08c1eea3-58db-4cf5-93a6-40c2bcb3e4de",
+      "title": "Rhubarb",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "rhubarb",
+      "has_reactions": false
+    },
+    {
+      "id": "d3fedb03-c175-4fed-86fb-3e87c93ef944",
+      "title": "Ruben",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "ruben",
+      "has_reactions": false
+    },
+    {
+      "id": "12d07bb5-6e69-48c0-a7fd-54e3aaf79960",
+      "title": "Self Help",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "self-help",
+      "has_reactions": false
+    },
+    {
+      "id": "b3416af1-d224-42c7-9bcb-72adad7fc9f8",
+      "title": "New York Stories",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "new-york-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "9c7fb1c2-0507-4ad9-8ebf-33e8b9a8b693",
+      "title": "The Bonfire of the Vanities",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-bonfire-of-the-vanities",
+      "has_reactions": false
+    },
+    {
+      "id": "a7027417-d38d-4c24-8f75-05ef52eaebd1",
+      "title": "High Strung",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "high-strung",
+      "has_reactions": false
+    },
+    {
+      "id": "6cacd36d-8d1c-4e26-bafe-ae24c3366ad4",
+      "title": "Interview with the Vampire",
+      "release_year": 1994,
+      "studio_label": "Geffen Pictures",
+      "slug": "interview-with-the-vampire",
+      "has_reactions": true
+    },
+    {
+      "id": "cfe4e6d7-b7ef-426e-8d8b-d6318c3b8e50",
+      "title": "Greedy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "greedy",
+      "has_reactions": false
+    },
+    {
+      "id": "4baf3daa-25cf-4895-ae9a-3efd3a891f53",
+      "title": "Little Women",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "little-women",
+      "has_reactions": false
+    },
+    {
+      "id": "c307adcb-1097-40cb-a29e-44a1df0dcf10",
+      "title": "Jumanji",
+      "release_year": 1995,
+      "studio_label": "TriStar Pictures",
+      "slug": "jumanji",
+      "has_reactions": true
+    },
+    {
+      "id": "4fded666-d0ca-445c-a968-5476d768ef01",
+      "title": "Mother Night",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mother-night",
+      "has_reactions": false
+    },
+    {
+      "id": "ab32d896-79c3-4024-b04e-3ae65fcf40e4",
+      "title": "The Siege at Ruby Ridge",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-siege-at-ruby-ridge",
+      "has_reactions": false
+    },
+    {
+      "id": "d184be91-4ea0-4029-8926-6bdc90100f67",
+      "title": "Anastasia",
+      "release_year": 1997,
+      "studio_label": "Fox Animation Studios",
+      "slug": "anastasia",
+      "has_reactions": true
+    },
+    {
+      "id": "0d01d6cd-7a15-4561-9828-fa0395947e81",
+      "title": "Wag the Dog",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "wag-the-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "b08b43c2-406b-4984-9d26-7c8955308a80",
+      "title": "Strike!",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "strike",
+      "has_reactions": false
+    },
+    {
+      "id": "93a53510-b12c-4b3d-a5be-4cc10e98b267",
+      "title": "Fifteen and Pregnant",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "fifteen-and-pregnant",
+      "has_reactions": false
+    },
+    {
+      "id": "4c9eed87-0e56-4f69-a283-42d1a78ef482",
+      "title": "The Animated Adventures of Tom Sawyer",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-animated-adventures-of-tom-sawyer",
+      "has_reactions": false
+    },
+    {
+      "id": "86e0da33-05c1-4a53-8044-8128c0904ba6",
+      "title": "Tower of Terror",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "tower-of-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "efd22fae-be18-457f-9527-1b1a0d301f1f",
+      "title": "Drop Dead Gorgeous",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "drop-dead-gorgeous",
+      "has_reactions": false
+    },
+    {
+      "id": "8e3a64a1-2109-4b8b-8cf5-c1490768e9e9",
+      "title": "The Devil's Arithmetic",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-devil-s-arithmetic",
+      "has_reactions": false
+    },
+    {
+      "id": "42b6477e-fbd2-4e3e-9dc3-c9719aa8e3b3",
+      "title": "True Heart",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "true-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "db480c6e-4a6b-4fac-b8bc-1c60e67290f7",
+      "title": "Dick",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "dick",
+      "has_reactions": false
+    },
+    {
+      "id": "50375b6c-2cc5-4392-b3bb-e33909883ec6",
+      "title": "Bring It On",
+      "release_year": 2000,
+      "studio_label": "Universal Pictures",
+      "slug": "bring-it-on",
+      "has_reactions": true
+    },
+    {
+      "id": "3f487ec5-07e2-426f-a824-fb75e80be59c",
+      "title": "The Making of The Virgin Suicides",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-virgin-suicides",
+      "has_reactions": false
+    },
+    {
+      "id": "9b490a31-a4a1-4f90-ad9f-878e1ffbe86b",
+      "title": "Deeply",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "deeply",
+      "has_reactions": false
+    },
+    {
+      "id": "ee95967f-2dfd-4e53-8725-2aeab1c9b14f",
+      "title": "Making Jumanji: The Realm of Imagination",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "making-jumanji-the-realm-of-imagination",
+      "has_reactions": false
+    },
+    {
+      "id": "48ccadd1-089e-40bc-93ff-6b1e040be9fa",
+      "title": "Luckytown",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "luckytown",
+      "has_reactions": false
+    },
+    {
+      "id": "219a8ee1-1aba-4571-968b-a5347e5fc90d",
+      "title": "In the Shadow of the Vampire: The Making of Interview with the Vampire",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "in-the-shadow-of-the-vampire-the-making-of-interview-with-the-vampire",
+      "has_reactions": false
+    },
+    {
+      "id": "99c62139-b7c5-4f09-84be-ce0ed4decf05",
+      "title": "The Virgin Suicides",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-virgin-suicides",
+      "has_reactions": false
+    },
+    {
+      "id": "c18085ad-ec95-4b52-a265-1e5b131a1e2d",
+      "title": "Get Over It",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "get-over-it",
+      "has_reactions": false
+    },
+    {
+      "id": "e2283927-1b12-4f63-b750-67291bd521ff",
+      "title": "All Forgotten",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "all-forgotten",
+      "has_reactions": false
+    },
+    {
+      "id": "0b87eb6f-de46-4fae-b205-e07eb4df4fdc",
+      "title": "The Cat's Meow",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-cat-s-meow",
+      "has_reactions": false
+    },
+    {
+      "id": "5a774fb6-df42-4214-adf3-266f6e66ca9e",
+      "title": "Spider-Man",
+      "release_year": 2002,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man",
+      "has_reactions": true
+    },
+    {
+      "id": "99b2a221-f6a0-4f33-a2b1-df0ac86f6970",
+      "title": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "it-ain-t-as-easy-as-it-looks-a-k-a-the-making-of-the-cat-s-meow",
+      "has_reactions": false
+    },
+    {
+      "id": "ded7a021-4405-4b97-9d46-6fbe25287f0e",
+      "title": "Spider-Mania",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spider-mania",
+      "has_reactions": false
+    },
+    {
+      "id": "bd338e11-5ace-465f-ab80-e8455b12d852",
+      "title": "The Spider-Man Story",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-spider-man-story",
+      "has_reactions": false
+    },
+    {
+      "id": "799aef49-e738-40f9-9399-d5f3d2b04655",
+      "title": "Behind the Ultimate Spin: The Making of 'Spider-Man'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "behind-the-ultimate-spin-the-making-of-spider-man",
+      "has_reactions": false
+    },
+    {
+      "id": "224d5115-d87e-4710-ab56-47e88f356aa9",
+      "title": "Levity",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "levity",
+      "has_reactions": false
+    },
+    {
+      "id": "79d814b8-e7e6-4532-9fd1-4db143595077",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "release_year": 2004,
+      "studio_label": "Focus Features",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "has_reactions": true
+    },
+    {
+      "id": "e037f032-b71c-4058-8b71-99e0222a47af",
+      "title": "Spider-Man 2",
+      "release_year": 2004,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "0c7457bc-5472-4668-9f85-d9d2fc9f2a75",
+      "title": "A Look Inside Eternal Sunshine of the Spotless Mind",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "a-look-inside-eternal-sunshine-of-the-spotless-mind",
+      "has_reactions": false
+    },
+    {
+      "id": "caad0be2-b513-441a-8239-9300e4ef55aa",
+      "title": "Wimbledon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "wimbledon",
+      "has_reactions": false
+    },
+    {
+      "id": "c79402f8-a5a9-49f2-92fc-6e142bb99942",
+      "title": "Hero in Crisis",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hero-in-crisis",
+      "has_reactions": false
+    },
+    {
+      "id": "5df1d5cb-13aa-49e6-90e3-56ef2805fd65",
+      "title": "Marie Antoinette",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "marie-antoinette",
+      "has_reactions": false
+    },
+    {
+      "id": "12c625ef-3ba3-4821-9392-d08e3636bcdf",
+      "title": "Spider-Man 3",
+      "release_year": 2007,
+      "studio_label": "Laura Ziskin Productions",
+      "slug": "spider-man-3",
+      "has_reactions": true
+    },
+    {
+      "id": "b72e32fa-bbd4-4124-ad09-0cf0c389c63b",
+      "title": "The Making of Marie Antoinette",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-marie-antoinette",
+      "has_reactions": false
+    },
+    {
+      "id": "fee06009-e7fc-4d09-b3a0-faeb4278a85a",
+      "title": "Annie Leibovitz: Life Through a Lens",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "annie-leibovitz-life-through-a-lens",
+      "has_reactions": false
+    },
+    {
+      "id": "a2abef9b-ad65-4770-aec3-0261b3e6fe7e",
+      "title": "How to Lose Friends & Alienate People",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "how-to-lose-friends-alienate-people",
+      "has_reactions": false
+    },
+    {
+      "id": "52f9e9bc-45c7-498e-8bc6-c43f52c44436",
+      "title": "The Second Bakery Attack",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-second-bakery-attack",
+      "has_reactions": false
+    },
+    {
+      "id": "63231d3b-b9b2-4794-a806-cb9ac77a21c4",
+      "title": "Non Plus One",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "non-plus-one",
+      "has_reactions": false
+    },
+    {
+      "id": "a1ef3ebf-35f2-43af-8288-75f42cb4159a",
+      "title": "All Good Things",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "all-good-things",
+      "has_reactions": false
+    },
+    {
+      "id": "a11b8baf-f6bb-45f1-aac6-a03337bb1325",
+      "title": "Melancholia",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "melancholia",
+      "has_reactions": false
+    },
+    {
+      "id": "4eec52c2-7ab8-47d5-9ccd-f8ca66321fbf",
+      "title": "Fight for Your Right Revisited",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "fight-for-your-right-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "70aa5c63-5247-4e2e-b109-3fc61dbfb6da",
+      "title": "Upside Down",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "upside-down",
+      "has_reactions": false
+    },
+    {
+      "id": "ecde259a-97d7-4aa2-9323-98e43a890dc9",
+      "title": "Heroes and Demons",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "heroes-and-demons",
+      "has_reactions": false
+    },
+    {
+      "id": "6fb7967c-cfc4-4b92-baec-7da1e647e6a5",
+      "title": "On the Road",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "on-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "945d9f78-ffd5-492d-89d4-5d68d95189bf",
+      "title": "Letters to Jackie: Remembering President Kennedy",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "letters-to-jackie-remembering-president-kennedy",
+      "has_reactions": false
+    },
+    {
+      "id": "2a01fb47-2360-4319-b3ab-97eddf6c27ad",
+      "title": "The Bling Ring",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-bling-ring",
+      "has_reactions": false
+    },
+    {
+      "id": "aba602cd-3fed-4111-bd56-d7329b590276",
+      "title": "Mademoiselle C",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "mademoiselle-c",
+      "has_reactions": false
+    },
+    {
+      "id": "4083cf7f-03ea-4b85-aab3-3390547aa662",
+      "title": "The Two Faces of January",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-two-faces-of-january",
+      "has_reactions": false
+    },
+    {
+      "id": "b017fc49-e038-4031-a380-ae96526d0370",
+      "title": "Aspirational",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "aspirational",
+      "has_reactions": false
+    },
+    {
+      "id": "2d5f8f02-6c54-4306-80b5-64bf7d8438ec",
+      "title": "Hidden Figures",
+      "release_year": 2016,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "hidden-figures",
+      "has_reactions": true
+    },
+    {
+      "id": "7abcabe8-a4aa-4eac-aff5-f8a18b643a4b",
+      "title": "Midnight Special",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "midnight-special",
+      "has_reactions": false
+    },
+    {
+      "id": "2de97d48-b1d6-432d-bf78-8dbb10abfacd",
+      "title": "The Beguiled",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-beguiled",
+      "has_reactions": false
+    },
+    {
+      "id": "48cbea94-4d7b-4772-8768-2e1d6a521d2a",
+      "title": "Woodshock",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "woodshock",
+      "has_reactions": false
+    },
+    {
+      "id": "aa56df52-3978-454e-a2b6-ee2affa2ee9c",
+      "title": "Revisiting The Virgin Suicides",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "revisiting-the-virgin-suicides",
+      "has_reactions": false
+    },
+    {
+      "id": "2588b8bc-cc8f-42e8-b675-e00b92a124bb",
+      "title": "The Power of the Dog",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-power-of-the-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "69727cea-1cf1-4d0b-8290-eba23ee4b62f",
+      "title": "Behind the Scenes with Jane Campion",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "behind-the-scenes-with-jane-campion",
+      "has_reactions": false
+    },
+    {
+      "id": "7210e454-a972-47d8-8a59-0a9683d06cdd",
+      "title": "Roofman",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "roofman",
+      "has_reactions": false
+    },
+    {
+      "id": "bf42728e-68ad-4289-bb40-1afbd438c9fe",
+      "title": "The Housemaid's Secret",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "the-housemaid-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "32375a56-7d09-4747-8fd0-9f0166560383",
+      "title": "A Minecraft Movie Squared",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "a-minecraft-movie-squared",
+      "has_reactions": false
+    }
+  ]
+}

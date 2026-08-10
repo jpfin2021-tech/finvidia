@@ -1,0 +1,536 @@
+{
+  "id": "a1bdf53b-14e4-423b-ba33-9fc61e4c7ea7",
+  "name": "Grey DeLisle",
+  "slug": "grey-delisle",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+  "filmography": [
+    {
+      "id": "920476c4-1425-45f7-a6af-28a259690878",
+      "title": "Bob's Video",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "bob-s-video",
+      "has_reactions": false
+    },
+    {
+      "id": "7e1f2bca-c4fd-4956-9254-5bcbf9ddec64",
+      "title": "Thrillseekers: Putt n' Perish",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "thrillseekers-putt-n-perish",
+      "has_reactions": false
+    },
+    {
+      "id": "233b1e84-6a39-4cab-a037-a6ead82bc0c8",
+      "title": "Evil Con Carne",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "evil-con-carne",
+      "has_reactions": false
+    },
+    {
+      "id": "f66a7ae8-af4e-4325-ba8b-a21ecae4bc50",
+      "title": "Night of the Living Doo",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "9ec8b727-7801-4726-a949-e643a7fa1915",
+      "title": "Elise: Mere Mortal",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "elise-mere-mortal",
+      "has_reactions": false
+    },
+    {
+      "id": "6f14b3ac-11d5-4110-8ca1-f66fbe9a9e52",
+      "title": "The Flintstones: On the Rocks",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-flintstones-on-the-rocks",
+      "has_reactions": false
+    },
+    {
+      "id": "3847314d-ccda-4cc3-a724-e0f09b45f30a",
+      "title": "Scooby-Doo! and the Loch Ness Monster",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-loch-ness-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "6791bbe4-abe4-4b8c-b399-cc41af74a082",
+      "title": "The Fairly OddParents: School's Out! The Musical",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-fairly-oddparents-school-s-out-the-musical",
+      "has_reactions": false
+    },
+    {
+      "id": "f0612d4c-3259-4362-9ca3-878fbce5f950",
+      "title": "Ultimate Avengers 2",
+      "release_year": 2006,
+      "studio_label": "MLG Productions 2",
+      "slug": "ultimate-avengers-2",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b1d88d-9fd0-49aa-819b-7082f6628d44",
+      "title": "The Fox and the Hound 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-fox-and-the-hound-2",
+      "has_reactions": false
+    },
+    {
+      "id": "bfd2ceae-5e16-408b-8da5-82af1ded9613",
+      "title": "The Fairly OddParents: Fairy Idol",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-fairly-oddparents-fairy-idol",
+      "has_reactions": false
+    },
+    {
+      "id": "d73f1a81-2df4-43bd-802b-7a6ce0d1af4a",
+      "title": "Jimmy Timmy Power Hour 3: The Jerkinators!",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jimmy-timmy-power-hour-3-the-jerkinators",
+      "has_reactions": false
+    },
+    {
+      "id": "b42ff5af-ea30-4574-9912-0a2310981c72",
+      "title": "Hellboy Animated: Blood and Iron",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "hellboy-animated-blood-and-iron",
+      "has_reactions": false
+    },
+    {
+      "id": "82c6f98d-0a01-458d-8225-e5bb80789009",
+      "title": "Chill Out, Scooby-Doo!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "chill-out-scooby-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d72342-0941-4611-b7c0-fcac561613f9",
+      "title": "Scooby-Doo! and the Goblin King",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-goblin-king",
+      "has_reactions": false
+    },
+    {
+      "id": "cb6b2ea7-b65e-4e09-83f6-a2793b89f1b8",
+      "title": "Dead Space: Downfall",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dead-space-downfall",
+      "has_reactions": false
+    },
+    {
+      "id": "a1d71c35-2113-481b-9ae4-cf7f68bc3db4",
+      "title": "My Gym Partner's a Monkey: Animal School Musical",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "my-gym-partner-s-a-monkey-animal-school-musical",
+      "has_reactions": false
+    },
+    {
+      "id": "eb519189-a08d-44c9-8e6b-6dec4a0c7dd0",
+      "title": "Mascot Prep",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mascot-prep",
+      "has_reactions": false
+    },
+    {
+      "id": "1d6cbf67-7bbe-442d-a218-577d6e1adc8c",
+      "title": "The Little Mermaid: Ariel's Beginning",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-little-mermaid-ariel-s-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "b9974c7f-bd8c-4dba-b399-12649a5d16e1",
+      "title": "Wubbzy's Big Movie!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "wubbzy-s-big-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "58f4fab0-a01f-4481-9e06-7e6b7148a254",
+      "title": "Tinker Bell and the Lost Treasure",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell-and-the-lost-treasure",
+      "has_reactions": false
+    },
+    {
+      "id": "c6de29c5-3a7d-44d8-9f9e-913584e7f49b",
+      "title": "Afro Samurai: Resurrection",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "afro-samurai-resurrection",
+      "has_reactions": false
+    },
+    {
+      "id": "aede6f07-49fa-414c-95e3-c33e64764852",
+      "title": "Handy Manny: Manny's Green Team",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "handy-manny-manny-s-green-team",
+      "has_reactions": false
+    },
+    {
+      "id": "2492e852-b4aa-47a5-bbc4-8d242d87eb3f",
+      "title": "Scooby-Doo! Abracadabra-Doo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-abracadabra-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "e6b96917-4c68-4df0-8e85-7bb4873dec66",
+      "title": "DC Showcase: Green Arrow",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-green-arrow",
+      "has_reactions": false
+    },
+    {
+      "id": "47521f8d-7cf2-4d66-818c-30f761ae239f",
+      "title": "Scooby-Doo! Camp Scare",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-camp-scare",
+      "has_reactions": false
+    },
+    {
+      "id": "61846a3c-6adc-4d40-9db1-626fb05b9f38",
+      "title": "Firebreather",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "firebreather",
+      "has_reactions": false
+    },
+    {
+      "id": "97f4286b-d8c4-48f2-b8f5-2cf4889f2a10",
+      "title": "Dante's Inferno: An Animated Epic",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dante-s-inferno-an-animated-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa8b747-9655-4dde-83f5-14a8a9201963",
+      "title": "Scooby-Doo! Legend of the Phantosaur",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-legend-of-the-phantosaur",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee75051-93b5-47de-b3b1-62bad9a8448a",
+      "title": "Batman: Year One",
+      "release_year": 2011,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-year-one",
+      "has_reactions": true
+    },
+    {
+      "id": "53a04cf7-dcb6-4f90-ac13-3750c232d0ec",
+      "title": "Green Lantern: Emerald Knights",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "green-lantern-emerald-knights",
+      "has_reactions": false
+    },
+    {
+      "id": "5e70d629-a15a-46c0-9c84-1601ea6ab5d9",
+      "title": "Scooby Doo and The Zombies",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-zombies",
+      "has_reactions": false
+    },
+    {
+      "id": "8a99bdd6-c1a5-4d6a-a695-932a4ae0e0ac",
+      "title": "Big Top Scooby-Doo!",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "big-top-scooby-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "6974bb2a-50b3-40c9-86ec-af5a1371fecd",
+      "title": "Scooby-Doo: Mystery in Motion",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-mystery-in-motion",
+      "has_reactions": false
+    },
+    {
+      "id": "aa5256e1-36a9-4fc0-8e60-e75de2a69c5d",
+      "title": "Scooby-Doo! Mask of the Blue Falcon",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-mask-of-the-blue-falcon",
+      "has_reactions": false
+    },
+    {
+      "id": "fc8bb7eb-f3f6-4269-80a8-bab190c319b7",
+      "title": "Scooby-Doo! Haunted Holidays",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-haunted-holidays",
+      "has_reactions": false
+    },
+    {
+      "id": "1c683f96-26e1-47a9-bc1c-ff9cbd082a75",
+      "title": "Batman: The Dark Knight Returns, Part 1",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "batman-the-dark-knight-returns-part-1",
+      "has_reactions": false
+    },
+    {
+      "id": "69a81fa0-15a4-4dd2-8c03-3238de91f9bb",
+      "title": "Secret of the Wings",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "secret-of-the-wings",
+      "has_reactions": false
+    },
+    {
+      "id": "8e89fd7e-acf3-4f35-aebc-4915def3b800",
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "batman-the-dark-knight-returns-part-2",
+      "has_reactions": false
+    },
+    {
+      "id": "1ef116a8-f8d8-4c76-9c30-c38470bfe772",
+      "title": "Tom and Jerry's Giant Adventure",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-s-giant-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "a5e9f4ff-e7f9-458b-8581-35466f74ba7c",
+      "title": "Scooby-Doo! Mecha Mutt Menace",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-mecha-mutt-menace",
+      "has_reactions": false
+    },
+    {
+      "id": "00ce3e17-206a-4ede-8034-edae75077ba5",
+      "title": "Scooby-Doo! Stage Fright",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-stage-fright",
+      "has_reactions": false
+    },
+    {
+      "id": "d196b67b-c4fb-46cb-ac0f-c4546d494a4e",
+      "title": "The Loud House",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-loud-house",
+      "has_reactions": false
+    },
+    {
+      "id": "14f518b1-8c5d-41c9-a9d8-120abb492936",
+      "title": "Scooby-Doo! Ghastly Goals",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-ghastly-goals",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "90c6b6e8-a9f8-498f-a9d1-aef10faf5af1",
+      "title": "Tinker Bell and the Pirate Fairy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell-and-the-pirate-fairy",
+      "has_reactions": false
+    },
+    {
+      "id": "80b16d87-e120-4f84-b469-4d9769f0f374",
+      "title": "Scooby-Doo! Frankencreepy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-frankencreepy",
+      "has_reactions": false
+    },
+    {
+      "id": "ac2f21c3-0a11-447f-8256-ce65d9ae59cb",
+      "title": "Scooby-Doo! WrestleMania Mystery",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-wrestlemania-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "237a47cf-a788-421a-8a97-4dba3b8750e0",
+      "title": "Tinker Bell and the Legend of the NeverBeast",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell-and-the-legend-of-the-neverbeast",
+      "has_reactions": false
+    },
+    {
+      "id": "3b3cf9f9-5347-4781-90bd-774bab171fc8",
+      "title": "The Book of Life",
+      "release_year": 2014,
+      "studio_label": "Reel FX Creative Studios",
+      "slug": "the-book-of-life",
+      "has_reactions": true
+    },
+    {
+      "id": "4452c617-b95e-47fd-a283-9ca790e7a685",
+      "title": "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-comics-super-heroes-batman-be-leaguered",
+      "has_reactions": false
+    },
+    {
+      "id": "3ee45d50-82ba-4631-9d6b-f5015ff2e63d",
+      "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-comics-super-heroes-justice-league-attack-of-the-legion-of-doom",
+      "has_reactions": false
+    },
+    {
+      "id": "590f2992-a3b2-4f39-802a-500fb07dbca6",
+      "title": "Scooby-Doo! Moon Monster Madness",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-moon-monster-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "69b67447-be10-4942-aa5f-25caffb15f09",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "marvel-super-hero-adventures-frost-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "aab53871-c661-4e03-a5e0-bc8cc6ef0325",
+      "title": "Batman vs. Robin",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "batman-vs-robin",
+      "has_reactions": false
+    },
+    {
+      "id": "bcd72b2e-f241-474d-9619-4a70266335f8",
+      "title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-kiss-rock-and-roll-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "3b0d0450-b1ee-49b5-8eb6-d15d07ecd819",
+      "title": "Scooby-Doo! and the Beach Beastie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-beach-beastie",
+      "has_reactions": false
+    },
+    {
+      "id": "0510703c-f547-433a-a691-7ceaef2cb121",
+      "title": "LEGO Scooby-Doo! Knight Time Terror",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lego-scooby-doo-knight-time-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "d2d6b2f6-773e-4e3b-9635-3d530d8ea928",
+      "title": "LEGO DC Super Hero Girls: Super-Villain High",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-super-hero-girls-super-villain-high",
+      "has_reactions": false
+    },
+    {
+      "id": "3a168414-8798-46a2-b818-943fa458c63c",
+      "title": "Scooby-Doo, Where Are You Now!",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-where-are-you-now",
+      "has_reactions": false
+    },
+    {
+      "id": "fe637b41-d812-4afa-ab27-4e42de048f33",
+      "title": "Trick or Treat Scooby-Doo!",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "trick-or-treat-scooby-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "89bbe886-6ca1-4e47-ade7-6b58fd24249a",
+      "title": "Luck",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "luck",
+      "has_reactions": false
+    },
+    {
+      "id": "ac8d41f6-1ba3-4aad-8fda-d0570d23ed72",
+      "title": "DC Showcase - Constantine: The House of Mystery",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-constantine-the-house-of-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "64a4adab-08fe-4026-9de5-9eb56a44bd0c",
+      "title": "The Soccer Football Movie",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-soccer-football-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "a7d66e58-85be-41f8-86cd-5eab36639f44",
+      "title": "Mortal Kombat Legends: Cage Match",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mortal-kombat-legends-cage-match",
+      "has_reactions": false
+    },
+    {
+      "id": "ec19e114-295a-463b-9075-0faba7bea1d3",
+      "title": "Scooby-Doo! and Krypto, Too!",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-krypto-too",
+      "has_reactions": false
+    }
+  ]
+}

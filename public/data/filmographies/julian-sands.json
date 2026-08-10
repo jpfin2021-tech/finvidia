@@ -1,0 +1,584 @@
+{
+  "id": "4ad91e1c-921e-465d-8c6d-e11df1032545",
+  "name": "Julian Sands",
+  "slug": "julian-sands",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg",
+  "filmography": [
+    {
+      "id": "1554afb5-d69a-41aa-a460-be6b54f1b65b",
+      "title": "Mother Tongue",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "mother-tongue",
+      "has_reactions": false
+    },
+    {
+      "id": "8bcbb90c-be47-4805-9ead-32606a9c284e",
+      "title": "Privates on Parade",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "privates-on-parade",
+      "has_reactions": false
+    },
+    {
+      "id": "79b594d9-36de-4ea2-b43a-12e26640e1f8",
+      "title": "The Killing Fields",
+      "release_year": 1984,
+      "studio_label": "Goldcrest",
+      "slug": "the-killing-fields",
+      "has_reactions": true
+    },
+    {
+      "id": "ed6d7b99-e256-4dd2-a5be-ff6d86261406",
+      "title": "Romance on the Orient Express",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "romance-on-the-orient-express",
+      "has_reactions": false
+    },
+    {
+      "id": "c076fef1-29d6-4cb8-9087-6391f6d97315",
+      "title": "After Darkness",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "after-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "0f651a44-9820-4fd8-8cd1-878ee6a9e680",
+      "title": "Siesta",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "siesta",
+      "has_reactions": false
+    },
+    {
+      "id": "1bcc3aad-30e1-49e1-88d2-8ed69e0c6ce0",
+      "title": "Gothic",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "gothic",
+      "has_reactions": false
+    },
+    {
+      "id": "8eb97cec-1456-4bfc-945f-1169d52ec916",
+      "title": "Basements",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "basements",
+      "has_reactions": false
+    },
+    {
+      "id": "40447ccd-41f9-4257-a2c8-dfed800a1c12",
+      "title": "Wherever You Are...",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "wherever-you-are",
+      "has_reactions": false
+    },
+    {
+      "id": "381a8560-f07e-482f-aa44-2bfb36697225",
+      "title": "Murder on the Moon",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "murder-on-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "fd45f10f-b0fb-4b79-b312-52ff5cff8d5f",
+      "title": "Manika, the Girl Who Lived Twice",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "manika-the-girl-who-lived-twice",
+      "has_reactions": false
+    },
+    {
+      "id": "0c227664-51da-4fa0-be95-bdbcdd5f207a",
+      "title": "Arachnophobia",
+      "release_year": 1990,
+      "studio_label": "Amblin Entertainment",
+      "slug": "arachnophobia",
+      "has_reactions": true
+    },
+    {
+      "id": "fc9bb100-d8d1-456e-a8b7-680898a6ad74",
+      "title": "Night Sun",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "night-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "f8366ca3-92a4-4ccb-83e8-b705467d8e8b",
+      "title": "Husbands and Lovers",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "husbands-and-lovers",
+      "has_reactions": false
+    },
+    {
+      "id": "d869c608-0b07-421d-b388-25fffdf07d24",
+      "title": "Grand Isle",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "grand-isle",
+      "has_reactions": false
+    },
+    {
+      "id": "ceac7e5f-cc3f-4480-ae1e-7da34dfd962b",
+      "title": "The Wicked",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-wicked",
+      "has_reactions": false
+    },
+    {
+      "id": "df25dc36-2e5b-4a86-9f0d-39664b29868f",
+      "title": "Crazy in Love",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "crazy-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "db3726e7-4587-45ad-8ef5-ad43b58a9f3e",
+      "title": "The Turn of the Screw",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-turn-of-the-screw",
+      "has_reactions": false
+    },
+    {
+      "id": "066131b5-1498-4132-a617-7e02b3174381",
+      "title": "Warlock: The Armageddon",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "warlock-the-armageddon",
+      "has_reactions": false
+    },
+    {
+      "id": "2c888619-c126-4a2c-89e1-7eee2030a47e",
+      "title": "Tale of a Vampire",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "tale-of-a-vampire",
+      "has_reactions": false
+    },
+    {
+      "id": "07cb105e-fb18-4c63-8db7-41e14b8a12ff",
+      "title": "Boxing Helena",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "boxing-helena",
+      "has_reactions": false
+    },
+    {
+      "id": "548b598d-7342-43ce-873f-2ff1b66bbf82",
+      "title": "Witch Hunt",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "witch-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "28eb42a1-fb5f-4207-985f-945b7781ac8f",
+      "title": "Mario and the Magician",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mario-and-the-magician",
+      "has_reactions": false
+    },
+    {
+      "id": "9ef9d09d-add5-4956-b9e6-37a2f01018a9",
+      "title": "Leaving Las Vegas",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "leaving-las-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "d1f869b4-a5c4-451f-b677-ba8e4e6b7edb",
+      "title": "The Tomorrow Man",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-tomorrow-man",
+      "has_reactions": false
+    },
+    {
+      "id": "0bcd539f-5b5a-4a57-a35b-4e8bbc4c82d1",
+      "title": "End of Summer",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "end-of-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "2dc83df0-c7d1-4817-9248-67915506fa86",
+      "title": "Never Ever",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "never-ever",
+      "has_reactions": false
+    },
+    {
+      "id": "7e47890f-ccd1-4449-9d3e-9230c05729dc",
+      "title": "The Phantom of the Opera",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-phantom-of-the-opera",
+      "has_reactions": false
+    },
+    {
+      "id": "fac52b08-5606-4c65-b6cd-739488e0ae7d",
+      "title": "The Loss of Sexual Innocence",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-loss-of-sexual-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "78e2d013-78b5-4c51-ba8a-9c9046a39d14",
+      "title": "Mercy",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mercy",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad676cd-f439-4759-a1eb-62b1170ab70b",
+      "title": "Timecode",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "timecode",
+      "has_reactions": false
+    },
+    {
+      "id": "83f1f5b8-17ac-4201-b750-cec654f4cef6",
+      "title": "Hotel",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "hotel",
+      "has_reactions": false
+    },
+    {
+      "id": "2a41ec7d-faf9-4cfd-a01b-264b41afa84a",
+      "title": "The Scoundrel's Wife",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-scoundrel-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "6453999d-0854-4be2-b09a-9580c0cff051",
+      "title": "Easy Sex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "easy-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "c03642bd-b63e-4686-99ad-aaa8b354ba0e",
+      "title": "Ring of the Nibelungs",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ring-of-the-nibelungs",
+      "has_reactions": false
+    },
+    {
+      "id": "b4aafa47-7c0c-41c4-8a6a-9481d94d247f",
+      "title": "Romasanta: The Werewolf Hunt",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "romasanta-the-werewolf-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "a8d04cd5-1321-47b8-ba64-222eb74cdd11",
+      "title": "Kenneth Tynan: In Praise of Hardcore",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kenneth-tynan-in-praise-of-hardcore",
+      "has_reactions": false
+    },
+    {
+      "id": "47e164d3-99ba-4429-a252-8295c1fda2b5",
+      "title": "The Haunted Airman",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-haunted-airman",
+      "has_reactions": false
+    },
+    {
+      "id": "e377aa07-201d-43b8-8ef8-17fbc25c8916",
+      "title": "The Trail",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "c7412b79-2b84-4f6e-a10f-57df1621b66c",
+      "title": "Cat City",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cat-city",
+      "has_reactions": false
+    },
+    {
+      "id": "366d6486-ac5c-4cfc-815a-78df6a89c551",
+      "title": "Heidi 4 Paws",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "heidi-4-paws",
+      "has_reactions": false
+    },
+    {
+      "id": "6098154f-318d-4483-93a7-30d14ea18851",
+      "title": "Beyond Sherwood Forest",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "beyond-sherwood-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "ebf76ccd-a317-4e76-b16e-46d78a4a5b9f",
+      "title": "The Good Life",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-good-life",
+      "has_reactions": false
+    },
+    {
+      "id": "c4427a26-cb4f-4309-b3f7-2b7564da9b67",
+      "title": "The Girl with the Dragon Tattoo",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "has_reactions": false
+    },
+    {
+      "id": "caf973dc-43c1-428d-b40f-61aba0745dbc",
+      "title": "The Maiden and the Princess",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-maiden-and-the-princess",
+      "has_reactions": false
+    },
+    {
+      "id": "344671a0-b54d-4d9a-8d73-dd2567c44600",
+      "title": "Hirokin: The Last Samurai",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hirokin-the-last-samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "696e20cc-a83f-46a8-9d6e-3c1be2fbf6f7",
+      "title": "The Nightshift Belongs to the Stars",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-nightshift-belongs-to-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "6c7f0dac-f820-43fd-8fcf-77877ae6f71f",
+      "title": "All Things To All Men",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "all-things-to-all-men",
+      "has_reactions": false
+    },
+    {
+      "id": "33ab35fb-b625-4c00-80e4-e52282fd2743",
+      "title": "GHB: To Be or Not to Be",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ghb-to-be-or-not-to-be",
+      "has_reactions": false
+    },
+    {
+      "id": "539b4c95-732d-40a3-a6f3-0ce33e0cb398",
+      "title": "Six Dance Lessons in Six Weeks",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "six-dance-lessons-in-six-weeks",
+      "has_reactions": false
+    },
+    {
+      "id": "f89b10df-84e3-4019-a90f-6e4c5254d0b6",
+      "title": "Me",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "me",
+      "has_reactions": false
+    },
+    {
+      "id": "27fb2e35-2f0a-4261-84af-8cf0d0a8f50e",
+      "title": "Extraordinary Tales",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "extraordinary-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "7b20b023-481e-4b5b-a054-9d2534fa7090",
+      "title": "We're Doomed! The Dad's Army Story",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "we-re-doomed-the-dad-s-army-story",
+      "has_reactions": false
+    },
+    {
+      "id": "5f503d5e-28be-45a8-aece-44ac71b37fe8",
+      "title": "The Chosen",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-chosen",
+      "has_reactions": false
+    },
+    {
+      "id": "aae3ad1b-a5df-46d8-ac97-3555dbef1fb8",
+      "title": "The Loner",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-loner",
+      "has_reactions": false
+    },
+    {
+      "id": "4b313a13-5ec0-48fa-9d75-b1ea0789202c",
+      "title": "Borley Rectory",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "borley-rectory",
+      "has_reactions": false
+    },
+    {
+      "id": "303d2867-2af7-45b5-b4df-cf5a97a8b162",
+      "title": "Walk Like a Panther",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "walk-like-a-panther",
+      "has_reactions": false
+    },
+    {
+      "id": "662d2832-4e4e-466b-89cd-8b2a59f1e9ea",
+      "title": "The Keeper",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-keeper",
+      "has_reactions": false
+    },
+    {
+      "id": "976c88d3-5b6b-4c34-8a48-3f52bd0cf9bf",
+      "title": "Toy Gun",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "toy-gun",
+      "has_reactions": false
+    },
+    {
+      "id": "d85340d7-8b76-4743-8d4b-af00fff2507a",
+      "title": "Bongee Bear and the Kingdom of Rhythm",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "bongee-bear-and-the-kingdom-of-rhythm",
+      "has_reactions": false
+    },
+    {
+      "id": "2cb0709e-5c69-459f-89ce-85f3fc081314",
+      "title": "The Painted Bird",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-painted-bird",
+      "has_reactions": false
+    },
+    {
+      "id": "7fb105bd-30a8-4509-bbca-07f0627576ab",
+      "title": "The Garden of Evening Mists",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-garden-of-evening-mists",
+      "has_reactions": false
+    },
+    {
+      "id": "4cb0d298-2ad0-43e6-aa7e-3065958396b3",
+      "title": "A Nasty Piece of Work",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "a-nasty-piece-of-work",
+      "has_reactions": false
+    },
+    {
+      "id": "5ce53d54-4135-4e81-afc4-0856372dc415",
+      "title": "Yeh Ballet",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "yeh-ballet",
+      "has_reactions": false
+    },
+    {
+      "id": "99ecf930-32a3-48cf-bd1d-194e51167dc3",
+      "title": "Benediction",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "benediction",
+      "has_reactions": false
+    },
+    {
+      "id": "40a5bca8-e2c2-458a-87cc-e0cca86552ac",
+      "title": "The Ghosts of Monday",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-ghosts-of-monday",
+      "has_reactions": false
+    },
+    {
+      "id": "f843229a-0ea5-4244-8ae7-895d23a958cc",
+      "title": "Double Soul",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "double-soul",
+      "has_reactions": false
+    },
+    {
+      "id": "a35d3963-e6df-4d40-8923-8704782100fc",
+      "title": "Seneca",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "seneca",
+      "has_reactions": false
+    },
+    {
+      "id": "785f89f4-954b-4ea4-9515-3a45274eba16",
+      "title": "The Piper",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-piper",
+      "has_reactions": false
+    },
+    {
+      "id": "2223e171-4e25-4302-b329-7b20c62c43e3",
+      "title": "The Darkside of Society",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-darkside-of-society",
+      "has_reactions": false
+    },
+    {
+      "id": "bc371362-0467-4f0d-b9fe-4624f200e81a",
+      "title": "Body Odyssey",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "body-odyssey",
+      "has_reactions": false
+    },
+    {
+      "id": "30185951-7ab7-4193-baf0-51ba0440170a",
+      "title": "The Last Breath",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-last-breath",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "id": "daa43405-a00f-4a65-bc69-0b19f0ec574e",
+  "name": "Jack McGee",
+  "slug": "jack-mcgee",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg",
+  "filmography": [
+    {
+      "id": "ce9c885a-3b8b-46c8-853c-b05f6f6fb5cc",
+      "title": "Shy People",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "shy-people",
+      "has_reactions": false
+    },
+    {
+      "id": "76f180c5-2b20-41ce-b69d-3c0440f21a1b",
+      "title": "Someone to Watch Over Me",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "someone-to-watch-over-me",
+      "has_reactions": false
+    },
+    {
+      "id": "068f6c58-aed4-4efd-8a6b-91c9f4a8b566",
+      "title": "The Hidden",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-hidden",
+      "has_reactions": false
+    },
+    {
+      "id": "1da4c190-fbee-43d8-b5f4-73ce276f7e61",
+      "title": "Magic Sticks",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "magic-sticks",
+      "has_reactions": false
+    },
+    {
+      "id": "ff946844-2708-4a4f-b7a9-2366bc9ad467",
+      "title": "Scrooged",
+      "release_year": 1988,
+      "studio_label": "Paramount Pictures",
+      "slug": "scrooged",
+      "has_reactions": true
+    },
+    {
+      "id": "cd9e81d1-488e-4d4c-84e3-a54a222155ed",
+      "title": "The Beat",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-beat",
+      "has_reactions": false
+    },
+    {
+      "id": "8c0d55f7-85a2-47cd-8dd6-b5dee3f9fbc5",
+      "title": "Born on the Fourth of July",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "born-on-the-fourth-of-july",
+      "has_reactions": true
+    },
+    {
+      "id": "2cf68ac5-d586-425e-847c-74dfe1d4cd7a",
+      "title": "Lethal Weapon 2",
+      "release_year": 1989,
+      "studio_label": "Silver Pictures",
+      "slug": "lethal-weapon-2",
+      "has_reactions": true
+    },
+    {
+      "id": "ced64dc5-60b5-42be-a7b9-49860b2267cb",
+      "title": "Three Fugitives",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "three-fugitives",
+      "has_reactions": false
+    },
+    {
+      "id": "9f92be7e-9ae4-44e7-816d-930d47a97dec",
+      "title": "Waiting for the Light",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "waiting-for-the-light",
+      "has_reactions": false
+    },
+    {
+      "id": "6f13df0a-38a7-4942-94bc-fd760cdabacd",
+      "title": "Crash and Burn",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "crash-and-burn",
+      "has_reactions": false
+    },
+    {
+      "id": "244e0462-cf49-4219-bf15-b536be0ca0bb",
+      "title": "The End of Innocence",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-end-of-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "87e1c1ac-14fc-4668-be79-6d0c404d4ed3",
+      "title": "Backdraft",
+      "release_year": 1991,
+      "studio_label": "Trilogy Entertainment Group",
+      "slug": "backdraft",
+      "has_reactions": true
+    },
+    {
+      "id": "600a123a-8353-4abb-acf7-b64973132161",
+      "title": "Mimi & Me",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mimi-me",
+      "has_reactions": false
+    },
+    {
+      "id": "d10cb6c0-fafc-428b-9cb3-0029d7d06efc",
+      "title": "The Doors",
+      "release_year": 1991,
+      "studio_label": "Carolco Pictures",
+      "slug": "the-doors",
+      "has_reactions": true
+    },
+    {
+      "id": "f1e2a515-4a2e-474e-b2f9-2ff334957335",
+      "title": "Lethal Weapon 3",
+      "release_year": 1992,
+      "studio_label": "Silver Pictures",
+      "slug": "lethal-weapon-3",
+      "has_reactions": true
+    },
+    {
+      "id": "b6f22367-fe39-4e38-9fe5-f827f152efaa",
+      "title": "Basic Instinct",
+      "release_year": 1992,
+      "studio_label": "Carolco Pictures",
+      "slug": "basic-instinct",
+      "has_reactions": true
+    },
+    {
+      "id": "0dd96e1b-9256-4f67-b206-e4374f87d1d7",
+      "title": "Miracle on 34th Street",
+      "release_year": 1994,
+      "studio_label": "20th Century Fox",
+      "slug": "miracle-on-34th-street",
+      "has_reactions": true
+    },
+    {
+      "id": "e5b4c89e-2e32-47b1-9058-7c601470ce46",
+      "title": "Jury Duty",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "jury-duty",
+      "has_reactions": false
+    },
+    {
+      "id": "689390bd-7bea-44a8-a6f3-e79ef1cb6402",
+      "title": "Showgirls",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "showgirls",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b9ae23-9729-4186-be06-043ba6d66b58",
+      "title": "The Last Days of Frankie the Fly",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-last-days-of-frankie-the-fly",
+      "has_reactions": false
+    },
+    {
+      "id": "36ecfc22-d131-45b2-81d4-e4814043cafb",
+      "title": "Breakdown",
+      "release_year": 1997,
+      "studio_label": "The De Laurentiis Company",
+      "slug": "breakdown",
+      "has_reactions": false
+    },
+    {
+      "id": "d7512c0c-41d8-49bb-b0f7-75b0d7a7f254",
+      "title": "Jungle 2 Jungle",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "jungle-2-jungle",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ed5a78-c78b-4415-89fc-c2988952116a",
+      "title": "A Simple Wish",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-simple-wish",
+      "has_reactions": false
+    },
+    {
+      "id": "30f944f6-4bc3-4035-b939-2d33403cd092",
+      "title": "I Love You, Don't Touch Me!",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-don-t-touch-me",
+      "has_reactions": false
+    },
+    {
+      "id": "c71500d5-bdbe-449e-bf5e-99b70a6d0707",
+      "title": "Chairman of the Board",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "chairman-of-the-board",
+      "has_reactions": false
+    },
+    {
+      "id": "91f3c118-e1d1-4f0e-b964-10a79799d00b",
+      "title": "The Big Day",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-big-day",
+      "has_reactions": false
+    },
+    {
+      "id": "9f1425f3-e3de-4303-8fc5-c1644c07006f",
+      "title": "Standing on Fishes",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "standing-on-fishes",
+      "has_reactions": false
+    },
+    {
+      "id": "b4af78fa-fb5f-45fd-98fb-e2910ecece4e",
+      "title": "The Darwin Conspiracy",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-darwin-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "9dc0993d-27df-467b-8350-554840930b8a",
+      "title": "Treehouse Hostage",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "treehouse-hostage",
+      "has_reactions": false
+    },
+    {
+      "id": "031b5045-1a32-4768-98d5-22d3efd16485",
+      "title": "The Out-of-Towners",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-out-of-towners",
+      "has_reactions": false
+    },
+    {
+      "id": "97df5f04-f6e2-4567-945c-2554b3b214f9",
+      "title": "Very Mean Men",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "very-mean-men",
+      "has_reactions": false
+    },
+    {
+      "id": "813e3787-e02d-47c8-8439-08dd98d9432c",
+      "title": "Thirteen Days",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "thirteen-days",
+      "has_reactions": true
+    },
+    {
+      "id": "a6dc11eb-71be-49ca-9511-f752958f6077",
+      "title": "Fatal Blade",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "fatal-blade",
+      "has_reactions": false
+    },
+    {
+      "id": "d76ad8f1-212e-462f-b097-b169cd4f4e7a",
+      "title": "The Prophecy 3: The Ascent",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-prophecy-3-the-ascent",
+      "has_reactions": false
+    },
+    {
+      "id": "e96141fe-b760-4bc4-b79f-b48b32d380aa",
+      "title": "Living in Fear",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "living-in-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "26400f6d-594f-4493-87f7-b5cbb8649603",
+      "title": "Early Bird Special",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "early-bird-special",
+      "has_reactions": false
+    },
+    {
+      "id": "7b2d5eb7-a27d-4699-bcfe-0d9d58fcb841",
+      "title": "Air Rage",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "air-rage",
+      "has_reactions": false
+    },
+    {
+      "id": "bf205712-5ed8-4623-ba02-41e0f5b40699",
+      "title": "Little John",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "little-john",
+      "has_reactions": false
+    },
+    {
+      "id": "8b9a1ced-a1be-472a-9558-ebc5a44f8218",
+      "title": "L.A. Confidential",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "l-a-confidential",
+      "has_reactions": false
+    },
+    {
+      "id": "bc6aa9f5-4e57-4f99-a187-2aa52f481395",
+      "title": "Soccer Dog 2: European Cup",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "soccer-dog-2-european-cup",
+      "has_reactions": false
+    },
+    {
+      "id": "7cb3d50f-ba2e-48f9-9bb6-17c69cf4dab3",
+      "title": "Crash",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "crash",
+      "has_reactions": false
+    },
+    {
+      "id": "b7be230c-03ae-48cb-9875-b5126803f531",
+      "title": "Domino",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "domino",
+      "has_reactions": false
+    },
+    {
+      "id": "764ab580-8e84-48f2-9210-b21692a5c9b1",
+      "title": "Open Season",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "open-season",
+      "has_reactions": false
+    },
+    {
+      "id": "60778ff4-9126-4beb-b90f-c3376b650c51",
+      "title": "Tyrannosaurus Azteca",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "tyrannosaurus-azteca",
+      "has_reactions": false
+    },
+    {
+      "id": "b0d5168b-2597-4e0a-8a54-eb4ef12e3048",
+      "title": "Boiler Maker",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "boiler-maker",
+      "has_reactions": false
+    },
+    {
+      "id": "81e0fa53-045d-49ac-9dfc-9dc66d13d158",
+      "title": "21",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "21",
+      "has_reactions": false
+    },
+    {
+      "id": "0af5dacf-0d6d-4d42-8682-bca7c8d2f0fc",
+      "title": "The International",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-international",
+      "has_reactions": false
+    },
+    {
+      "id": "f61adef7-bab1-4550-ae72-b779711820d6",
+      "title": "The Fighter",
+      "release_year": 2010,
+      "studio_label": "The Weinstein Company",
+      "slug": "the-fighter",
+      "has_reactions": true
+    },
+    {
+      "id": "de00d42d-478e-42ec-bd4f-8be3ee4aac1e",
+      "title": "Marmaduke",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "marmaduke",
+      "has_reactions": false
+    },
+    {
+      "id": "ff1c0841-fc51-4021-bb7e-f57b90d4075e",
+      "title": "TRON: Legacy",
+      "release_year": 2010,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "tron-legacy",
+      "has_reactions": true
+    },
+    {
+      "id": "5d9ed408-6766-42cf-9df7-b546d8143a04",
+      "title": "Drive Angry",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "drive-angry",
+      "has_reactions": false
+    },
+    {
+      "id": "330e4166-8052-4acd-823e-d3a302bf5efb",
+      "title": "Moneyball",
+      "release_year": 2011,
+      "studio_label": "Scott Rudin Productions",
+      "slug": "moneyball",
+      "has_reactions": true
+    },
+    {
+      "id": "3e40f655-6730-4d82-a77e-7fefc7c564a1",
+      "title": "Falling Uphill",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "falling-uphill",
+      "has_reactions": false
+    },
+    {
+      "id": "6d72b76c-2bb1-41b1-979e-31d38f6eddb8",
+      "title": "The Wolves of Savin Hill",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-wolves-of-savin-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "c2db8105-0d0a-40ad-84cd-5ee95d678808",
+      "title": "Just Before I Go",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "just-before-i-go",
+      "has_reactions": false
+    },
+    {
+      "id": "7f9747f7-352e-4775-a48c-2c3531a587ed",
+      "title": "Lord of the Freaks",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lord-of-the-freaks",
+      "has_reactions": false
+    },
+    {
+      "id": "3b9d3b90-336a-40cd-a2e8-d66d27b13bff",
+      "title": "Talents",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "talents",
+      "has_reactions": false
+    },
+    {
+      "id": "d8d9544c-7d3e-4164-adcd-2a9dbda60de7",
+      "title": "Father Figures",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "father-figures",
+      "has_reactions": false
+    },
+    {
+      "id": "1b97a5c3-0d0d-4a06-b666-78ec48ba96e1",
+      "title": "Paint It Red",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "paint-it-red",
+      "has_reactions": false
+    },
+    {
+      "id": "f92ec52a-22d6-41ca-88a3-1dabd634ff15",
+      "title": "Last Call",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "last-call",
+      "has_reactions": false
+    },
+    {
+      "id": "2251c099-70e6-4353-a3bb-9111d4a257f9",
+      "title": "Christmas vs The Walters",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "christmas-vs-the-walters",
+      "has_reactions": false
+    },
+    {
+      "id": "dfde992d-761a-4bd2-9034-6ca159421704",
+      "title": "Blue Call",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "blue-call",
+      "has_reactions": false
+    },
+    {
+      "id": "30c919df-2a43-488b-a5ce-12fd43d6ea35",
+      "title": "Road to Terzetto",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "road-to-terzetto",
+      "has_reactions": false
+    },
+    {
+      "id": "856484eb-f797-40a9-9952-89cb819c7a06",
+      "title": "A Place in the Field",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-place-in-the-field",
+      "has_reactions": false
+    },
+    {
+      "id": "265360a3-8865-40b7-a75e-2fccfbe40b9b",
+      "title": "Involuntary",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "involuntary",
+      "has_reactions": false
+    }
+  ]
+}

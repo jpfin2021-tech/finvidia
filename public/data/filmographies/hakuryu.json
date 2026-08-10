@@ -1,0 +1,776 @@
+{
+  "id": "64edc5cf-756b-405e-87f5-4065f3bf63f9",
+  "name": "Hakuryu",
+  "slug": "hakuryu",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ctViA2wxjqto8SWpFKJhMS1u6BC.jpg",
+  "filmography": [
+    {
+      "id": "88d4cf9b-9205-41a6-9c68-7c0b6ec2e091",
+      "title": "Violent Cop",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "violent-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "9d3e2be2-a835-4e28-a210-8978d1dad7bc",
+      "title": "The Tusk of Evil",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-tusk-of-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "0bd25e45-4a9b-4288-b400-177c980aef2d",
+      "title": "Can You Collect It?",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "can-you-collect-it",
+      "has_reactions": false
+    },
+    {
+      "id": "850c966f-a744-474a-837f-0cc82e945a82",
+      "title": "Can you collect it? 2",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "can-you-collect-it-2",
+      "has_reactions": false
+    },
+    {
+      "id": "5db0fb1b-febe-4f9e-a60e-563ba7e27888",
+      "title": "Can you collect it? Complete",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "can-you-collect-it-complete",
+      "has_reactions": false
+    },
+    {
+      "id": "715d0383-2991-4951-9b01-5c746f01d90a",
+      "title": "XX: Beautiful Beast",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "xx-beautiful-beast",
+      "has_reactions": false
+    },
+    {
+      "id": "88aa1dca-550e-4148-8758-f13a05cc2bab",
+      "title": "Will You Die in the Chinpira Dream Chara!",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "will-you-die-in-the-chinpira-dream-chara",
+      "has_reactions": false
+    },
+    {
+      "id": "a5ed3945-ff48-4ec0-9f44-790e3a5522e6",
+      "title": "Getting Any?",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "getting-any",
+      "has_reactions": false
+    },
+    {
+      "id": "6abadeb6-66e5-44ef-abaf-c1b07e001daa",
+      "title": "Ando Gumi Gaiden Genealogy of the Group Wolf",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ando-gumi-gaiden-genealogy-of-the-group-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "bc86f161-c846-447b-b6bf-f410d08ef097",
+      "title": "Shura ga Yuku 4",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "shura-ga-yuku-4",
+      "has_reactions": false
+    },
+    {
+      "id": "0650c60f-90f7-4546-bf78-4fd52fc5c576",
+      "title": "Road to the Don 2",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7b5e82dc-31f2-4a16-a377-a62efdb7aab3",
+      "title": "Road to the Don 3",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-3",
+      "has_reactions": false
+    },
+    {
+      "id": "e05b9ca0-19d2-446e-b748-607c7aa8a6c9",
+      "title": "Road to the Don",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don",
+      "has_reactions": false
+    },
+    {
+      "id": "bf835f53-a89b-4165-9d7e-c8fc813a46ed",
+      "title": "Road to the Don 5",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-5",
+      "has_reactions": false
+    },
+    {
+      "id": "74f0d4a4-6164-4f6c-8869-79d04fe57de7",
+      "title": "Ando Gumi Gaiden Genealogy of the Group Wolf 2",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "ando-gumi-gaiden-genealogy-of-the-group-wolf-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f230c0-38db-45cd-8a94-ffa37f4739a8",
+      "title": "Road to the Don 4",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-4",
+      "has_reactions": false
+    },
+    {
+      "id": "a40bb3bb-49e0-423c-8503-8ac8564860d6",
+      "title": "Road to the Don 8",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-8",
+      "has_reactions": false
+    },
+    {
+      "id": "c4fa6320-2842-4934-a60c-1914e41c4fbd",
+      "title": "Road to the Don 7",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-7",
+      "has_reactions": false
+    },
+    {
+      "id": "34543d2f-9cdc-49a9-aedb-7f0481959cd0",
+      "title": "Road to the Don 6",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-6",
+      "has_reactions": false
+    },
+    {
+      "id": "8143d935-19b8-4601-8539-24d4a6606dda",
+      "title": "Organized Violence: Blood for Blood 2",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "organized-violence-blood-for-blood-2",
+      "has_reactions": false
+    },
+    {
+      "id": "339a62a5-84af-41a6-b148-5a2f09815ace",
+      "title": "Black Jack",
+      "release_year": 2000,
+      "studio_label": "TBS",
+      "slug": "black-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "60e6d5a9-de15-46a0-b2cb-1ec6c46c4955",
+      "title": "Road to the Don 11",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-11",
+      "has_reactions": false
+    },
+    {
+      "id": "cbd807a2-8521-40b3-ba83-98ebb709e50f",
+      "title": "Road to the Don 10",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-10",
+      "has_reactions": false
+    },
+    {
+      "id": "d48df660-4bc7-4bcc-9567-aff7ec81065c",
+      "title": "Road to the Don 14",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-14",
+      "has_reactions": false
+    },
+    {
+      "id": "9a420c0b-6e00-4760-b146-0e06c29a09f9",
+      "title": "Road to the Don 12",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-12",
+      "has_reactions": false
+    },
+    {
+      "id": "4e0c9260-f5fa-4751-80e5-3edf6ed8b95d",
+      "title": "Road to the Don 13",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-13",
+      "has_reactions": false
+    },
+    {
+      "id": "50f2b877-f21c-48b2-ac0c-d9b2d477119c",
+      "title": "Ando Gumi Gaiden Genealogy of the Group Wolf 5",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ando-gumi-gaiden-genealogy-of-the-group-wolf-5",
+      "has_reactions": false
+    },
+    {
+      "id": "f6da3935-dbab-4b88-b3cb-41eaa514ba3f",
+      "title": "Ando Gumi Gaiden Genealogy of the Group Wolf 4",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ando-gumi-gaiden-genealogy-of-the-group-wolf-4",
+      "has_reactions": false
+    },
+    {
+      "id": "7462fca2-ae65-4f4b-85d4-117cba119b64",
+      "title": "Road to the Don 16",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-16",
+      "has_reactions": false
+    },
+    {
+      "id": "5193ca1d-e851-4f15-8a8d-05bf0c414206",
+      "title": "Road to the Don 15",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-15",
+      "has_reactions": false
+    },
+    {
+      "id": "06e77fc5-513a-4be3-901d-f94ce4b28203",
+      "title": "Road to the Don 19",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-19",
+      "has_reactions": false
+    },
+    {
+      "id": "74bef0d1-b850-4307-9927-cfd59ec3b17d",
+      "title": "Road to the Don 17",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-17",
+      "has_reactions": false
+    },
+    {
+      "id": "f2f58013-0fe2-4d73-97a3-fad0fe612739",
+      "title": "Road to the Don 18",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-18",
+      "has_reactions": false
+    },
+    {
+      "id": "712d0b4b-f2d2-4f26-95e8-7bfe47e48c11",
+      "title": "Road to the Don 20",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-20",
+      "has_reactions": false
+    },
+    {
+      "id": "2c8bfcea-c22f-4225-be62-98aa274fe563",
+      "title": "Road to the Don 21",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-21",
+      "has_reactions": false
+    },
+    {
+      "id": "096b9444-159a-4c9e-9f75-276f21d99c47",
+      "title": "Road to the Don 22",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-22",
+      "has_reactions": false
+    },
+    {
+      "id": "28bd993f-0a45-49d4-9939-7cae5186c8c8",
+      "title": "Road to the Don Theatrical Version",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-theatrical-version",
+      "has_reactions": false
+    },
+    {
+      "id": "ae42a0c9-4d52-4410-9496-385e566cac0c",
+      "title": "Road to the Don 23",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-23",
+      "has_reactions": false
+    },
+    {
+      "id": "becd3563-a3f3-4aab-a3d6-1675f4ff3b7d",
+      "title": "Road to the Don Gaiden White Tiger Conference",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-gaiden-white-tiger-conference",
+      "has_reactions": false
+    },
+    {
+      "id": "ed4a34cf-6931-40d6-9a9d-83eb40152517",
+      "title": "Road to the Don 24",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-24",
+      "has_reactions": false
+    },
+    {
+      "id": "6d2cbc98-308b-4a1c-bfd8-380af818b54b",
+      "title": "Road to the Don Final",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-don-final",
+      "has_reactions": false
+    },
+    {
+      "id": "e06d5316-a431-4889-832d-d74842a7ea24",
+      "title": "Black Belt",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "black-belt",
+      "has_reactions": false
+    },
+    {
+      "id": "0f3913b3-93a9-4757-b97a-f92679e33eab",
+      "title": "Yakuza no daimon",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "yakuza-no-daimon",
+      "has_reactions": false
+    },
+    {
+      "id": "8559dc7f-8d8c-4e77-a9b9-4d74da0b267e",
+      "title": "Yakuza Emblem Chapter 2",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-2",
+      "has_reactions": false
+    },
+    {
+      "id": "bb3c1c71-5d4f-41e1-919c-d862fa35f42f",
+      "title": "Yakuza Emblem: Chapter 3",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-3",
+      "has_reactions": false
+    },
+    {
+      "id": "a4c545f3-e6d4-4c0e-97ae-1c7909e4c4e9",
+      "title": "Blackmail Ichidaiki",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "blackmail-ichidaiki",
+      "has_reactions": false
+    },
+    {
+      "id": "ee49a887-1835-4068-854d-d0785a6d9664",
+      "title": "Yakuza Emblem: Chapter 5",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-5",
+      "has_reactions": false
+    },
+    {
+      "id": "540745cf-d4a6-4401-a1da-ee2c6a15d5eb",
+      "title": "Yakuza Emblem: Chapter 4",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-4",
+      "has_reactions": false
+    },
+    {
+      "id": "b09844ba-fdea-4c27-93e3-79bcb2c3a344",
+      "title": "Yakuza Emblem: Chapter 8",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-8",
+      "has_reactions": false
+    },
+    {
+      "id": "8642fd04-61cd-404c-afac-320a460f09b1",
+      "title": "Yakuza Emblem: Chapter 6",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-6",
+      "has_reactions": false
+    },
+    {
+      "id": "30a72db6-bb25-4357-8e1b-fe27108d54bb",
+      "title": "Yakuza Emblem: Chapter 7",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-7",
+      "has_reactions": false
+    },
+    {
+      "id": "945de08d-832d-45d3-bbf8-a33e87e6a596",
+      "title": "Unification of Shura",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "unification-of-shura",
+      "has_reactions": false
+    },
+    {
+      "id": "61641c01-f9d8-4ca1-990f-587d7f3a1ff7",
+      "title": "Blackmail Ichidaiki: Chapter 2",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "blackmail-ichidaiki-chapter-2",
+      "has_reactions": false
+    },
+    {
+      "id": "22f2d35c-ed89-4a6c-9b1c-4d5ccfc224ec",
+      "title": "Yakuza Emblem: Chapter 9",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-9",
+      "has_reactions": false
+    },
+    {
+      "id": "eab1c364-ca2b-489e-8a28-77bdb237b459",
+      "title": "Yakuza Emblem: Chapter 10",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-chapter-10",
+      "has_reactions": false
+    },
+    {
+      "id": "a18457fb-ae5d-4ad5-9822-ea4cd35c53a4",
+      "title": "Unification of Shura: Final Edition",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "unification-of-shura-final-edition",
+      "has_reactions": false
+    },
+    {
+      "id": "13d62b4e-47aa-4f46-914b-8f69036259cd",
+      "title": "Protect the President",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "protect-the-president",
+      "has_reactions": false
+    },
+    {
+      "id": "17608af8-30da-40cc-8729-42dbfd6e069c",
+      "title": "\u60aa\uff08\u30ef\u30eb\uff09\u3068\u547c\u3070\u308c\u305f\u7537",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "ec7f037d-5f5a-4c1c-a6de-73794dd597fb",
+      "title": "Don's Road",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "don-s-road",
+      "has_reactions": false
+    },
+    {
+      "id": "dc609f1a-90f5-442c-929e-cf24f55402e8",
+      "title": "SAMURAI",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "samurai",
+      "has_reactions": false
+    },
+    {
+      "id": "831a8e13-7dc0-4457-94bb-5e824dd9a471",
+      "title": "Immovable Humanity",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "immovable-humanity",
+      "has_reactions": false
+    },
+    {
+      "id": "d7743ba7-9088-4a45-b8f6-64f61d3feb9e",
+      "title": "Proxy War Yakuza x Korean Mafia",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "proxy-war-yakuza-x-korean-mafia",
+      "has_reactions": false
+    },
+    {
+      "id": "69bfa663-1510-4a06-8c23-f876c2296c26",
+      "title": "Strongest Independent Organization",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "strongest-independent-organization",
+      "has_reactions": false
+    },
+    {
+      "id": "814a603a-7473-42cb-aaf0-87b9e32e5527",
+      "title": "Conquest 2",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "conquest-2",
+      "has_reactions": false
+    },
+    {
+      "id": "4d8569cb-fc39-41d7-8280-b21db94c5bb8",
+      "title": "Daimon Graveyard",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard",
+      "has_reactions": false
+    },
+    {
+      "id": "56cd64f3-af23-42f3-80af-dd01914eed7d",
+      "title": "Kanto Gangster Federation: Chapter 5",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "kanto-gangster-federation-chapter-5",
+      "has_reactions": false
+    },
+    {
+      "id": "a1600bbe-c457-4f42-a6aa-4d023c3a1292",
+      "title": "Daimon Graveyard 2",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-2",
+      "has_reactions": false
+    },
+    {
+      "id": "4a8298a8-6740-4126-835e-c5a973e5bd94",
+      "title": "Kanto Gangster Federation: Chapter 4",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "kanto-gangster-federation-chapter-4",
+      "has_reactions": false
+    },
+    {
+      "id": "45f6a39d-2abb-4d39-b478-d74b9afed6a9",
+      "title": "Daimon Graveyard 4",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-4",
+      "has_reactions": false
+    },
+    {
+      "id": "5f10f9fd-2904-48fd-90f7-ae1a4a9e89bc",
+      "title": "Daimon Graveyard 3",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-3",
+      "has_reactions": false
+    },
+    {
+      "id": "6b9e97aa-f8eb-4686-b1b6-e221fc95cc79",
+      "title": "Conquest 5",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "conquest-5",
+      "has_reactions": false
+    },
+    {
+      "id": "cb921207-ade1-4c6a-996c-19c347df1d83",
+      "title": "Unification Of Japan 16",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "unification-of-japan-16",
+      "has_reactions": false
+    },
+    {
+      "id": "1d790dc5-35cb-4c43-90e8-e9e9ee723b1c",
+      "title": "Unification Of Japan 19",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "unification-of-japan-19",
+      "has_reactions": false
+    },
+    {
+      "id": "de58b2c1-656c-42db-81f3-ac364cd2c9fa",
+      "title": "Unification Of Japan 18",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "unification-of-japan-18",
+      "has_reactions": false
+    },
+    {
+      "id": "f6832cb3-c38d-4561-b1d1-6aa39e020eff",
+      "title": "Conquest 6",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "conquest-6",
+      "has_reactions": false
+    },
+    {
+      "id": "f709fea3-3749-41eb-abe7-3a6d1e567fe8",
+      "title": "Conquest 8",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "conquest-8",
+      "has_reactions": false
+    },
+    {
+      "id": "4b665313-0c48-4528-b9b8-c01b6d773973",
+      "title": "Conquest 7",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "conquest-7",
+      "has_reactions": false
+    },
+    {
+      "id": "5f73e3e7-585e-4c90-bf85-38bf678c525d",
+      "title": "Conquest 4",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "conquest-4",
+      "has_reactions": false
+    },
+    {
+      "id": "f5becb0d-67c1-4c0e-bc6a-fdb46d413a6e",
+      "title": "Unification Of Japan 15",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "unification-of-japan-15",
+      "has_reactions": false
+    },
+    {
+      "id": "19633895-9321-4c6c-ac1a-b38d3953f733",
+      "title": "Daimon Graveyard 7",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-7",
+      "has_reactions": false
+    },
+    {
+      "id": "9a6761a0-5424-4952-83c6-a0767c1f1a13",
+      "title": "Daimon Graveyard 8",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-8",
+      "has_reactions": false
+    },
+    {
+      "id": "f65d94ee-3f78-46de-b136-02666d9e1fd4",
+      "title": "Daimon Graveyard 5",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-5",
+      "has_reactions": false
+    },
+    {
+      "id": "2b16c6da-d361-48f2-8ecb-085edad5940a",
+      "title": "Daimon Graveyard 6",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "daimon-graveyard-6",
+      "has_reactions": false
+    },
+    {
+      "id": "bf38ad75-b181-4d73-a342-d34ffa774b2b",
+      "title": "Gokudo Apocalypse",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "gokudo-apocalypse",
+      "has_reactions": false
+    },
+    {
+      "id": "2db331fd-7b71-4add-927c-f6dac6971f84",
+      "title": "Unification Of Japan 20",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "unification-of-japan-20",
+      "has_reactions": false
+    },
+    {
+      "id": "18f312a3-7a8e-43e5-bcfc-6ee9ebe555a3",
+      "title": "Gokudo Apocalypse Chapter 3",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "gokudo-apocalypse-chapter-3",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b07da6-0647-481c-ac27-5275f03d4550",
+      "title": "Yakuza Emblem Legend: Chapter 5",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-5",
+      "has_reactions": false
+    },
+    {
+      "id": "ab6707fe-9305-4c29-b0df-fef751397086",
+      "title": "Yakuza Emblem Legend: Chapter 4",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-4",
+      "has_reactions": false
+    },
+    {
+      "id": "afc1bb5c-c9c2-4b9f-9ad3-5c6ccf107faa",
+      "title": "Yakuza Emblem Legend",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "3d83f0d7-d514-48aa-978c-9655864cf1c3",
+      "title": "Yakuza Emblem Legend: Chapter 2",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a75bdbb9-2618-48d8-80ab-3c4991e446a2",
+      "title": "Yakuza Emblem Legend: Chapter 6",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-6",
+      "has_reactions": false
+    },
+    {
+      "id": "ca95551f-d31d-4926-8644-2275cd3f83c1",
+      "title": "Yakuza Emblem Legend: Chapter 3",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-3",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca5faad-7679-47d5-ad2e-2d24e644f548",
+      "title": "Yakuza Emblem Legend: Chapter 9",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-9",
+      "has_reactions": false
+    },
+    {
+      "id": "2b88eedc-dc71-483f-bc28-9c9eaedea2ee",
+      "title": "Yakuza Emblem Legend: Chapter 7",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-7",
+      "has_reactions": false
+    },
+    {
+      "id": "728916ae-a3c6-4cc0-a95a-593040531af5",
+      "title": "Yakuza Emblem Legend: Chapter 10",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-10",
+      "has_reactions": false
+    },
+    {
+      "id": "064cbb18-3893-420d-9475-96de587855d2",
+      "title": "Yakuza Emblem Legend: Chapter 8",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "yakuza-emblem-legend-chapter-8",
+      "has_reactions": false
+    }
+  ]
+}

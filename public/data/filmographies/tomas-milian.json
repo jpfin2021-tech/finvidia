@@ -1,0 +1,664 @@
+{
+  "id": "1c01cf2b-8fd7-4afc-b68e-926a0391615a",
+  "name": "Tomas Milian",
+  "slug": "tomas-milian",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4kJLJS71fMyiA7lD685pCtZlljR.jpg",
+  "filmography": [
+    {
+      "id": "87b41bb5-b716-43b3-a10f-d5a8f5a6f62f",
+      "title": "The Big Night",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-big-night",
+      "has_reactions": false
+    },
+    {
+      "id": "d2854a0e-0bad-4a00-a2b2-1c97abb903e6",
+      "title": "Unexpected",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "unexpected",
+      "has_reactions": false
+    },
+    {
+      "id": "2fd4f201-4c41-488d-b564-e4281b8d5452",
+      "title": "A Day for Lionhearts",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "a-day-for-lionhearts",
+      "has_reactions": false
+    },
+    {
+      "id": "7b61bd6b-f086-4bd0-aa7f-a1d57c8b3724",
+      "title": "Day by Day, Desperately",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "day-by-day-desperately",
+      "has_reactions": false
+    },
+    {
+      "id": "33d9287c-6282-42e8-9c98-df48d2c567c8",
+      "title": "Boccaccio '70",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "boccaccio-70",
+      "has_reactions": false
+    },
+    {
+      "id": "6619af8f-1839-4b05-bc2c-284d17f3c552",
+      "title": "La banda Casaroli",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "la-banda-casaroli",
+      "has_reactions": false
+    },
+    {
+      "id": "bdcabb7f-524c-4a89-affb-a7a77bc2ec33",
+      "title": "Disorder",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "disorder",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b1520b-26d0-4261-b524-1d2604274440",
+      "title": "Ro.Go.Pa.G.",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "ro-go-pa-g",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b83272-7fbc-4ec1-b6d6-8b3f89322720",
+      "title": "Crazy Sea",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "crazy-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "133ad41b-c019-4d5a-af73-c31268ea50f1",
+      "title": "The Attic",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-attic",
+      "has_reactions": false
+    },
+    {
+      "id": "8800046f-a0b5-48b5-b27e-b09f906e8c6a",
+      "title": "Time of Indifference",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "time-of-indifference",
+      "has_reactions": false
+    },
+    {
+      "id": "2e90ab41-81d7-4583-a7ab-526aa73ca10b",
+      "title": "The Agony and the Ecstasy",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-agony-and-the-ecstasy",
+      "has_reactions": false
+    },
+    {
+      "id": "5d7f3fc7-ec90-4951-b474-bcfcbc3cb89c",
+      "title": "The Camp Followers",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-camp-followers",
+      "has_reactions": false
+    },
+    {
+      "id": "a8021e1c-0ea6-4b59-b26d-49d637c7ec1e",
+      "title": "The Ugly Ones",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-ugly-ones",
+      "has_reactions": false
+    },
+    {
+      "id": "e73be211-7f52-477c-9cb9-fd5542852667",
+      "title": "Mademoiselle de Maupin",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "mademoiselle-de-maupin",
+      "has_reactions": false
+    },
+    {
+      "id": "ee87f570-7568-4def-8952-0c8f65101bfc",
+      "title": "Face to Face",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "face-to-face",
+      "has_reactions": false
+    },
+    {
+      "id": "621eb5a8-bfe2-4113-8a4d-316ea19b8182",
+      "title": "The Big Gundown",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-big-gundown",
+      "has_reactions": false
+    },
+    {
+      "id": "e13becbb-6777-46bf-aff1-994c8b5d6549",
+      "title": "Run, Man, Run",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "run-man-run",
+      "has_reactions": false
+    },
+    {
+      "id": "155fdecc-1dda-4df1-a318-5d2b1e7f60f0",
+      "title": "The Violent Four",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-violent-four",
+      "has_reactions": false
+    },
+    {
+      "id": "44e68a5a-87dc-46b5-bcf8-3e643703d6c3",
+      "title": "Death Sentence",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "death-sentence",
+      "has_reactions": false
+    },
+    {
+      "id": "42712683-4a23-4375-bba2-748a6ac13e87",
+      "title": "Night of Hate",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "night-of-hate",
+      "has_reactions": false
+    },
+    {
+      "id": "c62219f1-9b7f-4b89-bf7d-570215f845dc",
+      "title": "Tepepa",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "tepepa",
+      "has_reactions": false
+    },
+    {
+      "id": "c2575213-3cf1-47b9-a2a5-ebce4ae86d53",
+      "title": "Where Are You Going All Naked?",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "where-are-you-going-all-naked",
+      "has_reactions": false
+    },
+    {
+      "id": "ea1a9a6b-5a84-41a8-88aa-bb898a2e6c76",
+      "title": "The Year of the Cannibals",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-year-of-the-cannibals",
+      "has_reactions": false
+    },
+    {
+      "id": "5dc79680-bfde-44dd-b623-d05be6b6b103",
+      "title": "The Conspiracy of Torture",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-conspiracy-of-torture",
+      "has_reactions": false
+    },
+    {
+      "id": "c5cbef23-73a3-4dc5-a203-39b815885b8f",
+      "title": "Viva Cangaceiro",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "viva-cangaceiro",
+      "has_reactions": false
+    },
+    {
+      "id": "f764a8fc-12bb-4589-aab1-7f7a7bb781d7",
+      "title": "Don't Torture a Duckling",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "don-t-torture-a-duckling",
+      "has_reactions": false
+    },
+    {
+      "id": "523c8649-e7ac-46cd-8a5f-f64baecdcfd3",
+      "title": "Sonny and Jed",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "sonny-and-jed",
+      "has_reactions": false
+    },
+    {
+      "id": "24268c9f-1fd5-4eec-a2b2-b3fec2f15845",
+      "title": "The Boxer",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-boxer",
+      "has_reactions": false
+    },
+    {
+      "id": "f0ac0aaa-6160-43aa-af57-acdc86441181",
+      "title": "Life Is Tough, Eh Providence?",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "life-is-tough-eh-providence",
+      "has_reactions": false
+    },
+    {
+      "id": "a5e61cd2-5af4-44cb-abd9-e5b5c1538da8",
+      "title": "Counselor at Crime",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "counselor-at-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "a0f7987c-4966-485a-bb8a-d326c9e4ee24",
+      "title": "Here We Go Again, Eh Providence?",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "here-we-go-again-eh-providence",
+      "has_reactions": false
+    },
+    {
+      "id": "09546da1-8b3e-47cd-adc6-4c798b0e227b",
+      "title": "Almost Human",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "almost-human",
+      "has_reactions": false
+    },
+    {
+      "id": "92d624fd-4259-47d4-b50b-fdb885ac2df2",
+      "title": "Emergency Squad",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "emergency-squad",
+      "has_reactions": false
+    },
+    {
+      "id": "a545f194-200c-42dc-8dec-c1b0c42e8ef1",
+      "title": "Four of the Apocalypse",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "four-of-the-apocalypse",
+      "has_reactions": false
+    },
+    {
+      "id": "73ff298e-35ec-4464-93b4-ebc6c4b4af0a",
+      "title": "Syndicate Sadists",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "syndicate-sadists",
+      "has_reactions": false
+    },
+    {
+      "id": "12f9e294-a323-4ab3-a380-d50c10f21477",
+      "title": "Mad Enough to Kill",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "mad-enough-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "89747ce9-9925-4684-9d36-354079f2e5dd",
+      "title": "The White, The Yellow, and The Black",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-white-the-yellow-and-the-black",
+      "has_reactions": false
+    },
+    {
+      "id": "59574821-739b-40f4-a846-980ee4abd4ee",
+      "title": "Silent Action",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "silent-action",
+      "has_reactions": false
+    },
+    {
+      "id": "6512232a-e728-4970-9dd0-9f73fb4d8f64",
+      "title": "The Cop in Blue Jeans",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-cop-in-blue-jeans",
+      "has_reactions": false
+    },
+    {
+      "id": "03099e10-f088-4598-944c-216d3e81ef94",
+      "title": "Hit Squad",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "hit-squad",
+      "has_reactions": false
+    },
+    {
+      "id": "33d147b1-a50a-4885-a175-d263126be5e3",
+      "title": "Free Hand for a Tough Cop",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "free-hand-for-a-tough-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "924f0a11-e9d3-44b8-8d34-b98f54d77a13",
+      "title": "Sex with a Smile",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "sex-with-a-smile",
+      "has_reactions": false
+    },
+    {
+      "id": "02f57911-e208-4501-ac97-ecaedb4af620",
+      "title": "Rome, Armed to the Teeth",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "rome-armed-to-the-teeth",
+      "has_reactions": false
+    },
+    {
+      "id": "ce336296-407d-43cc-b080-17f4281b19ac",
+      "title": "The Twist",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "940b4f32-6b38-437e-8c86-564594c98de9",
+      "title": "Young, Violent, Dangerous",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "young-violent-dangerous",
+      "has_reactions": false
+    },
+    {
+      "id": "3987128f-93dc-45e8-8b9d-1456f8237f51",
+      "title": "The Swindle",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-swindle",
+      "has_reactions": false
+    },
+    {
+      "id": "94f2a52e-b07c-4a43-8650-8222401b4bbb",
+      "title": "Destruction Force",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "destruction-force",
+      "has_reactions": false
+    },
+    {
+      "id": "a32d00ec-42bc-42ff-85f5-023ade8188bf",
+      "title": "Brothers Till We Die",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "brothers-till-we-die",
+      "has_reactions": false
+    },
+    {
+      "id": "38a385bd-d1cc-46ac-a40b-0df186b79881",
+      "title": "Little Italy",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "little-italy",
+      "has_reactions": false
+    },
+    {
+      "id": "4e4d659d-24b3-4561-a389-039d8869c714",
+      "title": "The Son of the Sheik",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-son-of-the-sheik",
+      "has_reactions": false
+    },
+    {
+      "id": "1f6d05dc-048e-4c3b-918c-bd1a99506914",
+      "title": "Assassination on the Tiber",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "assassination-on-the-tiber",
+      "has_reactions": false
+    },
+    {
+      "id": "f94bba55-da4a-4721-b45d-428820808d25",
+      "title": "The Gang That Sold America",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-gang-that-sold-america",
+      "has_reactions": false
+    },
+    {
+      "id": "7f854117-5323-4faa-ae4e-9020a1734649",
+      "title": "Crime at Porta Romana",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "crime-at-porta-romana",
+      "has_reactions": false
+    },
+    {
+      "id": "95c9f841-3898-4a5f-ae94-a8d4aa0d90e8",
+      "title": "Il lupo e l'agnello",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "il-lupo-e-l-agnello",
+      "has_reactions": false
+    },
+    {
+      "id": "59f00465-7bd8-48e3-b29c-f2835e5b0cc3",
+      "title": "Manolesta",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "manolesta",
+      "has_reactions": false
+    },
+    {
+      "id": "0d8ae17e-4a8d-4772-aee2-c119357f9784",
+      "title": "Crime at the Chinese Restaurant",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "crime-at-the-chinese-restaurant",
+      "has_reactions": false
+    },
+    {
+      "id": "cc25b3cd-b4e6-4b89-b28c-77c6f785ef05",
+      "title": "Uno contro l'altro, praticamente amici",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "uno-contro-l-altro-praticamente-amici",
+      "has_reactions": false
+    },
+    {
+      "id": "d436f17d-c459-4658-b476-b6979a7d5351",
+      "title": "Crime on the Highway",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "crime-on-the-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "f5e224ed-83d2-447d-a46d-6cc6df7f1f1f",
+      "title": "Thieves and Robbers",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "thieves-and-robbers",
+      "has_reactions": false
+    },
+    {
+      "id": "e818194e-823e-4cd7-8a6b-caa0ee828ddb",
+      "title": "The Devil and Holy Water",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-devil-and-holy-water",
+      "has_reactions": false
+    },
+    {
+      "id": "36ce88a3-0af4-4a17-afd2-2b6b05ed69a1",
+      "title": "Crime in Formula One",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "crime-in-formula-one",
+      "has_reactions": false
+    },
+    {
+      "id": "8b51d5b5-13c9-4859-9ed9-41fadce555f1",
+      "title": "Cop in Drag",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "cop-in-drag",
+      "has_reactions": false
+    },
+    {
+      "id": "fe6d64db-39e2-4b79-96eb-3d8b23fc57cf",
+      "title": "Salom\u00e9",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "salom",
+      "has_reactions": false
+    },
+    {
+      "id": "1b6fce90-88ea-45ec-b57d-363fb123a21c",
+      "title": "Distant Lights",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "distant-lights",
+      "has_reactions": false
+    },
+    {
+      "id": "34d57abc-dc17-4516-a82f-e1a49ba5fe8e",
+      "title": "JFK",
+      "release_year": 1991,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "jfk",
+      "has_reactions": true
+    },
+    {
+      "id": "82b1e5e2-6d8a-4968-953e-07b9036baf5d",
+      "title": "Marilyn & Bobby: Her Final Affair",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "marilyn-bobby-her-final-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "9854897c-47f1-437b-a745-6887c3d7b869",
+      "title": "The Cowboy Way",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-cowboy-way",
+      "has_reactions": false
+    },
+    {
+      "id": "d533532d-a638-4a85-8be8-49e8173f47f1",
+      "title": "Fools Rush In",
+      "release_year": 1997,
+      "studio_label": "Columbia Pictures",
+      "slug": "fools-rush-in",
+      "has_reactions": true
+    },
+    {
+      "id": "108f44e3-dc9a-4dd1-9e82-b51fe405800f",
+      "title": "Amistad",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "amistad",
+      "has_reactions": false
+    },
+    {
+      "id": "93f092a8-4a83-4d1d-aa2f-45327ba3855a",
+      "title": "Traffic",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "7305ea56-305d-40b5-bebc-17c03f52c4cd",
+      "title": "The Yards",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-yards",
+      "has_reactions": false
+    },
+    {
+      "id": "a67c36f9-22e6-4999-b3a0-e894f88baee8",
+      "title": "For Love or Country: The Arturo Sandoval Story",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "for-love-or-country-the-arturo-sandoval-story",
+      "has_reactions": false
+    },
+    {
+      "id": "dbe02628-bc21-473b-9b8c-691b2640dc09",
+      "title": "In the Company of Compa\u00f1eros",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "in-the-company-of-compa-eros",
+      "has_reactions": false
+    },
+    {
+      "id": "79c8dd82-fa5c-4155-8619-785e1808e989",
+      "title": "Ambush",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ambush",
+      "has_reactions": false
+    },
+    {
+      "id": "45dedf0f-87b8-4dc9-b2d9-e22d16b6445e",
+      "title": "Washington Heights",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "washington-heights",
+      "has_reactions": false
+    },
+    {
+      "id": "25d4739d-ad61-45e0-819f-cba20f27fdb2",
+      "title": "Denn sie kennen kein Erbarmen - Der Italowestern",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "denn-sie-kennen-kein-erbarmen-der-italowestern",
+      "has_reactions": false
+    },
+    {
+      "id": "579fb43b-4de8-473b-852c-76c18cd9377c",
+      "title": "Roma nuda",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "roma-nuda",
+      "has_reactions": false
+    },
+    {
+      "id": "ce2b8a67-05ae-431f-a190-7ea3c28549fe",
+      "title": "I Tarantiniani",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "i-tarantiniani",
+      "has_reactions": false
+    },
+    {
+      "id": "503167e1-c8d5-4cae-82df-09e29f703792",
+      "title": "Fugly!",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "fugly",
+      "has_reactions": false
+    },
+    {
+      "id": "b0f22af3-2717-47ca-bf58-33f8e79d166b",
+      "title": "Spaghetti Western Memories",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "spaghetti-western-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "6d28bbba-fd72-4753-8022-313830631c5c",
+      "title": "We Are Cinema",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "we-are-cinema",
+      "has_reactions": false
+    }
+  ]
+}

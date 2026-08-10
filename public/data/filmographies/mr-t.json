@@ -1,0 +1,256 @@
+{
+  "id": "200dac48-53c5-4e61-938d-20635498e3dc",
+  "name": "Mr. T",
+  "slug": "mr-t",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg",
+  "filmography": [
+    {
+      "id": "cc88403a-4e4c-4251-bb60-219c25136916",
+      "title": "The Blues Brothers",
+      "release_year": 1980,
+      "studio_label": "Universal Pictures",
+      "slug": "the-blues-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "f14ab31a-afc4-490c-8428-246992bdcff7",
+      "title": "Rocky III",
+      "release_year": 1982,
+      "studio_label": "United Artists",
+      "slug": "rocky-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "ef9895d1-1822-4993-a5f8-84da02a710b1",
+      "title": "Penitentiary II",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "penitentiary-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "0a225e02-bfbc-481f-b4c7-d1071d1ea414",
+      "title": "Twilight Theatre",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "twilight-theatre",
+      "has_reactions": false
+    },
+    {
+      "id": "8fdb83e8-444f-470f-a63f-34c0ee6adc34",
+      "title": "Twilight Theater II",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "twilight-theater-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "176ed257-89c7-48e3-a10a-560e12f19351",
+      "title": "D.C. Cab",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "d-c-cab",
+      "has_reactions": false
+    },
+    {
+      "id": "acdd5768-2f2b-4f02-9689-18d7a2398ff4",
+      "title": "Be Somebody... or Be Somebody's Fool!",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "be-somebody-or-be-somebody-s-fool",
+      "has_reactions": false
+    },
+    {
+      "id": "4552411b-828c-47b1-8612-5c8a7338bd0f",
+      "title": "Back to Next Saturday",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "back-to-next-saturday",
+      "has_reactions": false
+    },
+    {
+      "id": "92ed7fb2-64dd-43bb-ad2a-9d8f0bc34474",
+      "title": "Bob Uecker's Wacky World of Sports",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "bob-uecker-s-wacky-world-of-sports",
+      "has_reactions": false
+    },
+    {
+      "id": "28de3881-3272-4027-93b9-a3f22eee1486",
+      "title": "WrestleMania II",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wrestlemania-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "49e6b087-f4e2-4d1f-b27b-6b851e7a29ba",
+      "title": "Villains of the Squared Circle",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "villains-of-the-squared-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "3a4a672e-1a2e-4a0a-97b5-9ed74c6fb157",
+      "title": "WWE Grudge Match",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wwe-grudge-match",
+      "has_reactions": false
+    },
+    {
+      "id": "396fd1ab-56d9-456d-9b83-65fb6058e4de",
+      "title": "Alice Through the Looking Glass",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "alice-through-the-looking-glass",
+      "has_reactions": false
+    },
+    {
+      "id": "6448e935-82f9-43bc-bf6c-97c0dc88c063",
+      "title": "Straight Line",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "straight-line",
+      "has_reactions": false
+    },
+    {
+      "id": "156b24a9-8dcc-4bef-bee4-c4264c9c0e80",
+      "title": "Rocky Special: Burning Youth",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "rocky-special-burning-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "71e5b8db-7a8e-4580-9c28-235b71e2e57a",
+      "title": "Rodney Dangerfield's The Really Big Show",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "rodney-dangerfield-s-the-really-big-show",
+      "has_reactions": false
+    },
+    {
+      "id": "20e315ed-babe-4ed3-acc2-84d5b9fd7fb7",
+      "title": "The Magic of the Golden Bear: Goldy III",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-magic-of-the-golden-bear-goldy-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "e128db8d-92a1-4b48-954c-bb74193f4a96",
+      "title": "Spy Hard",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "spy-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "f2745d5d-6cac-4934-a56d-934efbdbdbb2",
+      "title": "Big Brother: Number Two",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "big-brother-number-two",
+      "has_reactions": false
+    },
+    {
+      "id": "6d3e1aef-258a-46ca-a236-fb6b45025b35",
+      "title": "Inspector Gadget",
+      "release_year": 1999,
+      "studio_label": "DiC Entertainment",
+      "slug": "inspector-gadget",
+      "has_reactions": true
+    },
+    {
+      "id": "77b8bdbf-a1e2-4212-869d-9c6270d62dcc",
+      "title": "Not Another Teen Movie",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "not-another-teen-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "a857b757-269e-4520-9977-92da8fbe0a93",
+      "title": "Judgment",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "judgment",
+      "has_reactions": false
+    },
+    {
+      "id": "8673aebe-6d0c-4e7c-b40e-cf3d4b235b16",
+      "title": "NBC 75th Anniversary Special",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "nbc-75th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "7827b5dd-8dcc-40ab-93c5-7b9f13777ba6",
+      "title": "Late Night with Conan O'Brien: 10th Anniversary Special",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "late-night-with-conan-o-brien-10th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "1c92bb08-c26c-41e7-b6e9-ebcc5192b2c6",
+      "title": "The Nick and Jessica Variety Hour",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-nick-and-jessica-variety-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "7953894c-ebd8-479a-b281-ff1c07895190",
+      "title": "WWE: Hulk Hogan: The Ultimate Anthology",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wwe-hulk-hogan-the-ultimate-anthology",
+      "has_reactions": false
+    },
+    {
+      "id": "8bf80983-024d-4c7a-bf40-1c49449c9b6b",
+      "title": "Cloudy with a Chance of Meatballs",
+      "release_year": 2009,
+      "studio_label": "Sony Pictures Animation",
+      "slug": "cloudy-with-a-chance-of-meatballs",
+      "has_reactions": true
+    },
+    {
+      "id": "bb458441-1d0e-4e74-be01-2ac6008b446d",
+      "title": "WWE: The Best of Saturday Night's Main Event",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "wwe-the-best-of-saturday-night-s-main-event",
+      "has_reactions": false
+    },
+    {
+      "id": "4565b506-5106-4737-8fa6-c1fd3064330c",
+      "title": "Vice",
+      "release_year": 2018,
+      "studio_label": "Annapurna Pictures",
+      "slug": "vice",
+      "has_reactions": false
+    },
+    {
+      "id": "d5818a31-f4b1-479c-b2ee-b0a73b5c831a",
+      "title": "The Firefly Funhouse Match",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-firefly-funhouse-match",
+      "has_reactions": false
+    },
+    {
+      "id": "76adaab7-2fef-4568-a897-cbf74edd4745",
+      "title": "You Cannot Kill David Arquette",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "you-cannot-kill-david-arquette",
+      "has_reactions": false
+    }
+  ]
+}

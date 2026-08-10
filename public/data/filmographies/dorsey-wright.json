@@ -1,0 +1,40 @@
+{
+  "id": "287d043f-ba2c-4e27-beda-f6cb03eddb8a",
+  "name": "Dorsey Wright",
+  "slug": "dorsey-wright",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nRr24krQFYm8k3RU9WRE2BSp9VY.jpg",
+  "filmography": [
+    {
+      "id": "e6918e0e-2b43-46c2-afe9-6988a245f88a",
+      "title": "Hair",
+      "release_year": 1979,
+      "studio_label": "CIP Filmproduktion GmbH",
+      "slug": "hair",
+      "has_reactions": true
+    },
+    {
+      "id": "133a4f94-3699-43f5-b2bc-863c56f4d553",
+      "title": "The Warriors",
+      "release_year": 1979,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-warriors",
+      "has_reactions": true
+    },
+    {
+      "id": "1ad43801-8a5f-4a98-95aa-81e05d6b39a9",
+      "title": "Ragtime",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ragtime",
+      "has_reactions": false
+    },
+    {
+      "id": "a1e16cbd-1480-4c55-844f-c214ae9a3afb",
+      "title": "The Hotel New Hampshire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-hotel-new-hampshire",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "e5fc9970-bfdf-481a-a069-43cc5c20eb6c",
+  "name": "Juliette Lewis",
+  "slug": "juliette-lewis",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg",
+  "filmography": [
+    {
+      "id": "40367649-f10e-492a-a2f3-de838bdafc15",
+      "title": "Jesus Land",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "jesus-land",
+      "has_reactions": false
+    },
+    {
+      "id": "7fa26c04-eacd-49f4-936c-5a0e7d32fa0a",
+      "title": "Weezer: Security Threat",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "weezer-security-threat",
+      "has_reactions": false
+    },
+    {
+      "id": "dff326ee-4ee8-41bc-9ac0-96a1b2c6bc4c",
+      "title": "Lips Like Sugar",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "lips-like-sugar",
+      "has_reactions": false
+    },
+    {
+      "id": "21718787-22d2-4cfd-ba16-3e963e210ddc",
+      "title": "Home Fires",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "home-fires",
+      "has_reactions": false
+    },
+    {
+      "id": "efd58096-6b1f-43c1-b485-a6fc19818395",
+      "title": "My Stepmother Is an Alien",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "my-stepmother-is-an-alien",
+      "has_reactions": false
+    },
+    {
+      "id": "2d81bed7-226c-4c24-92b9-aac62f356242",
+      "title": "National Lampoon's Christmas Vacation",
+      "release_year": 1989,
+      "studio_label": "Hughes Entertainment",
+      "slug": "national-lampoon-s-christmas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "fc73a2e3-55f6-4626-8c62-48fb570cefe9",
+      "title": "The Runnin' Kind",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-runnin-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "185eed3c-1bc8-4d9a-a756-af32efcf33ce",
+      "title": "Meet the Hollowheads",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "meet-the-hollowheads",
+      "has_reactions": false
+    },
+    {
+      "id": "be401b66-f593-4717-84f0-254117c846de",
+      "title": "Cape Fear",
+      "release_year": 1991,
+      "studio_label": "Amblin Entertainment",
+      "slug": "cape-fear",
+      "has_reactions": true
+    },
+    {
+      "id": "f100dcc1-f453-4edd-b23c-013567196955",
+      "title": "Crooked Hearts",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "crooked-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "c8232ff1-058a-49ea-9ac7-b28f9fd76f38",
+      "title": "That Night",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "that-night",
+      "has_reactions": false
+    },
+    {
+      "id": "ec529423-ea4e-41be-8e57-e1b153382287",
+      "title": "Husbands and Wives",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "husbands-and-wives",
+      "has_reactions": false
+    },
+    {
+      "id": "3a6efffd-aea0-4d29-9c6b-4c870ce8fe62",
+      "title": "What's Eating Gilbert Grape",
+      "release_year": 1993,
+      "studio_label": "Paramount Pictures",
+      "slug": "what-s-eating-gilbert-grape",
+      "has_reactions": true
+    },
+    {
+      "id": "8081e863-9270-4785-89a9-4a41b671a4ef",
+      "title": "Romeo Is Bleeding",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "romeo-is-bleeding",
+      "has_reactions": false
+    },
+    {
+      "id": "e60aa8b2-0c98-4c2c-842d-58ff3e8a8f67",
+      "title": "Strange Days",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "strange-days",
+      "has_reactions": false
+    },
+    {
+      "id": "66da4ba3-6e45-4972-a837-15f38f802d86",
+      "title": "The Basketball Diaries",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-basketball-diaries",
+      "has_reactions": false
+    },
+    {
+      "id": "91281682-ee6c-4b07-a02e-f2799c1ff6ac",
+      "title": "From Dusk Till Dawn",
+      "release_year": 1996,
+      "studio_label": "Los Hooligans Productions",
+      "slug": "from-dusk-till-dawn",
+      "has_reactions": true
+    },
+    {
+      "id": "87848b96-d55e-4f40-95cc-4ae23613e6f3",
+      "title": "The Evening Star",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-evening-star",
+      "has_reactions": false
+    },
+    {
+      "id": "4e459206-814a-4b73-a896-b610ce7971eb",
+      "title": "Shirley Maclaine: Kicking Up Her Heels",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "shirley-maclaine-kicking-up-her-heels",
+      "has_reactions": false
+    },
+    {
+      "id": "33c9ab70-c14c-4622-9e50-03086a53fde3",
+      "title": "Full Tilt Boogie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "full-tilt-boogie",
+      "has_reactions": false
+    },
+    {
+      "id": "484ab56b-1b16-4686-8349-be9f954bb6e3",
+      "title": "Some Girl",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "some-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc2b0ef-1f70-45b5-97dc-49dec9fb33f5",
+      "title": "The 4th Floor",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-4th-floor",
+      "has_reactions": false
+    },
+    {
+      "id": "6571bf92-b482-49c7-ad16-b6d4d6e6c31f",
+      "title": "The Other Sister",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-other-sister",
+      "has_reactions": false
+    },
+    {
+      "id": "f70f6098-eaaa-4e26-bc9a-5b627433b535",
+      "title": "The Making of 'Cape Fear'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-cape-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "c289cee3-ccf9-43e3-aa32-ee4f63046ae0",
+      "title": "Picture Claire",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "picture-claire",
+      "has_reactions": false
+    },
+    {
+      "id": "70982d6c-db82-4a99-aa5c-dbfca8121fc6",
+      "title": "Gaudi Afternoon",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "gaudi-afternoon",
+      "has_reactions": false
+    },
+    {
+      "id": "4cae6f73-ae12-4884-9b28-90d843c60a5d",
+      "title": "My Louisiana Sky",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "my-louisiana-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "5ea48ff9-e7fd-4212-86da-0c42be8e4c53",
+      "title": "Room to Rent",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "room-to-rent",
+      "has_reactions": false
+    },
+    {
+      "id": "89651666-3b5d-41cf-96d2-5839360c1067",
+      "title": "Hysterical Blindness",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hysterical-blindness",
+      "has_reactions": false
+    },
+    {
+      "id": "7a704fa6-12f4-4bd9-b76b-3dd8ed7e85bc",
+      "title": "Assembling Armitage",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "assembling-armitage",
+      "has_reactions": false
+    },
+    {
+      "id": "99ec72c0-65a2-4441-82de-a519a24feb42",
+      "title": "Old School",
+      "release_year": 2003,
+      "studio_label": "The Montecito Picture Company",
+      "slug": "old-school",
+      "has_reactions": true
+    },
+    {
+      "id": "0472af18-eadb-4d35-b729-1e28fcc5ceb0",
+      "title": "Starsky & Hutch",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "starsky-hutch",
+      "has_reactions": false
+    },
+    {
+      "id": "1a351326-83bb-4972-aa98-d555e071feed",
+      "title": "Chasing Freedom",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "chasing-freedom",
+      "has_reactions": false
+    },
+    {
+      "id": "f16d9dcd-ec6d-4020-8562-6d16232167cf",
+      "title": "Daltry Calhoun",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "daltry-calhoun",
+      "has_reactions": false
+    },
+    {
+      "id": "cb60acf4-77ec-455a-83ba-d1eaf76bf2c4",
+      "title": "Aurora Borealis",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "aurora-borealis",
+      "has_reactions": false
+    },
+    {
+      "id": "b9027348-7d7a-4f95-8246-7ecb8e274eea",
+      "title": "HIM vs BAM",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "him-vs-bam",
+      "has_reactions": false
+    },
+    {
+      "id": "228e5140-c5a9-46c2-8d9c-af7728c5fa28",
+      "title": "Grilled",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "grilled",
+      "has_reactions": false
+    },
+    {
+      "id": "4e1b23f3-ffd4-4852-bf2d-13cd32b097df",
+      "title": "Catch and Release",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "catch-and-release",
+      "has_reactions": false
+    },
+    {
+      "id": "2ae79366-29d0-47f3-8a1f-3f2c6324aa6e",
+      "title": "Juliette And The Licks - Four On The Floor",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "juliette-and-the-licks-four-on-the-floor",
+      "has_reactions": false
+    },
+    {
+      "id": "57bc4e15-6767-4136-84be-8faf932ce744",
+      "title": "The Darwin Awards",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-darwin-awards",
+      "has_reactions": false
+    },
+    {
+      "id": "f6d6db6f-794b-445b-ad3f-0411c7de2e35",
+      "title": "Metropia",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "metropia",
+      "has_reactions": false
+    },
+    {
+      "id": "41de64cd-4b87-4d5d-ad9c-ac67229b498f",
+      "title": "The Switch",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-switch",
+      "has_reactions": false
+    },
+    {
+      "id": "74f53c53-6fb3-48fd-b968-ea43a5afa431",
+      "title": "Mando Diao: MTV Unplugged - Above and Beyond",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mando-diao-mtv-unplugged-above-and-beyond",
+      "has_reactions": false
+    },
+    {
+      "id": "eff6a92d-fc7d-4864-bc1d-592f9c77af73",
+      "title": "Foreverland",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "foreverland",
+      "has_reactions": false
+    },
+    {
+      "id": "1fdee2c6-aaab-43b1-93d8-d4de4bd90f40",
+      "title": "Derby Baby: A Story of Love, Addiction and Rink Rash",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "derby-baby-a-story-of-love-addiction-and-rink-rash",
+      "has_reactions": false
+    },
+    {
+      "id": "dae90b7b-df20-4627-931b-6ad19e40b624",
+      "title": "August: Osage County",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "august-osage-county",
+      "has_reactions": false
+    },
+    {
+      "id": "57a24b1b-6e66-4479-9558-2816200c6cf3",
+      "title": "Kelly & Cal",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kelly-cal",
+      "has_reactions": false
+    },
+    {
+      "id": "89eec5c3-e713-49cd-aaca-7f65cac50b23",
+      "title": "Jem and the Holograms",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "jem-and-the-holograms",
+      "has_reactions": false
+    },
+    {
+      "id": "902ee311-6c1e-43bc-9d8b-8dea897ea10f",
+      "title": "Future Relic 03",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "future-relic-03",
+      "has_reactions": false
+    },
+    {
+      "id": "f35a5cd5-ff40-4ce5-b598-a051625f578a",
+      "title": "The Second Sound Barrier",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-second-sound-barrier",
+      "has_reactions": false
+    },
+    {
+      "id": "795bdfe6-7906-4784-8300-e11c63c44192",
+      "title": "Nerve",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "nerve",
+      "has_reactions": false
+    },
+    {
+      "id": "e963cb27-7858-45c4-900c-b24fdf538de7",
+      "title": "Hard Lovin' Woman",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "hard-lovin-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "818ce9f0-027e-47d4-a22f-fb37a83d12c5",
+      "title": "Back Roads",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "back-roads",
+      "has_reactions": false
+    },
+    {
+      "id": "1e683eb0-b014-4fe1-bf68-63d85b04a65e",
+      "title": "A Million Little Pieces",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "a-million-little-pieces",
+      "has_reactions": false
+    },
+    {
+      "id": "03e5de36-cdeb-4cfd-8bd7-a6dfebeba3bb",
+      "title": "Anthem of a Teenage Prophet",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "anthem-of-a-teenage-prophet",
+      "has_reactions": false
+    },
+    {
+      "id": "628b70bc-e24c-4f87-a761-00a582ecbd54",
+      "title": "Ma",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "ma",
+      "has_reactions": false
+    },
+    {
+      "id": "0821a4ac-f131-4a65-b902-b03bfcf4a251",
+      "title": "Dreamland",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dreamland",
+      "has_reactions": false
+    },
+    {
+      "id": "dd60dea0-7705-49b2-82e0-ec4bd231cf30",
+      "title": "Music",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "music",
+      "has_reactions": false
+    },
+    {
+      "id": "33a7afe6-f1f0-4c28-bbc4-acc85ec98714",
+      "title": "Mayday",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "mayday",
+      "has_reactions": false
+    },
+    {
+      "id": "1b8f792c-e0bf-4baf-86e4-be6169bd9421",
+      "title": "Quentin Tarantino: From a Movie Buff to a Hollywood Legend",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "quentin-tarantino-from-a-movie-buff-to-a-hollywood-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "448204bc-e1b7-4179-91d2-ba0e51f15cdf",
+      "title": "The Thicket",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-thicket",
+      "has_reactions": false
+    },
+    {
+      "id": "b2b61be7-e878-4342-97f6-ff7f3048154c",
+      "title": "Over Your Dead Body",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "over-your-dead-body",
+      "has_reactions": false
+    },
+    {
+      "id": "d58df003-1e48-4929-a5f4-3060d786cf0e",
+      "title": "By Design",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "by-design",
+      "has_reactions": false
+    }
+  ]
+}

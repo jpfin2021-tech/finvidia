@@ -1,0 +1,56 @@
+{
+  "id": "b531b0fd-9faa-47e1-a0fa-24352d16ecf6",
+  "name": "Jimmy Workman",
+  "slug": "jimmy-workman",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nQFiKAEYZbb9K4TCSNDER41w8CX.jpg",
+  "filmography": [
+    {
+      "id": "d8321e37-8211-4229-acdf-0563bf560a28",
+      "title": "The Addams Family",
+      "release_year": 1991,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-addams-family",
+      "has_reactions": true
+    },
+    {
+      "id": "229ff47f-47ee-4177-8c95-b266857cdd56",
+      "title": "The Horror Hall of Fame II",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-horror-hall-of-fame-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "695d2475-cee6-4ba6-b192-d0a840dbe2ed",
+      "title": "Addams Family Values",
+      "release_year": 1993,
+      "studio_label": "Scott Rudin Productions",
+      "slug": "addams-family-values",
+      "has_reactions": true
+    },
+    {
+      "id": "205bf22b-b8bd-4983-a62a-f779ea73ec72",
+      "title": "Black Sheep",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "black-sheep",
+      "has_reactions": false
+    },
+    {
+      "id": "4467d08a-3377-4923-a88f-a3b2c0e5a0ab",
+      "title": "As Good as It Gets",
+      "release_year": 1997,
+      "studio_label": "TriStar Pictures",
+      "slug": "as-good-as-it-gets",
+      "has_reactions": true
+    },
+    {
+      "id": "5bbb03f0-e7a8-4221-a270-3f011f5ad9e6",
+      "title": "To Kill a Mockumentary",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "to-kill-a-mockumentary",
+      "has_reactions": false
+    }
+  ]
+}

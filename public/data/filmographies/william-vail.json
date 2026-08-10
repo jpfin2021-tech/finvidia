@@ -1,0 +1,40 @@
+{
+  "id": "07eb6193-b16f-4b27-8f43-45d118384a60",
+  "name": "William Vail",
+  "slug": "william-vail",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tsd0rxR9oNuLthctCHfzLPsexuG.jpg",
+  "filmography": [
+    {
+      "id": "67d005c1-644a-40a4-8d95-88cd40cf38ca",
+      "title": "The Texas Chain Saw Massacre",
+      "release_year": 1974,
+      "studio_label": "Vortex",
+      "slug": "the-texas-chain-saw-massacre",
+      "has_reactions": true
+    },
+    {
+      "id": "ce636e18-367e-4702-8149-057fddf51347",
+      "title": "Poltergeist",
+      "release_year": 1982,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "poltergeist",
+      "has_reactions": true
+    },
+    {
+      "id": "afe69aa8-fb65-4238-8133-0edf0a36989b",
+      "title": "Mausoleum",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "mausoleum",
+      "has_reactions": false
+    },
+    {
+      "id": "3def9fa4-3a24-4866-a2d6-a6e7fb051037",
+      "title": "The American Nightmare",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-american-nightmare",
+      "has_reactions": false
+    }
+  ]
+}

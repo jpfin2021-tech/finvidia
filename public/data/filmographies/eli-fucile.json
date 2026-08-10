@@ -1,0 +1,48 @@
+{
+  "id": "3ebb6137-3cf3-4d58-a375-d4a3042d75a9",
+  "name": "Eli Fucile",
+  "slug": "eli-fucile",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg",
+  "filmography": [
+    {
+      "id": "467efbe3-056d-4eb5-a4ca-7e81409dae7e",
+      "title": "The Incredibles",
+      "release_year": 2004,
+      "studio_label": "Pixar",
+      "slug": "the-incredibles",
+      "has_reactions": true
+    },
+    {
+      "id": "ad771faf-aeb0-4a81-b047-422cd228b2ed",
+      "title": "Jack-Jack Attack",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "jack-jack-attack",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca41d1b-7183-4d33-b945-2f1d57dc7f23",
+      "title": "Incredibles 2",
+      "release_year": 2018,
+      "studio_label": "Pixar",
+      "slug": "incredibles-2",
+      "has_reactions": true
+    },
+    {
+      "id": "614fb9dc-1d03-48ae-8229-3731bca06cc8",
+      "title": "Auntie Edna",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "auntie-edna",
+      "has_reactions": false
+    },
+    {
+      "id": "1868565a-2360-4681-85c2-382a7b2c9906",
+      "title": "Float",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "float",
+      "has_reactions": false
+    }
+  ]
+}

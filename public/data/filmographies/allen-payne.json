@@ -1,0 +1,48 @@
+{
+  "id": "c90e9aa4-cb1b-4ac9-b363-661829d4d2d4",
+  "name": "Allen Payne",
+  "slug": "allen-payne",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/cr2J20BnizDPoVB8w6uExh4KuC1.jpg",
+  "filmography": [
+    {
+      "id": "98f09bb1-0efc-4d7d-9435-97c3e39ca2bb",
+      "title": "New Jack City",
+      "release_year": 1991,
+      "studio_label": "Jacmac Films",
+      "slug": "new-jack-city",
+      "has_reactions": true
+    },
+    {
+      "id": "19e64cb2-6fa4-4778-8889-8a77fdca4cf6",
+      "title": "CB4",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "cb4",
+      "has_reactions": true
+    },
+    {
+      "id": "b9ac38cd-6b1e-4bef-bcba-e0ba9256d19d",
+      "title": "Jason's Lyric",
+      "release_year": 1994,
+      "studio_label": "PolyGram Filmed Entertainment",
+      "slug": "jason-s-lyric",
+      "has_reactions": true
+    },
+    {
+      "id": "befa5b26-de82-4814-8c06-0aed4def375b",
+      "title": "Vampire in Brooklyn",
+      "release_year": 1995,
+      "studio_label": "Paramount Pictures",
+      "slug": "vampire-in-brooklyn",
+      "has_reactions": true
+    },
+    {
+      "id": "ec28bdae-5623-4211-b611-be682cb2b431",
+      "title": "100 Girls",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "100-girls",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6eca9671-cde7-4360-80fe-a94fa1f02baf",
+  "name": "Putter Smith",
+  "slug": "putter-smith",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7v7tdVDtSY3ChvjboYdOoSFOA2o.jpg",
+  "filmography": [
+    {
+      "id": "62520093-ea21-4ec8-9ce1-d10791d8d20d",
+      "title": "Diamonds Are Forever",
+      "release_year": 1971,
+      "studio_label": "EON Productions",
+      "slug": "diamonds-are-forever",
+      "has_reactions": true
+    },
+    {
+      "id": "849b47d8-ffc3-4511-ab28-14c8b55595c2",
+      "title": "Win, Place or Steal",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "win-place-or-steal",
+      "has_reactions": false
+    },
+    {
+      "id": "ca51102d-ea1e-4ce0-9835-791e5387d13d",
+      "title": "In the Mood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "in-the-mood",
+      "has_reactions": false
+    }
+  ]
+}

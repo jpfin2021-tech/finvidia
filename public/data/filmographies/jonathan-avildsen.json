@@ -1,0 +1,32 @@
+{
+  "id": "0a9dd902-e86e-404c-94ed-7e4abfad8aa9",
+  "name": "Jonathan Avildsen",
+  "slug": "jonathan-avildsen",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tdANBHx86AZ6csMOq31LnQzelav.jpg",
+  "filmography": [
+    {
+      "id": "fdcc1d5a-4f32-4a12-8d0e-6f808971f876",
+      "title": "The Karate Kid Part III",
+      "release_year": 1989,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-karate-kid-part-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "752b981b-f1a5-4015-9c8a-4fd757c61c79",
+      "title": "Rocky V",
+      "release_year": 1990,
+      "studio_label": "United Artists",
+      "slug": "rocky-v",
+      "has_reactions": true
+    },
+    {
+      "id": "64a87b0d-94e2-4079-b120-9a3aa4b9094c",
+      "title": "Inferno",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "inferno",
+      "has_reactions": false
+    }
+  ]
+}

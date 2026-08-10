@@ -5,13 +5,22 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { User, ArrowLeft, RefreshCw, CheckCircle2, Clapperboard, List, Film } from 'lucide-react';
+import { User, ArrowLeft, RefreshCw, CheckCircle2, List, Film } from 'lucide-react';
 
 interface ActorDetails {
   id: string;
   name: string;
   slug?: string;
   profile_img_url?: string;
+}
+
+interface FilmographyCredit {
+  id: string;
+  title: string;
+  release_year: number;
+  studio_label: string;
+  slug: string;
+  has_reactions: boolean;
 }
 
 function generateCleanSlug(name: string): string {
@@ -28,7 +37,7 @@ export default function ActorFullFilmographyPage() {
   const actorIdentifier = Array.isArray(rawIdentifier) ? rawIdentifier[0] : rawIdentifier;
 
   const [actor, setActor] = useState<ActorDetails | null>(null);
-  const [filmography, setFilmography] = useState<any[]>([]);
+  const [filmography, setFilmography] = useState<FilmographyCredit[]>([]);
   const [loading, setLoading] = useState(true);
   const [imgError, setImgError] = useState(false);
 
@@ -37,12 +46,33 @@ export default function ActorFullFilmographyPage() {
       if (!actorIdentifier) return;
       setLoading(true);
 
+      const cleanSlug = generateCleanSlug(actorIdentifier);
+
+      // 1. Fetch pre-rendered static JSON file (Instant load)
+      try {
+        const res = await fetch(`/data/filmographies/${cleanSlug}.json`);
+        if (res.ok) {
+          const staticData = await res.json();
+          setActor({
+            id: staticData.id,
+            name: staticData.name,
+            slug: staticData.slug,
+            profile_img_url: staticData.profile_img_url,
+          });
+          setFilmography(staticData.filmography || []);
+          setLoading(false);
+          return;
+        }
+      } catch (e) {
+        // Fallback to database lookup if static file is missing
+      }
+
+      // 2. Database Fallback
       try {
         const supabase = createClient();
         const formattedParam = actorIdentifier.toLowerCase().trim();
         const rawName = formattedParam.replace(/-/g, ' ');
 
-        // 1. Resolve Actor
         const { data: actorData } = await supabase
           .from('actors')
           .select('id, name, slug, profile_img_url')
@@ -57,7 +87,6 @@ export default function ActorFullFilmographyPage() {
 
         setActor(actorData);
 
-        // 2. Fetch all linked movies via media_actors
         const { data: mediaLinks } = await supabase
           .from('media_actors')
           .select(`
@@ -72,16 +101,27 @@ export default function ActorFullFilmographyPage() {
           `)
           .eq('actor_id', actorData.id);
 
-        let allCredits: any[] = [];
+        let allCredits: FilmographyCredit[] = [];
         if (mediaLinks && mediaLinks.length > 0) {
           allCredits = mediaLinks
             .map((item: any) => item.media_items)
-            .filter(Boolean);
+            .filter(Boolean)
+            .map((m: any) => {
+              const verifiedVids = (m.videos || []).filter(
+                (v: any) => v.verification_status === 'verified' || !v.verification_status
+              );
+              return {
+                id: m.id,
+                title: m.title,
+                release_year: m.release_year || 0,
+                studio_label: m.studio_label || '—',
+                slug: m.slug || generateCleanSlug(m.title),
+                has_reactions: verifiedVids.length > 0,
+              };
+            });
         }
 
-        // Sort Chronologically: OLDEST TO NEWEST
-        allCredits.sort((a, b) => (a.release_year || 0) - (b.release_year || 0));
-
+        allCredits.sort((a, b) => a.release_year - b.release_year);
         setFilmography(allCredits);
       } catch (err) {
         console.error('Error loading actor filmography:', err);
@@ -97,7 +137,7 @@ export default function ActorFullFilmographyPage() {
     return (
       <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
         <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
-        <p className="text-sm font-medium">Loading Full Filmography...</p>
+        <p className="text-sm font-medium">Loading Full Filmography Archive...</p>
       </div>
     );
   }
@@ -107,8 +147,8 @@ export default function ActorFullFilmographyPage() {
       <div className="min-h-screen bg-[#09090b] pt-32 px-6 text-center text-zinc-400">
         <h2 className="text-xl font-bold text-white">Actor profile not found</h2>
         <button
-          onClick={() => router.push('/browse')}
-          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg"
+          onClick={() => router.push('/movies')}
+          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg cursor-pointer"
         >
           Return to Movie Index
         </button>
@@ -150,13 +190,13 @@ export default function ActorFullFilmographyPage() {
             <div>
               <span className="bg-red-600 text-white text-[10px] font-black uppercase px-2 py-0.5 rounded tracking-wider flex items-center gap-1 w-fit mb-2">
                 <List className="w-3 h-3 text-white" />
-                Complete Historical Credit Archive
+                Complete Chronological Filmography
               </span>
               <h1 className="text-3xl md:text-5xl font-black text-white tracking-tight leading-none">
                 {actor.name}
               </h1>
               <p className="text-xs md:text-sm text-zinc-400 font-medium mt-1">
-                Full chronological career filmography (Oldest to Newest).
+                Full career filmography ordered from oldest release to newest.
               </p>
             </div>
           </div>
@@ -171,7 +211,7 @@ export default function ActorFullFilmographyPage() {
         </div>
       </div>
 
-      {/* Static Chronological Table */}
+      {/* Chronological Table (Oldest to Newest) */}
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-8">
         <div className="bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden shadow-2xl">
           <div className="overflow-x-auto">
@@ -188,10 +228,6 @@ export default function ActorFullFilmographyPage() {
               <tbody className="divide-y divide-zinc-800/60 font-medium">
                 {filmography.map((m) => {
                   const filmSlug = m.slug || generateCleanSlug(m.title);
-                  const verifiedVids = (m.videos || []).filter(
-                    (v: any) => v.verification_status === 'verified' || !v.verification_status
-                  );
-                  const hasReactions = verifiedVids.length > 0;
 
                   return (
                     <tr key={m.id} className="hover:bg-zinc-800/40 transition-colors">
@@ -205,9 +241,9 @@ export default function ActorFullFilmographyPage() {
                         {m.studio_label || '—'}
                       </td>
                       <td className="p-4 text-center">
-                        {hasReactions ? (
+                        {m.has_reactions ? (
                           <span className="inline-flex items-center gap-1 text-emerald-400 bg-emerald-950/60 border border-emerald-900/50 px-2.5 py-0.5 rounded-full text-[10px] font-extrabold">
-                            <CheckCircle2 className="w-3 h-3" /> Indexed ({verifiedVids.length})
+                            <CheckCircle2 className="w-3 h-3" /> Indexed
                           </span>
                         ) : (
                           <span className="inline-flex items-center gap-1 text-zinc-500 bg-zinc-950 border border-zinc-800 px-2.5 py-0.5 rounded-full text-[10px] font-semibold">
@@ -216,7 +252,7 @@ export default function ActorFullFilmographyPage() {
                         )}
                       </td>
                       <td className="p-4 text-right">
-                        {hasReactions ? (
+                        {m.has_reactions ? (
                           <Link
                             href={`/movies/${filmSlug}`}
                             className="inline-flex items-center gap-1 bg-red-600 hover:bg-red-500 text-white text-[11px] font-black px-3 py-1 rounded-lg transition-all cursor-pointer shadow-md"

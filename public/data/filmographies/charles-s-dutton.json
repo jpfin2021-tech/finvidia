@@ -1,0 +1,472 @@
+{
+  "id": "c0035205-59e4-4e3a-a721-144659e40c4f",
+  "name": "Charles S. Dutton",
+  "slug": "charles-s-dutton",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg",
+  "filmography": [
+    {
+      "id": "c6b40ff2-a5c6-45c4-ade6-53c903f184ae",
+      "title": "Cat's Eye",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "cat-s-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "9a833b6c-bfea-4a37-91b7-7b2f7ffd6e5c",
+      "title": "Apology",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "apology",
+      "has_reactions": false
+    },
+    {
+      "id": "f80bf3e3-6f43-4dc7-b18f-c82ee50d5326",
+      "title": "Crocodile Dundee II",
+      "release_year": 1988,
+      "studio_label": "Rimfire Films",
+      "slug": "crocodile-dundee-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "64b006f9-8858-4ab3-8774-dbe506fe8fda",
+      "title": "Astonished",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "astonished",
+      "has_reactions": false
+    },
+    {
+      "id": "e7b627d3-d4bc-44af-890f-748c89c32b18",
+      "title": "An Unremarkable Life",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "an-unremarkable-life",
+      "has_reactions": false
+    },
+    {
+      "id": "d4329c61-eb73-4093-8345-c13c3f532005",
+      "title": "Runaway",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "runaway",
+      "has_reactions": false
+    },
+    {
+      "id": "513f8eea-fee9-476c-91ef-0d99736721c4",
+      "title": "Q & A",
+      "release_year": 1990,
+      "studio_label": "Regency Enterprises",
+      "slug": "q-a",
+      "has_reactions": false
+    },
+    {
+      "id": "981180b2-c860-4cc8-91ca-811810d2ac86",
+      "title": "Mississippi Masala",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mississippi-masala",
+      "has_reactions": false
+    },
+    {
+      "id": "e10fe8fc-25b7-4ef1-9ae3-38a4c58dd5ef",
+      "title": "Alien\u00b3",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "alien",
+      "has_reactions": false
+    },
+    {
+      "id": "a4844e43-b8e4-4c36-9fbd-8160cefe0b8b",
+      "title": "Rudy",
+      "release_year": 1993,
+      "studio_label": "TriStar Pictures",
+      "slug": "rudy",
+      "has_reactions": true
+    },
+    {
+      "id": "3f38e3ce-3830-4647-b52e-9ad1a2e3162a",
+      "title": "Menace II Society",
+      "release_year": 1993,
+      "studio_label": "New Line Cinema",
+      "slug": "menace-ii-society",
+      "has_reactions": true
+    },
+    {
+      "id": "c85fd8fb-5a17-499f-9f51-554410b532f6",
+      "title": "Surviving the Game",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "surviving-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "876cc649-0d3a-4d37-9801-a1cccf275f20",
+      "title": "A Low Down Dirty Shame",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-low-down-dirty-shame",
+      "has_reactions": false
+    },
+    {
+      "id": "4b2bcc33-132c-4f69-91b3-b3bb25316f8c",
+      "title": "Foreign Student",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "foreign-student",
+      "has_reactions": false
+    },
+    {
+      "id": "f5727efa-0f83-457d-9fe6-abfa7d9ca1eb",
+      "title": "Se7en",
+      "release_year": 1995,
+      "studio_label": "New Line Cinema",
+      "slug": "se7en",
+      "has_reactions": true
+    },
+    {
+      "id": "d12bd5ef-85d1-428d-81bf-09e2d3d29b56",
+      "title": "The Piano Lesson",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-piano-lesson",
+      "has_reactions": false
+    },
+    {
+      "id": "9ea66952-13ba-4723-870d-697d7c04b188",
+      "title": "Nick of Time",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "nick-of-time",
+      "has_reactions": false
+    },
+    {
+      "id": "5d326fdb-c8f6-4217-b16f-6e700a61fd80",
+      "title": "Jack Reed: One of Our Own",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "jack-reed-one-of-our-own",
+      "has_reactions": false
+    },
+    {
+      "id": "97f3b94a-ab4b-4fa4-88b6-211db9292f4d",
+      "title": "Cry, the Beloved Country",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "cry-the-beloved-country",
+      "has_reactions": false
+    },
+    {
+      "id": "5784d438-b823-4578-91e1-8404a85c550c",
+      "title": "Zooman",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "zooman",
+      "has_reactions": false
+    },
+    {
+      "id": "1e901ce9-5d15-45ee-8066-e63d4884fa33",
+      "title": "A Time to Kill",
+      "release_year": 1996,
+      "studio_label": "Regency Enterprises",
+      "slug": "a-time-to-kill",
+      "has_reactions": true
+    },
+    {
+      "id": "d172beae-e123-40f8-947a-c38a4ede42ea",
+      "title": "Jack Reed: Death and Vengeance",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jack-reed-death-and-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "e8d73225-c7a8-4a16-a49d-fb31a73c1941",
+      "title": "Night Visitors",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "night-visitors",
+      "has_reactions": false
+    },
+    {
+      "id": "008f27e4-77e2-4b94-921e-5ee7ac25a87c",
+      "title": "Get on the Bus",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "get-on-the-bus",
+      "has_reactions": false
+    },
+    {
+      "id": "66b83538-03a2-4e27-a5c6-ebf1a2167069",
+      "title": "Jack Reed: A Killer Among Us",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jack-reed-a-killer-among-us",
+      "has_reactions": false
+    },
+    {
+      "id": "c4d88562-6925-441a-8af8-216ae7b72628",
+      "title": "Last Dance",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "last-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "7101a8e0-44a6-4420-b462-6ce2ddd6ccef",
+      "title": "First Time Felon",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "first-time-felon",
+      "has_reactions": false
+    },
+    {
+      "id": "00d5ed49-07bb-4329-b08f-79c148c665a1",
+      "title": "Blind Faith",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "blind-faith",
+      "has_reactions": false
+    },
+    {
+      "id": "920dfed7-399f-4a57-9914-798f0c383488",
+      "title": "Black Dog",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "black-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "81a56b6e-f963-4469-804b-b42d35eb71cb",
+      "title": "Cookie's Fortune",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "cookie-s-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "17af503a-5233-46c6-bc00-c2f72ef2a4d6",
+      "title": "Deadlocked",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "deadlocked",
+      "has_reactions": false
+    },
+    {
+      "id": "a67c36f9-22e6-4999-b3a0-e894f88baee8",
+      "title": "For Love or Country: The Arturo Sandoval Story",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "for-love-or-country-the-arturo-sandoval-story",
+      "has_reactions": false
+    },
+    {
+      "id": "9b9641f7-0e7f-41b3-a76b-adee9c6a6cf8",
+      "title": "Conviction",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "conviction",
+      "has_reactions": false
+    },
+    {
+      "id": "b7adfe51-ccf7-4039-b0a3-e3543fdb18c7",
+      "title": "10,000 Black Men Named George",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "10-000-black-men-named-george",
+      "has_reactions": false
+    },
+    {
+      "id": "e53116fa-4207-4684-b976-62f4abc38261",
+      "title": "D.C. Sniper: 23 Days of Fear",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "d-c-sniper-23-days-of-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "0b10a964-2858-4721-b929-844fed52b830",
+      "title": "Against the Ropes",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "against-the-ropes",
+      "has_reactions": false
+    },
+    {
+      "id": "11525ee8-79fc-4ea4-b0d6-cb5e38650866",
+      "title": "Mayday",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mayday",
+      "has_reactions": false
+    },
+    {
+      "id": "42fd4292-9c23-4c36-b954-bd65e537e381",
+      "title": "Honeydripper",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "honeydripper",
+      "has_reactions": false
+    },
+    {
+      "id": "4c3a69dd-107f-4d47-90fb-51162bbf8fc8",
+      "title": "The Third Nail",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-third-nail",
+      "has_reactions": false
+    },
+    {
+      "id": "1a113117-17a0-4ee3-a883-74b1c791da02",
+      "title": "American Violet",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "american-violet",
+      "has_reactions": false
+    },
+    {
+      "id": "927b8756-ea4e-4876-9301-bbc925a1eb66",
+      "title": "Fame",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "fame",
+      "has_reactions": false
+    },
+    {
+      "id": "4b82663c-7fda-4d11-9e7e-67a5732630a1",
+      "title": "Legion",
+      "release_year": 2010,
+      "studio_label": "Screen Gems",
+      "slug": "legion",
+      "has_reactions": false
+    },
+    {
+      "id": "f9738d88-c872-4f1b-8250-da61121bf1e3",
+      "title": "Back Into the Tunnels: The Making of 'Mimic'",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "back-into-the-tunnels-the-making-of-mimic",
+      "has_reactions": false
+    },
+    {
+      "id": "bc80085b-c154-41f2-a927-8df147c16ba4",
+      "title": "The Obama Effect",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-obama-effect",
+      "has_reactions": false
+    },
+    {
+      "id": "f6ab0f36-2472-4c0f-ba26-8a847c614124",
+      "title": "40 Minutes of Hell",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "40-minutes-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "9d1f8dd8-5475-42d6-b686-31d98d04f6c2",
+      "title": "Least Among Saints",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "least-among-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "ae363e52-a7f8-4576-bd1e-8b94d7bdc25c",
+      "title": "Bad Ass",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-ass",
+      "has_reactions": false
+    },
+    {
+      "id": "732cbc08-fa50-41c3-811f-d6c735d297b6",
+      "title": "LUV",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "luv",
+      "has_reactions": false
+    },
+    {
+      "id": "4846536c-0d5c-4b0c-88ce-39d03f8c2394",
+      "title": "Android Cop",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "android-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "e6e9ce18-5845-4628-b369-539a2cae6575",
+      "title": "Comeback Dad",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "comeback-dad",
+      "has_reactions": false
+    },
+    {
+      "id": "ac2f21c3-0a11-447f-8256-ce65d9ae59cb",
+      "title": "Scooby-Doo! WrestleMania Mystery",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-wrestlemania-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "d53d6b59-0f1b-4db8-99a1-2e8f17c6d926",
+      "title": "A Very Larry Christmas",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "a-very-larry-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "0c26b268-f7bc-4a90-8477-8b9186118c0f",
+      "title": "The Perfect Guy",
+      "release_year": 2015,
+      "studio_label": "Screen Gems",
+      "slug": "the-perfect-guy",
+      "has_reactions": true
+    },
+    {
+      "id": "f210d0f6-5f69-407c-b11e-76654dfb4544",
+      "title": "What Lola Wants",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "what-lola-wants",
+      "has_reactions": false
+    },
+    {
+      "id": "77fcca6d-d862-4405-937c-d7f3f6df8728",
+      "title": "August Wilson: The Ground on Which I Stand",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "august-wilson-the-ground-on-which-i-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "14acfe80-a8c3-4291-9335-87e938b9410e",
+      "title": "A Novel Romance",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-novel-romance",
+      "has_reactions": false
+    },
+    {
+      "id": "caf94b21-bb4c-4a63-8165-10753c1c9019",
+      "title": "Carter High",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "carter-high",
+      "has_reactions": false
+    },
+    {
+      "id": "65b8b613-55d7-40ec-ad7c-8e10bce39259",
+      "title": "Bessie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bessie",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "id": "c4aaf29d-ce27-45ad-a4df-3f2c2e036316",
+  "name": "Talia Shire",
+  "slug": "talia-shire",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/oktJmlLeyYKBCWPNjHskDwAfjct.jpg",
+  "filmography": [
+    {
+      "id": "0975d249-1fda-47cc-a812-b2a19f5cf050",
+      "title": "That's Amore!",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "that-s-amore",
+      "has_reactions": false
+    },
+    {
+      "id": "bf2952b7-79bd-40f4-ba0d-390ba44ba63a",
+      "title": "The Wild Racers",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-wild-racers",
+      "has_reactions": false
+    },
+    {
+      "id": "6671fc5c-64f2-475b-b799-972a80d74bb2",
+      "title": "The Dunwich Horror",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-dunwich-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "d52b3281-53c3-45cf-9d5b-bc216a4f8f83",
+      "title": "Gas! -Or- It Became Necessary to Destroy the World in Order to Save It.",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "gas-or-it-became-necessary-to-destroy-the-world-in-order-to-save-it",
+      "has_reactions": false
+    },
+    {
+      "id": "22f160ab-4398-443d-b86b-841f65bd15e4",
+      "title": "The Vendors",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-vendors",
+      "has_reactions": false
+    },
+    {
+      "id": "2331c751-86da-45f3-9e06-8549bc8a3c87",
+      "title": "The Christian Licorice Store",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-christian-licorice-store",
+      "has_reactions": false
+    },
+    {
+      "id": "155c7b20-c1c0-400b-95c7-1638e43319a1",
+      "title": "The Godfather",
+      "release_year": 1972,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather",
+      "has_reactions": true
+    },
+    {
+      "id": "83df72cc-b3de-4dca-8c6a-cf7d1833dede",
+      "title": "Maxie",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "maxie",
+      "has_reactions": false
+    },
+    {
+      "id": "eb8898db-41d1-4778-a818-6558177e254c",
+      "title": "The Godfather Part II",
+      "release_year": 1974,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-part-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "2671813d-7160-4438-8b9a-803b51ad3b73",
+      "title": "Rocky",
+      "release_year": 1976,
+      "studio_label": "Winkler Films",
+      "slug": "rocky",
+      "has_reactions": true
+    },
+    {
+      "id": "fc2a9c52-e4c9-4560-aa17-a1e3f77e7319",
+      "title": "Daddy, I Don't Like It Like This",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "daddy-i-don-t-like-it-like-this",
+      "has_reactions": false
+    },
+    {
+      "id": "4deafb2b-efc6-4177-8044-74c607ff551c",
+      "title": "Rocky II",
+      "release_year": 1979,
+      "studio_label": "United Artists",
+      "slug": "rocky-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "ee646aa3-e79a-40f2-a27b-5b0170f2b35a",
+      "title": "Prophecy",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "prophecy",
+      "has_reactions": false
+    },
+    {
+      "id": "69fd7752-9bfd-474f-99ba-c2de1b9d93a2",
+      "title": "Old Boyfriends",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "old-boyfriends",
+      "has_reactions": false
+    },
+    {
+      "id": "58586a4f-e2aa-4def-98ac-5f87bd9fe45d",
+      "title": "Windows",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "windows",
+      "has_reactions": false
+    },
+    {
+      "id": "f14ab31a-afc4-490c-8428-246992bdcff7",
+      "title": "Rocky III",
+      "release_year": 1982,
+      "studio_label": "United Artists",
+      "slug": "rocky-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "ed9777ac-ce0d-426a-9a3a-7825f1cb7c38",
+      "title": "Rocky IV",
+      "release_year": 1985,
+      "studio_label": "United Artists",
+      "slug": "rocky-iv",
+      "has_reactions": true
+    },
+    {
+      "id": "49c10576-a8bd-4dc6-af39-5985e2028905",
+      "title": "Hyper Sapien: People from Another Star",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "hyper-sapien-people-from-another-star",
+      "has_reactions": false
+    },
+    {
+      "id": "482590a6-975b-4718-af1c-1ef7b5efdd77",
+      "title": "Rad",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "rad",
+      "has_reactions": false
+    },
+    {
+      "id": "63d4d440-dd92-48cb-85d5-713bee16644a",
+      "title": "Faerie Tale Theatre: Rip Van Winkle",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "faerie-tale-theatre-rip-van-winkle",
+      "has_reactions": false
+    },
+    {
+      "id": "209d65b4-71b3-4295-9e96-86e559f37a91",
+      "title": "Blood Vows: The Story of a Mafia Wife",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "blood-vows-the-story-of-a-mafia-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "b3416af1-d224-42c7-9bcb-72adad7fc9f8",
+      "title": "New York Stories",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "new-york-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "7ef99e73-6564-49b9-b0a5-256f055af4ae",
+      "title": "The Godfather Part III",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-part-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "752b981b-f1a5-4015-9c8a-4fd757c61c79",
+      "title": "Rocky V",
+      "release_year": 1990,
+      "studio_label": "United Artists",
+      "slug": "rocky-v",
+      "has_reactions": true
+    },
+    {
+      "id": "156b24a9-8dcc-4bef-bee4-c4264c9c0e80",
+      "title": "Rocky Special: Burning Youth",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "rocky-special-burning-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "c25c4ad5-d3d6-4166-8dee-f747c6140eb6",
+      "title": "Mark Twain and Me",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mark-twain-and-me",
+      "has_reactions": false
+    },
+    {
+      "id": "2aad944c-9625-4ff2-a32f-af07a64503db",
+      "title": "Cold Heaven",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "cold-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "e07e62bb-bf83-49f3-9322-6bebb0108158",
+      "title": "For Richer, for Poorer",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "for-richer-for-poorer",
+      "has_reactions": false
+    },
+    {
+      "id": "48b0b09b-440a-481e-9746-095d4fff1e1d",
+      "title": "Deadfall",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "deadfall",
+      "has_reactions": false
+    },
+    {
+      "id": "524dabde-44f2-441a-bc9d-c89da41b1ac4",
+      "title": "Chantilly Lace",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "chantilly-lace",
+      "has_reactions": false
+    },
+    {
+      "id": "a716a273-e519-487c-89bb-31e339902cf9",
+      "title": "Born Into Exile",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "born-into-exile",
+      "has_reactions": false
+    },
+    {
+      "id": "aecdad66-4cd8-4622-9068-ce2c902bebae",
+      "title": "The Landlady",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-landlady",
+      "has_reactions": false
+    },
+    {
+      "id": "b5f73eec-2e48-4d6e-9226-975efb333ac5",
+      "title": "Lured Innocence",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "lured-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "b590ffe0-0204-4e57-8819-e7127afc11e7",
+      "title": "Avocado Seed",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "avocado-seed",
+      "has_reactions": false
+    },
+    {
+      "id": "16fefb27-7d69-4609-9ae8-4bcb6c5c875d",
+      "title": "Palmer's Pick-Up",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "palmer-s-pick-up",
+      "has_reactions": false
+    },
+    {
+      "id": "84cfe3b7-7fa2-47ca-8fea-8febc7dc21c3",
+      "title": "The Whole Shebang",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-whole-shebang",
+      "has_reactions": false
+    },
+    {
+      "id": "6be36936-7d33-476a-a0c8-493965605245",
+      "title": "Kiss The Bride",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "kiss-the-bride",
+      "has_reactions": false
+    },
+    {
+      "id": "128ace80-0a88-437f-be70-d44a60cd4c11",
+      "title": "Family Tree",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "family-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "cd6993de-c0d4-4d22-b0b8-f70f8e99c57d",
+      "title": "Molls and Dolls: The Women of Gangster Films",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "molls-and-dolls-the-women-of-gangster-films",
+      "has_reactions": false
+    },
+    {
+      "id": "c7df89ce-0591-4948-8211-197b01f524f9",
+      "title": "Rocky Balboa",
+      "release_year": 2006,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "rocky-balboa",
+      "has_reactions": true
+    },
+    {
+      "id": "4eeeaaa8-0336-42fb-acfe-61af64004a0f",
+      "title": "Morality and the Code: A How-to Manual for Hollywood",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "morality-and-the-code-a-how-to-manual-for-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "ddceb9b8-9155-463f-b61b-d678a31364e4",
+      "title": "Christmas at Cadillac Jack's",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "christmas-at-cadillac-jack-s",
+      "has_reactions": false
+    },
+    {
+      "id": "59d33a07-e34e-4bd4-9e55-1303d2b45a60",
+      "title": "Homo Erectus",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "homo-erectus",
+      "has_reactions": false
+    },
+    {
+      "id": "1e9b7e3c-9ff0-4e0a-94b6-852e2c202cc2",
+      "title": "Dim Sum Funeral",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dim-sum-funeral",
+      "has_reactions": false
+    },
+    {
+      "id": "21fdf7ae-282b-4801-b5b0-64c7ffc234e4",
+      "title": "Looking for Palladin",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "looking-for-palladin",
+      "has_reactions": false
+    },
+    {
+      "id": "f72c4195-5393-49f6-866b-d73fa4d9ffc6",
+      "title": "My Father's Will",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "my-father-s-will",
+      "has_reactions": false
+    },
+    {
+      "id": "051ea67c-4d63-4386-a6b8-17babe5bd42f",
+      "title": "The Rocky Saga: Going the Distance",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-rocky-saga-going-the-distance",
+      "has_reactions": false
+    },
+    {
+      "id": "9e10fdb2-6e77-4202-9232-2135b2b46c23",
+      "title": "Pizza with Bullets",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "pizza-with-bullets",
+      "has_reactions": false
+    },
+    {
+      "id": "3d19f21f-06dd-46ab-a0b1-0a484a827101",
+      "title": "Dreamland",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dreamland",
+      "has_reactions": false
+    },
+    {
+      "id": "310ad1cf-20dd-45fc-9f86-3b2ef7636ee8",
+      "title": "The Family Whistle",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-family-whistle",
+      "has_reactions": false
+    },
+    {
+      "id": "a93ed5fd-4957-45d3-9999-d1b6aec682eb",
+      "title": "John G. Avildsen: King of the Underdogs",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "john-g-avildsen-king-of-the-underdogs",
+      "has_reactions": false
+    },
+    {
+      "id": "8798b8d9-033b-49e1-8ed4-adcedba6ce70",
+      "title": "Con Man",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "con-man",
+      "has_reactions": false
+    },
+    {
+      "id": "9bcd24e7-46ba-46e1-9afd-bb9488d245d8",
+      "title": "Working Man",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "working-man",
+      "has_reactions": false
+    },
+    {
+      "id": "4bc8f0b0-c12c-4ac5-aa7f-31a6c4a66f0f",
+      "title": "The Godfather, Coda: The Death of Michael Corleone",
+      "release_year": 2020,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-godfather-coda-the-death-of-michael-corleone",
+      "has_reactions": true
+    },
+    {
+      "id": "f6017c6e-d59c-4051-859a-80bd8976ec9e",
+      "title": "40 Years of Rocky: The Birth of a Classic",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "40-years-of-rocky-the-birth-of-a-classic",
+      "has_reactions": false
+    },
+    {
+      "id": "46f6dc83-4193-4567-84d5-2668fca0ee8b",
+      "title": "Stallone: Frank, That Is",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "stallone-frank-that-is",
+      "has_reactions": false
+    },
+    {
+      "id": "fdab4ec3-2e88-470a-b02a-9bf3283fc130",
+      "title": "Chantilly Bridge",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "chantilly-bridge",
+      "has_reactions": false
+    },
+    {
+      "id": "98bac614-c0e5-450a-8c2a-e1bb1fd70d6a",
+      "title": "Nonnas",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "nonnas",
+      "has_reactions": false
+    }
+  ]
+}

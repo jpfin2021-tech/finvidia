@@ -1,0 +1,608 @@
+{
+  "id": "6063e1cf-58a2-4006-8cdd-f45a0d7198be",
+  "name": "Lance E. Nichols",
+  "slug": "lance-e-nichols",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/uFrgXjSwMZpOZKn7wsu438BzMHp.jpg",
+  "filmography": [
+    {
+      "id": "a4392390-a7e9-4132-8377-fc9f9c43212c",
+      "title": "Coalescence",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "coalescence",
+      "has_reactions": false
+    },
+    {
+      "id": "0b93f5b9-7260-4996-bbaa-1f6d59cf8859",
+      "title": "Grey Area",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "grey-area",
+      "has_reactions": false
+    },
+    {
+      "id": "729da86d-f366-4142-a1ff-b45eea77f46a",
+      "title": "Project X",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "project-x",
+      "has_reactions": false
+    },
+    {
+      "id": "68d03ff2-2a02-4acf-8f82-801469d4fbf6",
+      "title": "Side Out",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "side-out",
+      "has_reactions": false
+    },
+    {
+      "id": "dd216909-5b5f-4827-8afe-82ccb434c32d",
+      "title": "Home Invasion",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "home-invasion",
+      "has_reactions": false
+    },
+    {
+      "id": "9be6b75f-be3f-4f46-817a-6e2fb1183cf6",
+      "title": "Snake Eyes",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "snake-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "c138b4fc-aad4-4cf3-baf8-51c5e2766dc8",
+      "title": "K-PAX",
+      "release_year": 2001,
+      "studio_label": "Intermedia Films",
+      "slug": "k-pax",
+      "has_reactions": true
+    },
+    {
+      "id": "c8d217e4-b37c-40d7-a033-0078d0bef137",
+      "title": "Frailty",
+      "release_year": 2002,
+      "studio_label": "Cinerenta",
+      "slug": "frailty",
+      "has_reactions": true
+    },
+    {
+      "id": "d38e1db6-4c39-4b67-be4b-6f7cc84e03bd",
+      "title": "Runaway Jury",
+      "release_year": 2003,
+      "studio_label": "New Regency Pictures",
+      "slug": "runaway-jury",
+      "has_reactions": true
+    },
+    {
+      "id": "9c78d049-cc03-4210-8d70-a97abbd2db6c",
+      "title": "The Brooke Ellison Story",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-brooke-ellison-story",
+      "has_reactions": false
+    },
+    {
+      "id": "f895ab6c-6922-4880-a027-2f050afe799f",
+      "title": "Oil Storm",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "oil-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "c9967eb1-77a6-4333-9719-49f1bd8162fe",
+      "title": "Snow Wonder",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "snow-wonder",
+      "has_reactions": false
+    },
+    {
+      "id": "2f9c8f6a-14d3-47d1-9143-4199cbcbcb4b",
+      "title": "A Good Man Is Hard to Find",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "a-good-man-is-hard-to-find",
+      "has_reactions": false
+    },
+    {
+      "id": "1a113117-17a0-4ee3-a883-74b1c791da02",
+      "title": "American Violet",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "american-violet",
+      "has_reactions": false
+    },
+    {
+      "id": "4f5bd017-0477-4ebf-964b-bb342c020d78",
+      "title": "The Curious Case of Benjamin Button",
+      "release_year": 2008,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-curious-case-of-benjamin-button",
+      "has_reactions": true
+    },
+    {
+      "id": "8d8d85b6-a638-4357-938a-ba2bc6fdaa72",
+      "title": "Night of the Demons",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-demons",
+      "has_reactions": false
+    },
+    {
+      "id": "a96e21a3-aa7a-4123-9cc7-e3fddcbe9593",
+      "title": "Mirrors 2",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mirrors-2",
+      "has_reactions": false
+    },
+    {
+      "id": "78fadc58-85ed-4555-877f-2f1819e8562f",
+      "title": "Hurricane Season",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hurricane-season",
+      "has_reactions": false
+    },
+    {
+      "id": "72b5e33c-164c-49ea-8bc4-dce6a12cfdc9",
+      "title": "Knucklehead",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "knucklehead",
+      "has_reactions": false
+    },
+    {
+      "id": "1d3ec4b4-d11e-4848-98af-8428e36dfdd7",
+      "title": "The Last Song",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-last-song",
+      "has_reactions": false
+    },
+    {
+      "id": "ca82cf56-a822-41df-98d8-bc307c8b2f74",
+      "title": "The Chameleon",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-chameleon",
+      "has_reactions": false
+    },
+    {
+      "id": "3b2afe8a-341e-45d3-af5f-50e49ab78f0e",
+      "title": "The Price of Flowers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-price-of-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "9c3553bf-25b9-4c68-a760-fdbb8cb5cf4f",
+      "title": "The Mortician",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-mortician",
+      "has_reactions": false
+    },
+    {
+      "id": "49a58d96-0216-4448-a22c-d8d4aa46c54e",
+      "title": "Swamp Shark",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "swamp-shark",
+      "has_reactions": false
+    },
+    {
+      "id": "18296282-0f0c-42a0-8124-d49cea12e30d",
+      "title": "Storm War",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "storm-war",
+      "has_reactions": false
+    },
+    {
+      "id": "52975ea9-5d34-44d8-a4be-d26d253ec810",
+      "title": "October Baby",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "october-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "b3010b52-03bb-4019-b327-228b7e91aba9",
+      "title": "National Lampoon's Snatched",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "national-lampoon-s-snatched",
+      "has_reactions": false
+    },
+    {
+      "id": "e38ea082-2f6d-4104-9e14-f51dcafa37e0",
+      "title": "Samuel Bleak",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "samuel-bleak",
+      "has_reactions": false
+    },
+    {
+      "id": "689afb63-d16e-4f30-a381-787a6c294d93",
+      "title": "Jeff, Who Lives at Home",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jeff-who-lives-at-home",
+      "has_reactions": false
+    },
+    {
+      "id": "5b4dfea5-034f-4963-ab21-128a33e0c419",
+      "title": "Stash House",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "stash-house",
+      "has_reactions": false
+    },
+    {
+      "id": "647f0c12-a466-4630-ac43-16824ebfff82",
+      "title": "Contraband",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "contraband",
+      "has_reactions": false
+    },
+    {
+      "id": "43570fad-11e0-4650-b3bc-a6a188f899f5",
+      "title": "Hell and Mr Fudge",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hell-and-mr-fudge",
+      "has_reactions": false
+    },
+    {
+      "id": "4adb39f9-48d1-423c-b0fc-de3b0d4d19c4",
+      "title": "Homefront",
+      "release_year": 2013,
+      "studio_label": "Open Road Films",
+      "slug": "homefront",
+      "has_reactions": true
+    },
+    {
+      "id": "6546fdb6-44bd-4f8f-825e-9721f99817eb",
+      "title": "Straight A's",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "straight-a-s",
+      "has_reactions": false
+    },
+    {
+      "id": "ecbbf4ff-307c-4474-91b2-79e6dd7dc6d2",
+      "title": "Fractured",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "fractured",
+      "has_reactions": false
+    },
+    {
+      "id": "e88e8eab-bc44-4c05-b96d-4ee1f3c02f52",
+      "title": "Beautiful Creatures",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "beautiful-creatures",
+      "has_reactions": false
+    },
+    {
+      "id": "293f0f0f-4247-40b4-9dc2-3f36285f6beb",
+      "title": "Susie's Hope",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "susie-s-hope",
+      "has_reactions": false
+    },
+    {
+      "id": "d8baa1e3-4d9f-4151-98ea-57c00899f664",
+      "title": "Elsa & Fred",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "elsa-fred",
+      "has_reactions": false
+    },
+    {
+      "id": "8aa9a7bd-9089-49cc-9aee-050f9a4c4306",
+      "title": "The Town that Dreaded Sundown",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-town-that-dreaded-sundown",
+      "has_reactions": false
+    },
+    {
+      "id": "628eb181-83f0-4d1e-8765-81e014e3332d",
+      "title": "Moms' Night Out",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "moms-night-out",
+      "has_reactions": false
+    },
+    {
+      "id": "449ba392-392a-49e0-b37c-3a7aefe8cca2",
+      "title": "Left Behind",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "left-behind",
+      "has_reactions": false
+    },
+    {
+      "id": "86d36297-ac58-4662-a4e2-cee34376472f",
+      "title": "The Livingston Gardener",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-livingston-gardener",
+      "has_reactions": false
+    },
+    {
+      "id": "0c97a1f4-d63d-4ab5-b1c3-700c231ab0f3",
+      "title": "Heist",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "heist",
+      "has_reactions": false
+    },
+    {
+      "id": "9b29a02c-ddb7-44cb-80e8-b19371a56716",
+      "title": "A Sort of Homecoming",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-sort-of-homecoming",
+      "has_reactions": false
+    },
+    {
+      "id": "42771936-14a3-483a-bcc1-916f6cf3e6ce",
+      "title": "Fantastic Four",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "fantastic-four",
+      "has_reactions": false
+    },
+    {
+      "id": "16c6c4ed-5290-4179-a251-a27abf2d360c",
+      "title": "Woodlawn",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "woodlawn",
+      "has_reactions": false
+    },
+    {
+      "id": "0d4f3bc0-e0be-4e93-a1c3-b56ad709f6bc",
+      "title": "Shark Lake",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "shark-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "9f0c10ff-2fd5-45d4-aba1-764eb0b3a63f",
+      "title": "Navy Seals vs. Zombies",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "navy-seals-vs-zombies",
+      "has_reactions": false
+    },
+    {
+      "id": "91f7e84d-2d44-4d69-b7f1-f5d7f7d6149c",
+      "title": "Here Comes Rusty",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "here-comes-rusty",
+      "has_reactions": false
+    },
+    {
+      "id": "5301229a-7f0e-496a-a4ea-7b4a36f5f34f",
+      "title": "Believe",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "believe",
+      "has_reactions": false
+    },
+    {
+      "id": "078fc5d1-6f03-4444-b792-2e577477d946",
+      "title": "The Perfect Weapon",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-weapon",
+      "has_reactions": false
+    },
+    {
+      "id": "9771e1b3-3202-4e56-b030-f01513104302",
+      "title": "Before I Wake",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "before-i-wake",
+      "has_reactions": false
+    },
+    {
+      "id": "5e21d861-8b86-4bd5-8b6e-e98cdf747792",
+      "title": "Camera Obscura",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "camera-obscura",
+      "has_reactions": false
+    },
+    {
+      "id": "e114e17b-8cf9-4a52-8ab3-219695dd1ae7",
+      "title": "Black Water",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "black-water",
+      "has_reactions": false
+    },
+    {
+      "id": "25ecad0f-a97c-4ada-ad44-265445b47e12",
+      "title": "Mara",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "mara",
+      "has_reactions": false
+    },
+    {
+      "id": "2c9a4e54-1e03-437a-9b60-5406ce01e8f1",
+      "title": "Assassination Nation",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "assassination-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "914e224f-bc39-41e7-ba76-e16d8da3a4e6",
+      "title": "BFA New Orleans",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bfa-new-orleans",
+      "has_reactions": false
+    },
+    {
+      "id": "6b14bb68-6f29-4e77-bd4f-c77047308e57",
+      "title": "Semper Fi",
+      "release_year": 2019,
+      "studio_label": "Sparkhouse Media",
+      "slug": "semper-fi",
+      "has_reactions": false
+    },
+    {
+      "id": "9dab6cbe-0513-459b-ae8f-4b8d9c51200a",
+      "title": "Above Suspicion",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "above-suspicion",
+      "has_reactions": false
+    },
+    {
+      "id": "b4784021-e3d0-4be1-b65f-f9df9ff879df",
+      "title": "Christmas on the Range",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "christmas-on-the-range",
+      "has_reactions": false
+    },
+    {
+      "id": "db1f5b3b-79bf-4592-a221-41a251153be3",
+      "title": "Stella for Star",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "stella-for-star",
+      "has_reactions": false
+    },
+    {
+      "id": "bfd4d8a5-b5c3-475d-9d89-aaf4647d9986",
+      "title": "Palmer",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "palmer",
+      "has_reactions": false
+    },
+    {
+      "id": "f0750424-b9ef-4e78-b733-a818cda627c9",
+      "title": "The Contrast",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-contrast",
+      "has_reactions": false
+    },
+    {
+      "id": "2f7ee027-ce22-4a25-9289-1fd23ca92bfe",
+      "title": "Mysterious Circumstance: The Death of Meriwether Lewis",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "mysterious-circumstance-the-death-of-meriwether-lewis",
+      "has_reactions": false
+    },
+    {
+      "id": "1865457c-e719-4988-945e-e3840ba75320",
+      "title": "Benediction",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "benediction",
+      "has_reactions": false
+    },
+    {
+      "id": "d5c488ea-8ecd-448b-b740-2df85611b688",
+      "title": "What They Found",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "what-they-found",
+      "has_reactions": false
+    },
+    {
+      "id": "959d95c2-877f-4507-873f-96788443c7ec",
+      "title": "Mississippi Scholar",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "mississippi-scholar",
+      "has_reactions": false
+    },
+    {
+      "id": "e49f0984-c4b5-47c6-85ef-30937b66cfb0",
+      "title": "The Last Summer",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-last-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "fc2ae8eb-c7f1-40a7-afe2-935d8a315ac2",
+      "title": "Unsung Hero",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "unsung-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "6b388d6c-5aa0-47d2-804a-9e1f43d2c4e0",
+      "title": "The Geechee Witch: A Boo Hag Story",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-geechee-witch-a-boo-hag-story",
+      "has_reactions": false
+    },
+    {
+      "id": "5494b891-311b-4947-9962-3d595d8c312f",
+      "title": "Caddo Lake",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "caddo-lake",
+      "has_reactions": false
+    },
+    {
+      "id": "683769f1-12f3-4aff-b48c-3bd3e9ce4b95",
+      "title": "Sugarcreek Amish Mysteries: Blessings in Disguise",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "sugarcreek-amish-mysteries-blessings-in-disguise",
+      "has_reactions": false
+    },
+    {
+      "id": "f6970523-4768-4fb6-8c0d-89a9238c2c93",
+      "title": "Wellwood",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "wellwood",
+      "has_reactions": false
+    },
+    {
+      "id": "5ea98060-d791-4b90-a114-1733b326d67e",
+      "title": "Starbright",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "starbright",
+      "has_reactions": false
+    },
+    {
+      "id": "ca5f1711-3093-459a-8995-5c6e9f5554db",
+      "title": "Just One More",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "just-one-more",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "0e3008d0-4bb2-4ad3-85e3-3d5c1375cb01",
+  "name": "Manolo Solo",
+  "slug": "manolo-solo",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hp422wUkCWW2lsitzJrANv4N92u.jpg",
+  "filmography": [
+    {
+      "id": "c2f8fdf0-63a4-4840-8a24-17e8ca7bd404",
+      "title": "C\u00e1ncer",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "c-ncer",
+      "has_reactions": false
+    },
+    {
+      "id": "b4f507e3-c2e1-48a8-a46b-9bb63d4a8471",
+      "title": "Los D\u00edaz felices",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "los-d-az-felices",
+      "has_reactions": false
+    },
+    {
+      "id": "1a048a81-7d71-492c-9465-fbda1fd0dae7",
+      "title": "Computer assault",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "computer-assault",
+      "has_reactions": false
+    },
+    {
+      "id": "9ab810b8-ca80-4f31-b687-07fe8579a0b4",
+      "title": "Everything in Place",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "everything-in-place",
+      "has_reactions": false
+    },
+    {
+      "id": "ff69f027-08fc-49e5-97ac-94b53087a1d8",
+      "title": "The Weakness of the Bolshevik",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-weakness-of-the-bolshevik",
+      "has_reactions": false
+    },
+    {
+      "id": "eb20a56b-7c72-4667-80ad-3226c09867ae",
+      "title": "El Tren de la Bruja",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "el-tren-de-la-bruja",
+      "has_reactions": false
+    },
+    {
+      "id": "869c3d28-c189-4f49-babe-39eae110f08a",
+      "title": "Astronautas",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "astronautas",
+      "has_reactions": false
+    },
+    {
+      "id": "f6e38576-2367-4859-b51a-eccf5c641e99",
+      "title": "Recambios",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "recambios",
+      "has_reactions": false
+    },
+    {
+      "id": "a4c46094-0464-4c0c-ba66-f32d5addb4aa",
+      "title": "Elsa & Fred",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "elsa-fred",
+      "has_reactions": false
+    },
+    {
+      "id": "ec389f76-0936-4efe-8c88-e0090edfe69e",
+      "title": "7 Virgins",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "7-virgins",
+      "has_reactions": false
+    },
+    {
+      "id": "c41ae0ac-692e-4fa1-964b-54f06d09d1bc",
+      "title": "Pan's Labyrinth",
+      "release_year": 2006,
+      "studio_label": "Estudios Picasso",
+      "slug": "pan-s-labyrinth",
+      "has_reactions": true
+    },
+    {
+      "id": "a21a00ca-a940-42e2-bbf2-1652d15031bf",
+      "title": "Lightborne",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "lightborne",
+      "has_reactions": false
+    },
+    {
+      "id": "c5f4cbc2-677d-4998-b1c0-5763a8a1a940",
+      "title": "Modesty",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "modesty",
+      "has_reactions": false
+    },
+    {
+      "id": "dc1c4bff-33eb-4b72-a85d-410236544cdc",
+      "title": "Heterosexuales y casados",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "heterosexuales-y-casados",
+      "has_reactions": false
+    },
+    {
+      "id": "8482b0c6-1145-4efa-9c0b-3fa7af2154cb",
+      "title": "The Consul of Sodom",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-consul-of-sodom",
+      "has_reactions": false
+    },
+    {
+      "id": "0c26d925-83b8-4aaa-b9b1-ff62880ed7c9",
+      "title": "Cell 211",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "cell-211",
+      "has_reactions": false
+    },
+    {
+      "id": "e86fbe9b-aeb6-451c-b7f2-a70feee1f499",
+      "title": "Estocolmo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "estocolmo",
+      "has_reactions": false
+    },
+    {
+      "id": "ef9b5108-940b-43ed-9ba7-ebbb3cea87de",
+      "title": "Amador",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "amador",
+      "has_reactions": false
+    },
+    {
+      "id": "1c05adf1-955e-46c6-8158-9864dc6f8d87",
+      "title": "Biutiful",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "biutiful",
+      "has_reactions": false
+    },
+    {
+      "id": "143bf82c-35c9-48c7-ada2-af0c4c5d30d0",
+      "title": "Tarkovsky",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "tarkovsky",
+      "has_reactions": false
+    },
+    {
+      "id": "fe8ae71e-83fb-43b2-a85d-695bc6404c3c",
+      "title": "My Love",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "my-love",
+      "has_reactions": false
+    },
+    {
+      "id": "98471fda-4ceb-4ca3-9d18-1cf835e6c109",
+      "title": "The Zebra",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-zebra",
+      "has_reactions": false
+    },
+    {
+      "id": "813cfc6e-f83e-4256-a2e6-7e8f406c17cb",
+      "title": "To Kill a Child",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "to-kill-a-child",
+      "has_reactions": false
+    },
+    {
+      "id": "395d6029-42f1-4f5a-baa1-3d549fd9ac82",
+      "title": "Three",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "three",
+      "has_reactions": false
+    },
+    {
+      "id": "9139ca42-ebf0-4d69-bbe4-20194e065379",
+      "title": "Verbo",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "verbo",
+      "has_reactions": false
+    },
+    {
+      "id": "11b8eb82-2fb9-4b37-ab62-1f178b5e429e",
+      "title": "14 d'abril. Maci\u00e0 contra Companys",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "14-d-abril-maci-contra-companys",
+      "has_reactions": false
+    },
+    {
+      "id": "7408f5bf-8617-48b9-aa1a-3e1f3bae34ee",
+      "title": "Imp\u00e1vido",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "imp-vido",
+      "has_reactions": false
+    },
+    {
+      "id": "3c825dff-df6b-487e-a618-d9be5fee8c4b",
+      "title": "Emilia Pardo Baz\u00e1n, la condesa rebelde",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "emilia-pardo-baz-n-la-condesa-rebelde",
+      "has_reactions": false
+    },
+    {
+      "id": "1a57e717-2217-44bb-8b11-9d6f0ef4ad9d",
+      "title": "Wounded",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "wounded",
+      "has_reactions": false
+    },
+    {
+      "id": "9d2ee056-1a8c-44e3-8bf7-7bc3c1d0b6cf",
+      "title": "Cannibal",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "cannibal",
+      "has_reactions": false
+    },
+    {
+      "id": "2d8bc088-1fd5-492b-8b0f-fe47e0e47526",
+      "title": "Who Killed Bambi?",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "who-killed-bambi",
+      "has_reactions": false
+    },
+    {
+      "id": "405c75e7-c66e-4a70-9e01-f7bd9e7c0eea",
+      "title": "Carmina and Amen",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "carmina-and-amen",
+      "has_reactions": false
+    },
+    {
+      "id": "2ea212c2-13f7-429c-b6c2-0378f069cea8",
+      "title": "Prim: el asesinato de la calle del Turco",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "prim-el-asesinato-de-la-calle-del-turco",
+      "has_reactions": false
+    },
+    {
+      "id": "e7ebf8c9-383e-47e9-8021-50dd22ec1328",
+      "title": "Marshland",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "marshland",
+      "has_reactions": false
+    },
+    {
+      "id": "776b71b2-5bb0-46da-bf44-2c0f4e128ead",
+      "title": "Map of Memories of Madrid",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "map-of-memories-of-madrid",
+      "has_reactions": false
+    },
+    {
+      "id": "5a2425b9-a4ca-4d35-bec5-7d926d522ded",
+      "title": "B",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "b",
+      "has_reactions": false
+    },
+    {
+      "id": "a9c7ff8c-38bb-4d9c-b2c5-50654277eaf2",
+      "title": "The Tunnel",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-tunnel",
+      "has_reactions": false
+    },
+    {
+      "id": "5a593596-27b1-4a78-b1c7-00c3e3606e6e",
+      "title": "It's for Your Own Good",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "it-s-for-your-own-good",
+      "has_reactions": false
+    },
+    {
+      "id": "c72e8b1f-4e1b-4757-bbac-52153b8e25fb",
+      "title": "Some Time Later",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "some-time-later",
+      "has_reactions": false
+    },
+    {
+      "id": "9def9d3c-fbed-4db1-a742-d20c1490e249",
+      "title": "Gun City",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "gun-city",
+      "has_reactions": false
+    },
+    {
+      "id": "e516600d-22b0-4908-8ae3-80d324e0be76",
+      "title": "Elisa & Marcela",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "elisa-marcela",
+      "has_reactions": false
+    },
+    {
+      "id": "6d9e9be6-8883-4215-a265-e44b39f4feb0",
+      "title": "522. A Cat, a Chinese Guy and My Father",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "522-a-cat-a-chinese-guy-and-my-father",
+      "has_reactions": false
+    },
+    {
+      "id": "9323ef0d-6e27-4f59-aa5a-f19a3c1da736",
+      "title": "Me",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "me",
+      "has_reactions": false
+    },
+    {
+      "id": "40476d95-67a2-403f-9750-4efa8cf1f6e0",
+      "title": "Face to Face",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "face-to-face",
+      "has_reactions": false
+    },
+    {
+      "id": "25b4527a-1480-43a6-9943-6b08d16fa6d6",
+      "title": "La Alameda 2018",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "la-alameda-2018",
+      "has_reactions": false
+    },
+    {
+      "id": "f08ae5eb-be54-44e1-900c-16b39f590f72",
+      "title": "The Good Boss",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-good-boss",
+      "has_reactions": false
+    },
+    {
+      "id": "febee736-85bd-48c2-b6d4-f8be80cbaa96",
+      "title": "Josephine",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "josephine",
+      "has_reactions": false
+    },
+    {
+      "id": "e66e2290-e4ea-4343-9498-1b7f1733845d",
+      "title": "When Brooklyn Met Seville",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "when-brooklyn-met-seville",
+      "has_reactions": false
+    },
+    {
+      "id": "ace90564-a120-4b14-8f97-1a0f0fc29509",
+      "title": "Full of Grace",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "full-of-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "db8233e2-b397-473c-af13-ed64cb5e4ae0",
+      "title": "God Level",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "god-level",
+      "has_reactions": false
+    },
+    {
+      "id": "e9dcf4c6-b920-486b-bf3b-45c1cc88c46c",
+      "title": "Wild Flowers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "wild-flowers",
+      "has_reactions": false
+    },
+    {
+      "id": "de1a5162-9629-401d-b09d-71ea57a4a416",
+      "title": "Counting Sheep",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "counting-sheep",
+      "has_reactions": false
+    },
+    {
+      "id": "84e050e6-13ea-44b5-8ed9-def0339d2631",
+      "title": "Close Your Eyes",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "close-your-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "f101357f-1611-4a9d-9236-b3dad50c93f7",
+      "title": "Girl Unknown",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "girl-unknown",
+      "has_reactions": false
+    },
+    {
+      "id": "6d49d5bd-2fa7-4598-89a8-092fae97d8db",
+      "title": "The Boogeyman: Origins",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-boogeyman-origins",
+      "has_reactions": false
+    },
+    {
+      "id": "17dbedd9-5e78-48fd-ae81-0d5cf75e2338",
+      "title": "La fortaleza",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "la-fortaleza",
+      "has_reactions": false
+    },
+    {
+      "id": "42d6f801-ca3a-4197-b9b2-aa2da0c82d6a",
+      "title": "The Fortress",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-fortress",
+      "has_reactions": false
+    },
+    {
+      "id": "2f180263-82c7-46d9-aa3d-bbb3dc79bbda",
+      "title": "The Heaven of Animals",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-heaven-of-animals",
+      "has_reactions": false
+    },
+    {
+      "id": "19266918-3a63-4c3c-b7ae-042721527d89",
+      "title": "The Portuguese House",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-portuguese-house",
+      "has_reactions": false
+    },
+    {
+      "id": "6935cb71-ba78-4fc1-b206-f0ff9e5a96eb",
+      "title": "Velintonia 3",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "velintonia-3",
+      "has_reactions": false
+    },
+    {
+      "id": "107601b0-4c8f-47d5-b8ae-044cfb8d40d7",
+      "title": "Nothing Personal",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "nothing-personal",
+      "has_reactions": false
+    },
+    {
+      "id": "fa3d585d-e9a1-4eea-b64c-1c005f3c4ea2",
+      "title": "Aqu\u00ed",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "aqu",
+      "has_reactions": false
+    },
+    {
+      "id": "8044660c-1ff5-4296-a4ed-1053fff5aa8e",
+      "title": "The Marked Woman",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-marked-woman",
+      "has_reactions": false
+    }
+  ]
+}

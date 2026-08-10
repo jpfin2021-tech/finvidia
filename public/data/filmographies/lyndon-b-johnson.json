@@ -1,0 +1,712 @@
+{
+  "id": "5ab5d449-b10f-428b-aacd-ee7676348382",
+  "name": "Lyndon B. Johnson",
+  "slug": "lyndon-b-johnson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/yEDgYwEFjiNoHUw2UrC7BhMK4pk.jpg",
+  "filmography": [
+    {
+      "id": "f906e74d-7d7d-4fd8-b13a-d414baf012b0",
+      "title": "Agent Number 9",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "agent-number-9",
+      "has_reactions": false
+    },
+    {
+      "id": "317d4a79-34d0-4801-92d6-9b63570acc4c",
+      "title": "Four Days In November",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "four-days-in-november",
+      "has_reactions": false
+    },
+    {
+      "id": "320c3317-169c-4360-a02f-499369b23c50",
+      "title": "Faces of November",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "faces-of-november",
+      "has_reactions": false
+    },
+    {
+      "id": "e801c829-498f-4490-972e-193cdadaa62e",
+      "title": "The Day of the Oath",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-day-of-the-oath",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe39fe6-e627-4e7a-9c1a-8585de5f3d0c",
+      "title": "The Making of the President: 1964",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-president-1964",
+      "has_reactions": false
+    },
+    {
+      "id": "12f7e7f2-c648-4456-939c-c693a8f4a3b2",
+      "title": "Videotape Study No. 3",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "videotape-study-no-3",
+      "has_reactions": false
+    },
+    {
+      "id": "b8877713-9b7a-418f-b513-3105c2448bc0",
+      "title": "LBJ",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "lbj",
+      "has_reactions": false
+    },
+    {
+      "id": "989fa3a6-b24e-4f84-afa8-d2f6795bad02",
+      "title": "The President, April 1968",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-president-april-1968",
+      "has_reactions": false
+    },
+    {
+      "id": "99695d32-9045-4d68-a9a2-63f3b3854aaa",
+      "title": "Revolution Underway",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "revolution-underway",
+      "has_reactions": false
+    },
+    {
+      "id": "5784a704-5e69-4e79-a578-95f85dfe6795",
+      "title": "Hanoi, Tuesday 13th",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "hanoi-tuesday-13th",
+      "has_reactions": false
+    },
+    {
+      "id": "aa8d8910-636c-4121-befb-02a615082ec9",
+      "title": "Lions Love",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "lions-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1375617e-d389-44fd-a639-c629f5bf6648",
+      "title": "Lenny Bruce: Without Tears",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "lenny-bruce-without-tears",
+      "has_reactions": false
+    },
+    {
+      "id": "7f15b435-67ef-4163-b281-12337c2b0fc2",
+      "title": "Today: While You Were Away (1964-1973 Retrospective)",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "today-while-you-were-away-1964-1973-retrospective",
+      "has_reactions": false
+    },
+    {
+      "id": "c15da589-b599-4065-984f-7cb4c214a12b",
+      "title": "Hearts and Minds",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "hearts-and-minds",
+      "has_reactions": false
+    },
+    {
+      "id": "32fd0320-0238-4851-bcd5-b1a7177e724d",
+      "title": "Brother, Can You Spare a Dime?",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "brother-can-you-spare-a-dime",
+      "has_reactions": false
+    },
+    {
+      "id": "8d935ff2-bce0-47f0-9b3e-fe7c72ca542d",
+      "title": "The War at Home",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-war-at-home",
+      "has_reactions": false
+    },
+    {
+      "id": "ef20b683-fe09-4d38-b3aa-c2587f6c3654",
+      "title": "On Company Business",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "on-company-business",
+      "has_reactions": false
+    },
+    {
+      "id": "eaa343f8-28fc-4daa-98d7-faf8e7ad5bf1",
+      "title": "The Atomic Cafe",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-atomic-cafe",
+      "has_reactions": false
+    },
+    {
+      "id": "05940273-47ee-42f5-a886-5c5abc5bedeb",
+      "title": "Disasters of the Century",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "disasters-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "481c0ae4-ecb3-4088-8100-bd54f371dca2",
+      "title": "Backstage at the White House",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "backstage-at-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "ae36862d-7e7f-421d-adcc-54a74465a0a7",
+      "title": "John F. Kennedy and the Memory of a Nation",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "john-f-kennedy-and-the-memory-of-a-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "4ac31db0-a161-4635-88ea-36ab0b05dd96",
+      "title": "Within These Walls: A Tour of the White House",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "within-these-walls-a-tour-of-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "fe1376ad-367c-4ed7-a891-427c2e282597",
+      "title": "Air Force One: The Planes and the Presidents",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "air-force-one-the-planes-and-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "84177d04-4647-4478-b548-180fb3ce0946",
+      "title": "The JFK Conspiracy",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-jfk-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "1defe537-f0cb-413a-970f-51c0d8c5a85d",
+      "title": "A Norman Rockwell Christmas",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-norman-rockwell-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "a99241e6-9479-412b-b244-2dc8615a77fd",
+      "title": "Freedom on My Mind",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "freedom-on-my-mind",
+      "has_reactions": false
+    },
+    {
+      "id": "de90fecc-5b8a-40c2-a62b-f362398bb2e2",
+      "title": "Shanks for the Memory",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "shanks-for-the-memory",
+      "has_reactions": false
+    },
+    {
+      "id": "2db6b5b6-e143-4b3b-85f6-810ef3e7dbde",
+      "title": "Inside the White House",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "inside-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "20ecb37a-32eb-4226-9d22-aa88c1da358c",
+      "title": "Secrets of the CIA",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "secrets-of-the-cia",
+      "has_reactions": false
+    },
+    {
+      "id": "fd676a63-d06b-45af-87b6-c875e8687d35",
+      "title": "Fists of Freedom: The Story of the '68 Summer Games",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "fists-of-freedom-the-story-of-the-68-summer-games",
+      "has_reactions": false
+    },
+    {
+      "id": "bf51be5b-06c7-4dfa-9ee5-71a2390e994e",
+      "title": "Revisiting 'Fail-Safe'",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "revisiting-fail-safe",
+      "has_reactions": false
+    },
+    {
+      "id": "5b1eac60-6be4-4c49-9a12-4898e3cef85e",
+      "title": "Mondo Ford",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mondo-ford",
+      "has_reactions": false
+    },
+    {
+      "id": "612bae5b-9f30-4a7f-801f-9fc4b5f3dbb9",
+      "title": "The Definitive Elvis: Elvis and the Colonel",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-definitive-elvis-elvis-and-the-colonel",
+      "has_reactions": false
+    },
+    {
+      "id": "10678766-957b-4a36-b96b-95cde836d5cb",
+      "title": "We Were Soldiers",
+      "release_year": 2002,
+      "studio_label": "Wheelhouse Entertainment",
+      "slug": "we-were-soldiers",
+      "has_reactions": true
+    },
+    {
+      "id": "7540e903-ea00-4cfd-b4f3-f296763b9cb4",
+      "title": "Peter Jennings Reporting: The Kennedy Assassination - Beyond Conspiracy",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "peter-jennings-reporting-the-kennedy-assassination-beyond-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "b5d002fc-8385-44c6-af95-6d9e01569a07",
+      "title": "JFK: Breaking the News",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "jfk-breaking-the-news",
+      "has_reactions": false
+    },
+    {
+      "id": "1ae14a99-3526-4617-9740-603cefd16127",
+      "title": "RFK Must Die: The Assassination of Bobby Kennedy",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "rfk-must-die-the-assassination-of-bobby-kennedy",
+      "has_reactions": false
+    },
+    {
+      "id": "a45800fb-ed1c-441b-a6ef-5ffaa3dcb277",
+      "title": "Oswald's Ghost",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "oswald-s-ghost",
+      "has_reactions": false
+    },
+    {
+      "id": "a3a7d72b-ce5f-4bed-adf9-e0190f5fadb2",
+      "title": "Sputnik Mania",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "sputnik-mania",
+      "has_reactions": false
+    },
+    {
+      "id": "39f185d7-798f-4a81-94f5-6f450819ab7a",
+      "title": "James Brown - The Night James Brown Saved Boston",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "james-brown-the-night-james-brown-saved-boston",
+      "has_reactions": false
+    },
+    {
+      "id": "8d84a1c8-faba-45ef-81e2-774be98c8096",
+      "title": "The Trials of J. Robert Oppenheimer",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-trials-of-j-robert-oppenheimer",
+      "has_reactions": false
+    },
+    {
+      "id": "225da82d-8daf-4778-9e30-36fdadf21f29",
+      "title": "All the Presidents' Wives",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "all-the-presidents-wives",
+      "has_reactions": false
+    },
+    {
+      "id": "ba89b89b-d1a6-4b84-ba87-a4efad9ee26a",
+      "title": "The Kennedy Assassination: 24 Hours After",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-kennedy-assassination-24-hours-after",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa88f20-6975-4e13-98ff-36c50790ad9a",
+      "title": "Picturing the Presidents",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "picturing-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "a6e4cca4-0839-4565-a2e8-422bb889ad46",
+      "title": "Did the Mob Kill JFK?",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "did-the-mob-kill-jfk",
+      "has_reactions": false
+    },
+    {
+      "id": "b793f21a-3638-4156-b5a1-bd35289d5a12",
+      "title": "The Lost JFK Tapes: The Assassination",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-lost-jfk-tapes-the-assassination",
+      "has_reactions": false
+    },
+    {
+      "id": "66071cf9-55ae-4c9e-b458-58e2b85571e7",
+      "title": "The Most Dangerous Man in America",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-most-dangerous-man-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "cc44d667-8903-44a9-bd4b-b71dafbe789b",
+      "title": "Reagan",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "reagan",
+      "has_reactions": false
+    },
+    {
+      "id": "92a5354f-83d1-4a72-848d-3e36c8642adc",
+      "title": "The Day That Lasted 21 Years",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-day-that-lasted-21-years",
+      "has_reactions": false
+    },
+    {
+      "id": "5ce47704-552f-47ca-bcbc-88ea09975ff0",
+      "title": "The House I Live In",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-house-i-live-in",
+      "has_reactions": false
+    },
+    {
+      "id": "80533f85-31aa-4916-9f95-15fb72b270a8",
+      "title": "41",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "41",
+      "has_reactions": false
+    },
+    {
+      "id": "d67f7c94-b921-4cc7-b505-b4ac3dc470df",
+      "title": "MLK: The Assassination Tapes",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mlk-the-assassination-tapes",
+      "has_reactions": false
+    },
+    {
+      "id": "ba9b37f7-edad-45d4-9fda-8e9bf46cef60",
+      "title": "Our Nixon",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "our-nixon",
+      "has_reactions": false
+    },
+    {
+      "id": "1cca7243-3328-423e-991d-0050f7b351f9",
+      "title": "Confessions From the Grassy Knoll: The Shocking Truth",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "confessions-from-the-grassy-knoll-the-shocking-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "45553b15-068e-4185-a4aa-d72e8361073e",
+      "title": "JFK: One PM Central Standard Time",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jfk-one-pm-central-standard-time",
+      "has_reactions": false
+    },
+    {
+      "id": "d8c3f7e4-4c4b-41af-9710-ae6abda172ff",
+      "title": "Freedom Summer",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "freedom-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "6b2eb4bc-ae8b-4bf1-bd22-c7d9a37ad608",
+      "title": "Unwarranted Influence",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "unwarranted-influence",
+      "has_reactions": false
+    },
+    {
+      "id": "cfb3fc2d-020a-4231-8d2e-e93cdbc5782d",
+      "title": "Bombs Away: LBJ, Goldwater and the 1964 Campaign That Changed It All",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bombs-away-lbj-goldwater-and-the-1964-campaign-that-changed-it-all",
+      "has_reactions": false
+    },
+    {
+      "id": "3663c1f1-c78f-40cd-ac63-56a143f902aa",
+      "title": "Klansville U.S.A.",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "klansville-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "031b9afa-afea-4a4a-bb63-f3adeaf20b16",
+      "title": "Houston, We Have a Problem!",
+      "release_year": 2016,
+      "studio_label": "Sutor Kolonko",
+      "slug": "houston-we-have-a-problem",
+      "has_reactions": false
+    },
+    {
+      "id": "8f5bbcab-ce14-4cc8-8e62-f937c8d539ac",
+      "title": "13th",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "13th",
+      "has_reactions": false
+    },
+    {
+      "id": "18381a37-1f64-4f02-976e-7f708173a558",
+      "title": "Andrew Cohen on Crisis and Its Outtakes",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "andrew-cohen-on-crisis-and-its-outtakes",
+      "has_reactions": false
+    },
+    {
+      "id": "f49cac1a-9614-4cc2-a683-591fe35b561c",
+      "title": "The Prison in Twelve Landscapes",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-prison-in-twelve-landscapes",
+      "has_reactions": false
+    },
+    {
+      "id": "a77f9952-bdc3-46ca-a6b8-6c496237ee2d",
+      "title": "De Gaulle, the Last King of France",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "de-gaulle-the-last-king-of-france",
+      "has_reactions": false
+    },
+    {
+      "id": "e91d704b-a924-4bfa-9c92-d11c16cece85",
+      "title": "A Greater Society",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "a-greater-society",
+      "has_reactions": false
+    },
+    {
+      "id": "82d2fcc1-7c44-4928-b714-7ab3ac0baab0",
+      "title": "Martin Luther King by Trevor Mcdonald",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "martin-luther-king-by-trevor-mcdonald",
+      "has_reactions": false
+    },
+    {
+      "id": "90119fb2-a4bf-40d9-a5cf-6e89dcaa684e",
+      "title": "Martin Luther King, Jr. : Marked Man",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "martin-luther-king-jr-marked-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e65565bc-040d-4817-b720-8bb02fa0b8ff",
+      "title": "The Road to Mass Incarceration",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-mass-incarceration",
+      "has_reactions": false
+    },
+    {
+      "id": "0ffccb6d-c638-4b70-a652-c4bc7c0a03dd",
+      "title": "The Green Book: Guide to Freedom",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-green-book-guide-to-freedom",
+      "has_reactions": false
+    },
+    {
+      "id": "980f5e1f-eb1e-4990-98f1-156d980d0b5c",
+      "title": "Rigged: The Voter Suppression Playbook",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "rigged-the-voter-suppression-playbook",
+      "has_reactions": false
+    },
+    {
+      "id": "03919c3f-dd3f-4756-a806-18c6b4f22e51",
+      "title": "Scary Stories to Tell in the Dark",
+      "release_year": 2019,
+      "studio_label": "1212 Entertainment",
+      "slug": "scary-stories-to-tell-in-the-dark",
+      "has_reactions": true
+    },
+    {
+      "id": "c46aff4d-4b3a-4928-aad3-49044d50fdff",
+      "title": "Laboratory Greece",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "laboratory-greece",
+      "has_reactions": false
+    },
+    {
+      "id": "6e6999c9-a344-4bbb-ab2e-6026c99a00ca",
+      "title": "Korea: The Never-Ending War",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "korea-the-never-ending-war",
+      "has_reactions": false
+    },
+    {
+      "id": "54c1df6a-9637-4955-954f-b93e3025179a",
+      "title": "Killing John F. Kennedy",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "killing-john-f-kennedy",
+      "has_reactions": false
+    },
+    {
+      "id": "9045817f-767b-43c8-9bff-aba02a2292ad",
+      "title": "The Soul of America",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-soul-of-america",
+      "has_reactions": false
+    },
+    {
+      "id": "8840ec31-d0e8-486f-8ded-95b6026c6212",
+      "title": "John Lewis: Good Trouble",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "john-lewis-good-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "28e9aaca-aec1-43b8-a320-184f82cbd5ed",
+      "title": "Da 5 Bloods",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "da-5-bloods",
+      "has_reactions": false
+    },
+    {
+      "id": "b19c9f7d-8e13-49ae-b52f-976fa1971631",
+      "title": "The Way I See It",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-way-i-see-it",
+      "has_reactions": false
+    },
+    {
+      "id": "9e4831c7-f106-4d52-88d8-a1c590a6c5f6",
+      "title": "Big Data, Big Brother",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "big-data-big-brother",
+      "has_reactions": false
+    },
+    {
+      "id": "afcec032-2b63-46b6-ab43-2f1f02916426",
+      "title": "The New Air Force One: Flying Fortress",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-new-air-force-one-flying-fortress",
+      "has_reactions": false
+    },
+    {
+      "id": "61b89151-1c59-4950-be30-8b1e8504c2e8",
+      "title": "Riotsville, USA",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "riotsville-usa",
+      "has_reactions": false
+    },
+    {
+      "id": "acdaec62-c25b-4d30-b2e2-8a1929d6cc19",
+      "title": "JFK: 24 Hours That Changed the World",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "jfk-24-hours-that-changed-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "310f840e-4459-4cb7-bb47-7c2510cdffd6",
+      "title": "The Lies That Led America To War In Vietnam",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-lies-that-led-america-to-war-in-vietnam",
+      "has_reactions": false
+    },
+    {
+      "id": "9c1edb73-1ffc-463f-bcdc-b4d39f4e1d82",
+      "title": "The Lady Bird Diaries",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-lady-bird-diaries",
+      "has_reactions": false
+    },
+    {
+      "id": "7d7575cf-2c3d-40a4-aa81-554b02c6f330",
+      "title": "The Beach Boys",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-beach-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "2abd1a23-ba94-4f64-81f2-f93dcb88390d",
+      "title": "America at War",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "america-at-war",
+      "has_reactions": false
+    },
+    {
+      "id": "00674c3f-9c87-4ee1-abb5-5dfce26f5e53",
+      "title": "JFK Assassination: A New Perspective",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "jfk-assassination-a-new-perspective",
+      "has_reactions": false
+    },
+    {
+      "id": "44bb6af3-b8e4-4101-b2b1-2e86f841c2ad",
+      "title": "Under the Flags, the Sun",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "under-the-flags-the-sun",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "af10de9e-94da-41b3-b1e3-e4ab3e8a144b",
+  "name": "Yaphet Kotto",
+  "slug": "yaphet-kotto",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4egRA0hA8YJ7chTNGRbOKA3aCVI.jpg",
+  "filmography": [
+    {
+      "id": "eb824eab-f8bf-4802-b0b8-68df80e5e494",
+      "title": "Alien",
+      "release_year": 1979,
+      "studio_label": "Brandywine Productions",
+      "slug": "alien",
+      "has_reactions": true
+    },
+    {
+      "id": "2201df80-8493-4fd6-a90a-dc610dfe559b",
+      "title": "The Running Man",
+      "release_year": 1987,
+      "studio_label": "Braveworld Productions",
+      "slug": "the-running-man",
+      "has_reactions": true
+    },
+    {
+      "id": "5a207c8f-bc34-4890-93cb-cc247d626986",
+      "title": "Midnight Run",
+      "release_year": 1988,
+      "studio_label": "Universal Pictures",
+      "slug": "midnight-run",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "id": "1077e10a-9977-4f84-9c9b-87b01f8578ca",
+  "name": "Ray Sahetapy",
+  "slug": "ray-sahetapy",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/gdUidZ0pNdk1WERTDKOGn9UWXPT.jpg",
+  "filmography": [
+    {
+      "id": "33eb11c3-fe14-4cb4-891e-f13a7d7563b4",
+      "title": "Taufiq: Lelaki Yang Menantang Badai",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "taufiq-lelaki-yang-menantang-badai",
+      "has_reactions": false
+    },
+    {
+      "id": "5d0c0a63-fb87-48eb-b181-273adce93fc9",
+      "title": "Gadis",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "gadis",
+      "has_reactions": false
+    },
+    {
+      "id": "282692e7-ef80-4ec1-84b4-e910782a14b2",
+      "title": "Black Magic Wizard",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "black-magic-wizard",
+      "has_reactions": false
+    },
+    {
+      "id": "66e9ff1d-3ed6-4846-b4c6-fba02ab72196",
+      "title": "Purple Fog at the Shore",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "purple-fog-at-the-shore",
+      "has_reactions": false
+    },
+    {
+      "id": "7b050dd6-1bdc-4225-b54d-25d79c144bb6",
+      "title": "Tapak-Tapak Kaki Wolter Monginsidi",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "tapak-tapak-kaki-wolter-monginsidi",
+      "has_reactions": false
+    },
+    {
+      "id": "51c5c1d5-88f4-4b2f-a4c0-7631220cedb9",
+      "title": "Pelangi di Balik Awan",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "pelangi-di-balik-awan",
+      "has_reactions": false
+    },
+    {
+      "id": "2f6d4374-f61d-4d93-9298-b961e66f04c3",
+      "title": "Hati Seorang Wanita",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "hati-seorang-wanita",
+      "has_reactions": false
+    },
+    {
+      "id": "67c93dcc-106e-4626-87fa-e4f9f49bfbc4",
+      "title": "Screen of Love",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "screen-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "c2e856d0-30b9-4e92-8aec-6da8a0025e49",
+      "title": "Ponirah Is Convicted",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "ponirah-is-convicted",
+      "has_reactions": false
+    },
+    {
+      "id": "1c9dc5b7-070c-4279-aea1-417b803c5ec9",
+      "title": "Sharp Gravel",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "sharp-gravel",
+      "has_reactions": false
+    },
+    {
+      "id": "941fff86-e78b-4ce6-b593-dff9632a71a6",
+      "title": "Marriage Haze",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "marriage-haze",
+      "has_reactions": false
+    },
+    {
+      "id": "0200202a-ef65-4862-a942-6adf1dae3827",
+      "title": "Bitter Coffee",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "bitter-coffee",
+      "has_reactions": false
+    },
+    {
+      "id": "2185f221-cf19-4ea1-b5dd-cd6528dc1741",
+      "title": "Opera Jakarta",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "opera-jakarta",
+      "has_reactions": false
+    },
+    {
+      "id": "75c87bdc-c5bb-42f9-abf1-ce4fb550eb8a",
+      "title": "Behind Grey Walls",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "behind-grey-walls",
+      "has_reactions": false
+    },
+    {
+      "id": "53bd91c9-3976-4933-94ef-617a2c3ec213",
+      "title": "Natalia's Charm",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "natalia-s-charm",
+      "has_reactions": false
+    },
+    {
+      "id": "6ed35b17-580c-4014-82c4-be69866ab163",
+      "title": "Tahu Sama Tahu",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "tahu-sama-tahu",
+      "has_reactions": false
+    },
+    {
+      "id": "23b7b0f3-17e2-44ba-a65f-3abd35132558",
+      "title": "A Cup of Indecisive Wine",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "a-cup-of-indecisive-wine",
+      "has_reactions": false
+    },
+    {
+      "id": "6ec3611e-742b-43be-b3f8-737b68963bb5",
+      "title": "7 Tiger Man",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "7-tiger-man",
+      "has_reactions": false
+    },
+    {
+      "id": "2ca81fc5-6735-4c05-a2b3-d9117b1b9f5a",
+      "title": "Noesa Penida (Pelangi Kasih Pandansari)",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "noesa-penida-pelangi-kasih-pandansari",
+      "has_reactions": false
+    },
+    {
+      "id": "e14cc014-1335-4624-95ec-feab5be260fe",
+      "title": "Fire of Jealousy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "fire-of-jealousy",
+      "has_reactions": false
+    },
+    {
+      "id": "c713c9a5-d65d-493d-84ba-b6fdaca52790",
+      "title": "Giliran Saya Mana",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "giliran-saya-mana",
+      "has_reactions": false
+    },
+    {
+      "id": "fa02835b-a713-4da5-8d9a-b5fcbf30b2ef",
+      "title": "Kanan Kiri OK II",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "kanan-kiri-ok-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "c8f3b707-1677-4a42-9f2d-f44a6ba723fe",
+      "title": "Cas Cis Cus",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "cas-cis-cus",
+      "has_reactions": false
+    },
+    {
+      "id": "1b6d8d24-3145-4a4b-8ad4-57e2d9da6561",
+      "title": "Kanan Kiri OK",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "kanan-kiri-ok",
+      "has_reactions": false
+    },
+    {
+      "id": "f07e9237-2ba9-4747-a992-2040b03528ee",
+      "title": "Jangan Bilang Siapa-siapa",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "jangan-bilang-siapa-siapa",
+      "has_reactions": false
+    },
+    {
+      "id": "bb9da5c5-32b1-4b41-b12b-141365fbadd4",
+      "title": "Curi-curi Kesempatan",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "curi-curi-kesempatan",
+      "has_reactions": false
+    },
+    {
+      "id": "13a4290e-41fd-42cd-8afb-a322046628af",
+      "title": "Kanan Kiri OK III",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "kanan-kiri-ok-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "30084551-433c-4296-912a-97454ae385a5",
+      "title": "Nona Manis",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "nona-manis",
+      "has_reactions": false
+    },
+    {
+      "id": "09b3a709-a802-4e4e-b2b0-671f89b58c34",
+      "title": "Dunia Mereka",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "dunia-mereka",
+      "has_reactions": false
+    },
+    {
+      "id": "a624950c-5b80-447d-9c91-abcbc49ebc85",
+      "title": "Mereka Bilang, Saya Monyet!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "mereka-bilang-saya-monyet",
+      "has_reactions": false
+    },
+    {
+      "id": "de4569b7-ca27-4d15-a2e4-425bcd70e222",
+      "title": "The Wall",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-wall",
+      "has_reactions": false
+    },
+    {
+      "id": "834959da-f5a9-40e1-b297-e0c22e83da90",
+      "title": "Jakarta Undercover",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "jakarta-undercover",
+      "has_reactions": false
+    },
+    {
+      "id": "70370bdb-3a6d-4f81-81df-021880512fcc",
+      "title": "The Self-Claimed Prophet",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-self-claimed-prophet",
+      "has_reactions": false
+    },
+    {
+      "id": "325480d3-2bc5-43ca-8fe9-0dda646ac79c",
+      "title": "Anak Ajaib",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "anak-ajaib",
+      "has_reactions": false
+    },
+    {
+      "id": "722fcb0e-8ca3-46a8-8737-08f44ee30a32",
+      "title": "Identity",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "identity",
+      "has_reactions": false
+    },
+    {
+      "id": "10a1ac1e-67f6-4e80-b7f6-6ad64e3ac5be",
+      "title": "Jagad X Code",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jagad-x-code",
+      "has_reactions": false
+    },
+    {
+      "id": "74a4d15c-0cd8-459a-8c90-3a31cde6d326",
+      "title": "Bahwa Cinta Itu Ada",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bahwa-cinta-itu-ada",
+      "has_reactions": false
+    },
+    {
+      "id": "2240a9f3-d027-43cd-b189-0d3b6979688c",
+      "title": "Akibat Pergaulan Bebas",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "akibat-pergaulan-bebas",
+      "has_reactions": false
+    },
+    {
+      "id": "7499d3c5-e519-4a2f-bcdd-17a74f9db98f",
+      "title": "Jinx",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jinx",
+      "has_reactions": false
+    },
+    {
+      "id": "ca9645d3-7fea-4811-80cb-8aef9010c382",
+      "title": "Demi Dewi",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "demi-dewi",
+      "has_reactions": false
+    },
+    {
+      "id": "12e162d5-f12d-4762-ae0b-34f2928eff23",
+      "title": "Mudik Lebaran",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mudik-lebaran",
+      "has_reactions": false
+    },
+    {
+      "id": "a45d1cda-38f4-46d4-b90e-af8c33533ed2",
+      "title": "The Raid",
+      "release_year": 2012,
+      "studio_label": "Celluloid Dreams",
+      "slug": "the-raid",
+      "has_reactions": true
+    },
+    {
+      "id": "60c71707-6d19-453a-877f-7c19dadf280c",
+      "title": "Sang Martir",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sang-martir",
+      "has_reactions": false
+    },
+    {
+      "id": "4e217ebc-fc44-4786-a3a2-8f73be8d34d1",
+      "title": "Dilema",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "dilema",
+      "has_reactions": false
+    },
+    {
+      "id": "2167e20b-fac8-426b-9e64-0cfd4b0e5127",
+      "title": "Crazy Love",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "crazy-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1b44831a-8a33-407b-b2bd-e2c5605b9f1c",
+      "title": "Air Terjun Pengantin Phuket",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "air-terjun-pengantin-phuket",
+      "has_reactions": false
+    },
+    {
+      "id": "987dbe80-bcb0-4c87-adfa-5cf536c77718",
+      "title": "Eyang Kubur",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "eyang-kubur",
+      "has_reactions": false
+    },
+    {
+      "id": "e9f4c1ec-bd12-428b-9241-980dc37ba50e",
+      "title": "Finding Srimulat",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "finding-srimulat",
+      "has_reactions": false
+    },
+    {
+      "id": "fed10309-6b5c-4bd3-a0b4-ce6888f87dfa",
+      "title": "Merry Go Round",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "merry-go-round",
+      "has_reactions": false
+    },
+    {
+      "id": "a3e8288a-c663-49ed-87d7-15623b26217f",
+      "title": "Make Money",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "make-money",
+      "has_reactions": false
+    },
+    {
+      "id": "e05a80f8-5aed-44bd-99f6-34b43051d7b7",
+      "title": "Sepatu Dahlan",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "sepatu-dahlan",
+      "has_reactions": false
+    },
+    {
+      "id": "717a68ea-8627-468c-a667-29e4dc09ae7b",
+      "title": "Runaway",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "runaway",
+      "has_reactions": false
+    },
+    {
+      "id": "cc2bd341-308c-41b6-9e07-a9d402458584",
+      "title": "Pukulan Maut",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "pukulan-maut",
+      "has_reactions": false
+    },
+    {
+      "id": "a346bc5d-6c46-4774-a531-d28026f2cb3b",
+      "title": "Killers",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "killers",
+      "has_reactions": false
+    },
+    {
+      "id": "db1c4a5f-47f4-4cc4-b0c5-8fd196a1c0d6",
+      "title": "Negeri Tanpa Telinga",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "negeri-tanpa-telinga",
+      "has_reactions": false
+    },
+    {
+      "id": "81928ef7-f862-414d-9f97-a86dd5c6ff21",
+      "title": "Haji Backpacker",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "haji-backpacker",
+      "has_reactions": false
+    },
+    {
+      "id": "766fe468-d42a-4bc7-9392-92bc51a51fa8",
+      "title": "Chasing Love to China",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "chasing-love-to-china",
+      "has_reactions": false
+    },
+    {
+      "id": "4cb72b2e-48f9-4f68-ae62-bfa5ac5b4632",
+      "title": "Salah Bodi",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "salah-bodi",
+      "has_reactions": false
+    },
+    {
+      "id": "6900dfcb-3069-43e2-846e-5caeeea78d57",
+      "title": "Unseen Sonata",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "unseen-sonata",
+      "has_reactions": false
+    },
+    {
+      "id": "b734cdc8-0884-41c7-9be2-606b8b362e5d",
+      "title": "2014",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "2014",
+      "has_reactions": false
+    },
+    {
+      "id": "51530597-c2b7-4006-8620-9d8256f0122e",
+      "title": "Erau Kota Raja",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "erau-kota-raja",
+      "has_reactions": false
+    },
+    {
+      "id": "87997289-30ef-462b-a375-e7b5142f92c4",
+      "title": "I Am Hope",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "i-am-hope",
+      "has_reactions": false
+    },
+    {
+      "id": "f29de5d2-7724-4ed9-8e56-66d4c1c467a7",
+      "title": "Spy In Love",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "spy-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "0191e54d-bd3e-489e-8b92-79784a295c6e",
+      "title": "Raksasa dari Jogja",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "raksasa-dari-jogja",
+      "has_reactions": false
+    },
+    {
+      "id": "5e0c7ebb-d00f-4893-b070-cdf12c9b3589",
+      "title": "Romansa: Gending Cinta di Tanah Turki",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "romansa-gending-cinta-di-tanah-turki",
+      "has_reactions": false
+    },
+    {
+      "id": "1f2ea2a7-335c-442d-9d9b-9eef5c4b1ef4",
+      "title": "Three Sassy Sisters",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "three-sassy-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "35de028e-700c-4847-8299-f6290b04f7d0",
+      "title": "Jingga",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "jingga",
+      "has_reactions": false
+    },
+    {
+      "id": "6d7749d6-94b6-4166-9f95-9e5339d8f4a7",
+      "title": "Captain America: Civil War",
+      "release_year": 2016,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-civil-war",
+      "has_reactions": true
+    },
+    {
+      "id": "8fd9e262-89c8-45b5-97c2-af01a1e9e879",
+      "title": "Mimpi Anak Pulau",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "mimpi-anak-pulau",
+      "has_reactions": false
+    },
+    {
+      "id": "b77eb6aa-cbbd-461e-8baa-58378b05bc37",
+      "title": "Senjakala di Manado",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "senjakala-di-manado",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b0cc9e-26ad-4e83-b2ac-3282c28a4abf",
+      "title": "Firegate",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "firegate",
+      "has_reactions": false
+    },
+    {
+      "id": "84dc6868-5e76-43c9-98ef-ad791dd326be",
+      "title": "Chrisye",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chrisye",
+      "has_reactions": false
+    },
+    {
+      "id": "28eca049-5b41-436f-b244-394f743438c3",
+      "title": "Keira",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "keira",
+      "has_reactions": false
+    },
+    {
+      "id": "4c254d30-6dd4-4278-bf06-3383e6f0d194",
+      "title": "May the Devil Take You",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "may-the-devil-take-you",
+      "has_reactions": false
+    },
+    {
+      "id": "09056d11-c6fd-41dd-ab72-c48279be68f7",
+      "title": "Black Magic",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "black-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "0a422f89-a1a0-4f38-845b-08e32e61b479",
+      "title": "Nagabonar Reborn",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "nagabonar-reborn",
+      "has_reactions": false
+    },
+    {
+      "id": "57e55f10-c96e-4b81-842a-26d5200e240f",
+      "title": "May the Devil Take You Too",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "may-the-devil-take-you-too",
+      "has_reactions": false
+    },
+    {
+      "id": "b0836124-0d9a-4230-b89e-24bb1c6c58ac",
+      "title": "100% Halal",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "100-halal",
+      "has_reactions": false
+    },
+    {
+      "id": "2a920364-f43b-44f4-bc4b-4cd8548a0a38",
+      "title": "Onrust",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "onrust",
+      "has_reactions": false
+    },
+    {
+      "id": "be7bfffe-9643-425c-b57f-5ee9e7764b76",
+      "title": "Jin Khodam",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "jin-khodam",
+      "has_reactions": false
+    },
+    {
+      "id": "b5b93d63-9c38-48df-b7cc-edefe402f9d7",
+      "title": "Lokananta",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lokananta",
+      "has_reactions": false
+    }
+  ]
+}

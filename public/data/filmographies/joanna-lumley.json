@@ -1,0 +1,584 @@
+{
+  "id": "c7cfe2a6-f2d5-450d-9a5d-ef7410c3dd06",
+  "name": "Joanna Lumley",
+  "slug": "joanna-lumley",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/omQvLqkQf9yemMroaj6MJbf37sf.jpg",
+  "filmography": [
+    {
+      "id": "acfa4eeb-85f3-49f8-aeeb-b1b5c31311d1",
+      "title": "Frank and Percy",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "frank-and-percy",
+      "has_reactions": false
+    },
+    {
+      "id": "3839f5a5-8c5a-40e7-a789-be5f00570d81",
+      "title": "On Her Majesty's Secret Service",
+      "release_year": 1969,
+      "studio_label": "EON Productions",
+      "slug": "on-her-majesty-s-secret-service",
+      "has_reactions": true
+    },
+    {
+      "id": "c214d4db-8b15-41e3-982a-c32f1fdb496e",
+      "title": "Some Girls Do",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "some-girls-do",
+      "has_reactions": false
+    },
+    {
+      "id": "7569ba2e-290a-458a-ac30-808967598dd5",
+      "title": "The Ballad of Tam Lin",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-tam-lin",
+      "has_reactions": false
+    },
+    {
+      "id": "4ce77eec-de60-4af9-a8d0-80ba7aea6858",
+      "title": "The Breaking of Bumbo",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-breaking-of-bumbo",
+      "has_reactions": false
+    },
+    {
+      "id": "4e805a18-08e8-4b50-9c78-e862d614b1cc",
+      "title": "Games That Lovers Play",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "games-that-lovers-play",
+      "has_reactions": false
+    },
+    {
+      "id": "3e1f2bb0-1798-4ce1-8691-a93995fa3aef",
+      "title": "The House That Dripped Blood",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-house-that-dripped-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "19f82f02-b86f-4f35-b09a-abe88a7ea169",
+      "title": "The Satanic Rites of Dracula",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-satanic-rites-of-dracula",
+      "has_reactions": false
+    },
+    {
+      "id": "8e7a5633-925b-40c6-92a1-154e5448f67f",
+      "title": "Don't Just Lie There, Say Something!",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "don-t-just-lie-there-say-something",
+      "has_reactions": false
+    },
+    {
+      "id": "d34cc53b-fe4f-4017-94e0-6ae9e417222a",
+      "title": "The Plank",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-plank",
+      "has_reactions": false
+    },
+    {
+      "id": "accc6aa0-4914-42bf-a490-d29accc96b8a",
+      "title": "Electric Blue 002",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "electric-blue-002",
+      "has_reactions": false
+    },
+    {
+      "id": "cbb77639-0d6d-4dc9-bdc6-25dd7119acc1",
+      "title": "An Audience with Dame Edna Everage",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "an-audience-with-dame-edna-everage",
+      "has_reactions": false
+    },
+    {
+      "id": "fab09fea-4027-4d7e-992f-fdb188e4c742",
+      "title": "Trail of the Pink Panther",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "trail-of-the-pink-panther",
+      "has_reactions": false
+    },
+    {
+      "id": "24d6f5cb-a1de-47d9-a967-d9ab81587b52",
+      "title": "Electric Blue - The Movie",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "electric-blue-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "540e36e0-1ee6-4bb3-bbd6-30303496df3b",
+      "title": "Curse of the Pink Panther",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "curse-of-the-pink-panther",
+      "has_reactions": false
+    },
+    {
+      "id": "9dfa3e5e-601b-416c-9fe3-75bfffa5fa4f",
+      "title": "The Weather in the Streets",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-weather-in-the-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "9ca0cc9e-1657-4ce1-87e0-eb6cb747d16e",
+      "title": "Shirley Valentine",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "shirley-valentine",
+      "has_reactions": false
+    },
+    {
+      "id": "6637057a-d958-498d-b039-977eac5d3c3e",
+      "title": "A Ghost in Monte Carlo",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "a-ghost-in-monte-carlo",
+      "has_reactions": false
+    },
+    {
+      "id": "d007af0c-60e7-41e7-a609-98740dcd2114",
+      "title": "Girl Friday",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "girl-friday",
+      "has_reactions": false
+    },
+    {
+      "id": "137093a5-8bef-4865-8f17-631396a0bb29",
+      "title": "The Forgotten Toys",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-forgotten-toys",
+      "has_reactions": false
+    },
+    {
+      "id": "9a01e7a4-87ac-40fb-bba9-b545c4568ab2",
+      "title": "In the Best Possible Taste: A Tribute to Kenny Everett",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "in-the-best-possible-taste-a-tribute-to-kenny-everett",
+      "has_reactions": false
+    },
+    {
+      "id": "f26afbbc-239b-48af-afde-1c0938a74a99",
+      "title": "The Tale of Sweeney Todd",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-tale-of-sweeney-todd",
+      "has_reactions": false
+    },
+    {
+      "id": "a44c1194-f0d5-4984-97ad-cf27ba1db6f6",
+      "title": "Absolutely Fabulous: A Life",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "absolutely-fabulous-a-life",
+      "has_reactions": false
+    },
+    {
+      "id": "6d624f3a-3fc9-4627-abda-d2488f6e2afe",
+      "title": "Coming Home",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "coming-home",
+      "has_reactions": false
+    },
+    {
+      "id": "8b3890aa-0080-4184-9ff2-990c4a0fac32",
+      "title": "Nancherrow",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "nancherrow",
+      "has_reactions": false
+    },
+    {
+      "id": "f06eeee4-805c-481a-ab64-ae8d953a3d8c",
+      "title": "Alice in Wonderland",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "alice-in-wonderland",
+      "has_reactions": false
+    },
+    {
+      "id": "a7873787-2180-4775-a4e3-48511b6f6ff2",
+      "title": "Parting Shots",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "parting-shots",
+      "has_reactions": false
+    },
+    {
+      "id": "86e4e69a-6ddb-4f8b-a5af-788d722cc454",
+      "title": "Maybe Baby",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "maybe-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "f39f4f2a-d466-438c-ae15-928ad283d286",
+      "title": "Whispers: An Elephant's Tale",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "whispers-an-elephant-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "089c7d74-e420-41b6-a1bf-aec16712bbaf",
+      "title": "Mirrorball",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mirrorball",
+      "has_reactions": false
+    },
+    {
+      "id": "0b87eb6f-de46-4fae-b205-e07eb4df4fdc",
+      "title": "The Cat's Meow",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-cat-s-meow",
+      "has_reactions": false
+    },
+    {
+      "id": "e847628b-b989-4604-8196-d0fa22a70c26",
+      "title": "Ella Enchanted",
+      "release_year": 2004,
+      "studio_label": "World 2000 Entertainment",
+      "slug": "ella-enchanted",
+      "has_reactions": true
+    },
+    {
+      "id": "5a89a88e-9709-41eb-baab-9c8e5dd8d34b",
+      "title": "EuroTrip",
+      "release_year": 2004,
+      "studio_label": "The Montecito Picture Company",
+      "slug": "eurotrip",
+      "has_reactions": true
+    },
+    {
+      "id": "a4f4a769-be1e-4ea5-9657-cb4bf962f246",
+      "title": "Corpse Bride",
+      "release_year": 2005,
+      "studio_label": "Tim Burton Productions",
+      "slug": "corpse-bride",
+      "has_reactions": true
+    },
+    {
+      "id": "d2f85ce1-fe57-40ef-8af0-9a9c3247bb0d",
+      "title": "My Favourite Attenborough Moment",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "my-favourite-attenborough-moment",
+      "has_reactions": false
+    },
+    {
+      "id": "e3ce03b9-e702-4f60-965e-fcb2e8f602d9",
+      "title": "Counting Out Time",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "counting-out-time",
+      "has_reactions": false
+    },
+    {
+      "id": "15c54913-1dbc-42b5-950f-26fc98a34c29",
+      "title": "Joanna Lumley in the Land of the Northern Lights",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-in-the-land-of-the-northern-lights",
+      "has_reactions": false
+    },
+    {
+      "id": "42c3e1c1-db66-451d-8445-4766ac64e978",
+      "title": "Ian Fleming: Where Bond Began",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "ian-fleming-where-bond-began",
+      "has_reactions": false
+    },
+    {
+      "id": "47d20c42-12d9-4bb3-8fa6-81fc2008e158",
+      "title": "Boogie Woogie",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "boogie-woogie",
+      "has_reactions": false
+    },
+    {
+      "id": "73a1a805-daaa-4593-ad40-a7a6c43fe2ba",
+      "title": "The Snowman Live Stage Show",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-snowman-live-stage-show",
+      "has_reactions": false
+    },
+    {
+      "id": "44bcd281-49c2-4c2c-bab6-9c7839c4f1a1",
+      "title": "Wogan on Wodehouse",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "wogan-on-wodehouse",
+      "has_reactions": false
+    },
+    {
+      "id": "32485043-e312-4795-b9ab-3007f5274a9e",
+      "title": "Joanna Lumley: The Search for Noah's Ark",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-the-search-for-noah-s-ark",
+      "has_reactions": false
+    },
+    {
+      "id": "546be7d9-8da1-44a5-8fa9-7cdbb8a3ee30",
+      "title": "The Making of a Lady",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-a-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "efdbb458-21eb-43f6-8634-ee4ad5d3f16d",
+      "title": "The Genius of Roald Dahl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-genius-of-roald-dahl",
+      "has_reactions": false
+    },
+    {
+      "id": "d3d15a5f-a6b0-4a38-9176-a6a3dc63baaf",
+      "title": "Gangsta Granny",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "gangsta-granny",
+      "has_reactions": false
+    },
+    {
+      "id": "60fec240-5688-49ee-93a3-7fcfd3d30b97",
+      "title": "The Wolf of Wall Street",
+      "release_year": 2013,
+      "studio_label": "Red Granite Pictures",
+      "slug": "the-wolf-of-wall-street",
+      "has_reactions": true
+    },
+    {
+      "id": "bfe7fc17-c790-4c87-95b2-a96b9b218f14",
+      "title": "Joanna Lumley Meets Will.I.Am",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-meets-will-i-am",
+      "has_reactions": false
+    },
+    {
+      "id": "cabb73c2-ff17-4e52-8f8b-cc4a25306a5e",
+      "title": "Bette Midler: One Night Only",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bette-midler-one-night-only",
+      "has_reactions": false
+    },
+    {
+      "id": "2640fcf1-5694-48ba-9a6f-c1e681ac96cc",
+      "title": "Joanna Lumley: Elvis and Me",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-elvis-and-me",
+      "has_reactions": false
+    },
+    {
+      "id": "dc696d02-2324-471c-a1d6-bdaf47f25a29",
+      "title": "Absolutely Anything",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "absolutely-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "64f6113f-e2df-4dab-b2ac-e5956caac39f",
+      "title": "Attenborough at 90",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "attenborough-at-90",
+      "has_reactions": false
+    },
+    {
+      "id": "adacdbc3-09b6-42c4-a443-2764f95f4376",
+      "title": "Paddington 2",
+      "release_year": 2017,
+      "studio_label": "StudioCanal",
+      "slug": "paddington-2",
+      "has_reactions": true
+    },
+    {
+      "id": "94e0acb3-cf0e-45af-89cb-ab56630160ba",
+      "title": "Joanna and Jennifer: Absolutely Champers",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "joanna-and-jennifer-absolutely-champers",
+      "has_reactions": false
+    },
+    {
+      "id": "975f8ba7-ecda-4edd-8aa7-100bd88605e7",
+      "title": "The Missing Crown Jewels",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-missing-crown-jewels",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a5894e-2faa-4435-83f9-75be709b1776",
+      "title": "Finding Your Feet",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "finding-your-feet",
+      "has_reactions": false
+    },
+    {
+      "id": "3d3ddb02-5f96-433f-afe3-a8d580b9fc73",
+      "title": "And the Winner Isn't",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "and-the-winner-isn-t",
+      "has_reactions": false
+    },
+    {
+      "id": "d83dee09-2695-4fb8-aba8-efc38159b568",
+      "title": "The Man You're Not",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-man-you-re-not",
+      "has_reactions": false
+    },
+    {
+      "id": "f4939f1c-8b14-45e9-922f-b76d90185dc7",
+      "title": "20 Years of the Black Eyed Peas",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "20-years-of-the-black-eyed-peas",
+      "has_reactions": false
+    },
+    {
+      "id": "626b6fc0-1a6e-4a47-a8ca-8dfc102aa80c",
+      "title": "Counting Tigers",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "counting-tigers",
+      "has_reactions": false
+    },
+    {
+      "id": "06febacf-4d3c-41ed-8052-553de4fd5d2b",
+      "title": "Coronation Street: 60 Unforgettable Years",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "coronation-street-60-unforgettable-years",
+      "has_reactions": false
+    },
+    {
+      "id": "375a5411-a00b-46d5-a3e6-557e548cc53c",
+      "title": "Quentin Blake \u2013 The Drawing of My Life",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "quentin-blake-the-drawing-of-my-life",
+      "has_reactions": false
+    },
+    {
+      "id": "2260f6e9-a820-453e-aff5-90edadcf5bf7",
+      "title": "Joanna Lumley and the Human Swan",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-and-the-human-swan",
+      "has_reactions": false
+    },
+    {
+      "id": "98069cc0-dcfa-4496-91f9-41e048d67b76",
+      "title": "Falling for Figaro",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "falling-for-figaro",
+      "has_reactions": false
+    },
+    {
+      "id": "a39faeab-644b-4f6e-977a-716cd7a7f4ba",
+      "title": "The Picture of Dorian Gray",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-picture-of-dorian-gray",
+      "has_reactions": false
+    },
+    {
+      "id": "5d37ca3f-6e22-4c42-aae4-4ce363fe8c0f",
+      "title": "Spike Milligan: The Unseen Archive",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "spike-milligan-the-unseen-archive",
+      "has_reactions": false
+    },
+    {
+      "id": "f9ad689e-bfc9-48e2-83e4-377cbf8d35e6",
+      "title": "Joanna Lumley: My Best Bits - In My Own Words",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "joanna-lumley-my-best-bits-in-my-own-words",
+      "has_reactions": false
+    },
+    {
+      "id": "8c79b280-20dc-4477-b421-fc5eb1069af9",
+      "title": "imagine... French & Saunders: Pointed, Bitchy, Bitter",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "imagine-french-saunders-pointed-bitchy-bitter",
+      "has_reactions": false
+    },
+    {
+      "id": "9fac9910-bd24-4ee8-a15c-505a42a4f1dc",
+      "title": "My Week with Maisy",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "my-week-with-maisy",
+      "has_reactions": false
+    },
+    {
+      "id": "780f4861-63b1-412a-965e-08273eb72423",
+      "title": "Absolutely Fabulous: Inside Out",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "absolutely-fabulous-inside-out",
+      "has_reactions": false
+    },
+    {
+      "id": "e6ed928d-7e28-45ab-9648-babdc36b3300",
+      "title": "Netflix Tudum 2025",
+      "release_year": 2025,
+      "studio_label": "Silent House Productions",
+      "slug": "netflix-tudum-2025",
+      "has_reactions": false
+    },
+    {
+      "id": "3e65ad0a-de24-4d6a-a640-68d74ccf0dbd",
+      "title": "A Ghost Story for Christmas: The Room in the Tower",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "a-ghost-story-for-christmas-the-room-in-the-tower",
+      "has_reactions": false
+    },
+    {
+      "id": "ab38edc3-531d-4191-9222-624045c7074d",
+      "title": "Twiggy",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "twiggy",
+      "has_reactions": false
+    }
+  ]
+}

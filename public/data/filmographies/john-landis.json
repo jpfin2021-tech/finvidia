@@ -1,0 +1,560 @@
+{
+  "id": "4cb9aee4-a632-4705-90e3-cedd56e8d778",
+  "name": "John Landis",
+  "slug": "john-landis",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg",
+  "filmography": [
+    {
+      "id": "2fad4474-d00b-4c3f-8d6e-2db158991d89",
+      "title": "Under the Moon",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "under-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "eb015fc2-594e-4875-af81-ce505509f10b",
+      "title": "Kelly's Heroes",
+      "release_year": 1970,
+      "studio_label": "Katzka-Loeb",
+      "slug": "kelly-s-heroes",
+      "has_reactions": true
+    },
+    {
+      "id": "4bbc82d1-0151-432b-a220-6bbd533a15e5",
+      "title": "Schlock",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "schlock",
+      "has_reactions": false
+    },
+    {
+      "id": "f53eb454-8659-4cbe-81a6-587455a9cb4f",
+      "title": "Death Race 2000",
+      "release_year": 1975,
+      "studio_label": "New World Pictures",
+      "slug": "death-race-2000",
+      "has_reactions": true
+    },
+    {
+      "id": "73857e1e-37b2-496a-a171-a419bf6b2562",
+      "title": "The Kentucky Fried Movie",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-kentucky-fried-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "5afe8c87-847d-48a1-b02a-c35f65fe9418",
+      "title": "Animal House",
+      "release_year": 1978,
+      "studio_label": "Universal Pictures",
+      "slug": "animal-house",
+      "has_reactions": true
+    },
+    {
+      "id": "cc88403a-4e4c-4251-bb60-219c25136916",
+      "title": "The Blues Brothers",
+      "release_year": 1980,
+      "studio_label": "Universal Pictures",
+      "slug": "the-blues-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "544714c1-a997-447e-b896-cfedee694168",
+      "title": "An American Werewolf in London",
+      "release_year": 1981,
+      "studio_label": "Lyncanthrope Films",
+      "slug": "an-american-werewolf-in-london",
+      "has_reactions": true
+    },
+    {
+      "id": "f5c90f70-2c9e-43cb-b378-bea8b9c3315f",
+      "title": "Eating Raoul",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "eating-raoul",
+      "has_reactions": false
+    },
+    {
+      "id": "8187277e-1f87-4c39-aad0-ae096f8c8a8c",
+      "title": "Trading Places",
+      "release_year": 1983,
+      "studio_label": "Cinema Group Ventures",
+      "slug": "trading-places",
+      "has_reactions": true
+    },
+    {
+      "id": "86bbe008-a09f-4fbd-a8a2-ecc8c007d6d2",
+      "title": "The Muppets Take Manhattan",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-take-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "a973b5fc-42c6-41a5-8b74-e25db07f4185",
+      "title": "Into the Night",
+      "release_year": 1985,
+      "studio_label": "Universal Pictures",
+      "slug": "into-the-night",
+      "has_reactions": true
+    },
+    {
+      "id": "328f1b01-9cee-453b-b37b-7420f444dda1",
+      "title": "RoboCop",
+      "release_year": 1987,
+      "studio_label": "Orion Pictures",
+      "slug": "robocop",
+      "has_reactions": true
+    },
+    {
+      "id": "eebb19d3-3d0a-4b03-a86f-53fec3acbc39",
+      "title": "Spontaneous Combustion",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "spontaneous-combustion",
+      "has_reactions": false
+    },
+    {
+      "id": "b7341d56-7fdb-461a-a382-74f0794dc1e1",
+      "title": "Psycho IV: The Beginning",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "psycho-iv-the-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "65b2c918-d0c0-475d-bc26-23a6a84e8627",
+      "title": "Darkman",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "darkman",
+      "has_reactions": false
+    },
+    {
+      "id": "d279db83-b493-464a-9aa0-68c990aa6ace",
+      "title": "Venice/Venice",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "venice-venice",
+      "has_reactions": false
+    },
+    {
+      "id": "73e4d74c-cbc6-4b4b-a169-4cfe564d577a",
+      "title": "Body Chemistry II: The Voice of a Stranger",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "body-chemistry-ii-the-voice-of-a-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "cc0dd56a-0b32-4928-bb8c-0b02a2a7ed85",
+      "title": "Sleepwalkers",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "sleepwalkers",
+      "has_reactions": false
+    },
+    {
+      "id": "9a55ac55-99a3-4044-9ac2-66031399dbd1",
+      "title": "The Martin & Lewis Story: The Last Great Comedy Team",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-martin-lewis-story-the-last-great-comedy-team",
+      "has_reactions": false
+    },
+    {
+      "id": "a506e08f-49ec-4afb-8255-070e50e790de",
+      "title": "The Silence of the Hams",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-silence-of-the-hams",
+      "has_reactions": false
+    },
+    {
+      "id": "1b3e7a80-76c5-40eb-a256-cfeb3b96f606",
+      "title": "The Legend of Dolemite! Bigger & Badder",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-dolemite-bigger-badder",
+      "has_reactions": false
+    },
+    {
+      "id": "29b1b155-f043-4de8-9d2d-a2ce88d0c950",
+      "title": "Abbott & Costello Meet Biography",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "abbott-costello-meet-biography",
+      "has_reactions": false
+    },
+    {
+      "id": "45174b56-e4fa-4f24-83fa-50a8c23fbc43",
+      "title": "Hollywood Rated 'R'",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "hollywood-rated-r",
+      "has_reactions": false
+    },
+    {
+      "id": "6eaf473b-26dd-4598-a5f2-ea734c876bbd",
+      "title": "Quicksilver Highway",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "quicksilver-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "29553366-a840-4e91-9544-89b20cb2d67a",
+      "title": "Mad City",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mad-city",
+      "has_reactions": false
+    },
+    {
+      "id": "62e07fda-3b40-4619-88c7-d195edb0eb2a",
+      "title": "The Abbey Road Story",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-abbey-road-story",
+      "has_reactions": false
+    },
+    {
+      "id": "08ad3eb7-ca1f-4694-989a-9bf4810435ae",
+      "title": "Diamonds",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "diamonds",
+      "has_reactions": false
+    },
+    {
+      "id": "3def9fa4-3a24-4866-a2d6-a6e7fb051037",
+      "title": "The American Nightmare",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-american-nightmare",
+      "has_reactions": false
+    },
+    {
+      "id": "0cacbb95-c7d2-4103-8293-10d316a30262",
+      "title": "Forever Ealing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "forever-ealing",
+      "has_reactions": false
+    },
+    {
+      "id": "81df4d3b-6332-4d08-b441-6d4980201d28",
+      "title": "Michael Jackson's Private Home Movies",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-s-private-home-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "e037f032-b71c-4058-8b71-99e0222a47af",
+      "title": "Spider-Man 2",
+      "release_year": 2004,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "07942cc0-4639-40fa-86ad-0e713480ba03",
+      "title": "Hollywood's Creepiest Creatures",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hollywood-s-creepiest-creatures",
+      "has_reactions": false
+    },
+    {
+      "id": "2bf18b6f-49db-42d6-be72-ecec257892d9",
+      "title": "Chicago Filmmakers on the Chicago River",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "chicago-filmmakers-on-the-chicago-river",
+      "has_reactions": false
+    },
+    {
+      "id": "c472824e-b689-4bea-8856-7507c7959572",
+      "title": "Mario Bava: Operazione paura",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mario-bava-operazione-paura",
+      "has_reactions": false
+    },
+    {
+      "id": "2ab56f54-8c07-4b8f-bc93-e67da6b4fe74",
+      "title": "Shadows in the Dark: The Val Lewton Legacy",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shadows-in-the-dark-the-val-lewton-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "daae0183-fde4-4abd-af4f-3bcd7ee3c336",
+      "title": "The Blues Brothers: Transposing The Music",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-blues-brothers-transposing-the-music",
+      "has_reactions": false
+    },
+    {
+      "id": "42a28dad-a747-4b9d-9836-6964f586f3bb",
+      "title": "Torrente 3: The Protector",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "torrente-3-the-protector",
+      "has_reactions": false
+    },
+    {
+      "id": "d8b94087-731d-418d-9094-8bcdaa705239",
+      "title": "Busby Berkeley's Kaleidoscopic Eyes",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "busby-berkeley-s-kaleidoscopic-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "b029bfc5-6b8f-4ea1-8153-71e9db9c2bed",
+      "title": "42nd Street: From Book to Screen to Stage",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "42nd-street-from-book-to-screen-to-stage",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff530f1-1a5d-450c-b631-ba6ff6b67151",
+      "title": "(buz'be bur'kle) n. A Study in Style",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "buz-be-bur-kle-n-a-study-in-style",
+      "has_reactions": false
+    },
+    {
+      "id": "2919368f-9a90-43dc-8d7d-32ce954a95bb",
+      "title": "Footlight Parade: Music for the Decades",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "footlight-parade-music-for-the-decades",
+      "has_reactions": false
+    },
+    {
+      "id": "04df7320-b5a0-4919-95c9-e2a3786c91e4",
+      "title": "Bloodsucking Cinema",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "bloodsucking-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "5f55b0c0-65b0-41f3-abea-1cd4e35aceea",
+      "title": "Famous Monster: Forrest J Ackerman",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "famous-monster-forrest-j-ackerman",
+      "has_reactions": false
+    },
+    {
+      "id": "7adfc692-c2bb-43e9-ae42-7832cdf39e7c",
+      "title": "The Return of the Living Dead:  The Decade of Darkness",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-the-living-dead-the-decade-of-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "01b3a12f-cc0e-4b95-9d6a-9675171e8276",
+      "title": "Spine Tingler! The William Castle Story",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "spine-tingler-the-william-castle-story",
+      "has_reactions": false
+    },
+    {
+      "id": "85afaa5e-58a8-4240-903f-64793b659674",
+      "title": "Parasomnia",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "parasomnia",
+      "has_reactions": false
+    },
+    {
+      "id": "3e4cb5b7-e4f4-4ca2-8f56-97f15b67edf4",
+      "title": "Beware the Moon: Remembering 'An American Werewolf in London'",
+      "release_year": 2009,
+      "studio_label": "Universal Studios Home Entertainment",
+      "slug": "beware-the-moon-remembering-an-american-werewolf-in-london",
+      "has_reactions": false
+    },
+    {
+      "id": "d63e2225-9fe0-4c44-b1a5-6a7760603fe1",
+      "title": "The Face is Familiar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-face-is-familiar",
+      "has_reactions": false
+    },
+    {
+      "id": "7e6c968d-f6ba-4f91-9e0f-400d7f473070",
+      "title": "Into the Pit: The Shocking Story of Deadpit.com",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "into-the-pit-the-shocking-story-of-deadpit-com",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bb5004-cbbf-4b34-b6de-18b92e201568",
+      "title": "Teen Spirit: Teenagers and Hollywood",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "teen-spirit-teenagers-and-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "175ebdb1-c986-4c95-b074-2b6781d63981",
+      "title": "Machete Maidens Unleashed!",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "machete-maidens-unleashed",
+      "has_reactions": false
+    },
+    {
+      "id": "f3437d8c-deb2-42d3-bbb7-8917cca6a5d4",
+      "title": "The Wolf Man: From Ancient Curse to Modern Myth",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-wolf-man-from-ancient-curse-to-modern-myth",
+      "has_reactions": false
+    },
+    {
+      "id": "469deccc-7fc7-4e10-8e69-9f1b352c231e",
+      "title": "David Bowie: Rare and Unseen",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "david-bowie-rare-and-unseen",
+      "has_reactions": false
+    },
+    {
+      "id": "008db38f-847b-4115-b568-258a28e9a052",
+      "title": "Nightmare Factory",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "nightmare-factory",
+      "has_reactions": false
+    },
+    {
+      "id": "e302e6bc-f8fd-479d-841e-ef4ae5e890a9",
+      "title": "American Grindhouse",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "american-grindhouse",
+      "has_reactions": false
+    },
+    {
+      "id": "1e2afbce-b12b-4033-8aec-e01fbca8fef8",
+      "title": "Attack of the 50 Foot Cheerleader",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "attack-of-the-50-foot-cheerleader",
+      "has_reactions": false
+    },
+    {
+      "id": "f4d81391-1dd0-47c8-818e-66c62814545b",
+      "title": "Blast Vegas",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blast-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "c78833b8-3308-43f8-adf8-034e7e060172",
+      "title": "Trespassing Bergman",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "trespassing-bergman",
+      "has_reactions": false
+    },
+    {
+      "id": "dcf9dd86-d9e0-4bca-bdba-22a16126f33c",
+      "title": "Tales of Halloween",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "tales-of-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "91979dd5-7ffe-4459-ad17-fba5139cc7f9",
+      "title": "Creature Designers: The Frankenstein Complex",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "creature-designers-the-frankenstein-complex",
+      "has_reactions": false
+    },
+    {
+      "id": "30529eda-fb0e-4262-a65c-baf0552488d1",
+      "title": "The Body",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-body",
+      "has_reactions": false
+    },
+    {
+      "id": "9a248a17-4bd9-4d10-ad61-45d9b6b9c146",
+      "title": "An American Filmmaker in London",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "an-american-filmmaker-in-london",
+      "has_reactions": false
+    },
+    {
+      "id": "3fe87280-8583-4651-b666-a5f9d04955b4",
+      "title": "Mark of The Beast: The Legacy of the Universal Werewolf",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "mark-of-the-beast-the-legacy-of-the-universal-werewolf",
+      "has_reactions": false
+    },
+    {
+      "id": "45944aa6-87ed-4520-acde-047464bef8a5",
+      "title": "Boris Karloff: The Man Behind the Monster",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "boris-karloff-the-man-behind-the-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "80080fb9-e663-4a7a-aaa3-0a85d5696c1b",
+      "title": "Blood, Guts and Sunshine: The History of Horror Made in Florida",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "blood-guts-and-sunshine-the-history-of-horror-made-in-florida",
+      "has_reactions": false
+    },
+    {
+      "id": "8882bd50-88fb-4499-b346-8b9afd551866",
+      "title": "Thriller 40",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "thriller-40",
+      "has_reactions": false
+    },
+    {
+      "id": "b30a3dec-b509-4f28-80c7-00869ac783b7",
+      "title": "The Credible Adventures of Mr. T",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-credible-adventures-of-mr-t",
+      "has_reactions": false
+    },
+    {
+      "id": "f91c5681-b247-43e9-a5cb-d82704a92829",
+      "title": "Robot Dracula",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "robot-dracula",
+      "has_reactions": false
+    }
+  ]
+}

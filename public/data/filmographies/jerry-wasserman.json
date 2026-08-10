@@ -1,0 +1,648 @@
+{
+  "id": "b5f22fce-b5b0-4306-9770-c95b2f7adc44",
+  "name": "Jerry Wasserman",
+  "slug": "jerry-wasserman",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/sDxJx0ijIuI0Hfwq4KL5kVfAiBN.jpg",
+  "filmography": [
+    {
+      "id": "3cdc317b-8927-47e9-8b43-11b4d991d651",
+      "title": "Davy Crockett: A Letter to Polly",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "davy-crockett-a-letter-to-polly",
+      "has_reactions": false
+    },
+    {
+      "id": "859fcb0d-184a-4558-ae6b-fd044d137676",
+      "title": "Blackout",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "570ed891-273b-4b6e-909e-48e027d97adb",
+      "title": "The Christmas Star",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-star",
+      "has_reactions": false
+    },
+    {
+      "id": "ed712a58-7ab4-47fe-9175-c363d9eae428",
+      "title": "Close to Home",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "close-to-home",
+      "has_reactions": false
+    },
+    {
+      "id": "934e35b1-a287-4610-9d82-fcfff7f6bb98",
+      "title": "The Accused",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-accused",
+      "has_reactions": false
+    },
+    {
+      "id": "51f649f8-7f6b-486b-8ac5-3f56084280a1",
+      "title": "Shoot to Kill",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "shoot-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "8a84ab14-26be-43f7-9b11-d6d3fd15879b",
+      "title": "Cold Front",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "cold-front",
+      "has_reactions": false
+    },
+    {
+      "id": "e4044e01-468c-455c-afae-c1059c3a3a04",
+      "title": "Look Who's Talking",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking",
+      "has_reactions": false
+    },
+    {
+      "id": "1d1b7fbc-07a5-40c3-86a8-3443f435deef",
+      "title": "The Fly II",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-fly-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "0beeeb3b-cd51-407a-a070-6f5edcfd82b4",
+      "title": "Quarantine",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "quarantine",
+      "has_reactions": false
+    },
+    {
+      "id": "19b97865-4dda-4d1b-97f6-d94dfdd537c8",
+      "title": "The Penthouse",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-penthouse",
+      "has_reactions": false
+    },
+    {
+      "id": "c9df23d9-17bb-4a35-8f6b-913f8a751c55",
+      "title": "Short Time",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "short-time",
+      "has_reactions": false
+    },
+    {
+      "id": "014cdf01-cf99-428c-83a2-ac52b53235ad",
+      "title": "Mystery Date",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mystery-date",
+      "has_reactions": false
+    },
+    {
+      "id": "16bbd5d8-7c40-42e7-a9af-aebac42eb648",
+      "title": "Run",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "run",
+      "has_reactions": false
+    },
+    {
+      "id": "03eee861-ee26-410c-9dda-9db8ca048e2d",
+      "title": "Shame",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "shame",
+      "has_reactions": false
+    },
+    {
+      "id": "6b507ea0-d4b9-45fd-ae93-921e5a183a3b",
+      "title": "Stay Tuned",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "stay-tuned",
+      "has_reactions": false
+    },
+    {
+      "id": "7755cbf7-ad89-4d3b-8887-583ac48fee44",
+      "title": "Miracle on Interstate 880",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "miracle-on-interstate-880",
+      "has_reactions": false
+    },
+    {
+      "id": "e43be7b5-31d2-481f-acfb-fc75d4fde326",
+      "title": "Other Women's Children",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "other-women-s-children",
+      "has_reactions": false
+    },
+    {
+      "id": "621d96e6-840f-4ebd-b043-61a59f3958e6",
+      "title": "When a Stranger Calls Back",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "when-a-stranger-calls-back",
+      "has_reactions": false
+    },
+    {
+      "id": "b967c621-329a-4ece-b174-d451ecfd221f",
+      "title": "The Only Way Out",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-only-way-out",
+      "has_reactions": false
+    },
+    {
+      "id": "f3505cf2-7a2e-4e9d-b854-fe72268d65ad",
+      "title": "Tears and Laughter: The Joan and Melissa Rivers Story",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "tears-and-laughter-the-joan-and-melissa-rivers-story",
+      "has_reactions": false
+    },
+    {
+      "id": "8af2f983-e38c-4a70-ad64-6ebf2d93cc69",
+      "title": "Double Cross",
+      "release_year": 1994,
+      "studio_label": "Interglobal Productions Inc.",
+      "slug": "double-cross",
+      "has_reactions": false
+    },
+    {
+      "id": "5a7cc899-4ee9-4843-b18c-785fbbcc9745",
+      "title": "Heart of a Child",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "heart-of-a-child",
+      "has_reactions": false
+    },
+    {
+      "id": "3cd7cda1-50c1-43d5-9aae-44c3c8228983",
+      "title": "Nowhere to Hide",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "nowhere-to-hide",
+      "has_reactions": false
+    },
+    {
+      "id": "c922c9d4-dcaf-4d17-a246-cb828eab967f",
+      "title": "Trust in Me",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "trust-in-me",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3583b5-cc17-4e61-a823-6bfe5c04c0a8",
+      "title": "Malicious",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "malicious",
+      "has_reactions": false
+    },
+    {
+      "id": "2e3d0630-dc89-4820-8268-c6f0a7a06d19",
+      "title": "Deadlocked: Escape from Zone 14",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "deadlocked-escape-from-zone-14",
+      "has_reactions": false
+    },
+    {
+      "id": "61fa635f-2a86-40cd-8f45-7e752d1f6333",
+      "title": "Red Scorpion 2",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "red-scorpion-2",
+      "has_reactions": false
+    },
+    {
+      "id": "25635ded-a384-4bb2-a24f-21bcc3c2d253",
+      "title": "When the Vows Break",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "when-the-vows-break",
+      "has_reactions": false
+    },
+    {
+      "id": "7550ec6e-963c-44ac-9dd7-7338f7c9883e",
+      "title": "She Woke Up Pregnant",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "she-woke-up-pregnant",
+      "has_reactions": false
+    },
+    {
+      "id": "b7213b7d-8775-448d-bd62-90a5c04bd6ad",
+      "title": "Maternal Instincts",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "maternal-instincts",
+      "has_reactions": false
+    },
+    {
+      "id": "219282d8-3504-48c9-a70f-d7c9fb67d031",
+      "title": "Intensity",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "intensity",
+      "has_reactions": false
+    },
+    {
+      "id": "1e9b074c-e2b3-4d2e-8200-949a36139fed",
+      "title": "Dad's Week Off",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "dad-s-week-off",
+      "has_reactions": false
+    },
+    {
+      "id": "3a634cef-9194-4506-b96a-c1b551dcebdd",
+      "title": "Mr. Magoo",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "mr-magoo",
+      "has_reactions": false
+    },
+    {
+      "id": "82ba3191-7f5f-4ec5-aa10-5dfe4d56eac1",
+      "title": "Golf Punks",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "golf-punks",
+      "has_reactions": false
+    },
+    {
+      "id": "75ab25e7-0e67-4267-ba61-a2fe2b5fb4cf",
+      "title": "One Hot Summer Night",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "one-hot-summer-night",
+      "has_reactions": false
+    },
+    {
+      "id": "4b083918-6e19-4547-a233-96a58c43044d",
+      "title": "Outrage",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "outrage",
+      "has_reactions": false
+    },
+    {
+      "id": "c6ad4f4a-8922-418d-a833-3b57101b8cbe",
+      "title": "A Cooler Climate",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "a-cooler-climate",
+      "has_reactions": false
+    },
+    {
+      "id": "ae7e678a-db97-4811-91e4-a76fdc812cae",
+      "title": "Scorn",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "scorn",
+      "has_reactions": false
+    },
+    {
+      "id": "7a8b28a5-59e9-4eb2-b0a9-1fa55fa3b719",
+      "title": "Christina's House",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "christina-s-house",
+      "has_reactions": false
+    },
+    {
+      "id": "0e740167-c794-4af8-9fe4-918645dd12ab",
+      "title": "The Heart Department",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-heart-department",
+      "has_reactions": false
+    },
+    {
+      "id": "3bec5aa7-9b4b-4608-abbd-71f857677298",
+      "title": "The Operative",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-operative",
+      "has_reactions": false
+    },
+    {
+      "id": "4477c164-2f5c-4d0f-b0d8-69696a285f22",
+      "title": "Touched by a Killer",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "touched-by-a-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "c7600bc2-8e1b-408e-b7e1-71997b815a92",
+      "title": "Liberty Stands Still",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "liberty-stands-still",
+      "has_reactions": false
+    },
+    {
+      "id": "e17ff259-ed2d-4f54-a61b-3243dc6e56d8",
+      "title": "First to Die",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "first-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "c0a08cf9-31d2-43d0-b6e9-fc080936622b",
+      "title": "I, Robot",
+      "release_year": 2004,
+      "studio_label": "Davis Entertainment",
+      "slug": "i-robot",
+      "has_reactions": true
+    },
+    {
+      "id": "197bf12a-df9b-4e57-8ae6-643058bc886f",
+      "title": "Severed",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "severed",
+      "has_reactions": false
+    },
+    {
+      "id": "c5df5440-0c28-4563-85d5-5e7f53025e64",
+      "title": "FBI: Negotiator",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "fbi-negotiator",
+      "has_reactions": false
+    },
+    {
+      "id": "d51e16ba-4478-4066-9d0d-1c94ea5ee299",
+      "title": "Behind the Camera: The Unauthorized Story of 'Diff'rent Strokes'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "behind-the-camera-the-unauthorized-story-of-diff-rent-strokes",
+      "has_reactions": false
+    },
+    {
+      "id": "b0296927-458b-440e-8729-d25ba8c4c03c",
+      "title": "Family in Hiding",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "family-in-hiding",
+      "has_reactions": false
+    },
+    {
+      "id": "f5a985b3-cdb0-4025-b21a-ceb222b5aac0",
+      "title": "The Entrance",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-entrance",
+      "has_reactions": false
+    },
+    {
+      "id": "a6d6f223-f4ce-489b-a170-a09e4fb7dee3",
+      "title": "Black Christmas",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "black-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "14a62b1b-d910-45ef-b727-cf7266a4c298",
+      "title": "The Butterfly Effect 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-butterfly-effect-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a2ed5ea4-6641-4c23-8d06-995889392caa",
+      "title": "Write & Wrong",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "write-wrong",
+      "has_reactions": false
+    },
+    {
+      "id": "27579f89-164c-4a45-8827-227579969886",
+      "title": "NYC: Tornado Terror",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "nyc-tornado-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "9dd74633-ca45-48f5-b1e5-cf08308f3826",
+      "title": "Alien Trespass",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "alien-trespass",
+      "has_reactions": false
+    },
+    {
+      "id": "7312f7bd-f27f-4e07-8b3c-27ae77881c38",
+      "title": "Sight Unseen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "sight-unseen",
+      "has_reactions": false
+    },
+    {
+      "id": "3a121dc5-9abc-4fc7-a9fc-5ba37ce02f10",
+      "title": "Watchmen",
+      "release_year": 2009,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "watchmen",
+      "has_reactions": true
+    },
+    {
+      "id": "d5c9496e-fab7-4fc5-aa36-0d3c1abefe3f",
+      "title": "A Dangerous Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-man",
+      "has_reactions": false
+    },
+    {
+      "id": "2de41b42-c79a-4c02-8a81-24130791f6f6",
+      "title": "Sins of the Mother",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "sins-of-the-mother",
+      "has_reactions": false
+    },
+    {
+      "id": "44b6d70d-7fa0-4f58-82a4-0e637986ae8b",
+      "title": "Paradox",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "paradox",
+      "has_reactions": false
+    },
+    {
+      "id": "90e2bf06-731b-422a-838e-fd93a1840e03",
+      "title": "Doomsday Prophecy",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "doomsday-prophecy",
+      "has_reactions": false
+    },
+    {
+      "id": "a1ff2e04-b803-49c2-b970-90d0f11b71b7",
+      "title": "The Killing Game",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-killing-game",
+      "has_reactions": false
+    },
+    {
+      "id": "39f054d3-7de9-40ae-aff3-ee02d0775153",
+      "title": "Scarecrow",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "scarecrow",
+      "has_reactions": false
+    },
+    {
+      "id": "e59fe2d9-8aa2-4e3a-9631-e26dbf39deb0",
+      "title": "Goodnight for Justice: Queen of Hearts",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "goodnight-for-justice-queen-of-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "7108818f-cc29-423f-9ea6-445fe9067518",
+      "title": "Down River",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "down-river",
+      "has_reactions": false
+    },
+    {
+      "id": "229c9e00-5136-4068-8faa-edf1318cd7a3",
+      "title": "Feed the Gods",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "feed-the-gods",
+      "has_reactions": false
+    },
+    {
+      "id": "c24e4005-2bea-4fcc-920c-06198e75f618",
+      "title": "The Editor",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-editor",
+      "has_reactions": false
+    },
+    {
+      "id": "8734f5e9-ea5f-453f-9fa6-f4c36e494818",
+      "title": "The Starlight Heist",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-starlight-heist",
+      "has_reactions": false
+    },
+    {
+      "id": "9db78f1c-53d0-4230-a0f1-d2c6e177f83f",
+      "title": "Stolen Dreams",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "stolen-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "859ed0f1-89ce-44da-b804-6686fa50fc3f",
+      "title": "Toni Braxton: Unbreak My Heart",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "toni-braxton-unbreak-my-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "2f679175-c00b-4d7d-9630-ddb9f90f295a",
+      "title": "Reap What You Sew: An Aurora Teagarden Mystery",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "reap-what-you-sew-an-aurora-teagarden-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "d4ba61bd-b5f4-47d0-a583-e0627a5e20c9",
+      "title": "Little Pink House",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "little-pink-house",
+      "has_reactions": false
+    },
+    {
+      "id": "82de03cd-34b9-4a8d-938c-f58fd6bc14b2",
+      "title": "William",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "william",
+      "has_reactions": false
+    },
+    {
+      "id": "fc4f00c4-1470-41bb-817f-b60657396bdb",
+      "title": "Christmas in Evergreen: Bells Are Ringing",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "christmas-in-evergreen-bells-are-ringing",
+      "has_reactions": false
+    },
+    {
+      "id": "d5de0055-5bb3-4a21-8b04-924053367609",
+      "title": "Love Under the Olive Tree",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "love-under-the-olive-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "32e76bb0-9507-49c9-a95c-c482e2ec2888",
+      "title": "Christmas She Wrote",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "christmas-she-wrote",
+      "has_reactions": false
+    },
+    {
+      "id": "948fa659-9340-449a-9467-0e1640be78aa",
+      "title": "Heart of the Matter",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "heart-of-the-matter",
+      "has_reactions": false
+    },
+    {
+      "id": "feb9c52f-5ae8-4007-8786-bb91ade025e4",
+      "title": "The Wedding Veil Legacy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-wedding-veil-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "87b3ed11-306f-4640-b0e7-576527e9c080",
+      "title": "Heatwave",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "heatwave",
+      "has_reactions": false
+    }
+  ]
+}

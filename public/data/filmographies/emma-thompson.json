@@ -1,0 +1,528 @@
+{
+  "id": "d6d1736c-ffd7-445a-a251-84fa7e7a34a8",
+  "name": "Emma Thompson",
+  "slug": "emma-thompson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+  "filmography": [
+    {
+      "id": "c504bbc6-5b53-41c6-979d-c59f30c7926a",
+      "title": "Hear Me Roar",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "hear-me-roar",
+      "has_reactions": false
+    },
+    {
+      "id": "2fc08d05-a475-43f3-9ae8-c0691f237cf8",
+      "title": "How to Stop a Nuclear War",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "how-to-stop-a-nuclear-war",
+      "has_reactions": false
+    },
+    {
+      "id": "cb61380e-45c3-4d90-b290-67bd2b79c488",
+      "title": "The Cellar Tapes",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-cellar-tapes",
+      "has_reactions": false
+    },
+    {
+      "id": "f4598534-4e0d-4cf9-a50e-a9f1ae1cc5e4",
+      "title": "Slags",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "slags",
+      "has_reactions": false
+    },
+    {
+      "id": "5f78e487-7464-4139-b157-7648acd5c390",
+      "title": "Look Back in Anger",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-back-in-anger",
+      "has_reactions": false
+    },
+    {
+      "id": "a23be127-6a9b-4381-acdd-da735f9c44cf",
+      "title": "The Winslow Boy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-winslow-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "469943d0-af9b-4f9e-8aba-a6a5c32ba0e4",
+      "title": "Tin Fish",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tin-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "3366f77f-b59a-4493-ab02-7ff359c00d97",
+      "title": "Rabbit Ears -  The White Cat",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "rabbit-ears-the-white-cat",
+      "has_reactions": false
+    },
+    {
+      "id": "bbc62772-292f-4345-859a-af874a6be4e5",
+      "title": "In the Name of the Father",
+      "release_year": 1993,
+      "studio_label": "Hell's Kitchen",
+      "slug": "in-the-name-of-the-father",
+      "has_reactions": true
+    },
+    {
+      "id": "63289193-f174-4863-b9cf-20b12475a75c",
+      "title": "The Blue Boy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-blue-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "14c9dabb-94f4-4603-b301-0fd89427eb22",
+      "title": "My Father the Hero",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "my-father-the-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "f832845e-28ff-43af-9615-f7272ae43e2f",
+      "title": "Sense and Sensibility",
+      "release_year": 1995,
+      "studio_label": "Columbia Pictures",
+      "slug": "sense-and-sensibility",
+      "has_reactions": true
+    },
+    {
+      "id": "29d25247-89c1-48d3-b78a-b7d1d16455f6",
+      "title": "Hospital!",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "hospital",
+      "has_reactions": false
+    },
+    {
+      "id": "52b3d1a1-be3e-4e7e-9571-aef570fc465d",
+      "title": "Judas Kiss",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "judas-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "86e4e69a-6ddb-4f8b-a5af-788d722cc454",
+      "title": "Maybe Baby",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "maybe-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "065f98e2-4dba-499e-9a37-40d24e6ecf1f",
+      "title": "Wit",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "wit",
+      "has_reactions": false
+    },
+    {
+      "id": "68b0044f-041c-48da-8f52-6de3c4050508",
+      "title": "Love & Loyalty: The Making of 'The Remains of the Day'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "love-loyalty-the-making-of-the-remains-of-the-day",
+      "has_reactions": false
+    },
+    {
+      "id": "406f5a3c-83f3-4e76-acf5-fef4e374bc65",
+      "title": "Blind Loyalty, Hollow Honor: England's Fatal Flaw",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "blind-loyalty-hollow-honor-england-s-fatal-flaw",
+      "has_reactions": false
+    },
+    {
+      "id": "eb2f37a4-382e-46b8-ad66-4f7b4a562fff",
+      "title": "The Remains of the Day: The Filmmaker's Journey",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-remains-of-the-day-the-filmmaker-s-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "a2bf0598-0d84-4e50-b5ec-d43c0a0cec65",
+      "title": "Love Actually",
+      "release_year": 2003,
+      "studio_label": "Working Title Films",
+      "slug": "love-actually",
+      "has_reactions": true
+    },
+    {
+      "id": "025662fe-e62e-4838-894f-eb9e205a9d78",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "release_year": 2004,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-prisoner-of-azkaban",
+      "has_reactions": true
+    },
+    {
+      "id": "ad6b4c3c-8765-4808-a257-d7e4ff6320e7",
+      "title": "Stranger Than Fiction",
+      "release_year": 2006,
+      "studio_label": "Three Strange Angels",
+      "slug": "stranger-than-fiction",
+      "has_reactions": true
+    },
+    {
+      "id": "cbe92ddd-9b42-4b46-8d39-d48b1507dbee",
+      "title": "I Am Legend",
+      "release_year": 2007,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "i-am-legend",
+      "has_reactions": true
+    },
+    {
+      "id": "82ab0377-ddde-4596-90c8-5eb8fd9f0cbb",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "release_year": 2007,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-order-of-the-phoenix",
+      "has_reactions": true
+    },
+    {
+      "id": "eb5f0a5b-b73f-44df-b179-122ef6f089be",
+      "title": "Stephen Fry: 50 Not Out",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "stephen-fry-50-not-out",
+      "has_reactions": false
+    },
+    {
+      "id": "aee9b4e0-874e-480a-9c72-a2d76ba2587b",
+      "title": "Last Chance Harvey",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "last-chance-harvey",
+      "has_reactions": false
+    },
+    {
+      "id": "417fcaaf-1867-40f8-aa1c-11caf6efbc9c",
+      "title": "The Boat That Rocked",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-boat-that-rocked",
+      "has_reactions": false
+    },
+    {
+      "id": "dcfc121b-0451-40a3-9ec4-4e0c2565366c",
+      "title": "Fry and Laurie Reunited",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "fry-and-laurie-reunited",
+      "has_reactions": false
+    },
+    {
+      "id": "9081a48a-5232-4558-9783-262b721a4cee",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "release_year": 2011,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-deathly-hallows-part-2",
+      "has_reactions": true
+    },
+    {
+      "id": "d7097ef8-3f37-484e-9103-048c53f69f33",
+      "title": "When Harry Left Hogwarts",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "when-harry-left-hogwarts",
+      "has_reactions": false
+    },
+    {
+      "id": "ec04ac17-e889-4f98-b67c-b26d2d64fc9b",
+      "title": "Men in Black 3",
+      "release_year": 2012,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-3",
+      "has_reactions": true
+    },
+    {
+      "id": "43ee3328-562c-451a-a6f0-e6517ba08bed",
+      "title": "Brave",
+      "release_year": 2012,
+      "studio_label": "Pixar",
+      "slug": "brave",
+      "has_reactions": true
+    },
+    {
+      "id": "f6da550b-2835-43d8-abd4-8cc65314b878",
+      "title": "Saving Mr. Banks",
+      "release_year": 2013,
+      "studio_label": "Hopscotch Features",
+      "slug": "saving-mr-banks",
+      "has_reactions": true
+    },
+    {
+      "id": "e88e8eab-bc44-4c05-b96d-4ee1f3c02f52",
+      "title": "Beautiful Creatures",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "beautiful-creatures",
+      "has_reactions": false
+    },
+    {
+      "id": "9f4c33ff-fce1-4180-9930-a1f20338baf5",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street \u2013 In Concert with the New York Philharmonic",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "sweeney-todd-the-demon-barber-of-fleet-street-in-concert-with-the-new-york-philharmonic",
+      "has_reactions": false
+    },
+    {
+      "id": "a209865b-8997-4eac-ba14-0598b46ee26e",
+      "title": "Men, Women & Children",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "men-women-children",
+      "has_reactions": false
+    },
+    {
+      "id": "b9b31909-e98f-48ff-bdd6-877c919b38e6",
+      "title": "Effie Gray",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "effie-gray",
+      "has_reactions": false
+    },
+    {
+      "id": "40eadd12-dc00-4d95-9d8e-ebd29658ed06",
+      "title": "The Love Punch",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-love-punch",
+      "has_reactions": false
+    },
+    {
+      "id": "92e0a2a0-7caa-440d-a619-f1bd31bcf844",
+      "title": "A Walk in the Woods",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-walk-in-the-woods",
+      "has_reactions": false
+    },
+    {
+      "id": "bfee8f89-876c-413e-a0c0-df4967894b1b",
+      "title": "The Legend of Barney Thomson",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-barney-thomson",
+      "has_reactions": false
+    },
+    {
+      "id": "1670ab4f-b0ef-4091-b83b-904906a405f7",
+      "title": "Alone in Berlin",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "alone-in-berlin",
+      "has_reactions": false
+    },
+    {
+      "id": "31f812d3-6380-4277-a5a7-e356d2d696ee",
+      "title": "Bridget Jones's Baby",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "bridget-jones-s-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "0808ca26-37b0-410d-99e6-1eed11d2f046",
+      "title": "To the Ends of the Earth",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "to-the-ends-of-the-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "ae5dd310-1cbd-45b1-ac68-551b62f834f6",
+      "title": "The Doubt Machine: Inside the Koch Brothers' War on Climate Science",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-doubt-machine-inside-the-koch-brothers-war-on-climate-science",
+      "has_reactions": false
+    },
+    {
+      "id": "d668c860-ae4d-4fbf-b588-017cf7436f71",
+      "title": "Die vielen Gesichter der Emma Thompson",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "die-vielen-gesichter-der-emma-thompson",
+      "has_reactions": false
+    },
+    {
+      "id": "34cee025-d600-4626-a1d8-ecbbcb91ea24",
+      "title": "Beauty and the Beast",
+      "release_year": 2017,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "beauty-and-the-beast",
+      "has_reactions": true
+    },
+    {
+      "id": "532dd0a0-21c2-438f-bfe7-a513b4e12a81",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-meyerowitz-stories-new-and-selected",
+      "has_reactions": false
+    },
+    {
+      "id": "a41a0a0f-7e89-42fc-abeb-c352ad3eff58",
+      "title": "Sea Sorrow",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "sea-sorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "02e29bd3-e890-487b-a9cc-57edd187da7c",
+      "title": "The Children Act",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-children-act",
+      "has_reactions": false
+    },
+    {
+      "id": "4d0a13e0-e65c-4b41-9bc0-80641170ec50",
+      "title": "Johnny English Strikes Again",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "johnny-english-strikes-again",
+      "has_reactions": false
+    },
+    {
+      "id": "75c89348-d367-42b1-87eb-e3711eb77d1d",
+      "title": "Beyond Boundaries: The Harvey Weinstein Scandal",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "beyond-boundaries-the-harvey-weinstein-scandal",
+      "has_reactions": false
+    },
+    {
+      "id": "064b5c8e-a3c5-456d-9f4b-1b8a5bfb66af",
+      "title": "Greenpeace: There's a Rang-Tan in My Bedroom",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "greenpeace-there-s-a-rang-tan-in-my-bedroom",
+      "has_reactions": false
+    },
+    {
+      "id": "d30c78c2-34ab-4210-86c6-7d3c4ea38d22",
+      "title": "King Lear",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "king-lear",
+      "has_reactions": false
+    },
+    {
+      "id": "a58d3631-ccca-4f4b-9192-c8e9bc978fcd",
+      "title": "Last Christmas",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "last-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "f7ec281e-f59f-4174-87b8-571a928f742f",
+      "title": "Extinction",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "extinction",
+      "has_reactions": false
+    },
+    {
+      "id": "ceb57ed0-cc77-4fde-beb1-a8d9548cda2d",
+      "title": "Hollywood's Dark Secret",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "hollywood-s-dark-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "6691c707-13aa-4789-bd00-1fc9f0465291",
+      "title": "Men in Black: International",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "men-in-black-international",
+      "has_reactions": false
+    },
+    {
+      "id": "aed9400e-5a1e-41f0-a1b2-361b37d85954",
+      "title": "Late Night",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "late-night",
+      "has_reactions": false
+    },
+    {
+      "id": "842533ef-84b4-463d-829f-b93be02f2955",
+      "title": "How to Build a Girl",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "how-to-build-a-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "fd5d083d-02b7-4ddf-9b8e-b78f5283086c",
+      "title": "Cruella",
+      "release_year": 2021,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "cruella",
+      "has_reactions": true
+    },
+    {
+      "id": "5cfa4cd2-0514-4cf7-afb2-9b7364720508",
+      "title": "Hannibal Hopkins & Sir Anthony",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "hannibal-hopkins-sir-anthony",
+      "has_reactions": false
+    },
+    {
+      "id": "b184d50c-9c8c-457e-81c9-96ed42f149db",
+      "title": "Good Luck to You, Leo Grande",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "good-luck-to-you-leo-grande",
+      "has_reactions": false
+    },
+    {
+      "id": "1f8182b6-8b1b-4d69-801c-bdec44065b2a",
+      "title": "Roald Dahl's Matilda the Musical",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "roald-dahl-s-matilda-the-musical",
+      "has_reactions": false
+    },
+    {
+      "id": "ffc35be1-5b51-4645-a970-ee5656fa3a0a",
+      "title": "What's Love Got to Do with It?",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "what-s-love-got-to-do-with-it",
+      "has_reactions": false
+    },
+    {
+      "id": "69a83ada-c4b2-4344-aa77-9260cfa306d0",
+      "title": "Dead of Winter",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "dead-of-winter",
+      "has_reactions": false
+    }
+  ]
+}

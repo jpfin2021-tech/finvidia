@@ -1,0 +1,552 @@
+{
+  "id": "4afbc803-a472-4a83-8379-3909f0ae934d",
+  "name": "Karen Black",
+  "slug": "karen-black",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2FUHvpCZ8A3we7yaEvIK8r06fCL.jpg",
+  "filmography": [
+    {
+      "id": "e07826b9-f428-4a98-b478-2e74754ee218",
+      "title": "The Prime Time",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-prime-time",
+      "has_reactions": false
+    },
+    {
+      "id": "ad419bde-1223-4d68-b06f-35a5cbf759ae",
+      "title": "You're a Big Boy Now",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "you-re-a-big-boy-now",
+      "has_reactions": false
+    },
+    {
+      "id": "21c3b76d-028e-43ff-b951-6a4b36973f0c",
+      "title": "Hard Contract",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "hard-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "ba527e45-69c5-47de-809c-536933cd7cb7",
+      "title": "A Gunfight",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "a-gunfight",
+      "has_reactions": false
+    },
+    {
+      "id": "9b2d3a8c-d9d3-46e4-b9a5-0572160972cf",
+      "title": "Drive, He Said",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "drive-he-said",
+      "has_reactions": false
+    },
+    {
+      "id": "a0e869b1-096a-460d-ba57-5ed07ff39853",
+      "title": "Law and Disorder",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "law-and-disorder",
+      "has_reactions": false
+    },
+    {
+      "id": "6daa0c10-bc5f-47e0-bb98-f5fcf18cff4d",
+      "title": "Rhinoceros",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "rhinoceros",
+      "has_reactions": false
+    },
+    {
+      "id": "f34fc27b-565f-4f61-986e-6e238939e190",
+      "title": "The Day of the Locust",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-day-of-the-locust",
+      "has_reactions": false
+    },
+    {
+      "id": "278b8de6-9f91-4339-94a3-fb7ae1669b82",
+      "title": "Nashville",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "nashville",
+      "has_reactions": false
+    },
+    {
+      "id": "d197ab1b-57e8-4a25-900f-50366f4760a6",
+      "title": "Trilogy of Terror",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "trilogy-of-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "c2558b54-133f-4586-8356-77ca4883924d",
+      "title": "Burnt Offerings",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "burnt-offerings",
+      "has_reactions": false
+    },
+    {
+      "id": "08b7217a-6449-4097-a1f5-b53973e06689",
+      "title": "Family Plot",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "family-plot",
+      "has_reactions": false
+    },
+    {
+      "id": "bc1ae988-b61d-4ab1-84d3-a8487ac5737b",
+      "title": "Crime and Passion",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "crime-and-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "29535aa2-c21c-4e87-a345-b6c4d29ebb27",
+      "title": "The Strange Possession of Mrs. Oliver",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-strange-possession-of-mrs-oliver",
+      "has_reactions": false
+    },
+    {
+      "id": "50c11b95-0274-4bea-be85-5806afa96df8",
+      "title": "In Praise of Older Women",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "in-praise-of-older-women",
+      "has_reactions": false
+    },
+    {
+      "id": "72fbd76a-19dc-49bf-968e-3dc5724176f5",
+      "title": "The Squeeze",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-squeeze",
+      "has_reactions": false
+    },
+    {
+      "id": "daa06fd2-7f51-44b2-97a9-3874f538dd72",
+      "title": "Where the Ladies Go",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "where-the-ladies-go",
+      "has_reactions": false
+    },
+    {
+      "id": "5231b8ee-8079-4740-91ed-7f183c45e677",
+      "title": "The Grass Is Singing",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-grass-is-singing",
+      "has_reactions": false
+    },
+    {
+      "id": "ce47828b-5362-4a66-9cf6-8245c33c06cb",
+      "title": "Miss Right",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "miss-right",
+      "has_reactions": false
+    },
+    {
+      "id": "5d3fd120-2d18-45b5-9709-c8e62cf30af3",
+      "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "come-back-to-the-5-dime-jimmy-dean-jimmy-dean",
+      "has_reactions": false
+    },
+    {
+      "id": "50afde5b-72df-44bd-bbf8-65fac8ad5238",
+      "title": "Can She Bake a Cherry Pie?",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "can-she-bake-a-cherry-pie",
+      "has_reactions": false
+    },
+    {
+      "id": "6c1bac63-beff-42ee-a0d9-f4e456988221",
+      "title": "Bad Manners",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "bad-manners",
+      "has_reactions": false
+    },
+    {
+      "id": "474a2f53-971e-4542-928f-96a16254812c",
+      "title": "Cut and Run",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "cut-and-run",
+      "has_reactions": false
+    },
+    {
+      "id": "bc485baf-280d-47cd-b832-a4da28eb818d",
+      "title": "Martin's Day",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "martin-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "997e1f45-30d0-4d2c-b97b-f3df1b58f591",
+      "title": "Invaders from Mars",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "invaders-from-mars",
+      "has_reactions": false
+    },
+    {
+      "id": "52e1f561-bc2e-443d-b655-c0abb5e294fe",
+      "title": "Hostage",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "hostage",
+      "has_reactions": false
+    },
+    {
+      "id": "82d717be-ed55-426c-8456-d88992280120",
+      "title": "It's Alive III: Island of the Alive",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "it-s-alive-iii-island-of-the-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "a4c81bbe-1864-4fcf-aa99-c00d42517d6e",
+      "title": "The Invisible Kid",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-invisible-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "0c767cfd-d972-4b31-a79f-404443f7bd16",
+      "title": "The Legendary Life of Ernest Hemingway",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-legendary-life-of-ernest-hemingway",
+      "has_reactions": false
+    },
+    {
+      "id": "f18fda38-aede-4069-8dac-cb94b4e9f2c7",
+      "title": "Homer and Eddie",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "homer-and-eddie",
+      "has_reactions": false
+    },
+    {
+      "id": "5b9edfd4-01db-48cc-962c-27f587f70591",
+      "title": "Night Angel",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "night-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "73e75818-e3af-4410-ac54-e3ddaa30da6b",
+      "title": "Haunting Fear",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "haunting-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "e7e0a617-097c-4bdf-b27b-c528f1755d4d",
+      "title": "Mirror Mirror",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mirror-mirror",
+      "has_reactions": false
+    },
+    {
+      "id": "fdfec103-472a-49d2-8baf-ed52d447548f",
+      "title": "Overexposed",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "overexposed",
+      "has_reactions": false
+    },
+    {
+      "id": "cc3740e4-2e3e-4fc1-b87c-364d5b9088cd",
+      "title": "Children of the Night",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "children-of-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "5c8f66fb-58db-4cd7-b94f-47a7db807217",
+      "title": "Caged Fear",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "caged-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "419e7464-4dd6-4f30-970a-1f83b6e634e2",
+      "title": "The Roller Blade Seven",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-roller-blade-seven",
+      "has_reactions": false
+    },
+    {
+      "id": "27c81c0a-ee74-4396-833d-bd7e872b9c3b",
+      "title": "Evil Spirits",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "evil-spirits",
+      "has_reactions": false
+    },
+    {
+      "id": "d68d6d62-59df-4094-9b7f-abdf8f971f43",
+      "title": "Blood Money",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "blood-money",
+      "has_reactions": false
+    },
+    {
+      "id": "40e30c3a-9a2e-42f3-b9fc-27a6d3042b63",
+      "title": "Quiet Fire",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "quiet-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "e137e6fa-ba73-462b-92bf-deaffd203d73",
+      "title": "Bound and Gagged: A Love Story",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "bound-and-gagged-a-love-story",
+      "has_reactions": false
+    },
+    {
+      "id": "8bf469d8-1374-4c04-95ee-b18908325e7b",
+      "title": "Return of the Roller Blade Seven",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "return-of-the-roller-blade-seven",
+      "has_reactions": false
+    },
+    {
+      "id": "a034d7ce-71a3-4cc1-9c4d-a60d4d69a565",
+      "title": "The Voluptuous Horror of Karen Black: Teather Penumbra",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-voluptuous-horror-of-karen-black-teather-penumbra",
+      "has_reactions": false
+    },
+    {
+      "id": "d62a7d61-0154-42d3-8020-c6ff402bdc34",
+      "title": "Dinosaur Valley Girls",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dinosaur-valley-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "d8136270-f6ea-4ffc-bae9-8f89a36d6d1a",
+      "title": "Plan 10 from Outer Space",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "plan-10-from-outer-space",
+      "has_reactions": false
+    },
+    {
+      "id": "bcf58d87-99fb-4eb6-b3d4-c891b3e4221a",
+      "title": "Crimetime",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "crimetime",
+      "has_reactions": false
+    },
+    {
+      "id": "acbfbf35-0389-411a-9577-c41b1137ef13",
+      "title": "Men",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "men",
+      "has_reactions": false
+    },
+    {
+      "id": "a2ca8b77-a800-4623-bd93-5ad62e363d34",
+      "title": "Dogtown",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "dogtown",
+      "has_reactions": false
+    },
+    {
+      "id": "e15a7800-fd4d-4070-a516-845b53fa2580",
+      "title": "Invisible Dad",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "invisible-dad",
+      "has_reactions": false
+    },
+    {
+      "id": "5a88b174-da48-4774-b964-860dbd143880",
+      "title": "Bury the Evidence",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "bury-the-evidence",
+      "has_reactions": false
+    },
+    {
+      "id": "89a5fd79-5675-4e89-9ef3-dfc973cd100c",
+      "title": "Light Speed",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "light-speed",
+      "has_reactions": false
+    },
+    {
+      "id": "521b2fd2-87bc-478e-92b6-b18d46ee9bd4",
+      "title": "Red Dirt",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "red-dirt",
+      "has_reactions": false
+    },
+    {
+      "id": "e5fcbd48-10f8-4595-9d49-2567cffdf672",
+      "title": "Gypsy 83",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "gypsy-83",
+      "has_reactions": false
+    },
+    {
+      "id": "99bf69e8-eb4b-45ca-b202-ddb1eaf562f8",
+      "title": "Soulkeeper",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "soulkeeper",
+      "has_reactions": false
+    },
+    {
+      "id": "0e4dd20d-6e34-49ca-952c-4aff1808c2f1",
+      "title": "House of 1000 Corpses",
+      "release_year": 2003,
+      "studio_label": "Spectacle Entertainment Group",
+      "slug": "house-of-1000-corpses",
+      "has_reactions": true
+    },
+    {
+      "id": "bf99d913-49cd-48c1-830b-0968ef4a93ef",
+      "title": "Firecracker",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "firecracker",
+      "has_reactions": false
+    },
+    {
+      "id": "a39b5e57-846d-4c61-a9be-c17a4af9fd62",
+      "title": "Dr. Rage",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "dr-rage",
+      "has_reactions": false
+    },
+    {
+      "id": "460d61eb-7aa0-443e-ad91-907ec140fb99",
+      "title": "Trailer for a Remake of Gore Vidal's Caligula",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "trailer-for-a-remake-of-gore-vidal-s-caligula",
+      "has_reactions": false
+    },
+    {
+      "id": "f9d23228-0bf1-49a7-b92b-518333a19fb7",
+      "title": "America Brown",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "america-brown",
+      "has_reactions": false
+    },
+    {
+      "id": "7b7ba6c5-6b22-4a1b-bb4b-77487b17113d",
+      "title": "Wanderlust",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wanderlust",
+      "has_reactions": false
+    },
+    {
+      "id": "b088a79f-2278-4b19-b094-0a9fa93cf343",
+      "title": "Suffering Man's Charity",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "suffering-man-s-charity",
+      "has_reactions": false
+    },
+    {
+      "id": "31aacb26-7bfa-4f5f-92dd-7a8797c414aa",
+      "title": "Stuck!",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "stuck",
+      "has_reactions": false
+    },
+    {
+      "id": "622dcf84-bf23-49ec-8ea2-b3b8aa6def7b",
+      "title": "No Subtitles Necessary: Laszlo & Vilmos",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "no-subtitles-necessary-laszlo-vilmos",
+      "has_reactions": false
+    },
+    {
+      "id": "c5955aa8-8a16-4587-bb39-a64db8ba9e64",
+      "title": "Nothing Special",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "nothing-special",
+      "has_reactions": false
+    },
+    {
+      "id": "877e25b8-4b8b-44d3-ae94-c708dbb810d4",
+      "title": "Maria My Love",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "maria-my-love",
+      "has_reactions": false
+    },
+    {
+      "id": "2d00fb26-0a69-4213-ad7c-43a5c3314ab9",
+      "title": "Ooga Booga",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "ooga-booga",
+      "has_reactions": false
+    },
+    {
+      "id": "6706a917-d0c2-4529-8ee1-3f4771bdc7f9",
+      "title": "She Loves Me Not",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "she-loves-me-not",
+      "has_reactions": false
+    }
+  ]
+}

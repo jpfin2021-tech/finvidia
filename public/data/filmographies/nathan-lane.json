@@ -1,0 +1,488 @@
+{
+  "id": "a7db5855-be08-4eb8-9841-620383ad2da5",
+  "name": "Nathan Lane",
+  "slug": "nathan-lane",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg",
+  "filmography": [
+    {
+      "id": "9c8e0ea6-d2d5-4e35-b6a4-3054f0f642c4",
+      "title": "Cut Off",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "cut-off",
+      "has_reactions": false
+    },
+    {
+      "id": "72c93f77-65e8-40b9-b8c4-0f901f58fc81",
+      "title": "Untitled Nathan Lane Documentary",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-nathan-lane-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "59443c25-80fb-4e8e-9391-16982c04d706",
+      "title": "Broadway: The Next Generation",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "broadway-the-next-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "e37ebbd1-c37a-40fd-ac1b-1a52614a2803",
+      "title": "Alice in Wonderland",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "alice-in-wonderland",
+      "has_reactions": false
+    },
+    {
+      "id": "8c500598-a0db-43f8-b11c-b52427bcd7ce",
+      "title": "The Lemon Sisters",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-lemon-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "2fa6b80a-0cc0-4b78-9af4-90f9126da27d",
+      "title": "He Said, She Said",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "he-said-she-said",
+      "has_reactions": false
+    },
+    {
+      "id": "622af7b6-def4-461b-98fa-2e4b357bb7e7",
+      "title": "The Last Mile",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-last-mile",
+      "has_reactions": false
+    },
+    {
+      "id": "6811ecf4-7f50-4b1e-8c9e-f00e8f417838",
+      "title": "Life with Mikey",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "life-with-mikey",
+      "has_reactions": false
+    },
+    {
+      "id": "695d2475-cee6-4ba6-b192-d0a840dbe2ed",
+      "title": "Addams Family Values",
+      "release_year": 1993,
+      "studio_label": "Scott Rudin Productions",
+      "slug": "addams-family-values",
+      "has_reactions": true
+    },
+    {
+      "id": "2f34749f-d053-4494-8e5b-b9168abf7e39",
+      "title": "The Lion King",
+      "release_year": 1994,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-lion-king",
+      "has_reactions": true
+    },
+    {
+      "id": "b3f63869-ff90-450a-96c6-bf485a39536b",
+      "title": "The Wizard of Oz in Concert: Dreams Come True",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-wizard-of-oz-in-concert-dreams-come-true",
+      "has_reactions": false
+    },
+    {
+      "id": "29a483a1-6538-4504-934b-44555abd23f3",
+      "title": "Circle of Life: An Environmental Fable",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "circle-of-life-an-environmental-fable",
+      "has_reactions": false
+    },
+    {
+      "id": "b1196198-deb2-49c0-ad28-4563e0eafa45",
+      "title": "The Birdcage",
+      "release_year": 1996,
+      "studio_label": "United Artists",
+      "slug": "the-birdcage",
+      "has_reactions": true
+    },
+    {
+      "id": "36fecb4a-bfbe-439c-ae99-53b0db4bcf22",
+      "title": "Around the World With Timon & Pumbaa",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "around-the-world-with-timon-pumbaa",
+      "has_reactions": false
+    },
+    {
+      "id": "95da1b33-add6-4a85-86f2-dfb1ad702b89",
+      "title": "The Boys Next Door",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-boys-next-door",
+      "has_reactions": false
+    },
+    {
+      "id": "9e8c4c9e-792d-4c43-97b3-777b52dd93e3",
+      "title": "A Benefit Celebration: A Tribute to Angela Lansbury",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-benefit-celebration-a-tribute-to-angela-lansbury",
+      "has_reactions": false
+    },
+    {
+      "id": "64717993-f1d8-499e-992f-41b769909c34",
+      "title": "Merry Christmas, George Bailey",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "merry-christmas-george-bailey",
+      "has_reactions": false
+    },
+    {
+      "id": "6c6255a2-defa-4f13-94f9-335fe0385959",
+      "title": "The Lion King II: Simba's Pride",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-ii-simba-s-pride",
+      "has_reactions": false
+    },
+    {
+      "id": "2c6dd08f-9b43-45c8-b315-6ec287e94bfa",
+      "title": "Stuart Little: Making It Big",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "stuart-little-making-it-big",
+      "has_reactions": false
+    },
+    {
+      "id": "e8c6be0a-02c4-407a-9086-a69ede6c6808",
+      "title": "Stuart Little",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "stuart-little",
+      "has_reactions": false
+    },
+    {
+      "id": "7fb5468d-3c85-4b98-b7cf-32aabc8fd931",
+      "title": "Trixie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "trixie",
+      "has_reactions": false
+    },
+    {
+      "id": "929e16b7-59d5-4238-956e-bc4085db8431",
+      "title": "Love's Labour's Lost",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "love-s-labour-s-lost",
+      "has_reactions": false
+    },
+    {
+      "id": "a01d1679-2ff0-4382-b73c-2ad804d1f68a",
+      "title": "Isn't She Great",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "isn-t-she-great",
+      "has_reactions": false
+    },
+    {
+      "id": "b5da40f6-4de7-491d-9c56-9544ee0f564d",
+      "title": "The Man Who Came to Dinner",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-came-to-dinner",
+      "has_reactions": false
+    },
+    {
+      "id": "dc8401d8-00cb-4c18-9343-cbf96e475514",
+      "title": "Laughter on the 23rd Floor",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "laughter-on-the-23rd-floor",
+      "has_reactions": false
+    },
+    {
+      "id": "56529e53-b671-4164-9f10-1d5c24c2d8ce",
+      "title": "Recording the Producers: A Musical Romp with Mel Brooks",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "recording-the-producers-a-musical-romp-with-mel-brooks",
+      "has_reactions": false
+    },
+    {
+      "id": "587d8454-37bc-4121-b434-9099d69746b3",
+      "title": "My Favorite Broadway: The Love Songs",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "my-favorite-broadway-the-love-songs",
+      "has_reactions": false
+    },
+    {
+      "id": "c83e0c0f-e667-40ea-ad01-7463513316a0",
+      "title": "Stuart Little 2",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "stuart-little-2",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa5d919-249d-4306-921b-209f9781473f",
+      "title": "Austin Powers in Goldmember",
+      "release_year": 2002,
+      "studio_label": "Eric's Boy",
+      "slug": "austin-powers-in-goldmember",
+      "has_reactions": true
+    },
+    {
+      "id": "d27e2696-a95e-4b09-b193-fcd52a75c577",
+      "title": "Win a Date with Tad Hamilton!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "win-a-date-with-tad-hamilton",
+      "has_reactions": false
+    },
+    {
+      "id": "1184b797-4491-4c9c-832f-bb7fc1629ac2",
+      "title": "Timon & Pumbaa Virtual Safari 2.0",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "timon-pumbaa-virtual-safari-2-0",
+      "has_reactions": false
+    },
+    {
+      "id": "4d05edb5-e8fb-44e7-9291-7eead6011a95",
+      "title": "Timon & Pumbaa's Virtual Safari 1.5",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "timon-pumbaa-s-virtual-safari-1-5",
+      "has_reactions": false
+    },
+    {
+      "id": "b3ab55fe-7089-4063-a64b-951bcd480666",
+      "title": "Sesame Street: What's the Name of That Song?",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "sesame-street-what-s-the-name-of-that-song",
+      "has_reactions": false
+    },
+    {
+      "id": "e09be016-1f8d-4c42-bcb9-a3ba1a20f427",
+      "title": "The Lion King 1\u00bd",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-1",
+      "has_reactions": false
+    },
+    {
+      "id": "a36973a0-d7c0-48df-a9e5-174a54f7a4c5",
+      "title": "Teacher's Pet",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "teacher-s-pet",
+      "has_reactions": false
+    },
+    {
+      "id": "5d3ace5b-cf6c-44f9-95ad-1010c6973d19",
+      "title": "Behind the Legend: Timon",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "behind-the-legend-timon",
+      "has_reactions": false
+    },
+    {
+      "id": "f8af9cce-b308-4f3f-9d44-dde9e6ad6ce2",
+      "title": "The Producers",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-producers",
+      "has_reactions": false
+    },
+    {
+      "id": "a4bb4063-9b5d-49b0-b7f9-82927d4c7bd2",
+      "title": "The Dish on Dolls",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-dish-on-dolls",
+      "has_reactions": false
+    },
+    {
+      "id": "5011f208-590a-4c12-856d-e3b25b0534ff",
+      "title": "The Roots of 'Hairspray'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-roots-of-hairspray",
+      "has_reactions": false
+    },
+    {
+      "id": "064ccfef-35ef-4331-bf6d-5620a6fa5dcf",
+      "title": "A Muppets Christmas: Letters to Santa",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "a-muppets-christmas-letters-to-santa",
+      "has_reactions": false
+    },
+    {
+      "id": "b6ceea4c-ab63-4dc0-9746-6d81c7fe3bc5",
+      "title": "Astro Boy",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "astro-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "cdbb80b2-2142-4ab5-afcc-8cf7ab1bedc2",
+      "title": "The Nutcracker",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-nutcracker",
+      "has_reactions": false
+    },
+    {
+      "id": "9bcce141-5c58-4ae7-83fb-e9d2ed139737",
+      "title": "Pride of The Lion King",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "pride-of-the-lion-king",
+      "has_reactions": false
+    },
+    {
+      "id": "dc59ff04-9871-4260-a405-301042162290",
+      "title": "Mirror Mirror",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mirror-mirror",
+      "has_reactions": false
+    },
+    {
+      "id": "180c225b-da80-4d2f-8f58-b520a45e5146",
+      "title": "Elaine Stritch: Shoot Me",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "elaine-stritch-shoot-me",
+      "has_reactions": false
+    },
+    {
+      "id": "fcab39da-6f99-4423-893c-455bde5d9d07",
+      "title": "The English Teacher",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-english-teacher",
+      "has_reactions": false
+    },
+    {
+      "id": "759e01e1-5843-4f75-baf7-e5f4529a83e6",
+      "title": "The Nance",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-nance",
+      "has_reactions": false
+    },
+    {
+      "id": "9eec9984-2806-4618-a432-384909c011df",
+      "title": "No Pay, Nudity",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "no-pay-nudity",
+      "has_reactions": false
+    },
+    {
+      "id": "42313e65-4380-477d-82a3-643483435a53",
+      "title": "Carrie Pilby",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "carrie-pilby",
+      "has_reactions": false
+    },
+    {
+      "id": "8ae00a24-4936-4560-a103-59f061ce034e",
+      "title": "National Theatre Live: Angels In America \u2014 Part One: Millennium Approaches",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "national-theatre-live-angels-in-america-part-one-millennium-approaches",
+      "has_reactions": false
+    },
+    {
+      "id": "25ba50be-7ec8-4b3c-9a4a-e37c2596868b",
+      "title": "National Theatre Live: Angels In America \u2014 Part Two: Perestroika",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "national-theatre-live-angels-in-america-part-two-perestroika",
+      "has_reactions": false
+    },
+    {
+      "id": "9d025a8d-b754-4003-8eff-13a9a3d102da",
+      "title": "Every Act of Life",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "every-act-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "e74c223c-5651-4e9e-81db-fa9c4fed9a5e",
+      "title": "The Vanishing of Sidney Hall",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-vanishing-of-sidney-hall",
+      "has_reactions": false
+    },
+    {
+      "id": "b69f5e05-94a5-4a1b-856e-8c9b013573f7",
+      "title": "Bully. Coward. Victim. The Story of Roy Cohn",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "bully-coward-victim-the-story-of-roy-cohn",
+      "has_reactions": false
+    },
+    {
+      "id": "71e9c124-79c1-423f-bf92-11f7c3ab9af1",
+      "title": "Elegies for Angels, Punks and Raging Queens",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "elegies-for-angels-punks-and-raging-queens",
+      "has_reactions": false
+    },
+    {
+      "id": "1e48a6b6-f0a3-4509-8685-6fc23941eabe",
+      "title": "Beau Is Afraid",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "beau-is-afraid",
+      "has_reactions": false
+    },
+    {
+      "id": "b6e10789-e3bc-4cd9-bd04-f4861251d5cc",
+      "title": "Finally Home: Making Beau is Afraid",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "finally-home-making-beau-is-afraid",
+      "has_reactions": false
+    },
+    {
+      "id": "4d3b51d3-3d91-4a87-a790-09cc62e2b2b2",
+      "title": "Dicks: The Musical",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dicks-the-musical",
+      "has_reactions": false
+    },
+    {
+      "id": "5cdc630e-534d-4b67-a2dc-9a3c58e2c3cb",
+      "title": "Spellbound",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "spellbound",
+      "has_reactions": false
+    },
+    {
+      "id": "542d4c6b-a0c0-481a-b26d-afc416be6727",
+      "title": "The Lion King at the Hollywood Bowl",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-at-the-hollywood-bowl",
+      "has_reactions": false
+    }
+  ]
+}

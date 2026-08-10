@@ -1,0 +1,32 @@
+{
+  "id": "15aa7e48-919e-4550-8d6b-e51c098acf99",
+  "name": "Jeremy Foley",
+  "slug": "jeremy-foley",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/vYwTpNol5pvo2k0VElq4ZLbaELo.jpg",
+  "filmography": [
+    {
+      "id": "d7c898c5-cc7a-4805-934a-b32a4e913c24",
+      "title": "Dante's Peak",
+      "release_year": 1997,
+      "studio_label": "Pacific Western",
+      "slug": "dante-s-peak",
+      "has_reactions": true
+    },
+    {
+      "id": "acc22523-494e-4cf7-9b45-ac601ea4f62c",
+      "title": "Casper: A Spirited Beginning",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "casper-a-spirited-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "ca816b7c-2c1d-4ea9-8fda-1cfa1814c82d",
+      "title": "Casper Meets Wendy",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "casper-meets-wendy",
+      "has_reactions": false
+    }
+  ]
+}

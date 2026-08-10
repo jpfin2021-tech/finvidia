@@ -1,0 +1,560 @@
+{
+  "id": "0332bb48-15a0-4eba-b857-e2fe9d8d2ed1",
+  "name": "Pernilla August",
+  "slug": "pernilla-august",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/zICu2ItUmKh0dUcWtee49KpNDMq.jpg",
+  "filmography": [
+    {
+      "id": "45e3018d-2580-4b59-bd53-480c9eb07af6",
+      "title": "The Wolf Will Tear Your Immaculate Hands",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-wolf-will-tear-your-immaculate-hands",
+      "has_reactions": false
+    },
+    {
+      "id": "c85a67e4-fead-40b8-974b-cda735379f86",
+      "title": "Giliap",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "giliap",
+      "has_reactions": false
+    },
+    {
+      "id": "ec8b2b58-33e1-480a-b669-49854e25fb82",
+      "title": "Linus eller Tegelhusets hemlighet",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "linus-eller-tegelhusets-hemlighet",
+      "has_reactions": false
+    },
+    {
+      "id": "65676016-d2ee-42a2-be72-a56215af110e",
+      "title": "The Rooster",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-rooster",
+      "has_reactions": false
+    },
+    {
+      "id": "d382ef5e-2d9b-45b5-88e8-6cb8c05d1f0f",
+      "title": "Fanny and Alexander",
+      "release_year": 1982,
+      "studio_label": "Cinematograph AB",
+      "slug": "fanny-and-alexander",
+      "has_reactions": false
+    },
+    {
+      "id": "5b014f1a-e32f-4618-83d5-a868e9615104",
+      "title": "Mr. Sleeman Is Coming",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "mr-sleeman-is-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "a0ffebe1-5a5a-4e7c-9810-4f7bd4c6209f",
+      "title": "Hej du himlen!",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hej-du-himlen",
+      "has_reactions": false
+    },
+    {
+      "id": "f69751a8-46fd-4c44-bbd6-dfc733a14995",
+      "title": "Alfred Nobel - Mr. Dynamite",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "alfred-nobel-mr-dynamite",
+      "has_reactions": false
+    },
+    {
+      "id": "2dab5c28-28c2-46d4-bac5-7ecf6a783112",
+      "title": "Den tragiska historien om Hamlet - Prins av Danmark",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "den-tragiska-historien-om-hamlet-prins-av-danmark",
+      "has_reactions": false
+    },
+    {
+      "id": "991ecfdc-e7f2-43e1-a247-adc4da810f4d",
+      "title": "The Serpent's Way",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-serpent-s-way",
+      "has_reactions": false
+    },
+    {
+      "id": "14de6747-dc13-46b7-93fb-882eb58a5c28",
+      "title": "The Egg",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-egg",
+      "has_reactions": false
+    },
+    {
+      "id": "2b4f83fd-bda4-4a65-88bc-00e45982bc2a",
+      "title": "Den d\u00f6ende dandyn",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "den-d-ende-dandyn",
+      "has_reactions": false
+    },
+    {
+      "id": "1753071b-ff68-4ea3-82b0-f49a4e9c6980",
+      "title": "The Best Intentions",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-best-intentions",
+      "has_reactions": false
+    },
+    {
+      "id": "6892f188-304f-4cde-a22f-7f62f235dcb5",
+      "title": "Death of a Juror",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "death-of-a-juror",
+      "has_reactions": false
+    },
+    {
+      "id": "31114b18-9538-44a2-ba5a-9d2d8c3be187",
+      "title": "Private Confessions",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "private-confessions",
+      "has_reactions": false
+    },
+    {
+      "id": "8f143bbf-b541-418b-9031-f0c466e08557",
+      "title": "Jerusalem",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jerusalem",
+      "has_reactions": false
+    },
+    {
+      "id": "ea2b8cfd-3c6a-4675-a760-01fddc39c9c6",
+      "title": "The Last Yankee",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-last-yankee",
+      "has_reactions": false
+    },
+    {
+      "id": "3a5e6f1c-286b-4643-ab88-1634c87d2ef9",
+      "title": "The Last Contract",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-last-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "d0b793d9-16db-46db-a1f7-0a07fa3928a4",
+      "title": "The Glass-Blower's Children",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-glass-blower-s-children",
+      "has_reactions": false
+    },
+    {
+      "id": "09dc5ec0-fa8e-43f2-9fbe-3f0e05963b3b",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "release_year": 1999,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-i-the-phantom-menace",
+      "has_reactions": true
+    },
+    {
+      "id": "3730271a-386c-4f91-b076-b806d599d787",
+      "title": "Where The Rainbow Ends",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "where-the-rainbow-ends",
+      "has_reactions": false
+    },
+    {
+      "id": "eead9158-eee7-412d-be9d-9d5e7b1e31c6",
+      "title": "The Adventures of Young Indiana Jones: Tales of Innocence",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-young-indiana-jones-tales-of-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "8c358883-e276-4786-b271-ebfc9c7b9874",
+      "title": "Mary, Mother of Jesus",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "mary-mother-of-jesus",
+      "has_reactions": false
+    },
+    {
+      "id": "abe1ae42-4665-4a26-9a72-0daa3fcd80b3",
+      "title": "Light Keeps Me Company",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "light-keeps-me-company",
+      "has_reactions": false
+    },
+    {
+      "id": "f5f91abe-4853-4ec9-8b81-3830ad28db46",
+      "title": "The Birthday",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-birthday",
+      "has_reactions": false
+    },
+    {
+      "id": "b09cbd50-5a5e-4386-af9b-b7273c4b20e7",
+      "title": "Gossip",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "gossip",
+      "has_reactions": false
+    },
+    {
+      "id": "09abb2d4-26e6-49d0-9f25-3d7d097f5ec8",
+      "title": "Anna",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "anna",
+      "has_reactions": false
+    },
+    {
+      "id": "474685ff-e6fa-4fcf-ac14-1f5532cbdb05",
+      "title": "You Do the Best You Can",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "you-do-the-best-you-can",
+      "has_reactions": false
+    },
+    {
+      "id": "2e2b7446-186a-4391-a6ef-051324a2fc39",
+      "title": "Hr. Boe & Co.\u2019s Anxiety",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "hr-boe-co-s-anxiety",
+      "has_reactions": false
+    },
+    {
+      "id": "00349a01-6149-4802-a000-13775e1f09d1",
+      "title": "Deadline",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "deadline",
+      "has_reactions": false
+    },
+    {
+      "id": "22c94e60-b4e6-4633-b66e-c9e5762f78e7",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "release_year": 2002,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-ii-attack-of-the-clones",
+      "has_reactions": true
+    },
+    {
+      "id": "b2dad712-0c77-466b-b977-1a350849f459",
+      "title": "Karlsson on the Roof",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "karlsson-on-the-roof",
+      "has_reactions": false
+    },
+    {
+      "id": "8b4b4323-7a8f-4560-8028-8d34425bcfbe",
+      "title": "I Am Dina",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "i-am-dina",
+      "has_reactions": false
+    },
+    {
+      "id": "24dc4854-3bb2-41ef-b164-001f6c209d05",
+      "title": "Everyone Loves Alice",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "everyone-loves-alice",
+      "has_reactions": false
+    },
+    {
+      "id": "12207066-fb31-4246-a121-2a8b9916c01a",
+      "title": "A Love Affair",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "a-love-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "8c9da608-0e8d-4000-a43c-2fe41072d02d",
+      "title": "Details",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "details",
+      "has_reactions": false
+    },
+    {
+      "id": "42b7ce74-cad7-4c64-a96c-83b8b629ad49",
+      "title": "Daybreak",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "daybreak",
+      "has_reactions": false
+    },
+    {
+      "id": "e20c216f-57ac-4c47-a0c4-747ccb2d48de",
+      "title": "Eiffel Tower",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "eiffel-tower",
+      "has_reactions": false
+    },
+    {
+      "id": "dea607e7-2e6d-4cda-b6f1-22a0b0ab043f",
+      "title": "Rancid",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "rancid",
+      "has_reactions": false
+    },
+    {
+      "id": "04451b8d-e0f1-4502-b761-7624f206cf14",
+      "title": "Terrorman",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "terrorman",
+      "has_reactions": false
+    },
+    {
+      "id": "589e26d3-fa61-42c3-99c0-6b5090748f63",
+      "title": "Day and Night",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "day-and-night",
+      "has_reactions": false
+    },
+    {
+      "id": "2bc4fe79-568c-4d1d-8966-c25e0e3e3d96",
+      "title": "Manslaughter",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "manslaughter",
+      "has_reactions": false
+    },
+    {
+      "id": "0cb572c7-75cb-45cd-830a-629d12721b12",
+      "title": "Mouth to Mouth",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mouth-to-mouth",
+      "has_reactions": false
+    },
+    {
+      "id": "498a485a-499c-4c2d-9db1-25bd731ce382",
+      "title": "Doxa",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "doxa",
+      "has_reactions": false
+    },
+    {
+      "id": "cf6c866a-e3ba-4382-b800-299e534bb26f",
+      "title": "L\u00f8ven - Henrik Ibsen",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "l-ven-henrik-ibsen",
+      "has_reactions": false
+    },
+    {
+      "id": "902d53bd-e92e-41d4-b1f6-488a50ae8625",
+      "title": "Those Who Whisper",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "those-who-whisper",
+      "has_reactions": false
+    },
+    {
+      "id": "26e1280c-b042-4d47-b9ba-802bb803624d",
+      "title": "Women and Bergman",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "women-and-bergman",
+      "has_reactions": false
+    },
+    {
+      "id": "69695ade-06d0-4d35-9c0a-6e44d791229b",
+      "title": "Miss Kicki",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "miss-kicki",
+      "has_reactions": false
+    },
+    {
+      "id": "b9af788c-b2b3-434c-a468-5057a9eeabff",
+      "title": "A Rational Solution",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-rational-solution",
+      "has_reactions": false
+    },
+    {
+      "id": "2eb3f745-86f5-486e-9abc-ca9cb0dbbc45",
+      "title": "Kenny Begins",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "kenny-begins",
+      "has_reactions": false
+    },
+    {
+      "id": "59cc74d4-7c6a-41d6-a510-46093580b36f",
+      "title": "Hamilton: In the Interest of the Nation",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hamilton-in-the-interest-of-the-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "a3385993-85ea-461f-a598-1f71e7c26fa2",
+      "title": "The Last Sentence",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-last-sentence",
+      "has_reactions": false
+    },
+    {
+      "id": "7457d7f4-0a9c-4e31-bb85-8d546d780fe5",
+      "title": "Call Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "call-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "c78833b8-3308-43f8-adf8-034e7e060172",
+      "title": "Trespassing Bergman",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "trespassing-bergman",
+      "has_reactions": false
+    },
+    {
+      "id": "fb8550e0-449b-497f-ae7f-0473d7cbed94",
+      "title": "Gentlemen",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "gentlemen",
+      "has_reactions": false
+    },
+    {
+      "id": "1421597d-7a32-4ea8-94e5-249077903b21",
+      "title": "White People",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "white-people",
+      "has_reactions": false
+    },
+    {
+      "id": "54778957-d455-40d0-9857-40fc34f29ff0",
+      "title": "Law of the Land",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "law-of-the-land",
+      "has_reactions": false
+    },
+    {
+      "id": "49fda05f-cca1-47b9-9bfd-29da70121343",
+      "title": "Filmworker",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "filmworker",
+      "has_reactions": false
+    },
+    {
+      "id": "b0e36941-0a80-44b8-9802-5023e408f407",
+      "title": "Scenes in the Night",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "scenes-in-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "a93967cf-51d8-43cf-b86f-353ef3e122c4",
+      "title": "Kursk",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "kursk",
+      "has_reactions": false
+    },
+    {
+      "id": "2da96ec1-01f5-439b-8e5d-f64203017a79",
+      "title": "Bergmans b\u00f6rjan: Ilska. K\u00e4rlek. Magknip.",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bergmans-b-rjan-ilska-k-rlek-magknip",
+      "has_reactions": false
+    },
+    {
+      "id": "3cb7afe8-6822-48ea-a0b4-5ad7655a2596",
+      "title": "Bergman's Reliquarium",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bergman-s-reliquarium",
+      "has_reactions": false
+    },
+    {
+      "id": "0eb3f327-d06f-40c3-bdd6-1f7c706e2d6e",
+      "title": "Bergman Revisited",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "bergman-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "c633067d-a8b4-4dbb-88d1-e1537690b190",
+      "title": "Britt-Marie Was Here",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "britt-marie-was-here",
+      "has_reactions": false
+    },
+    {
+      "id": "c0697f21-c405-4b42-9e35-3fcc07dfad17",
+      "title": "Swoon",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "swoon",
+      "has_reactions": false
+    },
+    {
+      "id": "418eea64-b858-4770-b01d-eb86a2936cfc",
+      "title": "Building Happiness",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "building-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "3876d37c-a4ff-4242-a5b6-7ade3146612f",
+      "title": "The Ape Star",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-ape-star",
+      "has_reactions": false
+    },
+    {
+      "id": "e29fdaba-b905-4d9c-a962-59e351a5ef1a",
+      "title": "Surprise",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "surprise",
+      "has_reactions": false
+    },
+    {
+      "id": "73f4283d-99ef-4433-8507-67d270eb729c",
+      "title": "The Dance Club",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-dance-club",
+      "has_reactions": false
+    }
+  ]
+}

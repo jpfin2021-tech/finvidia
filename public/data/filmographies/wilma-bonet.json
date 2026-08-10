@@ -1,0 +1,48 @@
+{
+  "id": "addf6db4-47fb-4805-bc66-13b53407276f",
+  "name": "Wilma Bonet",
+  "slug": "wilma-bonet",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2YC8C8FXWQZ4UXv3wAkWUtmqJLY.jpg",
+  "filmography": [
+    {
+      "id": "cdef8b41-c1e2-446d-ac0e-722c7675534b",
+      "title": "What Dreams May Come",
+      "release_year": 1998,
+      "studio_label": "PolyGram Filmed Entertainment",
+      "slug": "what-dreams-may-come",
+      "has_reactions": true
+    },
+    {
+      "id": "cd4c4b64-fe98-42e6-b85b-6c8c0731ec10",
+      "title": "8MM",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "8mm",
+      "has_reactions": false
+    },
+    {
+      "id": "a44639a2-d94e-4f01-b360-4c4761851c78",
+      "title": "Coco",
+      "release_year": 2017,
+      "studio_label": "Pixar",
+      "slug": "coco",
+      "has_reactions": true
+    },
+    {
+      "id": "da9c2eb7-ee0e-494f-8911-833ef6107343",
+      "title": "Nona",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "nona",
+      "has_reactions": false
+    },
+    {
+      "id": "b5e99a23-b1d0-482f-b453-ff85724d0d97",
+      "title": "Elemental",
+      "release_year": 2023,
+      "studio_label": "Pixar",
+      "slug": "elemental",
+      "has_reactions": true
+    }
+  ]
+}

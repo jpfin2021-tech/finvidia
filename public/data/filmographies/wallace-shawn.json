@@ -1,0 +1,536 @@
+{
+  "id": "9754da30-2f87-4b92-bbeb-fb72e3c52761",
+  "name": "Wallace Shawn",
+  "slug": "wallace-shawn",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wVaM1WlFKDce4esThwL4XtNLhOe.jpg",
+  "filmography": [
+    {
+      "id": "7c0aed40-841a-401d-99f6-e4e630d0da63",
+      "title": "Starting Over",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "starting-over",
+      "has_reactions": false
+    },
+    {
+      "id": "01aa4ab1-ad52-4f41-9afc-7fc85327f439",
+      "title": "Manhattan",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "3ce94b11-d8ca-4d5f-a379-feeea7fc2b42",
+      "title": "Atlantic City",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "atlantic-city",
+      "has_reactions": false
+    },
+    {
+      "id": "32a4c2eb-34f6-47d5-bcbd-74d2cd541317",
+      "title": "Simon",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "simon",
+      "has_reactions": false
+    },
+    {
+      "id": "394905da-9466-40bc-9fb9-d0623caa2353",
+      "title": "Cheaper to Keep Her",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "cheaper-to-keep-her",
+      "has_reactions": false
+    },
+    {
+      "id": "1264b6f4-c490-4fe2-835a-030d4cea8bb0",
+      "title": "My Dinner with Andre",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "my-dinner-with-andre",
+      "has_reactions": false
+    },
+    {
+      "id": "c5cfc91e-ab87-447b-a8c0-b7075de97a7a",
+      "title": "A Little Sex",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "a-little-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "7f242562-131d-49b9-b0dc-79daa739072e",
+      "title": "Deal of the Century",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "deal-of-the-century",
+      "has_reactions": false
+    },
+    {
+      "id": "448150e5-e062-4d5a-8c56-49301e937aaf",
+      "title": "Saigon: Year of the Cat",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "saigon-year-of-the-cat",
+      "has_reactions": false
+    },
+    {
+      "id": "fad701e5-2899-4900-b69e-c4bbaf4bb663",
+      "title": "The First Time",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-first-time",
+      "has_reactions": false
+    },
+    {
+      "id": "10c3e277-39ed-42b7-81b1-caa10fb4ff7d",
+      "title": "Crackers",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "crackers",
+      "has_reactions": false
+    },
+    {
+      "id": "ff8d0b29-2d62-4971-a121-fec80d499c8a",
+      "title": "Micki & Maude",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "micki-maude",
+      "has_reactions": false
+    },
+    {
+      "id": "a1e16cbd-1480-4c55-844f-c214ae9a3afb",
+      "title": "The Hotel New Hampshire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-hotel-new-hampshire",
+      "has_reactions": false
+    },
+    {
+      "id": "f6a9ae3b-1f83-4a58-8bf5-001b8722895e",
+      "title": "The Bostonians",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-bostonians",
+      "has_reactions": false
+    },
+    {
+      "id": "0d8ce742-9d0c-44fe-ba31-36e11dae8fff",
+      "title": "Heaven Help Us",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "heaven-help-us",
+      "has_reactions": false
+    },
+    {
+      "id": "396149bb-4ea2-4628-b800-a5f91f7ccc40",
+      "title": "The Princess Bride",
+      "release_year": 1987,
+      "studio_label": "The Princess Bride",
+      "slug": "the-princess-bride",
+      "has_reactions": true
+    },
+    {
+      "id": "b1510bf2-73bf-4c09-9d33-7fbd9ad149a7",
+      "title": "Radio Days",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "radio-days",
+      "has_reactions": false
+    },
+    {
+      "id": "934df6dd-d274-447a-b977-eb7c773e258e",
+      "title": "Prick Up Your Ears",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "prick-up-your-ears",
+      "has_reactions": false
+    },
+    {
+      "id": "234042b3-57ec-4fea-af54-001e68da7fa7",
+      "title": "The Bedroom Window",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-bedroom-window",
+      "has_reactions": false
+    },
+    {
+      "id": "37cd3051-571f-4fb0-80cd-184d4bf19af8",
+      "title": "Nice Girls Don't Explode",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "nice-girls-don-t-explode",
+      "has_reactions": false
+    },
+    {
+      "id": "76eb8ab6-e565-4d76-baab-c60f1f75b5c0",
+      "title": "The Moderns",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-moderns",
+      "has_reactions": false
+    },
+    {
+      "id": "0cbf0d77-ecbe-4661-821e-230b56859363",
+      "title": "She's Out of Control",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "she-s-out-of-control",
+      "has_reactions": false
+    },
+    {
+      "id": "77b30c03-541f-453d-991a-0b7aab94631d",
+      "title": "Scenes from the Class Struggle in Beverly Hills",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "scenes-from-the-class-struggle-in-beverly-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "a57be55e-4ab8-4768-9376-1eebf18c5cb7",
+      "title": "Mom and Dad Save the World",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "mom-and-dad-save-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "b08f064e-ff2c-442f-b47e-a43b1ad752ec",
+      "title": "Nickel & Dime",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "nickel-dime",
+      "has_reactions": false
+    },
+    {
+      "id": "8f279d08-2645-4ee5-a7b8-33970a6ef76b",
+      "title": "Vanya on 42nd Street",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "vanya-on-42nd-street",
+      "has_reactions": false
+    },
+    {
+      "id": "c8964ea3-7582-4a97-83df-b3f925b06af3",
+      "title": "Mrs. Parker and the Vicious Circle",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mrs-parker-and-the-vicious-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "5008c4e7-cb51-441b-a982-d36d50813627",
+      "title": "Toy Story",
+      "release_year": 1995,
+      "studio_label": "Pixar",
+      "slug": "toy-story",
+      "has_reactions": true
+    },
+    {
+      "id": "89aa1413-949c-4164-9bdc-b51168dedfc7",
+      "title": "Clueless",
+      "release_year": 1995,
+      "studio_label": "Paramount Pictures",
+      "slug": "clueless",
+      "has_reactions": true
+    },
+    {
+      "id": "f2c6ba33-ae37-408a-8e90-a1904f6562ba",
+      "title": "Driving Mr. Pink",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "driving-mr-pink",
+      "has_reactions": false
+    },
+    {
+      "id": "f225e08f-8854-48ec-a8dc-f33a0649ed46",
+      "title": "Canadian Bacon",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "canadian-bacon",
+      "has_reactions": false
+    },
+    {
+      "id": "f54bd663-f6af-49de-95cc-b3e8d7079895",
+      "title": "A Goofy Movie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "a-goofy-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "09a5b7ad-a8c5-4a9e-a5d0-929f63bcf80a",
+      "title": "All Dogs Go to Heaven 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "all-dogs-go-to-heaven-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7aba9a5d-89dc-4be8-b754-5111fcd746c5",
+      "title": "The Wife",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf9cdcc-a5c1-425a-8621-3ef69f387d9e",
+      "title": "Vegas Vacation",
+      "release_year": 1997,
+      "studio_label": "Jerry Weintraub Productions",
+      "slug": "vegas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "fe2a562b-25c4-4186-a17f-c659b9722226",
+      "title": "Noah",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "noah",
+      "has_reactions": false
+    },
+    {
+      "id": "81e32e7b-c282-4c7a-a2a0-581a18c58d32",
+      "title": "Toy Story 2",
+      "release_year": 1999,
+      "studio_label": "Pixar",
+      "slug": "toy-story-2",
+      "has_reactions": true
+    },
+    {
+      "id": "b8dfb0b1-7611-408e-ba42-13963c5733af",
+      "title": "My Favorite Martian",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "my-favorite-martian",
+      "has_reactions": false
+    },
+    {
+      "id": "973a98de-6f27-411f-8f68-b07ed4e3c019",
+      "title": "The Diary of the Hurdy-Gurdy Man",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-diary-of-the-hurdy-gurdy-man",
+      "has_reactions": false
+    },
+    {
+      "id": "cece705d-f79a-45d2-b240-448240d9743a",
+      "title": "The Curse of the Jade Scorpion",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-curse-of-the-jade-scorpion",
+      "has_reactions": false
+    },
+    {
+      "id": "86f105a3-aff4-42e9-9373-9bcc4c4d2022",
+      "title": "The Prime Gig",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-prime-gig",
+      "has_reactions": false
+    },
+    {
+      "id": "0b1fd50e-b097-4197-9a7c-b37515be44a1",
+      "title": "Monsters, Inc.",
+      "release_year": 2001,
+      "studio_label": "Pixar",
+      "slug": "monsters-inc",
+      "has_reactions": true
+    },
+    {
+      "id": "bad21a6d-3951-47f7-8215-f127a21d6486",
+      "title": "Duplex",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "duplex",
+      "has_reactions": false
+    },
+    {
+      "id": "a36973a0-d7c0-48df-a9e5-174a54f7a4c5",
+      "title": "Teacher's Pet",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "teacher-s-pet",
+      "has_reactions": false
+    },
+    {
+      "id": "052243da-3d98-4b8e-b634-d89e1373adc2",
+      "title": "Melinda and Melinda",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "melinda-and-melinda",
+      "has_reactions": false
+    },
+    {
+      "id": "e0224e1d-821c-40c0-8b29-e479de52d96e",
+      "title": "Karroll's Christmas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "karroll-s-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "467efbe3-056d-4eb5-a4ca-7e81409dae7e",
+      "title": "The Incredibles",
+      "release_year": 2004,
+      "studio_label": "Pixar",
+      "slug": "the-incredibles",
+      "has_reactions": true
+    },
+    {
+      "id": "3cde9e4b-4c49-43a9-94e4-4a132ee72395",
+      "title": "Tom and Jerry: Shiver Me Whiskers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-shiver-me-whiskers",
+      "has_reactions": false
+    },
+    {
+      "id": "38c976a2-9791-4b9a-880b-00dd23863466",
+      "title": "Happily N'Ever After",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "happily-n-ever-after",
+      "has_reactions": false
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "ac58b280-c25e-4927-936d-2f4de7f3ed16",
+      "title": "Kit Kittredge: An American Girl",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kit-kittredge-an-american-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d72342-0941-4611-b7c0-fcac561613f9",
+      "title": "Scooby-Doo! and the Goblin King",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-goblin-king",
+      "has_reactions": false
+    },
+    {
+      "id": "44441fc1-6a29-4919-b4c5-b1f911d100b5",
+      "title": "USIDent TV: Surveilling the Southland",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "usident-tv-surveilling-the-southland",
+      "has_reactions": false
+    },
+    {
+      "id": "877c1029-47d6-4723-87d0-e9b8dc404b9c",
+      "title": "Andr\u00e9 Gregory and Wallace Shawn",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "andr-gregory-and-wallace-shawn",
+      "has_reactions": false
+    },
+    {
+      "id": "1b2c9db2-1b8f-4e18-a444-a6d5977b9165",
+      "title": "Jack and the Beanstalk",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jack-and-the-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "18d16b87-e38f-4671-a67f-36d1f95de53b",
+      "title": "Toy Story 3",
+      "release_year": 2010,
+      "studio_label": "Pixar",
+      "slug": "toy-story-3",
+      "has_reactions": true
+    },
+    {
+      "id": "69b5976f-bf4b-4391-8d14-7b36660d91a4",
+      "title": "Hawaiian Vacation",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hawaiian-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "91e7bddd-5521-43ba-9cec-9ef845bd01ac",
+      "title": "The Speed of Thought",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-speed-of-thought",
+      "has_reactions": false
+    },
+    {
+      "id": "e10f0a87-9688-4eea-be6f-e28956ce2d88",
+      "title": "A Late Quartet",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-late-quartet",
+      "has_reactions": false
+    },
+    {
+      "id": "e0154f09-9211-4b60-9643-fa301c174acd",
+      "title": "Andre Gregory: Before and After Dinner",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "andre-gregory-before-and-after-dinner",
+      "has_reactions": false
+    },
+    {
+      "id": "935edabe-38b5-4096-a307-ead2a9d984a1",
+      "title": "A Master Builder",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "a-master-builder",
+      "has_reactions": false
+    },
+    {
+      "id": "12fba981-4994-4bfa-8569-988aefab2957",
+      "title": "The Double",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-double",
+      "has_reactions": false
+    },
+    {
+      "id": "5203447b-aac3-45aa-94d3-812e7300c652",
+      "title": "Robo-Dog",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "robo-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "a1e9238b-888f-4859-8f86-04f8a4ba1689",
+      "title": "Club Penguin Monster Beach Party",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "club-penguin-monster-beach-party",
+      "has_reactions": false
+    },
+    {
+      "id": "306e6c3d-97be-4735-93f6-9ed48d4931a9",
+      "title": "Maggie's Plan",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "maggie-s-plan",
+      "has_reactions": false
+    },
+    {
+      "id": "6a995b3e-0f0a-4ed0-9930-c2cc69610061",
+      "title": "Cop and a Half: New Recruit",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cop-and-a-half-new-recruit",
+      "has_reactions": false
+    }
+  ]
+}

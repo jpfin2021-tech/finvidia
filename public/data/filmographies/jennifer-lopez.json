@@ -1,0 +1,568 @@
+{
+  "id": "5cdd3c79-e177-468c-94c3-1cb4511aa289",
+  "name": "Jennifer Lopez",
+  "slug": "jennifer-lopez",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/go2wwj8NGLYqKr7MdqbG3nLWICX.jpg",
+  "filmography": [
+    {
+      "id": "579df558-9e66-4ecd-a6b9-a3ab233010c0",
+      "title": "The Last Mrs. Parrish",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-last-mrs-parrish",
+      "has_reactions": false
+    },
+    {
+      "id": "9fbe89fa-83cc-4443-8398-6d3045416fa9",
+      "title": "White",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "white",
+      "has_reactions": false
+    },
+    {
+      "id": "0ec1d326-0794-47c1-b70f-aa5d7f7853b8",
+      "title": "Nurses on the Line: The Crash of Flight 7",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "nurses-on-the-line-the-crash-of-flight-7",
+      "has_reactions": false
+    },
+    {
+      "id": "33cef9ce-dc55-4ea5-a7d3-6814f2d1ca8d",
+      "title": "My Family",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "my-family",
+      "has_reactions": false
+    },
+    {
+      "id": "2fe126cc-3bbd-45d4-877a-fd12ffcd5b5a",
+      "title": "Jack",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jack",
+      "has_reactions": false
+    },
+    {
+      "id": "a3040ea5-5c33-4680-a315-f3754a788c55",
+      "title": "Blood and Wine",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "blood-and-wine",
+      "has_reactions": false
+    },
+    {
+      "id": "eaccec88-e085-4359-83e8-c111c671919f",
+      "title": "Selena",
+      "release_year": 1997,
+      "studio_label": "Esparza / Katz Productions",
+      "slug": "selena",
+      "has_reactions": true
+    },
+    {
+      "id": "1348b110-d6f9-4b82-b271-c8c4c7e79e64",
+      "title": "Anaconda",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "509a11ab-a50b-402f-b312-60b0d9ed2b09",
+      "title": "Antz",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "antz",
+      "has_reactions": false
+    },
+    {
+      "id": "4c0a2fee-9e1e-4f11-b276-345fbee39360",
+      "title": "Out of Sight",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "out-of-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "2dc3911a-6f22-4bdc-b45d-39f6c90e762d",
+      "title": "Inside 'Out of Sight'",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "inside-out-of-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "05a46702-bdc9-45ec-9775-a0757e1018de",
+      "title": "M6 awards 2000",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "m6-awards-2000",
+      "has_reactions": false
+    },
+    {
+      "id": "c4800e9b-cb20-4469-b6f7-b69859f0257d",
+      "title": "The Cell",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-cell",
+      "has_reactions": false
+    },
+    {
+      "id": "cc23c77d-e879-4aaa-a2f3-d0b4864877a5",
+      "title": "Jennifer Lopez | Feelin' So Good",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-feelin-so-good",
+      "has_reactions": false
+    },
+    {
+      "id": "38017fb1-bcd6-4287-8421-897016151f2d",
+      "title": "The Wedding Planner",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-wedding-planner",
+      "has_reactions": false
+    },
+    {
+      "id": "21bddb57-9d7e-45cf-9002-9285267e3868",
+      "title": "Angel Eyes",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "angel-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "78e3b7f4-46d3-468f-ad06-c1da05bad558",
+      "title": "The Best of Max",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-max",
+      "has_reactions": false
+    },
+    {
+      "id": "1237a187-92c9-44e0-b856-81f8e5583274",
+      "title": "Maid in Manhattan",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "maid-in-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "b4c82c2e-ae7d-40b7-97ef-d534cb2a6a38",
+      "title": "The Bronze Screen: 100 Years of the Latino Image in American Cinema",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-bronze-screen-100-years-of-the-latino-image-in-american-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "7ca71640-11b2-4fca-a058-8a165cfba850",
+      "title": "Michael Jackson: Number Ones",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-number-ones",
+      "has_reactions": false
+    },
+    {
+      "id": "814f3f8c-6c20-41b8-a706-f9a904398273",
+      "title": "Jennifer Lopez: Let's Get Loud",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-let-s-get-loud",
+      "has_reactions": false
+    },
+    {
+      "id": "3a78526c-5abd-4c1a-8943-b482e7294fea",
+      "title": "Jennifer Lopez: The Reel Me",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-the-reel-me",
+      "has_reactions": false
+    },
+    {
+      "id": "1c999316-1dd9-4910-ba64-0a93b142bc3f",
+      "title": "Celia Cruz | \u00a1Az\u00facar!",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "celia-cruz-az-car",
+      "has_reactions": false
+    },
+    {
+      "id": "fda85acb-a083-4466-96af-e9cdce2a4bbf",
+      "title": "Michael Jackson: The One",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-the-one",
+      "has_reactions": false
+    },
+    {
+      "id": "97a2ec1e-a629-44b9-9632-dc33ca8e4199",
+      "title": "Monster-in-Law",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "monster-in-law",
+      "has_reactions": false
+    },
+    {
+      "id": "59d9c6c5-c8ee-4f51-bed4-1debef5dab0c",
+      "title": "Selena \u00a1Vive!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "selena-vive",
+      "has_reactions": false
+    },
+    {
+      "id": "011e1ff6-2d88-4c6d-b92e-16c58af5b3c5",
+      "title": "El Cantante",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "el-cantante",
+      "has_reactions": false
+    },
+    {
+      "id": "7d5f2d39-f08e-493d-88f2-d9d67f53a3b7",
+      "title": "The Sound of the Squid",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-sound-of-the-squid",
+      "has_reactions": false
+    },
+    {
+      "id": "69cbb3fb-3764-4ff4-b6a1-96682da61c87",
+      "title": "Bordertown",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "bordertown",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc29bc8-1870-4db1-b490-fca1eb89e1f2",
+      "title": "Teenage Paparazzo",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "teenage-paparazzo",
+      "has_reactions": false
+    },
+    {
+      "id": "177713fc-d261-42ec-a1c3-5281333884ce",
+      "title": "The Back-Up Plan",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-back-up-plan",
+      "has_reactions": false
+    },
+    {
+      "id": "0995f426-233b-4378-b00e-059e9d1d502a",
+      "title": "Jennifer Lopez | iHeartRadio Music Festival 2011",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-iheartradio-music-festival-2011",
+      "has_reactions": false
+    },
+    {
+      "id": "4c120fbe-02c1-414d-a2b1-fa5cc3e88a3e",
+      "title": "What to Expect When You're Expecting",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "what-to-expect-when-you-re-expecting",
+      "has_reactions": false
+    },
+    {
+      "id": "f4dc8e7a-eaa4-437d-92b1-2c0ffc9f109e",
+      "title": "Ice Age: Continental Drift",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ice-age-continental-drift",
+      "has_reactions": false
+    },
+    {
+      "id": "4a20b595-4d09-4a84-9d5c-33aa634b87a6",
+      "title": "Parker",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "parker",
+      "has_reactions": false
+    },
+    {
+      "id": "d5624716-d7c8-4486-9cc9-7856fab97566",
+      "title": "$ellebrity",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "ellebrity",
+      "has_reactions": false
+    },
+    {
+      "id": "10b11623-86b2-4055-8286-07114eb7ef1b",
+      "title": "Jennifer Lopez: Dance Again",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-dance-again",
+      "has_reactions": false
+    },
+    {
+      "id": "95979a97-8ecd-4e2b-bd77-672cca61b6ef",
+      "title": "The Boy Next Door",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-boy-next-door",
+      "has_reactions": false
+    },
+    {
+      "id": "3176f81d-be32-4d96-9fc7-31dbf1501598",
+      "title": "Jennifer Lopez | iHeartRadio Music Festival",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-iheartradio-music-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "8f80ef5e-1734-4bd1-af75-aa78f6b9c5e7",
+      "title": "The Latin Explosion: A New America",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-latin-explosion-a-new-america",
+      "has_reactions": false
+    },
+    {
+      "id": "2a4531e4-6ea6-427b-aa87-ba24cd035ae8",
+      "title": "Lila & Eve",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lila-eve",
+      "has_reactions": false
+    },
+    {
+      "id": "8e1ebdde-b193-49bb-84b0-fe1fcebd2139",
+      "title": "The Late Late Show Carpool Karaoke Primetime Special",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-late-late-show-carpool-karaoke-primetime-special",
+      "has_reactions": false
+    },
+    {
+      "id": "cd34667e-ec5c-4b09-8c40-35151a691f38",
+      "title": "Scrat: Spaced Out",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "scrat-spaced-out",
+      "has_reactions": false
+    },
+    {
+      "id": "f5812b3c-55d4-4c4b-b7a0-21968357c74e",
+      "title": "Ice Age: Collision Course",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ice-age-collision-course",
+      "has_reactions": false
+    },
+    {
+      "id": "96dfbfc2-5fb4-4c1c-8a5e-0e57c8d13791",
+      "title": "Jennifer Lopez | All I Have",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-all-i-have",
+      "has_reactions": false
+    },
+    {
+      "id": "2ed4de11-6395-4e51-bc7b-71cb68beb025",
+      "title": "J. Lo: Let's Get Real",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "j-lo-let-s-get-real",
+      "has_reactions": false
+    },
+    {
+      "id": "494fced1-c5e8-4605-81fd-59ba53bb2b45",
+      "title": "Carpool Karaoke Primetime Special 2017",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "carpool-karaoke-primetime-special-2017",
+      "has_reactions": false
+    },
+    {
+      "id": "10a69bbb-7b98-4733-a293-5375e646d129",
+      "title": "Jennifer Lopez | Tidal X Brooklyn",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-tidal-x-brooklyn",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a48ec0-5fd5-4a97-8e88-c6721496e0b2",
+      "title": "Chris Brown: Welcome to My Life",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chris-brown-welcome-to-my-life",
+      "has_reactions": false
+    },
+    {
+      "id": "4bffda91-adf5-446d-bcff-04787864c63d",
+      "title": "Jennifer Lopez: Super Bowl Saturday Night",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-super-bowl-saturday-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b13e47-ef8f-4bd9-b910-b480596d337b",
+      "title": "Second Act",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "second-act",
+      "has_reactions": false
+    },
+    {
+      "id": "e4628fb8-fb93-4a12-b3e3-e41793635cc3",
+      "title": "Elvis All-Star Tribute",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "elvis-all-star-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "b996d3b3-d6da-4d72-bdb2-4eff89401b37",
+      "title": "Celebrity Escape Room",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "celebrity-escape-room",
+      "has_reactions": false
+    },
+    {
+      "id": "552186f8-b1d3-46ea-95fe-335fe99b7c05",
+      "title": "Nueva York: A Musical History of Latin New York",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "nueva-york-a-musical-history-of-latin-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "dd9460f7-31b8-4b7b-9388-73368e67ace1",
+      "title": "Vax Live: The Concert to Reunite the World",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "vax-live-the-concert-to-reunite-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "662b5b27-7118-4821-aae4-f8d7fb6b30ac",
+      "title": "Marry Me",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "marry-me",
+      "has_reactions": false
+    },
+    {
+      "id": "bf4efb8c-d39c-4201-afaf-557d64762fe9",
+      "title": "Jennifer Lopez & Maluma Live: Marry Me Tonight!",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jennifer-lopez-maluma-live-marry-me-tonight",
+      "has_reactions": false
+    },
+    {
+      "id": "3b093b2a-326a-4146-a3be-4bb20ec0edfd",
+      "title": "TMZ No BS: Jennifer Lopez",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "tmz-no-bs-jennifer-lopez",
+      "has_reactions": false
+    },
+    {
+      "id": "4b0592f4-aa5a-4a74-b496-b874d5d4f76b",
+      "title": "The Mother",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-mother",
+      "has_reactions": false
+    },
+    {
+      "id": "0e90ae19-ee3b-4f41-9e52-6f17c6137a5b",
+      "title": "This Is Me\u2026Now",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "this-is-me-now",
+      "has_reactions": false
+    },
+    {
+      "id": "37771b83-024f-46a6-ae36-6aa1ed273a5a",
+      "title": "The Greatest Love Story Never Told",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-greatest-love-story-never-told",
+      "has_reactions": false
+    },
+    {
+      "id": "19ef7e26-2de2-4913-86c0-cbf4c7492c95",
+      "title": "Unstoppable",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "unstoppable",
+      "has_reactions": false
+    },
+    {
+      "id": "1225564d-cce4-4abe-8e33-5151b5137d32",
+      "title": "American Music Awards 50th Anniversary Special",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "american-music-awards-50th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "17e982e4-5f6a-4500-990e-1ae147dd34ff",
+      "title": "Andrea Bocelli 30: The Celebration",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "andrea-bocelli-30-the-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "f444b6e0-8c24-4f0b-885c-a63342fee7e9",
+      "title": "Atlas",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "atlas",
+      "has_reactions": false
+    },
+    {
+      "id": "87cd14e5-a1ee-4e1a-92a4-0cfef67d9e07",
+      "title": "Apple Music Live: Jennifer Lopez",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "apple-music-live-jennifer-lopez",
+      "has_reactions": false
+    },
+    {
+      "id": "0ed3e1c1-99a3-4f1d-b59a-ae176cab793e",
+      "title": "Anaconda",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "1f036825-b645-4bec-995b-82d961418fda",
+      "title": "Diane Warren: Relentless",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "diane-warren-relentless",
+      "has_reactions": false
+    },
+    {
+      "id": "4af400cc-88cf-4e56-9f0e-54abba1ba7f1",
+      "title": "Office Romance",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "office-romance",
+      "has_reactions": false
+    },
+    {
+      "id": "4cc25d98-2415-45f6-9f5c-59dc788ed0ae",
+      "title": "Ice Age: Boiling Point",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "ice-age-boiling-point",
+      "has_reactions": false
+    }
+  ]
+}

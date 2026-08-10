@@ -1,0 +1,32 @@
+{
+  "id": "f06a4626-4a83-4523-9880-a700353bc364",
+  "name": "Leo O'Brien",
+  "slug": "leo-o-brien",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "1d23dfe4-fc8a-4c07-b107-d9a8ee987657",
+      "title": "The Streets",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-streets",
+      "has_reactions": false
+    },
+    {
+      "id": "2ea08f54-dfac-4e5e-9d89-60c6f7e0d39f",
+      "title": "The Last Dragon",
+      "release_year": 1985,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-last-dragon",
+      "has_reactions": true
+    },
+    {
+      "id": "84e8addd-b53f-426e-9b16-d44e748d3005",
+      "title": "Rappin'",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "rappin",
+      "has_reactions": false
+    }
+  ]
+}

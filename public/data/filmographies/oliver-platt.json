@@ -1,0 +1,488 @@
+{
+  "id": "e2352152-8a31-4367-9513-acb35e5dcbcf",
+  "name": "Oliver Platt",
+  "slug": "oliver-platt",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg",
+  "filmography": [
+    {
+      "id": "30a31baf-efcf-45d5-b073-238ce24c5b41",
+      "title": "Working Girl",
+      "release_year": 1988,
+      "studio_label": "20th Century Fox",
+      "slug": "working-girl",
+      "has_reactions": true
+    },
+    {
+      "id": "88ec16e5-1393-429a-9f7c-e11360b04bec",
+      "title": "Crusoe",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "crusoe",
+      "has_reactions": false
+    },
+    {
+      "id": "83ba6475-a689-45ba-bc1c-3377aaedf639",
+      "title": "Flatliners",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "flatliners",
+      "has_reactions": false
+    },
+    {
+      "id": "e0492e1f-cb6a-4b92-bfaa-8b3e48c109a0",
+      "title": "Diggstown",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "diggstown",
+      "has_reactions": false
+    },
+    {
+      "id": "c0217f1c-0f73-4860-810f-2af2442e5360",
+      "title": "Beethoven",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "beethoven",
+      "has_reactions": false
+    },
+    {
+      "id": "62841885-3841-4fe2-92f8-b9a6d16d1f68",
+      "title": "The Three Musketeers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "37d0c1b2-bc67-47d6-9d85-31ee48062227",
+      "title": "The Temp",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-temp",
+      "has_reactions": false
+    },
+    {
+      "id": "b576aec6-b870-4e58-81b9-34d8200dc02a",
+      "title": "Benny & Joon",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "benny-joon",
+      "has_reactions": false
+    },
+    {
+      "id": "6a28cd7b-3627-438e-a2fe-4e841e0e3df7",
+      "title": "The Infiltrator",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-infiltrator",
+      "has_reactions": false
+    },
+    {
+      "id": "6145cc16-fc79-41b5-8f8b-a83baf122585",
+      "title": "Tall Tale: The Unbelievable Adventure",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "tall-tale-the-unbelievable-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "1e901ce9-5d15-45ee-8066-e63d4884fa33",
+      "title": "A Time to Kill",
+      "release_year": 1996,
+      "studio_label": "Regency Enterprises",
+      "slug": "a-time-to-kill",
+      "has_reactions": true
+    },
+    {
+      "id": "1862f561-5c87-466a-ac0d-9f37de7a9ec8",
+      "title": "Doctor Dolittle",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "doctor-dolittle",
+      "has_reactions": true
+    },
+    {
+      "id": "1564111e-62d2-4296-ae80-a8a61a7b58db",
+      "title": "Bulworth",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "bulworth",
+      "has_reactions": true
+    },
+    {
+      "id": "19944225-17f6-47ac-992a-7f8453738da8",
+      "title": "Simon Birch",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "simon-birch",
+      "has_reactions": false
+    },
+    {
+      "id": "031bb9e1-6042-44dc-a17b-b2349c92e2ee",
+      "title": "Bicentennial Man",
+      "release_year": 1999,
+      "studio_label": "Columbia Pictures",
+      "slug": "bicentennial-man",
+      "has_reactions": true
+    },
+    {
+      "id": "c54832dd-4934-401e-9f09-dc61e63c6538",
+      "title": "Lake Placid",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "lake-placid",
+      "has_reactions": false
+    },
+    {
+      "id": "33f0c479-cf83-4eb9-a19d-a8931c112675",
+      "title": "CinderElmo",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "cinderelmo",
+      "has_reactions": false
+    },
+    {
+      "id": "e9d1aeb0-5d98-452c-9495-71373bb31e35",
+      "title": "Gun Shy",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "gun-shy",
+      "has_reactions": false
+    },
+    {
+      "id": "22332b02-b0e7-41db-a161-003adb6e84d2",
+      "title": "Ready to Rumble",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ready-to-rumble",
+      "has_reactions": false
+    },
+    {
+      "id": "085e9ae0-c067-46cf-b88b-09f435704a13",
+      "title": "Don't Say a Word",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "don-t-say-a-word",
+      "has_reactions": false
+    },
+    {
+      "id": "c083e289-da0f-4aa0-a0b6-1187f3bd7a20",
+      "title": "Ash Wednesday",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ash-wednesday",
+      "has_reactions": false
+    },
+    {
+      "id": "c7600bc2-8e1b-408e-b7e1-71997b815a92",
+      "title": "Liberty Stands Still",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "liberty-stands-still",
+      "has_reactions": false
+    },
+    {
+      "id": "b160fe72-d0e3-4997-9e58-f7fef0f39bdf",
+      "title": "The Ice Harvest",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-ice-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "bea13329-4867-4130-88c6-9c5a7697d308",
+      "title": "Casanova",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "casanova",
+      "has_reactions": false
+    },
+    {
+      "id": "0a4e3054-351b-4bb1-a0f1-14a1b36c94a5",
+      "title": "Martian Child",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "martian-child",
+      "has_reactions": false
+    },
+    {
+      "id": "4ba5250e-2b38-47bc-9c2c-51a8778f95d3",
+      "title": "The Ten",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ten",
+      "has_reactions": false
+    },
+    {
+      "id": "fed8c284-50fa-4ec7-b979-72276d100bf3",
+      "title": "2012",
+      "release_year": 2009,
+      "studio_label": "Columbia Pictures",
+      "slug": "2012",
+      "has_reactions": true
+    },
+    {
+      "id": "cd2ce81c-aaca-43ec-8a26-582022b2abe9",
+      "title": "Wonder Woman",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "wonder-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3ad9d6-c21c-4bf8-b89d-530c281729d8",
+      "title": "Year One",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "year-one",
+      "has_reactions": false
+    },
+    {
+      "id": "7ae2e1a4-3d6f-461f-893b-8eacdcac916a",
+      "title": "Please Give",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "please-give",
+      "has_reactions": false
+    },
+    {
+      "id": "6e661111-4051-44ec-8951-8a961ec80ea2",
+      "title": "Letters to Juliet",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "letters-to-juliet",
+      "has_reactions": false
+    },
+    {
+      "id": "78263a69-66f5-4b27-8925-a94bdfc92d6f",
+      "title": "The End of the World: The Actor's Perspective",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-end-of-the-world-the-actor-s-perspective",
+      "has_reactions": false
+    },
+    {
+      "id": "7e18ef27-91e3-43da-bb1e-33bb6185f2e2",
+      "title": "2012: Roland Emmerich - Master of the Modern Epic",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "2012-roland-emmerich-master-of-the-modern-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "bd73bcf1-bd3a-4780-8c0b-8373b21d3a57",
+      "title": "Jake and Amir: Fired",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jake-and-amir-fired",
+      "has_reactions": false
+    },
+    {
+      "id": "e15c9e59-e571-4f86-bfbc-fc06ed46df0c",
+      "title": "X-Men: First Class",
+      "release_year": 2011,
+      "studio_label": "The Donners' Company",
+      "slug": "x-men-first-class",
+      "has_reactions": true
+    },
+    {
+      "id": "08d9904c-b943-4965-8514-0b5c3330e96e",
+      "title": "Death and the Civil War",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "death-and-the-civil-war",
+      "has_reactions": false
+    },
+    {
+      "id": "29bfeba4-317d-4927-ad11-79a75957acf3",
+      "title": "Ginger & Rosa",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ginger-rosa",
+      "has_reactions": false
+    },
+    {
+      "id": "ed79170f-3758-4b57-81e7-7593c5617aac",
+      "title": "Chinese Zodiac",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "chinese-zodiac",
+      "has_reactions": false
+    },
+    {
+      "id": "945d9f78-ffd5-492d-89d4-5d68d95189bf",
+      "title": "Letters to Jackie: Remembering President Kennedy",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "letters-to-jackie-remembering-president-kennedy",
+      "has_reactions": false
+    },
+    {
+      "id": "71963e95-2087-4eab-b42a-28322107b5a2",
+      "title": "Henry Ford",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "henry-ford",
+      "has_reactions": false
+    },
+    {
+      "id": "6e0bb187-0984-4ad3-addd-2222a9ae2651",
+      "title": "JFK",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jfk",
+      "has_reactions": false
+    },
+    {
+      "id": "68969ef0-bce6-4b8b-b614-6af4f3e0dbf1",
+      "title": "1964",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "1964",
+      "has_reactions": false
+    },
+    {
+      "id": "15765d3f-6f99-4adf-9b00-d2c6b224513f",
+      "title": "American Comandante",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "american-comandante",
+      "has_reactions": false
+    },
+    {
+      "id": "2ecf2824-ed9a-45c5-ae37-b81b12d21d3e",
+      "title": "The Pilgrims",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-pilgrims",
+      "has_reactions": false
+    },
+    {
+      "id": "65b8b613-55d7-40ec-ad7c-8e10bce39259",
+      "title": "Bessie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bessie",
+      "has_reactions": false
+    },
+    {
+      "id": "3663c1f1-c78f-40cd-ac63-56a143f902aa",
+      "title": "Klansville U.S.A.",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "klansville-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "2d6c15f8-f136-4293-9e4e-2bdf6dcd47c2",
+      "title": "The Big Burn",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-big-burn",
+      "has_reactions": false
+    },
+    {
+      "id": "54af83d9-5dca-4707-b7c7-a182412b830f",
+      "title": "One More Time",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "one-more-time",
+      "has_reactions": false
+    },
+    {
+      "id": "0b2a879a-10e2-434e-aa78-b23ea8bf6d00",
+      "title": "The Ticket",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-ticket",
+      "has_reactions": false
+    },
+    {
+      "id": "135d719f-c8a0-459b-b446-ba2baf9c11e8",
+      "title": "Shut In",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "shut-in",
+      "has_reactions": false
+    },
+    {
+      "id": "7d2102ff-edac-41e0-aed0-ddef0524f4ed",
+      "title": "The Perfect Crime: Leopold & Loeb",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-crime-leopold-loeb",
+      "has_reactions": false
+    },
+    {
+      "id": "ed2c58b8-a5f3-43e7-a459-f7c88d9bc028",
+      "title": "The Great War",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-great-war",
+      "has_reactions": false
+    },
+    {
+      "id": "92d1d26b-c1d8-43a7-bb69-ab57151aebcd",
+      "title": "Professor Marston and the Wonder Women",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "professor-marston-and-the-wonder-women",
+      "has_reactions": false
+    },
+    {
+      "id": "cc6330ef-c719-427e-81d6-b27b64a16a79",
+      "title": "Rachel Carson",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "rachel-carson",
+      "has_reactions": false
+    },
+    {
+      "id": "ed0e6ecd-5c0b-4b8e-9923-009afbc35e09",
+      "title": "Into the Amazon",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "into-the-amazon",
+      "has_reactions": false
+    },
+    {
+      "id": "e733ad31-a490-47ba-9ad2-b0b1eaea4e40",
+      "title": "The Gilded Age",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-gilded-age",
+      "has_reactions": false
+    },
+    {
+      "id": "0279b4db-f4e7-4cf4-9f47-6bd3f4bd49d6",
+      "title": "The Cleanse",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-cleanse",
+      "has_reactions": false
+    },
+    {
+      "id": "c979e586-157c-4e38-b332-f7045301b8b3",
+      "title": "The Bombing of Wall Street",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-bombing-of-wall-street",
+      "has_reactions": false
+    },
+    {
+      "id": "b86b4747-9bc0-4411-9495-a41e74758f26",
+      "title": "I'm Thinking of Ending Things",
+      "release_year": 2020,
+      "studio_label": "Likely Story",
+      "slug": "i-m-thinking-of-ending-things",
+      "has_reactions": false
+    },
+    {
+      "id": "e7963f77-b8b6-4a47-b063-c7d7be2f992f",
+      "title": "Babes",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "babes",
+      "has_reactions": false
+    }
+  ]
+}

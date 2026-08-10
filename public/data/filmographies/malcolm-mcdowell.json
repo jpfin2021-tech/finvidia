@@ -1,0 +1,560 @@
+{
+  "id": "7f70bfb9-02bf-456d-a207-0d2fdb2f1691",
+  "name": "Malcolm McDowell",
+  "slug": "malcolm-mcdowell",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
+  "filmography": [
+    {
+      "id": "c87f8011-9376-4863-a8b4-3b58d17c7a0f",
+      "title": "if....",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "if",
+      "has_reactions": false
+    },
+    {
+      "id": "a9d390f0-065b-4259-bf41-7c3061be8b9b",
+      "title": "Figures in a Landscape",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "figures-in-a-landscape",
+      "has_reactions": false
+    },
+    {
+      "id": "52cde481-2beb-4c6b-bcfb-17d706436179",
+      "title": "A Clockwork Orange",
+      "release_year": 1971,
+      "studio_label": "Polaris Productions Limited",
+      "slug": "a-clockwork-orange",
+      "has_reactions": true
+    },
+    {
+      "id": "fd76bc04-ced5-43ad-9341-dd2430398b9b",
+      "title": "O Lucky Man!",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "o-lucky-man",
+      "has_reactions": false
+    },
+    {
+      "id": "52197ac1-16f2-4882-b887-ca643ea3f45f",
+      "title": "Royal Flash",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "royal-flash",
+      "has_reactions": false
+    },
+    {
+      "id": "72cb5e9a-9619-4ee6-9b66-5a0091453f05",
+      "title": "Voyage of the Damned",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "voyage-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "10089863-3a28-4fc6-87a8-0b11626a09f3",
+      "title": "The Passage",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "6e0c9326-b3ab-46d7-826f-cf4ebba83e7b",
+      "title": "Caligula",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "caligula",
+      "has_reactions": false
+    },
+    {
+      "id": "73e81dd5-98ed-4509-9dd9-5cac2ebb801d",
+      "title": "Time After Time",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "time-after-time",
+      "has_reactions": false
+    },
+    {
+      "id": "c51ab1ba-4d6f-4167-9780-1324a846db36",
+      "title": "Cat People",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "cat-people",
+      "has_reactions": false
+    },
+    {
+      "id": "6e6c8b4b-cfd4-442f-bf8f-7c04e08de268",
+      "title": "Britannia Hospital",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "britannia-hospital",
+      "has_reactions": false
+    },
+    {
+      "id": "1cc74679-a580-49c5-8b3c-145e4d5cb87f",
+      "title": "Get Crazy",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "get-crazy",
+      "has_reactions": false
+    },
+    {
+      "id": "6f2e271c-3237-4e11-953a-d592ac546bf5",
+      "title": "Blue Thunder",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "blue-thunder",
+      "has_reactions": false
+    },
+    {
+      "id": "f610a501-566f-4233-b050-2d468d5988a5",
+      "title": "The Caller",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-caller",
+      "has_reactions": false
+    },
+    {
+      "id": "493d8fdb-47f9-49c8-a979-88dcfe0f8059",
+      "title": "Buy & Cell",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "buy-cell",
+      "has_reactions": false
+    },
+    {
+      "id": "c56ec845-f360-4b65-bcc6-83285d5fb29f",
+      "title": "Happily Ever After",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "happily-ever-after",
+      "has_reactions": false
+    },
+    {
+      "id": "b427079d-ae4f-4ffd-9b68-23477c02dfe9",
+      "title": "Moon 44",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "moon-44",
+      "has_reactions": false
+    },
+    {
+      "id": "a411d18f-4a1f-4b1e-bcd8-af53c2cafff8",
+      "title": "Class of 1999",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "class-of-1999",
+      "has_reactions": false
+    },
+    {
+      "id": "c5331026-d7cc-4a92-80e3-8347f2f5512a",
+      "title": "Jezebel's Kiss",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "jezebel-s-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "4672d610-79ab-4dc0-bbfe-c743d9b818ab",
+      "title": "Chain of Desire",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "chain-of-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "34ae8543-ce05-40b6-88a2-7dcab65dd14d",
+      "title": "East Wind",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "east-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "54d63eb3-2ef5-4f82-8ac4-1bcd86e111cf",
+      "title": "Star Trek: Generations",
+      "release_year": 1994,
+      "studio_label": "Paramount Pictures",
+      "slug": "star-trek-generations",
+      "has_reactions": true
+    },
+    {
+      "id": "63465310-9a6d-477f-a8ea-7b1bbd9f78e8",
+      "title": "Cyborg 3: The Recycler",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "cyborg-3-the-recycler",
+      "has_reactions": false
+    },
+    {
+      "id": "f55a2658-b8fd-446a-9635-b80e972ce091",
+      "title": "Tank Girl",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "tank-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "b6146626-e063-4269-bfa6-bed613e80a10",
+      "title": "Kids of the Round Table",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "kids-of-the-round-table",
+      "has_reactions": false
+    },
+    {
+      "id": "184349fe-83c9-411f-8833-426e0b5d570a",
+      "title": "The First 9\u00bd Weeks",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-first-9-weeks",
+      "has_reactions": false
+    },
+    {
+      "id": "0042d7ff-4b6e-4e15-b76a-5c68eda8ce1a",
+      "title": "Nazis: The Occult Conspiracy",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "nazis-the-occult-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "e185a719-5517-442c-9316-ddd124f898b7",
+      "title": "The Fairy King",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-fairy-king",
+      "has_reactions": false
+    },
+    {
+      "id": "ab4f7d82-2548-436b-bd09-9b07bf270b43",
+      "title": "My Life So Far",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "my-life-so-far",
+      "has_reactions": false
+    },
+    {
+      "id": "12a54a51-53e1-4b1d-98e4-84c3520c1d67",
+      "title": "Y2K",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "y2k",
+      "has_reactions": false
+    },
+    {
+      "id": "5408d1bf-86d9-4d52-8696-3f7cbdffbebd",
+      "title": "Gangster No. 1",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "gangster-no-1",
+      "has_reactions": false
+    },
+    {
+      "id": "c9750884-f87a-476f-a39f-386f120db773",
+      "title": "Still Tickin': The Return of 'A Clockwork Orange'",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "still-tickin-the-return-of-a-clockwork-orange",
+      "has_reactions": false
+    },
+    {
+      "id": "11132675-a607-4fc5-a85f-33fc1e66302f",
+      "title": "Princess of Thieves",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "princess-of-thieves",
+      "has_reactions": false
+    },
+    {
+      "id": "84f73483-230a-4b84-9d4b-b5d130cbdad2",
+      "title": "Just Visiting",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "just-visiting",
+      "has_reactions": false
+    },
+    {
+      "id": "27c9a8b9-c72c-43c2-9ec5-57a23c0b6e2c",
+      "title": "Shadow Realm",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "shadow-realm",
+      "has_reactions": false
+    },
+    {
+      "id": "539253f5-e805-42af-908c-73bee102039d",
+      "title": "The Barber",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-barber",
+      "has_reactions": false
+    },
+    {
+      "id": "2a1a97ef-305f-4f04-8d75-9f93e5e2a175",
+      "title": "Between Strangers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "between-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "0bbd6372-8528-4300-bfe7-4c0fda17659a",
+      "title": "I'll Sleep When I'm Dead",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "i-ll-sleep-when-i-m-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "ea702a4e-32ac-48bd-97dc-16551ef5e290",
+      "title": "The Company",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-company",
+      "has_reactions": false
+    },
+    {
+      "id": "96a22e70-9913-43a0-a4e4-c9b82951fc82",
+      "title": "Pinocchio 3000",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "pinocchio-3000",
+      "has_reactions": false
+    },
+    {
+      "id": "54c82043-14b1-4ec1-84e0-3ed95be859a4",
+      "title": "Cut Off",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "cut-off",
+      "has_reactions": false
+    },
+    {
+      "id": "a0106a9d-972e-4514-a715-45f8978ec507",
+      "title": "O Lucky Malcolm!",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "o-lucky-malcolm",
+      "has_reactions": false
+    },
+    {
+      "id": "77cf13ad-5a03-4c98-b2e2-58e565d05d10",
+      "title": "Halloween",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "d0c5418a-3615-457c-a4c4-7c06c71af70c",
+      "title": "The List",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-list",
+      "has_reactions": false
+    },
+    {
+      "id": "ed774e53-ea6c-4448-8801-644687a2591c",
+      "title": "The Robot Chicken: Star Wars",
+      "release_year": 2007,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-robot-chicken-star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "70e943f2-1050-4a72-b862-1c576af25326",
+      "title": "Doomsday",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "doomsday",
+      "has_reactions": false
+    },
+    {
+      "id": "96ec30ca-d401-470c-a61a-9506bb9ff329",
+      "title": "Coco Chanel",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "coco-chanel",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe66baf-fe64-4007-83f5-fd51d4693d96",
+      "title": "Bolt",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bolt",
+      "has_reactions": false
+    },
+    {
+      "id": "09042b1c-d420-4fdf-ae31-2e364b0d80a6",
+      "title": "Halloween II",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halloween-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "03c8f6ff-c6b6-481d-a47f-069da637c30d",
+      "title": "Suck",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "suck",
+      "has_reactions": false
+    },
+    {
+      "id": "b2c3bef9-c82d-4bbc-87dd-81e3e4564378",
+      "title": "Super Rhino",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "super-rhino",
+      "has_reactions": false
+    },
+    {
+      "id": "e6b96917-4c68-4df0-8e85-7bb4873dec66",
+      "title": "DC Showcase: Green Arrow",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dc-showcase-green-arrow",
+      "has_reactions": false
+    },
+    {
+      "id": "b1fa146d-218d-4cfb-8cd7-929041a75d3f",
+      "title": "The Book of Eli",
+      "release_year": 2010,
+      "studio_label": "Alcon Entertainment",
+      "slug": "the-book-of-eli",
+      "has_reactions": true
+    },
+    {
+      "id": "cde383be-42c2-4d4c-bcee-7434d46439c1",
+      "title": "Easy A",
+      "release_year": 2010,
+      "studio_label": "Screen Gems",
+      "slug": "easy-a",
+      "has_reactions": true
+    },
+    {
+      "id": "bbeb989a-cd1b-43aa-8a2a-8d3c1d514a3d",
+      "title": "Tom and Jerry Meet Sherlock Holmes",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-meet-sherlock-holmes",
+      "has_reactions": false
+    },
+    {
+      "id": "6ab08ab0-f718-4f1a-b339-7366c7b33460",
+      "title": "What If Cannabis Cured Cancer",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "what-if-cannabis-cured-cancer",
+      "has_reactions": false
+    },
+    {
+      "id": "58d48908-8305-401f-b13b-180558a34b25",
+      "title": "Suing The Devil",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "suing-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "cd9ef8cb-929c-4ad4-8680-6a357071e347",
+      "title": "Pound of Flesh",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "pound-of-flesh",
+      "has_reactions": false
+    },
+    {
+      "id": "23385fa9-af09-4665-aada-5d513d9e2967",
+      "title": "The Artist",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-artist",
+      "has_reactions": false
+    },
+    {
+      "id": "36d9f8d4-266a-4fba-a867-b662124b41c7",
+      "title": "L.A., I Hate You",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "l-a-i-hate-you",
+      "has_reactions": false
+    },
+    {
+      "id": "418e4977-ad51-4e64-bddb-002fe7cf61be",
+      "title": "The Philadelphia Experiment",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-philadelphia-experiment",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc2e0a6-cb32-4a9e-b15f-aa91245f9bbf",
+      "title": "Silent Hill: Revelation 3D",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "silent-hill-revelation-3d",
+      "has_reactions": false
+    },
+    {
+      "id": "9a14d3f4-a710-47ff-b266-e4d603dc948e",
+      "title": "The Anatomy of a Virus: The Making of Antiviral",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-anatomy-of-a-virus-the-making-of-antiviral",
+      "has_reactions": false
+    },
+    {
+      "id": "c4d732c0-6a9d-4557-ab9e-69e10d2524a1",
+      "title": "Dreaming of Stars: An ASMR Feature Film",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dreaming-of-stars-an-asmr-feature-film",
+      "has_reactions": false
+    },
+    {
+      "id": "6359a2fb-3715-49d9-8e81-84953c25e1fc",
+      "title": "Father Stu",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "father-stu",
+      "has_reactions": false
+    },
+    {
+      "id": "18012905-9f6c-4da0-9b31-9220f63e8a48",
+      "title": "Metalocalypse: Army of the Doomstar",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metalocalypse-army-of-the-doomstar",
+      "has_reactions": false
+    },
+    {
+      "id": "bb473450-3563-4b26-814c-425e6bbb67cf",
+      "title": "Moving On",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "moving-on",
+      "has_reactions": false
+    },
+    {
+      "id": "f91c5681-b247-43e9-a5cb-d82704a92829",
+      "title": "Robot Dracula",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "robot-dracula",
+      "has_reactions": false
+    }
+  ]
+}

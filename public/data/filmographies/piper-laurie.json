@@ -1,0 +1,616 @@
+{
+  "id": "29a58999-e5e1-4a54-aaf2-a7dee7a77780",
+  "name": "Piper Laurie",
+  "slug": "piper-laurie",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ccMC4RssRDKU6cz6K7rxiq1t2Hp.jpg",
+  "filmography": [
+    {
+      "id": "679d87da-dc70-4eb2-9c2b-e87578268813",
+      "title": "The Milkman",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-milkman",
+      "has_reactions": false
+    },
+    {
+      "id": "87343c9e-eb35-439b-9b32-b3e99b049b23",
+      "title": "Louisa",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "louisa",
+      "has_reactions": false
+    },
+    {
+      "id": "4f303e8f-8cb5-4e02-b4b8-09cede5271c5",
+      "title": "The Prince Who Was a Thief",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "the-prince-who-was-a-thief",
+      "has_reactions": false
+    },
+    {
+      "id": "64fb0280-8760-4a79-9cd2-f3f4ecb0587a",
+      "title": "Francis Goes to the Races",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "francis-goes-to-the-races",
+      "has_reactions": false
+    },
+    {
+      "id": "cf518468-05d2-4e4b-8d5c-65b41464ee4a",
+      "title": "Son of Ali Baba",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "son-of-ali-baba",
+      "has_reactions": false
+    },
+    {
+      "id": "c054a8d7-80a9-4b24-b030-f5ec5edf0154",
+      "title": "Has Anybody Seen My Gal?",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "has-anybody-seen-my-gal",
+      "has_reactions": false
+    },
+    {
+      "id": "0049477c-e671-4e08-8b32-e1a7c85212ed",
+      "title": "No Room for the Groom",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "no-room-for-the-groom",
+      "has_reactions": false
+    },
+    {
+      "id": "8b886ce6-04f5-41f7-9500-b21c02fa9a9b",
+      "title": "The Golden Blade",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-golden-blade",
+      "has_reactions": false
+    },
+    {
+      "id": "bf7bbdb8-7501-47f0-bbba-1b3e838fe9a9",
+      "title": "The Mississippi Gambler",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-mississippi-gambler",
+      "has_reactions": false
+    },
+    {
+      "id": "58d28478-0550-4463-9e61-55cdb60e5166",
+      "title": "The World's Most Beautiful Girls",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "the-world-s-most-beautiful-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "0cc904bb-1f31-492a-8694-cb249de1347b",
+      "title": "Johnny Dark",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "johnny-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "cb0849ed-27f0-42ab-a2c5-0d82f9668152",
+      "title": "Dangerous Mission",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dangerous-mission",
+      "has_reactions": false
+    },
+    {
+      "id": "acba1652-1f34-4e9e-89d5-b6c2389be56c",
+      "title": "Dawn at Socorro",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dawn-at-socorro",
+      "has_reactions": false
+    },
+    {
+      "id": "ea22a8aa-e8af-410a-9e76-dbdabdf00f4f",
+      "title": "Smoke Signal",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "smoke-signal",
+      "has_reactions": false
+    },
+    {
+      "id": "acb56e7c-38a7-41b6-b3a3-815216b94546",
+      "title": "Ain't Misbehavin'",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "ain-t-misbehavin",
+      "has_reactions": false
+    },
+    {
+      "id": "4c8099be-ebfd-416f-8a25-340e4ee158b2",
+      "title": "The Ninth Day",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-ninth-day",
+      "has_reactions": false
+    },
+    {
+      "id": "315d9320-b3cf-4218-9539-bed36ad1d796",
+      "title": "Kelly and Me",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "kelly-and-me",
+      "has_reactions": false
+    },
+    {
+      "id": "723fa6bf-1fb0-468f-a10c-d5ac729426ba",
+      "title": "Days of Wine and Roses",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "days-of-wine-and-roses",
+      "has_reactions": false
+    },
+    {
+      "id": "bfbfbe85-76b1-471a-bffa-5ec3ef321700",
+      "title": "Winterset",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "winterset",
+      "has_reactions": false
+    },
+    {
+      "id": "0b2cf54b-4e6a-4fab-985f-5b08ea36af53",
+      "title": "Carrie",
+      "release_year": 1976,
+      "studio_label": "United Artists",
+      "slug": "carrie",
+      "has_reactions": true
+    },
+    {
+      "id": "39bb9797-1f25-4fa8-b792-36e1ec2560b2",
+      "title": "Ruby",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "ruby",
+      "has_reactions": false
+    },
+    {
+      "id": "84e4678d-c9d6-4725-aef7-e83f0b1ffdc2",
+      "title": "In the Matter of Karen Ann Quinlan",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "in-the-matter-of-karen-ann-quinlan",
+      "has_reactions": false
+    },
+    {
+      "id": "a2d1ba3e-92d8-49b3-bc3f-9bb60f36ed70",
+      "title": "The Boss' Son",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-boss-son",
+      "has_reactions": false
+    },
+    {
+      "id": "2d957bca-1e30-4346-9ebd-9fcb80333a99",
+      "title": "Rainbow",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "5fbf2728-633f-4b9e-8348-412d3fb0d9cd",
+      "title": "Tim",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "tim",
+      "has_reactions": false
+    },
+    {
+      "id": "6bb3f636-6e14-4f2a-91ad-e8a5fc7bdec4",
+      "title": "Skag",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "skag",
+      "has_reactions": false
+    },
+    {
+      "id": "7d414c25-d242-400d-b1ed-139c07d2fa1d",
+      "title": "The Bunker",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-bunker",
+      "has_reactions": false
+    },
+    {
+      "id": "b272641d-5e74-4351-b8b8-7744c87d3eab",
+      "title": "Macbeth",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "96a99c12-03ed-4831-a713-5967d6758063",
+      "title": "Mae West",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "mae-west",
+      "has_reactions": false
+    },
+    {
+      "id": "dd1f0f1c-6e03-406c-9820-272b28f70b18",
+      "title": "Return to Oz",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "return-to-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "0f970106-3a55-40e6-aaaf-80f9e98bacc1",
+      "title": "Love, Mary",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "love-mary",
+      "has_reactions": false
+    },
+    {
+      "id": "b7ae8689-93ab-4538-86db-7c96c95ce608",
+      "title": "Tough Love",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "tough-love",
+      "has_reactions": false
+    },
+    {
+      "id": "9ee66e34-2e2d-4c3e-b63d-09ddc00e2009",
+      "title": "Children of a Lesser God",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "children-of-a-lesser-god",
+      "has_reactions": false
+    },
+    {
+      "id": "3177186a-b347-411f-85ab-b6f76d8fae86",
+      "title": "Promise",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "promise",
+      "has_reactions": false
+    },
+    {
+      "id": "913dc0e8-6e0b-4bbe-9a0a-a189143a81af",
+      "title": "Distortions",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "distortions",
+      "has_reactions": false
+    },
+    {
+      "id": "22fc2de2-633b-4bdd-b161-94760f505b30",
+      "title": "Appointment with Death",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "appointment-with-death",
+      "has_reactions": false
+    },
+    {
+      "id": "09b3d89a-8fe7-4885-aa74-ed75a81e5941",
+      "title": "Go Toward the Light",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "go-toward-the-light",
+      "has_reactions": false
+    },
+    {
+      "id": "9cc53688-9a5a-4d42-82e9-b14553fefe31",
+      "title": "Tiger Warsaw",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "tiger-warsaw",
+      "has_reactions": false
+    },
+    {
+      "id": "555d4244-31c7-47b1-8579-0319404856d7",
+      "title": "Mother, Mother",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "mother-mother",
+      "has_reactions": false
+    },
+    {
+      "id": "2428b224-c5f7-4dae-81d3-93e90f2c51cd",
+      "title": "Twin Peaks",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "twin-peaks",
+      "has_reactions": false
+    },
+    {
+      "id": "63338785-bdf0-42ca-adc1-365199b6f9f4",
+      "title": "Other People's Money",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "other-people-s-money",
+      "has_reactions": false
+    },
+    {
+      "id": "0b323980-c941-4dfb-bf9b-68bbcfe09581",
+      "title": "Rich in Love",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "rich-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "254eab00-f3b4-48fe-8700-b99bd049ae07",
+      "title": "Trauma",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "trauma",
+      "has_reactions": false
+    },
+    {
+      "id": "04564730-598f-4894-bab6-f21c9532f6f5",
+      "title": "Sad Inheritance",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "sad-inheritance",
+      "has_reactions": false
+    },
+    {
+      "id": "1efbeccc-3ad5-47a8-9e97-23e11ea2bcb5",
+      "title": "Shadows of Desire",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "shadows-of-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "a6c094b6-e319-4bb2-8b1b-3706ffaf4f16",
+      "title": "The Crossing Guard",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-crossing-guard",
+      "has_reactions": false
+    },
+    {
+      "id": "dc7f20f0-46e0-4c8c-a21d-7ad802c4b894",
+      "title": "Fighting for My Daughter",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "fighting-for-my-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "b13dca0c-9e49-4cfd-8d6d-86ccc7a43bd8",
+      "title": "In the Blink of an Eye",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "in-the-blink-of-an-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "75c8e262-4ce6-4c9f-be8e-a2bffeb56ade",
+      "title": "The Grass Harp",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-grass-harp",
+      "has_reactions": false
+    },
+    {
+      "id": "04d14b78-88e7-4171-8b40-6589cb714f1c",
+      "title": "The Road to Galveston",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-galveston",
+      "has_reactions": false
+    },
+    {
+      "id": "6f1ae332-df4c-48c4-a0a9-2854d7384473",
+      "title": "A Christmas Memory",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-memory",
+      "has_reactions": false
+    },
+    {
+      "id": "500c71b4-0878-4066-a021-6768ffa99f9b",
+      "title": "Alone",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "alone",
+      "has_reactions": false
+    },
+    {
+      "id": "219282d8-3504-48c9-a70f-d7c9fb67d031",
+      "title": "Intensity",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "intensity",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fb41fd-4d9e-42e0-87aa-fd4f08304ab2",
+      "title": "The Faculty",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-faculty",
+      "has_reactions": false
+    },
+    {
+      "id": "77fe1164-9965-4c2f-8c07-4cca2bd65fbf",
+      "title": "St. Patrick's Day",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "st-patrick-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "8feb0c0d-0205-403e-9eca-068b64e0def3",
+      "title": "The Rage: Carrie 2",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-rage-carrie-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a33c9a61-876b-4e00-bcf8-08b8f0258e8a",
+      "title": "The Mao Game",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-mao-game",
+      "has_reactions": false
+    },
+    {
+      "id": "16fefb27-7d69-4609-9ae8-4bcb6c5c875d",
+      "title": "Palmer's Pick-Up",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "palmer-s-pick-up",
+      "has_reactions": false
+    },
+    {
+      "id": "7119bedd-ab32-4055-8893-ee216a3845fe",
+      "title": "Inherit the Wind",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "inherit-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "e507fe84-5860-47a8-9203-c2048bee1a6c",
+      "title": "Acting 'Carrie'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "acting-carrie",
+      "has_reactions": false
+    },
+    {
+      "id": "d56e6568-c0c4-4311-a059-359d2a079f06",
+      "title": "The Last Brickmaker in America",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-last-brickmaker-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "121bc3a5-cf79-48c3-b0c5-d0b76ea28728",
+      "title": "Postcards From The Cast",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "postcards-from-the-cast",
+      "has_reactions": false
+    },
+    {
+      "id": "854397fc-0eb1-41e4-a61a-e687a94acac9",
+      "title": "Dario Argento: An Eye for Horror",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dario-argento-an-eye-for-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "34507a77-3e10-4e90-b98a-f1c7af4a77c0",
+      "title": "Midwives",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "midwives",
+      "has_reactions": false
+    },
+    {
+      "id": "b64c78aa-6402-4a9b-906d-5416164a8733",
+      "title": "Eulogy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "eulogy",
+      "has_reactions": false
+    },
+    {
+      "id": "134270cf-bbd2-4e37-982a-02f3d21a94ac",
+      "title": "Secrets from Another Place: Creating Twin Peaks",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "secrets-from-another-place-creating-twin-peaks",
+      "has_reactions": false
+    },
+    {
+      "id": "0f916c1d-3901-48bf-bf00-d1dc9d9513f2",
+      "title": "Hounddog",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hounddog",
+      "has_reactions": false
+    },
+    {
+      "id": "4d284ec3-41b0-490f-9ca8-7d6c203c0ddc",
+      "title": "Saving Grace B. Jones",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "saving-grace-b-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "32fa1993-d479-4601-921c-b743bb38fb95",
+      "title": "Hesher",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hesher",
+      "has_reactions": false
+    },
+    {
+      "id": "055a31dc-271d-4dfd-9ef1-46a3627e5caf",
+      "title": "Bad Blood... the Hunger",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-blood-the-hunger",
+      "has_reactions": false
+    },
+    {
+      "id": "9a57ef63-f5cc-4537-8ed2-2de0c71a343c",
+      "title": "Tony Curtis: Driven to Stardom",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "tony-curtis-driven-to-stardom",
+      "has_reactions": false
+    },
+    {
+      "id": "b9b7a8f5-97f8-4143-b3a2-0b130ba79678",
+      "title": "More Acting 'Carrie'",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "more-acting-carrie",
+      "has_reactions": false
+    },
+    {
+      "id": "05905081-afd5-4923-b3f3-7212e9154751",
+      "title": "Snapshots",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "snapshots",
+      "has_reactions": false
+    },
+    {
+      "id": "fe1f236d-c6c6-4eff-be2c-cbdc74033f04",
+      "title": "White Boy Rick",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "white-boy-rick",
+      "has_reactions": false
+    },
+    {
+      "id": "1a0dd7ac-777f-48f4-a3e6-6c5552424c04",
+      "title": "Gregory Peck, le gentleman acteur",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "gregory-peck-le-gentleman-acteur",
+      "has_reactions": false
+    },
+    {
+      "id": "94e5cf4f-0a89-4448-8127-6765b2cebbdc",
+      "title": "Rock Hudson: All That Heaven Allowed",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "rock-hudson-all-that-heaven-allowed",
+      "has_reactions": false
+    }
+  ]
+}

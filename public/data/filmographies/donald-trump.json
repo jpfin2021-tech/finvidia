@@ -1,0 +1,752 @@
+{
+  "id": "ea0cfc8e-2d86-4fff-ab7c-387d764a650f",
+  "name": "Donald Trump",
+  "slug": "donald-trump",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nkQrZELEgxsvwDSlYkNfpFmsFx4.jpg",
+  "filmography": [
+    {
+      "id": "8c3187b2-a6d6-478c-9972-f34c9a970fd8",
+      "title": "Mike Tyson vs Larry Holmes",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-larry-holmes",
+      "has_reactions": false
+    },
+    {
+      "id": "d666f112-53e7-4da3-b1bc-794d088c1a7a",
+      "title": "Trump: What's The Deal?",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "trump-what-s-the-deal",
+      "has_reactions": false
+    },
+    {
+      "id": "2b93fd51-964b-4df9-bd55-e312bdec6180",
+      "title": "The Pickle",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-pickle",
+      "has_reactions": false
+    },
+    {
+      "id": "13332b1e-68b8-4e47-9364-2e017f613e68",
+      "title": "Eddie",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "eddie",
+      "has_reactions": false
+    },
+    {
+      "id": "3c0419d3-2f6c-4a98-b344-e7d8054801b1",
+      "title": "54",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "54",
+      "has_reactions": false
+    },
+    {
+      "id": "d3ca2538-8337-4dc8-9d26-44cb843f2841",
+      "title": "Playboy Video Centerfold: Bernaola Twins - Playmate 2000",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "playboy-video-centerfold-bernaola-twins-playmate-2000",
+      "has_reactions": false
+    },
+    {
+      "id": "d076b755-58f1-4bb3-93f4-997d2c25da9b",
+      "title": "Zoolander",
+      "release_year": 2001,
+      "studio_label": "Paramount Pictures",
+      "slug": "zoolander",
+      "has_reactions": true
+    },
+    {
+      "id": "7953894c-ebd8-479a-b281-ff1c07895190",
+      "title": "WWE: Hulk Hogan: The Ultimate Anthology",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wwe-hulk-hogan-the-ultimate-anthology",
+      "has_reactions": false
+    },
+    {
+      "id": "a80e9b6b-20af-4e65-ba87-5c76ca44b9d4",
+      "title": "WWE WrestleMania 23",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "wwe-wrestlemania-23",
+      "has_reactions": false
+    },
+    {
+      "id": "9e0c260a-0b1b-47e7-946c-611235c3f3fe",
+      "title": "Small Potatoes: Who Killed the USFL?",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "small-potatoes-who-killed-the-usfl",
+      "has_reactions": false
+    },
+    {
+      "id": "d0d234d3-3170-41cc-990a-ea5b19221b8d",
+      "title": "Donald Trump: All-American Billionaire",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "donald-trump-all-american-billionaire",
+      "has_reactions": false
+    },
+    {
+      "id": "3d658106-0c37-4b02-ba5f-b1199dbed37a",
+      "title": "Herschel",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "herschel",
+      "has_reactions": false
+    },
+    {
+      "id": "abdca5a4-9e86-41c0-82a7-bf20a6d1980b",
+      "title": "Comedy Central Roast of Donald Trump",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-donald-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "4c6b487d-956a-4ee7-b421-9bc31cac327f",
+      "title": "You've Been Trumped",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "you-ve-been-trumped",
+      "has_reactions": false
+    },
+    {
+      "id": "d5151e91-70c3-4f6f-987f-658c25bd0f03",
+      "title": "Behind the Dress",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "behind-the-dress",
+      "has_reactions": false
+    },
+    {
+      "id": "e61cabf0-8726-4f6b-8fe0-90fdc3134d54",
+      "title": "A Dangerous Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-game",
+      "has_reactions": false
+    },
+    {
+      "id": "2d6b9d84-7479-4623-be5e-5df679168747",
+      "title": "Who Is Donald Trump?",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "who-is-donald-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "f96725ef-701b-411f-9bcc-35de83e36d21",
+      "title": "DARK SIDE of the GREENS",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "dark-side-of-the-greens",
+      "has_reactions": false
+    },
+    {
+      "id": "ab7608da-f402-4951-87ac-2563b6688988",
+      "title": "The Making of Trump",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "90683c7b-2dd6-48fb-aecd-ae73e708c4d4",
+      "title": "Meet the Donors: Does Money Talk?",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "meet-the-donors-does-money-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "6f102513-b493-4560-9439-fba7369e4e0a",
+      "title": "Donald Trump Parking Lot",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "donald-trump-parking-lot",
+      "has_reactions": false
+    },
+    {
+      "id": "b69dd870-8b0d-42bd-83c8-67a0f334ca38",
+      "title": "Donald Trump, Le Cracheur De Feu",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "donald-trump-le-cracheur-de-feu",
+      "has_reactions": false
+    },
+    {
+      "id": "58e570ed-f962-486e-a405-4758fd724bc7",
+      "title": "Slasher Night",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "slasher-night",
+      "has_reactions": false
+    },
+    {
+      "id": "b02b8b42-87b3-4d42-9fe6-6c320adec741",
+      "title": "Outside the Bubble: On the Road with Alexandra Pelosi",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "outside-the-bubble-on-the-road-with-alexandra-pelosi",
+      "has_reactions": false
+    },
+    {
+      "id": "d89df52b-31ab-439c-ade8-83fee869bbef",
+      "title": "The Panama Papers",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-panama-papers",
+      "has_reactions": false
+    },
+    {
+      "id": "7ef35ba0-91db-4e5e-89bf-42f7d5c354c3",
+      "title": "Is Trump for Real?",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "is-trump-for-real",
+      "has_reactions": false
+    },
+    {
+      "id": "fdb47ea6-a852-4579-9172-4aa5e38f24ee",
+      "title": "Rodman: For Better or Worse",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "rodman-for-better-or-worse",
+      "has_reactions": false
+    },
+    {
+      "id": "9abaddf9-dd8f-4e8d-a270-78a1e56ca4c3",
+      "title": "Emergency: Donald Trump\u2019s \"Touch of Evil\"",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "emergency-donald-trump-s-touch-of-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "c46aff4d-4b3a-4928-aad3-49044d50fdff",
+      "title": "Laboratory Greece",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "laboratory-greece",
+      "has_reactions": false
+    },
+    {
+      "id": "e653cf33-fe8f-46ab-bb7a-812d516f14b3",
+      "title": "American Youth",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "american-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "505e8437-8d50-4e02-9b1e-61f964938157",
+      "title": "Caring High",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "caring-high",
+      "has_reactions": false
+    },
+    {
+      "id": "2610c130-3aa0-49e9-bab3-9299ed2cbe13",
+      "title": "The Last American Colony",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-last-american-colony",
+      "has_reactions": false
+    },
+    {
+      "id": "87fb161a-7300-488e-bbf0-53441cb5e84b",
+      "title": "The Choice 2020: Trump vs. Biden",
+      "release_year": 2020,
+      "studio_label": "Kirk Documentary Group",
+      "slug": "the-choice-2020-trump-vs-biden",
+      "has_reactions": false
+    },
+    {
+      "id": "0bb461b1-31a6-4e75-aa72-fb15fcb2c547",
+      "title": "The Plot Against the President",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-plot-against-the-president",
+      "has_reactions": false
+    },
+    {
+      "id": "17b6c808-3525-4bd1-926e-910a39315bf9",
+      "title": "Nicotine - A Drug with a Future",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "nicotine-a-drug-with-a-future",
+      "has_reactions": false
+    },
+    {
+      "id": "bb9d638b-83d8-4649-81af-37cd56dc8d86",
+      "title": "Utopia Means Nowhere",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "utopia-means-nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "36325350-0881-4320-bd59-81274bdeac9a",
+      "title": "Influence",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "influence",
+      "has_reactions": false
+    },
+    {
+      "id": "1873fbd5-e9c0-4064-bdcb-52569edd7db7",
+      "title": "Aboard Air Force One",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "aboard-air-force-one",
+      "has_reactions": false
+    },
+    {
+      "id": "f38f4e4e-f908-43ab-9771-ee56a1ed7528",
+      "title": "Big Brother: A World Under Surveillance",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "big-brother-a-world-under-surveillance",
+      "has_reactions": false
+    },
+    {
+      "id": "7b970b14-5c5f-4c9e-b4d4-4335b739fde2",
+      "title": "United States of Conspiracy",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "united-states-of-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "7de39a2c-00d7-4915-9705-2de72b3d474b",
+      "title": "Donald Trump: A Faking It Special",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "donald-trump-a-faking-it-special",
+      "has_reactions": false
+    },
+    {
+      "id": "00120a8a-03ef-4b5d-9eb3-9d86045ef23a",
+      "title": "HCQ: The Hydroxychloroquine Case",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "hcq-the-hydroxychloroquine-case",
+      "has_reactions": false
+    },
+    {
+      "id": "a6a43131-0b10-4c7c-8651-ef619b248a24",
+      "title": "Safer at Home",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "safer-at-home",
+      "has_reactions": false
+    },
+    {
+      "id": "5174d095-3008-4278-a13a-2260517b3af7",
+      "title": "Day of Rage: How Trump Supporters Took the U.S. Capitol",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "day-of-rage-how-trump-supporters-took-the-u-s-capitol",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca6a201-0594-4b6c-b75e-ff3cac2c8f3a",
+      "title": "The Supporters",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-supporters",
+      "has_reactions": false
+    },
+    {
+      "id": "ce9644d2-ea79-489b-ab3c-08875440f701",
+      "title": "Mondo Hollywoodland",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "mondo-hollywoodland",
+      "has_reactions": false
+    },
+    {
+      "id": "7a47832c-0c7a-432f-b69a-a5be926472a4",
+      "title": "Four Hours at the Capitol",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "four-hours-at-the-capitol",
+      "has_reactions": false
+    },
+    {
+      "id": "d095e256-36a9-4487-8b7b-9ea80e018164",
+      "title": "Monopoly: Who Owns the World?",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "monopoly-who-owns-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "e53ae4f4-ceb5-4b89-8be6-24bf103f1547",
+      "title": "Vaccine Diplomacy",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "vaccine-diplomacy",
+      "has_reactions": false
+    },
+    {
+      "id": "294e0f6c-f32b-4835-a133-41f575473608",
+      "title": "Christmas In Florida",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "christmas-in-florida",
+      "has_reactions": false
+    },
+    {
+      "id": "d8ae90f3-a512-45a7-bdfb-62f518109879",
+      "title": "North Korea: Inside The Mind of a Dictator",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "north-korea-inside-the-mind-of-a-dictator",
+      "has_reactions": false
+    },
+    {
+      "id": "5c86a809-f0b8-4f47-b3d9-5482d9cd4082",
+      "title": "Assassins",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "ae77a0dc-2ae4-46f2-ae25-4ed04b7a8ef2",
+      "title": "The Arc de Triomphe: A Nation's Passion",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-arc-de-triomphe-a-nation-s-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "afcec032-2b63-46b6-ab43-2f1f02916426",
+      "title": "The New Air Force One: Flying Fortress",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-new-air-force-one-flying-fortress",
+      "has_reactions": false
+    },
+    {
+      "id": "85f7fed4-dc70-415c-b371-b5f639c628e8",
+      "title": "The Cult of Conspiracy: QAnon",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-cult-of-conspiracy-qanon",
+      "has_reactions": false
+    },
+    {
+      "id": "6d6fea58-2d86-4777-86b2-9068ee299f70",
+      "title": "Killer, Trader and Psychopath: The America of Bret Easton Ellis",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "killer-trader-and-psychopath-the-america-of-bret-easton-ellis",
+      "has_reactions": false
+    },
+    {
+      "id": "57898a8e-db3e-4e97-9900-0d672d0dd698",
+      "title": "Now",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "now",
+      "has_reactions": false
+    },
+    {
+      "id": "05bb7e4f-e954-4bcc-88f8-ab916c95a932",
+      "title": "Capitol Riots Trump's Last stand",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "capitol-riots-trump-s-last-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "8c77c818-7bf1-4f2a-9a19-2ae5ef83b604",
+      "title": "The Covid Killer",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-covid-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "15e1a834-f38d-47a5-bff6-6c76f119d2f2",
+      "title": "We Feed People",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "we-feed-people",
+      "has_reactions": false
+    },
+    {
+      "id": "cc5a3e02-bafb-4639-8eef-77a4c5613d33",
+      "title": "Oyate",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "oyate",
+      "has_reactions": false
+    },
+    {
+      "id": "7a025952-0b29-4434-bfc0-3ff0aebfb318",
+      "title": "Pelosi's Power",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "pelosi-s-power",
+      "has_reactions": false
+    },
+    {
+      "id": "84a0ed75-3158-4b49-a9a9-fe34e14ce2f8",
+      "title": "Behind the Shield: The Power and Politics of the NFL",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "behind-the-shield-the-power-and-politics-of-the-nfl",
+      "has_reactions": false
+    },
+    {
+      "id": "32b89e18-d5e3-43f7-8681-8e8d7b055c1c",
+      "title": "Love & the Constitution",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "love-the-constitution",
+      "has_reactions": false
+    },
+    {
+      "id": "5e5c58ac-c215-44bb-8d17-f662563907e5",
+      "title": "Prince Andrew: Banished",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "prince-andrew-banished",
+      "has_reactions": false
+    },
+    {
+      "id": "5dbf1f35-9c49-4594-9c85-c467700f7195",
+      "title": "Ithaka",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ithaka",
+      "has_reactions": false
+    },
+    {
+      "id": "4fda04a0-ba9f-4043-97ac-5ad9eefd767f",
+      "title": "Two Men at War",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "two-men-at-war",
+      "has_reactions": false
+    },
+    {
+      "id": "b5c8891b-24af-47da-81a3-dc7bf4609e22",
+      "title": "Alex's War",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "alex-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "c90ea18f-5703-4c46-a1ac-a95970bc209a",
+      "title": "The Storming of the Capitol - An American Trauma",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-storming-of-the-capitol-an-american-trauma",
+      "has_reactions": false
+    },
+    {
+      "id": "0039104a-565a-40e8-9cc9-6e3217d4cba7",
+      "title": "The March on Rome",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-march-on-rome",
+      "has_reactions": false
+    },
+    {
+      "id": "92b458c1-d35e-493c-9b9d-4f2ab7c36870",
+      "title": "Rigged: The Zuckerberg Funded Plot to Defeat Donald Trump",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rigged-the-zuckerberg-funded-plot-to-defeat-donald-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "53cb5405-a0ea-4c69-8630-8b3d74f82d45",
+      "title": "The Ivana Trump Story: The First Wife",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-ivana-trump-story-the-first-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "d591dbc2-bdad-4052-b0a4-9ec962d28b07",
+      "title": "2000 Mules",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "2000-mules",
+      "has_reactions": false
+    },
+    {
+      "id": "96ebbdd1-e8d2-4501-8e11-d19c718953c8",
+      "title": "PRIDE: To Be Seen - A Soul of a Nation Presentation",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "pride-to-be-seen-a-soul-of-a-nation-presentation",
+      "has_reactions": false
+    },
+    {
+      "id": "616785e8-d308-4a36-8a40-7aad41110cc7",
+      "title": "Zelenskyy: The Man Who Took on Putin",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "zelenskyy-the-man-who-took-on-putin",
+      "has_reactions": false
+    },
+    {
+      "id": "203bfe3f-20af-4b65-bcda-92586f39a825",
+      "title": "Trump: The Comeback?",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "trump-the-comeback",
+      "has_reactions": false
+    },
+    {
+      "id": "0dffe7cd-cc1f-4450-bdc5-974670632fe5",
+      "title": "Stonebreakers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "stonebreakers",
+      "has_reactions": false
+    },
+    {
+      "id": "6c91c3e6-8aa9-43a0-b2da-cfe20f4f5a58",
+      "title": "God Forbid: The Sex Scandal That Brought Down a Dynasty",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "god-forbid-the-sex-scandal-that-brought-down-a-dynasty",
+      "has_reactions": false
+    },
+    {
+      "id": "c4d66fe6-98fa-4d79-9496-ccf2b88aa34d",
+      "title": "Lab Leak Liars: How China and Authorities Deceived Us",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "lab-leak-liars-how-china-and-authorities-deceived-us",
+      "has_reactions": false
+    },
+    {
+      "id": "52f183c8-4cbf-4665-832d-937d1d04719e",
+      "title": "The Path of Mexico",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-path-of-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "f42b0227-fc3a-4ce1-b4cb-d4e52094fd7e",
+      "title": "D-Day Veterans Return to Normandy - 75 Years Later",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "d-day-veterans-return-to-normandy-75-years-later",
+      "has_reactions": false
+    },
+    {
+      "id": "577c0cda-628e-4173-a25e-7ec6f15f2b45",
+      "title": "A Storm Foretold: Det amerikanske opr\u00f8r",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-storm-foretold-det-amerikanske-opr-r",
+      "has_reactions": false
+    },
+    {
+      "id": "a71aaf39-ba5e-4587-8e51-67bd565f33b8",
+      "title": "Putin and the Presidents",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "putin-and-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "5a5fb33b-f07b-4909-89d1-9eae7b09b95e",
+      "title": "When Truth Isn't Truth: The Rudy Giuliani Story",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "when-truth-isn-t-truth-the-rudy-giuliani-story",
+      "has_reactions": false
+    },
+    {
+      "id": "7409daa3-95a4-494c-890c-95df377dd881",
+      "title": "Kenyatta: Do Not Wait Your Turn",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "kenyatta-do-not-wait-your-turn",
+      "has_reactions": false
+    },
+    {
+      "id": "e7aff3e0-6e85-4910-b1ce-d5231b13e1cf",
+      "title": "Maintaining With Tyrus: Donald Trump Interview",
+      "release_year": 2024,
+      "studio_label": "Fox Nation",
+      "slug": "maintaining-with-tyrus-donald-trump-interview",
+      "has_reactions": false
+    },
+    {
+      "id": "dcae4ef0-cb08-4d63-ad66-0012791ddfcd",
+      "title": "Trump: The Return?",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "trump-the-return",
+      "has_reactions": false
+    },
+    {
+      "id": "938b9aa5-9b29-40d8-95d8-0001e1dc6b5d",
+      "title": "The Truth vs. Alex Jones",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-truth-vs-alex-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "d820787a-2a19-4805-8f85-5981cc02222b",
+      "title": "Stormy",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "stormy",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6411d0-5a17-44ef-b17a-931cb1807041",
+      "title": "The Relentless Patriot",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-relentless-patriot",
+      "has_reactions": false
+    },
+    {
+      "id": "80303dac-9601-41fb-a3e2-8f23bc32c7ad",
+      "title": "Food, Inc. 2",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "food-inc-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0dfe5d0b-541b-4dfd-8737-e89d36b0808e",
+      "title": "Russia, China, Iran: The Axis of Revenge",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "russia-china-iran-the-axis-of-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "12062a43-4916-41db-9c35-0103f418007a",
+      "title": "Putin's Bears - The Most Dangerous Hackers in the World",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "putin-s-bears-the-most-dangerous-hackers-in-the-world",
+      "has_reactions": false
+    }
+  ]
+}

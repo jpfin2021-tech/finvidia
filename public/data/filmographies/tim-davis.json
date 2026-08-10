@@ -1,0 +1,32 @@
+{
+  "id": "b012ba60-96c5-4c36-8850-a68f52009d67",
+  "name": "Tim Davis",
+  "slug": "tim-davis",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "541de4a4-d82e-488d-b586-844b2820944c",
+      "title": "Gambling Ship",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "gambling-ship",
+      "has_reactions": false
+    },
+    {
+      "id": "ce0e6177-f560-40d1-85c5-d51a240cc17f",
+      "title": "Citizen Kane",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "citizen-kane",
+      "has_reactions": false
+    },
+    {
+      "id": "58f74c2b-ecda-4e83-95be-1d2de24f185a",
+      "title": "Bambi",
+      "release_year": 1942,
+      "studio_label": "Walt Disney Productions",
+      "slug": "bambi",
+      "has_reactions": true
+    }
+  ]
+}

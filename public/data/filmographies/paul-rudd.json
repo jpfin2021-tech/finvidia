@@ -1,0 +1,560 @@
+{
+  "id": "0585d85e-ed0f-4833-8ea0-c361a84a990c",
+  "name": "Paul Rudd",
+  "slug": "paul-rudd",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
+  "filmography": [
+    {
+      "id": "35a5bcf8-afa8-4a63-aa50-0417684063d9",
+      "title": "Jamie's Secret",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "jamie-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "b3965bc2-31e7-41a0-92d8-05110948b9b7",
+      "title": "Moment of Truth: Stalking Back",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "moment-of-truth-stalking-back",
+      "has_reactions": false
+    },
+    {
+      "id": "89aa1413-949c-4164-9bdc-b51168dedfc7",
+      "title": "Clueless",
+      "release_year": 1995,
+      "studio_label": "Paramount Pictures",
+      "slug": "clueless",
+      "has_reactions": true
+    },
+    {
+      "id": "a318ab98-08d2-4edb-b629-fe4de6816568",
+      "title": "Halloween: The Curse of Michael Myers",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "halloween-the-curse-of-michael-myers",
+      "has_reactions": false
+    },
+    {
+      "id": "7b942d06-eacb-45cc-a8d9-eb61a7c5b2e4",
+      "title": "Romeo + Juliet",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "romeo-juliet",
+      "has_reactions": true
+    },
+    {
+      "id": "a5026e68-b24f-4434-b0f0-ff9bce95fec5",
+      "title": "The Locusts",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-locusts",
+      "has_reactions": false
+    },
+    {
+      "id": "46b9571d-9db8-4b63-a3f5-5974303b06dc",
+      "title": "The Object of My Affection",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-object-of-my-affection",
+      "has_reactions": false
+    },
+    {
+      "id": "aaa4d939-3812-4dd1-94ee-4adc94a8fdde",
+      "title": "The Cider House Rules",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-cider-house-rules",
+      "has_reactions": false
+    },
+    {
+      "id": "d6871ca6-a1b3-4ed5-96da-a0c445953e89",
+      "title": "The Great Gatsby",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-great-gatsby",
+      "has_reactions": false
+    },
+    {
+      "id": "9a46a4ff-b0c5-4da7-b532-bd58e18e416a",
+      "title": "Gen-Y Cops",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "gen-y-cops",
+      "has_reactions": false
+    },
+    {
+      "id": "f37bb9e3-a9a0-4034-9a0d-ea089b94cc1e",
+      "title": "Wet Hot American Summer",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "wet-hot-american-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "a86c0121-4529-4e59-88c8-7f0ac8cd92c0",
+      "title": "Bash: Latter-Day Plays",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "bash-latter-day-plays",
+      "has_reactions": false
+    },
+    {
+      "id": "0cfd3268-8e5e-4888-875f-fc591fad39f6",
+      "title": "Two Days",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "two-days",
+      "has_reactions": false
+    },
+    {
+      "id": "cbda2333-e71a-41bb-a22d-281ba0c6d6e4",
+      "title": "House Hunting",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "house-hunting",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3a4b80-7ccf-4282-8d97-b92f69d0460b",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "anchorman-the-legend-of-ron-burgundy",
+      "has_reactions": true
+    },
+    {
+      "id": "3ceaa76f-5780-42cf-bbb5-a611ad411580",
+      "title": "Wake Up, Ron Burgundy: The Lost Movie",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "wake-up-ron-burgundy-the-lost-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "94420976-8025-4c49-aff4-48ff365d0278",
+      "title": "P.S.",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "p-s",
+      "has_reactions": false
+    },
+    {
+      "id": "9dfb7355-76b9-410b-be89-7864959a75f6",
+      "title": "The 40 Year Old Virgin",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "the-40-year-old-virgin",
+      "has_reactions": true
+    },
+    {
+      "id": "08ab6579-ce5a-43dd-a164-6da842346dfa",
+      "title": "The Baxter",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-baxter",
+      "has_reactions": false
+    },
+    {
+      "id": "601ec7e5-d486-4aa9-89ac-5d541704cf41",
+      "title": "Celebrity Mix",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "celebrity-mix",
+      "has_reactions": false
+    },
+    {
+      "id": "b1f3e2ca-a909-48f6-8806-381dc8767b00",
+      "title": "The Ex",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-ex",
+      "has_reactions": false
+    },
+    {
+      "id": "9a6bec02-5117-4fc7-95bf-e544312c7065",
+      "title": "The Oh in Ohio",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-oh-in-ohio",
+      "has_reactions": false
+    },
+    {
+      "id": "c41d7336-1018-4e02-b6a0-07ebfc474aa2",
+      "title": "Night at the Museum",
+      "release_year": 2006,
+      "studio_label": "1492 Pictures",
+      "slug": "night-at-the-museum",
+      "has_reactions": true
+    },
+    {
+      "id": "237d80c5-1a1c-414f-af08-4a0914ef8262",
+      "title": "Knocked Up",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "knocked-up",
+      "has_reactions": true
+    },
+    {
+      "id": "4ba5250e-2b38-47bc-9c2c-51a8778f95d3",
+      "title": "The Ten",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ten",
+      "has_reactions": false
+    },
+    {
+      "id": "1e1475ea-ae5f-4097-8ec9-0ff2a0148220",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "walk-hard-the-dewey-cox-story",
+      "has_reactions": true
+    },
+    {
+      "id": "925bb76b-c0f0-432c-8513-2b9e9080ae99",
+      "title": "I Could Never Be Your Woman",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "i-could-never-be-your-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "4ded34fb-f9d3-44a0-a162-8a5cfc4073b5",
+      "title": "Role Models",
+      "release_year": 2008,
+      "studio_label": "Universal Pictures",
+      "slug": "role-models",
+      "has_reactions": true
+    },
+    {
+      "id": "c6dd07cc-b7c6-4feb-9bed-271fd1356f96",
+      "title": "Forgetting Sarah Marshall",
+      "release_year": 2008,
+      "studio_label": "Universal Pictures",
+      "slug": "forgetting-sarah-marshall",
+      "has_reactions": true
+    },
+    {
+      "id": "9f340fb0-971b-48e6-9c4a-e0eb251b01e9",
+      "title": "Over Her Dead Body",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "over-her-dead-body",
+      "has_reactions": false
+    },
+    {
+      "id": "e74703b2-d0d5-4e21-9463-ac4eb6a83b1f",
+      "title": "Monty Python Conquers America",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "monty-python-conquers-america",
+      "has_reactions": false
+    },
+    {
+      "id": "8121256f-eedf-42f4-aef6-9144bbb05f46",
+      "title": "SNL Presents: A Very Gilly Christmas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "snl-presents-a-very-gilly-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "865fdce9-3daa-4ed8-a4b0-495d612f4d76",
+      "title": "I Love You, Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-man",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3ad9d6-c21c-4bf8-b89d-530c281729d8",
+      "title": "Year One",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "year-one",
+      "has_reactions": false
+    },
+    {
+      "id": "f2a981c9-4e1e-4c9b-984d-89b33518177f",
+      "title": "Monsters vs Aliens",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "monsters-vs-aliens",
+      "has_reactions": false
+    },
+    {
+      "id": "f6f7d5ec-5c68-44d2-8f5c-8392108131eb",
+      "title": "Sesame Street: Being Green",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "sesame-street-being-green",
+      "has_reactions": false
+    },
+    {
+      "id": "5318120f-c111-49e7-8799-a094d17a980b",
+      "title": "Casino Jack and the United States of Money",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "casino-jack-and-the-united-states-of-money",
+      "has_reactions": false
+    },
+    {
+      "id": "c020a0bb-3b8e-4b07-ab87-d0e690902e6b",
+      "title": "How Do You Know",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "how-do-you-know",
+      "has_reactions": false
+    },
+    {
+      "id": "75cbf6c6-182b-4b65-8324-1ed070a7fc4f",
+      "title": "Picture Perfect",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "picture-perfect",
+      "has_reactions": false
+    },
+    {
+      "id": "24de392f-8fd0-45ef-81bf-31160d5ec012",
+      "title": "Jason Segel & Paul Rudd Meet Rush",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jason-segel-paul-rudd-meet-rush",
+      "has_reactions": false
+    },
+    {
+      "id": "4ccac409-e97d-4a5b-a65b-c3c8cd9e30b4",
+      "title": "The Perks of Being a Wallflower",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-perks-of-being-a-wallflower",
+      "has_reactions": false
+    },
+    {
+      "id": "872885b2-bf20-41dd-b18a-3887d1d3f9ca",
+      "title": "The Secret Policeman's Ball",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "45604915-9e4b-4666-aaa2-78ae91d8c4f0",
+      "title": "This Is the End",
+      "release_year": 2013,
+      "studio_label": "Columbia Pictures",
+      "slug": "this-is-the-end",
+      "has_reactions": true
+    },
+    {
+      "id": "d800ecb9-fe8b-4424-b405-bcd223dff5f4",
+      "title": "Prince Avalanche",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "prince-avalanche",
+      "has_reactions": false
+    },
+    {
+      "id": "38e06e0c-b98d-41b7-8fba-d1d31ab0f0c7",
+      "title": "Ant-Man",
+      "release_year": 2015,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man",
+      "has_reactions": true
+    },
+    {
+      "id": "3e03eab2-3968-40d4-a340-85b966f95173",
+      "title": "2015 Kansas City Royals: The Official World Series Film",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "2015-kansas-city-royals-the-official-world-series-film",
+      "has_reactions": false
+    },
+    {
+      "id": "d764b3f8-4a9a-4adf-8556-18df021cbdb8",
+      "title": "Hurricane of Fun: The Making of Wet Hot",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hurricane-of-fun-the-making-of-wet-hot",
+      "has_reactions": false
+    },
+    {
+      "id": "ebaa43a1-0c69-41cc-861e-0cf8b74deb05",
+      "title": "Nerdland",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "nerdland",
+      "has_reactions": false
+    },
+    {
+      "id": "053865c9-3c33-420b-b16f-4a0ce9be89ef",
+      "title": "Rush: Time Stand Still",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "rush-time-stand-still",
+      "has_reactions": false
+    },
+    {
+      "id": "48e034f8-2fb1-4fd6-965e-8f762e256d0a",
+      "title": "Sausage Party",
+      "release_year": 2016,
+      "studio_label": "Columbia Pictures",
+      "slug": "sausage-party",
+      "has_reactions": true
+    },
+    {
+      "id": "caf09702-8624-422d-9e6f-7f441c176d9a",
+      "title": "The Fundamentals of Caring",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-fundamentals-of-caring",
+      "has_reactions": false
+    },
+    {
+      "id": "6d7749d6-94b6-4166-9f95-9e5339d8f4a7",
+      "title": "Captain America: Civil War",
+      "release_year": 2016,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-civil-war",
+      "has_reactions": true
+    },
+    {
+      "id": "170fe516-ab23-469f-9600-c1e7fc76e0fd",
+      "title": "Fun Mom Dinner",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "fun-mom-dinner",
+      "has_reactions": false
+    },
+    {
+      "id": "7301af41-228a-4979-bba1-898ca837e862",
+      "title": "Night of Too Many Stars: America Unites for Autism Programs",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "night-of-too-many-stars-america-unites-for-autism-programs",
+      "has_reactions": false
+    },
+    {
+      "id": "ffbb6da1-bb93-44c7-9c56-4f85a3102a4d",
+      "title": "Ant-Man and the Wasp",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp",
+      "has_reactions": true
+    },
+    {
+      "id": "7bfa2a23-7eca-4e15-8228-60d8cf643c3f",
+      "title": "Ideal Home",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "ideal-home",
+      "has_reactions": false
+    },
+    {
+      "id": "d9002057-e449-47e4-aa9b-c6244dcfcf55",
+      "title": "Avengers: Endgame",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-endgame",
+      "has_reactions": true
+    },
+    {
+      "id": "5365f12e-6011-4e9f-b0e7-6a3ea5a34e94",
+      "title": "Ghostbusters: Afterlife",
+      "release_year": 2021,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghostbusters-afterlife",
+      "has_reactions": true
+    },
+    {
+      "id": "c8d08def-273b-4f6a-9d4f-e886c8b1c72a",
+      "title": "Adrienne",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "adrienne",
+      "has_reactions": false
+    },
+    {
+      "id": "dad056c7-38c1-4794-857c-e4248fa90bb3",
+      "title": "Rush: Cinema Strangiato - R40+ Director's Cut",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rush-cinema-strangiato-r40-director-s-cut",
+      "has_reactions": false
+    },
+    {
+      "id": "b9f31db8-b08b-4495-be9e-8691cc5bb28e",
+      "title": "The Bob's Burgers Movie",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-bob-s-burgers-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e38ebd5e-0130-4089-9d45-ffa7dabe2c3c",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-rescue-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "45f19abf-09f9-4c4e-bd55-58d81d89a196",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp-quantumania",
+      "has_reactions": true
+    },
+    {
+      "id": "9df55935-c182-4917-9868-12839d6aacf4",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "release_year": 2023,
+      "studio_label": "Paramount Pictures",
+      "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+      "has_reactions": true
+    },
+    {
+      "id": "f172d713-24e4-4c54-b252-1a7903bda62e",
+      "title": "Chris Rock: Road To Live Special",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "chris-rock-road-to-live-special",
+      "has_reactions": false
+    },
+    {
+      "id": "ff03b8cd-ab32-4f51-88a8-b2f6f1d4742a",
+      "title": "Ghostbusters: Frozen Empire",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ghostbusters-frozen-empire",
+      "has_reactions": false
+    },
+    {
+      "id": "0ed3e1c1-99a3-4f1d-b59a-ae176cab793e",
+      "title": "Anaconda",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "anaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "86ae693d-677b-48fd-8d5c-9771c531ac58",
+      "title": "Friendship",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "friendship",
+      "has_reactions": false
+    },
+    {
+      "id": "2418c7b7-e276-4142-b43b-938eaff12393",
+      "title": "Power Ballad",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "power-ballad",
+      "has_reactions": false
+    }
+  ]
+}

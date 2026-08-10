@@ -1,0 +1,624 @@
+{
+  "id": "e48b4c66-ef2e-4a47-8646-59e60e3a8dec",
+  "name": "Lauren Bacall",
+  "slug": "lauren-bacall",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/iCOzbSzCSUC6D9EcyXtVb2FRNu0.jpg",
+  "filmography": [
+    {
+      "id": "e8922cae-94a6-4fc2-b5ff-e784550ec38f",
+      "title": "Breakdowns of 1944",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "breakdowns-of-1944",
+      "has_reactions": false
+    },
+    {
+      "id": "26185671-796c-4e2b-be48-9241d63643de",
+      "title": "To Have and Have Not",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "to-have-and-have-not",
+      "has_reactions": false
+    },
+    {
+      "id": "b0399aa2-0680-4922-93ad-4e376ec634d0",
+      "title": "Confidential Agent",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "confidential-agent",
+      "has_reactions": false
+    },
+    {
+      "id": "456f11cc-5d7c-48fd-8c40-c6ec025ce812",
+      "title": "The Big Sleep",
+      "release_year": 1946,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-big-sleep",
+      "has_reactions": true
+    },
+    {
+      "id": "5520853c-cfbc-4167-8833-d8bf4cae237d",
+      "title": "Two Guys from Milwaukee",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "two-guys-from-milwaukee",
+      "has_reactions": false
+    },
+    {
+      "id": "d6e2b3bb-d997-404a-91db-830b92ae85c9",
+      "title": "Dark Passage",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "dark-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "c7cfdf47-0fda-4b08-a8e3-eb71691a4e3d",
+      "title": "Key Largo",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "key-largo",
+      "has_reactions": false
+    },
+    {
+      "id": "cd3f1529-487c-4475-856c-0cfa327a7fa7",
+      "title": "Breakdowns of 1949",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "breakdowns-of-1949",
+      "has_reactions": false
+    },
+    {
+      "id": "f6c1d327-add9-487b-9320-abd5df4a827e",
+      "title": "Young Man with a Horn",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "young-man-with-a-horn",
+      "has_reactions": false
+    },
+    {
+      "id": "f7cc7aa5-1e8b-4418-8790-72ddb4872c47",
+      "title": "Bright Leaf",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "bright-leaf",
+      "has_reactions": false
+    },
+    {
+      "id": "423ddc10-95ac-4c1e-89ec-5d7d9a0457d9",
+      "title": "The Hollywood Ten",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-hollywood-ten",
+      "has_reactions": false
+    },
+    {
+      "id": "9b14547d-7cba-4dee-8bd0-a4e954b0aa3a",
+      "title": "Woman's World",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "woman-s-world",
+      "has_reactions": false
+    },
+    {
+      "id": "19e3af62-6d5a-4795-90e8-4775fac111b9",
+      "title": "A Star Is Born World Premiere",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born-world-premiere",
+      "has_reactions": false
+    },
+    {
+      "id": "fda4c79c-9cc2-431c-a49a-a8fc20757f79",
+      "title": "The Cobweb",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-cobweb",
+      "has_reactions": false
+    },
+    {
+      "id": "387365bf-0374-4848-b71f-fab55e71cda5",
+      "title": "Written on the Wind",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "written-on-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "b73e38ac-7bbb-4aeb-a40b-318a0bcabe51",
+      "title": "Blithe Spirit",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "blithe-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "17dced88-031c-4835-b1a6-10063e88e72c",
+      "title": "The Gift of Love",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-gift-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "01cc38e2-f922-4e76-98c4-222ac92d8f7d",
+      "title": "North West Frontier",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "north-west-frontier",
+      "has_reactions": false
+    },
+    {
+      "id": "84dc4ab6-331d-4956-b369-57b68fcd22e1",
+      "title": "Sex and the Single Girl",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "sex-and-the-single-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "bfe90536-dacc-4d9f-93b1-0f4be1f657db",
+      "title": "The Men Who Made the Movies: Howard Hawks",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-men-who-made-the-movies-howard-hawks",
+      "has_reactions": false
+    },
+    {
+      "id": "770e8e2f-dcd4-4d34-83b6-7199763be3bf",
+      "title": "Applause",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "applause",
+      "has_reactions": false
+    },
+    {
+      "id": "f199b68d-8ff4-40e5-ab53-207639969328",
+      "title": "Perfect Gentlemen",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "perfect-gentlemen",
+      "has_reactions": false
+    },
+    {
+      "id": "65b18921-eb01-4bc7-ac08-c228df5a714c",
+      "title": "HealtH",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "health",
+      "has_reactions": false
+    },
+    {
+      "id": "f836aee3-6456-415d-aec3-a6bcc81562ff",
+      "title": "The Fan",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-fan",
+      "has_reactions": false
+    },
+    {
+      "id": "73fc7962-a6cd-49c2-8e32-7cd766ec3885",
+      "title": "Hollywood Out-takes and Rare Footage",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hollywood-out-takes-and-rare-footage",
+      "has_reactions": false
+    },
+    {
+      "id": "22fc2de2-633b-4bdd-b161-94760f505b30",
+      "title": "Appointment with Death",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "appointment-with-death",
+      "has_reactions": false
+    },
+    {
+      "id": "08cbc356-bbbb-4995-a015-7fc50cf789dd",
+      "title": "Gregory Peck: His Own Man",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "gregory-peck-his-own-man",
+      "has_reactions": false
+    },
+    {
+      "id": "b0fd6885-a1b6-4ebe-ac95-9a0aaaa6d946",
+      "title": "Bacall on Bogart",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bacall-on-bogart",
+      "has_reactions": false
+    },
+    {
+      "id": "8eb1d4b4-110f-411e-ab86-2e0e4dcdc96c",
+      "title": "Tree of Hands",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "tree-of-hands",
+      "has_reactions": false
+    },
+    {
+      "id": "26441432-14c3-4871-b756-3935331ccbf6",
+      "title": "Dinner at Eight",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "dinner-at-eight",
+      "has_reactions": false
+    },
+    {
+      "id": "570082ef-9026-4df3-9fe7-349232ec4e74",
+      "title": "Misery",
+      "release_year": 1990,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "misery",
+      "has_reactions": true
+    },
+    {
+      "id": "274b8818-3be7-46ce-9c5c-e3d24d8b2265",
+      "title": "A Little Piece of Sunshine",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "a-little-piece-of-sunshine",
+      "has_reactions": false
+    },
+    {
+      "id": "7e9aaa96-73b5-4f13-aad7-07b607559cbb",
+      "title": "The Real Story of the Three Little Kittens",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-real-story-of-the-three-little-kittens",
+      "has_reactions": false
+    },
+    {
+      "id": "b63fde0b-822e-44f9-8a47-d6fabd26198f",
+      "title": "A Star for Two",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "a-star-for-two",
+      "has_reactions": false
+    },
+    {
+      "id": "4f309e59-834a-44e3-bb66-ac87bbd87828",
+      "title": "Kisses",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "kisses",
+      "has_reactions": false
+    },
+    {
+      "id": "928fdc1f-a8be-4078-8ffc-212da83c8585",
+      "title": "You Must Remember This: A Tribute to 'Casablanca'",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "you-must-remember-this-a-tribute-to-casablanca",
+      "has_reactions": false
+    },
+    {
+      "id": "cc42e985-5303-4fc2-9e41-cafc34c7a211",
+      "title": "Leonard Bernstein: The Gift of Music",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "leonard-bernstein-the-gift-of-music",
+      "has_reactions": false
+    },
+    {
+      "id": "9e62dbd9-6598-4f08-aa3e-a36b3f651bfe",
+      "title": "The Portrait",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-portrait",
+      "has_reactions": false
+    },
+    {
+      "id": "8e928a0a-f461-444d-b46c-a4c1453606c1",
+      "title": "Pr\u00eat-\u00e0-Porter",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "pr-t-porter",
+      "has_reactions": false
+    },
+    {
+      "id": "6255bdad-4dba-4c2e-ab7a-9b427bdfd5fc",
+      "title": "The Mirror Has Two Faces",
+      "release_year": 1996,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-mirror-has-two-faces",
+      "has_reactions": true
+    },
+    {
+      "id": "7cabbba6-ac11-477c-90c7-0d93f3f9cf93",
+      "title": "My Fellow Americans",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "my-fellow-americans",
+      "has_reactions": false
+    },
+    {
+      "id": "9e8c4c9e-792d-4c43-97b3-777b52dd93e3",
+      "title": "A Benefit Celebration: A Tribute to Angela Lansbury",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-benefit-celebration-a-tribute-to-angela-lansbury",
+      "has_reactions": false
+    },
+    {
+      "id": "096d0b4c-b2f5-46ec-b0cb-9c01d8936411",
+      "title": "The Line King: The Al Hirschfeld Story",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-line-king-the-al-hirschfeld-story",
+      "has_reactions": false
+    },
+    {
+      "id": "2aa296a4-7a21-4d4e-835b-9b301cbeb157",
+      "title": "Bogart: Here's Looking at You, Kid",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "bogart-here-s-looking-at-you-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "5b7e58f3-d5bd-4ebc-b4f2-d0fddf5017a7",
+      "title": "Sports on the Silver Screen",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "sports-on-the-silver-screen",
+      "has_reactions": false
+    },
+    {
+      "id": "c8a818a2-e7fd-460a-889e-e87030de07c3",
+      "title": "Day and Night",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "day-and-night",
+      "has_reactions": false
+    },
+    {
+      "id": "1e8acf29-0790-4159-b3a7-9862aa3390b4",
+      "title": "Doris Day: It's Magic",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "doris-day-it-s-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "b2ed140d-676b-4973-a3a0-1043dd70802d",
+      "title": "Madeline: Lost in Paris",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "madeline-lost-in-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "08ad3eb7-ca1f-4694-989a-9bf4810435ae",
+      "title": "Diamonds",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "diamonds",
+      "has_reactions": false
+    },
+    {
+      "id": "dc0c2771-d712-4fa6-8af1-1c8d9f9f4a0a",
+      "title": "The Venice Project",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-venice-project",
+      "has_reactions": false
+    },
+    {
+      "id": "4bbcaee8-12eb-48cf-9831-2f68bf191a55",
+      "title": "A Conversation with Gregory Peck",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "a-conversation-with-gregory-peck",
+      "has_reactions": false
+    },
+    {
+      "id": "99c30992-c44c-4e9b-b740-6745e912e257",
+      "title": "Am\u00e1lia Tra\u00edda",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "am-lia-tra-da",
+      "has_reactions": false
+    },
+    {
+      "id": "b971ae62-db60-438c-884d-167da54e1e38",
+      "title": "Pulp Cinema",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "pulp-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "a57f339d-8248-4381-abd0-462e2cc57a17",
+      "title": "Greta Garbo: A Lone Star",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "greta-garbo-a-lone-star",
+      "has_reactions": false
+    },
+    {
+      "id": "f46415ca-873b-4893-9700-aac0898698a2",
+      "title": "New York at the Movies",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "new-york-at-the-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "d8f18d1d-f940-4b03-993e-05999ef93a05",
+      "title": "A Love Story: The Story of 'To Have and Have Not'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "a-love-story-the-story-of-to-have-and-have-not",
+      "has_reactions": false
+    },
+    {
+      "id": "06ae5aa7-1c41-42c3-9e64-a5b33a636607",
+      "title": "Dogville",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "dogville",
+      "has_reactions": false
+    },
+    {
+      "id": "0422c128-a558-4148-b9ed-59062901c20b",
+      "title": "Hold Your Breath and Cross Your Fingers: The Story of 'Dark Passage'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hold-your-breath-and-cross-your-fingers-the-story-of-dark-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "4492a9ef-baa2-48f8-adc7-1445823dd57f",
+      "title": "Discovering Treasure: The Story of 'The Treasure of the Sierra Madre'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "discovering-treasure-the-story-of-the-treasure-of-the-sierra-madre",
+      "has_reactions": false
+    },
+    {
+      "id": "76b5c130-512d-4dcc-a661-e44a218b4e4c",
+      "title": "The Limit",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-limit",
+      "has_reactions": false
+    },
+    {
+      "id": "7486ae90-f2d3-4469-a92d-0aec8c61ce50",
+      "title": "Judy Garland: By Myself",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "judy-garland-by-myself",
+      "has_reactions": false
+    },
+    {
+      "id": "f3ae27fb-5826-468f-8794-2c5f579223ab",
+      "title": "Birth",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "birth",
+      "has_reactions": false
+    },
+    {
+      "id": "ce018e28-96ff-4de8-9577-234ec5409b7c",
+      "title": "Dogville Confessions",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dogville-confessions",
+      "has_reactions": false
+    },
+    {
+      "id": "c8e6b672-a4de-40e7-9b0f-228e098df683",
+      "title": "Manderlay",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "manderlay",
+      "has_reactions": false
+    },
+    {
+      "id": "58c70080-f19c-4c56-b572-2403d1f96a6e",
+      "title": "These Foolish Things",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "these-foolish-things",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d72342-0941-4611-b7c0-fcac561613f9",
+      "title": "Scooby-Doo! and the Goblin King",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-goblin-king",
+      "has_reactions": false
+    },
+    {
+      "id": "46ca25e2-0382-4ecb-bcfe-01f840be80df",
+      "title": "Eve",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "eve",
+      "has_reactions": false
+    },
+    {
+      "id": "351dc1a2-eae1-4f78-883b-c7bc72f2ff14",
+      "title": "Embracing Chaos: Making The African Queen",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "embracing-chaos-making-the-african-queen",
+      "has_reactions": false
+    },
+    {
+      "id": "ad3a3ab6-f6d1-4e34-b8af-af0f5842fb2f",
+      "title": "Cameraman: The Life and Work of Jack Cardiff",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "cameraman-the-life-and-work-of-jack-cardiff",
+      "has_reactions": false
+    },
+    {
+      "id": "43368082-8bef-451a-96c1-19090dc0344d",
+      "title": "The Forger",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-forger",
+      "has_reactions": false
+    },
+    {
+      "id": "5d680580-1773-4dcc-a5ea-fd6519b9f79f",
+      "title": "All at Sea",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "all-at-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "4dab955e-8fe8-4590-a039-2273cd724816",
+      "title": "Classic Movie Bloopers: Uncensored",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "classic-movie-bloopers-uncensored",
+      "has_reactions": false
+    },
+    {
+      "id": "d53236a8-96b4-47f5-848e-c2b3145de808",
+      "title": "The Untameable Kirk Douglas",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-untameable-kirk-douglas",
+      "has_reactions": false
+    },
+    {
+      "id": "56b871bf-5840-4b97-abde-aa639a60d164",
+      "title": "Parkinson at 50",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "parkinson-at-50",
+      "has_reactions": false
+    },
+    {
+      "id": "ba5857f6-c20a-4e89-aaba-9230ef5e8fed",
+      "title": "The Capote Tapes",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-capote-tapes",
+      "has_reactions": false
+    },
+    {
+      "id": "4ab81278-c937-4db1-b38e-9570f1605edd",
+      "title": "Rat Pack",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rat-pack",
+      "has_reactions": false
+    },
+    {
+      "id": "273df428-3722-4c1e-b083-f75c52c2459c",
+      "title": "Mad About the Boy: The No\u00ebl Coward Story",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mad-about-the-boy-the-no-l-coward-story",
+      "has_reactions": false
+    }
+  ]
+}

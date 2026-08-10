@@ -1,0 +1,680 @@
+{
+  "id": "a5559be8-9762-470d-8605-b01f80d0f0d0",
+  "name": "Dave Goelz",
+  "slug": "dave-goelz",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tBJDwH008IVSeTCB5e2P856NbIv.jpg",
+  "filmography": [
+    {
+      "id": "5ec010a8-059d-4e0d-95e3-eb6e234cd61b",
+      "title": "The Parent Trap",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-parent-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "632d8cca-ef1b-4c05-bef2-366e76ba904e",
+      "title": "Muppet Picker Upper",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "muppet-picker-upper",
+      "has_reactions": false
+    },
+    {
+      "id": "78b3dc3f-b6aa-4921-8823-ff6ccf518400",
+      "title": "Just a Few Announcements",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "just-a-few-announcements",
+      "has_reactions": false
+    },
+    {
+      "id": "ecdab6d1-fb4d-489f-88c7-daa973e5d7cf",
+      "title": "Kagayake! Gor\u014d Mapetto Geba Geba 90-pun!",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "kagayake-gor-mapetto-geba-geba-90-pun",
+      "has_reactions": false
+    },
+    {
+      "id": "38ff43e0-5d07-438a-ac6a-279220e4f7a6",
+      "title": "Emmet Otter's Jug-Band Christmas",
+      "release_year": 1977,
+      "studio_label": "The Jim Henson Company",
+      "slug": "emmet-otter-s-jug-band-christmas",
+      "has_reactions": true
+    },
+    {
+      "id": "52bb821a-e1a2-4abb-8a5b-e8893ac6dd32",
+      "title": "The Royal Variety Performance 1977",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-royal-variety-performance-1977",
+      "has_reactions": false
+    },
+    {
+      "id": "58890b32-be68-47a9-a7ac-ae187add969d",
+      "title": "The Bob Hope All Star Christmas Comedy Special",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-bob-hope-all-star-christmas-comedy-special",
+      "has_reactions": false
+    },
+    {
+      "id": "740337f7-da31-405b-8f72-4f4d4e484a17",
+      "title": "Julie Andrews: One Step Into Spring",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "julie-andrews-one-step-into-spring",
+      "has_reactions": false
+    },
+    {
+      "id": "f2cf1247-30f7-4943-9dd7-2c6815240f35",
+      "title": "The Muppet Movie",
+      "release_year": 1979,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-muppet-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "a0521d6f-0272-41bc-81ac-9016e70de639",
+      "title": "The Muppets Go Hollywood",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-go-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "8cc3e98a-bc5b-42d5-b489-ae8c74696400",
+      "title": "John Denver and the Muppets: A Christmas Together",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "john-denver-and-the-muppets-a-christmas-together",
+      "has_reactions": false
+    },
+    {
+      "id": "cf74cf0f-9064-41d0-9b65-2b4b3a868b81",
+      "title": "The Orson Welles Show",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-orson-welles-show",
+      "has_reactions": false
+    },
+    {
+      "id": "b37d8234-4325-4c92-b946-ffdabf846a0f",
+      "title": "The Great Muppet Caper",
+      "release_year": 1981,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-great-muppet-caper",
+      "has_reactions": true
+    },
+    {
+      "id": "f4ac1de7-37d8-4e11-b601-0ac4c9966574",
+      "title": "Of Muppets & Men",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "of-muppets-men",
+      "has_reactions": false
+    },
+    {
+      "id": "ca382a44-cd37-4e58-ad29-2b2540d362fe",
+      "title": "The Muppets Go to the Movies",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-go-to-the-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "18d6e52e-8570-42e0-81e9-d8c3283c280e",
+      "title": "The Dark Crystal",
+      "release_year": 1982,
+      "studio_label": "ITC Entertainment",
+      "slug": "the-dark-crystal",
+      "has_reactions": true
+    },
+    {
+      "id": "52240e77-92da-42bc-845e-2e7a1d087fc3",
+      "title": "The Fantastic Miss Piggy Show",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-fantastic-miss-piggy-show",
+      "has_reactions": false
+    },
+    {
+      "id": "a1d41960-38d4-424b-858f-44020ca2104b",
+      "title": "Fraggle Rock: Live by the Rule of the Rock",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "fraggle-rock-live-by-the-rule-of-the-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "6415b0bc-ee5a-45dc-9160-dc9efc935216",
+      "title": "Rocky Mountain Holiday with John Denver and the Muppets",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "rocky-mountain-holiday-with-john-denver-and-the-muppets",
+      "has_reactions": false
+    },
+    {
+      "id": "86bbe008-a09f-4fbd-a8a2-ecc8c007d6d2",
+      "title": "The Muppets Take Manhattan",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-take-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "a496e46b-e366-42db-bafb-faf04223a07f",
+      "title": "The Bells of Fraggle Rock",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-bells-of-fraggle-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "86c8e9a6-68d1-4ed0-9805-8ceb040803b1",
+      "title": "The Muppet Revue",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-muppet-revue",
+      "has_reactions": false
+    },
+    {
+      "id": "4e2be3b3-2fe7-4092-a635-1c8efce44c5d",
+      "title": "Children's Songs and Stories with the Muppets",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "children-s-songs-and-stories-with-the-muppets",
+      "has_reactions": false
+    },
+    {
+      "id": "cc0b53b1-b7e5-49bf-8f26-60fc57e37b02",
+      "title": "Muppet Video: Rowlf's Rhapsodies with the Muppets",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "muppet-video-rowlf-s-rhapsodies-with-the-muppets",
+      "has_reactions": false
+    },
+    {
+      "id": "8a58958b-dc62-4854-96be-b9d470e90872",
+      "title": "Gonzo Presents Muppet Weird Stuff",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "gonzo-presents-muppet-weird-stuff",
+      "has_reactions": false
+    },
+    {
+      "id": "071202ed-81a8-4b7c-b5d7-c8af89aa2fbb",
+      "title": "Muppet Video: The Kermit and Piggy Story",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "muppet-video-the-kermit-and-piggy-story",
+      "has_reactions": false
+    },
+    {
+      "id": "23e78844-1ce4-4265-9f82-eedd2daa5da2",
+      "title": "Fraggle Rock: Scared Silly",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "fraggle-rock-scared-silly",
+      "has_reactions": false
+    },
+    {
+      "id": "01cd7e2a-c38a-48ff-9fb4-9f947005b8be",
+      "title": "Muppet Treasures",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "muppet-treasures",
+      "has_reactions": false
+    },
+    {
+      "id": "feeb5bbf-aa07-421c-97f6-06ca69d48378",
+      "title": "The Christmas Toy",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-toy",
+      "has_reactions": false
+    },
+    {
+      "id": "5e045c06-bda5-47cc-8910-0ce333380bca",
+      "title": "The Muppets: A Celebration of 30 Years",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-a-celebration-of-30-years",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa6091b-44ca-41c5-b928-e79377199937",
+      "title": "Labyrinth",
+      "release_year": 1986,
+      "studio_label": "Henson Associates",
+      "slug": "labyrinth",
+      "has_reactions": true
+    },
+    {
+      "id": "0c7fbd25-f076-45d7-b695-2fc5ed34abab",
+      "title": "Fraggles Look For Jobs",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "fraggles-look-for-jobs",
+      "has_reactions": false
+    },
+    {
+      "id": "84e033ec-72e3-4ca2-86b7-1ea858a62634",
+      "title": "Down at Fraggle Rock",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "down-at-fraggle-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "dd2dfa92-0d8a-4248-a913-921e5c26e503",
+      "title": "A Muppet Family Christmas",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-muppet-family-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "763c47b7-075e-4644-8297-dfc17f580a47",
+      "title": "The Song of the Cloud Forest",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-song-of-the-cloud-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "c01fed32-0cff-4714-bfd7-8215c8ddff7c",
+      "title": "Miss Piggy's Hollywood",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "miss-piggy-s-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "49034ff2-c9e5-47ce-bc12-94e70f72f4be",
+      "title": "Dog City",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "dog-city",
+      "has_reactions": false
+    },
+    {
+      "id": "3998a1c5-5184-4c9f-927a-45b632c2698f",
+      "title": "The Muppets at Walt Disney World",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-at-walt-disney-world",
+      "has_reactions": false
+    },
+    {
+      "id": "052979c8-f653-4221-9170-6162fef48d8d",
+      "title": "The Muppets Celebrate Jim Henson",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-celebrate-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "7cb078b7-4bf3-4144-851e-83bceca9f0a8",
+      "title": "Disneyland's 35th Anniversary Celebration",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "disneyland-s-35th-anniversary-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "89e0ef57-b6e4-466c-b9d5-50de9d462755",
+      "title": "The Earth Day Special",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-earth-day-special",
+      "has_reactions": false
+    },
+    {
+      "id": "a4bd39dc-ad45-4f5e-80f9-1ea1eeb50a32",
+      "title": "Jim Henson's Memorial Service",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "jim-henson-s-memorial-service",
+      "has_reactions": false
+    },
+    {
+      "id": "3e01e127-9b77-44fb-9f5d-e51575963020",
+      "title": "The Muppet Christmas Carol",
+      "release_year": 1992,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-muppet-christmas-carol",
+      "has_reactions": true
+    },
+    {
+      "id": "3b3ba03e-a9c2-4a70-872f-a58caa4cd856",
+      "title": "Holiday Greetings from 'The Ed Sullivan Show'",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "holiday-greetings-from-the-ed-sullivan-show",
+      "has_reactions": false
+    },
+    {
+      "id": "0c83c7f4-0090-415a-bc03-766c8ee4ab3a",
+      "title": "Muppet Sing Alongs: It's Not Easy Being Green",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "muppet-sing-alongs-it-s-not-easy-being-green",
+      "has_reactions": false
+    },
+    {
+      "id": "30033633-af1f-4db5-a675-c6e83d485a99",
+      "title": "The World of Jim Henson",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-world-of-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "ba8e66ed-0d3d-41f1-895f-07c01709f221",
+      "title": "Rudy Coby: The Coolest Magician on Earth",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "rudy-coby-the-coolest-magician-on-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "842aa460-8d61-440c-9ed0-9ad3f49234f2",
+      "title": "Muppet Treasure Island",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "muppet-treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "28101b5f-8b4e-471c-bf2f-5ee36c740841",
+      "title": "Muppet Sing Alongs: Treasure Island",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "muppet-sing-alongs-treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "e97f7e14-2fce-46d6-9743-4cbe37eb7305",
+      "title": "The Adventures of Elmo in Grouchland",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-elmo-in-grouchland",
+      "has_reactions": false
+    },
+    {
+      "id": "f285d6f9-1f5b-4c0e-9e90-94173673d12d",
+      "title": "The Very Best of the Muppet Show: Volume 2",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-very-best-of-the-muppet-show-volume-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a0031b88-102b-43eb-950b-84fd132464b6",
+      "title": "The Very Best of the Muppet Show",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-very-best-of-the-muppet-show",
+      "has_reactions": false
+    },
+    {
+      "id": "20fd205a-e3b4-443e-8793-58bd4879ccba",
+      "title": "Bear in the Big Blue House: A Berry Bear Christmas",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "bear-in-the-big-blue-house-a-berry-bear-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "616ce0de-50bf-4d74-906e-4556535c4253",
+      "title": "The Very Best of the Muppet Show: Volume 3",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-very-best-of-the-muppet-show-volume-3",
+      "has_reactions": false
+    },
+    {
+      "id": "0074f984-1cf3-4d36-ba1a-c51bedc67c15",
+      "title": "I Love Muppets",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "i-love-muppets",
+      "has_reactions": false
+    },
+    {
+      "id": "0f1f1526-6079-4ad8-b517-4f19c5c5268e",
+      "title": "Weezer and the Muppets Go Fishin'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "weezer-and-the-muppets-go-fishin",
+      "has_reactions": false
+    },
+    {
+      "id": "e13225b2-1701-4087-a5dc-51afb0198574",
+      "title": "Kermit's Swamp Years",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "kermit-s-swamp-years",
+      "has_reactions": false
+    },
+    {
+      "id": "20668b39-b3f0-4af2-8ddc-aa96358b316f",
+      "title": "It's a Very Merry Muppet Christmas Movie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-very-merry-muppet-christmas-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "739af080-d2bf-4104-b74f-a98ec83957f8",
+      "title": "Fraggle Rock: Dance Your Cares Away",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "fraggle-rock-dance-your-cares-away",
+      "has_reactions": false
+    },
+    {
+      "id": "f44d61d9-f0cb-4cc4-ad0c-66d3f6f21491",
+      "title": "The Muppets' Wizard of Oz",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-wizard-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "80fb2a4c-0129-420a-bd73-c6e00067e2b0",
+      "title": "The Great Gonzo: A Portrait of the Artist as a Young Weirdo",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-great-gonzo-a-portrait-of-the-artist-as-a-young-weirdo",
+      "has_reactions": false
+    },
+    {
+      "id": "949521a8-1d1c-4bea-ac1b-2cc8cd11bee4",
+      "title": "Best Ever Muppet Moments",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "best-ever-muppet-moments",
+      "has_reactions": false
+    },
+    {
+      "id": "d29ad006-1d57-4a43-b78f-a5ddcbbb87aa",
+      "title": "Reflections of 'The Dark Crystal'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "reflections-of-the-dark-crystal",
+      "has_reactions": false
+    },
+    {
+      "id": "e492f5de-1e5e-463b-bd80-ae2eb1b489b4",
+      "title": "Journey Through the Labyrinth",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "journey-through-the-labyrinth",
+      "has_reactions": false
+    },
+    {
+      "id": "064ccfef-35ef-4331-bf6d-5620a6fa5dcf",
+      "title": "A Muppets Christmas: Letters to Santa",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "a-muppets-christmas-letters-to-santa",
+      "has_reactions": false
+    },
+    {
+      "id": "3e8abcb4-29d4-4de7-9d92-f9f9d2d0470b",
+      "title": "The Muppets: Stars & Stripes FOREVER!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-stars-stripes-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "1db59a25-6891-45b6-8e08-44e649c7956e",
+      "title": "The Muppets - Studio DC - Almost Live",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-studio-dc-almost-live",
+      "has_reactions": false
+    },
+    {
+      "id": "9765d3a1-c9a8-4c22-9a7c-45f76c91b802",
+      "title": "The Muppets: Classical Chicken",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-classical-chicken",
+      "has_reactions": false
+    },
+    {
+      "id": "9d206246-3413-491c-8380-2c9c4ca98146",
+      "title": "Jim Henson's Tales from Muppetland",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jim-henson-s-tales-from-muppetland",
+      "has_reactions": false
+    },
+    {
+      "id": "c88c9e01-7f36-450a-8a19-80483feef6a8",
+      "title": "The Muppets",
+      "release_year": 2011,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-muppets",
+      "has_reactions": true
+    },
+    {
+      "id": "db6c9572-71f0-477f-ad8e-9a45bf3b7a2c",
+      "title": "The Muppets All-Star Comedy Gala",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-all-star-comedy-gala",
+      "has_reactions": false
+    },
+    {
+      "id": "872885b2-bf20-41dd-b18a-3887d1d3f9ca",
+      "title": "The Secret Policeman's Ball",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "292f7b18-c8c4-439b-a822-afea6376c29a",
+      "title": "Lady Gaga & the Muppets Holiday Spectacular",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "lady-gaga-the-muppets-holiday-spectacular",
+      "has_reactions": false
+    },
+    {
+      "id": "fc54f1e6-0545-477c-b45a-578178fcdf64",
+      "title": "Robbie Williams - One Night At the Palladium",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "robbie-williams-one-night-at-the-palladium",
+      "has_reactions": false
+    },
+    {
+      "id": "95249c0c-5b3f-42ec-aaa8-c3bef25b883e",
+      "title": "Inside Out",
+      "release_year": 2015,
+      "studio_label": "Pixar",
+      "slug": "inside-out",
+      "has_reactions": true
+    },
+    {
+      "id": "2071c169-ec59-4ec4-a1ea-3c5c07b8f362",
+      "title": "Muppet Guys Talking: Secrets Behind the Show the Whole World Watched",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "muppet-guys-talking-secrets-behind-the-show-the-whole-world-watched",
+      "has_reactions": false
+    },
+    {
+      "id": "4b1ce06a-0623-4a95-a802-75fbcb271f29",
+      "title": "Muppet Guys Talking: A Special Conversation to Honor Jim Henson",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "muppet-guys-talking-a-special-conversation-to-honor-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "41b20528-6277-48fa-b559-546ec1584fa1",
+      "title": "The Disney Family Singalong - Volume II",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-disney-family-singalong-volume-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "6985bcf1-02ab-46e3-8b5e-b3450da556bb",
+      "title": "Dear Earth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dear-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "edcb2993-bc4b-4889-a8c3-5a0ef2bbf0ee",
+      "title": "Jerry Nelson: A Celebratory Birthday Animatic",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jerry-nelson-a-celebratory-birthday-animatic",
+      "has_reactions": false
+    },
+    {
+      "id": "6467cd6d-9e5d-4120-8ce6-f494dd3ff4ba",
+      "title": "Inside Out 2",
+      "release_year": 2024,
+      "studio_label": "Pixar",
+      "slug": "inside-out-2",
+      "has_reactions": true
+    },
+    {
+      "id": "09f914e0-eaee-4f36-a3d9-ee66273d7ac4",
+      "title": "Jim Henson Idea Man",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "jim-henson-idea-man",
+      "has_reactions": false
+    },
+    {
+      "id": "6f98f674-875c-4cf0-ba96-db7dd128a4cb",
+      "title": "The First Snow of Fraggle Rock",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-first-snow-of-fraggle-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "2cb0508c-8c83-4b75-920b-18beec40ec01",
+      "title": "The Muppet Show",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-muppet-show",
+      "has_reactions": false
+    }
+  ]
+}

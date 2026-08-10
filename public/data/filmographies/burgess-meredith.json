@@ -1,0 +1,648 @@
+{
+  "id": "4e32eb0a-06cb-4894-a6ba-0b19178c1dd4",
+  "name": "Burgess Meredith",
+  "slug": "burgess-meredith",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg",
+  "filmography": [
+    {
+      "id": "e81771c7-fc40-4a9e-91bf-18e97d11d070",
+      "title": "The Scoundrel",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "the-scoundrel",
+      "has_reactions": false
+    },
+    {
+      "id": "4b4140c2-b936-476c-b454-2f5ec411e5b9",
+      "title": "Winterset",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "winterset",
+      "has_reactions": false
+    },
+    {
+      "id": "f9218321-f848-4cb3-bd4f-095fff39c3a5",
+      "title": "There Goes the Groom",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "there-goes-the-groom",
+      "has_reactions": false
+    },
+    {
+      "id": "59589c73-881a-428c-ba37-8d7ddaf38a34",
+      "title": "Idiot's Delight",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "idiot-s-delight",
+      "has_reactions": false
+    },
+    {
+      "id": "d21c38e4-ab6a-4ed4-b5be-e9268826390c",
+      "title": "Of Mice and Men",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "of-mice-and-men",
+      "has_reactions": false
+    },
+    {
+      "id": "d7307136-c729-4d45-ae49-18157c20cf13",
+      "title": "Castle on the Hudson",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "castle-on-the-hudson",
+      "has_reactions": false
+    },
+    {
+      "id": "100b5b45-87a0-4f23-a3f2-676ecf5064c0",
+      "title": "Tom, Dick and Harry",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "tom-dick-and-harry",
+      "has_reactions": false
+    },
+    {
+      "id": "54156171-9263-4bfa-827a-7b4a2a04e824",
+      "title": "That Uncertain Feeling",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "that-uncertain-feeling",
+      "has_reactions": false
+    },
+    {
+      "id": "c307299a-5846-4888-8737-04799c328f3c",
+      "title": "The Forgotten Village",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-forgotten-village",
+      "has_reactions": false
+    },
+    {
+      "id": "41074cdc-bddc-4370-ac98-1d98bd201683",
+      "title": "Street of Chance",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "street-of-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "63c3194a-d269-440b-b47e-c72be26e996c",
+      "title": "The Rear Gunner",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "the-rear-gunner",
+      "has_reactions": false
+    },
+    {
+      "id": "bacddc05-8b31-4b21-a4ce-7817f7106646",
+      "title": "Tunisian Victory",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "tunisian-victory",
+      "has_reactions": false
+    },
+    {
+      "id": "590f3353-7033-4a3e-8cfb-36ce4f01c67f",
+      "title": "A Salute to France",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "a-salute-to-france",
+      "has_reactions": false
+    },
+    {
+      "id": "cc3009bd-2778-436c-ac53-586bed131e48",
+      "title": "Story of G.I. Joe",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "story-of-g-i-joe",
+      "has_reactions": false
+    },
+    {
+      "id": "4251641b-99a5-49ea-a73c-03cc617a327a",
+      "title": "A Walk in the Sun",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "a-walk-in-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "1253e86f-b6b8-4edf-9466-d2e9b51dac10",
+      "title": "The Diary of a Chambermaid",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "the-diary-of-a-chambermaid",
+      "has_reactions": false
+    },
+    {
+      "id": "cd1688de-1365-4402-b5a2-43720923f9c3",
+      "title": "Mine Own Executioner",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "mine-own-executioner",
+      "has_reactions": false
+    },
+    {
+      "id": "3fad5588-554c-4c56-aff7-9931881e6578",
+      "title": "On Our Merry Way",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "on-our-merry-way",
+      "has_reactions": false
+    },
+    {
+      "id": "25a399bf-838d-4f8f-8b9d-aa400139c011",
+      "title": "A Yank Comes Back",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "a-yank-comes-back",
+      "has_reactions": false
+    },
+    {
+      "id": "79a9ae0c-1501-41da-bb6b-fa3091ebcde6",
+      "title": "Jigsaw",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "jigsaw",
+      "has_reactions": false
+    },
+    {
+      "id": "dfb1d6de-a630-49e8-9788-95cb89bce150",
+      "title": "The Man on the Eiffel Tower",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-man-on-the-eiffel-tower",
+      "has_reactions": false
+    },
+    {
+      "id": "73d7fd5d-1d79-42d3-9fb4-e14d41f2edfe",
+      "title": "Works of Calder",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "works-of-calder",
+      "has_reactions": false
+    },
+    {
+      "id": "d1b570c3-0dc6-4e8e-80d4-c76415cfbc54",
+      "title": "Joe Butterfly",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "joe-butterfly",
+      "has_reactions": false
+    },
+    {
+      "id": "f76262b6-d301-4a85-85f3-90902f41aaeb",
+      "title": "Albert Schweitzer",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "albert-schweitzer",
+      "has_reactions": false
+    },
+    {
+      "id": "eb84b760-5914-44bf-8b03-1edf8e0e9c56",
+      "title": "Fanfare for a Death Scene",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "fanfare-for-a-death-scene",
+      "has_reactions": false
+    },
+    {
+      "id": "6d8ff629-efd0-47cc-8b71-6670b7c63482",
+      "title": "Batman",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "batman",
+      "has_reactions": false
+    },
+    {
+      "id": "99c29ca2-63dc-4fe5-b2e0-19b923e2203f",
+      "title": "The Crazy-Quilt",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-crazy-quilt",
+      "has_reactions": false
+    },
+    {
+      "id": "2aaa0782-0ca0-435f-a453-f718b3534cac",
+      "title": "A Big Hand for the Little Lady",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "a-big-hand-for-the-little-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "68995f61-a102-4750-8c82-e4d69f4ba87f",
+      "title": "Madame X",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "madame-x",
+      "has_reactions": false
+    },
+    {
+      "id": "575e8161-9828-417c-b06a-076fcb0d3aa6",
+      "title": "Torture Garden",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "torture-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "761552f0-c453-4912-afd0-c73583d68759",
+      "title": "Stay Away, Joe",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "stay-away-joe",
+      "has_reactions": false
+    },
+    {
+      "id": "21c3b76d-028e-43ff-b951-6a4b36973f0c",
+      "title": "Hard Contract",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "hard-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "59f85291-7038-47b3-a9df-e0755b76615b",
+      "title": "Winter of the Witch",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "winter-of-the-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "1145cb71-b1b8-49f1-8ade-03ab6b537c8b",
+      "title": "The Reivers",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-reivers",
+      "has_reactions": false
+    },
+    {
+      "id": "47a3bd62-992b-4aa8-acb7-3b0c6b64517b",
+      "title": "Mackenna's Gold",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "mackenna-s-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "26a95b6a-e594-485b-81ff-c3c449d30f1e",
+      "title": "Such Good Friends",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "such-good-friends",
+      "has_reactions": false
+    },
+    {
+      "id": "f00e2aa1-a769-49af-8a84-6ccd4dd1a0e8",
+      "title": "Clay Pigeon",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "clay-pigeon",
+      "has_reactions": false
+    },
+    {
+      "id": "a1433c59-3913-4c81-98e8-c16269e3bef8",
+      "title": "We the People",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "we-the-people",
+      "has_reactions": false
+    },
+    {
+      "id": "6b6a06f3-aa96-44da-b2be-7c93e6611423",
+      "title": "The New Healers",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-new-healers",
+      "has_reactions": false
+    },
+    {
+      "id": "d881ab8a-884b-4fcf-91e6-2117ca3480ac",
+      "title": "Probe",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "probe",
+      "has_reactions": false
+    },
+    {
+      "id": "a63d5ffe-05f5-4d24-985d-662135ba02f7",
+      "title": "The Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-man",
+      "has_reactions": false
+    },
+    {
+      "id": "75865b46-e139-46c8-8e34-38b5e4889cb2",
+      "title": "B. Must Die",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "b-must-die",
+      "has_reactions": false
+    },
+    {
+      "id": "f34fc27b-565f-4f61-986e-6e238939e190",
+      "title": "The Day of the Locust",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-day-of-the-locust",
+      "has_reactions": false
+    },
+    {
+      "id": "afdbff6f-789a-4a6b-a434-66237457e58f",
+      "title": "The Hindenburg",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-hindenburg",
+      "has_reactions": false
+    },
+    {
+      "id": "2671813d-7160-4438-8b9a-803b51ad3b73",
+      "title": "Rocky",
+      "release_year": 1976,
+      "studio_label": "Winkler Films",
+      "slug": "rocky",
+      "has_reactions": true
+    },
+    {
+      "id": "c2558b54-133f-4586-8356-77ca4883924d",
+      "title": "Burnt Offerings",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "burnt-offerings",
+      "has_reactions": false
+    },
+    {
+      "id": "8329f9ef-1628-439b-af6d-195ab57a6629",
+      "title": "The Sentinel",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-sentinel",
+      "has_reactions": false
+    },
+    {
+      "id": "cf9637af-13da-44ba-8808-d27525e0e39b",
+      "title": "The Last Hurrah",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-last-hurrah",
+      "has_reactions": false
+    },
+    {
+      "id": "3649f5a8-b66f-4cd0-9890-a83a845c72fa",
+      "title": "Golden Rendezvous",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "golden-rendezvous",
+      "has_reactions": false
+    },
+    {
+      "id": "9a381535-0de1-432e-a755-18f83a51a1d3",
+      "title": "Foul Play",
+      "release_year": 1978,
+      "studio_label": "Paramount Pictures",
+      "slug": "foul-play",
+      "has_reactions": true
+    },
+    {
+      "id": "4df2a93d-50e8-4059-902a-3d45f98f5438",
+      "title": "Magic",
+      "release_year": 1978,
+      "studio_label": "Joseph E. Levine Productions",
+      "slug": "magic",
+      "has_reactions": true
+    },
+    {
+      "id": "3e1ab89c-c7a2-4a8c-98a1-4eabc30dc358",
+      "title": "The Living Sands of Namib",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-living-sands-of-namib",
+      "has_reactions": false
+    },
+    {
+      "id": "04ea04ab-8129-44ae-b3cf-a2415fed1a8e",
+      "title": "The Manitou",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-manitou",
+      "has_reactions": false
+    },
+    {
+      "id": "04771605-e0e5-4c72-ad93-beaa6be30286",
+      "title": "The Great Bank Hoax",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-great-bank-hoax",
+      "has_reactions": false
+    },
+    {
+      "id": "6f8c1c82-10e8-4c0f-b25c-232976dd8187",
+      "title": "SST: Death Flight",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "sst-death-flight",
+      "has_reactions": false
+    },
+    {
+      "id": "7d74d887-d18b-4013-a25f-40d62174c0b3",
+      "title": "The Amazing Captain Nemo",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-amazing-captain-nemo",
+      "has_reactions": false
+    },
+    {
+      "id": "9ca77ab1-396b-444b-8dc0-bedc0cb7d73a",
+      "title": "Kate Bliss and the Ticker Tape Kid",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "kate-bliss-and-the-ticker-tape-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "4deafb2b-efc6-4177-8044-74c607ff551c",
+      "title": "Rocky II",
+      "release_year": 1979,
+      "studio_label": "United Artists",
+      "slug": "rocky-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "31c20b11-3e90-4a5c-aa8e-aed15d238d02",
+      "title": "UFOs: It Has Begun",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "ufos-it-has-begun",
+      "has_reactions": false
+    },
+    {
+      "id": "de7f29aa-6444-4c0e-a7a7-835c250d04f3",
+      "title": "Final Assignment",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "final-assignment",
+      "has_reactions": false
+    },
+    {
+      "id": "e9264751-c79a-424c-80ba-2f4f1c518294",
+      "title": "Clash of the Titans",
+      "release_year": 1981,
+      "studio_label": "Peerford Ltd.",
+      "slug": "clash-of-the-titans",
+      "has_reactions": true
+    },
+    {
+      "id": "cad41f95-ed76-4404-a55a-c1ddccf114ac",
+      "title": "The Last Chase",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-last-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "f14ab31a-afc4-490c-8428-246992bdcff7",
+      "title": "Rocky III",
+      "release_year": 1982,
+      "studio_label": "United Artists",
+      "slug": "rocky-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "12db4f28-75ac-4f06-8ea2-73e8d09c0a88",
+      "title": "Wet Gold",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "wet-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "06b18aad-87ae-4b57-8f61-a57b80d576cd",
+      "title": "Answers",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "answers",
+      "has_reactions": false
+    },
+    {
+      "id": "a1549f22-acc0-490b-9ccd-b497bfd08dde",
+      "title": "Outrage!",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "outrage",
+      "has_reactions": false
+    },
+    {
+      "id": "85f4f9fc-89ef-4cf7-8bda-e371161ac084",
+      "title": "G.I. Joe: The Movie",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "48cce0a8-98a4-4a35-bb48-e7664f4cb314",
+      "title": "Full Moon in Blue Water",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "full-moon-in-blue-water",
+      "has_reactions": false
+    },
+    {
+      "id": "44e06c40-3c9d-4a65-a42e-43b3daba89c4",
+      "title": "King Lear",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "king-lear",
+      "has_reactions": false
+    },
+    {
+      "id": "752b981b-f1a5-4015-9c8a-4fd757c61c79",
+      "title": "Rocky V",
+      "release_year": 1990,
+      "studio_label": "United Artists",
+      "slug": "rocky-v",
+      "has_reactions": true
+    },
+    {
+      "id": "48ed9939-ac4a-49f4-a944-f46c40049afc",
+      "title": "State of Grace",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "state-of-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "bc487807-ef41-41f8-935f-28d0752ef3f0",
+      "title": "Oddball Hall",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "oddball-hall",
+      "has_reactions": false
+    },
+    {
+      "id": "d6eb1ad4-9c5d-4a65-b052-4390a1946512",
+      "title": "I'm a Stranger Here Myself: Kurt Weill in America",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "i-m-a-stranger-here-myself-kurt-weill-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "7585186f-812e-4836-8605-142a9448a940",
+      "title": "The Chaplin Puzzle",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-chaplin-puzzle",
+      "has_reactions": false
+    },
+    {
+      "id": "ed1ee76c-b1b1-478e-8b9d-00aef39094dd",
+      "title": "Grumpy Old Men",
+      "release_year": 1993,
+      "studio_label": "John Davis",
+      "slug": "grumpy-old-men",
+      "has_reactions": true
+    },
+    {
+      "id": "0599c8ac-8829-41e2-8e06-e96e8355e318",
+      "title": "Camp Nowhere",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "camp-nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "e9160cab-8b13-46ee-95d0-41f70140086d",
+      "title": "Grumpier Old Men",
+      "release_year": 1995,
+      "studio_label": "Lancaster Gate",
+      "slug": "grumpier-old-men",
+      "has_reactions": true
+    },
+    {
+      "id": "c7df89ce-0591-4948-8211-197b01f524f9",
+      "title": "Rocky Balboa",
+      "release_year": 2006,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "rocky-balboa",
+      "has_reactions": true
+    },
+    {
+      "id": "3d91ff1f-ca94-4a9a-96de-30801584cf30",
+      "title": "The Twilight Zone: A 60th Anniversary Celebration",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-twilight-zone-a-60th-anniversary-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "f6017c6e-d59c-4051-859a-80bd8976ec9e",
+      "title": "40 Years of Rocky: The Birth of a Classic",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "40-years-of-rocky-the-birth-of-a-classic",
+      "has_reactions": false
+    }
+  ]
+}

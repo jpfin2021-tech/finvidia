@@ -1,0 +1,344 @@
+{
+  "id": "4f14c127-510d-462e-856d-08084385578f",
+  "name": "Slim Pickens",
+  "slug": "slim-pickens",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg",
+  "filmography": [
+    {
+      "id": "c2d4f776-d8b5-4217-9a8a-16c95fd5c836",
+      "title": "Smoky",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "smoky",
+      "has_reactions": false
+    },
+    {
+      "id": "ea0c4201-d32a-4260-9c97-92581321a7f6",
+      "title": "Rocky Mountain",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "rocky-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "4afbd434-64ba-4032-904d-847a07d5a1a3",
+      "title": "Santa Fe Passage",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "santa-fe-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "e7de7888-a869-4765-a76b-29df84deccbf",
+      "title": "The Great Locomotive Chase",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-great-locomotive-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "16981d24-98aa-42bf-bc3e-448b89381298",
+      "title": "The Sheepman",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-sheepman",
+      "has_reactions": false
+    },
+    {
+      "id": "b9817cc2-a7a9-43eb-94fa-4a25efef257f",
+      "title": "A Thunder of Drums",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "a-thunder-of-drums",
+      "has_reactions": false
+    },
+    {
+      "id": "82a9e1ca-9338-4a6b-85ff-72aabf6ac2a0",
+      "title": "One-Eyed Jacks",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "one-eyed-jacks",
+      "has_reactions": false
+    },
+    {
+      "id": "8a609416-e91a-4aaa-8eda-97316e5e795c",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "release_year": 1964,
+      "studio_label": "Hawk Films",
+      "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+      "has_reactions": true
+    },
+    {
+      "id": "4358ea57-79ff-4619-a905-a50b9837662e",
+      "title": "The Glory Guys",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-glory-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "b9fa199c-9257-4d53-8ee7-187dce5a3492",
+      "title": "Major Dundee",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "major-dundee",
+      "has_reactions": false
+    },
+    {
+      "id": "ad615dfb-abfd-432b-9829-27f005b9b0b7",
+      "title": "The Young Rounders",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-young-rounders",
+      "has_reactions": false
+    },
+    {
+      "id": "b8e79ca0-aa72-4948-add6-4a8bc0c47365",
+      "title": "Hard Breed to Kill",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "hard-breed-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "24959c0a-47ad-433b-a6f5-8aef139dbeba",
+      "title": "Rough Night in Jericho",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "rough-night-in-jericho",
+      "has_reactions": false
+    },
+    {
+      "id": "008c0e96-94d6-468e-9ffa-1e2197c7642d",
+      "title": "The Flim-Flam Man",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-flim-flam-man",
+      "has_reactions": false
+    },
+    {
+      "id": "d3d9b3d7-0b66-4461-8230-ea5480f1abf9",
+      "title": "The Legend of Custer",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-custer",
+      "has_reactions": false
+    },
+    {
+      "id": "c0936390-bf13-4134-a0e9-f43592bd9442",
+      "title": "The Ballad of Cable Hogue",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-cable-hogue",
+      "has_reactions": false
+    },
+    {
+      "id": "a83f329a-1586-43d2-82ec-387da01103d0",
+      "title": "Operation Snafu",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "operation-snafu",
+      "has_reactions": false
+    },
+    {
+      "id": "8a0c0f6b-e0d7-4858-9ced-fb0a9bd73d07",
+      "title": "The Honkers",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-honkers",
+      "has_reactions": false
+    },
+    {
+      "id": "ada6f3d9-7212-41fe-9af1-c3cf39e88e30",
+      "title": "Rolling Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "rolling-man",
+      "has_reactions": false
+    },
+    {
+      "id": "11ad4bad-7fa8-431a-afc6-6283e1435869",
+      "title": "The Getaway",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-getaway",
+      "has_reactions": false
+    },
+    {
+      "id": "775bb9c0-5ad0-4ea8-b890-2b6784db61dc",
+      "title": "Outdoor Rambling",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "outdoor-rambling",
+      "has_reactions": false
+    },
+    {
+      "id": "65031872-d76e-4a23-8cc3-170042c92129",
+      "title": "Hitched",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "hitched",
+      "has_reactions": false
+    },
+    {
+      "id": "dbf59ec5-ff62-4ab0-a9aa-8dcd3a99ea82",
+      "title": "Blazing Saddles",
+      "release_year": 1974,
+      "studio_label": "Crossbow Productions",
+      "slug": "blazing-saddles",
+      "has_reactions": true
+    },
+    {
+      "id": "690a4c1d-6271-47dc-8ef7-1878267fceef",
+      "title": "Ginger in the Morning",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "ginger-in-the-morning",
+      "has_reactions": false
+    },
+    {
+      "id": "416be360-39b0-4469-b022-d3353bd41fad",
+      "title": "The Legend of Earl Durand",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-earl-durand",
+      "has_reactions": false
+    },
+    {
+      "id": "824734bb-7c10-4652-8c06-b0fe823eccf7",
+      "title": "The Apple Dumpling Gang",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-apple-dumpling-gang",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad70ec7-2001-4b16-bebd-49182e147e22",
+      "title": "Poor Pretty Eddie",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "poor-pretty-eddie",
+      "has_reactions": false
+    },
+    {
+      "id": "3e6fd31b-f0c3-431b-ad50-5b516cf5d0b3",
+      "title": "Pony Express Rider",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "pony-express-rider",
+      "has_reactions": false
+    },
+    {
+      "id": "3a0b01a7-15ab-4427-b14c-447c4e207a78",
+      "title": "The Shadow of Chikara",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-shadow-of-chikara",
+      "has_reactions": false
+    },
+    {
+      "id": "39ae46c2-d850-4124-a8df-d57b1e492e60",
+      "title": "The White Buffalo",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-white-buffalo",
+      "has_reactions": false
+    },
+    {
+      "id": "275520fa-139b-4f0a-8c02-c192462f4475",
+      "title": "Mr. Billion",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "mr-billion",
+      "has_reactions": false
+    },
+    {
+      "id": "6ff713ea-05a2-433c-a1fa-d37e265b4f2d",
+      "title": "The Swarm",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-swarm",
+      "has_reactions": false
+    },
+    {
+      "id": "3058f861-1a20-4837-bbed-3cb9166af6a9",
+      "title": "Smokey and the Good Time Outlaws",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "smokey-and-the-good-time-outlaws",
+      "has_reactions": false
+    },
+    {
+      "id": "66c2570a-7f0c-418b-830d-3637060f223f",
+      "title": "Beyond the Poseidon Adventure",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-poseidon-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "dd3faabd-2f2d-4643-ba05-580f6dc38593",
+      "title": "When the West Was Fun: A Western Reunion",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "when-the-west-was-fun-a-western-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "49179427-b7c6-4ad9-9158-5da6e4335c3e",
+      "title": "1941",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "1941",
+      "has_reactions": false
+    },
+    {
+      "id": "92c97114-702f-4c12-86e2-47a398538f49",
+      "title": "Spirit of the Wind",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "spirit-of-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "ff2e284e-6ed6-4fe6-808a-b134a88758f4",
+      "title": "The Black Hole",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-black-hole",
+      "has_reactions": false
+    },
+    {
+      "id": "4eeae996-2615-47ce-afe2-c5df1415f94a",
+      "title": "Honeysuckle Rose",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "honeysuckle-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "80b93248-e8e6-418b-b0d9-e66949641703",
+      "title": "Christmas Mountain: The Story Of A Cowboy Angel",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "christmas-mountain-the-story-of-a-cowboy-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "67c01325-b253-462f-a0a3-73f927c6c826",
+      "title": "Charlie and the Great Balloon Chase",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "charlie-and-the-great-balloon-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "7e07a726-5228-4473-8c91-5b8c47c20db2",
+      "title": "Back in the Saddle",
+      "release_year": 2001,
+      "studio_label": "Warner Bros. Home Entertainment",
+      "slug": "back-in-the-saddle",
+      "has_reactions": false
+    }
+  ]
+}

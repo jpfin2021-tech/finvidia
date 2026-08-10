@@ -1,0 +1,592 @@
+{
+  "id": "6b560e20-b090-4243-99bd-68ca993b07e6",
+  "name": "Stephen Root",
+  "slug": "stephen-root",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg",
+  "filmography": [
+    {
+      "id": "f80bf3e3-6f43-4dc7-b18f-c82ee50d5326",
+      "title": "Crocodile Dundee II",
+      "release_year": 1988,
+      "studio_label": "Rimfire Films",
+      "slug": "crocodile-dundee-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "e18c7f89-d997-4e45-9d2c-9b2aa2e77995",
+      "title": "Black Rain",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "black-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "85a1118a-31ed-424e-847b-84c82584130d",
+      "title": "Ghost",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "ghost",
+      "has_reactions": true
+    },
+    {
+      "id": "c51f2995-f1a7-4093-89ee-63cbafd0ce86",
+      "title": "Golden Years",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "golden-years",
+      "has_reactions": false
+    },
+    {
+      "id": "6be97170-fa93-4026-9daa-80869bef7fa7",
+      "title": "V.I. Warshawski",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "v-i-warshawski",
+      "has_reactions": false
+    },
+    {
+      "id": "47abb674-4f50-46a4-9c80-5749148b12e4",
+      "title": "Buffy the Vampire Slayer",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "buffy-the-vampire-slayer",
+      "has_reactions": false
+    },
+    {
+      "id": "f96a99f5-ddd0-4526-acf7-16abfedbd979",
+      "title": "A Woman Scorned: The Betty Broderick Story",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "a-woman-scorned-the-betty-broderick-story",
+      "has_reactions": false
+    },
+    {
+      "id": "2bfb58ce-7da3-4cc9-9240-b78522966a8a",
+      "title": "RoboCop 3",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "robocop-3",
+      "has_reactions": false
+    },
+    {
+      "id": "7f7c18ef-cea8-4285-83c4-089eb3349902",
+      "title": "Dave",
+      "release_year": 1993,
+      "studio_label": "Donner/Shuler-Donner Productions",
+      "slug": "dave",
+      "has_reactions": true
+    },
+    {
+      "id": "e05e2b1c-6c4d-465b-ac36-5aebc4e7788d",
+      "title": "Her Final Fury: Betty Broderick, the Last Chapter",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "her-final-fury-betty-broderick-the-last-chapter",
+      "has_reactions": false
+    },
+    {
+      "id": "b4685d14-472d-47e2-9f98-2e2f9e2c5a36",
+      "title": "In the Line of Duty: Hunt for Justice",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "in-the-line-of-duty-hunt-for-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "00848e45-a7dc-4117-9fd4-ce5429854f19",
+      "title": "The Lottery",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-lottery",
+      "has_reactions": false
+    },
+    {
+      "id": "0ebd99cd-7e3e-4d6b-a312-e6ff8e954682",
+      "title": "steve.oedekerk.com",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "steve-oedekerk-com",
+      "has_reactions": false
+    },
+    {
+      "id": "7a101eff-b411-4db0-9571-99b6e4bcd7e5",
+      "title": "Krippendorf's Tribe",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "krippendorf-s-tribe",
+      "has_reactions": false
+    },
+    {
+      "id": "28feddac-dfd3-48cd-aa65-8d3f359a9973",
+      "title": "Office Space",
+      "release_year": 1999,
+      "studio_label": "20th Century Fox",
+      "slug": "office-space",
+      "has_reactions": true
+    },
+    {
+      "id": "29f4d490-e726-4ca2-91d5-1030214443e1",
+      "title": "The Sissy Duckling",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-sissy-duckling",
+      "has_reactions": false
+    },
+    {
+      "id": "031bb9e1-6042-44dc-a17b-b2349c92e2ee",
+      "title": "Bicentennial Man",
+      "release_year": 1999,
+      "studio_label": "Columbia Pictures",
+      "slug": "bicentennial-man",
+      "has_reactions": true
+    },
+    {
+      "id": "afbc72fd-43c9-4bbd-bced-ae27c8dca09d",
+      "title": "O Brother, Where Art Thou?",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "o-brother-where-art-thou",
+      "has_reactions": true
+    },
+    {
+      "id": "143668c7-9d64-4e52-9ba2-2278813d8f34",
+      "title": "Ice Age",
+      "release_year": 2002,
+      "studio_label": "Blue Sky Studios",
+      "slug": "ice-age",
+      "has_reactions": true
+    },
+    {
+      "id": "464b4540-0b56-4be6-8acb-1381f966c4e3",
+      "title": "Finding Nemo",
+      "release_year": 2003,
+      "studio_label": "Pixar",
+      "slug": "finding-nemo",
+      "has_reactions": true
+    },
+    {
+      "id": "2697f651-7c62-410e-8b37-e4f91d121b02",
+      "title": "Grind",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "grind",
+      "has_reactions": false
+    },
+    {
+      "id": "6ce11711-67ca-4745-ac2c-7ad656a1fe08",
+      "title": "DodgeBall: A True Underdog Story",
+      "release_year": 2004,
+      "studio_label": "20th Century Fox",
+      "slug": "dodgeball-a-true-underdog-story",
+      "has_reactions": true
+    },
+    {
+      "id": "3ceaa76f-5780-42cf-bbb5-a611ad411580",
+      "title": "Wake Up, Ron Burgundy: The Lost Movie",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "wake-up-ron-burgundy-the-lost-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "97e4d803-ccb5-44a7-84df-a8a56314ea14",
+      "title": "Surviving Christmas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "surviving-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "77215560-328e-48f7-820e-48e4af1c7387",
+      "title": "Just Friends",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "just-friends",
+      "has_reactions": false
+    },
+    {
+      "id": "c3d0d576-df5a-4a57-b15a-54413e76c050",
+      "title": "Ice Age: The Meltdown",
+      "release_year": 2006,
+      "studio_label": "20th Century Fox Animation",
+      "slug": "ice-age-the-meltdown",
+      "has_reactions": true
+    },
+    {
+      "id": "3d905bc6-f3ea-4321-9fa3-ede8b3bcb95d",
+      "title": "Gretchen",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "gretchen",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b1d88d-9fd0-49aa-819b-7082f6628d44",
+      "title": "The Fox and the Hound 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-fox-and-the-hound-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a76d8074-a4f4-4f37-b3c7-f81308dd6eff",
+      "title": "Idiocracy",
+      "release_year": 2006,
+      "studio_label": "20th Century Fox",
+      "slug": "idiocracy",
+      "has_reactions": true
+    },
+    {
+      "id": "d6d6e52a-34b8-431f-b324-bd41e542b41b",
+      "title": "No Country for Old Men",
+      "release_year": 2007,
+      "studio_label": "Miramax",
+      "slug": "no-country-for-old-men",
+      "has_reactions": true
+    },
+    {
+      "id": "3409bec3-f96e-45d4-aa30-69d21ef47c29",
+      "title": "Drillbit Taylor",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "drillbit-taylor",
+      "has_reactions": false
+    },
+    {
+      "id": "70854e92-982c-4b9e-8774-73f7c520d7e5",
+      "title": "Tripping the Rift: The Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tripping-the-rift-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e85a7e1d-bea3-42b9-b90e-0ef90d8d67a4",
+      "title": "Mad Money",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mad-money",
+      "has_reactions": false
+    },
+    {
+      "id": "9f340fb0-971b-48e6-9c4a-e0eb251b01e9",
+      "title": "Over Her Dead Body",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "over-her-dead-body",
+      "has_reactions": false
+    },
+    {
+      "id": "8ca02283-285f-4540-9029-dcab3929bcf7",
+      "title": "Squirly Town",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "squirly-town",
+      "has_reactions": false
+    },
+    {
+      "id": "e923d3b1-26c4-42fc-9c6c-29cbae33a8d7",
+      "title": "The Men Who Stare at Goats",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-men-who-stare-at-goats",
+      "has_reactions": false
+    },
+    {
+      "id": "94158f5b-4feb-42fd-8ad0-20dba884c964",
+      "title": "Unthinkable",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "unthinkable",
+      "has_reactions": false
+    },
+    {
+      "id": "47521f8d-7cf2-4d66-818c-30f761ae239f",
+      "title": "Scooby-Doo! Camp Scare",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-camp-scare",
+      "has_reactions": false
+    },
+    {
+      "id": "4439ae7a-b8ff-46ec-a36f-e50e858dbf42",
+      "title": "Rango",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "rango",
+      "has_reactions": true
+    },
+    {
+      "id": "1201ae84-0f72-460b-90d7-c969b33a6175",
+      "title": "Everything Must Go",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "everything-must-go",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee75051-93b5-47de-b3b1-62bad9a8448a",
+      "title": "Batman: Year One",
+      "release_year": 2011,
+      "studio_label": "Warner Bros. Animation",
+      "slug": "batman-year-one",
+      "has_reactions": true
+    },
+    {
+      "id": "c2e1a01b-b4f4-46d7-9508-92dca0e59b36",
+      "title": "Son of Morning",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "son-of-morning",
+      "has_reactions": false
+    },
+    {
+      "id": "6644d923-8943-4ab9-8517-d1bc4c0eb424",
+      "title": "Tom and Jerry & The Wizard of Oz",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-the-wizard-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd9e64a-2398-46fc-867f-6fa34cca397a",
+      "title": "Superman: Unbound",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "superman-unbound",
+      "has_reactions": false
+    },
+    {
+      "id": "01b53e5d-c4cb-49a1-9f5d-4a967d8702b6",
+      "title": "The Arrangement",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-arrangement",
+      "has_reactions": false
+    },
+    {
+      "id": "4a044347-192b-4c4c-89eb-713c7e9db8f1",
+      "title": "Sweetwater",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sweetwater",
+      "has_reactions": false
+    },
+    {
+      "id": "1fb0c5e4-5501-4032-812f-426ccafe0adb",
+      "title": "Bad Milo!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bad-milo",
+      "has_reactions": false
+    },
+    {
+      "id": "b35f8b75-aba7-40d3-9dd5-b88d861b13d6",
+      "title": "Selma",
+      "release_year": 2014,
+      "studio_label": "Plan B Entertainment",
+      "slug": "selma",
+      "has_reactions": true
+    },
+    {
+      "id": "62b8cbc0-f299-4fa8-80ca-48669e63d756",
+      "title": "Lennon or McCartney",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "lennon-or-mccartney",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "378dfaa5-b812-4d75-92ec-5a9f52881612",
+      "title": "Hello, My Name Is Doris",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hello-my-name-is-doris",
+      "has_reactions": false
+    },
+    {
+      "id": "9df06e16-725d-4310-a5c9-662e292ad5ac",
+      "title": "7 Chinese Brothers",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "7-chinese-brothers",
+      "has_reactions": false
+    },
+    {
+      "id": "fc0122ab-4ac2-4b2e-9a81-57aada72522b",
+      "title": "Trumbo",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "trumbo",
+      "has_reactions": false
+    },
+    {
+      "id": "3d93cc49-e292-4590-91c2-c65fd0726951",
+      "title": "O.W.C.A. Files",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "o-w-c-a-files",
+      "has_reactions": false
+    },
+    {
+      "id": "38a9392f-005e-4501-b546-7356d645e6f1",
+      "title": "All the Way",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "all-the-way",
+      "has_reactions": false
+    },
+    {
+      "id": "82aa925e-650b-4650-99d1-6507eec08d04",
+      "title": "Finding Dory",
+      "release_year": 2016,
+      "studio_label": "Pixar",
+      "slug": "finding-dory",
+      "has_reactions": true
+    },
+    {
+      "id": "05858932-ab0c-4f1a-90d9-0acf4c6d4796",
+      "title": "Looking for the Jackalope",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "looking-for-the-jackalope",
+      "has_reactions": false
+    },
+    {
+      "id": "d3cf0f17-13d1-44c6-85ec-3e29e86ea0ac",
+      "title": "Get Out",
+      "release_year": 2017,
+      "studio_label": "Monkeypaw Productions",
+      "slug": "get-out",
+      "has_reactions": true
+    },
+    {
+      "id": "b4dd17b8-d0d6-4ca4-b32d-72164163a8eb",
+      "title": "Miles",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "miles",
+      "has_reactions": false
+    },
+    {
+      "id": "4d271785-bf20-4415-854c-caf7c19b49d7",
+      "title": "Cook-Off!",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cook-off",
+      "has_reactions": false
+    },
+    {
+      "id": "4409993e-10ef-43ac-9a8e-a305277ddf25",
+      "title": "Infinity Baby",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "infinity-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "873a7287-311a-429e-a49a-d780b6f24f4b",
+      "title": "Life of the Party",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "life-of-the-party",
+      "has_reactions": false
+    },
+    {
+      "id": "5f8ea501-bbe5-4cc5-be7a-1826f99f21a5",
+      "title": "On the Basis of Sex",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "on-the-basis-of-sex",
+      "has_reactions": false
+    },
+    {
+      "id": "4c58dfe7-10c7-451a-9f06-59df4178ae68",
+      "title": "The Ballad of Buster Scruggs",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-buster-scruggs",
+      "has_reactions": false
+    },
+    {
+      "id": "5f182bcd-5347-44ab-abf8-2ae06beba572",
+      "title": "Jay and Silent Bob Reboot",
+      "release_year": 2019,
+      "studio_label": "SModcast Pictures",
+      "slug": "jay-and-silent-bob-reboot",
+      "has_reactions": true
+    },
+    {
+      "id": "94533f50-9f91-4a82-8a96-f0d2eb500285",
+      "title": "The Empty Man",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-empty-man",
+      "has_reactions": false
+    },
+    {
+      "id": "67a8b458-c5e2-40c9-895e-44cad28f8400",
+      "title": "Uncle Frank",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "uncle-frank",
+      "has_reactions": false
+    },
+    {
+      "id": "d60237c3-df3b-4b3e-8dc9-a33e4930b9b8",
+      "title": "Four Good Days",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "four-good-days",
+      "has_reactions": false
+    },
+    {
+      "id": "8446af64-d3df-40a3-bded-0766a8f89cb1",
+      "title": "The Tragedy of Macbeth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-tragedy-of-macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "a933710b-53c5-4561-838d-5f5bbd667a95",
+      "title": "Beavis and Butt-Head Do the Universe",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "beavis-and-butt-head-do-the-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "2b26c45a-a484-4c4a-b54c-d693dcaa7731",
+      "title": "Lousy Carter",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lousy-carter",
+      "has_reactions": false
+    },
+    {
+      "id": "9f2e3dd6-f08d-46cc-b132-340f06e09d9c",
+      "title": "Heads of State",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "heads-of-state",
+      "has_reactions": false
+    },
+    {
+      "id": "0ac4f9a8-fbc3-4c9a-afb6-1c2a70a3e541",
+      "title": "The Wrecking Crew",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-wrecking-crew",
+      "has_reactions": false
+    }
+  ]
+}

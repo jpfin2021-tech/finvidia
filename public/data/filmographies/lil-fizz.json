@@ -1,0 +1,32 @@
+{
+  "id": "e68fd5c4-af5a-453e-b9c7-0868a43f0eb3",
+  "name": "Lil' Fizz",
+  "slug": "lil-fizz",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "77873c13-a608-463c-a72f-0a49b544d91b",
+      "title": "You Got Served",
+      "release_year": 2004,
+      "studio_label": "Screen Gems",
+      "slug": "you-got-served",
+      "has_reactions": true
+    },
+    {
+      "id": "119e7194-0abf-4c27-8568-64e2fbb91678",
+      "title": "Steppin: The Movie",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "steppin-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "38ccd9dc-1d90-4756-a482-ee19c7036cb6",
+      "title": "Hype Nation 3D",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "hype-nation-3d",
+      "has_reactions": false
+    }
+  ]
+}

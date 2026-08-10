@@ -1,0 +1,576 @@
+{
+  "id": "a365133f-f537-4406-b9fd-0c6267f3fec0",
+  "name": "Miriam Margolyes",
+  "slug": "miriam-margolyes",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+  "filmography": [
+    {
+      "id": "7e42f13c-a9e6-4f81-8f47-329b1bb2797f",
+      "title": "A Nice Girl Like Me",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "a-nice-girl-like-me",
+      "has_reactions": false
+    },
+    {
+      "id": "3093fbb7-d6a7-40f3-9cc7-5adc239e055f",
+      "title": "The Ha-Ha",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-ha-ha",
+      "has_reactions": false
+    },
+    {
+      "id": "09629d68-9dd2-4b48-9207-5a413df00ad0",
+      "title": "On the Game",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "on-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "269b9dcc-fe77-4066-adb8-d671c6fde053",
+      "title": "Naughty Girls",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "naughty-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "c9853871-ea33-4c71-b8a8-24fdfc6cdeb2",
+      "title": "Rime of the Ancient Mariner",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "rime-of-the-ancient-mariner",
+      "has_reactions": false
+    },
+    {
+      "id": "ef6c179c-e600-47f1-a9f5-92ef13672043",
+      "title": "The Lifeswappers",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-lifeswappers",
+      "has_reactions": false
+    },
+    {
+      "id": "f4f828bb-23da-4544-b621-97019af3ff03",
+      "title": "The Battle of Billy's Pond",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-battle-of-billy-s-pond",
+      "has_reactions": false
+    },
+    {
+      "id": "78b6f494-d675-4bcf-a2d9-64a3f5275e6d",
+      "title": "Stand up, Virgin Soldiers",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "stand-up-virgin-soldiers",
+      "has_reactions": false
+    },
+    {
+      "id": "cdbc1db3-9824-446e-aa73-16a7d1453ac2",
+      "title": "Confessions from a Holiday Camp",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "confessions-from-a-holiday-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "bee3c974-636c-4ffc-b98e-2ca99fa8c7a8",
+      "title": "On a Paving Stone Mounted",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "on-a-paving-stone-mounted",
+      "has_reactions": false
+    },
+    {
+      "id": "201178da-f53c-4ef4-b8de-7cdba75050d9",
+      "title": "The Awakening",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-awakening",
+      "has_reactions": false
+    },
+    {
+      "id": "8aa35bbc-174d-4b5c-8ad4-3a62f6f7ab40",
+      "title": "The Apple",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-apple",
+      "has_reactions": false
+    },
+    {
+      "id": "c8915509-adfa-43db-b6f2-4bed955923b4",
+      "title": "Reds",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "reds",
+      "has_reactions": false
+    },
+    {
+      "id": "e434bdb1-64cb-4eb0-a0dc-e6538c34a1b4",
+      "title": "Scrubbers",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "scrubbers",
+      "has_reactions": false
+    },
+    {
+      "id": "76526148-c45c-4840-b85f-8abe4c40c297",
+      "title": "Yentl",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "yentl",
+      "has_reactions": false
+    },
+    {
+      "id": "995cb26e-f694-4468-af97-8e750f85438f",
+      "title": "Frida Kahlo & Tina Modotti",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "frida-kahlo-tina-modotti",
+      "has_reactions": false
+    },
+    {
+      "id": "035f91dc-51e0-4090-a9db-d0ea70fe37a6",
+      "title": "Electric Dreams",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "electric-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "de927a83-ae4e-4713-94eb-6a0913a808a3",
+      "title": "Scotch & Wry",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "scotch-wry",
+      "has_reactions": false
+    },
+    {
+      "id": "42968e47-5a47-4d07-8193-9ea60e066cf0",
+      "title": "Little Shop of Horrors",
+      "release_year": 1986,
+      "studio_label": "Geffen Pictures",
+      "slug": "little-shop-of-horrors",
+      "has_reactions": true
+    },
+    {
+      "id": "7130fad7-76fc-4ae6-a8b8-9161f9784b13",
+      "title": "Body Contact",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "body-contact",
+      "has_reactions": false
+    },
+    {
+      "id": "6d93617a-0d38-48fd-8e81-4cb8c9f914d1",
+      "title": "Blackadder's Christmas Carol",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "blackadder-s-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "91f9137a-9a3b-47da-a8e1-ab64352cbbe3",
+      "title": "Murderers Among Us: The Simon Wiesenthal Story",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "murderers-among-us-the-simon-wiesenthal-story",
+      "has_reactions": false
+    },
+    {
+      "id": "44a5c81f-5a22-4ad5-8e51-5c173cd1bae6",
+      "title": "Pacific Heights",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "pacific-heights",
+      "has_reactions": false
+    },
+    {
+      "id": "b1865684-2b5d-4b4a-b9d2-b2d23c2d241c",
+      "title": "I Love You to Death",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-to-death",
+      "has_reactions": false
+    },
+    {
+      "id": "150aed9d-d55e-4b07-a8b2-fc19848ed265",
+      "title": "The Fool of the World and the Flying Ship",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-fool-of-the-world-and-the-flying-ship",
+      "has_reactions": false
+    },
+    {
+      "id": "2247f956-cd2c-4de0-ab9d-c7c88c5f730d",
+      "title": "Orpheus Descending",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "orpheus-descending",
+      "has_reactions": false
+    },
+    {
+      "id": "4695f6ff-a772-4902-a739-24b8ce28ff36",
+      "title": "Echoes That Remain",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "echoes-that-remain",
+      "has_reactions": false
+    },
+    {
+      "id": "080dc2b1-4479-4282-8e5b-2dedb434c447",
+      "title": "The Butcher's Wife",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-butcher-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "e5fc4698-7f37-4ab2-a7d6-2b3d42a86109",
+      "title": "As You Like It",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "as-you-like-it",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb0fb85-6cd4-4c66-adb8-ccbfc0ba3c3e",
+      "title": "The Age of Innocence",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-age-of-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6028f0-d698-44be-9527-cdc05f63d81f",
+      "title": "Demonella",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "demonella",
+      "has_reactions": false
+    },
+    {
+      "id": "c3fb466f-fb55-4593-b569-f7abaccaa799",
+      "title": "Immortal Beloved",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "immortal-beloved",
+      "has_reactions": false
+    },
+    {
+      "id": "f2eb35e3-b6a0-47e1-94ed-032bb29dde3c",
+      "title": "Babe",
+      "release_year": 1995,
+      "studio_label": "Universal Pictures",
+      "slug": "babe",
+      "has_reactions": true
+    },
+    {
+      "id": "7b942d06-eacb-45cc-a8d9-eb61a7c5b2e4",
+      "title": "Romeo + Juliet",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "romeo-juliet",
+      "has_reactions": true
+    },
+    {
+      "id": "3eb97549-5c95-46d2-b066-8340a75bde06",
+      "title": "Different for Girls",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "different-for-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "1acc4439-a60b-43f8-810b-0b8688a0719b",
+      "title": "The Long Way Home",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-long-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "2e815cc3-8d59-4524-8fd1-104ff24cd339",
+      "title": "Mulan",
+      "release_year": 1998,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "mulan",
+      "has_reactions": true
+    },
+    {
+      "id": "06fcfa85-d93e-4bac-92ea-68dfe242387d",
+      "title": "The First Snow of Winter",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-first-snow-of-winter",
+      "has_reactions": false
+    },
+    {
+      "id": "2b61a552-0101-49e2-ba5f-3aaa8f4797eb",
+      "title": "Babe: Pig in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "babe-pig-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "93fe5b21-d569-4ec7-8992-6ab05d9f88b7",
+      "title": "Sunshine",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "sunshine",
+      "has_reactions": false
+    },
+    {
+      "id": "d78593fb-1002-4e86-b25e-31eb4b94a0f0",
+      "title": "House!",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "house",
+      "has_reactions": false
+    },
+    {
+      "id": "88a185d5-884d-44de-a890-352385201cc7",
+      "title": "Alone",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "alone",
+      "has_reactions": false
+    },
+    {
+      "id": "60048e22-8c93-496e-a36d-a5d62a412ff9",
+      "title": "Undertaking Betty",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "undertaking-betty",
+      "has_reactions": false
+    },
+    {
+      "id": "b633f3eb-6748-4cf4-b9be-f0f94486ce11",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "release_year": 2002,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-chamber-of-secrets",
+      "has_reactions": true
+    },
+    {
+      "id": "34e4bc86-9ffa-40f7-939f-10196476aed3",
+      "title": "Being Julia",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "being-julia",
+      "has_reactions": false
+    },
+    {
+      "id": "a6098fbc-9f15-4deb-805b-cb6fc64b5893",
+      "title": "Ladies in Lavender",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ladies-in-lavender",
+      "has_reactions": false
+    },
+    {
+      "id": "dafcf357-c21c-458b-a6a2-414bf45fde54",
+      "title": "Wallis & Edward",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "wallis-edward",
+      "has_reactions": false
+    },
+    {
+      "id": "afad8669-d7e0-4117-afd0-c33a75e0748e",
+      "title": "The 50 Greatest Television Dramas",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-50-greatest-television-dramas",
+      "has_reactions": false
+    },
+    {
+      "id": "e83bf674-d21d-48be-bd90-d0e020c2ee13",
+      "title": "The Dukes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dukes",
+      "has_reactions": false
+    },
+    {
+      "id": "a2abef9b-ad65-4770-aec3-0261b3e6fe7e",
+      "title": "How to Lose Friends & Alienate People",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "how-to-lose-friends-alienate-people",
+      "has_reactions": false
+    },
+    {
+      "id": "e6af480b-ed76-4b24-9600-e5268e7fe4bc",
+      "title": "We Are Most Amused",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "we-are-most-amused",
+      "has_reactions": false
+    },
+    {
+      "id": "db5ebf8b-7f49-4d88-83ea-a86d0830f957",
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "legend-of-the-guardians-the-owls-of-ga-hoole",
+      "has_reactions": false
+    },
+    {
+      "id": "9081a48a-5232-4558-9783-262b721a4cee",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "release_year": 2011,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "harry-potter-and-the-deathly-hallows-part-2",
+      "has_reactions": true
+    },
+    {
+      "id": "4e24cb7c-b6bf-42f1-acd4-8b05998f74f5",
+      "title": "The Itch of the Golden Nit",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-itch-of-the-golden-nit",
+      "has_reactions": false
+    },
+    {
+      "id": "d7097ef8-3f37-484e-9103-048c53f69f33",
+      "title": "When Harry Left Hogwarts",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "when-harry-left-hogwarts",
+      "has_reactions": false
+    },
+    {
+      "id": "27ae616f-b695-4317-b844-5ced8279bf52",
+      "title": "The Wedding Video",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-wedding-video",
+      "has_reactions": false
+    },
+    {
+      "id": "43c9e2ae-4597-41d8-9e7d-2b0e271cf87b",
+      "title": "The Cow That Almost Missed Christmas",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-cow-that-almost-missed-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "aba086c6-34b2-4153-9ca1-72fa70843022",
+      "title": "Sir Billi",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sir-billi",
+      "has_reactions": false
+    },
+    {
+      "id": "4588d6b1-96e1-4306-a9e3-852451a843f7",
+      "title": "A Closed Book",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-closed-book",
+      "has_reactions": false
+    },
+    {
+      "id": "93bff56d-2ff2-46ae-bad9-fa62a622fc20",
+      "title": "The Guilt Trip",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-guilt-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "19adacd4-0141-4b23-91bd-4c3684ae5c8e",
+      "title": "The Legend of Longwood",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-longwood",
+      "has_reactions": false
+    },
+    {
+      "id": "35a0788a-75cc-4425-b346-9835f27f2a5b",
+      "title": "Maya the Bee Movie",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "maya-the-bee-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "1d64e14c-1218-4dbc-bc69-595eec584ba4",
+      "title": "The Seventeenth Kind",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-seventeenth-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "58a226f0-c903-4b7c-909d-455a12f8fb1e",
+      "title": "Outlier",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "outlier",
+      "has_reactions": false
+    },
+    {
+      "id": "65341858-1f55-4810-a337-c25ad76befb4",
+      "title": "Honeysuckle",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "honeysuckle",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae87557-fbcb-4a7c-9cc5-3b64b44dcb37",
+      "title": "Spirit-ED",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "spirit-ed",
+      "has_reactions": false
+    },
+    {
+      "id": "9fd59ca3-192a-4418-bbe4-0e828f812f11",
+      "title": "The Last Artifact",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-last-artifact",
+      "has_reactions": false
+    },
+    {
+      "id": "d272575c-f2e6-4fa1-9a36-818fb67e6241",
+      "title": "Miriam's Dickensian Christmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "miriam-s-dickensian-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "7f7abc59-6489-4661-a986-12c294343838",
+      "title": "imagine... Miriam Margolyes: Up for Grabs",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "imagine-miriam-margolyes-up-for-grabs",
+      "has_reactions": false
+    },
+    {
+      "id": "6aea9320-e3c5-4ba9-9b8a-36414bb69038",
+      "title": "David Baddiel: Jews Don't Count",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "david-baddiel-jews-don-t-count",
+      "has_reactions": false
+    },
+    {
+      "id": "1d9a9f64-a0b0-487c-8053-906f698910c6",
+      "title": "Mog's Christmas",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mog-s-christmas",
+      "has_reactions": false
+    }
+  ]
+}

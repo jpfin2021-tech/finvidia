@@ -1,0 +1,40 @@
+{
+  "id": "8c6c132e-be27-4fef-9dd3-4dfe77db0c05",
+  "name": "Dan Schneider",
+  "slug": "dan-schneider",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/kUD4fR3yxW2PTFQjEHqWJq3SzEq.jpg",
+  "filmography": [
+    {
+      "id": "5f010527-449e-4151-a4e3-111503699cc1",
+      "title": "Making the Grade",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "making-the-grade",
+      "has_reactions": false
+    },
+    {
+      "id": "7d8ae2aa-6bbd-4860-b82e-ff03b54e6835",
+      "title": "Hot Resort",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "hot-resort",
+      "has_reactions": false
+    },
+    {
+      "id": "fc7371d9-3755-4763-9c60-69dc05095714",
+      "title": "Better Off Dead...",
+      "release_year": 1985,
+      "studio_label": "A&M Films",
+      "slug": "better-off-dead",
+      "has_reactions": true
+    },
+    {
+      "id": "8e4a908c-5fff-4866-ba4d-528212105b43",
+      "title": "Good Burger",
+      "release_year": 1997,
+      "studio_label": "Paramount Pictures",
+      "slug": "good-burger",
+      "has_reactions": true
+    }
+  ]
+}

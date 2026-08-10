@@ -1,0 +1,40 @@
+{
+  "id": "45239c3c-8899-4eb5-bc8d-9edfdddea1f1",
+  "name": "Joanne Whalley",
+  "slug": "joanne-whalley",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ItU1ROQkWkzabwdFG3H4VndgBb.jpg",
+  "filmography": [
+    {
+      "id": "e7a6d46d-1127-4412-a4ef-14495c8e43a1",
+      "title": "A Christmas Carol",
+      "release_year": 1984,
+      "studio_label": "Entertainment Partners Ltd.",
+      "slug": "a-christmas-carol",
+      "has_reactions": true
+    },
+    {
+      "id": "6dfd58dd-f6df-4efc-858d-8012525906c8",
+      "title": "Willow",
+      "release_year": 1988,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "willow",
+      "has_reactions": true
+    },
+    {
+      "id": "379f6e41-5adf-41ac-94a9-8aeed38e65f3",
+      "title": "Flood",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "flood",
+      "has_reactions": false
+    },
+    {
+      "id": "e0957cf9-e66a-441d-a0b4-c350e301080d",
+      "title": "The Ark",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-ark",
+      "has_reactions": false
+    }
+  ]
+}

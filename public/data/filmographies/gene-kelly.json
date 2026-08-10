@@ -1,0 +1,592 @@
+{
+  "id": "be2afff8-81e9-4497-95d7-ef11fa59cd86",
+  "name": "Gene Kelly",
+  "slug": "gene-kelly",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/g98yyY7oGrkocUxxJgOt82I7z6A.jpg",
+  "filmography": [
+    {
+      "id": "e90a7166-a4f6-411d-810f-33a3c03e14a3",
+      "title": "For Me and My Gal",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "for-me-and-my-gal",
+      "has_reactions": false
+    },
+    {
+      "id": "f8fc7d37-e28a-408d-bb64-8ba41224a194",
+      "title": "The Cross of Lorraine",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "the-cross-of-lorraine",
+      "has_reactions": false
+    },
+    {
+      "id": "cdd63cae-df68-4a75-acca-0f8df44f42e3",
+      "title": "Pilot #5",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "pilot-5",
+      "has_reactions": false
+    },
+    {
+      "id": "b8aeb422-a64b-449f-bc0e-43d16659c1a5",
+      "title": "Du Barry Was a Lady",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "du-barry-was-a-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "12a84733-159c-4e92-b3ea-2065a8726c42",
+      "title": "Christmas Holiday",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "christmas-holiday",
+      "has_reactions": false
+    },
+    {
+      "id": "d0787a0f-27b1-4545-a75e-7b7603da4903",
+      "title": "Twenty Years After",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "twenty-years-after",
+      "has_reactions": false
+    },
+    {
+      "id": "75b965b1-860b-496e-bf0b-700b8b85e0e0",
+      "title": "Cover Girl",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "cover-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "477dfcf4-ca22-41c9-83af-7657363a02d1",
+      "title": "Combat Fatigue Irritability",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "combat-fatigue-irritability",
+      "has_reactions": false
+    },
+    {
+      "id": "31c6a720-ef5f-4161-9f67-b019bfb1dd40",
+      "title": "The Story of Submarine Warfare in the Pacific",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-submarine-warfare-in-the-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "f61892da-4ee6-4136-8d59-68ee4392f945",
+      "title": "Anchors Aweigh",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "anchors-aweigh",
+      "has_reactions": false
+    },
+    {
+      "id": "2ef19ed2-4cc6-4836-ac2b-cd5095bdd3d7",
+      "title": "The Three Musketeers",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "c6cba7d5-238e-459f-bf8f-710997f3b059",
+      "title": "The Pirate",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-pirate",
+      "has_reactions": false
+    },
+    {
+      "id": "83b2af17-ed5d-49ad-a2d5-2f8623d29757",
+      "title": "On the Town",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "on-the-town",
+      "has_reactions": false
+    },
+    {
+      "id": "8045996a-313f-49ee-8c77-e9f231e1dd6f",
+      "title": "Black Hand",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "black-hand",
+      "has_reactions": false
+    },
+    {
+      "id": "6d6c5d0a-d90c-4514-bfbe-074d000cb555",
+      "title": "Summer Stock",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "summer-stock",
+      "has_reactions": false
+    },
+    {
+      "id": "98c9f47c-0291-4c1e-8f0f-9256b43692ab",
+      "title": "The Costume Designer",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-costume-designer",
+      "has_reactions": false
+    },
+    {
+      "id": "ead5562b-ac3f-4a46-9e59-81f8be1d8e0d",
+      "title": "It's a Big Country",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-big-country",
+      "has_reactions": false
+    },
+    {
+      "id": "85b2551e-c732-444c-a935-f4179bc219f6",
+      "title": "An American in Paris",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "an-american-in-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "180c540f-cbb4-488a-a18a-dcbae7167862",
+      "title": "Singin' in the Rain",
+      "release_year": 1952,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "singin-in-the-rain",
+      "has_reactions": true
+    },
+    {
+      "id": "b697bdbb-39a6-49ac-b7cf-abe8d22a4cd0",
+      "title": "Love Is Better Than Ever",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "love-is-better-than-ever",
+      "has_reactions": false
+    },
+    {
+      "id": "4c83a707-b025-4489-a41e-b435400a8499",
+      "title": "The Devil Makes Three",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-devil-makes-three",
+      "has_reactions": false
+    },
+    {
+      "id": "ba7c3f89-a338-4a47-9f17-6ec46ed72316",
+      "title": "Deep in My Heart",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "deep-in-my-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "654c33ec-7318-4baf-81f9-dfe80807f505",
+      "title": "Brigadoon",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "brigadoon",
+      "has_reactions": false
+    },
+    {
+      "id": "9cf45c2d-4b78-497e-92a3-5b4fd2c7499c",
+      "title": "Seagulls Over Sorrento",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "seagulls-over-sorrento",
+      "has_reactions": false
+    },
+    {
+      "id": "9b6361b9-6ac4-4a21-abda-4d3b36f1268c",
+      "title": "It's Always Fair Weather",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "it-s-always-fair-weather",
+      "has_reactions": false
+    },
+    {
+      "id": "c2d458aa-83d7-4a6f-81aa-105eb1d8f88c",
+      "title": "Invitation to the Dance",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "invitation-to-the-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "9b2bdff5-c98c-4953-b4c4-35210ed470dc",
+      "title": "Les Girls",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "les-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "47a14283-2391-4d21-a4ef-316afd0d9dfc",
+      "title": "The Life You Save May Be Your Own",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-life-you-save-may-be-your-own",
+      "has_reactions": false
+    },
+    {
+      "id": "0d2b634e-6b47-41d4-9b69-e3ae62cf83dc",
+      "title": "The Happy Road",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-happy-road",
+      "has_reactions": false
+    },
+    {
+      "id": "ddc950b7-0a86-41a3-8f68-4832eb4c04f7",
+      "title": "Marjorie Morningstar",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "marjorie-morningstar",
+      "has_reactions": false
+    },
+    {
+      "id": "0f0750fc-adaf-4a91-9662-ab19855d134f",
+      "title": "Dancing, a Man's Game - Gene Kelly",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "dancing-a-man-s-game-gene-kelly",
+      "has_reactions": false
+    },
+    {
+      "id": "2616a59b-b67f-451b-a213-332f0cc4169b",
+      "title": "Inherit the Wind",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "inherit-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "5f8b4cfe-48b6-4ca7-84e4-ec843b801ace",
+      "title": "Let's Make Love",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "let-s-make-love",
+      "has_reactions": false
+    },
+    {
+      "id": "a0f0b619-4fa2-4008-9ce5-804032303318",
+      "title": "Hollywood: The Golden Years",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "hollywood-the-golden-years",
+      "has_reactions": false
+    },
+    {
+      "id": "a2c26959-7b13-44c0-ac8a-3e23c3986980",
+      "title": "The Julie Andrews Show",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-julie-andrews-show",
+      "has_reactions": false
+    },
+    {
+      "id": "bf6a5b2c-a005-42a5-9da1-5c021ee1ea1d",
+      "title": "Behind the screens : Les demoiselles de Rochefort",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "behind-the-screens-les-demoiselles-de-rochefort",
+      "has_reactions": false
+    },
+    {
+      "id": "476101c7-fcba-468f-9df2-e47307b23682",
+      "title": "Jack and the Beanstalk",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "jack-and-the-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "c3506a6a-d88e-43bf-b317-17fb021e1597",
+      "title": "The Young Girls of Rochefort",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-young-girls-of-rochefort",
+      "has_reactions": false
+    },
+    {
+      "id": "6d8f20be-b79c-426f-98fc-e812f91db770",
+      "title": "The Men Who Made the Movies: Vincente Minnelli",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-men-who-made-the-movies-vincente-minnelli",
+      "has_reactions": false
+    },
+    {
+      "id": "679c01cf-0772-4294-896c-1931baf0b89e",
+      "title": "40 Carats",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "40-carats",
+      "has_reactions": false
+    },
+    {
+      "id": "72439786-192d-4502-aaed-e30cff2e63f7",
+      "title": "Frank Sinatra: Ol' Blue Eyes is Back",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "frank-sinatra-ol-blue-eyes-is-back",
+      "has_reactions": false
+    },
+    {
+      "id": "7934f015-82f6-474f-b767-e0aa5d97a53a",
+      "title": "That's Entertainment!",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "that-s-entertainment",
+      "has_reactions": false
+    },
+    {
+      "id": "a699d081-f06a-462d-87d4-e7552af145d2",
+      "title": "The Sandy Duncan Special",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-sandy-duncan-special",
+      "has_reactions": false
+    },
+    {
+      "id": "faac1e97-e5de-443b-89e8-c22a99f0556c",
+      "title": "That's Entertainment, Part II",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "that-s-entertainment-part-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "85f4d9b5-90cb-448e-b9a0-847f8d1c9ed6",
+      "title": "It's Showtime",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "it-s-showtime",
+      "has_reactions": false
+    },
+    {
+      "id": "21ebfae2-e8bb-48a7-8d7b-6592645de43d",
+      "title": "An Evening with Gene Kelly",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "an-evening-with-gene-kelly",
+      "has_reactions": false
+    },
+    {
+      "id": "580b587a-8046-4653-b1ac-3586b42e5d33",
+      "title": "Yabba Dabba Doo! The Happy World of Hanna-Barbera",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "yabba-dabba-doo-the-happy-world-of-hanna-barbera",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc3cef6-d09b-4f23-b649-a8851a7e0248",
+      "title": "The Carpenters: A Christmas Portrait",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-carpenters-a-christmas-portrait",
+      "has_reactions": false
+    },
+    {
+      "id": "abc5cd0b-6531-4068-9523-7a276d4c6796",
+      "title": "Ersatz",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "ersatz",
+      "has_reactions": false
+    },
+    {
+      "id": "2b35aafc-a3c8-4a4c-aefe-1f24799748a9",
+      "title": "Frank Sinatra: The First 40 Years",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "frank-sinatra-the-first-40-years",
+      "has_reactions": false
+    },
+    {
+      "id": "07dbf376-2987-4ec6-9762-e8a911f76fbf",
+      "title": "Xanadu",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "xanadu",
+      "has_reactions": false
+    },
+    {
+      "id": "7f5be381-0ad5-4890-854e-60fd9f11fea5",
+      "title": "Lucy Moves to NBC",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "lucy-moves-to-nbc",
+      "has_reactions": false
+    },
+    {
+      "id": "e2d85849-f9b2-44c4-ab05-d49f9fe5986f",
+      "title": "Reporters",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "reporters",
+      "has_reactions": false
+    },
+    {
+      "id": "b2cecb04-1a2f-42aa-b4bb-33d43bff89f2",
+      "title": "Showbiz Goes to War",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "showbiz-goes-to-war",
+      "has_reactions": false
+    },
+    {
+      "id": "791249ec-386d-451d-b11c-51c5b13b4afe",
+      "title": "The Marx Brothers in a Nutshell",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-marx-brothers-in-a-nutshell",
+      "has_reactions": false
+    },
+    {
+      "id": "0e5ab6b9-555e-49f1-a5ea-d625f4332edb",
+      "title": "Sylvie Vartan: Live in Las Vegas",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "sylvie-vartan-live-in-las-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "5e045c06-bda5-47cc-8910-0ce333380bca",
+      "title": "The Muppets: A Celebration of 30 Years",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-a-celebration-of-30-years",
+      "has_reactions": false
+    },
+    {
+      "id": "587cd63a-372c-411e-8c01-7a33d91e18cc",
+      "title": "James Stewart: A Wonderful Life",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "james-stewart-a-wonderful-life",
+      "has_reactions": false
+    },
+    {
+      "id": "635b1955-02fe-43b2-9c61-bcdb6623830f",
+      "title": "The Movie Palaces",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-movie-palaces",
+      "has_reactions": false
+    },
+    {
+      "id": "0c3e419c-8b13-4d8e-898f-5398ea845eb9",
+      "title": "Roger Rabbit and the Secrets of Toon Town",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "roger-rabbit-and-the-secrets-of-toon-town",
+      "has_reactions": false
+    },
+    {
+      "id": "ca3ab45d-9c57-466e-9c02-f40733bec870",
+      "title": "Michael Jackson: The Legend Continues",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-the-legend-continues",
+      "has_reactions": false
+    },
+    {
+      "id": "a7fe0b55-0c3c-47cd-ae8c-1a0e8303f086",
+      "title": "Tom & Jerry's 50th Birthday Bash",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tom-jerry-s-50th-birthday-bash",
+      "has_reactions": false
+    },
+    {
+      "id": "5ddd1c46-0edf-4dd2-9359-61b8dea57609",
+      "title": "The Young Girls Turn 25",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-young-girls-turn-25",
+      "has_reactions": false
+    },
+    {
+      "id": "60c222a4-defa-42f7-aba5-9df9ea2163c2",
+      "title": "That's Entertainment! III",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "that-s-entertainment-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "a2f78626-ecc8-44b5-9df3-b98d366ff0a9",
+      "title": "Gene Kelly: Anatomy of a Dancer",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "gene-kelly-anatomy-of-a-dancer",
+      "has_reactions": false
+    },
+    {
+      "id": "a41ebc7a-3a1b-4a08-a6a3-5e82a083e8f9",
+      "title": "Cole Porter in Hollywood: \u00c7a c'est l'amour",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "cole-porter-in-hollywood-a-c-est-l-amour",
+      "has_reactions": false
+    },
+    {
+      "id": "7486ae90-f2d3-4469-a92d-0aec8c61ce50",
+      "title": "Judy Garland: By Myself",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "judy-garland-by-myself",
+      "has_reactions": false
+    },
+    {
+      "id": "1741746e-1b36-4cd1-bbdc-79ee1d7ca174",
+      "title": "Summer Stock: Get Happy!",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "summer-stock-get-happy",
+      "has_reactions": false
+    },
+    {
+      "id": "65f9920c-2dd5-4fff-b295-4be1bb255171",
+      "title": "Happy Again",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "happy-again",
+      "has_reactions": false
+    },
+    {
+      "id": "844b8635-de45-4cf2-80f1-0a1cc652afba",
+      "title": "Frank Sinatra: Around the World",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "frank-sinatra-around-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "c1a67661-60e4-402b-b5d9-e538d3f72d6e",
+      "title": "Directing Dolly: Gene Kelly Remembered",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "directing-dolly-gene-kelly-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "d2e3fa80-9baf-4778-953d-37de1e6b7e4f",
+      "title": "Sid & Judy",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "sid-judy",
+      "has_reactions": false
+    },
+    {
+      "id": "e5c24959-47d7-4d2c-b73d-2adffbcbb794",
+      "title": "True Blue",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "true-blue",
+      "has_reactions": false
+    }
+  ]
+}

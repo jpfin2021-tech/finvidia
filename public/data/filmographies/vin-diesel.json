@@ -1,0 +1,464 @@
+{
+  "id": "2a043d2c-7521-4b39-89d0-a429af97f960",
+  "name": "Vin Diesel",
+  "slug": "vin-diesel",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+  "filmography": [
+    {
+      "id": "06d260d1-19e4-4da9-be21-19a30481f6c8",
+      "title": "The Last Witch Hunter: The Lion's Oath",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-last-witch-hunter-the-lion-s-oath",
+      "has_reactions": false
+    },
+    {
+      "id": "f6067395-30ae-4ed2-9cfa-6fe1ef47a989",
+      "title": "Riddick: Furya",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "riddick-furya",
+      "has_reactions": false
+    },
+    {
+      "id": "10482e12-198c-458f-a660-5d537b4f80d4",
+      "title": "Rock 'Em Sock 'Em Robots",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "rock-em-sock-em-robots",
+      "has_reactions": false
+    },
+    {
+      "id": "0fbf90d7-03c5-4fb9-b6cd-f80a4b2bd27a",
+      "title": "Breakin' in the USA:  Break Dancing and Electric Boogie Taught by the Pros",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "breakin-in-the-usa-break-dancing-and-electric-boogie-taught-by-the-pros",
+      "has_reactions": false
+    },
+    {
+      "id": "719c4ffd-8dca-4aa6-b070-26cb5b57ecb1",
+      "title": "Awakenings",
+      "release_year": 1990,
+      "studio_label": "Parkes/Lasker productions",
+      "slug": "awakenings",
+      "has_reactions": true
+    },
+    {
+      "id": "1336e928-6ba3-4586-8a8d-5e5a45387fa2",
+      "title": "Strays",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "strays",
+      "has_reactions": false
+    },
+    {
+      "id": "421987e1-1b0b-4acc-a683-61a0612c02b3",
+      "title": "Saving Private Ryan",
+      "release_year": 1998,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "saving-private-ryan",
+      "has_reactions": true
+    },
+    {
+      "id": "33b8c029-011a-4fa5-9e6b-66e4137e1259",
+      "title": "The Iron Giant",
+      "release_year": 1999,
+      "studio_label": "Warner Bros. Feature Animation",
+      "slug": "the-iron-giant",
+      "has_reactions": true
+    },
+    {
+      "id": "730745fe-54aa-4a91-8bce-91260cd22f71",
+      "title": "The Making of 'The Iron Giant'",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-iron-giant",
+      "has_reactions": false
+    },
+    {
+      "id": "8f3eec1f-c378-4c96-b770-c98c634d46fb",
+      "title": "Into the Breach: Saving Private Ryan",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "into-the-breach-saving-private-ryan",
+      "has_reactions": false
+    },
+    {
+      "id": "278d0077-3dec-475a-b5ff-6248b2f726c5",
+      "title": "Pitch Black",
+      "release_year": 2000,
+      "studio_label": "Interscope Communications",
+      "slug": "pitch-black",
+      "has_reactions": true
+    },
+    {
+      "id": "056c61ea-005b-48cd-980e-ca045468cf77",
+      "title": "Boiler Room",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "boiler-room",
+      "has_reactions": false
+    },
+    {
+      "id": "920ca57a-36a1-4c23-acb4-b67329e2cb45",
+      "title": "Into Pitch Black",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "into-pitch-black",
+      "has_reactions": false
+    },
+    {
+      "id": "db14d3a2-22d0-431e-bf30-4c1acfefba44",
+      "title": "The Fast and the Furious",
+      "release_year": 2001,
+      "studio_label": "Ardustry Entertainment",
+      "slug": "the-fast-and-the-furious",
+      "has_reactions": true
+    },
+    {
+      "id": "81d4582a-3a79-4a41-95f8-8b2a501f8211",
+      "title": "Knockaround Guys",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "knockaround-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "379e497d-82c8-4e1a-ac56-4a3abfec0662",
+      "title": "xXx",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "xxx",
+      "has_reactions": false
+    },
+    {
+      "id": "31cbedb4-9cd8-47b2-95b1-bec44fc9304e",
+      "title": "A Man Apart",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "a-man-apart",
+      "has_reactions": false
+    },
+    {
+      "id": "8821d69c-eed9-4f95-86de-1b279bf71de6",
+      "title": "The Turbo Charged Prelude for 2 Fast 2 Furious",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-turbo-charged-prelude-for-2-fast-2-furious",
+      "has_reactions": false
+    },
+    {
+      "id": "bc9bb1fd-9f5a-43e5-896b-3bc5941c18b0",
+      "title": "The Chronicles of Riddick",
+      "release_year": 2004,
+      "studio_label": "Radar Pictures",
+      "slug": "the-chronicles-of-riddick",
+      "has_reactions": true
+    },
+    {
+      "id": "bebeff18-1187-4019-857f-909c96b12c25",
+      "title": "The Chronicles of Riddick: Dark Fury",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-chronicles-of-riddick-dark-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "58e34924-597a-47a1-831d-3e7a3a361c84",
+      "title": "The Pacifier",
+      "release_year": 2005,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-pacifier",
+      "has_reactions": false
+    },
+    {
+      "id": "b304af8b-1c60-4d40-888e-22ee5338c7b3",
+      "title": "The Final Chapter: The Death of Xander Cage",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-final-chapter-the-death-of-xander-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "598de55f-0890-4add-88c4-5be3153c6032",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "release_year": 2006,
+      "studio_label": "MP Munich Pape Filmproductions",
+      "slug": "the-fast-and-the-furious-tokyo-drift",
+      "has_reactions": true
+    },
+    {
+      "id": "a534e6e2-597d-4e82-83a7-ab1a8c2e87f1",
+      "title": "Babylon A.D.",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "babylon-a-d",
+      "has_reactions": false
+    },
+    {
+      "id": "0c58a5f9-b307-4749-99a1-f798c2b6a9c4",
+      "title": "Fast & Furious",
+      "release_year": 2009,
+      "studio_label": "Universal Pictures",
+      "slug": "fast-furious",
+      "has_reactions": true
+    },
+    {
+      "id": "d6dfc0f1-5683-44fb-b803-3d96f09a6de5",
+      "title": "Los Bandoleros",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "los-bandoleros",
+      "has_reactions": false
+    },
+    {
+      "id": "f355ed08-caad-4344-8776-37c08d152326",
+      "title": "Wheelman",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "wheelman",
+      "has_reactions": false
+    },
+    {
+      "id": "e0aa8f85-7121-4ec7-bffe-0bb180ccce2c",
+      "title": "Fast Five",
+      "release_year": 2011,
+      "studio_label": "Original Film",
+      "slug": "fast-five",
+      "has_reactions": true
+    },
+    {
+      "id": "d6185461-f683-4fc8-b56e-77cc47b42184",
+      "title": "Riddick",
+      "release_year": 2013,
+      "studio_label": "One Race",
+      "slug": "riddick",
+      "has_reactions": true
+    },
+    {
+      "id": "f808ba2d-f7d8-4be2-9228-0279dd0051b3",
+      "title": "Fast & Furious 6",
+      "release_year": 2013,
+      "studio_label": "Relativity Media",
+      "slug": "fast-furious-6",
+      "has_reactions": true
+    },
+    {
+      "id": "3d10f27a-b842-4144-88ee-b6ada058ced9",
+      "title": "Riddick: Blindsided",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "riddick-blindsided",
+      "has_reactions": false
+    },
+    {
+      "id": "4d4aba97-370e-4164-809b-ac4ac917d639",
+      "title": "Guardians of the Galaxy",
+      "release_year": 2014,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy",
+      "has_reactions": true
+    },
+    {
+      "id": "faa34686-7dbf-4fab-b685-6ed05ffef1b2",
+      "title": "Marvel Studios: Assembling a Universe",
+      "release_year": 2014,
+      "studio_label": "ABC Studios",
+      "slug": "marvel-studios-assembling-a-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "db330aa9-a3b1-4f5e-8eeb-4f433590f128",
+      "title": "Furious 7",
+      "release_year": 2015,
+      "studio_label": "Original Film",
+      "slug": "furious-7",
+      "has_reactions": true
+    },
+    {
+      "id": "fb9dbf70-767e-43f5-9419-22bd33b62da3",
+      "title": "The Last Witch Hunter",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-last-witch-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "6dde74a8-0ee5-4112-8e3e-8da8ab56786a",
+      "title": "The Giant's Dream: The Making of the Iron Giant",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-giant-s-dream-the-making-of-the-iron-giant",
+      "has_reactions": false
+    },
+    {
+      "id": "2264ac4f-d524-41c6-a234-52e9936f9ee5",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "release_year": 2017,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy-vol-2",
+      "has_reactions": true
+    },
+    {
+      "id": "184d62e0-6d94-42ed-a335-d0101e4a071d",
+      "title": "The Fate of the Furious",
+      "release_year": 2017,
+      "studio_label": "Original Film",
+      "slug": "the-fate-of-the-furious",
+      "has_reactions": true
+    },
+    {
+      "id": "3df76aa1-5f1e-4a74-9184-6d8261f02f23",
+      "title": "xXx: Return of Xander Cage",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "xxx-return-of-xander-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "253c38d1-d0f7-4589-afe7-a79b3d6de7be",
+      "title": "Ralph Breaks the Internet",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "ralph-breaks-the-internet",
+      "has_reactions": false
+    },
+    {
+      "id": "c9676921-7814-473d-91d9-98d94b30531f",
+      "title": "Avengers: Infinity War",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-infinity-war",
+      "has_reactions": true
+    },
+    {
+      "id": "d9002057-e449-47e4-aa9b-c6244dcfcf55",
+      "title": "Avengers: Endgame",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-endgame",
+      "has_reactions": true
+    },
+    {
+      "id": "729e733d-fd72-4be0-8571-9dcbaae552b6",
+      "title": "Ricky Powell: The Individualist",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "ricky-powell-the-individualist",
+      "has_reactions": false
+    },
+    {
+      "id": "0acbe415-38a4-4c9c-ae3a-3ca007e3fbe9",
+      "title": "Bloodshot",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "bloodshot",
+      "has_reactions": false
+    },
+    {
+      "id": "25ad8749-9d0f-475c-a7a2-abcb3553ea55",
+      "title": "F9",
+      "release_year": 2021,
+      "studio_label": "Original Film",
+      "slug": "f9",
+      "has_reactions": false
+    },
+    {
+      "id": "5a06dee4-4c9f-4238-beb7-4ba2b87a7303",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "the-guardians-of-the-galaxy-holiday-special",
+      "has_reactions": true
+    },
+    {
+      "id": "3ab4f0b9-7bee-45cc-b7ed-0fae353a7a0e",
+      "title": "The Little Guy",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-little-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "ebbda5a4-7807-43b0-ab01-7e7ca6085bb2",
+      "title": "Thor: Love and Thunder",
+      "release_year": 2022,
+      "studio_label": "Marvel Studios",
+      "slug": "thor-love-and-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "2689778d-8843-481f-a81f-927373dcb4ad",
+      "title": "Groot's Pursuit",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "groot-s-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "3b980a7b-7f27-4760-a720-66c9d034a584",
+      "title": "Magnum Opus",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "magnum-opus",
+      "has_reactions": false
+    },
+    {
+      "id": "b9100888-17d3-427f-9973-8dd705159549",
+      "title": "Groot Takes a Bath",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "groot-takes-a-bath",
+      "has_reactions": false
+    },
+    {
+      "id": "0d213e99-98ec-4cb7-8437-cf96adcb665e",
+      "title": "Groot's First Steps",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "groot-s-first-steps",
+      "has_reactions": false
+    },
+    {
+      "id": "cfeb4eca-6652-45c0-82d0-783119b5d5ea",
+      "title": "Fast X",
+      "release_year": 2023,
+      "studio_label": "Universal Pictures",
+      "slug": "fast-x",
+      "has_reactions": true
+    },
+    {
+      "id": "7cca08cb-d832-4910-94bd-6084e9a6e570",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy-vol-3",
+      "has_reactions": true
+    },
+    {
+      "id": "89a03c9a-5f18-464c-b3ae-82d2b31836ed",
+      "title": "A Journey to Sundance",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-journey-to-sundance",
+      "has_reactions": false
+    },
+    {
+      "id": "40a997fc-9da3-46b5-86e2-73de26c65028",
+      "title": "Fast & Furious Greatest Moments: Refuelled",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "fast-furious-greatest-moments-refuelled",
+      "has_reactions": false
+    },
+    {
+      "id": "26f77ce8-fb1a-4007-b6a6-6bad6cbd9986",
+      "title": "Fast Forever",
+      "release_year": 2028,
+      "studio_label": "\u2014",
+      "slug": "fast-forever",
+      "has_reactions": false
+    }
+  ]
+}

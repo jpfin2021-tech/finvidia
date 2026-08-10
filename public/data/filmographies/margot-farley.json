@@ -1,0 +1,32 @@
+{
+  "id": "ff8981b0-f9a2-4b5a-8c52-5ee16951a9b4",
+  "name": "Margot Farley",
+  "slug": "margot-farley",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/uZtDDxeOtYFzgLO2eV5rrHvsw1k.jpg",
+  "filmography": [
+    {
+      "id": "b59ae0e4-7940-4e09-9d17-616fff392008",
+      "title": "Cloverfield",
+      "release_year": 2008,
+      "studio_label": "Bad Robot",
+      "slug": "cloverfield",
+      "has_reactions": true
+    },
+    {
+      "id": "1229a8b8-6223-4636-8324-e7859db7d344",
+      "title": "Star Trek",
+      "release_year": 2009,
+      "studio_label": "Paramount Pictures",
+      "slug": "star-trek",
+      "has_reactions": true
+    },
+    {
+      "id": "5f06427c-d1d7-4ce8-96d4-87394f40b4b6",
+      "title": "Fort McCoy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "fort-mccoy",
+      "has_reactions": false
+    }
+  ]
+}

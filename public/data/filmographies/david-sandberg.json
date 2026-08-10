@@ -1,0 +1,48 @@
+{
+  "id": "5aab8469-7871-4576-ae7d-c95394319b67",
+  "name": "David Sandberg",
+  "slug": "david-sandberg",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3AlGnSR8jYUHaoXzFwVM6Hnjklt.jpg",
+  "filmography": [
+    {
+      "id": "3025e686-3745-45b6-a5e4-1fa32af7e7d1",
+      "title": "Kung Fury",
+      "release_year": 2015,
+      "studio_label": "Laser Unicorns",
+      "slug": "kung-fury",
+      "has_reactions": true
+    },
+    {
+      "id": "a48c21c9-5e6d-4e3c-81a3-a1030e8e10c7",
+      "title": "Closet Space",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "closet-space",
+      "has_reactions": false
+    },
+    {
+      "id": "28507950-720d-4e09-8614-0536dacfe070",
+      "title": "Shazam!",
+      "release_year": 2019,
+      "studio_label": "New Line Cinema",
+      "slug": "shazam",
+      "has_reactions": true
+    },
+    {
+      "id": "068b339a-b374-4b3f-ae96-233da25dc5a3",
+      "title": "Shazam! Fury of the Gods",
+      "release_year": 2023,
+      "studio_label": "The Safran Company",
+      "slug": "shazam-fury-of-the-gods",
+      "has_reactions": true
+    },
+    {
+      "id": "02559695-7f98-4817-b02a-6ee56fb1b71e",
+      "title": "Until Dawn",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "until-dawn",
+      "has_reactions": false
+    }
+  ]
+}

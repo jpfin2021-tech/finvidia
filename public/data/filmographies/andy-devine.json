@@ -1,0 +1,696 @@
+{
+  "id": "fc8a1ebc-6cbf-40c0-8978-b6d92812af63",
+  "name": "Andy Devine",
+  "slug": "andy-devine",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rBCv7cszfbo2dkQbGxxff9xTppL.jpg",
+  "filmography": [
+    {
+      "id": "0d21bde6-b47b-4dc9-a003-532cfd63886c",
+      "title": "Splashing Through",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "splashing-through",
+      "has_reactions": false
+    },
+    {
+      "id": "6f219253-acea-4955-9c1f-a062f898d400",
+      "title": "Around the Bases",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "around-the-bases",
+      "has_reactions": false
+    },
+    {
+      "id": "4c505082-f478-4738-b381-b451db4ebf1b",
+      "title": "The Relay",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "the-relay",
+      "has_reactions": false
+    },
+    {
+      "id": "68102207-21a2-4f43-a051-15c85bab60fd",
+      "title": "The Divine Lady",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-divine-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "6972bebe-dd01-44ac-be67-ded2b080635d",
+      "title": "Lonesome",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "lonesome",
+      "has_reactions": false
+    },
+    {
+      "id": "4b1a0bee-569d-4380-9dde-2f9733db9a09",
+      "title": "Dames Ahoy",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "dames-ahoy",
+      "has_reactions": false
+    },
+    {
+      "id": "c716b6c4-2aa0-4438-b9a1-20cf6337c73f",
+      "title": "Law and Order",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "law-and-order",
+      "has_reactions": false
+    },
+    {
+      "id": "f7a64d81-b10b-4406-94bb-551672e5c7ad",
+      "title": "Three Wise Girls",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "three-wise-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "d608f1b0-14c6-4cb5-9eb0-6b363fb1b881",
+      "title": "The Man from Yesterday",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-man-from-yesterday",
+      "has_reactions": false
+    },
+    {
+      "id": "d36cdb6f-ac31-4fd8-90ca-5cfb17eb18dd",
+      "title": "Radio Patrol",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "radio-patrol",
+      "has_reactions": false
+    },
+    {
+      "id": "8c5d8e1e-2784-4656-84a3-9e9807110d7f",
+      "title": "The Unexpected Father",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-unexpected-father",
+      "has_reactions": false
+    },
+    {
+      "id": "6b408d53-a107-48ea-87a7-326fa4e15ac4",
+      "title": "Doctor Bull",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "doctor-bull",
+      "has_reactions": false
+    },
+    {
+      "id": "0721a0da-5112-4bc2-a60c-3c2f81eb9862",
+      "title": "Chance at Heaven",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "chance-at-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "35ca8140-1c64-405d-82cd-18b0110985e0",
+      "title": "Horse Play",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "horse-play",
+      "has_reactions": false
+    },
+    {
+      "id": "234e5a98-c5df-4304-875b-bf8427e32b28",
+      "title": "Midnight Mary",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "midnight-mary",
+      "has_reactions": false
+    },
+    {
+      "id": "fab2b9bb-4b7f-4c06-9dad-b497945e8208",
+      "title": "The President Vanishes",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-president-vanishes",
+      "has_reactions": false
+    },
+    {
+      "id": "17c25127-eaa1-46e5-8f36-a7f2dbc20ebd",
+      "title": "Upperworld",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "upperworld",
+      "has_reactions": false
+    },
+    {
+      "id": "08a45ff9-d2c7-47e9-bd72-797fd98b094f",
+      "title": "Stingaree",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "stingaree",
+      "has_reactions": false
+    },
+    {
+      "id": "15d5e7f2-8d19-4362-b082-b65859c0aa9e",
+      "title": "Wake Up and Dream",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "wake-up-and-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "a039ee5c-ac83-4b53-b9c2-c15a5470a629",
+      "title": "Straight from the Heart",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "straight-from-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "2dc12828-1163-45cc-a523-6b01c35db518",
+      "title": "Way Down East",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "way-down-east",
+      "has_reactions": false
+    },
+    {
+      "id": "afd610a4-59b4-4cd4-877b-84d99a29eecd",
+      "title": "The Farmer Takes a Wife",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "the-farmer-takes-a-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "ede125a3-a3c6-49e1-8df4-078db42f5587",
+      "title": "Coronado",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "coronado",
+      "has_reactions": false
+    },
+    {
+      "id": "12b8e90b-04a8-4387-a263-b6ed2e00b581",
+      "title": "Chinatown Squad",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "chinatown-squad",
+      "has_reactions": false
+    },
+    {
+      "id": "63ed1192-480c-4cc6-8d2f-356c5e6c4473",
+      "title": "The Big Game",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-big-game",
+      "has_reactions": false
+    },
+    {
+      "id": "fa0ecfcc-bffc-4a89-a4d6-06687b50e0be",
+      "title": "Mysterious Crossing",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "mysterious-crossing",
+      "has_reactions": false
+    },
+    {
+      "id": "f4e8b121-79df-43d4-adff-27c79d15f577",
+      "title": "Romeo and Juliet",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "romeo-and-juliet",
+      "has_reactions": false
+    },
+    {
+      "id": "e9d2950d-c550-41b5-9ccd-7eb75aa4a9b5",
+      "title": "Small Town Girl",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "small-town-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "12545eee-ba03-44c1-a517-0bbd3d1fc936",
+      "title": "Yellowstone",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "yellowstone",
+      "has_reactions": false
+    },
+    {
+      "id": "11731a0a-38ac-4ba7-9971-2811ccb668de",
+      "title": "Double or Nothing",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "double-or-nothing",
+      "has_reactions": false
+    },
+    {
+      "id": "7a965239-eeb6-46bd-8a81-6d4080301541",
+      "title": "You're a Sweetheart",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "you-re-a-sweetheart",
+      "has_reactions": false
+    },
+    {
+      "id": "57fea787-f158-42d0-bbc2-41b11cdab94e",
+      "title": "A Star Is Born",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born",
+      "has_reactions": false
+    },
+    {
+      "id": "db109584-2014-48d6-a38b-24172623abd6",
+      "title": "The Road Back",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "the-road-back",
+      "has_reactions": false
+    },
+    {
+      "id": "68b4987c-b56d-4a9f-9d06-017cfe7c11ef",
+      "title": "Personal Secretary",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "personal-secretary",
+      "has_reactions": false
+    },
+    {
+      "id": "363dd633-caff-4971-b52d-9bdb4fca8bcd",
+      "title": "In Old Chicago",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "in-old-chicago",
+      "has_reactions": false
+    },
+    {
+      "id": "0cefc8b8-c91f-4cb8-9f65-d2ec2a6db1c8",
+      "title": "Yellow Jack",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "yellow-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "afe952ef-4ef0-40c9-bae5-676f24024c32",
+      "title": "Doctor Rhythm",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "doctor-rhythm",
+      "has_reactions": false
+    },
+    {
+      "id": "9e87d36f-6a14-446e-8c2a-bd2d85f3c8d8",
+      "title": "Men with Wings",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "men-with-wings",
+      "has_reactions": false
+    },
+    {
+      "id": "382a26f2-afff-4405-8c76-fa0139f39a38",
+      "title": "Never Say Die",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "never-say-die",
+      "has_reactions": false
+    },
+    {
+      "id": "e4d4887b-390b-46d3-a9bd-94c41fc115a8",
+      "title": "Stagecoach",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "stagecoach",
+      "has_reactions": false
+    },
+    {
+      "id": "f658c3ca-ea9c-4cbf-8c1c-622c8b7e0f91",
+      "title": "The Man from Montreal",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-man-from-montreal",
+      "has_reactions": false
+    },
+    {
+      "id": "5cc9a60b-4842-4974-8f67-f53cfbcb001e",
+      "title": "The Spirit of Culver",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-spirit-of-culver",
+      "has_reactions": false
+    },
+    {
+      "id": "22475db3-71b9-4aee-a9bd-19a8a3cb9c21",
+      "title": "Torrid Zone",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "torrid-zone",
+      "has_reactions": false
+    },
+    {
+      "id": "9f6eda3b-b5c8-4a72-8f42-0f9981c87cd8",
+      "title": "When the Daltons Rode",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "when-the-daltons-rode",
+      "has_reactions": false
+    },
+    {
+      "id": "c0c065b7-cc78-4d44-bb1b-c134021b9290",
+      "title": "Trail of the Vigilantes",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "trail-of-the-vigilantes",
+      "has_reactions": false
+    },
+    {
+      "id": "6e096665-2379-490a-91ac-d28a397188c9",
+      "title": "The Devil's Pipeline",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "the-devil-s-pipeline",
+      "has_reactions": false
+    },
+    {
+      "id": "cd432a48-7385-4c62-9f55-021a1ac4cdaf",
+      "title": "Little Old New York",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "little-old-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "03ca506b-b8bb-4bab-beb0-d99a1a05b2f2",
+      "title": "Badlands of Dakota",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "badlands-of-dakota",
+      "has_reactions": false
+    },
+    {
+      "id": "416228cf-7071-46de-be4a-55adae9d65fa",
+      "title": "A Dangerous Game",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "a-dangerous-game",
+      "has_reactions": false
+    },
+    {
+      "id": "f35c44fd-d502-4608-a99d-efae72731902",
+      "title": "The Flame of New Orleans",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-flame-of-new-orleans",
+      "has_reactions": false
+    },
+    {
+      "id": "3747e8da-d2c7-489f-ac2c-c115a3874151",
+      "title": "Lucky Devils",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "lucky-devils",
+      "has_reactions": false
+    },
+    {
+      "id": "2d12b3c3-86c3-4ab1-8481-c51e855a6a97",
+      "title": "Escape from Hong Kong",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "escape-from-hong-kong",
+      "has_reactions": false
+    },
+    {
+      "id": "e11c15d0-43db-4c68-90af-ed4319a62198",
+      "title": "Danger in the Pacific",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "danger-in-the-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "73f3f1eb-6c4b-4125-bad3-93513b9f6433",
+      "title": "Babes on Swing Street",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "babes-on-swing-street",
+      "has_reactions": false
+    },
+    {
+      "id": "8de9d62a-f470-4c2d-9d60-3c4cbfd69c24",
+      "title": "That's the Spirit",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "that-s-the-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "dfd621c0-7ce3-40a5-b66d-575a763ce3eb",
+      "title": "Frontier Gal",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "frontier-gal",
+      "has_reactions": false
+    },
+    {
+      "id": "a4c058d8-e96a-43e9-b42b-b55837801857",
+      "title": "Sudan",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "sudan",
+      "has_reactions": false
+    },
+    {
+      "id": "6a7343b8-4f7c-45c3-b24e-59b37122e0e2",
+      "title": "Slave Girl",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "slave-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "9ed9119f-6793-4128-a7f3-8ad72196ac0c",
+      "title": "Springtime in the Sierras",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "springtime-in-the-sierras",
+      "has_reactions": false
+    },
+    {
+      "id": "a8d253af-33b8-42fc-806a-22d69510f8f8",
+      "title": "The Fabulous Texan",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-fabulous-texan",
+      "has_reactions": false
+    },
+    {
+      "id": "6ee0db47-ad8e-4310-acd0-616ab9431c93",
+      "title": "Bells of San Angelo",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "bells-of-san-angelo",
+      "has_reactions": false
+    },
+    {
+      "id": "2f7e6255-a069-45e1-b69a-fc261e9b0a0b",
+      "title": "On the Old Spanish Trail",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "on-the-old-spanish-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "f2d28873-a0e9-41c5-9f3e-597fc70700d7",
+      "title": "Grand Canyon Trail",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "grand-canyon-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "b88a7f52-3b03-42dc-b634-b6d0902d3cf5",
+      "title": "The Gay Ranchero",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-gay-ranchero",
+      "has_reactions": false
+    },
+    {
+      "id": "99cee9f1-75b1-41ea-80b3-725b622e4b88",
+      "title": "The Far Frontier",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-far-frontier",
+      "has_reactions": false
+    },
+    {
+      "id": "9267a0d7-f068-4464-86ce-d4b1c3bd60b3",
+      "title": "Eyes of Texas",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "eyes-of-texas",
+      "has_reactions": false
+    },
+    {
+      "id": "555f7662-882d-4caf-bd4c-549a22ce6d8a",
+      "title": "Night Time in Nevada",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "night-time-in-nevada",
+      "has_reactions": false
+    },
+    {
+      "id": "58138a93-d061-4b0b-95e0-741917c534a7",
+      "title": "Under California Stars",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "under-california-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "4a92acbc-a9a6-4b2d-9eb6-b1247074b7f3",
+      "title": "Slaughter Trail",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "slaughter-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "281edfda-8778-4397-b549-60c3c71d240f",
+      "title": "New Mexico",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "new-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "7c100e90-3cfb-4319-ba2d-48b6c2722d09",
+      "title": "Montana Belle",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "montana-belle",
+      "has_reactions": false
+    },
+    {
+      "id": "067ac61f-8348-411a-a99c-fb69f07eec21",
+      "title": "Behind Southern Lines",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "behind-southern-lines",
+      "has_reactions": false
+    },
+    {
+      "id": "cae6606d-28ec-4518-83eb-5b7a737c1183",
+      "title": "Island in the Sky",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "island-in-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "d2ee4e8f-e283-4906-aafd-f912b9e676e4",
+      "title": "Thunder Pass",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "thunder-pass",
+      "has_reactions": false
+    },
+    {
+      "id": "da8b7d6d-cd0d-4c9f-b166-f694a8afaa3c",
+      "title": "Pete Kelly's Blues",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "pete-kelly-s-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "6830680c-ebd6-4a96-8d5f-ce69c16f733b",
+      "title": "The Adventures of Huckleberry Finn",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-huckleberry-finn",
+      "has_reactions": false
+    },
+    {
+      "id": "efabbb01-e00b-4334-ba3c-1303b0899c19",
+      "title": "Zebra in the Kitchen",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "zebra-in-the-kitchen",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa2b02-7878-49ac-bc16-2d457aff7cb9",
+      "title": "The Movie Orgy",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-movie-orgy",
+      "has_reactions": false
+    },
+    {
+      "id": "1f98eaaf-a20c-430c-bf17-ce32e1517da8",
+      "title": "The Road Hustlers",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-road-hustlers",
+      "has_reactions": false
+    },
+    {
+      "id": "505a8c30-9d7f-43e1-b1d3-a3ada74e8e55",
+      "title": "The Over the Hill Gang",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-over-the-hill-gang",
+      "has_reactions": false
+    },
+    {
+      "id": "2f5f982a-ac4b-48ef-a4ee-e60ae83915ae",
+      "title": "Ride a Northbound Horse",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "ride-a-northbound-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "c565e81f-2fc4-4c25-a5c9-00d4e09c4d44",
+      "title": "The Phynx",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-phynx",
+      "has_reactions": false
+    },
+    {
+      "id": "ac73e0da-4d62-41f1-b473-5ac4ff988979",
+      "title": "The Grand Opening of Walt Disney World",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-grand-opening-of-walt-disney-world",
+      "has_reactions": false
+    },
+    {
+      "id": "63d8503d-25e8-4170-b991-d2ebd05e1a94",
+      "title": "Robin Hood",
+      "release_year": 1973,
+      "studio_label": "Walt Disney Productions",
+      "slug": "robin-hood",
+      "has_reactions": true
+    },
+    {
+      "id": "ac9fad97-8579-45ed-931c-0c30271d0087",
+      "title": "The Mouse and His Child",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-mouse-and-his-child",
+      "has_reactions": false
+    },
+    {
+      "id": "b7e36fb4-eaa8-4804-987c-68d1ffa3a22f",
+      "title": "Going Hollywood: The '30s",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "going-hollywood-the-30s",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d9a0c3d0-4dee-4439-b6bf-14b266951b0f",
+  "name": "Ahna Capri",
+  "slug": "ahna-capri",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3iredrvZwzEhvAMNqQ9Gzju5wwN.jpg",
+  "filmography": [
+    {
+      "id": "d969ddcc-17ec-4aa0-9871-7f33b34f4bc0",
+      "title": "Critic's Choice",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "critic-s-choice",
+      "has_reactions": false
+    },
+    {
+      "id": "efa88f77-3601-4894-b16a-3bad1701c58e",
+      "title": "Enter the Dragon",
+      "release_year": 1973,
+      "studio_label": "Concord Productions",
+      "slug": "enter-the-dragon",
+      "has_reactions": true
+    },
+    {
+      "id": "f30aaac8-60b1-47c1-903f-8395e6532b29",
+      "title": "Payday",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "payday",
+      "has_reactions": false
+    }
+  ]
+}

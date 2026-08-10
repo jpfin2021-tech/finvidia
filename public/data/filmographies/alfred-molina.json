@@ -1,0 +1,584 @@
+{
+  "id": "12e5c674-cfea-4cd6-b39e-90c0ac68de67",
+  "name": "Alfred Molina",
+  "slug": "alfred-molina",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg",
+  "filmography": [
+    {
+      "id": "a919b338-f100-4420-9786-e7c3f159c065",
+      "title": "Raiders of the Lost Ark",
+      "release_year": 1981,
+      "studio_label": "Paramount Pictures",
+      "slug": "raiders-of-the-lost-ark",
+      "has_reactions": true
+    },
+    {
+      "id": "b3c3617f-e19c-4e51-bedb-fabe8d88cfcc",
+      "title": "Anyone for Denis",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "anyone-for-denis",
+      "has_reactions": false
+    },
+    {
+      "id": "8fc7f390-ddeb-4542-b734-3912a3d4214f",
+      "title": "Angels in the Annexe",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "angels-in-the-annexe",
+      "has_reactions": false
+    },
+    {
+      "id": "79fdf175-c6ca-4a1a-8e63-2c97c450d9ef",
+      "title": "Ladyhawke",
+      "release_year": 1985,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "ladyhawke",
+      "has_reactions": true
+    },
+    {
+      "id": "d2235cc1-f606-4b1a-8bbf-3aa288bc4116",
+      "title": "Number One",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "number-one",
+      "has_reactions": false
+    },
+    {
+      "id": "27c8c525-edc3-4933-9011-9b5c983f3c6b",
+      "title": "Letter to Brezhnev",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "letter-to-brezhnev",
+      "has_reactions": false
+    },
+    {
+      "id": "934df6dd-d274-447a-b977-eb7c773e258e",
+      "title": "Prick Up Your Ears",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "prick-up-your-ears",
+      "has_reactions": false
+    },
+    {
+      "id": "8549a539-a112-454a-aeb9-f6a56a768f27",
+      "title": "The Accountant",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-accountant",
+      "has_reactions": false
+    },
+    {
+      "id": "a4bdaa76-ff61-4a1b-b0f7-854ddf169353",
+      "title": "Virtuoso",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "virtuoso",
+      "has_reactions": false
+    },
+    {
+      "id": "119ce5a6-df17-4b75-8974-a310225fb293",
+      "title": "Drowning in the Shallow End",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "drowning-in-the-shallow-end",
+      "has_reactions": false
+    },
+    {
+      "id": "f9ed8e21-3268-413d-ba68-0b9140e15a63",
+      "title": "Hancock",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "hancock",
+      "has_reactions": false
+    },
+    {
+      "id": "2ae4f0dd-d39f-48ef-9504-dd2bddb2e024",
+      "title": "Not Without My Daughter",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "not-without-my-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "1b0469ac-9edd-44a0-aaac-426f30bc0ba9",
+      "title": "Trust Me",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "trust-me",
+      "has_reactions": false
+    },
+    {
+      "id": "a1464d74-9386-4266-b8bb-3ad3c0e9719b",
+      "title": "A Very Polish Practice",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "a-very-polish-practice",
+      "has_reactions": false
+    },
+    {
+      "id": "9f66078c-f44e-468f-b201-ad31baf7877a",
+      "title": "The Trial",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-trial",
+      "has_reactions": false
+    },
+    {
+      "id": "46849ef3-a37e-4bef-a4ad-19addbe67709",
+      "title": "Maverick",
+      "release_year": 1994,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "maverick",
+      "has_reactions": true
+    },
+    {
+      "id": "f34b1ab3-7bce-4e5b-a151-d04962a5ea5b",
+      "title": "Cabin Boy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "cabin-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "f9682bfa-d414-4590-84ca-8dec18832706",
+      "title": "Hideaway",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "hideaway",
+      "has_reactions": false
+    },
+    {
+      "id": "6f63fa7d-a716-4747-a59c-d80d2aa62293",
+      "title": "Mojave Moon",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mojave-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "dab38704-075c-4943-9ba2-768bfee50d47",
+      "title": "Scorpion Spring",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "scorpion-spring",
+      "has_reactions": false
+    },
+    {
+      "id": "57d2d35e-cfcf-4985-8015-ef51ecd1b5af",
+      "title": "Before and After",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "before-and-after",
+      "has_reactions": false
+    },
+    {
+      "id": "166209ff-eb31-4de3-bf6d-cde0e01f4df5",
+      "title": "Boogie Nights",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "boogie-nights",
+      "has_reactions": true
+    },
+    {
+      "id": "fa94711d-b3dc-4a59-9db9-78bdff0cfe80",
+      "title": "Anna Karenina",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "anna-karenina",
+      "has_reactions": false
+    },
+    {
+      "id": "6ebb6645-d90e-404f-80ec-c180df7a96bc",
+      "title": "The Treat",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-treat",
+      "has_reactions": false
+    },
+    {
+      "id": "e1279bdb-7f5f-465c-8981-42713116a753",
+      "title": "Dudley Do-Right",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "dudley-do-right",
+      "has_reactions": false
+    },
+    {
+      "id": "79e4e98f-5e22-414b-9465-01239799b45e",
+      "title": "The Miracle Maker",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-miracle-maker",
+      "has_reactions": false
+    },
+    {
+      "id": "a4b967ef-26f3-4016-8285-5e714bbd11cc",
+      "title": "Murder on the Orient Express",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "murder-on-the-orient-express",
+      "has_reactions": false
+    },
+    {
+      "id": "8d0010c1-ca05-4c8d-a2b4-af7e302d2b11",
+      "title": "Texas Rangers",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "texas-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "cd85b5af-4167-47ba-aaab-a1affffc8bc8",
+      "title": "Frida",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "frida",
+      "has_reactions": false
+    },
+    {
+      "id": "63454127-1534-46f4-b321-daf94367787c",
+      "title": "Pete's Meteor",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "pete-s-meteor",
+      "has_reactions": false
+    },
+    {
+      "id": "60048e22-8c93-496e-a36d-a5d62a412ff9",
+      "title": "Undertaking Betty",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "undertaking-betty",
+      "has_reactions": false
+    },
+    {
+      "id": "31c45fb8-e212-4ef1-ae9e-a9919a51e2fe",
+      "title": "Identity",
+      "release_year": 2003,
+      "studio_label": "Konrad Pictures",
+      "slug": "identity",
+      "has_reactions": true
+    },
+    {
+      "id": "e7a7cae1-61cf-4b29-b156-12d384bd199a",
+      "title": "My Life Without Me",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "my-life-without-me",
+      "has_reactions": false
+    },
+    {
+      "id": "d39882b0-d012-44ce-bffe-9ca0b035742a",
+      "title": "Luther",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "luther",
+      "has_reactions": false
+    },
+    {
+      "id": "e037f032-b71c-4058-8b71-99e0222a47af",
+      "title": "Spider-Man 2",
+      "release_year": 2004,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "8e39ddaf-a497-4666-b529-6c417a2552f4",
+      "title": "Coffee and Cigarettes",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "coffee-and-cigarettes",
+      "has_reactions": false
+    },
+    {
+      "id": "36421fa6-780b-4474-a49d-c3fde6065703",
+      "title": "8 Arms to Hold You",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "8-arms-to-hold-you",
+      "has_reactions": false
+    },
+    {
+      "id": "91c24862-93d2-4514-a762-6735b658d96d",
+      "title": "The Da Vinci Code",
+      "release_year": 2006,
+      "studio_label": "Imagine Entertainment",
+      "slug": "the-da-vinci-code",
+      "has_reactions": true
+    },
+    {
+      "id": "f3933e24-4781-4982-b283-88db41a1e83e",
+      "title": "The Ten Commandments",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-ten-commandments",
+      "has_reactions": false
+    },
+    {
+      "id": "82c6f98d-0a01-458d-8225-e5bb80789009",
+      "title": "Chill Out, Scooby-Doo!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "chill-out-scooby-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "0403a558-8ed8-4324-b342-e6cf5afe4a8b",
+      "title": "Silk",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "silk",
+      "has_reactions": false
+    },
+    {
+      "id": "90451803-ddd3-4ef3-950e-a10e3d0e18a7",
+      "title": "The Little Traitor",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-little-traitor",
+      "has_reactions": false
+    },
+    {
+      "id": "55a6001d-59c2-4fec-b87f-b470f7038562",
+      "title": "The Pink Panther 2",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-pink-panther-2",
+      "has_reactions": false
+    },
+    {
+      "id": "cd2ce81c-aaca-43ec-8a26-582022b2abe9",
+      "title": "Wonder Woman",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "wonder-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "ec2c5665-4374-4813-9abe-d3c3e488bebe",
+      "title": "The Sorcerer's Apprentice",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-sorcerer-s-apprentice",
+      "has_reactions": false
+    },
+    {
+      "id": "3dd051b7-df68-4eab-b313-60e4ce2683ab",
+      "title": "The Tempest",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-tempest",
+      "has_reactions": false
+    },
+    {
+      "id": "4439ae7a-b8ff-46ec-a36f-e50e858dbf42",
+      "title": "Rango",
+      "release_year": 2011,
+      "studio_label": "Paramount Pictures",
+      "slug": "rango",
+      "has_reactions": true
+    },
+    {
+      "id": "43368082-8bef-451a-96c1-19090dc0344d",
+      "title": "The Forger",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-forger",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3b6c16-25d5-4ed7-8f2f-f07f1ae780d8",
+      "title": "Innocent",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "innocent",
+      "has_reactions": false
+    },
+    {
+      "id": "c355c702-40e1-44da-a8f9-d03ff8eb9305",
+      "title": "A Whisper to a Roar",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-whisper-to-a-roar",
+      "has_reactions": false
+    },
+    {
+      "id": "2a2cc159-5840-4d5f-8a09-7977fdc2a5a8",
+      "title": "Serena",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "serena",
+      "has_reactions": false
+    },
+    {
+      "id": "b1c7233b-b7ca-4365-aac1-6581c51727a4",
+      "title": "Loving Miss Hatto",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "loving-miss-hatto",
+      "has_reactions": false
+    },
+    {
+      "id": "b1d9b7aa-45ab-453e-a5cc-32f41bf9073a",
+      "title": "Justin and the Knights of Valour",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "justin-and-the-knights-of-valour",
+      "has_reactions": false
+    },
+    {
+      "id": "853b5019-36db-47e0-919a-1f02a8b80fae",
+      "title": "The Truth About Emanuel",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-truth-about-emanuel",
+      "has_reactions": false
+    },
+    {
+      "id": "62c976f5-0fb7-4031-9cbc-7afd78053d1b",
+      "title": "Monsters University",
+      "release_year": 2013,
+      "studio_label": "Pixar",
+      "slug": "monsters-university",
+      "has_reactions": true
+    },
+    {
+      "id": "c3bbd40b-8263-4408-9108-e6522d8ac1bb",
+      "title": "The Normal Heart",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-normal-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a0439a-f703-44d8-b03d-251bc223072b",
+      "title": "Swelter",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "swelter",
+      "has_reactions": false
+    },
+    {
+      "id": "e9f9b783-ac45-4c51-873f-aff95c0faf44",
+      "title": "Return to Zero",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "return-to-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "e12753a7-79fa-47db-a535-9aee4126a4c5",
+      "title": "Kahlil Gibran's The Prophet",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kahlil-gibran-s-the-prophet",
+      "has_reactions": false
+    },
+    {
+      "id": "c0257345-5f4d-44f7-b218-9947cc3473ed",
+      "title": "Heavenly Sword",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "heavenly-sword",
+      "has_reactions": false
+    },
+    {
+      "id": "94ff8a54-648f-4e46-9fad-c6f716f15e73",
+      "title": "Strange Magic",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "strange-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "02702c45-9007-475d-8fed-3ea8538a2bb6",
+      "title": "Sister Cities",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "sister-cities",
+      "has_reactions": false
+    },
+    {
+      "id": "7285927b-4516-4532-a12e-f6e9fc8be0a4",
+      "title": "Message from the King",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "message-from-the-king",
+      "has_reactions": false
+    },
+    {
+      "id": "4565b506-5106-4737-8fa6-c1fd3064330c",
+      "title": "Vice",
+      "release_year": 2018,
+      "studio_label": "Annapurna Pictures",
+      "slug": "vice",
+      "has_reactions": false
+    },
+    {
+      "id": "aede1ef9-86d1-456c-a2a5-2ceacf51ef17",
+      "title": "Quality Problems",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "quality-problems",
+      "has_reactions": false
+    },
+    {
+      "id": "83439c95-73ef-4bd7-8134-d5114b7671f6",
+      "title": "Lino Tagliapietra: The Making of a Maestro",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "lino-tagliapietra-the-making-of-a-maestro",
+      "has_reactions": false
+    },
+    {
+      "id": "b70ff2f5-9241-4f60-b3c6-dc2747a18838",
+      "title": "Spider-Man: No Way Home",
+      "release_year": 2021,
+      "studio_label": "Marvel Studios",
+      "slug": "spider-man-no-way-home",
+      "has_reactions": true
+    },
+    {
+      "id": "5fbf853a-6789-4e00-805e-a232678c7b49",
+      "title": "PAW Patrol. Mission Xmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "paw-patrol-mission-xmas",
+      "has_reactions": false
+    },
+    {
+      "id": "c6bb18d6-c106-4ed9-adf0-7e30b08ff67e",
+      "title": "Spider-Man: All Roads Lead to No Way Home",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "spider-man-all-roads-lead-to-no-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "da4c4281-d0a5-45f5-a873-99e461abe5bf",
+      "title": "No Way Home",
+      "release_year": 2023,
+      "studio_label": "Giantland Films",
+      "slug": "no-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "4ac08427-16e7-44d5-a484-f82bbed381c4",
+      "title": "Flutter",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "flutter",
+      "has_reactions": false
+    },
+    {
+      "id": "0b8cd8fe-187d-4876-8194-939426a04173",
+      "title": "When We Get There",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "when-we-get-there",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6410fe85-8bb1-4d01-a604-8bb43486ce0c",
+  "name": "Sam Hardy",
+  "slug": "sam-hardy",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/apfpDL4fW9MXgcuXoJFYEJmY8IK.jpg",
+  "filmography": [
+    {
+      "id": "f3b8d7ea-f718-4f05-a3e6-5ae34f6f7090",
+      "title": "King Kong",
+      "release_year": 1933,
+      "studio_label": "RKO Radio Pictures",
+      "slug": "king-kong",
+      "has_reactions": true
+    },
+    {
+      "id": "82c28096-c300-476d-a013-1d29b83f6557",
+      "title": "Vita & Virginia",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "vita-virginia",
+      "has_reactions": false
+    },
+    {
+      "id": "4c793e0d-0e86-4cb2-8782-d16f09fad51b",
+      "title": "Riverdance: The Animated Adventure",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "riverdance-the-animated-adventure",
+      "has_reactions": false
+    }
+  ]
+}

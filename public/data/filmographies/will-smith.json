@@ -1,0 +1,496 @@
+{
+  "id": "d95be474-44c7-43b2-bf0a-44d91862280f",
+  "name": "Will Smith",
+  "slug": "will-smith",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg",
+  "filmography": [
+    {
+      "id": "75942522-8f0d-4a7f-8027-05ec5d884d4c",
+      "title": "Fast and Loose",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "fast-and-loose",
+      "has_reactions": false
+    },
+    {
+      "id": "718bfaf5-58c4-4f17-8acb-e37ab8ffe513",
+      "title": "Will Smith Budapest",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "will-smith-budapest",
+      "has_reactions": false
+    },
+    {
+      "id": "fc52b09a-8a74-47d9-90c4-879130736b2c",
+      "title": "Night of 100 Stars III",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "night-of-100-stars-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "7cb078b7-4bf3-4144-851e-83bceca9f0a8",
+      "title": "Disneyland's 35th Anniversary Celebration",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "disneyland-s-35th-anniversary-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "89e0ef57-b6e4-466c-b9d5-50de9d462755",
+      "title": "The Earth Day Special",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-earth-day-special",
+      "has_reactions": false
+    },
+    {
+      "id": "f02ee30d-6fa5-4803-99ba-7b12d0c7c80c",
+      "title": "Where the Day Takes You",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "where-the-day-takes-you",
+      "has_reactions": false
+    },
+    {
+      "id": "c5559532-53b9-4576-8dcb-e3e52d0d1bc1",
+      "title": "Bad Boys",
+      "release_year": 1995,
+      "studio_label": "Columbia Pictures",
+      "slug": "bad-boys",
+      "has_reactions": true
+    },
+    {
+      "id": "569286cd-9069-4492-b679-d998e77fd748",
+      "title": "Independence Day",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "independence-day",
+      "has_reactions": true
+    },
+    {
+      "id": "6398344a-993d-40ed-a237-6c3777ef9c8b",
+      "title": "The Making of 'Independence Day'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-independence-day",
+      "has_reactions": false
+    },
+    {
+      "id": "cb24fe4e-b73b-44a5-b181-2c155f2309c6",
+      "title": "Independence Day: The ID4 Invasion",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "independence-day-the-id4-invasion",
+      "has_reactions": false
+    },
+    {
+      "id": "d3ffe1fd-5c15-4561-9470-c323e4ce2e51",
+      "title": "Men in Black",
+      "release_year": 1997,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black",
+      "has_reactions": true
+    },
+    {
+      "id": "67f1b054-f31a-4d96-8fbe-9aaba6d6b227",
+      "title": "Enemy of the State",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "enemy-of-the-state",
+      "has_reactions": true
+    },
+    {
+      "id": "be0e94cc-e018-42b4-9f48-889b000f13d5",
+      "title": "Roswell Top Secret",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "roswell-top-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "c247db44-5bd5-4cb5-8693-38b1b44fa1c9",
+      "title": "Wild Wild West: Good Guys Gadgets",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-good-guys-gadgets",
+      "has_reactions": false
+    },
+    {
+      "id": "031ccff8-c2b4-43f4-8029-33c2844ddc44",
+      "title": "Torrance Rises",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "torrance-rises",
+      "has_reactions": false
+    },
+    {
+      "id": "08089e31-35a9-43a9-a168-f05f13a1f96f",
+      "title": "Wild Wild West: Wardrobes of the West",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-wardrobes-of-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b422eb-5177-40ab-a040-97c3581ae870",
+      "title": "It's a Whole New West: The Making of 'Wild, Wild West'",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-whole-new-west-the-making-of-wild-wild-west",
+      "has_reactions": false
+    },
+    {
+      "id": "c7b4e43b-0969-4028-a6be-444d138cc819",
+      "title": "From Star Wars to Star Wars: The Story of Industrial Light & Magic",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "from-star-wars-to-star-wars-the-story-of-industrial-light-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "a9e9b083-03d8-47c4-83a7-2890d94665b3",
+      "title": "Boom! Hollywood's Greatest Disaster Movies",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "boom-hollywood-s-greatest-disaster-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b1c006-eba9-4aa3-86c6-29bef923fa8d",
+      "title": "Ali",
+      "release_year": 2001,
+      "studio_label": "Columbia Pictures",
+      "slug": "ali",
+      "has_reactions": true
+    },
+    {
+      "id": "eced2810-b1ea-407f-8a82-abfe873524db",
+      "title": "Men in Black II",
+      "release_year": 2002,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "37c583ed-21b8-456d-b31f-5fe85300abe4",
+      "title": "MIB ADR",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mib-adr",
+      "has_reactions": false
+    },
+    {
+      "id": "e64b5806-035a-4ec2-85a6-736a4b790f5b",
+      "title": "Bad Boys II",
+      "release_year": 2003,
+      "studio_label": "Columbia Pictures",
+      "slug": "bad-boys-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "c0a08cf9-31d2-43d0-b6e9-fc080936622b",
+      "title": "I, Robot",
+      "release_year": 2004,
+      "studio_label": "Davis Entertainment",
+      "slug": "i-robot",
+      "has_reactions": true
+    },
+    {
+      "id": "5056d292-fa26-4fa2-aa10-044b298bb708",
+      "title": "Shark Tale",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "shark-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "ed985371-cc59-49a4-9944-a75852c33ee4",
+      "title": "Hitch",
+      "release_year": 2005,
+      "studio_label": "Columbia Pictures",
+      "slug": "hitch",
+      "has_reactions": true
+    },
+    {
+      "id": "3e00b968-54f3-4c0d-b47c-2d61cfae2d6b",
+      "title": "Club Oscar",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "club-oscar",
+      "has_reactions": false
+    },
+    {
+      "id": "b22479f1-dc6c-4a51-aedb-b077d6cf9518",
+      "title": "Will Smith: Live in Concert",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "will-smith-live-in-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "69271131-5ba8-4b96-a750-25fdbc290cf2",
+      "title": "The Pursuit of Happyness",
+      "release_year": 2006,
+      "studio_label": "Escape Artists",
+      "slug": "the-pursuit-of-happyness",
+      "has_reactions": true
+    },
+    {
+      "id": "cbe92ddd-9b42-4b46-8d39-d48b1507dbee",
+      "title": "I Am Legend",
+      "release_year": 2007,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "i-am-legend",
+      "has_reactions": true
+    },
+    {
+      "id": "afc09294-b6b2-4cc0-81a8-67d0a1a706f8",
+      "title": "Father and Son: On Screen and Off",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "father-and-son-on-screen-and-off",
+      "has_reactions": false
+    },
+    {
+      "id": "9009397b-b4c0-48d1-90fa-5d7931d53475",
+      "title": "Making Pursuit: An Italian Take on the American Dream",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "making-pursuit-an-italian-take-on-the-american-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "18a2c630-c72d-4855-a60e-909eb0f5b828",
+      "title": "Hancock",
+      "release_year": 2008,
+      "studio_label": "Columbia Pictures",
+      "slug": "hancock",
+      "has_reactions": true
+    },
+    {
+      "id": "ec04ac17-e889-4f98-b67c-b26d2d64fc9b",
+      "title": "Men in Black 3",
+      "release_year": 2012,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-3",
+      "has_reactions": true
+    },
+    {
+      "id": "66574c34-31a6-41b7-96d0-0d7756946a97",
+      "title": "After Earth: 1,000 Years in 300 Seconds",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "after-earth-1-000-years-in-300-seconds",
+      "has_reactions": false
+    },
+    {
+      "id": "abaa1b4a-7c41-4e1f-980a-e5dc419f0bd5",
+      "title": "After Earth: A Father's Legacy",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "after-earth-a-father-s-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "f4851432-ee8e-4a54-b7a2-7e3e08b5e3cc",
+      "title": "Focus",
+      "release_year": 2015,
+      "studio_label": "RatPac Entertainment",
+      "slug": "focus",
+      "has_reactions": true
+    },
+    {
+      "id": "31642885-e4f6-4b23-959b-7d17f8f92abe",
+      "title": "Suicide Squad",
+      "release_year": 2016,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "suicide-squad",
+      "has_reactions": true
+    },
+    {
+      "id": "637664bb-12a5-4668-88d3-eba08c0899a7",
+      "title": "Collateral Beauty",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "collateral-beauty",
+      "has_reactions": false
+    },
+    {
+      "id": "0c49587c-02dc-48c2-a604-2b329ef1bd9c",
+      "title": "DC Films Presents Dawn of the Justice League",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dc-films-presents-dawn-of-the-justice-league",
+      "has_reactions": false
+    },
+    {
+      "id": "c3f5a2a0-548b-4cb0-b406-6022ba3160e4",
+      "title": "National Museum of African American History and Culture Grand Opening Ceremony",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "national-museum-of-african-american-history-and-culture-grand-opening-ceremony",
+      "has_reactions": false
+    },
+    {
+      "id": "e9ac9de3-a3e1-460f-a9e4-4e291e41abe1",
+      "title": "Bright",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "bright",
+      "has_reactions": false
+    },
+    {
+      "id": "1b0c330b-b970-45a3-a8a6-f1e7a8123b84",
+      "title": "Quincy",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "quincy",
+      "has_reactions": false
+    },
+    {
+      "id": "600f0bc4-05c0-4966-9a57-d9dbe759e376",
+      "title": "Student of the Year 2",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "student-of-the-year-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9aea11-57f5-45a7-a1f6-a91fc854509f",
+      "title": "Spies in Disguise",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "spies-in-disguise",
+      "has_reactions": false
+    },
+    {
+      "id": "17c08663-1e4b-4dde-b4d3-e88a6947e94e",
+      "title": "Aladdin",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "aladdin",
+      "has_reactions": false
+    },
+    {
+      "id": "b478d182-7806-4e80-916b-92df136f544c",
+      "title": "Dads",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dads",
+      "has_reactions": false
+    },
+    {
+      "id": "4fba3bf4-4569-4036-93d5-9a0ac480537a",
+      "title": "Gemini Man",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "gemini-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f60c20dc-f184-4f3e-a3ab-4752d2e1bd6e",
+      "title": "Jon Bellion | Behind the Scenes of 'Glory Sound Prep'",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "jon-bellion-behind-the-scenes-of-glory-sound-prep",
+      "has_reactions": false
+    },
+    {
+      "id": "928fa388-0372-4b6a-8332-d2acd3595521",
+      "title": "Bad Boys for Life",
+      "release_year": 2020,
+      "studio_label": "Columbia Pictures",
+      "slug": "bad-boys-for-life",
+      "has_reactions": true
+    },
+    {
+      "id": "2c2170e1-80c1-4201-8669-ddbf6db9dd9f",
+      "title": "The Fresh Prince of Bel-Air Reunion",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-fresh-prince-of-bel-air-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "c3967c72-bedd-4cd2-8569-4022012c122b",
+      "title": "David Blaine: Ascension",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "david-blaine-ascension",
+      "has_reactions": false
+    },
+    {
+      "id": "49faabf6-6738-456b-b021-7d4e2f99812d",
+      "title": "Hormigueddon",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "hormigueddon",
+      "has_reactions": false
+    },
+    {
+      "id": "54b4ca51-8c12-4f50-b258-37fd02ff9643",
+      "title": "Will Smith: The Prince of Hollywood",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "will-smith-the-prince-of-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "71942876-3a8d-4cfb-87a7-e8954d8ba645",
+      "title": "Jackie Chan: Building an Icon",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "jackie-chan-building-an-icon",
+      "has_reactions": false
+    },
+    {
+      "id": "e996975e-e5ba-4a3c-a070-b547374d0e19",
+      "title": "King Richard",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "king-richard",
+      "has_reactions": false
+    },
+    {
+      "id": "5089e0ed-6387-45fb-aa24-1085c8f18b94",
+      "title": "Emancipation",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "emancipation",
+      "has_reactions": false
+    },
+    {
+      "id": "0978e43c-bfd6-42dc-af2a-395fe27d4ed9",
+      "title": "Bad Boys: Ride or Die",
+      "release_year": 2024,
+      "studio_label": "Westbrook",
+      "slug": "bad-boys-ride-or-die",
+      "has_reactions": true
+    },
+    {
+      "id": "90d16641-02ab-403f-b6f8-a3d5d2743724",
+      "title": "El cuarto round",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "el-cuarto-round",
+      "has_reactions": false
+    },
+    {
+      "id": "f1758ccb-c353-439d-ac23-db7e0f7537ad",
+      "title": "Quincy Jones, Music Man",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "quincy-jones-music-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e67648a8-8dd9-4d7f-83f2-e94e708cf96b",
+      "title": "Andrea Bocelli - The Celebration\uff1a30th Anniversary",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "andrea-bocelli-the-celebration-30th-anniversary",
+      "has_reactions": false
+    }
+  ]
+}

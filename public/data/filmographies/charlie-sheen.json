@@ -1,0 +1,528 @@
+{
+  "id": "7be6eb45-1f8c-4483-944a-79f80bdfdb8a",
+  "name": "Charlie Sheen",
+  "slug": "charlie-sheen",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/48GB5aISoibd9IYXBO40jrSgFRl.jpg",
+  "filmography": [
+    {
+      "id": "bbfab7e9-9e51-4257-887a-a9ade7dea6d0",
+      "title": "Badlands",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "badlands",
+      "has_reactions": false
+    },
+    {
+      "id": "52dc24f8-e42e-4b42-9d63-07ced7a9d6f3",
+      "title": "Red Dawn",
+      "release_year": 1984,
+      "studio_label": "United Artists",
+      "slug": "red-dawn",
+      "has_reactions": true
+    },
+    {
+      "id": "0471c551-03dd-4be6-bc4e-4ff48df157c5",
+      "title": "Silence of the Heart",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "silence-of-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "17454892-8b18-4326-9cf0-cb585a640882",
+      "title": "The Fourth Wise Man",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-fourth-wise-man",
+      "has_reactions": false
+    },
+    {
+      "id": "cb068e87-7d70-47b4-8282-2b16cb6fd41a",
+      "title": "Out of the Darkness",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "out-of-the-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "3242bb07-8749-4732-907b-d64522786a3e",
+      "title": "Platoon",
+      "release_year": 1986,
+      "studio_label": "Hemdale Film Corporation",
+      "slug": "platoon",
+      "has_reactions": true
+    },
+    {
+      "id": "4fa61c91-e719-4a46-9dff-a515753b5eef",
+      "title": "The Wraith",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-wraith",
+      "has_reactions": false
+    },
+    {
+      "id": "28a3a93c-1127-4f6f-ab37-9c1022017d8c",
+      "title": "The Boys Next Door",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-boys-next-door",
+      "has_reactions": false
+    },
+    {
+      "id": "f1328194-70b3-478d-b297-78cea930caa1",
+      "title": "Lucas",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "lucas",
+      "has_reactions": false
+    },
+    {
+      "id": "c5939f66-1650-447a-9c1d-82faf05a368a",
+      "title": "Wisdom",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wisdom",
+      "has_reactions": false
+    },
+    {
+      "id": "d31012b8-a0db-4080-ba58-4246999c9b5d",
+      "title": "Ferris Bueller's Day Off",
+      "release_year": 1986,
+      "studio_label": "Paramount Pictures",
+      "slug": "ferris-bueller-s-day-off",
+      "has_reactions": true
+    },
+    {
+      "id": "9fc97781-6491-4978-9034-6d323b0815b8",
+      "title": "Wall Street",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "wall-street",
+      "has_reactions": false
+    },
+    {
+      "id": "dfddbd59-16a2-47b1-a0f0-ebe51d756208",
+      "title": "Three for the Road",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "three-for-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "b74490a8-a4f2-4eee-a1b2-61e9771b76e7",
+      "title": "Young Guns",
+      "release_year": 1988,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "young-guns",
+      "has_reactions": true
+    },
+    {
+      "id": "57eede2f-4a73-4f2b-a9db-3558499d6c43",
+      "title": "Major League",
+      "release_year": 1989,
+      "studio_label": "Mirage Enterprises",
+      "slug": "major-league",
+      "has_reactions": true
+    },
+    {
+      "id": "053a8239-55aa-41e8-88bc-af54ad003e90",
+      "title": "Never on Tuesday",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "never-on-tuesday",
+      "has_reactions": false
+    },
+    {
+      "id": "911a93a3-3076-4fb0-a48d-62b70203034b",
+      "title": "Tale of Two Sisters",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "tale-of-two-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "5c94242d-6bf2-4fd7-82bc-2b9cf7701af1",
+      "title": "Cadence",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cadence",
+      "has_reactions": false
+    },
+    {
+      "id": "da456a7c-cdf8-40b1-80b0-53ee4a93aaee",
+      "title": "Courage Mountain",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "courage-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "4cb3023f-688d-4336-a859-34bb3bfad417",
+      "title": "Men at Work",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "men-at-work",
+      "has_reactions": false
+    },
+    {
+      "id": "2b9a16c9-52e6-419a-85f1-0bc5702afd7c",
+      "title": "Catchfire",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "catchfire",
+      "has_reactions": false
+    },
+    {
+      "id": "f1a2e3da-a8e0-4c6b-91c6-14e63f74ae85",
+      "title": "Hot Shots!",
+      "release_year": 1991,
+      "studio_label": "20th Century Fox",
+      "slug": "hot-shots",
+      "has_reactions": true
+    },
+    {
+      "id": "78cf86bd-2127-4e1f-9be9-e24587463b37",
+      "title": "Hearts of Hot Shots! Part Deux\u2014A Filmmaker's Apology",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "hearts-of-hot-shots-part-deux-a-filmmaker-s-apology",
+      "has_reactions": false
+    },
+    {
+      "id": "62841885-3841-4fe2-92f8-b9a6d16d1f68",
+      "title": "The Three Musketeers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "44d8d1da-ccd5-46ea-9888-df273ad1bc98",
+      "title": "Beyond the Law",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-law",
+      "has_reactions": false
+    },
+    {
+      "id": "95c4a08d-0857-4f38-9459-294f1004d35b",
+      "title": "Hot Shots! Part Deux",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "hot-shots-part-deux",
+      "has_reactions": false
+    },
+    {
+      "id": "48b0b09b-440a-481e-9746-095d4fff1e1d",
+      "title": "Deadfall",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "deadfall",
+      "has_reactions": false
+    },
+    {
+      "id": "27ae5197-5b08-4e85-a8b7-1e1a468629cb",
+      "title": "Terminal Velocity",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "terminal-velocity",
+      "has_reactions": false
+    },
+    {
+      "id": "4c1164e2-9480-4c84-8cdb-28c23ac658a4",
+      "title": "Major League II",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "major-league-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "7daf58d1-72ec-42ca-b7f0-ccdb1b0d9049",
+      "title": "Charlie Sheen's Stunts Spectacular",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "charlie-sheen-s-stunts-spectacular",
+      "has_reactions": false
+    },
+    {
+      "id": "09a5b7ad-a8c5-4a9e-a5d0-929f63bcf80a",
+      "title": "All Dogs Go to Heaven 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "all-dogs-go-to-heaven-2",
+      "has_reactions": false
+    },
+    {
+      "id": "59ccb7fb-917e-4e18-abbc-4e6e1c670d9f",
+      "title": "The Arrival",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-arrival",
+      "has_reactions": false
+    },
+    {
+      "id": "f5253f9e-8338-41b4-918e-a282a95bbfe3",
+      "title": "Money Talks",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "money-talks",
+      "has_reactions": true
+    },
+    {
+      "id": "3405349b-b86b-4d2c-80f6-3c0f9092a212",
+      "title": "Shadow Conspiracy",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "shadow-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "97165269-420a-4a81-81a6-a20de9454012",
+      "title": "Tudjman",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "tudjman",
+      "has_reactions": false
+    },
+    {
+      "id": "158fa155-186e-4ab6-be2a-f408cc8e1b13",
+      "title": "Under Pressure",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "under-pressure",
+      "has_reactions": false
+    },
+    {
+      "id": "d68f6d99-c3cd-46d8-bcd1-d82045b43d65",
+      "title": "How To Become A Hollywood Stuntman",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "how-to-become-a-hollywood-stuntman",
+      "has_reactions": false
+    },
+    {
+      "id": "b79d65e5-ce9a-4332-a89f-500885e314df",
+      "title": "Postmortem",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "postmortem",
+      "has_reactions": false
+    },
+    {
+      "id": "e845464f-f87e-4a3a-90bc-6e8d25770af8",
+      "title": "No Code of Conduct",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "no-code-of-conduct",
+      "has_reactions": false
+    },
+    {
+      "id": "115eefeb-4c88-49e8-97a6-7a9ba8ce2a23",
+      "title": "Being John Malkovich",
+      "release_year": 1999,
+      "studio_label": "Propaganda Films",
+      "slug": "being-john-malkovich",
+      "has_reactions": true
+    },
+    {
+      "id": "00ce45b5-5d84-4fec-93ab-912f1e7b4c48",
+      "title": "Five Aces",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "five-aces",
+      "has_reactions": false
+    },
+    {
+      "id": "2c7d3cdf-b25a-47e1-bbff-c7977f9d6b85",
+      "title": "Rated X",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rated-x",
+      "has_reactions": false
+    },
+    {
+      "id": "0765f0dc-7e32-496c-87fa-c3ade947986a",
+      "title": "Lisa Picard Is Famous",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lisa-picard-is-famous",
+      "has_reactions": false
+    },
+    {
+      "id": "8a89a3ef-809f-4401-9836-4a4d823e6ab8",
+      "title": "A Tour of the Inferno: Revisiting 'Platoon'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-tour-of-the-inferno-revisiting-platoon",
+      "has_reactions": false
+    },
+    {
+      "id": "f4286494-de2e-4250-9235-5259fd15186d",
+      "title": "Saturday Night Live: The Best of Will Ferrell",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-will-ferrell",
+      "has_reactions": false
+    },
+    {
+      "id": "1b1fefc9-c45b-40ee-bfa8-f1f29631297b",
+      "title": "Scary Movie 3",
+      "release_year": 2003,
+      "studio_label": "Brad Grey Pictures",
+      "slug": "scary-movie-3",
+      "has_reactions": true
+    },
+    {
+      "id": "0f726d6d-39ed-4d0b-b783-eca554f22336",
+      "title": "Pauly Shore Is Dead",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "pauly-shore-is-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "78571798-15f1-4342-944a-f9c2e04f6217",
+      "title": "The Big Bounce",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-big-bounce",
+      "has_reactions": false
+    },
+    {
+      "id": "59c5bea9-72c6-40a2-8097-40b5f68ab183",
+      "title": "Scary Movie 4",
+      "release_year": 2006,
+      "studio_label": "Dimension Films",
+      "slug": "scary-movie-4",
+      "has_reactions": true
+    },
+    {
+      "id": "1bbbf31c-d826-4e36-a7c9-7c947a2b600b",
+      "title": "Guilty Hearts",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "guilty-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "0e333bef-d47d-4aa9-b00a-1d00f981ec66",
+      "title": "Comedy Central Roast of Charlie Sheen",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-charlie-sheen",
+      "has_reactions": false
+    },
+    {
+      "id": "998b02c0-91da-44c3-82f0-2ec3e608cd98",
+      "title": "She Wants Me",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "she-wants-me",
+      "has_reactions": false
+    },
+    {
+      "id": "a198f880-480b-406f-877e-de33ae7f17b2",
+      "title": "Foodfight!",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "foodfight",
+      "has_reactions": false
+    },
+    {
+      "id": "90d5eb70-a1d1-4a01-9a41-95d20b2ea12d",
+      "title": "Madea's Witness Protection",
+      "release_year": 2012,
+      "studio_label": "Tyler Perry Studios",
+      "slug": "madea-s-witness-protection",
+      "has_reactions": true
+    },
+    {
+      "id": "4ca7d550-02a9-44b1-9835-13f0435846da",
+      "title": "Scary Movie 5",
+      "release_year": 2013,
+      "studio_label": "Dimension Films",
+      "slug": "scary-movie-5",
+      "has_reactions": true
+    },
+    {
+      "id": "78df52a8-24c0-4dbe-b436-0ef90696fc77",
+      "title": "Machete Kills",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "machete-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "e28800ec-94d2-442c-acd8-f71ee4c16ee7",
+      "title": "Brothers in War",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-war",
+      "has_reactions": false
+    },
+    {
+      "id": "f42dbb51-49df-4d55-99a1-0afed51fa89c",
+      "title": "Must See TV: An All Star Tribute to James Burrows",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "must-see-tv-an-all-star-tribute-to-james-burrows",
+      "has_reactions": false
+    },
+    {
+      "id": "83999c32-7f14-4f25-bae2-eaf928d761a9",
+      "title": "Mad Families",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "mad-families",
+      "has_reactions": false
+    },
+    {
+      "id": "4f8875e6-210c-49fa-8e7a-f67e7f3efe05",
+      "title": "I Am Sam Kinison",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "i-am-sam-kinison",
+      "has_reactions": false
+    },
+    {
+      "id": "7c32fd11-ffdf-49e5-8458-5a6fc8fb5836",
+      "title": "9/11",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "9-11",
+      "has_reactions": false
+    },
+    {
+      "id": "58ad72bf-b81f-4446-b85b-2634b163c5dd",
+      "title": "Brothers in Arms",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "5f0686cd-ebee-4707-a1ea-b2fcec4115fe",
+      "title": "#NoJoke",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "nojoke",
+      "has_reactions": false
+    },
+    {
+      "id": "c4b278d6-081d-4a41-935c-d2f991b5b255",
+      "title": "Race Against Time",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "race-against-time",
+      "has_reactions": false
+    },
+    {
+      "id": "9f2ec32b-95d5-45d2-ab07-c33df555b5c5",
+      "title": "My Truth: The Rape of 2 Coreys",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "my-truth-the-rape-of-2-coreys",
+      "has_reactions": false
+    }
+  ]
+}

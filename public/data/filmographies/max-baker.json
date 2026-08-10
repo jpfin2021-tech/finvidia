@@ -1,0 +1,48 @@
+{
+  "id": "1f28330e-e186-42fa-8313-ce4f239ff300",
+  "name": "Max Baker",
+  "slug": "max-baker",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/z3hNp4zntZJVQPBUd08IXSAiWAL.jpg",
+  "filmography": [
+    {
+      "id": "740ac46e-bd2e-411a-af7d-2c8f9f54a07c",
+      "title": "Constantine",
+      "release_year": 2005,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "constantine",
+      "has_reactions": true
+    },
+    {
+      "id": "3634846e-5a70-407e-a795-a822f354ccab",
+      "title": "The Island",
+      "release_year": 2005,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "the-island",
+      "has_reactions": true
+    },
+    {
+      "id": "c3405e47-1f8f-420b-876b-23dd8125a94b",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "release_year": 2006,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "pirates-of-the-caribbean-dead-man-s-chest",
+      "has_reactions": true
+    },
+    {
+      "id": "599575b7-8804-481b-bf7b-234e33e48398",
+      "title": "Revolutionary Road",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "revolutionary-road",
+      "has_reactions": false
+    },
+    {
+      "id": "8446af64-d3df-40a3-bded-0766a8f89cb1",
+      "title": "The Tragedy of Macbeth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-tragedy-of-macbeth",
+      "has_reactions": false
+    }
+  ]
+}

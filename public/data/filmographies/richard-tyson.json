@@ -1,0 +1,584 @@
+{
+  "id": "428071e4-7bc2-405d-a122-5157dab4703c",
+  "name": "Richard Tyson",
+  "slug": "richard-tyson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg",
+  "filmography": [
+    {
+      "id": "47ca6417-31d3-4a88-aa05-2073f04ac79e",
+      "title": "Two Moon Junction",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "two-moon-junction",
+      "has_reactions": false
+    },
+    {
+      "id": "f95c0c32-0aba-4802-878c-c91ad5f580df",
+      "title": "Kindergarten Cop",
+      "release_year": 1990,
+      "studio_label": "Universal Pictures",
+      "slug": "kindergarten-cop",
+      "has_reactions": true
+    },
+    {
+      "id": "a4fe00b5-74d9-4fd4-9158-d68a9bebdc23",
+      "title": "The Babe",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-babe",
+      "has_reactions": false
+    },
+    {
+      "id": "045af32f-54ff-4d70-80b3-90d89f16026e",
+      "title": "Red Shoe Diaries 3: Another Woman's Lipstick",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "red-shoe-diaries-3-another-woman-s-lipstick",
+      "has_reactions": false
+    },
+    {
+      "id": "f17cd5df-9945-4e5c-a49f-3efabba0ea76",
+      "title": "Dark Tide",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "dark-tide",
+      "has_reactions": false
+    },
+    {
+      "id": "d060c8d7-aed0-4e73-a017-54b628592573",
+      "title": "Kingpin",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "kingpin",
+      "has_reactions": false
+    },
+    {
+      "id": "dccf04f2-6e0a-4a50-b08f-7a52909f6fb3",
+      "title": "The Glass Cage",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-glass-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "e5fc0183-7a00-4ef1-b97a-bedc4f9d98b1",
+      "title": "Time Under Fire",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "time-under-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "854c638a-4693-49b0-88c9-1765a3d5b762",
+      "title": "Desert Thunder",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "desert-thunder",
+      "has_reactions": false
+    },
+    {
+      "id": "37961655-49a7-4409-b4bc-190156e8212a",
+      "title": "The Pandora Project",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-pandora-project",
+      "has_reactions": false
+    },
+    {
+      "id": "485036b4-f4ef-40a6-a344-b624ebed64fe",
+      "title": "There's Something About Mary",
+      "release_year": 1998,
+      "studio_label": "20th Century Fox",
+      "slug": "there-s-something-about-mary",
+      "has_reactions": true
+    },
+    {
+      "id": "ff449847-30d8-4797-ba3e-18238cbd13b7",
+      "title": "Monsoon",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "monsoon",
+      "has_reactions": false
+    },
+    {
+      "id": "c1566847-d339-44f7-bdda-a78b9c48dc1d",
+      "title": "Liar's Poker",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "liar-s-poker",
+      "has_reactions": false
+    },
+    {
+      "id": "627bfbab-54d6-4505-9e95-051c49708e47",
+      "title": "Lakota Moon",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "lakota-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "6e0a909f-7b49-45f6-80a6-e7c0b2d234fa",
+      "title": "Me, Myself & Irene",
+      "release_year": 2000,
+      "studio_label": "Conundrum Entertainment",
+      "slug": "me-myself-irene",
+      "has_reactions": true
+    },
+    {
+      "id": "e97cfdb9-ec64-4b4e-9a15-dfad485e40f4",
+      "title": "Battlefield Earth",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "battlefield-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "2cf89372-cb96-45a2-a257-1d69c782596f",
+      "title": "Firetrap",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "firetrap",
+      "has_reactions": false
+    },
+    {
+      "id": "9b2eb3e6-0b42-412a-b495-a09bda7f306b",
+      "title": "Black Hawk Down",
+      "release_year": 2001,
+      "studio_label": "Jerry Bruckheimer Films",
+      "slug": "black-hawk-down",
+      "has_reactions": true
+    },
+    {
+      "id": "f5501fae-08a3-4ab0-bf75-7a937dd29bb3",
+      "title": "Dying on the Edge",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "dying-on-the-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "5c212633-d18b-48a6-a757-bfc86721c4b9",
+      "title": "Lethal Force 2000",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "lethal-force-2000",
+      "has_reactions": false
+    },
+    {
+      "id": "9a634424-fbe0-4466-8163-8a85a484057b",
+      "title": "Moscow Heat",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "moscow-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "e156b51c-6b95-46fa-887e-8600d6757041",
+      "title": "Last Flight Out",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "last-flight-out",
+      "has_reactions": false
+    },
+    {
+      "id": "8952570f-0c8d-4a14-8760-b13b793739eb",
+      "title": "The Trail to Hope Rose",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-trail-to-hope-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "d504861b-9b99-42bb-b3e5-197170c01b44",
+      "title": "Crusader",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "crusader",
+      "has_reactions": false
+    },
+    {
+      "id": "18e66f51-b22b-40d4-961a-62cc30639b32",
+      "title": "Sin-Jin Smyth",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "sin-jin-smyth",
+      "has_reactions": false
+    },
+    {
+      "id": "a16fcde0-f086-47d8-8f16-80fda21d3c59",
+      "title": "The Visitation",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-visitation",
+      "has_reactions": false
+    },
+    {
+      "id": "35d4c2ff-bc81-4dd9-8e5a-e1262e7ed7e2",
+      "title": "Big Bad Wolf",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "big-bad-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "0c485c5f-85dc-479a-b200-ab3d6729fe39",
+      "title": "Stripper Academy",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "stripper-academy",
+      "has_reactions": false
+    },
+    {
+      "id": "e83bf674-d21d-48be-bd90-d0e020c2ee13",
+      "title": "The Dukes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dukes",
+      "has_reactions": false
+    },
+    {
+      "id": "dd2e7105-1114-4663-b531-5f655e5ef99f",
+      "title": "Flight of the Living Dead",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "flight-of-the-living-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "90fa6780-1f2a-4106-bf86-c2d45529310b",
+      "title": "3 Days Gone",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "3-days-gone",
+      "has_reactions": false
+    },
+    {
+      "id": "f610571b-d2b4-4d64-8a66-c46da5ab8740",
+      "title": "No Bad Days",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "no-bad-days",
+      "has_reactions": false
+    },
+    {
+      "id": "b8f81fff-bb50-4860-8256-9779dd7745a3",
+      "title": "Shoot First And Pray You Live",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "shoot-first-and-pray-you-live",
+      "has_reactions": false
+    },
+    {
+      "id": "efba5e70-2860-477b-99c0-7c4cdc8e0f43",
+      "title": "Jake's Corner",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "jake-s-corner",
+      "has_reactions": false
+    },
+    {
+      "id": "e6518ebf-f8db-420e-946d-596c874971a1",
+      "title": "Bigfoot",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bigfoot",
+      "has_reactions": false
+    },
+    {
+      "id": "d2c5b0fb-73aa-49f8-8f52-41a40233e176",
+      "title": "Magic Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "magic-man",
+      "has_reactions": false
+    },
+    {
+      "id": "2f7c60d0-adb1-4823-b8b3-f6ac69c55670",
+      "title": "Darkroom",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "darkroom",
+      "has_reactions": false
+    },
+    {
+      "id": "39824d1b-a4b7-4ac8-9d47-ca8733aef7c5",
+      "title": "The Fear Chamber",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-fear-chamber",
+      "has_reactions": false
+    },
+    {
+      "id": "686d845e-6964-4a24-803b-15567f2f8ade",
+      "title": "Red Princess Blues",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "red-princess-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "a703f109-6d42-44ac-82ed-41d6c1fd437c",
+      "title": "Once Fallen",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "once-fallen",
+      "has_reactions": false
+    },
+    {
+      "id": "0d44dd66-9f1b-4015-ab81-91c55c186426",
+      "title": "Naked Run",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "naked-run",
+      "has_reactions": false
+    },
+    {
+      "id": "25dffa17-c468-4045-bd19-cb85cca4eab0",
+      "title": "Not Another Not Another Movie",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "not-another-not-another-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "76fb87ab-818e-4cba-a65d-97525f44664f",
+      "title": "Double Tap",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "double-tap",
+      "has_reactions": false
+    },
+    {
+      "id": "93eb1392-55b6-4795-b0f0-c3f79c637ac5",
+      "title": "Love's Christmas Journey",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "love-s-christmas-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "b57c91e6-d93d-4757-b62d-94562f978438",
+      "title": "Hayride",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hayride",
+      "has_reactions": false
+    },
+    {
+      "id": "712990af-dbe4-4bc1-ab73-cec69504f9d5",
+      "title": "Ghost of Goodnight Lane",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ghost-of-goodnight-lane",
+      "has_reactions": false
+    },
+    {
+      "id": "48259e11-8eb7-4e8f-bcac-5a9ceaf47c19",
+      "title": "Playing with Dolls",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "playing-with-dolls",
+      "has_reactions": false
+    },
+    {
+      "id": "06564af3-e1d3-4472-8369-56bbd6e11e06",
+      "title": "Despair Sessions",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "despair-sessions",
+      "has_reactions": false
+    },
+    {
+      "id": "149ca566-8ab2-4679-9f4d-e16c56b924ce",
+      "title": "Bound to Vengeance",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bound-to-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "4ae7149a-1f53-4fd2-a7b0-eb43af010b50",
+      "title": "Demented",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "demented",
+      "has_reactions": false
+    },
+    {
+      "id": "a18dd434-4b64-4d6d-98a4-d1d75aaed4b4",
+      "title": "Playing with Dolls: Bloodlust",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "playing-with-dolls-bloodlust",
+      "has_reactions": false
+    },
+    {
+      "id": "15a96639-294a-4258-a743-4c06e6f3355a",
+      "title": "The Sector",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-sector",
+      "has_reactions": false
+    },
+    {
+      "id": "078fc5d1-6f03-4444-b792-2e577477d946",
+      "title": "The Perfect Weapon",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-weapon",
+      "has_reactions": false
+    },
+    {
+      "id": "da4dcbbd-a9d8-4605-b583-f792213278c0",
+      "title": "Limo Ride",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "limo-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "340b95cc-a2a0-4802-ac92-736a8d12e76c",
+      "title": "The Obsidian Curse",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-obsidian-curse",
+      "has_reactions": false
+    },
+    {
+      "id": "816832ab-1f70-4ef4-af96-8f0d04f640e1",
+      "title": "Boone: The Bounty Hunter",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "boone-the-bounty-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "e14f84eb-7efb-4127-b8ce-cb22ededef47",
+      "title": "Amazing Ape",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "amazing-ape",
+      "has_reactions": false
+    },
+    {
+      "id": "be5485fc-3365-4448-9b6e-c8d969e199e5",
+      "title": "Death Kiss",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "death-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "7f41261b-0fc2-4e1a-b69c-4071ae4fe15b",
+      "title": "Betrayed",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "betrayed",
+      "has_reactions": false
+    },
+    {
+      "id": "d8fa7a4c-a182-4448-8fb7-ee9c1dabf068",
+      "title": "Rusty Tulloch",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "rusty-tulloch",
+      "has_reactions": false
+    },
+    {
+      "id": "842123a1-68dd-4320-b0c5-6b883573c328",
+      "title": "Eternal Code",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "eternal-code",
+      "has_reactions": false
+    },
+    {
+      "id": "9b20b05c-c574-4404-9288-03c11c0193cf",
+      "title": "Night Walk",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "night-walk",
+      "has_reactions": false
+    },
+    {
+      "id": "2497bcf7-7425-409b-93e7-7ad7b2880107",
+      "title": "The League of Legend Keepers: Shadows",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-league-of-legend-keepers-shadows",
+      "has_reactions": false
+    },
+    {
+      "id": "9421526a-efff-4bd4-b176-150fa2508795",
+      "title": "Charlie's Christmas Wish",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "charlie-s-christmas-wish",
+      "has_reactions": false
+    },
+    {
+      "id": "e26a04d8-84e8-4e06-84ae-9357b10dec9d",
+      "title": "The Slayer Chronicles - Volume 1",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-slayer-chronicles-volume-1",
+      "has_reactions": false
+    },
+    {
+      "id": "1135cc05-d36d-4fae-82a9-a15b151cd30c",
+      "title": "Niemand",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "niemand",
+      "has_reactions": false
+    },
+    {
+      "id": "77e14568-0ba1-4d02-8efe-79f8bf5d99ae",
+      "title": "Sally Floss: Digital Detective",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "sally-floss-digital-detective",
+      "has_reactions": false
+    },
+    {
+      "id": "e1abfcef-16a1-43d6-a979-9c47c44599da",
+      "title": "The Legend of Hawes",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-hawes",
+      "has_reactions": false
+    },
+    {
+      "id": "e0e7ab3f-4b66-44f2-b965-4d59e1ff629a",
+      "title": "You're All Gonna Die",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "you-re-all-gonna-die",
+      "has_reactions": false
+    },
+    {
+      "id": "62ae693e-7482-4d49-a4ea-1e3f2f41c92d",
+      "title": "The Dead Rose",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-dead-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "819ab003-b550-4acd-8946-208a98dc8530",
+      "title": "Professor Kimmer's Initiation",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "professor-kimmer-s-initiation",
+      "has_reactions": false
+    },
+    {
+      "id": "1d773e5f-18bb-413d-af4a-13caec526b04",
+      "title": "Finding Nicole",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "finding-nicole",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": "e6aeefc9-4cb7-41bf-b593-937727bc7ba6",
+  "name": "Peter Stormare",
+  "slug": "peter-stormare",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg",
+  "filmography": [
+    {
+      "id": "8b521837-477d-4436-9343-cdf0bac97b65",
+      "title": "The Awakening",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-awakening",
+      "has_reactions": false
+    },
+    {
+      "id": "719c4ffd-8dca-4aa6-b070-26cb5b57ecb1",
+      "title": "Awakenings",
+      "release_year": 1990,
+      "studio_label": "Parkes/Lasker productions",
+      "slug": "awakenings",
+      "has_reactions": true
+    },
+    {
+      "id": "4ff0e4e5-754e-4f48-8b5f-dd432553ffd6",
+      "title": "Damage",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "damage",
+      "has_reactions": false
+    },
+    {
+      "id": "ad59d844-b4fb-4294-8277-eff9168098ff",
+      "title": "Fargo",
+      "release_year": 1996,
+      "studio_label": "PolyGram Filmed Entertainment",
+      "slug": "fargo",
+      "has_reactions": true
+    },
+    {
+      "id": "dfae3502-0c52-4375-b9c7-fe35eb8de50d",
+      "title": "The Lost World: Jurassic Park",
+      "release_year": 1997,
+      "studio_label": "Universal Pictures",
+      "slug": "the-lost-world-jurassic-park",
+      "has_reactions": true
+    },
+    {
+      "id": "4bbe5b7c-b0ee-44ee-8cd3-603369346084",
+      "title": "Armageddon",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "armageddon",
+      "has_reactions": true
+    },
+    {
+      "id": "8d57b45d-bf2c-42eb-bf0b-2f693daa8e87",
+      "title": "The Big Lebowski",
+      "release_year": 1998,
+      "studio_label": "PolyGram Filmed Entertainment",
+      "slug": "the-big-lebowski",
+      "has_reactions": true
+    },
+    {
+      "id": "270617c6-aa14-4a9d-ada9-958a38a78bb2",
+      "title": "Somewhere in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "somewhere-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "ea604cf7-4f46-4de3-90c5-5eb344e29812",
+      "title": "Hamilton",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "hamilton",
+      "has_reactions": false
+    },
+    {
+      "id": "4821a0f2-9132-4415-a060-72435bf7f0ad",
+      "title": "Mercury Rising",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "mercury-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "cd4c4b64-fe98-42e6-b85b-6c8c0731ec10",
+      "title": "8MM",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "8mm",
+      "has_reactions": false
+    },
+    {
+      "id": "c70250cb-4cb5-449a-aceb-e038732aea17",
+      "title": "Purgatory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "purgatory",
+      "has_reactions": false
+    },
+    {
+      "id": "894cd563-a17b-4349-b539-a599287dc55e",
+      "title": "Bruiser",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "bruiser",
+      "has_reactions": false
+    },
+    {
+      "id": "60b16ece-83df-416c-aa37-36c90937bd18",
+      "title": "Circus",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "circus",
+      "has_reactions": false
+    },
+    {
+      "id": "a80fbb9a-2678-447a-9b5e-e1dedf3a3add",
+      "title": "Von Trier's 100 Eyes",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "von-trier-s-100-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2a3d65-ed56-4b76-84e7-a199a64d554a",
+      "title": "Minority Report",
+      "release_year": 2002,
+      "studio_label": "Digital Image Associates",
+      "slug": "minority-report",
+      "has_reactions": true
+    },
+    {
+      "id": "1a53fb75-5fa1-4e44-adca-c4da22076214",
+      "title": "Bad Company",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "bad-company",
+      "has_reactions": false
+    },
+    {
+      "id": "cf77082a-aa17-4d46-9a24-b96f0fe7561a",
+      "title": "Windtalkers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "windtalkers",
+      "has_reactions": false
+    },
+    {
+      "id": "e64b5806-035a-4ec2-85a6-736a4b790f5b",
+      "title": "Bad Boys II",
+      "release_year": 2003,
+      "studio_label": "Columbia Pictures",
+      "slug": "bad-boys-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "0643dce9-e8da-4ae3-8db5-1ccb2a70309c",
+      "title": "Minnesota Nice",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "minnesota-nice",
+      "has_reactions": false
+    },
+    {
+      "id": "f3ae27fb-5826-468f-8794-2c5f579223ab",
+      "title": "Birth",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "birth",
+      "has_reactions": false
+    },
+    {
+      "id": "740ac46e-bd2e-411a-af7d-2c8f9f54a07c",
+      "title": "Constantine",
+      "release_year": 2005,
+      "studio_label": "Village Roadshow Pictures",
+      "slug": "constantine",
+      "has_reactions": true
+    },
+    {
+      "id": "c6827255-92af-43b7-9ac1-af9ee2665c69",
+      "title": "One Night with You",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "one-night-with-you",
+      "has_reactions": false
+    },
+    {
+      "id": "299854ee-8807-479d-b6ae-6cbc75858bbc",
+      "title": "Unknown",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "unknown",
+      "has_reactions": false
+    },
+    {
+      "id": "30b16450-152b-4949-8de6-df8537b2f92d",
+      "title": "Anamorph",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "anamorph",
+      "has_reactions": false
+    },
+    {
+      "id": "8b8b8824-24fd-4f7f-aedf-8d544485b8e7",
+      "title": "They Never Found Her",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "they-never-found-her",
+      "has_reactions": false
+    },
+    {
+      "id": "d43c0f3e-b7e4-4192-8c9d-f82ea395f87b",
+      "title": "The Killing Room",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-killing-room",
+      "has_reactions": false
+    },
+    {
+      "id": "a339ce1a-150b-48e9-899c-c37000f684e4",
+      "title": "Horsemen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "horsemen",
+      "has_reactions": false
+    },
+    {
+      "id": "599a3520-5dde-40ef-ad00-8636b45cf16e",
+      "title": "Otis E.",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "otis-e",
+      "has_reactions": false
+    },
+    {
+      "id": "bfe10d33-b660-495d-a716-ea0153423cb3",
+      "title": "Corridor",
+      "release_year": 2010,
+      "studio_label": "Film i V\u00e4st",
+      "slug": "corridor",
+      "has_reactions": false
+    },
+    {
+      "id": "3303d1d3-75b9-44ce-9730-cfb4a7d70771",
+      "title": "Henry's Crime",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "henry-s-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "67f3b8c8-21e1-4a00-8792-c41e748e1535",
+      "title": "Janie Jones",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "janie-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "d2081494-89c5-48c1-ad34-c4de73dacec2",
+      "title": "Dylan Dog: Dead of Night",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "dylan-dog-dead-of-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e0df3892-89ee-49c5-ac1c-019e20870bae",
+      "title": "The Wayshower",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-wayshower",
+      "has_reactions": false
+    },
+    {
+      "id": "302b9bfa-3002-4922-b622-f49cb1afc791",
+      "title": "Get the Gringo",
+      "release_year": 2012,
+      "studio_label": "Icon Productions",
+      "slug": "get-the-gringo",
+      "has_reactions": true
+    },
+    {
+      "id": "0b160fc9-34db-43ad-bf3c-cf875b3dcb4e",
+      "title": "Lockout",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "lockout",
+      "has_reactions": false
+    },
+    {
+      "id": "c8da6591-fbbb-4902-b303-0de846a18e9f",
+      "title": "Jewtopia",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jewtopia",
+      "has_reactions": false
+    },
+    {
+      "id": "1e1edec0-b8c7-440b-aa5e-7c1f1c3e59f1",
+      "title": "Inseparable",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "inseparable",
+      "has_reactions": false
+    },
+    {
+      "id": "1b9cf93a-8d45-4937-ae6a-d370f552d682",
+      "title": "Pain & Gain",
+      "release_year": 2013,
+      "studio_label": "Paramount Pictures",
+      "slug": "pain-gain",
+      "has_reactions": true
+    },
+    {
+      "id": "1fb0c5e4-5501-4032-812f-426ccafe0adb",
+      "title": "Bad Milo!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bad-milo",
+      "has_reactions": false
+    },
+    {
+      "id": "910c685e-8694-457e-a6ad-e5b12c74ec08",
+      "title": "22 Jump Street",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "22-jump-street",
+      "has_reactions": true
+    },
+    {
+      "id": "c25a656b-0502-4beb-af78-bb87230bdf6e",
+      "title": "Penguins of Madagascar",
+      "release_year": 2014,
+      "studio_label": "DreamWorks Animation",
+      "slug": "penguins-of-madagascar",
+      "has_reactions": true
+    },
+    {
+      "id": "dd998747-c17a-41db-a5f0-e303813954eb",
+      "title": "Rage",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rage",
+      "has_reactions": false
+    },
+    {
+      "id": "5e2072a5-e1cd-4192-83fe-750785bb4530",
+      "title": "Mall",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "mall",
+      "has_reactions": false
+    },
+    {
+      "id": "94ff8a54-648f-4e46-9fad-c6f716f15e73",
+      "title": "Strange Magic",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "strange-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "60b6e877-445d-428d-bc67-7772f7f57873",
+      "title": "Every Thing Will Be Fine",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "every-thing-will-be-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "4299a556-26e4-45b1-a340-9c3c62754612",
+      "title": "I Am Here",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "i-am-here",
+      "has_reactions": false
+    },
+    {
+      "id": "a5397583-4380-4998-9307-889d3d52f8b6",
+      "title": "John Wick: Chapter 2",
+      "release_year": 2017,
+      "studio_label": "Thunder Road",
+      "slug": "john-wick-chapter-2",
+      "has_reactions": true
+    },
+    {
+      "id": "2752ceb4-eeb2-440c-9c81-e86ea46ab199",
+      "title": "Day Shift",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "day-shift",
+      "has_reactions": false
+    },
+    {
+      "id": "094d5aa4-6381-4d75-b006-f24136d060f8",
+      "title": "The Ritual Killer",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-ritual-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "fd02ac80-f4ed-4433-af05-70c3f18c2d77",
+      "title": "The Evolution of Horror Cinema Worldwide",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-evolution-of-horror-cinema-worldwide",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "id": "329af4a6-144a-4132-a056-e95941938007",
+  "name": "Bill Clinton",
+  "slug": "bill-clinton",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/mIgqL0UAEKSl1Ry58wgQYq2sAt6.jpg",
+  "filmography": [
+    {
+      "id": "a3676bd1-97a1-4852-a2f3-cc1b6af73dc7",
+      "title": "Letters from the Battlefield",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "letters-from-the-battlefield",
+      "has_reactions": false
+    },
+    {
+      "id": "56a312a8-71cb-4368-bc50-405e8f2bf3fc",
+      "title": "Commercial Entertainment Product",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "commercial-entertainment-product",
+      "has_reactions": false
+    },
+    {
+      "id": "d2a37ee5-62b6-45e8-88d2-572d9a3d88c5",
+      "title": "Spin",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "spin",
+      "has_reactions": false
+    },
+    {
+      "id": "166920f6-d591-4985-86ed-f9eba630aae8",
+      "title": "A Perfect Candidate",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-perfect-candidate",
+      "has_reactions": false
+    },
+    {
+      "id": "c838cf6f-0362-4cff-99f8-77fc1dc35743",
+      "title": "Obstruction Of Justice: The Mena Connection",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "obstruction-of-justice-the-mena-connection",
+      "has_reactions": false
+    },
+    {
+      "id": "a5db55ff-aef6-4d25-ae76-6262b668e69a",
+      "title": "Contact",
+      "release_year": 1997,
+      "studio_label": "South Side Amusement Company",
+      "slug": "contact",
+      "has_reactions": true
+    },
+    {
+      "id": "d8e119ed-8208-4952-935c-436455187fc4",
+      "title": "The Big One",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-big-one",
+      "has_reactions": false
+    },
+    {
+      "id": "bd32b7d4-5533-4309-b123-ad47c931f81f",
+      "title": "A Child's Wish",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-child-s-wish",
+      "has_reactions": false
+    },
+    {
+      "id": "5d4deca4-0645-46c3-988a-902d35df3abb",
+      "title": "Clinton: His Struggle with Dirt",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "clinton-his-struggle-with-dirt",
+      "has_reactions": false
+    },
+    {
+      "id": "afd9ffa0-63c2-4b40-a9bf-92967f0e602a",
+      "title": "Visit Fabulous Las Vegas",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "visit-fabulous-las-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "30b877b3-5545-48c9-8825-b19b869bd798",
+      "title": "The First Family's Holiday Gift to America: A Personal Tour of the White House",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-first-family-s-holiday-gift-to-america-a-personal-tour-of-the-white-house",
+      "has_reactions": false
+    },
+    {
+      "id": "b8ca332c-7b8f-4837-ba80-6ac9cd8eaa76",
+      "title": "The Final Days",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-final-days",
+      "has_reactions": false
+    },
+    {
+      "id": "b1e44044-a950-4390-9ec2-b70a4d888af4",
+      "title": "Kinky Friedman: Proud To Be An Asshole From El Paso",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "kinky-friedman-proud-to-be-an-asshole-from-el-paso",
+      "has_reactions": false
+    },
+    {
+      "id": "be7e0f0c-01f1-408a-9f09-60530806bfbe",
+      "title": "Balseros",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "balseros",
+      "has_reactions": false
+    },
+    {
+      "id": "52f04752-6abf-48af-8904-fc4b6c102c63",
+      "title": "Black Ravens",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "black-ravens",
+      "has_reactions": false
+    },
+    {
+      "id": "2e4d9f29-1984-428d-8ad8-830553695f4a",
+      "title": "Off the Record: The 9/11 Election",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "off-the-record-the-9-11-election",
+      "has_reactions": false
+    },
+    {
+      "id": "c022a7b0-3a1b-489d-9841-e0a87a1aa682",
+      "title": "Baltic Storm",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "baltic-storm",
+      "has_reactions": false
+    },
+    {
+      "id": "5d16bd72-6f1d-4449-ba7b-0d260ef7f9e3",
+      "title": "Fahrenheit 9/11",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "fahrenheit-9-11",
+      "has_reactions": false
+    },
+    {
+      "id": "9585cdf0-a96f-4709-9886-da9fdec02af5",
+      "title": "Road to the Presidency",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "road-to-the-presidency",
+      "has_reactions": false
+    },
+    {
+      "id": "6859f8f6-6f95-4fd9-b35f-2064f738d8b7",
+      "title": "National Geographic: Inside the U.S. Secret Service",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "national-geographic-inside-the-u-s-secret-service",
+      "has_reactions": false
+    },
+    {
+      "id": "c2f6d591-30cc-4f89-ae3e-9cc607199f25",
+      "title": "Shake Hands with the Devil: The Journey of Rom\u00e9o Dallaire",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shake-hands-with-the-devil-the-journey-of-rom-o-dallaire",
+      "has_reactions": false
+    },
+    {
+      "id": "a784f70d-7210-49d4-905d-c0c886e920fc",
+      "title": "Music For Minorities",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "music-for-minorities",
+      "has_reactions": false
+    },
+    {
+      "id": "fa78fb0d-f2cd-496e-8256-da3628ca6250",
+      "title": "Pete Seeger: The Power of Song",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "pete-seeger-the-power-of-song",
+      "has_reactions": false
+    },
+    {
+      "id": "7dc6e467-8da2-4709-b122-3a534887ffef",
+      "title": "The Return of the War Room",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-the-war-room",
+      "has_reactions": false
+    },
+    {
+      "id": "66ffbd03-2ba3-4231-9e4d-60e46232a0b7",
+      "title": "Citizen Havel",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "citizen-havel",
+      "has_reactions": false
+    },
+    {
+      "id": "2d6ab796-98c4-4f33-8d4f-6c4e54fe7725",
+      "title": "I Am Because We Are",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "i-am-because-we-are",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa88f20-6975-4e13-98ff-36c50790ad9a",
+      "title": "Picturing the Presidents",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "picturing-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "5a9778d2-2875-42a4-a71e-6393a35b44cd",
+      "title": "Studs Terkel: Listening to America",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "studs-terkel-listening-to-america",
+      "has_reactions": false
+    },
+    {
+      "id": "b6326da1-f948-491b-a3f3-f27b492f2620",
+      "title": "Housequake",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "housequake",
+      "has_reactions": false
+    },
+    {
+      "id": "184da943-cd68-4653-a2f1-b934b42c385e",
+      "title": "Toxic Soup",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "toxic-soup",
+      "has_reactions": false
+    },
+    {
+      "id": "ce86ea7a-6840-4f44-8b85-2558b177a948",
+      "title": "How to Win the TV Debate",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "how-to-win-the-tv-debate",
+      "has_reactions": false
+    },
+    {
+      "id": "3c804a20-b96a-4846-b87c-2105a14c9875",
+      "title": "Memories of Overdevelopment",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "memories-of-overdevelopment",
+      "has_reactions": false
+    },
+    {
+      "id": "9907163f-5663-4c70-871f-de1e656f378a",
+      "title": "Breaking the Taboo",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "breaking-the-taboo",
+      "has_reactions": false
+    },
+    {
+      "id": "00ad144a-f42a-4c1e-97cf-288c9a5fb50e",
+      "title": "The Love We Make",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-love-we-make",
+      "has_reactions": false
+    },
+    {
+      "id": "80533f85-31aa-4916-9f95-15fb72b270a8",
+      "title": "41",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "41",
+      "has_reactions": false
+    },
+    {
+      "id": "04898eb2-640d-4006-adab-1f1d837c0ff2",
+      "title": "The Clintons: An American Odyssey",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-clintons-an-american-odyssey",
+      "has_reactions": false
+    },
+    {
+      "id": "25bf790b-83b8-415d-84b7-d0a2c64d929f",
+      "title": "The Mayor",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-mayor",
+      "has_reactions": false
+    },
+    {
+      "id": "1a699092-39a3-41b5-ae70-fb51d250be86",
+      "title": "Follow the Leader",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "follow-the-leader",
+      "has_reactions": false
+    },
+    {
+      "id": "f3c37aa4-4a30-4263-9721-3934b3621af0",
+      "title": "This Ain't California",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "this-ain-t-california",
+      "has_reactions": false
+    },
+    {
+      "id": "f6ab0f36-2472-4c0f-ba26-8a847c614124",
+      "title": "40 Minutes of Hell",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "40-minutes-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "6232d034-65e1-40cb-8b80-dfd6f2a6c167",
+      "title": "An Escalator in World Order",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "an-escalator-in-world-order",
+      "has_reactions": false
+    },
+    {
+      "id": "cd568718-4f43-49c9-97c2-cd12a6676b64",
+      "title": "Overdraft",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "overdraft",
+      "has_reactions": false
+    },
+    {
+      "id": "3e40d5eb-13c2-4f45-b903-03a7b2c2bce4",
+      "title": "A Noble Lie: Oklahoma City 1995",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-noble-lie-oklahoma-city-1995",
+      "has_reactions": false
+    },
+    {
+      "id": "3f5a5d1e-8fbc-4291-a5ed-1543940ae6ad",
+      "title": "Miracle Rising: South Africa",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "miracle-rising-south-africa",
+      "has_reactions": false
+    },
+    {
+      "id": "574f579b-30ac-40b7-b4ae-93e4487b13b7",
+      "title": "Inequality for All",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "inequality-for-all",
+      "has_reactions": false
+    },
+    {
+      "id": "45553b15-068e-4185-a4aa-d72e8361073e",
+      "title": "JFK: One PM Central Standard Time",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jfk-one-pm-central-standard-time",
+      "has_reactions": false
+    },
+    {
+      "id": "cb653b09-95b8-457b-bf14-daaf9b67aae5",
+      "title": "Geraldine Ferraro: Paving The Way",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "geraldine-ferraro-paving-the-way",
+      "has_reactions": false
+    },
+    {
+      "id": "4371af6c-0e96-4eb7-8307-99100886e53f",
+      "title": "Mad As Hell",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "mad-as-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "48c5d86f-136a-451b-8fd0-09d9c4c48f7c",
+      "title": "Fed Up",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "fed-up",
+      "has_reactions": false
+    },
+    {
+      "id": "9bd892a5-ea2e-43bc-8507-0ed6213da0ef",
+      "title": "Gabo: The Creation of Gabriel Garc\u00eda M\u00e1rquez",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "gabo-the-creation-of-gabriel-garc-a-m-rquez",
+      "has_reactions": false
+    },
+    {
+      "id": "031b9afa-afea-4a4a-bb63-f3adeaf20b16",
+      "title": "Houston, We Have a Problem!",
+      "release_year": 2016,
+      "studio_label": "Sutor Kolonko",
+      "slug": "houston-we-have-a-problem",
+      "has_reactions": false
+    },
+    {
+      "id": "1637ec6f-a7fe-4e76-8897-e73ba5097bd7",
+      "title": "Crashing the Party",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "crashing-the-party",
+      "has_reactions": false
+    },
+    {
+      "id": "90683c7b-2dd6-48fb-aecd-ae73e708c4d4",
+      "title": "Meet the Donors: Does Money Talk?",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "meet-the-donors-does-money-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "6cf8fadf-0e88-4da9-9e65-8ca245840e82",
+      "title": "Clinton Cash",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "clinton-cash",
+      "has_reactions": false
+    },
+    {
+      "id": "ae36b1b2-08d9-4f10-9933-dfd4c5dd85ae",
+      "title": "Clinton, Inc.",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "clinton-inc",
+      "has_reactions": false
+    },
+    {
+      "id": "d7461e24-330c-46ec-a785-37fcf5935a71",
+      "title": "Springfield of Dreams: The Legend of Homer Simpson",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "springfield-of-dreams-the-legend-of-homer-simpson",
+      "has_reactions": false
+    },
+    {
+      "id": "53ef15c6-d8b6-4687-a344-43f8b2e3067f",
+      "title": "Oklahoma City",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "oklahoma-city",
+      "has_reactions": false
+    },
+    {
+      "id": "e65565bc-040d-4817-b720-8bb02fa0b8ff",
+      "title": "The Road to Mass Incarceration",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-mass-incarceration",
+      "has_reactions": false
+    },
+    {
+      "id": "e9e46229-d10f-4a89-a616-0112db3fee88",
+      "title": "David Foster: Off the Record",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "david-foster-off-the-record",
+      "has_reactions": false
+    },
+    {
+      "id": "8c6f4340-7a8a-4e69-b802-b3c86fdcf5c6",
+      "title": "The River and the Wall",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-river-and-the-wall",
+      "has_reactions": false
+    },
+    {
+      "id": "0bb461b1-31a6-4e75-aa72-fb15fcb2c547",
+      "title": "The Plot Against the President",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-plot-against-the-president",
+      "has_reactions": false
+    },
+    {
+      "id": "5f214bbf-76d5-4fb4-a629-2f3adcb2564a",
+      "title": "The Phenomenon",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-phenomenon",
+      "has_reactions": false
+    },
+    {
+      "id": "7c969e28-5c5a-4603-87e2-a5c0121d9f2d",
+      "title": "Crazy, Not Insane",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "crazy-not-insane",
+      "has_reactions": false
+    },
+    {
+      "id": "afcec032-2b63-46b6-ab43-2f1f02916426",
+      "title": "The New Air Force One: Flying Fortress",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-new-air-force-one-flying-fortress",
+      "has_reactions": false
+    },
+    {
+      "id": "dd07338e-00b2-455f-9841-209ca1f42d5a",
+      "title": "Woodstock 99: Peace, Love, and Rage",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "woodstock-99-peace-love-and-rage",
+      "has_reactions": false
+    },
+    {
+      "id": "5f660fe6-a6be-4589-a714-6ed47348033c",
+      "title": "Moscow 1996, Vote or Lose!",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "moscow-1996-vote-or-lose",
+      "has_reactions": false
+    },
+    {
+      "id": "d095e256-36a9-4487-8b7b-9ea80e018164",
+      "title": "Monopoly: Who Owns the World?",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "monopoly-who-owns-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "187a703e-17b8-431a-acff-6d9474ccbc95",
+      "title": "Turn Every Page - The Adventures of Robert Caro and Robert Gottlieb",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "turn-every-page-the-adventures-of-robert-caro-and-robert-gottlieb",
+      "has_reactions": false
+    },
+    {
+      "id": "5e5c58ac-c215-44bb-8d17-f662563907e5",
+      "title": "Prince Andrew: Banished",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "prince-andrew-banished",
+      "has_reactions": false
+    },
+    {
+      "id": "4fda04a0-ba9f-4043-97ac-5ad9eefd767f",
+      "title": "Two Men at War",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "two-men-at-war",
+      "has_reactions": false
+    },
+    {
+      "id": "ea740caa-b64a-4889-8702-8adfffe4e490",
+      "title": "O Presidente Improv\u00e1vel",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "o-presidente-improv-vel",
+      "has_reactions": false
+    },
+    {
+      "id": "15e1a834-f38d-47a5-bff6-6c76f119d2f2",
+      "title": "We Feed People",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "we-feed-people",
+      "has_reactions": false
+    },
+    {
+      "id": "b6e41d6c-18ea-4f32-a0c4-0aae32c3b25f",
+      "title": "\u0130HA'n\u0131n Ar\u015fivinden 17 A\u011fustos 1999 Depremi",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "i-ha-n-n-ar-ivinden-17-a-ustos-1999-depremi",
+      "has_reactions": false
+    },
+    {
+      "id": "cfb34f41-ecc2-4a1d-b3b7-164e6f8fc543",
+      "title": "Ghislaine, Prince Andrew and the Paedophile",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ghislaine-prince-andrew-and-the-paedophile",
+      "has_reactions": false
+    },
+    {
+      "id": "481b5a21-273e-455d-a6ce-526b95e3e3cc",
+      "title": "Poisoned: The Dirty Truth About Your Food",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "poisoned-the-dirty-truth-about-your-food",
+      "has_reactions": false
+    },
+    {
+      "id": "fa077d11-9152-492d-9ae4-f149bd9d4ff8",
+      "title": "Gotham: The Fall and Rise of New York",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "gotham-the-fall-and-rise-of-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "a71aaf39-ba5e-4587-8e51-67bd565f33b8",
+      "title": "Putin and the Presidents",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "putin-and-the-presidents",
+      "has_reactions": false
+    },
+    {
+      "id": "5f094735-65f0-463d-ba5e-80b53835845c",
+      "title": "Kiss the Future",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "kiss-the-future",
+      "has_reactions": false
+    },
+    {
+      "id": "c20a03d9-0519-43aa-a728-d967e7430403",
+      "title": "An American Bombing: The Road to April 19th",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "an-american-bombing-the-road-to-april-19th",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6411d0-5a17-44ef-b17a-931cb1807041",
+      "title": "The Relentless Patriot",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-relentless-patriot",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b25ee1c8-b7df-4a5a-956c-d76d37254556",
+  "name": "Jeffrey Wiseman",
+  "slug": "jeffrey-wiseman",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "b371460e-42cc-4f25-827a-fd5735e61c6f",
+      "title": "Overboard",
+      "release_year": 1987,
+      "studio_label": "Star Partners",
+      "slug": "overboard",
+      "has_reactions": true
+    },
+    {
+      "id": "4a2c17d4-4a21-4e9c-9d01-22ee8632d9b3",
+      "title": "Home Alone",
+      "release_year": 1990,
+      "studio_label": "Hughes Entertainment",
+      "slug": "home-alone",
+      "has_reactions": true
+    },
+    {
+      "id": "a4fe00b5-74d9-4fd4-9158-d68a9bebdc23",
+      "title": "The Babe",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-babe",
+      "has_reactions": false
+    }
+  ]
+}

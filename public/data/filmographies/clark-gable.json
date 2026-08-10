@@ -1,0 +1,664 @@
+{
+  "id": "c60e43dc-da14-4fa3-8996-f83f316685a8",
+  "name": "Clark Gable",
+  "slug": "clark-gable",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qD6WJzydym7n7fCeL9PGnHe1aEV.jpg",
+  "filmography": [
+    {
+      "id": "7c42bf83-5320-4c63-a735-52f7b705674f",
+      "title": "Forbidden Paradise",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "forbidden-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "9cfcd6ee-82f7-4a9a-ae64-b1d2f79f29df",
+      "title": "The Plastic Age",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "the-plastic-age",
+      "has_reactions": false
+    },
+    {
+      "id": "914d3875-c7e5-4ebd-95c4-0cd51809e324",
+      "title": "Ben-Hur: A Tale of the Christ",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "ben-hur-a-tale-of-the-christ",
+      "has_reactions": false
+    },
+    {
+      "id": "267bb2b6-7eb6-4ce4-9055-6d0e80ae31f8",
+      "title": "Night Nurse",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "night-nurse",
+      "has_reactions": false
+    },
+    {
+      "id": "8287dd4a-a35b-4abe-bb1a-3a9312cb46ef",
+      "title": "Possessed",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "possessed",
+      "has_reactions": false
+    },
+    {
+      "id": "195c9238-b084-4190-8610-3b3facf12188",
+      "title": "Dance, Fools, Dance",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "dance-fools-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "d4472039-c5fc-4ae7-b5ba-2cd553587d5b",
+      "title": "Laughing Sinners",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "laughing-sinners",
+      "has_reactions": false
+    },
+    {
+      "id": "1545063d-dfcc-4f3e-beba-075f0075a894",
+      "title": "The Secret Six",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-secret-six",
+      "has_reactions": false
+    },
+    {
+      "id": "6f1ed278-ec88-4549-ac7d-fef2a69af269",
+      "title": "A Free Soul",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "a-free-soul",
+      "has_reactions": false
+    },
+    {
+      "id": "be0f7278-413f-467c-8156-dd631a529fe3",
+      "title": "Susan Lenox",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "susan-lenox",
+      "has_reactions": false
+    },
+    {
+      "id": "81b296f3-1e8b-45db-80f3-69e6743019b1",
+      "title": "The Easiest Way",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-easiest-way",
+      "has_reactions": false
+    },
+    {
+      "id": "e209423a-41df-4047-9f6b-abff1b12da09",
+      "title": "Sporting Blood",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "sporting-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "863c4192-2d77-40fc-a89a-357915cde119",
+      "title": "The Christmas Party",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-party",
+      "has_reactions": false
+    },
+    {
+      "id": "7b350354-750b-46c3-9c6f-28254336a7d5",
+      "title": "No Man of Her Own",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "no-man-of-her-own",
+      "has_reactions": false
+    },
+    {
+      "id": "5c4734c0-ca9a-47cc-8261-9cf6f7c1cb78",
+      "title": "Strange Interlude",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "strange-interlude",
+      "has_reactions": false
+    },
+    {
+      "id": "cc206059-3bdf-4ae5-a28c-5214b62928fc",
+      "title": "Red Dust",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "red-dust",
+      "has_reactions": false
+    },
+    {
+      "id": "70ce0a1f-e078-410b-966c-605479fc8b3b",
+      "title": "Hell Divers",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "hell-divers",
+      "has_reactions": false
+    },
+    {
+      "id": "ac604a76-36a2-4ffd-9291-f35356225f06",
+      "title": "Polly of the Circus",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "polly-of-the-circus",
+      "has_reactions": false
+    },
+    {
+      "id": "e7d7c4f8-55c1-425d-aaaa-84392e003ca1",
+      "title": "Night Flight",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "night-flight",
+      "has_reactions": false
+    },
+    {
+      "id": "4e1fab45-7cf5-4b3b-92e3-1977121d1df3",
+      "title": "The White Sister",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-white-sister",
+      "has_reactions": false
+    },
+    {
+      "id": "23e59e9e-d4a4-4440-bd78-63bf98b3e27d",
+      "title": "Dancing Lady",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "dancing-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "36854c49-5243-4d0c-a2b0-71a32e00f9c7",
+      "title": "It Happened One Night",
+      "release_year": 1934,
+      "studio_label": "Columbia Pictures",
+      "slug": "it-happened-one-night",
+      "has_reactions": true
+    },
+    {
+      "id": "96da4b87-b46a-49d2-9323-4aad5412a312",
+      "title": "Manhattan Melodrama",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "manhattan-melodrama",
+      "has_reactions": false
+    },
+    {
+      "id": "1defa2f9-8cab-4620-9415-8fcf4e2ebbe7",
+      "title": "Men in White",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "men-in-white",
+      "has_reactions": false
+    },
+    {
+      "id": "c79b5b54-33ac-4b76-b598-7d606a9668fa",
+      "title": "Chained",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "chained",
+      "has_reactions": false
+    },
+    {
+      "id": "187b9665-1914-49cf-b2f7-48b10d3e09d6",
+      "title": "Forsaking All Others",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "forsaking-all-others",
+      "has_reactions": false
+    },
+    {
+      "id": "5a0d8052-d6ec-4f24-8c7a-1d330fcb935e",
+      "title": "Mutiny on the Bounty",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "mutiny-on-the-bounty",
+      "has_reactions": false
+    },
+    {
+      "id": "af3b3a41-2a41-4786-b25b-0809e6ebd6c4",
+      "title": "China Seas",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "china-seas",
+      "has_reactions": false
+    },
+    {
+      "id": "7182f56b-12a1-4ea1-8808-d853c0b3153f",
+      "title": "After Office Hours",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "after-office-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "430fb587-1ef6-420b-ae76-fc862f0059b4",
+      "title": "Call of the Wild",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "call-of-the-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "5054a988-c73f-43b2-a99b-987890a2063c",
+      "title": "Love on the Run",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "love-on-the-run",
+      "has_reactions": false
+    },
+    {
+      "id": "ab697550-4b08-4dd7-a2da-bba1f9263b83",
+      "title": "Wife vs. Secretary",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "wife-vs-secretary",
+      "has_reactions": false
+    },
+    {
+      "id": "676fbdee-f413-44cd-99e4-0aa34b2be6d0",
+      "title": "San Francisco",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "san-francisco",
+      "has_reactions": false
+    },
+    {
+      "id": "3ad0ab85-cda5-4137-87ae-b5054ad8ceb7",
+      "title": "Behind the Scenes of Cain and Mabel",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "behind-the-scenes-of-cain-and-mabel",
+      "has_reactions": false
+    },
+    {
+      "id": "18507b8d-5d81-4c49-b820-76dd3362af12",
+      "title": "Cain and Mabel",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "cain-and-mabel",
+      "has_reactions": false
+    },
+    {
+      "id": "324252a9-ae01-4b18-8096-7411513aba74",
+      "title": "Saratoga",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "saratoga",
+      "has_reactions": false
+    },
+    {
+      "id": "2e0e99e5-24c2-4dbe-b05e-c1831dda38e8",
+      "title": "Parnell",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "parnell",
+      "has_reactions": false
+    },
+    {
+      "id": "24db75ba-e0ba-4471-a18a-1b4ea5f8b130",
+      "title": "Hollywood Party",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "hollywood-party",
+      "has_reactions": false
+    },
+    {
+      "id": "5756b94a-71a3-45c4-bc40-517b33101411",
+      "title": "Test Pilot",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "test-pilot",
+      "has_reactions": false
+    },
+    {
+      "id": "7714750d-f88c-4e50-96a9-3fb8a81e5dff",
+      "title": "Too Hot to Handle",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "too-hot-to-handle",
+      "has_reactions": false
+    },
+    {
+      "id": "7600569c-cf31-4699-9c98-d1f820f6edaf",
+      "title": "Gone with the Wind",
+      "release_year": 1939,
+      "studio_label": "Selznick International Pictures",
+      "slug": "gone-with-the-wind",
+      "has_reactions": true
+    },
+    {
+      "id": "59589c73-881a-428c-ba37-8d7ddaf38a34",
+      "title": "Idiot's Delight",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "idiot-s-delight",
+      "has_reactions": false
+    },
+    {
+      "id": "9f613cef-c3be-43c7-a9fa-a8e77735eb91",
+      "title": "Comrade X",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "comrade-x",
+      "has_reactions": false
+    },
+    {
+      "id": "97fd37f4-fe42-421e-9a6e-2a8f3a6db70e",
+      "title": "Strange Cargo",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "strange-cargo",
+      "has_reactions": false
+    },
+    {
+      "id": "e94c496f-b0c4-4e34-b4a8-8363d06084a7",
+      "title": "Boom Town",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "boom-town",
+      "has_reactions": false
+    },
+    {
+      "id": "5b007d1a-fb05-4b7a-83d8-94f108225de1",
+      "title": "Trifles of Importance",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "trifles-of-importance",
+      "has_reactions": false
+    },
+    {
+      "id": "82e3ace7-ef94-4cf8-a32e-38f1f72b3648",
+      "title": "Honky Tonk",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "honky-tonk",
+      "has_reactions": false
+    },
+    {
+      "id": "05850cdc-99d3-4f0f-98d9-f68bc721c450",
+      "title": "They Met in Bombay",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "they-met-in-bombay",
+      "has_reactions": false
+    },
+    {
+      "id": "f56878dd-c127-4671-8946-5d5cf258ebe4",
+      "title": "Somewhere I'll Find You",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "somewhere-i-ll-find-you",
+      "has_reactions": false
+    },
+    {
+      "id": "59d46d5f-3f21-4ec5-ac3e-2998a477c256",
+      "title": "Combat America",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "combat-america",
+      "has_reactions": false
+    },
+    {
+      "id": "848602cb-1081-4da6-a6dd-5fda65f7c282",
+      "title": "Adventure",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "0a7213da-c9f3-4377-a997-e34644d8d956",
+      "title": "The Hucksters",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-hucksters",
+      "has_reactions": false
+    },
+    {
+      "id": "6156c2f1-4f82-4582-ae0a-4c46bbdcf933",
+      "title": "Command Decision",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "command-decision",
+      "has_reactions": false
+    },
+    {
+      "id": "f5607825-866b-41c6-906a-66db5f3bfdf5",
+      "title": "Homecoming",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "homecoming",
+      "has_reactions": false
+    },
+    {
+      "id": "7a20f4cb-4b94-409a-ad81-30345397023f",
+      "title": "Any Number Can Play",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "any-number-can-play",
+      "has_reactions": false
+    },
+    {
+      "id": "e9d0e9b3-3424-4d2c-a2dc-ad3963d584aa",
+      "title": "Screen Actors",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "screen-actors",
+      "has_reactions": false
+    },
+    {
+      "id": "10a6bb40-e0a9-4248-94eb-607daa327c29",
+      "title": "Key to the City",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "key-to-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "658d2b6d-2254-41d1-990d-3c0e0eac02bf",
+      "title": "To Please a Lady",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "to-please-a-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c0963a-041a-4584-b874-735beab675df",
+      "title": "Across the Wide Missouri",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "across-the-wide-missouri",
+      "has_reactions": false
+    },
+    {
+      "id": "743bedb2-18da-4808-847a-bb5a4d237238",
+      "title": "Lone Star",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "lone-star",
+      "has_reactions": false
+    },
+    {
+      "id": "8e85a5fe-24fc-4f0b-841c-4d6846d36c5c",
+      "title": "Never Let Me Go",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "never-let-me-go",
+      "has_reactions": false
+    },
+    {
+      "id": "9492dc56-ee59-4484-9ffb-3b321a1be501",
+      "title": "Mogambo",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "mogambo",
+      "has_reactions": false
+    },
+    {
+      "id": "8511e133-5aa5-4a6d-96b2-3529d1b34270",
+      "title": "Betrayed",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "betrayed",
+      "has_reactions": false
+    },
+    {
+      "id": "9f492414-5e14-40c6-a8d2-b0247f3d2798",
+      "title": "Soldier of Fortune",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "soldier-of-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "9e873c46-db53-4cf9-b9ae-06098e114d1f",
+      "title": "The Tall Men",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-tall-men",
+      "has_reactions": false
+    },
+    {
+      "id": "b1d89190-371b-49f6-9286-4ef7824d7ad3",
+      "title": "The King and Four Queens",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-king-and-four-queens",
+      "has_reactions": false
+    },
+    {
+      "id": "7f3acfcc-3dac-40fe-b7bd-6683dc6b9143",
+      "title": "Band of Angels",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "band-of-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "59b81c50-9d38-44d0-b7f0-02e7ecfd9870",
+      "title": "The James Dean Story",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-james-dean-story",
+      "has_reactions": false
+    },
+    {
+      "id": "9182fea1-fb53-4d0d-bc70-d5c33b76d824",
+      "title": "Run Silent, Run Deep",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "run-silent-run-deep",
+      "has_reactions": false
+    },
+    {
+      "id": "676fca8e-7186-4f1c-9efb-6bcea3d15914",
+      "title": "Teacher's Pet",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "teacher-s-pet",
+      "has_reactions": false
+    },
+    {
+      "id": "54d7de12-adb9-4970-8a19-ed60f0e1075c",
+      "title": "But Not for Me",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "but-not-for-me",
+      "has_reactions": false
+    },
+    {
+      "id": "8a095ac4-132e-4e7b-a8d3-64ae84c64d4a",
+      "title": "It Started in Naples",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "it-started-in-naples",
+      "has_reactions": false
+    },
+    {
+      "id": "91962ee2-bb56-4b17-b024-ec11206c7eec",
+      "title": "The Misfits",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-misfits",
+      "has_reactions": false
+    },
+    {
+      "id": "8e20de9c-61ec-4198-84d9-839a54d6ee4e",
+      "title": "Uncertain Verification",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "uncertain-verification",
+      "has_reactions": false
+    },
+    {
+      "id": "7934f015-82f6-474f-b767-e0aa5d97a53a",
+      "title": "That's Entertainment!",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "that-s-entertainment",
+      "has_reactions": false
+    },
+    {
+      "id": "b2cecb04-1a2f-42aa-b4bb-33d43bff89f2",
+      "title": "Showbiz Goes to War",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "showbiz-goes-to-war",
+      "has_reactions": false
+    },
+    {
+      "id": "b7e36fb4-eaa8-4804-987c-68d1ffa3a22f",
+      "title": "Going Hollywood: The '30s",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "going-hollywood-the-30s",
+      "has_reactions": false
+    },
+    {
+      "id": "c5e88519-2e09-4c4c-9e4f-dbb019e58f78",
+      "title": "Frank Capra Jr. Remembers: 'It Happened One Night'",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "frank-capra-jr-remembers-it-happened-one-night",
+      "has_reactions": false
+    },
+    {
+      "id": "ceb11275-bab0-4bae-8071-8dee82aeb76a",
+      "title": "Checking Out: Grand Hotel",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "checking-out-grand-hotel",
+      "has_reactions": false
+    },
+    {
+      "id": "b029bfc5-6b8f-4ea1-8153-71e9db9c2bed",
+      "title": "42nd Street: From Book to Screen to Stage",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "42nd-street-from-book-to-screen-to-stage",
+      "has_reactions": false
+    },
+    {
+      "id": "c5f9ac33-a36e-4ab4-8d8e-f10115bf8f8a",
+      "title": "Normandie ne partira pas ce soir",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "normandie-ne-partira-pas-ce-soir",
+      "has_reactions": false
+    },
+    {
+      "id": "4ab81278-c937-4db1-b38e-9570f1605edd",
+      "title": "Rat Pack",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rat-pack",
+      "has_reactions": false
+    }
+  ]
+}

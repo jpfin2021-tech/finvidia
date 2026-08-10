@@ -1,0 +1,600 @@
+{
+  "id": "2e7c6327-65ab-4453-a5cc-3a54df540197",
+  "name": "Ryunosuke Kamiki",
+  "slug": "ryunosuke-kamiki",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
+  "filmography": [
+    {
+      "id": "328b2f4e-d9bf-4453-bdbe-ac17b113fc5b",
+      "title": "Spirited Away",
+      "release_year": 2001,
+      "studio_label": "Studio Ghibli",
+      "slug": "spirited-away",
+      "has_reactions": true
+    },
+    {
+      "id": "768fb49b-aa54-4ae9-bf92-e23c0292262d",
+      "title": "The Nippon Television Special of Spirited Away",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-nippon-television-special-of-spirited-away",
+      "has_reactions": false
+    },
+    {
+      "id": "1622c53f-043c-4cb9-99ba-f4377fb57bf1",
+      "title": "Emergency Room 24 Hours Special 2002",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "emergency-room-24-hours-special-2002",
+      "has_reactions": false
+    },
+    {
+      "id": "c1d40d9b-2db9-4e81-bbdd-df9808e6cde0",
+      "title": "Rockers",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "rockers",
+      "has_reactions": false
+    },
+    {
+      "id": "531c2612-e06c-4b80-910b-5c2a21780204",
+      "title": "Bayside Shakedown 2",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "bayside-shakedown-2",
+      "has_reactions": false
+    },
+    {
+      "id": "9faa77b6-6e21-4ea2-887b-c3573bff2b52",
+      "title": "Howl's Moving Castle",
+      "release_year": 2004,
+      "studio_label": "Studio Ghibli",
+      "slug": "howl-s-moving-castle",
+      "has_reactions": true
+    },
+    {
+      "id": "17991b43-bafe-43b1-865b-37dd740644e2",
+      "title": "Survive Style 5+",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "survive-style-5",
+      "has_reactions": false
+    },
+    {
+      "id": "04cf46c6-d04e-4d55-971b-68d05bb8f771",
+      "title": "Ooku 3 Special ~ Women of the Bakumatsu Era ~",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ooku-3-special-women-of-the-bakumatsu-era",
+      "has_reactions": false
+    },
+    {
+      "id": "88fbd6ad-372e-4458-8eb0-69ad5b519f61",
+      "title": "Renai Shousetsu",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "renai-shousetsu",
+      "has_reactions": false
+    },
+    {
+      "id": "a40bece9-0c03-4274-bb73-112470d4ec08",
+      "title": "Install",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "install",
+      "has_reactions": false
+    },
+    {
+      "id": "c785b2b5-b658-41bc-bf67-e2fd243bfb52",
+      "title": "Dad's Backdrop",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dad-s-backdrop",
+      "has_reactions": false
+    },
+    {
+      "id": "c95a286c-5c17-4a90-ba93-144ead39d405",
+      "title": "The Great Yokai War",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-great-yokai-war",
+      "has_reactions": false
+    },
+    {
+      "id": "275217e5-aa79-4046-a79d-d6820a0e9df0",
+      "title": "Zoo",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "zoo",
+      "has_reactions": false
+    },
+    {
+      "id": "52ef6b42-05e9-4f2e-bae1-04081cdde399",
+      "title": "Doraemon: Nobita's Dinosaur",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "doraemon-nobita-s-dinosaur",
+      "has_reactions": false
+    },
+    {
+      "id": "80df9cbf-aae0-4414-be89-3633e79d27b1",
+      "title": "The Day I Bought a Star",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-day-i-bought-a-star",
+      "has_reactions": false
+    },
+    {
+      "id": "bf170e75-2c8e-4641-bb42-42b3764d7509",
+      "title": "The Piano Forest",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-piano-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "fc0cd060-0eb1-47c2-b793-320877d83d17",
+      "title": "Big Man Japan",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "big-man-japan",
+      "has_reactions": false
+    },
+    {
+      "id": "94868251-7619-4e4f-a0cc-9234738c78f8",
+      "title": "Into the Faraway Sky",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "into-the-faraway-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "260ffe5f-2e8f-4509-b827-dccad1ee4e84",
+      "title": "Little DJ",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "little-dj",
+      "has_reactions": false
+    },
+    {
+      "id": "b56d8651-d693-400e-9fa5-165d2ca7deb0",
+      "title": "Summer Wars",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "summer-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "888a7938-0b2e-43fe-ba26-1111b4994925",
+      "title": "20th Century Boys 3: Redemption",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "20th-century-boys-3-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2b9052-2919-4a21-ac5c-6d17afaf177b",
+      "title": "The Secret World of Arrietty",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-secret-world-of-arrietty",
+      "has_reactions": false
+    },
+    {
+      "id": "9609715d-c348-46cf-ac04-392486c09348",
+      "title": "Threads of Our Hearts",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "threads-of-our-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "5c91b6a8-6583-49fe-bf10-42d58fda7044",
+      "title": "The Princess and the Pilot",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-princess-and-the-pilot",
+      "has_reactions": false
+    },
+    {
+      "id": "1aeef6a6-f66a-4a14-8e12-1445125e9e4e",
+      "title": "SPEC: Heaven",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "spec-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "bcec92f4-6ec5-4f5d-8b5a-9628b0c4e235",
+      "title": "The Kirishima Thing",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-kirishima-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "cadab441-717b-4fac-9d52-674091ac7450",
+      "title": "SPEC: Life",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "spec-life",
+      "has_reactions": false
+    },
+    {
+      "id": "ffc6f427-28c1-4d3b-bc94-c44a107be9c3",
+      "title": "SPEC: Zero",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "spec-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "f1d3fdc4-9fc2-4d18-9a22-f8fe93afb748",
+      "title": "SPEC: Close Reincarnation",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "spec-close-reincarnation",
+      "has_reactions": false
+    },
+    {
+      "id": "7fe5a1fb-5b6d-4d94-a461-d9fe2cc816fc",
+      "title": "SPEC: Close~Incarnation",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "spec-close-incarnation",
+      "has_reactions": false
+    },
+    {
+      "id": "cae15714-7845-4460-bfc3-e62e441449f7",
+      "title": "Tales of the Bizarre: 2014 Fall Special",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tales-of-the-bizarre-2014-fall-special",
+      "has_reactions": false
+    },
+    {
+      "id": "00a3c154-974d-4340-a3c3-d2a0b8f56c82",
+      "title": "Kamiki Ryunosuke \u2013 20 Year Old Travel Vietnam Railroad",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kamiki-ryunosuke-20-year-old-travel-vietnam-railroad",
+      "has_reactions": false
+    },
+    {
+      "id": "c1a4db83-f12d-475b-bd7f-fd7b476445be",
+      "title": "As the Gods Will",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "as-the-gods-will",
+      "has_reactions": false
+    },
+    {
+      "id": "f3e6d98c-fa32-4e14-b388-67bf1d971b1c",
+      "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rurouni-kenshin-part-ii-kyoto-inferno",
+      "has_reactions": false
+    },
+    {
+      "id": "b8255c7c-1557-4246-b925-6c873330c37e",
+      "title": "Rurouni Kenshin Part III: The Legend Ends",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rurouni-kenshin-part-iii-the-legend-ends",
+      "has_reactions": false
+    },
+    {
+      "id": "3d3818e2-f942-4552-acd8-21be93638c99",
+      "title": "Time Never Stops",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "time-never-stops",
+      "has_reactions": false
+    },
+    {
+      "id": "bedaa05e-6686-4f83-9d4a-3ef9636505a0",
+      "title": "Bakuman",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "bakuman",
+      "has_reactions": false
+    },
+    {
+      "id": "4c99f27b-87a5-4e43-90e8-b42c093d0215",
+      "title": "Poison Berry in my Brain",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "poison-berry-in-my-brain",
+      "has_reactions": false
+    },
+    {
+      "id": "fd2d7450-562a-4464-b7c9-08fb56f0e7ad",
+      "title": "Your Name.",
+      "release_year": 2016,
+      "studio_label": "CoMix Wave Films",
+      "slug": "your-name",
+      "has_reactions": true
+    },
+    {
+      "id": "45af6523-eafd-47be-ba27-8acca4fcc7a1",
+      "title": "Too Young To Die!",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "too-young-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "be6c4705-8a3e-4741-a92b-b9e2bc36f259",
+      "title": "The Sun",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "4ea3353c-933a-40c6-8e78-930923e5d78b",
+      "title": "Sincerite Kamiki Ryunosuke",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "sincerite-kamiki-ryunosuke",
+      "has_reactions": false
+    },
+    {
+      "id": "43a57ea0-eaca-4d22-9414-dfce4c86c67c",
+      "title": "Chigasaki Story - My Little Hometown",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chigasaki-story-my-little-hometown",
+      "has_reactions": false
+    },
+    {
+      "id": "645c47d6-1a6d-4d0b-b855-f964fb7bbd2d",
+      "title": "March Goes out Like a Lamb",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "march-goes-out-like-a-lamb",
+      "has_reactions": false
+    },
+    {
+      "id": "193f3373-80f4-4a4c-a011-62d3ae4c196b",
+      "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable \u2013 Chapter 1",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "jojo-s-bizarre-adventure-diamond-is-unbreakable-chapter-1",
+      "has_reactions": false
+    },
+    {
+      "id": "2f356b93-b550-4ea9-914e-ddf44c6c4d2e",
+      "title": "March Comes In Like a Lion",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "march-comes-in-like-a-lion",
+      "has_reactions": false
+    },
+    {
+      "id": "40c0f1aa-03bb-4db2-8eb5-f49c01425c27",
+      "title": "Mary and The Witch's Flower",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "mary-and-the-witch-s-flower",
+      "has_reactions": false
+    },
+    {
+      "id": "b95ae391-2a0e-4cb9-b3c1-2d6b32dd705c",
+      "title": "Honto Ni Atta Kowai Hanashi 2018 SP",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "honto-ni-atta-kowai-hanashi-2018-sp",
+      "has_reactions": false
+    },
+    {
+      "id": "50d57258-5205-4867-8a28-92ebeb2c7883",
+      "title": "Murders at the House of Death",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "murders-at-the-house-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "bb5f71aa-f434-44f3-8f26-fb720da85487",
+      "title": "The Songs of Studio Ghibli",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-songs-of-studio-ghibli",
+      "has_reactions": false
+    },
+    {
+      "id": "15af6f1a-017b-4dc7-8713-374412cf1590",
+      "title": "Fortuna's Eye",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "fortuna-s-eye",
+      "has_reactions": false
+    },
+    {
+      "id": "b19ed26a-78e4-4f91-8ee4-41627bd5f69e",
+      "title": "Weathering with You",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "weathering-with-you",
+      "has_reactions": false
+    },
+    {
+      "id": "68f51365-2dd2-4978-abab-c9fc416c28c0",
+      "title": "Suddenly Reading!",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "suddenly-reading",
+      "has_reactions": false
+    },
+    {
+      "id": "5089bab4-14c4-40f2-ba88-cae125ce2b53",
+      "title": "Honto Ni Atta Kowai Hanashi: 2020 Tokubetsu-hen",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "honto-ni-atta-kowai-hanashi-2020-tokubetsu-hen",
+      "has_reactions": false
+    },
+    {
+      "id": "16435f30-9b74-46a3-9a3d-8ee15bd50696",
+      "title": "Kamiki Ryunosuke 25th Anniversary DVD",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "kamiki-ryunosuke-25th-anniversary-dvd",
+      "has_reactions": false
+    },
+    {
+      "id": "045ec63a-1e0d-4d5f-9f2d-312ce7bc44ab",
+      "title": "Last Letter",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "last-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "a668f4b0-f0e3-417b-b1c9-c69aae5f33b9",
+      "title": "Takeru No Plan Drive",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "takeru-no-plan-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "fa9e4aff-6656-426c-948d-b8073c0c6663",
+      "title": "The Great Yokai War: Guardians",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-great-yokai-war-guardians",
+      "has_reactions": false
+    },
+    {
+      "id": "cb4494fd-1f29-4137-a569-f44c9083bb92",
+      "title": "A Crocodile Who Lived for 100 Days",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "a-crocodile-who-lived-for-100-days",
+      "has_reactions": false
+    },
+    {
+      "id": "124e6c69-5e5e-46c1-ab6b-dc16875fd219",
+      "title": "Pa Rum Pum Pum Pum",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "pa-rum-pum-pum-pum",
+      "has_reactions": false
+    },
+    {
+      "id": "09d326ae-e823-48f5-955a-1662daad3928",
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "evangelion-3-0-1-0-thrice-upon-a-time",
+      "has_reactions": false
+    },
+    {
+      "id": "bf6f49f4-5062-4211-abc7-f0a267e5099b",
+      "title": "Rurouni Kenshin: The Final",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rurouni-kenshin-the-final",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c77539-11c9-4f80-8008-2849ac1d8885",
+      "title": "Ghost Book",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ghost-book",
+      "has_reactions": false
+    },
+    {
+      "id": "c6cf038e-1560-4ccb-a920-7ebba372b3c4",
+      "title": "xxxHOLiC",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "xxxholic",
+      "has_reactions": false
+    },
+    {
+      "id": "a2d762f8-5918-4fb3-9e5a-a738586e695f",
+      "title": "Noise",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "noise",
+      "has_reactions": false
+    },
+    {
+      "id": "f6c9db40-b425-434c-b90f-1eb1816ed416",
+      "title": "Suzume",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "suzume",
+      "has_reactions": false
+    },
+    {
+      "id": "4fbe03aa-1c40-4bbd-8543-30d80da8348f",
+      "title": "Dr. Coto's Clinic",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dr-coto-s-clinic",
+      "has_reactions": false
+    },
+    {
+      "id": "ee4b99ab-5fb6-4582-b7b6-66673c8255b6",
+      "title": "Godzilla Minus One",
+      "release_year": 2023,
+      "studio_label": "TOHO",
+      "slug": "godzilla-minus-one",
+      "has_reactions": true
+    },
+    {
+      "id": "a0dbaf2f-473b-4ced-9910-d6542b9ec314",
+      "title": "We're Broke, My Lord!",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "we-re-broke-my-lord",
+      "has_reactions": false
+    },
+    {
+      "id": "95059d83-fe66-48bc-8e9a-91de1e66298c",
+      "title": "The Last Town We Saw",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-last-town-we-saw",
+      "has_reactions": false
+    },
+    {
+      "id": "6bcf34dc-50e3-47ce-a7fa-b3d7cc4168c3",
+      "title": "At the Bench",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "at-the-bench",
+      "has_reactions": false
+    },
+    {
+      "id": "b82b39a1-4254-4caa-b874-b44b5cb561fc",
+      "title": "Saint Young Men The Movie ~Holy Men vs Demon Army~",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "saint-young-men-the-movie-holy-men-vs-demon-army",
+      "has_reactions": false
+    },
+    {
+      "id": "5b61745d-b51d-4193-b489-3d7cfd840f62",
+      "title": "Godzilla Minus Zero",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "godzilla-minus-zero",
+      "has_reactions": false
+    },
+    {
+      "id": "2ed51b41-1ed7-4b3f-83b6-d4ab070aba28",
+      "title": "Kimi no Kuizu",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "kimi-no-kuizu",
+      "has_reactions": false
+    }
+  ]
+}

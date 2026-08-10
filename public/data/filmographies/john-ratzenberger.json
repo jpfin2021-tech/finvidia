@@ -1,0 +1,536 @@
+{
+  "id": "b7493a70-e882-4fe5-817f-d7ce2f03f44c",
+  "name": "John Ratzenberger",
+  "slug": "john-ratzenberger",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+  "filmography": [
+    {
+      "id": "b4b2bcb3-ae0f-46c1-aa0a-ce66e230b852",
+      "title": "Valentino",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "valentino",
+      "has_reactions": false
+    },
+    {
+      "id": "1bb654d6-2ca2-4366-97cf-7bcbf6e1d45f",
+      "title": "A Bridge Too Far",
+      "release_year": 1977,
+      "studio_label": "United Artists",
+      "slug": "a-bridge-too-far",
+      "has_reactions": true
+    },
+    {
+      "id": "d935c6eb-f9ef-4401-b15c-28d10ab73080",
+      "title": "Twilight's Last Gleaming",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "twilight-s-last-gleaming",
+      "has_reactions": false
+    },
+    {
+      "id": "6149cb7d-000b-4805-b717-84a091d89256",
+      "title": "Superman",
+      "release_year": 1978,
+      "studio_label": "Dovemead Films",
+      "slug": "superman",
+      "has_reactions": true
+    },
+    {
+      "id": "3cde9da5-a372-420f-82d2-bca7e902eafe",
+      "title": "Superman II",
+      "release_year": 1980,
+      "studio_label": "Dovemead Films",
+      "slug": "superman-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "c9d34021-ea5c-44c6-bba6-3dd98d690bae",
+      "title": "The Empire Strikes Back",
+      "release_year": 1980,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-empire-strikes-back",
+      "has_reactions": true
+    },
+    {
+      "id": "c27e87be-6e73-4fdf-a445-5054b491d547",
+      "title": "Outland",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "outland",
+      "has_reactions": false
+    },
+    {
+      "id": "1ad43801-8a5f-4a98-95aa-81e05d6b39a9",
+      "title": "Ragtime",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ragtime",
+      "has_reactions": false
+    },
+    {
+      "id": "c8915509-adfa-43db-b6f2-4bed955923b4",
+      "title": "Reds",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "reds",
+      "has_reactions": false
+    },
+    {
+      "id": "9caca525-e8ca-4919-a33b-fffe4ded6bd9",
+      "title": "Battletruck",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "battletruck",
+      "has_reactions": false
+    },
+    {
+      "id": "216af077-1d98-4264-b40c-1ecc3e776850",
+      "title": "Gandhi",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "gandhi",
+      "has_reactions": false
+    },
+    {
+      "id": "be08f801-86a0-4a5d-aa3c-df0f325fe899",
+      "title": "Protocol",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "protocol",
+      "has_reactions": false
+    },
+    {
+      "id": "6b6e6732-72c2-437a-8911-0df3e7b36d7b",
+      "title": "The Falcon and the Snowman",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-falcon-and-the-snowman",
+      "has_reactions": false
+    },
+    {
+      "id": "9ad00755-ba65-4d9b-b97d-0bd0ba6ee614",
+      "title": "Combat Academy",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "combat-academy",
+      "has_reactions": false
+    },
+    {
+      "id": "93655b18-87f5-4348-9ef9-8d844ff35a85",
+      "title": "House II: The Second Story",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "house-ii-the-second-story",
+      "has_reactions": false
+    },
+    {
+      "id": "590613f4-9628-4e65-82b8-d6c7904e55fe",
+      "title": "Going to the Chapel",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "going-to-the-chapel",
+      "has_reactions": false
+    },
+    {
+      "id": "d076b30d-bffb-457b-928f-3770705c2381",
+      "title": "Mickey's 60th Birthday",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-60th-birthday",
+      "has_reactions": false
+    },
+    {
+      "id": "85c93f6a-9127-4688-b468-6ad9b4ced200",
+      "title": "Camp Cucamonga",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "camp-cucamonga",
+      "has_reactions": false
+    },
+    {
+      "id": "5008c4e7-cb51-441b-a982-d36d50813627",
+      "title": "Toy Story",
+      "release_year": 1995,
+      "studio_label": "Pixar",
+      "slug": "toy-story",
+      "has_reactions": true
+    },
+    {
+      "id": "fc6d1f2d-5b2c-4a2f-b213-4d8340a122bc",
+      "title": "The Story Behind 'Toy Story'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-story-behind-toy-story",
+      "has_reactions": false
+    },
+    {
+      "id": "158fa155-186e-4ab6-be2a-f408cc8e1b13",
+      "title": "Under Pressure",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "under-pressure",
+      "has_reactions": false
+    },
+    {
+      "id": "867a7dd0-9668-4adb-8a88-d7135315a7ce",
+      "title": "Dog's Best Friend",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "dog-s-best-friend",
+      "has_reactions": false
+    },
+    {
+      "id": "0c9f55bc-e6b8-4dc6-b05c-923bb6cdb32d",
+      "title": "That Darn Cat",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "that-darn-cat",
+      "has_reactions": false
+    },
+    {
+      "id": "2adba918-8b39-44d0-af08-dbd18d33fe32",
+      "title": "A Bug's Life",
+      "release_year": 1998,
+      "studio_label": "Pixar",
+      "slug": "a-bug-s-life",
+      "has_reactions": true
+    },
+    {
+      "id": "81e32e7b-c282-4c7a-a2a0-581a18c58d32",
+      "title": "Toy Story 2",
+      "release_year": 1999,
+      "studio_label": "Pixar",
+      "slug": "toy-story-2",
+      "has_reactions": true
+    },
+    {
+      "id": "3f933f76-229d-441c-9012-5f123edb6a32",
+      "title": "A Fare to Remember",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "a-fare-to-remember",
+      "has_reactions": false
+    },
+    {
+      "id": "eade5ebc-a92a-4255-a922-1d1c55f6fb4f",
+      "title": "Tick Tock",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "tick-tock",
+      "has_reactions": false
+    },
+    {
+      "id": "0b1fd50e-b097-4197-9a7c-b37515be44a1",
+      "title": "Monsters, Inc.",
+      "release_year": 2001,
+      "studio_label": "Pixar",
+      "slug": "monsters-inc",
+      "has_reactions": true
+    },
+    {
+      "id": "ddd58f54-e6c8-4420-a00e-ed295742394c",
+      "title": "Determination of Death",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "determination-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "8673aebe-6d0c-4e7c-b40e-cf3d4b235b16",
+      "title": "NBC 75th Anniversary Special",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "nbc-75th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "464b4540-0b56-4be6-8acb-1381f966c4e3",
+      "title": "Finding Nemo",
+      "release_year": 2003,
+      "studio_label": "Pixar",
+      "slug": "finding-nemo",
+      "has_reactions": true
+    },
+    {
+      "id": "467efbe3-056d-4eb5-a4ca-7e81409dae7e",
+      "title": "The Incredibles",
+      "release_year": 2004,
+      "studio_label": "Pixar",
+      "slug": "the-incredibles",
+      "has_reactions": true
+    },
+    {
+      "id": "c8e27c9a-b2d6-4bf2-b61f-cedee8fde5fc",
+      "title": "Cars",
+      "release_year": 2006,
+      "studio_label": "Pixar",
+      "slug": "cars",
+      "has_reactions": true
+    },
+    {
+      "id": "e6cbaf58-d148-4f4e-a580-801f610874bc",
+      "title": "Geared-Up",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "geared-up",
+      "has_reactions": false
+    },
+    {
+      "id": "54febbc5-2526-4f8c-b00f-b651ddf79361",
+      "title": "Mystery Woman: Redemption",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "mystery-woman-redemption",
+      "has_reactions": false
+    },
+    {
+      "id": "4adad770-de45-4bcf-afd7-0a72fce8eb5a",
+      "title": "Superman II: The Richard Donner Cut",
+      "release_year": 2006,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "superman-ii-the-richard-donner-cut",
+      "has_reactions": true
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    },
+    {
+      "id": "472df0d4-870f-4a17-b1e4-b46bf503d92c",
+      "title": "Ratatouille",
+      "release_year": 2007,
+      "studio_label": "Pixar",
+      "slug": "ratatouille",
+      "has_reactions": true
+    },
+    {
+      "id": "5ff5aed4-acd4-478a-87c2-e93868230eff",
+      "title": "WALL\u00b7E",
+      "release_year": 2008,
+      "studio_label": "Pixar",
+      "slug": "wall-e",
+      "has_reactions": true
+    },
+    {
+      "id": "449880d3-253c-4573-88ff-ae4b7985a1c8",
+      "title": "The Village Barbershop",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-village-barbershop",
+      "has_reactions": false
+    },
+    {
+      "id": "368b3802-8424-436d-b19a-194f7c0d3058",
+      "title": "Up",
+      "release_year": 2009,
+      "studio_label": "Pixar",
+      "slug": "up",
+      "has_reactions": true
+    },
+    {
+      "id": "18d16b87-e38f-4671-a67f-36d1f95de53b",
+      "title": "Toy Story 3",
+      "release_year": 2010,
+      "studio_label": "Pixar",
+      "slug": "toy-story-3",
+      "has_reactions": true
+    },
+    {
+      "id": "f7917539-0b2c-437f-92ca-f36330fbaeb1",
+      "title": "What if...",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "what-if",
+      "has_reactions": false
+    },
+    {
+      "id": "69b5976f-bf4b-4391-8d14-7b36660d91a4",
+      "title": "Hawaiian Vacation",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "hawaiian-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "6a6c40d4-cade-427e-8607-fbb36875a73c",
+      "title": "Matchmaker Santa",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "matchmaker-santa",
+      "has_reactions": false
+    },
+    {
+      "id": "43ee3328-562c-451a-a6f0-e6517ba08bed",
+      "title": "Brave",
+      "release_year": 2012,
+      "studio_label": "Pixar",
+      "slug": "brave",
+      "has_reactions": true
+    },
+    {
+      "id": "62c976f5-0fb7-4031-9cbc-7afd78053d1b",
+      "title": "Monsters University",
+      "release_year": 2013,
+      "studio_label": "Pixar",
+      "slug": "monsters-university",
+      "has_reactions": true
+    },
+    {
+      "id": "1f9c8d98-32dd-4f58-b7dd-fcd112337c16",
+      "title": "In The Name of God",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "in-the-name-of-god",
+      "has_reactions": false
+    },
+    {
+      "id": "73e561d9-caf2-4f86-ab81-34e1598eec6a",
+      "title": "How Murray Saved Christmas",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "how-murray-saved-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "b909ce59-e7ea-4681-aa41-f670ea1842d1",
+      "title": "A Christmas Mystery",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "ef5e4075-4555-42cb-a337-bbdefe96652f",
+      "title": "The Good Dinosaur",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-good-dinosaur",
+      "has_reactions": false
+    },
+    {
+      "id": "95249c0c-5b3f-42ec-aaa8-c3bef25b883e",
+      "title": "Inside Out",
+      "release_year": 2015,
+      "studio_label": "Pixar",
+      "slug": "inside-out",
+      "has_reactions": true
+    },
+    {
+      "id": "abdb4e34-72ee-43fd-bf7b-0a980c7e8464",
+      "title": "Russell Madness",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "russell-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "958a6991-0d52-4571-a669-95062cd24e36",
+      "title": "Monkey Up",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "monkey-up",
+      "has_reactions": false
+    },
+    {
+      "id": "f42dbb51-49df-4d55-99a1-0afed51fa89c",
+      "title": "Must See TV: An All Star Tribute to James Burrows",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "must-see-tv-an-all-star-tribute-to-james-burrows",
+      "has_reactions": false
+    },
+    {
+      "id": "82aa925e-650b-4650-99d1-6507eec08d04",
+      "title": "Finding Dory",
+      "release_year": 2016,
+      "studio_label": "Pixar",
+      "slug": "finding-dory",
+      "has_reactions": true
+    },
+    {
+      "id": "ba1d4240-32ad-4d54-b0a6-8a660c5fba19",
+      "title": "Cars 3",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cars-3",
+      "has_reactions": false
+    },
+    {
+      "id": "a44639a2-d94e-4f01-b360-4c4761851c78",
+      "title": "Coco",
+      "release_year": 2017,
+      "studio_label": "Pixar",
+      "slug": "coco",
+      "has_reactions": true
+    },
+    {
+      "id": "1ca41d1b-7183-4d33-b945-2f1d57dc7f23",
+      "title": "Incredibles 2",
+      "release_year": 2018,
+      "studio_label": "Pixar",
+      "slug": "incredibles-2",
+      "has_reactions": true
+    },
+    {
+      "id": "1cc55fd2-05fd-47d1-be2b-5e0548391160",
+      "title": "Shifting Gears",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "shifting-gears",
+      "has_reactions": false
+    },
+    {
+      "id": "f236f2ae-1131-4533-9d4c-4e5afc1b5713",
+      "title": "Toy Story 4",
+      "release_year": 2019,
+      "studio_label": "Pixar",
+      "slug": "toy-story-4",
+      "has_reactions": true
+    },
+    {
+      "id": "146ca4a4-4969-4110-964f-784eaf6a5d53",
+      "title": "Miracle in East Texas",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "miracle-in-east-texas",
+      "has_reactions": false
+    },
+    {
+      "id": "89bbe886-6ca1-4e47-ade7-6b58fd24249a",
+      "title": "Luck",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "luck",
+      "has_reactions": false
+    },
+    {
+      "id": "6467cd6d-9e5d-4120-8ce6-f494dd3ff4ba",
+      "title": "Inside Out 2",
+      "release_year": 2024,
+      "studio_label": "Pixar",
+      "slug": "inside-out-2",
+      "has_reactions": true
+    },
+    {
+      "id": "5cdc630e-534d-4b67-a2dc-9a3c58e2c3cb",
+      "title": "Spellbound",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "spellbound",
+      "has_reactions": false
+    },
+    {
+      "id": "de49bf9d-604b-4809-b4fb-79de449a2b33",
+      "title": "Tapawingo",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "tapawingo",
+      "has_reactions": false
+    }
+  ]
+}

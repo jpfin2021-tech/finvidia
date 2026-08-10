@@ -1,0 +1,32 @@
+{
+  "id": "ecb1f366-4423-40a8-b9da-b01d501278ab",
+  "name": "Christina Ma",
+  "slug": "christina-ma",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "2e815cc3-8d59-4524-8fd1-104ff24cd339",
+      "title": "Mulan",
+      "release_year": 1998,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "mulan",
+      "has_reactions": true
+    },
+    {
+      "id": "a3e43f1d-0be8-4376-846f-e99559902336",
+      "title": "Long Life, Happiness and Prosperity",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "long-life-happiness-and-prosperity",
+      "has_reactions": false
+    },
+    {
+      "id": "8a5e4032-ab44-48b0-a4a9-154da24e169f",
+      "title": "Close Call",
+      "release_year": 2004,
+      "studio_label": "Prime Media Pictures",
+      "slug": "close-call",
+      "has_reactions": false
+    }
+  ]
+}

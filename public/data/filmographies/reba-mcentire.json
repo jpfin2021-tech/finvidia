@@ -1,0 +1,384 @@
+{
+  "id": "2ef9abee-bab7-4124-a87e-763e52a6f5cd",
+  "name": "Reba McEntire",
+  "slug": "reba-mcentire",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/q4T5XDHzVepqQi4NoqI9GKJcD3s.jpg",
+  "filmography": [
+    {
+      "id": "62c1edd6-6731-4f94-b468-c6b48f203e05",
+      "title": "Red Blooded",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "red-blooded",
+      "has_reactions": false
+    },
+    {
+      "id": "29bee075-06ff-4aab-bad1-7c9713f8093e",
+      "title": "The All-Girl Filling Station",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-all-girl-filling-station",
+      "has_reactions": false
+    },
+    {
+      "id": "41072f37-ebc9-4d7c-bf2f-b4dddc330ec4",
+      "title": "Reba: In Concert",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "reba-in-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "2296e7df-02cd-4583-9722-b6237e3e11a6",
+      "title": "Johnny Cash and the Country Girls",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "johnny-cash-and-the-country-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "9c8116b1-e1bd-45a7-88a1-5e1a8bcb1494",
+      "title": "Happy Birthday, Bob: 50 Stars Salute Your 50 Years with NBC",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "happy-birthday-bob-50-stars-salute-your-50-years-with-nbc",
+      "has_reactions": false
+    },
+    {
+      "id": "7a6bbd05-7bf4-401b-8325-8522117a4135",
+      "title": "Tremors",
+      "release_year": 1990,
+      "studio_label": "No Frills Film",
+      "slug": "tremors",
+      "has_reactions": true
+    },
+    {
+      "id": "9d3fcd66-29a2-45d8-93f6-e092619bfa37",
+      "title": "The Women of Country",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-women-of-country",
+      "has_reactions": false
+    },
+    {
+      "id": "267c23c5-f651-414c-9733-88adb14c33b6",
+      "title": "The Man from Left Field",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-man-from-left-field",
+      "has_reactions": false
+    },
+    {
+      "id": "c0e9d8df-bdd3-46a1-9fac-bd51641b255d",
+      "title": "Reba McEntire \u2013 Greatest Hits",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "reba-mcentire-greatest-hits",
+      "has_reactions": false
+    },
+    {
+      "id": "81fdf049-f4bf-473e-be43-647a0c7d07b1",
+      "title": "North",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "north",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c9d4b2-78c9-4231-8cca-e5cbe5e011bd",
+      "title": "Is There Life Out There?",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "is-there-life-out-there",
+      "has_reactions": false
+    },
+    {
+      "id": "46849ef3-a37e-4bef-a4ad-19addbe67709",
+      "title": "Maverick",
+      "release_year": 1994,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "maverick",
+      "has_reactions": true
+    },
+    {
+      "id": "9e6063a1-dc4a-4b8b-8a6e-7a3facaf7c39",
+      "title": "The Little Rascals",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-little-rascals",
+      "has_reactions": false
+    },
+    {
+      "id": "29f99895-834d-450d-b507-9ad3910a363d",
+      "title": "Buffalo Girls",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "buffalo-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "b55f1663-7a6e-434a-a11a-a12d46ad2b32",
+      "title": "Reba | Live",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "reba-live",
+      "has_reactions": false
+    },
+    {
+      "id": "ee68724a-9b0d-4157-a118-db166f235884",
+      "title": "Moments & Memories",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "moments-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "44e55c47-2cee-4a6c-8c5d-e45d08b823ef",
+      "title": "Forever Love",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "forever-love",
+      "has_reactions": false
+    },
+    {
+      "id": "bbf9ec64-d029-4c9b-93d2-2a0f7011531b",
+      "title": "Secret of Giving",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "secret-of-giving",
+      "has_reactions": false
+    },
+    {
+      "id": "9c776c76-cc02-4490-89ab-85ca38b51e5c",
+      "title": "Elizabeth Taylor: A Musical Celebration",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "elizabeth-taylor-a-musical-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "3fee715c-3701-495d-aee8-a01f07612705",
+      "title": "One Night at McCool's",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "one-night-at-mccool-s",
+      "has_reactions": false
+    },
+    {
+      "id": "311b462a-76c1-4651-b739-70c961a1ecc4",
+      "title": "Genius. A Night for Ray Charles",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "genius-a-night-for-ray-charles",
+      "has_reactions": false
+    },
+    {
+      "id": "1c5853e9-1408-4b36-b48b-592a30ac19bd",
+      "title": "George Jones: 50 Years of Hits",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "george-jones-50-years-of-hits",
+      "has_reactions": false
+    },
+    {
+      "id": "3cb7b371-41c3-4344-a0d9-818d0944fe6d",
+      "title": "Time Life Presents Country Legends Live, Vol. 4",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "time-life-presents-country-legends-live-vol-4",
+      "has_reactions": false
+    },
+    {
+      "id": "45034e4a-6d00-45fd-82f5-98e723e96a62",
+      "title": "Reba | Video Gold I",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "reba-video-gold-i",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b1d88d-9fd0-49aa-819b-7082f6628d44",
+      "title": "The Fox and the Hound 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-fox-and-the-hound-2",
+      "has_reactions": false
+    },
+    {
+      "id": "32e79241-be41-4564-967b-eacc62aecaa9",
+      "title": "Reba McEntire and Kelly Clarkson: CMT Crossroads",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "reba-mcentire-and-kelly-clarkson-cmt-crossroads",
+      "has_reactions": false
+    },
+    {
+      "id": "8a865d21-4a56-49d7-af6d-d6f976e1c2fe",
+      "title": "Reba CMT Invitation Only",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "reba-cmt-invitation-only",
+      "has_reactions": false
+    },
+    {
+      "id": "d4e88b57-22d7-419d-ad12-a1739ef8abb6",
+      "title": "Girls' Night Out: Superstar Women of Country",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "girls-night-out-superstar-women-of-country",
+      "has_reactions": false
+    },
+    {
+      "id": "e0ab2a9a-b913-47c6-9840-df826435297e",
+      "title": "Blake Shelton's Not So Family Christmas",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "blake-shelton-s-not-so-family-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "54924351-fc52-4cfa-b3cf-ab2c5e62d932",
+      "title": "America's Sweethearts: Queens of Nashville",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "america-s-sweethearts-queens-of-nashville",
+      "has_reactions": false
+    },
+    {
+      "id": "504959a5-42db-49b0-a4af-14460ee964a9",
+      "title": "America's Sweethearts: Queens Of Nashville",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "america-s-sweethearts-queens-of-nashville",
+      "has_reactions": false
+    },
+    {
+      "id": "90d06494-b993-46fc-aa70-2c626858f717",
+      "title": "Disney Parks Unforgettable Christmas Celebration",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "disney-parks-unforgettable-christmas-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "2a2f6112-ebf4-4a80-ab8f-f3a330f15e9d",
+      "title": "The Land Before Time XIV: Journey of the Brave",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-land-before-time-xiv-journey-of-the-brave",
+      "has_reactions": false
+    },
+    {
+      "id": "439b9789-1dd4-49ca-bada-057e978492c1",
+      "title": "Loretta Lynn: Still a Mountain Girl",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "loretta-lynn-still-a-mountain-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "451d84f6-a071-4b99-999a-e17fb10dc68c",
+      "title": "A Pentatonix Christmas Special",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "a-pentatonix-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "fa77e99d-ec78-4a5a-b7ac-3bd0a443c14e",
+      "title": "Brad Paisley's Comedy Rodeo",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "brad-paisley-s-comedy-rodeo",
+      "has_reactions": false
+    },
+    {
+      "id": "298c6716-3f1e-4bd4-a90b-66a463e83cec",
+      "title": "All In For The Gambler: Kenny Rogers Farewell Concert Celebration",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "all-in-for-the-gambler-kenny-rogers-farewell-concert-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "15162994-66f9-4c91-b66d-21d5d506a426",
+      "title": "CMA Country Christmas 2017",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cma-country-christmas-2017",
+      "has_reactions": false
+    },
+    {
+      "id": "5bd54066-da97-4a1b-84bc-57cf5ecf57a5",
+      "title": "When Patsy Cline Was... Crazy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "when-patsy-cline-was-crazy",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6627ef-2dbe-4528-aa97-e026d9fda479",
+      "title": "CMA Country Christmas 2018",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "cma-country-christmas-2018",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9aea11-57f5-45a7-a1f6-a91fc854509f",
+      "title": "Spies in Disguise",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "spies-in-disguise",
+      "has_reactions": false
+    },
+    {
+      "id": "53027bbc-64c7-4690-91a4-df45cbd87400",
+      "title": "Kenny Rogers: All in for the Gambler",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "kenny-rogers-all-in-for-the-gambler",
+      "has_reactions": false
+    },
+    {
+      "id": "ba0c0da9-c298-48af-8371-d32d71e613e1",
+      "title": "Christmas in Tune",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "christmas-in-tune",
+      "has_reactions": false
+    },
+    {
+      "id": "ebca1345-40b1-497f-9851-d39491f0c1a9",
+      "title": "Dear Rodeo: The Cody Johnson Story",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dear-rodeo-the-cody-johnson-story",
+      "has_reactions": false
+    },
+    {
+      "id": "8d4160f2-81eb-4522-b16b-c4149dec5a85",
+      "title": "Coal Miner's Daughter: A Celebration of the Life and Music of Loretta Lynn",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "coal-miner-s-daughter-a-celebration-of-the-life-and-music-of-loretta-lynn",
+      "has_reactions": false
+    },
+    {
+      "id": "1225564d-cce4-4abe-8e33-5151b5137d32",
+      "title": "American Music Awards 50th Anniversary Special",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "american-music-awards-50th-anniversary-special",
+      "has_reactions": false
+    },
+    {
+      "id": "23eca7d6-b18a-40bc-99fd-942ba422f118",
+      "title": "Opry 100: A Live Celebration",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "opry-100-a-live-celebration",
+      "has_reactions": false
+    }
+  ]
+}

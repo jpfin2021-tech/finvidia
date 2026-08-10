@@ -1,0 +1,656 @@
+{
+  "id": "a5591f22-70cf-4073-b2f5-ab7f4a281c21",
+  "name": "Matthew Modine",
+  "slug": "matthew-modine",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/z974QEHL12qUvLyk6hlWGAmDgom.jpg",
+  "filmography": [
+    {
+      "id": "b19b55fb-99be-4db6-be1f-bc4987320e03",
+      "title": "Amy and the Angel",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "amy-and-the-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "4847f605-de90-4689-8893-45a93425c354",
+      "title": "Streamers",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "streamers",
+      "has_reactions": false
+    },
+    {
+      "id": "523f4f29-d16b-4d54-a419-cbd92aab1f19",
+      "title": "Private School",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "private-school",
+      "has_reactions": false
+    },
+    {
+      "id": "ccb41b2d-a7aa-4b08-bd25-5eb13ce6b002",
+      "title": "Birdy",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "birdy",
+      "has_reactions": false
+    },
+    {
+      "id": "9a6b89ea-b268-462a-85ce-b0dbbcddc1f8",
+      "title": "Full Metal Jacket",
+      "release_year": 1987,
+      "studio_label": "Natant",
+      "slug": "full-metal-jacket",
+      "has_reactions": true
+    },
+    {
+      "id": "08c941aa-0920-4c1a-9858-da435ece2785",
+      "title": "The Gamble",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-gamble",
+      "has_reactions": false
+    },
+    {
+      "id": "9445c92d-d867-40ca-a8fe-b457407d46da",
+      "title": "Gross Anatomy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "gross-anatomy",
+      "has_reactions": false
+    },
+    {
+      "id": "c7f73e02-e754-4525-8828-5b5daf8b5d69",
+      "title": "Memphis Belle",
+      "release_year": 1990,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "memphis-belle",
+      "has_reactions": true
+    },
+    {
+      "id": "44a5c81f-5a22-4ad5-8e51-5c173cd1bae6",
+      "title": "Pacific Heights",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "pacific-heights",
+      "has_reactions": false
+    },
+    {
+      "id": "30fc883d-c6ce-49c0-ab85-94c12d146c78",
+      "title": "Wind",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "wind",
+      "has_reactions": false
+    },
+    {
+      "id": "26d3e0b9-244e-4866-b223-b13f72877f80",
+      "title": "Equinox",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "equinox",
+      "has_reactions": false
+    },
+    {
+      "id": "c46f4fa6-4e72-41d0-be43-6d808a0ec1f8",
+      "title": "The Tree",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "ce8b9c7e-8001-460f-8e9c-1ec917dc152e",
+      "title": "Cutthroat Island",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "cutthroat-island",
+      "has_reactions": false
+    },
+    {
+      "id": "e269f31d-7d43-49c4-8e07-2c1506332d5f",
+      "title": "Bye Bye Love",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "bye-bye-love",
+      "has_reactions": false
+    },
+    {
+      "id": "2321bed2-dd5a-4363-8df2-7381a468738b",
+      "title": "Fluke",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "fluke",
+      "has_reactions": false
+    },
+    {
+      "id": "a8fca61d-7e16-4c26-b25a-e66a8768c620",
+      "title": "The Blackout",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "8d315880-af30-44c9-9d96-5e2542225e43",
+      "title": "What the Deaf Man Heard",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "what-the-deaf-man-heard",
+      "has_reactions": false
+    },
+    {
+      "id": "f5e73507-19c6-4e21-ac45-1a00d391e617",
+      "title": "The Maker",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-maker",
+      "has_reactions": false
+    },
+    {
+      "id": "22d8448e-b5b7-4ea1-86c4-8d8e3e5729bb",
+      "title": "The Real Blonde",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-real-blonde",
+      "has_reactions": false
+    },
+    {
+      "id": "669d32dd-b99e-432d-9e1f-c5466647904d",
+      "title": "The American",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-american",
+      "has_reactions": false
+    },
+    {
+      "id": "5f83a42d-1c12-475a-a4d1-710e4ba4e954",
+      "title": "Saturday Night Live: The Best of Phil Hartman",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-phil-hartman",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e4a3dc-61af-4f8b-9903-55848d86b4c8",
+      "title": "Notting Hill",
+      "release_year": 1999,
+      "studio_label": "Working Title Films",
+      "slug": "notting-hill",
+      "has_reactions": true
+    },
+    {
+      "id": "5495d067-3016-4d2b-9bea-40eff5f58fd8",
+      "title": "Flowers for Algernon",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "flowers-for-algernon",
+      "has_reactions": false
+    },
+    {
+      "id": "97df5f04-f6e2-4567-945c-2554b3b214f9",
+      "title": "Very Mean Men",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "very-mean-men",
+      "has_reactions": false
+    },
+    {
+      "id": "52f25f89-2f2c-4470-9343-db57342bb814",
+      "title": "Bamboozled",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "bamboozled",
+      "has_reactions": false
+    },
+    {
+      "id": "46fe0bcd-b565-44dd-8fdd-8fabe646f9fc",
+      "title": "The Shipment",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-shipment",
+      "has_reactions": false
+    },
+    {
+      "id": "2675b26e-a88a-417d-b5da-a12f1761351b",
+      "title": "Nobody's Baby",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "nobody-s-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "d250b31b-8c27-44c0-88b6-a234a23a8b35",
+      "title": "Stanley Kubrick: A Life in Pictures",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "stanley-kubrick-a-life-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "82b0885e-0d4a-4ac6-9739-3f031279646d",
+      "title": "Redeemer",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "redeemer",
+      "has_reactions": false
+    },
+    {
+      "id": "755eeb72-fa08-4280-8b23-b30112421aae",
+      "title": "Le Divorce",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "le-divorce",
+      "has_reactions": false
+    },
+    {
+      "id": "e8b72479-324e-4c81-ade7-e2b9d6c83b1a",
+      "title": "Overnight",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "overnight",
+      "has_reactions": false
+    },
+    {
+      "id": "d4570c14-5022-444a-917f-86bcc940db6c",
+      "title": "Funky Monkey",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "funky-monkey",
+      "has_reactions": false
+    },
+    {
+      "id": "446a8a70-3b42-4f30-9d56-dd689b630854",
+      "title": "Hollywood North",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hollywood-north",
+      "has_reactions": false
+    },
+    {
+      "id": "dc101873-5660-4d95-8862-288f8d615369",
+      "title": "The Winning Season",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-winning-season",
+      "has_reactions": false
+    },
+    {
+      "id": "7e35b524-2463-48d2-934a-ad899f8094db",
+      "title": "Transporter 2",
+      "release_year": 2005,
+      "studio_label": "EuropaCorp",
+      "slug": "transporter-2",
+      "has_reactions": true
+    },
+    {
+      "id": "e80a5ee6-abae-4aec-af93-a492fceb22f1",
+      "title": "Opa!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "opa",
+      "has_reactions": false
+    },
+    {
+      "id": "71b6675a-df29-48d3-a23f-83e69988175f",
+      "title": "Mary",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mary",
+      "has_reactions": false
+    },
+    {
+      "id": "fe07e00b-522c-471f-912e-485a5eb5224f",
+      "title": "Kettle of Fish",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "kettle-of-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "0ecfa8d8-252a-4101-b16b-ca6aba18cad7",
+      "title": "The Neighbor",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-neighbor",
+      "has_reactions": false
+    },
+    {
+      "id": "3d93c1f3-3a53-410a-ac82-eb357a108baa",
+      "title": "Cowboy",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cowboy",
+      "has_reactions": false
+    },
+    {
+      "id": "4196d39c-01d3-4840-87de-557280bff6d4",
+      "title": "I Think I Thought",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "i-think-i-thought",
+      "has_reactions": false
+    },
+    {
+      "id": "1c632860-bebd-4fcd-9625-cc817016db93",
+      "title": "Go Go Tales",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "go-go-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "cb3c8a0d-ca99-45e8-b088-ecdcf9b9fbb4",
+      "title": "Santa: The Fascist Years",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "santa-the-fascist-years",
+      "has_reactions": false
+    },
+    {
+      "id": "9466f1b1-8249-4e69-ae8e-6f97bad4b13a",
+      "title": "Little Fish, Strange Pond",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "little-fish-strange-pond",
+      "has_reactions": false
+    },
+    {
+      "id": "ee860ddb-cb6c-4308-a916-e6a74b9e1075",
+      "title": "Sex and Lies in Sin City",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "sex-and-lies-in-sin-city",
+      "has_reactions": false
+    },
+    {
+      "id": "ae2cc1a4-a491-491c-8d69-d8c049c434f1",
+      "title": "The Trial",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-trial",
+      "has_reactions": false
+    },
+    {
+      "id": "3f7ae7fb-0d9a-444a-b956-b149738f0791",
+      "title": "Mulberry St.",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mulberry-st",
+      "has_reactions": false
+    },
+    {
+      "id": "92015dd4-c9f4-48f6-82c3-aeabca9c72cb",
+      "title": "Too Big to Fail",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "too-big-to-fail",
+      "has_reactions": false
+    },
+    {
+      "id": "71764732-203c-46f6-a016-ff1c8e4887aa",
+      "title": "Jesus Was a Commie",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jesus-was-a-commie",
+      "has_reactions": false
+    },
+    {
+      "id": "9707c6b2-afc7-4ec9-a5c7-154063906b68",
+      "title": "Adventures in Plymptoons!",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "adventures-in-plymptoons",
+      "has_reactions": false
+    },
+    {
+      "id": "9514d623-4a08-4ba5-a5d8-613999c5e5dc",
+      "title": "The Dark Knight Rises",
+      "release_year": 2012,
+      "studio_label": "Syncopy",
+      "slug": "the-dark-knight-rises",
+      "has_reactions": true
+    },
+    {
+      "id": "1de0241d-87d0-4a3d-b987-5aa84f8c5d17",
+      "title": "Girl in Progress",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "girl-in-progress",
+      "has_reactions": false
+    },
+    {
+      "id": "ab2989fa-51e7-4e28-9cb8-765e2ac73a55",
+      "title": "Family Weekend",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "family-weekend",
+      "has_reactions": false
+    },
+    {
+      "id": "79bfbe6a-1a12-46e9-99cf-52950cb7d00b",
+      "title": "Jobs",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jobs",
+      "has_reactions": false
+    },
+    {
+      "id": "1c3c6e29-6005-42f5-bbcb-fed212e4b065",
+      "title": "How Bizarre: The Story of an Otara Millionaire",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "how-bizarre-the-story-of-an-otara-millionaire",
+      "has_reactions": false
+    },
+    {
+      "id": "d08fb336-b064-4787-9a84-904b91f6eb19",
+      "title": "Guests",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "guests",
+      "has_reactions": false
+    },
+    {
+      "id": "fd3a29ec-10cc-46cd-9105-31b93891f4b9",
+      "title": "Kubrick Remembered",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kubrick-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "f4ec1b3f-edbc-4ae2-be31-9bde0371a2ea",
+      "title": "Altar",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "altar",
+      "has_reactions": false
+    },
+    {
+      "id": "4cba69a8-5dc4-454e-9996-1ac4a23f235f",
+      "title": "The Brainwashing of My Dad",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-brainwashing-of-my-dad",
+      "has_reactions": false
+    },
+    {
+      "id": "384aa153-ded2-4c04-9521-6952cf5b5300",
+      "title": "Merry Xmas",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "merry-xmas",
+      "has_reactions": false
+    },
+    {
+      "id": "cb80ebd8-72b0-4d59-95a2-586d81faf780",
+      "title": "The Heyday of the Insensitive Bastards",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-heyday-of-the-insensitive-bastards",
+      "has_reactions": false
+    },
+    {
+      "id": "e0f801ee-1900-476a-afd3-ca7616f10d54",
+      "title": "Army of One",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "army-of-one",
+      "has_reactions": false
+    },
+    {
+      "id": "f980ea55-d1a3-475e-a1d4-046360651c96",
+      "title": "The Confirmation",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-confirmation",
+      "has_reactions": false
+    },
+    {
+      "id": "d8a28494-2a08-4114-b341-c9065a08e42e",
+      "title": "How to Grow Up Despite Your Parents",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "how-to-grow-up-despite-your-parents",
+      "has_reactions": false
+    },
+    {
+      "id": "dec48626-181b-4b66-83f4-f65e8782eff1",
+      "title": "Revengeance",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "revengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "189a2f47-11cc-4e99-9383-aa82b322fd40",
+      "title": "The Hippopotamus",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-hippopotamus",
+      "has_reactions": false
+    },
+    {
+      "id": "b8755b8f-f39a-444d-b0ee-5b87a4b64f4c",
+      "title": "47 Meters Down",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "47-meters-down",
+      "has_reactions": false
+    },
+    {
+      "id": "7c16e2c8-2c07-44d5-aa41-fdba0b271832",
+      "title": "Sicario: Day of the Soldado",
+      "release_year": 2018,
+      "studio_label": "Thunder Road",
+      "slug": "sicario-day-of-the-soldado",
+      "has_reactions": true
+    },
+    {
+      "id": "4447935c-b15b-4d06-a81b-bd99d5bd26e8",
+      "title": "Backtrace",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "backtrace",
+      "has_reactions": false
+    },
+    {
+      "id": "7d4ba3b3-0953-4d60-90a3-520fc0c6b560",
+      "title": "Speed Kills",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "speed-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "49fda05f-cca1-47b9-9bfd-29da70121343",
+      "title": "Filmworker",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "filmworker",
+      "has_reactions": false
+    },
+    {
+      "id": "a7caf82c-3d32-4302-bc4b-b16ec5ec3807",
+      "title": "Miss Virginia",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "miss-virginia",
+      "has_reactions": false
+    },
+    {
+      "id": "f65b346f-a9c6-4d89-b03e-86f9384588ec",
+      "title": "Foster Boy",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "foster-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "86db558f-6492-4ac8-9614-4cfe07df7d97",
+      "title": "Chance",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "chance",
+      "has_reactions": false
+    },
+    {
+      "id": "812a18a3-b2d1-4b85-9b9a-c7d152b6beef",
+      "title": "Against the Current",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "against-the-current",
+      "has_reactions": false
+    },
+    {
+      "id": "19fcee6b-ccda-45a5-a4dd-e7cbb8913597",
+      "title": "Wrong Turn",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "wrong-turn",
+      "has_reactions": false
+    },
+    {
+      "id": "5a6ed766-4e3e-4068-9e17-1c3d84737e94",
+      "title": "Retribution",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "retribution",
+      "has_reactions": false
+    },
+    {
+      "id": "a54d9341-4840-4efa-970f-2414f3d1a50b",
+      "title": "Accidental Truth: UFO Revelations",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "accidental-truth-ufo-revelations",
+      "has_reactions": false
+    },
+    {
+      "id": "f4de0b13-51af-42de-ad22-c0fa34967ff8",
+      "title": "The Martini Shot",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-martini-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7e20a9-8e60-41be-8e35-340df168fd08",
+      "title": "Oppenheimer",
+      "release_year": 2023,
+      "studio_label": "Syncopy",
+      "slug": "oppenheimer",
+      "has_reactions": true
+    },
+    {
+      "id": "45624787-e65c-48a5-a305-cdb6cbe7bcc9",
+      "title": "Hard Miles",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hard-miles",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e6ebfac3-ecb9-4437-b939-0c52060a5603",
+  "name": "Ester Dean",
+  "slug": "ester-dean",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jJNJGxxofOwxGxfKLqGPNGXzBhd.jpg",
+  "filmography": [
+    {
+      "id": "b7fab7b3-6164-4f97-8d77-9233881716b9",
+      "title": "Rio",
+      "release_year": 2011,
+      "studio_label": "Blue Sky Studios",
+      "slug": "rio",
+      "has_reactions": true
+    },
+    {
+      "id": "212079f3-b2eb-4471-b1fd-68a21bff8e8e",
+      "title": "Pitch Perfect",
+      "release_year": 2012,
+      "studio_label": "Brownstone Productions",
+      "slug": "pitch-perfect",
+      "has_reactions": true
+    },
+    {
+      "id": "f4dc8e7a-eaa4-437d-92b1-2c0ffc9f109e",
+      "title": "Ice Age: Continental Drift",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ice-age-continental-drift",
+      "has_reactions": false
+    },
+    {
+      "id": "66f45cb1-be62-439a-82d4-97046f4131f9",
+      "title": "Pitch Perfect 2",
+      "release_year": 2015,
+      "studio_label": "Brownstone Productions",
+      "slug": "pitch-perfect-2",
+      "has_reactions": true
+    },
+    {
+      "id": "3ee790cc-212c-4aa1-905f-6385582001bc",
+      "title": "Pitch Perfect 3",
+      "release_year": 2017,
+      "studio_label": "Gold Circle Films",
+      "slug": "pitch-perfect-3",
+      "has_reactions": true
+    }
+  ]
+}

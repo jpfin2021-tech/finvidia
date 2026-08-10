@@ -1,0 +1,504 @@
+{
+  "id": "55a855b3-c89c-4dda-afe3-59fc818d98ea",
+  "name": "Stanley Tucci",
+  "slug": "stanley-tucci",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
+  "filmography": [
+    {
+      "id": "4ef93f12-0fc4-4df8-be5b-185277947c3c",
+      "title": "Who's That Girl",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "who-s-that-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "7f01010f-e46e-4ce3-adb6-356305342af3",
+      "title": "Quick Change",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "quick-change",
+      "has_reactions": false
+    },
+    {
+      "id": "bbc8bc71-5b22-439e-ad47-1045d7938e38",
+      "title": "Revealing Evidence: Stalking the Honolulu Strangler",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "revealing-evidence-stalking-the-honolulu-strangler",
+      "has_reactions": false
+    },
+    {
+      "id": "117f578b-b0f9-41ee-b2b1-79553ab77b00",
+      "title": "The Gun in Betty Lou's Handbag",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-gun-in-betty-lou-s-handbag",
+      "has_reactions": false
+    },
+    {
+      "id": "c0217f1c-0f73-4860-810f-2af2442e5360",
+      "title": "Beethoven",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "beethoven",
+      "has_reactions": false
+    },
+    {
+      "id": "c74626c6-5178-4180-ad62-7ba5ce47cf4d",
+      "title": "Undercover Blues",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "undercover-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "671762b9-83c0-4f3f-b11c-63f619438bb9",
+      "title": "The Pelican Brief",
+      "release_year": 1993,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-pelican-brief",
+      "has_reactions": true
+    },
+    {
+      "id": "4817014a-2066-4909-8629-09c4827436c0",
+      "title": "It Could Happen to You",
+      "release_year": 1994,
+      "studio_label": "TriStar Pictures",
+      "slug": "it-could-happen-to-you",
+      "has_reactions": true
+    },
+    {
+      "id": "c8964ea3-7582-4a97-83df-b3f925b06af3",
+      "title": "Mrs. Parker and the Vicious Circle",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "mrs-parker-and-the-vicious-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "f1fe18f3-5142-48ff-9e32-b480c065da1a",
+      "title": "Kiss of Death",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "kiss-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "e5b4c89e-2e32-47b1-9058-7c601470ce46",
+      "title": "Jury Duty",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "jury-duty",
+      "has_reactions": false
+    },
+    {
+      "id": "1b153f42-8353-402a-b48c-d763294812b7",
+      "title": "Big Night",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "big-night",
+      "has_reactions": false
+    },
+    {
+      "id": "51f3c4a1-b61b-4dd4-8324-24606cae0cca",
+      "title": "Deconstructing Harry",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "deconstructing-harry",
+      "has_reactions": false
+    },
+    {
+      "id": "2caf62b1-bda4-4707-9883-88da87696b19",
+      "title": "The Eighteenth Angel",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-eighteenth-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "8b530167-1df4-4c3f-87cd-73fb02d87700",
+      "title": "A Life Less Ordinary",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-life-less-ordinary",
+      "has_reactions": false
+    },
+    {
+      "id": "8b4a4a71-89ed-461e-8fbe-54f168fbebf7",
+      "title": "The Daytrippers",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-daytrippers",
+      "has_reactions": false
+    },
+    {
+      "id": "5fd2b165-7f00-4a42-9d12-1d635f53bc09",
+      "title": "Winchell",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "winchell",
+      "has_reactions": false
+    },
+    {
+      "id": "351252a0-7a49-4937-8283-292a50b752ff",
+      "title": "The Alarmist",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-alarmist",
+      "has_reactions": false
+    },
+    {
+      "id": "e4286ebd-20fb-441e-b3da-b9d78e051ed2",
+      "title": "In Too Deep",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "in-too-deep",
+      "has_reactions": false
+    },
+    {
+      "id": "266c1db0-8b87-40fd-8f12-04b5c652a503",
+      "title": "Joe Gould's Secret",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "joe-gould-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "95a2dcc5-0ec2-422c-b317-7b07dcefa454",
+      "title": "Sidewalks of New York",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "sidewalks-of-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "584875d5-d4c8-42f4-a0c4-f5487c2770d8",
+      "title": "America's Sweethearts",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "america-s-sweethearts",
+      "has_reactions": false
+    },
+    {
+      "id": "84cfe3b7-7fa2-47ca-8fea-8febc7dc21c3",
+      "title": "The Whole Shebang",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-whole-shebang",
+      "has_reactions": false
+    },
+    {
+      "id": "3da72c38-2aaa-467b-98dc-d3e7418131b4",
+      "title": "Conspiracy",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "9dd441f6-4daa-4a63-92cb-9df117f16927",
+      "title": "Road to Perdition",
+      "release_year": 2002,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "road-to-perdition",
+      "has_reactions": true
+    },
+    {
+      "id": "1237a187-92c9-44e0-b856-81f8e5583274",
+      "title": "Maid in Manhattan",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "maid-in-manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "51731bef-2639-4aa1-8763-a47c45356848",
+      "title": "Big Trouble",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "big-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "a2f78626-ecc8-44b5-9df3-b98d366ff0a9",
+      "title": "Gene Kelly: Anatomy of a Dancer",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "gene-kelly-anatomy-of-a-dancer",
+      "has_reactions": false
+    },
+    {
+      "id": "92cb8d93-295f-44a1-ba10-5bc4c0bae6c6",
+      "title": "Spin",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "spin",
+      "has_reactions": false
+    },
+    {
+      "id": "e48a8eee-7251-4e27-bd6e-913728ea92b5",
+      "title": "The Core",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-core",
+      "has_reactions": false
+    },
+    {
+      "id": "e873080e-0945-4785-ade6-e98005f171a1",
+      "title": "The Terminal",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "the-terminal",
+      "has_reactions": true
+    },
+    {
+      "id": "c6fc44bd-0a3f-42cf-adad-1bb3373549a7",
+      "title": "The Devil Wears Prada",
+      "release_year": 2006,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "the-devil-wears-prada",
+      "has_reactions": true
+    },
+    {
+      "id": "654b8505-4cef-438f-8c4b-82e5b8e98301",
+      "title": "Lucky Number Slevin",
+      "release_year": 2006,
+      "studio_label": "FilmEngine",
+      "slug": "lucky-number-slevin",
+      "has_reactions": true
+    },
+    {
+      "id": "9bab7c2a-7bfc-4e07-822d-c5aef4f11caa",
+      "title": "Four Last Songs",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "four-last-songs",
+      "has_reactions": false
+    },
+    {
+      "id": "78fdd3b3-f619-462c-868e-a7c8efceafc1",
+      "title": "Space Chimps",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "space-chimps",
+      "has_reactions": false
+    },
+    {
+      "id": "ac58b280-c25e-4927-936d-2f4de7f3ed16",
+      "title": "Kit Kittredge: An American Girl",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kit-kittredge-an-american-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "b74bcee3-404c-460e-a4ad-6a4a87478455",
+      "title": "The Tale of Despereaux",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-tale-of-despereaux",
+      "has_reactions": false
+    },
+    {
+      "id": "a6ecc658-9dee-4db3-8ab7-977970225657",
+      "title": "Blind Date",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "blind-date",
+      "has_reactions": false
+    },
+    {
+      "id": "41dfada9-4b4b-4953-8020-db8c11a95a65",
+      "title": "The Lovely Bones",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-lovely-bones",
+      "has_reactions": false
+    },
+    {
+      "id": "acbc8ef9-0644-49aa-85b4-4eae4f1ca73d",
+      "title": "Julie & Julia",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "julie-julia",
+      "has_reactions": false
+    },
+    {
+      "id": "cde383be-42c2-4d4c-bcee-7434d46439c1",
+      "title": "Easy A",
+      "release_year": 2010,
+      "studio_label": "Screen Gems",
+      "slug": "easy-a",
+      "has_reactions": true
+    },
+    {
+      "id": "5318120f-c111-49e7-8799-a094d17a980b",
+      "title": "Casino Jack and the United States of Money",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "casino-jack-and-the-united-states-of-money",
+      "has_reactions": false
+    },
+    {
+      "id": "04af1ee2-3ddc-4116-9fc3-091b5872ecff",
+      "title": "Burlesque",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "burlesque",
+      "has_reactions": false
+    },
+    {
+      "id": "69f7a5b0-3d81-4184-8da3-f193d0c9920a",
+      "title": "Captain America: The First Avenger",
+      "release_year": 2011,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-the-first-avenger",
+      "has_reactions": true
+    },
+    {
+      "id": "8f8e1297-45d2-4436-987f-80f10f557c2d",
+      "title": "Margin Call",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "margin-call",
+      "has_reactions": false
+    },
+    {
+      "id": "4eec52c2-7ab8-47d5-9ccd-f8ca66321fbf",
+      "title": "Fight for Your Right Revisited",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "fight-for-your-right-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "dfaf4d15-2963-42cf-bdb7-5cc40d3e031b",
+      "title": "The Hunger Games",
+      "release_year": 2012,
+      "studio_label": "Lionsgate",
+      "slug": "the-hunger-games",
+      "has_reactions": true
+    },
+    {
+      "id": "d37e10e6-7eb4-4e75-ba78-22ae980f0a1b",
+      "title": "The World Is Watching: Making the Hunger Games",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-world-is-watching-making-the-hunger-games",
+      "has_reactions": false
+    },
+    {
+      "id": "1f376015-5dd9-470b-937c-c98e64f5ff82",
+      "title": "Gambit",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "gambit",
+      "has_reactions": false
+    },
+    {
+      "id": "b52608b8-18fd-4273-af2c-e0e2d00a9e33",
+      "title": "Blackout",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "9e58d252-845d-49f6-9100-e959eb241625",
+      "title": "The Hunger Games: Catching Fire",
+      "release_year": 2013,
+      "studio_label": "Lionsgate",
+      "slug": "the-hunger-games-catching-fire",
+      "has_reactions": true
+    },
+    {
+      "id": "781e0059-ba84-4cf4-931a-852b925c8c0b",
+      "title": "Surviving the Game: Making The Hunger Games: Catching Fire",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "surviving-the-game-making-the-hunger-games-catching-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "262c32d1-e3c5-4690-94c0-87603284908e",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "release_year": 2014,
+      "studio_label": "Lionsgate",
+      "slug": "the-hunger-games-mockingjay-part-1",
+      "has_reactions": true
+    },
+    {
+      "id": "60b4a50f-fc1a-4f6c-993a-70f9f0828254",
+      "title": "Spotlight",
+      "release_year": 2015,
+      "studio_label": "Participant",
+      "slug": "spotlight",
+      "has_reactions": true
+    },
+    {
+      "id": "ad1456ef-9961-4045-8e59-62f4f330e601",
+      "title": "Wild Card",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "wild-card",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc90f97-c756-428d-990f-9a32a82cd8f6",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-hunger-games-mockingjay-part-2",
+      "has_reactions": false
+    },
+    {
+      "id": "16edeeac-13ba-4748-be7a-348f0b9bdb6e",
+      "title": "A Little Chaos",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-little-chaos",
+      "has_reactions": false
+    },
+    {
+      "id": "34cee025-d600-4626-a1d8-ecbbcb91ea24",
+      "title": "Beauty and the Beast",
+      "release_year": 2017,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "beauty-and-the-beast",
+      "has_reactions": true
+    },
+    {
+      "id": "e2deb213-c45e-4e52-bb25-75c2af72c279",
+      "title": "Transformers: The Last Knight",
+      "release_year": 2017,
+      "studio_label": "Paramount Pictures",
+      "slug": "transformers-the-last-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "50a9bbc7-38c1-431d-9faa-adde6d5b7454",
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "whitney-houston-i-wanna-dance-with-somebody",
+      "has_reactions": false
+    },
+    {
+      "id": "2a75a698-ace8-4801-8c98-88c4a2b31af7",
+      "title": "The Electric State",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-electric-state",
+      "has_reactions": false
+    },
+    {
+      "id": "96371ccd-4f02-42b2-9ca4-5354f33ef860",
+      "title": "The Devil Wears Prada 2",
+      "release_year": 2026,
+      "studio_label": "20th Century Studios",
+      "slug": "the-devil-wears-prada-2",
+      "has_reactions": true
+    }
+  ]
+}

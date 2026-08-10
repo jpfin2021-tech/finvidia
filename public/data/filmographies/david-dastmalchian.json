@@ -1,0 +1,608 @@
+{
+  "id": "7c3b4786-b546-4cd8-b20a-2bf61fb532b6",
+  "name": "David Dastmalchian",
+  "slug": "david-dastmalchian",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg",
+  "filmography": [
+    {
+      "id": "dd962479-fa93-4ac7-9dc1-8157143df89a",
+      "title": "The Shepherd",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-shepherd",
+      "has_reactions": false
+    },
+    {
+      "id": "729f16a5-594d-4e00-a8f7-4bf82dbbd0c8",
+      "title": "The Assassination of Chicago\u2019s Mayor",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-assassination-of-chicago-s-mayor",
+      "has_reactions": false
+    },
+    {
+      "id": "3495d353-6e76-4ff8-8fa0-43a3491d7cb1",
+      "title": "Epilogue",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "epilogue",
+      "has_reactions": false
+    },
+    {
+      "id": "680bd11d-fdfe-46e0-bf49-b7e8680362c5",
+      "title": "The Monster Shock Theatre with Martin Monster",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-monster-shock-theatre-with-martin-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "74f29a11-ef6e-4c5d-a159-0675f0a9df73",
+      "title": "Kill Screen",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "kill-screen",
+      "has_reactions": false
+    },
+    {
+      "id": "f32498da-33ee-43a9-8335-96c0eb2926f8",
+      "title": "The Dark Knight",
+      "release_year": 2008,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-dark-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "b4f6f5af-f6cb-4e54-a321-6ca36c7d4dc4",
+      "title": "Credits",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "credits",
+      "has_reactions": false
+    },
+    {
+      "id": "a339ce1a-150b-48e9-899c-c37000f684e4",
+      "title": "Horsemen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "horsemen",
+      "has_reactions": false
+    },
+    {
+      "id": "4aaf3079-c218-4b62-b7c2-9037561c46f3",
+      "title": "Head Case",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "head-case",
+      "has_reactions": false
+    },
+    {
+      "id": "8e9ae4c7-fa31-4a21-ac94-f5b74cc741db",
+      "title": "Band",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "band",
+      "has_reactions": false
+    },
+    {
+      "id": "6e6c5bc6-9379-4ae5-b521-c918031eee66",
+      "title": "Last Seen Wearing",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "last-seen-wearing",
+      "has_reactions": false
+    },
+    {
+      "id": "cdb2f1fb-74b3-45d4-b48d-cffc702e0a10",
+      "title": "Keen",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "keen",
+      "has_reactions": false
+    },
+    {
+      "id": "62d65a02-6ffe-4b28-8642-fd6056fd0df3",
+      "title": "Gateway",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "gateway",
+      "has_reactions": false
+    },
+    {
+      "id": "67e39b2f-c5db-463d-96d8-a13450f16963",
+      "title": "Double Black",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "double-black",
+      "has_reactions": false
+    },
+    {
+      "id": "97080245-a247-43cb-9049-0bad7db759de",
+      "title": "Shortcake",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "shortcake",
+      "has_reactions": false
+    },
+    {
+      "id": "d17c148c-b062-4a5e-bfc0-2b8e701c4450",
+      "title": "Singled Out",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "singled-out",
+      "has_reactions": false
+    },
+    {
+      "id": "eadcad8c-b1ce-48f5-a7b1-6ae12178d71c",
+      "title": "The Cross",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-cross",
+      "has_reactions": false
+    },
+    {
+      "id": "9b4f5b44-3286-42ea-9450-f5cae526b241",
+      "title": "Sushi Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "22083285-fa49-41fd-83df-a5def5aa0e6e",
+      "title": "Virgin Alexander",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "virgin-alexander",
+      "has_reactions": false
+    },
+    {
+      "id": "cc3f7b81-6b43-4666-a5fc-8be29097671e",
+      "title": "Love Is An Elevator",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "love-is-an-elevator",
+      "has_reactions": false
+    },
+    {
+      "id": "b2e6fa11-ca11-4b1e-891f-304a2219ebf3",
+      "title": "Brutal",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "brutal",
+      "has_reactions": false
+    },
+    {
+      "id": "cd452d6c-9825-4582-8d86-9aea3c0db0d7",
+      "title": "Prisoners",
+      "release_year": 2013,
+      "studio_label": "Alcon Entertainment",
+      "slug": "prisoners",
+      "has_reactions": true
+    },
+    {
+      "id": "d9116bc7-eb06-4ead-bafa-af6606b7b402",
+      "title": "The Employer",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-employer",
+      "has_reactions": false
+    },
+    {
+      "id": "aa5decd7-82e8-4a19-80dc-83d341051896",
+      "title": "Heavy",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "heavy",
+      "has_reactions": false
+    },
+    {
+      "id": "1b907f5e-2a35-457b-bdd4-672dd7ea929c",
+      "title": "Sushi Girl: A Documentary",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl-a-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "babe70cb-a27c-457a-815d-d83348286edb",
+      "title": "Saving Lincoln",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "saving-lincoln",
+      "has_reactions": false
+    },
+    {
+      "id": "fe5cf8df-4d3b-4fb8-b3b3-a6b49f853d5d",
+      "title": "Cass",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "cass",
+      "has_reactions": false
+    },
+    {
+      "id": "891e0c23-c849-4d4c-86ea-9fff00999fae",
+      "title": "Angry Video Game Nerd: The Movie",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "angry-video-game-nerd-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "7d114d89-d45b-4783-8b73-5abe295e5849",
+      "title": "Animals",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "animals",
+      "has_reactions": false
+    },
+    {
+      "id": "8c49d98b-db9a-4b40-b880-a6fb29b5680b",
+      "title": "After Thought",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "after-thought",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb6b34d-b86b-4895-8654-15484179882b",
+      "title": "A Killer of Men",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-killer-of-men",
+      "has_reactions": false
+    },
+    {
+      "id": "38e06e0c-b98d-41b7-8fba-d1d31ab0f0c7",
+      "title": "Ant-Man",
+      "release_year": 2015,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man",
+      "has_reactions": true
+    },
+    {
+      "id": "ffd7d4a2-de0d-4bfd-a533-918398314128",
+      "title": "A Quiet Kind of Love",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "a-quiet-kind-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "38eb73bc-4a0c-4076-8da5-469649d4dcc1",
+      "title": "Under the Pyramid",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "under-the-pyramid",
+      "has_reactions": false
+    },
+    {
+      "id": "c9aa1036-02f0-4047-b6ba-28e085bdae98",
+      "title": "The Balcony",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-balcony",
+      "has_reactions": false
+    },
+    {
+      "id": "1eab6c90-bf31-496f-87aa-97a473062b49",
+      "title": "Be Good",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "be-good",
+      "has_reactions": false
+    },
+    {
+      "id": "92d49c59-b28c-4e01-9cd4-655d5347d1bf",
+      "title": "Blade Runner 2049",
+      "release_year": 2017,
+      "studio_label": "Alcon Entertainment",
+      "slug": "blade-runner-2049",
+      "has_reactions": true
+    },
+    {
+      "id": "09f82b8a-7943-4e76-b433-478049f6a199",
+      "title": "The Belko Experiment",
+      "release_year": 2017,
+      "studio_label": "Orion Pictures",
+      "slug": "the-belko-experiment",
+      "has_reactions": true
+    },
+    {
+      "id": "9a3d5fb4-adc3-48b4-99c2-f32fd43165ff",
+      "title": "Making Love",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "making-love",
+      "has_reactions": false
+    },
+    {
+      "id": "ffbb6da1-bb93-44c7-9c56-4f85a3102a4d",
+      "title": "Ant-Man and the Wasp",
+      "release_year": 2018,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp",
+      "has_reactions": true
+    },
+    {
+      "id": "1a8b6e8b-c464-4820-aef3-3171cc158b31",
+      "title": "Galaktikon: Nightmare",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "galaktikon-nightmare",
+      "has_reactions": false
+    },
+    {
+      "id": "bdf9acf2-abe1-400d-8741-30896d265ac0",
+      "title": "Bird Box",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "bird-box",
+      "has_reactions": false
+    },
+    {
+      "id": "f36f2a30-8ab6-4845-8182-62df119af038",
+      "title": "Madness in the Method",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "madness-in-the-method",
+      "has_reactions": false
+    },
+    {
+      "id": "7c2400fd-e969-4bbc-b3ea-5cdf8167fa1b",
+      "title": "Teacher",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "teacher",
+      "has_reactions": false
+    },
+    {
+      "id": "1e683eb0-b014-4fe1-bf68-63d85b04a65e",
+      "title": "A Million Little Pieces",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "a-million-little-pieces",
+      "has_reactions": false
+    },
+    {
+      "id": "55205b99-91fd-40b8-bf9d-d0771b59d9c2",
+      "title": "Relaxer",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "relaxer",
+      "has_reactions": false
+    },
+    {
+      "id": "5f182bcd-5347-44ab-abf8-2ae06beba572",
+      "title": "Jay and Silent Bob Reboot",
+      "release_year": 2019,
+      "studio_label": "SModcast Pictures",
+      "slug": "jay-and-silent-bob-reboot",
+      "has_reactions": true
+    },
+    {
+      "id": "cd531d82-dd42-4e19-941e-5c34c4809780",
+      "title": "Joel Calls Indie Film Type Dudes",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "joel-calls-indie-film-type-dudes",
+      "has_reactions": false
+    },
+    {
+      "id": "63fbae56-b89f-4ab3-9512-eb9cea1bd396",
+      "title": "Lacrimosa",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "lacrimosa",
+      "has_reactions": false
+    },
+    {
+      "id": "ebb477e8-322b-4a11-aebe-f680dffd5e46",
+      "title": "The Suicide Squad",
+      "release_year": 2021,
+      "studio_label": "DC Films",
+      "slug": "the-suicide-squad",
+      "has_reactions": true
+    },
+    {
+      "id": "ef6ae537-84f1-4cbe-b402-e7c7575d9c37",
+      "title": "Dune",
+      "release_year": 2021,
+      "studio_label": "Legendary Pictures",
+      "slug": "dune",
+      "has_reactions": true
+    },
+    {
+      "id": "ffaa1693-94fd-48d2-b774-69d8320e516e",
+      "title": "Batman: The Long Halloween, Part One",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "batman-the-long-halloween-part-one",
+      "has_reactions": false
+    },
+    {
+      "id": "a9ad4ea1-6c94-484d-a3a1-35884c46b692",
+      "title": "Batman: The Long Halloween, Part Two",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "batman-the-long-halloween-part-two",
+      "has_reactions": false
+    },
+    {
+      "id": "573de2b3-c9ca-4a23-9d16-bfa4aeae9981",
+      "title": "Batman: The Long Halloween Deluxe Edition",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "batman-the-long-halloween-deluxe-edition",
+      "has_reactions": false
+    },
+    {
+      "id": "45f19abf-09f9-4c4e-bd55-58d81d89a196",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "ant-man-and-the-wasp-quantumania",
+      "has_reactions": true
+    },
+    {
+      "id": "b0068ae9-e057-4d24-9e46-7338010dce0c",
+      "title": "Boston Strangler",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "boston-strangler",
+      "has_reactions": false
+    },
+    {
+      "id": "2d7e20a9-8e60-41be-8e35-340df168fd08",
+      "title": "Oppenheimer",
+      "release_year": 2023,
+      "studio_label": "Syncopy",
+      "slug": "oppenheimer",
+      "has_reactions": true
+    },
+    {
+      "id": "7a7fa520-3e86-477f-9412-a595bcba176d",
+      "title": "The Last Voyage of the Demeter",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-last-voyage-of-the-demeter",
+      "has_reactions": false
+    },
+    {
+      "id": "4d7b6754-8c11-485f-83e1-63d3d0d715af",
+      "title": "The Boogeyman",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-boogeyman",
+      "has_reactions": false
+    },
+    {
+      "id": "e718834e-ab2c-4d96-b129-9a8138cb49f0",
+      "title": "The Boulet Brothers' Halfway to Halloween TV Special",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-boulet-brothers-halfway-to-halloween-tv-special",
+      "has_reactions": false
+    },
+    {
+      "id": "2c25cf1a-fcae-49d6-bf22-6d787289f3fe",
+      "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part Two",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "justice-league-x-rwby-super-heroes-huntsmen-part-two",
+      "has_reactions": false
+    },
+    {
+      "id": "03bbc0e6-fef1-49db-8c91-640fdc975752",
+      "title": "Late Night with the Devil",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "late-night-with-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "936e1830-876a-46f6-88c6-1f903d82c32f",
+      "title": "Afraid",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "afraid",
+      "has_reactions": false
+    },
+    {
+      "id": "fd112254-6448-4cdd-8b11-5ccc89ce9829",
+      "title": "Night Owls Episode 335",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "night-owls-episode-335",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d14dfb-f5e9-4251-a042-f2b53e4027d4",
+      "title": "In Search of Darkness: 1990-1994",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "in-search-of-darkness-1990-1994",
+      "has_reactions": false
+    },
+    {
+      "id": "078a21f1-ad59-4c15-bee7-d1dc3b8c9b61",
+      "title": "Every Time You Lose Your Mind: A Film About Failure",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "every-time-you-lose-your-mind-a-film-about-failure",
+      "has_reactions": false
+    },
+    {
+      "id": "7af1c17b-d6ed-4728-a158-b52b7a3d877b",
+      "title": "Lake Mungo Revisited",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "lake-mungo-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "f7dece08-68ba-47ac-a9e7-3493eebb6b13",
+      "title": "The Boulet Brothers' Holiday of Horrors",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-boulet-brothers-holiday-of-horrors",
+      "has_reactions": false
+    },
+    {
+      "id": "d86bc134-76b9-4f90-b3a2-9dc4ae8425cc",
+      "title": "In Search of Darkness: 1995-1999",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "in-search-of-darkness-1995-1999",
+      "has_reactions": false
+    },
+    {
+      "id": "1681ae81-fec4-477c-a9cd-947971e9add7",
+      "title": "The Muppet Scriptmas Carol",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-muppet-scriptmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "96866fad-c545-40ec-a1bb-07fc17a7f137",
+      "title": "The Life of Chuck",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-life-of-chuck",
+      "has_reactions": false
+    },
+    {
+      "id": "b32370cb-313a-46e7-b94f-768fc4d6cae2",
+      "title": "The Cure",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-cure",
+      "has_reactions": false
+    },
+    {
+      "id": "9b3cea79-af3a-4989-8b29-f8df28d2a05d",
+      "title": "METANOIA",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "metanoia",
+      "has_reactions": false
+    },
+    {
+      "id": "d95194fb-fe4d-42e9-9ad4-c69bf8e144b7",
+      "title": "Street Fighter",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "street-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "ce51267e-b59b-4cd4-a36f-91e43ec6be8f",
+      "title": "The Moof Milkers",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-moof-milkers",
+      "has_reactions": false
+    }
+  ]
+}

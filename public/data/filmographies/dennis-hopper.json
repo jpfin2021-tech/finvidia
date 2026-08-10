@@ -1,0 +1,592 @@
+{
+  "id": "e8ed2a7e-3e00-4544-a6a3-6ef3441ec686",
+  "name": "Dennis Hopper",
+  "slug": "dennis-hopper",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg",
+  "filmography": [
+    {
+      "id": "6731bb15-cb57-4683-aa1e-2f7d803add2c",
+      "title": "Rebel Without a Cause",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "rebel-without-a-cause",
+      "has_reactions": false
+    },
+    {
+      "id": "94a5c984-c33a-40f0-b8e9-24842662e9a0",
+      "title": "Giant",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "giant",
+      "has_reactions": false
+    },
+    {
+      "id": "5da17902-0b90-4efc-80e4-d935f358d514",
+      "title": "Swiss Family Robinson",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "swiss-family-robinson",
+      "has_reactions": false
+    },
+    {
+      "id": "a48585be-63b6-4c1f-bd91-0fdbcb62a8c8",
+      "title": "The Young Land",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-young-land",
+      "has_reactions": false
+    },
+    {
+      "id": "9e444551-a97f-49cf-b113-cfe48ca28251",
+      "title": "Night Tide",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "night-tide",
+      "has_reactions": false
+    },
+    {
+      "id": "208be0a9-0547-4e2d-b113-996bb0da4838",
+      "title": "The Thirteen Most Beautiful Boys",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-thirteen-most-beautiful-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "7fcda3c9-e059-405a-81e5-58ea84d2e4a1",
+      "title": "Cool Hand Luke",
+      "release_year": 1967,
+      "studio_label": "Warner Bros.-Seven Arts",
+      "slug": "cool-hand-luke",
+      "has_reactions": true
+    },
+    {
+      "id": "2827a726-6874-46ca-a2b4-deb411d605a6",
+      "title": "Yoko Ono: This Is Not Here",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "yoko-ono-this-is-not-here",
+      "has_reactions": false
+    },
+    {
+      "id": "a1120aac-c5e4-49e1-b007-15f0c5800d50",
+      "title": "The American Friend",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-american-friend",
+      "has_reactions": false
+    },
+    {
+      "id": "6b1a8489-a145-47ef-86b2-d50f4f385952",
+      "title": "Apocalypse Now",
+      "release_year": 1979,
+      "studio_label": "American Zoetrope",
+      "slug": "apocalypse-now",
+      "has_reactions": true
+    },
+    {
+      "id": "294d1c45-f56f-4272-9a2a-c19ce0dbae39",
+      "title": "Out of the Blue",
+      "release_year": 1981,
+      "studio_label": "Robson Street",
+      "slug": "out-of-the-blue",
+      "has_reactions": true
+    },
+    {
+      "id": "9e305455-dc43-46b1-9784-4242c4359481",
+      "title": "King of the Mountain",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "king-of-the-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "08401164-05eb-4772-81ca-f07f8bcf9aeb",
+      "title": "Human Highway",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "human-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "7505ee40-7179-43c8-b966-56ace3842020",
+      "title": "Rumble Fish",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "rumble-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff1502f-05cb-4558-9e57-1159bc2c1c04",
+      "title": "The Osterman Weekend",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-osterman-weekend",
+      "has_reactions": false
+    },
+    {
+      "id": "0c2e3a1a-8c63-47cd-b019-232126b41625",
+      "title": "The Inside Man",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-inside-man",
+      "has_reactions": false
+    },
+    {
+      "id": "ee43f238-11e0-4ec4-8c4e-c0e27a129696",
+      "title": "My Science Project",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "my-science-project",
+      "has_reactions": false
+    },
+    {
+      "id": "dbf4e830-ea46-4821-9ce4-eda71fcf3ab1",
+      "title": "Blue Velvet",
+      "release_year": 1986,
+      "studio_label": "DEG",
+      "slug": "blue-velvet",
+      "has_reactions": true
+    },
+    {
+      "id": "bc1647f5-5a40-45b0-8292-56b60e2bf45d",
+      "title": "River's Edge",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "river-s-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "a93571aa-822a-4e47-bd33-e2750f8e65da",
+      "title": "Hoosiers",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "hoosiers",
+      "has_reactions": false
+    },
+    {
+      "id": "b5a4cb03-436c-4fee-a22c-a48cea509ced",
+      "title": "The Texas Chainsaw Massacre 2",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-texas-chainsaw-massacre-2",
+      "has_reactions": false
+    },
+    {
+      "id": "9c852436-0ad5-41f4-b4aa-5355ca3b0029",
+      "title": "O.C. and Stiggs",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "o-c-and-stiggs",
+      "has_reactions": false
+    },
+    {
+      "id": "05079c68-3042-4932-8fe2-646d59e3f6cc",
+      "title": "Straight to Hell",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "straight-to-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "a6557088-5059-4a81-9c59-73630f0bd947",
+      "title": "Black Widow",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "black-widow",
+      "has_reactions": false
+    },
+    {
+      "id": "3c68b129-4e25-4c3d-b9cd-db209c867f97",
+      "title": "Flashback",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "flashback",
+      "has_reactions": false
+    },
+    {
+      "id": "2b9a16c9-52e6-419a-85f1-0bc5702afd7c",
+      "title": "Catchfire",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "catchfire",
+      "has_reactions": false
+    },
+    {
+      "id": "5ff19848-c818-4ad0-a1b4-b34eacdddf1c",
+      "title": "The Indian Runner",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-indian-runner",
+      "has_reactions": false
+    },
+    {
+      "id": "c3ce272b-9472-447c-9504-bc5a3e7a2e02",
+      "title": "Paris Trout",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "paris-trout",
+      "has_reactions": false
+    },
+    {
+      "id": "f5ac287d-2c11-44fc-8bb6-9f3b5fdc5492",
+      "title": "Picture This",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "picture-this",
+      "has_reactions": false
+    },
+    {
+      "id": "c885010c-ed39-4f58-a5c8-87647958e643",
+      "title": "The Heart of Justice",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-heart-of-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "8edd5b55-f6e4-400a-9077-6bc3eb52b474",
+      "title": "Sunset Heat",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "sunset-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "79e9e08b-9f4c-4587-a792-832b7904ffbd",
+      "title": "True Romance",
+      "release_year": 1993,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "true-romance",
+      "has_reactions": true
+    },
+    {
+      "id": "b3f33bc1-2dd7-4008-9151-c10bf8e46098",
+      "title": "Red Rock West",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "red-rock-west",
+      "has_reactions": false
+    },
+    {
+      "id": "13678699-d082-4973-b2b0-b1f89ce0dcc2",
+      "title": "Boiling Point",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "boiling-point",
+      "has_reactions": false
+    },
+    {
+      "id": "bfc9bf97-66b9-45e8-adc2-a43d41edbb35",
+      "title": "Super Mario Bros.",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "super-mario-bros",
+      "has_reactions": false
+    },
+    {
+      "id": "4d0a5142-dbd1-42b0-a31c-ebb415ee43a8",
+      "title": "Speed",
+      "release_year": 1994,
+      "studio_label": "20th Century Fox",
+      "slug": "speed",
+      "has_reactions": true
+    },
+    {
+      "id": "548b598d-7342-43ce-873f-2ff1b66bbf82",
+      "title": "Witch Hunt",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "witch-hunt",
+      "has_reactions": false
+    },
+    {
+      "id": "66e6eb40-0ff3-412e-8a35-29353a75f5ef",
+      "title": "Search and Destroy",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "search-and-destroy",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b9ae23-9729-4186-be06-043ba6d66b58",
+      "title": "The Last Days of Frankie the Fly",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-last-days-of-frankie-the-fly",
+      "has_reactions": false
+    },
+    {
+      "id": "096cb1c9-3e64-44b0-97a9-7a09de01238f",
+      "title": "Space Truckers",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "space-truckers",
+      "has_reactions": false
+    },
+    {
+      "id": "16a81881-01b9-495f-afec-016944523f87",
+      "title": "Basquiat",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "basquiat",
+      "has_reactions": false
+    },
+    {
+      "id": "c39643aa-4296-4482-bfad-fa4e2870f9a4",
+      "title": "Carried Away",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "carried-away",
+      "has_reactions": false
+    },
+    {
+      "id": "a8fca61d-7e16-4c26-b25a-e66a8768c620",
+      "title": "The Blackout",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "534c390f-adf0-4fde-bcbe-fa0317a80434",
+      "title": "Straight Shooter",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "straight-shooter",
+      "has_reactions": false
+    },
+    {
+      "id": "883829f4-5e1b-4bab-832b-7ebef85ad149",
+      "title": "Tycus",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "tycus",
+      "has_reactions": false
+    },
+    {
+      "id": "7dc7afe8-6811-4244-8894-cc7ee3d6fda7",
+      "title": "EDtv",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "edtv",
+      "has_reactions": false
+    },
+    {
+      "id": "bf51b683-675f-4451-addd-096f19e1a2f4",
+      "title": "The Pursuit of Happiness",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-pursuit-of-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "3ddc2305-bb34-4334-ba76-4b2bb01f6974",
+      "title": "Spreading Ground",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "spreading-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "0edc1bd9-9c64-4083-884e-4534d0476ed0",
+      "title": "Jesus' Son",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "jesus-son",
+      "has_reactions": false
+    },
+    {
+      "id": "0f1ae6dd-2e71-47bd-8312-229a859ae4a1",
+      "title": "Luck of the Draw",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "luck-of-the-draw",
+      "has_reactions": false
+    },
+    {
+      "id": "81d4582a-3a79-4a41-95f8-8b2a501f8211",
+      "title": "Knockaround Guys",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "knockaround-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "3c346123-da3c-44c7-95cf-f104e4b80782",
+      "title": "Ticker",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ticker",
+      "has_reactions": false
+    },
+    {
+      "id": "99558161-960f-4191-9bbc-095ea57d301b",
+      "title": "Choke",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "choke",
+      "has_reactions": false
+    },
+    {
+      "id": "d9c3f4e4-b29d-4c04-8a02-d1f16088f5ca",
+      "title": "Leo",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "leo",
+      "has_reactions": false
+    },
+    {
+      "id": "635365e0-5954-47ae-b6b0-efb4aff1ddc2",
+      "title": "The Piano Player",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-piano-player",
+      "has_reactions": false
+    },
+    {
+      "id": "7f079a57-b5ea-4187-ba91-eae684aa4c02",
+      "title": "I Don't Know Jack",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "i-don-t-know-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "b5d42bd0-49ad-446e-8cf1-1626134eb6f3",
+      "title": "Dennis Hopper: Create (or Die)",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "dennis-hopper-create-or-die",
+      "has_reactions": false
+    },
+    {
+      "id": "7cd64956-490a-4e96-a3d2-c8cf31e669d8",
+      "title": "Out of Season",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "out-of-season",
+      "has_reactions": false
+    },
+    {
+      "id": "ef934c65-4c4a-4751-9d18-ce6ae3129c7f",
+      "title": "The Last Ride",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-last-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "2e07d479-adbf-467b-8f06-df9f952748c2",
+      "title": "The Keeper",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-keeper",
+      "has_reactions": false
+    },
+    {
+      "id": "ec68aade-b087-488b-add0-ff0cbe8d5c16",
+      "title": "Inside Deep Throat",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "inside-deep-throat",
+      "has_reactions": false
+    },
+    {
+      "id": "b7e98390-1a62-48b3-8336-65acbb18fd5a",
+      "title": "Americano",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "americano",
+      "has_reactions": false
+    },
+    {
+      "id": "a4ca2cc1-89aa-4ed2-bd7c-e73ddbab107d",
+      "title": "Rebel Without a Cause: Defiant Innocents",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "rebel-without-a-cause-defiant-innocents",
+      "has_reactions": false
+    },
+    {
+      "id": "b6930dc3-eb0d-4d0d-8582-84b435927fb2",
+      "title": "House of 9",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "house-of-9",
+      "has_reactions": false
+    },
+    {
+      "id": "6fa25336-89bc-4599-b098-f336cc6e4df0",
+      "title": "Memory",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "memory",
+      "has_reactions": false
+    },
+    {
+      "id": "6262328e-1519-4a83-a852-d95722a42064",
+      "title": "Gorillaz: Demon Days Live at the Manchester Opera House",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "gorillaz-demon-days-live-at-the-manchester-opera-house",
+      "has_reactions": false
+    },
+    {
+      "id": "382a2f0b-ea8c-494e-8e20-772f9f2d4cbe",
+      "title": "Hoboken Hollow",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hoboken-hollow",
+      "has_reactions": false
+    },
+    {
+      "id": "240d251a-7b7d-423a-98e0-9807f3bd4883",
+      "title": "Rising Son: The Legend of Skateboarder Christian Hosoi",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "rising-son-the-legend-of-skateboarder-christian-hosoi",
+      "has_reactions": false
+    },
+    {
+      "id": "48ea969d-b6a5-49cd-9cee-987e00f0fd2a",
+      "title": "The Art of Football from A to Z",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-football-from-a-to-z",
+      "has_reactions": false
+    },
+    {
+      "id": "d7ba2d90-4b5b-466f-85f7-145b6741cc51",
+      "title": "Hell Ride",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hell-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "2eb1b4b9-d0c0-4946-a5d8-3a6c3a107178",
+      "title": "Elegy",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "elegy",
+      "has_reactions": false
+    },
+    {
+      "id": "68bf3b32-9284-4486-bcaa-72955ebe63f6",
+      "title": "Palermo Shooting",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "palermo-shooting",
+      "has_reactions": false
+    },
+    {
+      "id": "d00338c1-aa8d-4f5f-9b57-82eace09ae50",
+      "title": "Sleepwalking",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "sleepwalking",
+      "has_reactions": false
+    }
+  ]
+}

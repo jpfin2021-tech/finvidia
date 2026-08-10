@@ -1,0 +1,632 @@
+{
+  "id": "96fcf1d2-f3a8-4e68-ba91-5375a85a63a8",
+  "name": "Nicolas Cage",
+  "slug": "nicolas-cage",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+  "filmography": [
+    {
+      "id": "a59ad9e7-64ef-43e7-a86c-d88551e66f2b",
+      "title": "Lords of War",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "lords-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "dfcfa22a-bbf2-4ec8-a9c5-b806aac7f243",
+      "title": "The Best of Times",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-best-of-times",
+      "has_reactions": false
+    },
+    {
+      "id": "7505ee40-7179-43c8-b966-56ace3842020",
+      "title": "Rumble Fish",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "rumble-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "7f442691-89a0-4cc1-870e-c10f7444517c",
+      "title": "Valley Girl",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "valley-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "ccb41b2d-a7aa-4b08-bd25-5eb13ce6b002",
+      "title": "Birdy",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "birdy",
+      "has_reactions": false
+    },
+    {
+      "id": "e33c4fe1-9dc1-47ad-9714-49b9fb88ec29",
+      "title": "Racing with the Moon",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "racing-with-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "2065aa28-6f5e-48b2-995b-3e0abc5e82f3",
+      "title": "Moonstruck",
+      "release_year": 1987,
+      "studio_label": "Star Partners",
+      "slug": "moonstruck",
+      "has_reactions": true
+    },
+    {
+      "id": "7b45038b-df75-43b7-a846-88054069c539",
+      "title": "Raising Arizona",
+      "release_year": 1987,
+      "studio_label": "Circle Films",
+      "slug": "raising-arizona",
+      "has_reactions": true
+    },
+    {
+      "id": "b79840b8-25b5-41f1-87c5-d20bf1360412",
+      "title": "Time to Kill",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "time-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "053a8239-55aa-41e8-88bc-af54ad003e90",
+      "title": "Never on Tuesday",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "never-on-tuesday",
+      "has_reactions": false
+    },
+    {
+      "id": "18afd598-2efe-4933-a456-431a10229ccc",
+      "title": "Wild at Heart",
+      "release_year": 1990,
+      "studio_label": "PolyGram Filmed Entertainment",
+      "slug": "wild-at-heart",
+      "has_reactions": true
+    },
+    {
+      "id": "af451d65-0300-48cc-972d-a68db03d8e9b",
+      "title": "Industrial Symphony No. 1: The Dream of the Brokenhearted",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "industrial-symphony-no-1-the-dream-of-the-brokenhearted",
+      "has_reactions": false
+    },
+    {
+      "id": "a2359713-3227-4731-a3bf-f63a979961b8",
+      "title": "Honeymoon in Vegas",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "honeymoon-in-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "b3f33bc1-2dd7-4008-9151-c10bf8e46098",
+      "title": "Red Rock West",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "red-rock-west",
+      "has_reactions": false
+    },
+    {
+      "id": "48b0b09b-440a-481e-9746-095d4fff1e1d",
+      "title": "Deadfall",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "deadfall",
+      "has_reactions": false
+    },
+    {
+      "id": "4817014a-2066-4909-8629-09c4827436c0",
+      "title": "It Could Happen to You",
+      "release_year": 1994,
+      "studio_label": "TriStar Pictures",
+      "slug": "it-could-happen-to-you",
+      "has_reactions": true
+    },
+    {
+      "id": "55ec8cc0-d300-4b6d-bb4b-e2b72635ce4b",
+      "title": "Guarding Tess",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "guarding-tess",
+      "has_reactions": false
+    },
+    {
+      "id": "f1fe18f3-5142-48ff-9e32-b480c065da1a",
+      "title": "Kiss of Death",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "kiss-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "9ef9d09d-add5-4956-b9e6-37a2f01018a9",
+      "title": "Leaving Las Vegas",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "leaving-las-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "8ac9b983-2a8b-46aa-80fd-63d28cc7540e",
+      "title": "The Rock",
+      "release_year": 1996,
+      "studio_label": "Don Simpson/Jerry Bruckheimer Films",
+      "slug": "the-rock",
+      "has_reactions": true
+    },
+    {
+      "id": "7dea0578-9ea3-4a30-aa66-476159306615",
+      "title": "Face/Off",
+      "release_year": 1997,
+      "studio_label": "WCG Entertainment Productions",
+      "slug": "face-off",
+      "has_reactions": true
+    },
+    {
+      "id": "9aac9984-f03f-4739-8699-33c78d2d38d1",
+      "title": "Con Air",
+      "release_year": 1997,
+      "studio_label": "Touchstone Pictures",
+      "slug": "con-air",
+      "has_reactions": true
+    },
+    {
+      "id": "887e7438-dd5e-4c3e-bb4d-74fe89b536ef",
+      "title": "City of Angels",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "city-of-angels",
+      "has_reactions": false
+    },
+    {
+      "id": "9be6b75f-be3f-4f46-817a-6e2fb1183cf6",
+      "title": "Snake Eyes",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "snake-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "9a19a626-087a-4192-a8cf-acf4f2a5bbe0",
+      "title": "Intimate Portrait: Sean Connery",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "intimate-portrait-sean-connery",
+      "has_reactions": false
+    },
+    {
+      "id": "cd4c4b64-fe98-42e6-b85b-6c8c0731ec10",
+      "title": "8MM",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "8mm",
+      "has_reactions": false
+    },
+    {
+      "id": "e7525f69-9067-4bbe-afac-a7151277a55a",
+      "title": "Bringing Out the Dead",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "bringing-out-the-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "e63ee457-9dc0-490a-bdb1-50b23222b84f",
+      "title": "The Family Man",
+      "release_year": 2000,
+      "studio_label": "Beacon Pictures",
+      "slug": "the-family-man",
+      "has_reactions": true
+    },
+    {
+      "id": "8c3b3568-7d3f-4770-b5af-8833e2be8e56",
+      "title": "Gone in Sixty Seconds",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "gone-in-sixty-seconds",
+      "has_reactions": true
+    },
+    {
+      "id": "ee2c6edb-db42-4037-9bce-86f9e6d13abf",
+      "title": "Captain Corelli's Mandolin",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "captain-corelli-s-mandolin",
+      "has_reactions": false
+    },
+    {
+      "id": "cf77082a-aa17-4d46-9a24-b96f0fe7561a",
+      "title": "Windtalkers",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "windtalkers",
+      "has_reactions": false
+    },
+    {
+      "id": "82c77108-644a-4ef0-9122-7f9cff35873c",
+      "title": "Valley Girl: 20 Totally Tubular Years Later",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "valley-girl-20-totally-tubular-years-later",
+      "has_reactions": false
+    },
+    {
+      "id": "a1eb53f3-0ac6-4ea8-88a3-d9f51af6d66e",
+      "title": "The Music of Valley Girl",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-music-of-valley-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "2e295b2f-16cd-468c-9cc8-492e7506e5e8",
+      "title": "Valley Girl: In Conversation - Nicolas Cage And Martha Coolidge",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "valley-girl-in-conversation-nicolas-cage-and-martha-coolidge",
+      "has_reactions": false
+    },
+    {
+      "id": "f5be27ad-615a-453a-b8d9-8fd9484a8d3c",
+      "title": "National Treasure",
+      "release_year": 2004,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "national-treasure",
+      "has_reactions": true
+    },
+    {
+      "id": "e5a6c33d-2abb-4667-80fd-a3159daf5d84",
+      "title": "Lord of War",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "lord-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "b8a9eb6a-c231-4643-a6a6-2cf5ffbf0958",
+      "title": "The Wicker Man",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-wicker-man",
+      "has_reactions": false
+    },
+    {
+      "id": "e433c6f8-94e1-4523-912b-8ff5f81a630b",
+      "title": "World Trade Center",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "world-trade-center",
+      "has_reactions": false
+    },
+    {
+      "id": "d48c7ff4-0300-4dd9-9c3a-b51a44d66daa",
+      "title": "Ghost Rider",
+      "release_year": 2007,
+      "studio_label": "Crystal Sky Pictures",
+      "slug": "ghost-rider",
+      "has_reactions": true
+    },
+    {
+      "id": "b5d0f45f-9fba-464e-a1fe-826eb993e9f7",
+      "title": "National Treasure: Book of Secrets",
+      "release_year": 2007,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "national-treasure-book-of-secrets",
+      "has_reactions": true
+    },
+    {
+      "id": "8e7d735a-5069-4b53-907f-d974e07eba35",
+      "title": "Next",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "next",
+      "has_reactions": false
+    },
+    {
+      "id": "2f5e6835-70a6-42d6-823e-32c9220754b0",
+      "title": "Bangkok Dangerous",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bangkok-dangerous",
+      "has_reactions": false
+    },
+    {
+      "id": "73f2d02b-057b-47af-84af-eaa527e5aa08",
+      "title": "Roman Polanski: Wanted and Desired",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "roman-polanski-wanted-and-desired",
+      "has_reactions": false
+    },
+    {
+      "id": "b6ceea4c-ab63-4dc0-9746-6d81c7fe3bc5",
+      "title": "Astro Boy",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "astro-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "88dc1316-3cde-4419-92f0-d623f83f4bed",
+      "title": "Knowing",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "knowing",
+      "has_reactions": false
+    },
+    {
+      "id": "b9690364-cff0-4340-9b93-1b54d1d767da",
+      "title": "Kick-Ass",
+      "release_year": 2010,
+      "studio_label": "Plan B Entertainment",
+      "slug": "kick-ass",
+      "has_reactions": true
+    },
+    {
+      "id": "ec2c5665-4374-4813-9abe-d3c3e488bebe",
+      "title": "The Sorcerer's Apprentice",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-sorcerer-s-apprentice",
+      "has_reactions": false
+    },
+    {
+      "id": "38817d61-a554-4409-9870-7fd484eb343d",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "release_year": 2011,
+      "studio_label": "Columbia Pictures",
+      "slug": "ghost-rider-spirit-of-vengeance",
+      "has_reactions": true
+    },
+    {
+      "id": "e019af7e-634e-44cf-aa1c-afd7d90c5f1a",
+      "title": "Season of the Witch",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "season-of-the-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "5d9ed408-6766-42cf-9df7-b546d8143a04",
+      "title": "Drive Angry",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "drive-angry",
+      "has_reactions": false
+    },
+    {
+      "id": "2117851c-41d2-4325-ac41-e52c1db20a7a",
+      "title": "Trespass",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "trespass",
+      "has_reactions": false
+    },
+    {
+      "id": "3f7dacec-896a-4368-bc80-0cc0191477a0",
+      "title": "The Path to Vengeance: Making 'Ghost Rider: Spirit of Vengeance'",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-path-to-vengeance-making-ghost-rider-spirit-of-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "bb56f8f1-09ff-476d-82e0-3cdea14b576d",
+      "title": "The Croods",
+      "release_year": 2013,
+      "studio_label": "DreamWorks Animation",
+      "slug": "the-croods",
+      "has_reactions": true
+    },
+    {
+      "id": "0cae043f-10a8-40f1-996c-24b7890140b4",
+      "title": "The Frozen Ground",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-frozen-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "dd998747-c17a-41db-a5f0-e303813954eb",
+      "title": "Rage",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rage",
+      "has_reactions": false
+    },
+    {
+      "id": "c612d338-ba11-4192-8d22-c3bf349c30dc",
+      "title": "Dying of the Light",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dying-of-the-light",
+      "has_reactions": false
+    },
+    {
+      "id": "eac5de5d-3e21-498e-bfa3-5a4b77e2df8d",
+      "title": "Joe",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "joe",
+      "has_reactions": false
+    },
+    {
+      "id": "449ba392-392a-49e0-b37c-3a7aefe8cca2",
+      "title": "Left Behind",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "left-behind",
+      "has_reactions": false
+    },
+    {
+      "id": "a6da5af8-50cf-47f6-92f3-097353350283",
+      "title": "Outcast",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "outcast",
+      "has_reactions": false
+    },
+    {
+      "id": "058b579a-3c9d-45dd-830d-925521c7f8f4",
+      "title": "The Runner",
+      "release_year": 2015,
+      "studio_label": "KGB Media",
+      "slug": "the-runner",
+      "has_reactions": false
+    },
+    {
+      "id": "f5313c92-9358-4631-8008-ee86e065632a",
+      "title": "Pay the Ghost",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "pay-the-ghost",
+      "has_reactions": false
+    },
+    {
+      "id": "c657a80c-5af4-46e9-9e63-e4a4b566cea3",
+      "title": "The Death of \"Superman Lives\": What Happened?",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-death-of-superman-lives-what-happened",
+      "has_reactions": false
+    },
+    {
+      "id": "e0f801ee-1900-476a-afd3-ca7616f10d54",
+      "title": "Army of One",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "army-of-one",
+      "has_reactions": false
+    },
+    {
+      "id": "2bb50f76-c33e-4aed-aa0d-ec666864cc45",
+      "title": "Dog Eat Dog",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dog-eat-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "816a871a-1a71-483b-bb1d-3ff253d6d0a5",
+      "title": "Snowden",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "snowden",
+      "has_reactions": false
+    },
+    {
+      "id": "b42aeb18-8e3e-41c3-93a7-e794b31795cf",
+      "title": "The Trust",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-trust",
+      "has_reactions": false
+    },
+    {
+      "id": "58095810-d658-440e-9c10-3d41e08d3b57",
+      "title": "USS Indianapolis: Men of Courage",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "uss-indianapolis-men-of-courage",
+      "has_reactions": false
+    },
+    {
+      "id": "40f24a94-9804-4cbf-b84f-0bcf3afc0b22",
+      "title": "Mandy",
+      "release_year": 2018,
+      "studio_label": "SpectreVision",
+      "slug": "mandy",
+      "has_reactions": true
+    },
+    {
+      "id": "13192933-3f41-42bc-a2f3-5ae0e5056204",
+      "title": "Hot Pink Horror: The Making of Color Out of Space",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "hot-pink-horror-the-making-of-color-out-of-space",
+      "has_reactions": false
+    },
+    {
+      "id": "9427e9ef-fc42-4ea4-a066-f040b587537f",
+      "title": "Willy's Wonderland",
+      "release_year": 2021,
+      "studio_label": "Saturn Films",
+      "slug": "willy-s-wonderland",
+      "has_reactions": true
+    },
+    {
+      "id": "39c2b0af-c1b5-41ea-a2db-9fb6c4385344",
+      "title": "The Old Way",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-old-way",
+      "has_reactions": false
+    },
+    {
+      "id": "e25a973b-2110-4183-b997-5684379fb2a8",
+      "title": "Dream Scenario",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dream-scenario",
+      "has_reactions": false
+    },
+    {
+      "id": "e7b59a6b-8667-4e83-85cc-4f0ae18600ee",
+      "title": "Sympathy for the Devil",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "sympathy-for-the-devil",
+      "has_reactions": false
+    },
+    {
+      "id": "94a35f44-2cf1-449d-bcb9-a9b47e98adfa",
+      "title": "TMZ Investigates: Lisa Marie Presley: Unending Tragedy",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "tmz-investigates-lisa-marie-presley-unending-tragedy",
+      "has_reactions": false
+    },
+    {
+      "id": "84e44615-4f04-4c7f-8dd5-acaa5ec035ee",
+      "title": "Longlegs",
+      "release_year": 2024,
+      "studio_label": "C2 Motion Picture Group",
+      "slug": "longlegs",
+      "has_reactions": true
+    },
+    {
+      "id": "0d9dfe02-92a1-4141-b7cb-7b4a79a9b926",
+      "title": "Arcadian",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "arcadian",
+      "has_reactions": false
+    },
+    {
+      "id": "b7587f48-270a-474e-94d6-92631c6fbcd3",
+      "title": "The Surfer",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-surfer",
+      "has_reactions": false
+    },
+    {
+      "id": "98f30dec-db59-4245-abd4-bfdb99862415",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "spider-man-beyond-the-spider-verse",
+      "has_reactions": false
+    }
+  ]
+}

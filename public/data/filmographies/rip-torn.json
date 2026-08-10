@@ -1,0 +1,640 @@
+{
+  "id": "bc240923-1ec9-4ab2-bc18-c5cc24a17ebe",
+  "name": "Rip Torn",
+  "slug": "rip-torn",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg",
+  "filmography": [
+    {
+      "id": "d29e10c4-7542-4f2f-9c8c-b7612306085a",
+      "title": "Time Limit",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "time-limit",
+      "has_reactions": false
+    },
+    {
+      "id": "15d9b426-624c-4b18-8ed1-6ca027d20bbd",
+      "title": "A Face in the Crowd",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "a-face-in-the-crowd",
+      "has_reactions": false
+    },
+    {
+      "id": "cff02d09-02f1-49f4-9145-07a35d551bd0",
+      "title": "Bomber's Moon",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "bomber-s-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "c0ecc490-c70e-4a81-8619-b87e63976770",
+      "title": "Pork Chop Hill",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "pork-chop-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "1cd0974d-2202-4c19-be57-4e72ac451674",
+      "title": "King of Kings",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "king-of-kings",
+      "has_reactions": false
+    },
+    {
+      "id": "d969ddcc-17ec-4aa0-9871-7f33b34f4bc0",
+      "title": "Critic's Choice",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "critic-s-choice",
+      "has_reactions": false
+    },
+    {
+      "id": "3c5d95da-1522-4cc3-a694-52a201129a61",
+      "title": "The Cincinnati Kid",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-cincinnati-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "ad419bde-1223-4d68-b06f-35a5cbf759ae",
+      "title": "You're a Big Boy Now",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "you-re-a-big-boy-now",
+      "has_reactions": false
+    },
+    {
+      "id": "9fd4c7da-71c0-4870-8bea-44ecd60a60c5",
+      "title": "One Spy Too Many",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "one-spy-too-many",
+      "has_reactions": false
+    },
+    {
+      "id": "9ac0f71a-2ddf-41c7-a3db-cacb75dcef72",
+      "title": "Beach Red",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "beach-red",
+      "has_reactions": false
+    },
+    {
+      "id": "5e8e7f3d-46b4-4b30-b3e0-14b0b3a85036",
+      "title": "Beyond the Law",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-law",
+      "has_reactions": false
+    },
+    {
+      "id": "574a16f2-a6c6-4537-82dd-9017e500fbba",
+      "title": "Sol Madrid",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "sol-madrid",
+      "has_reactions": false
+    },
+    {
+      "id": "1d1bc13f-50cc-4ac9-9a20-7bd97e870af4",
+      "title": "Coming Apart",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "coming-apart",
+      "has_reactions": false
+    },
+    {
+      "id": "d52537b7-9232-440b-8be1-82ba66e4aece",
+      "title": "Tropic of Cancer",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "tropic-of-cancer",
+      "has_reactions": false
+    },
+    {
+      "id": "16cb6083-c695-4682-9f93-42ebe4c732ae",
+      "title": "1 P.M.",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "1-p-m",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b81f8b-c89d-4648-aa96-a24d633524e0",
+      "title": "Maidstone",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "maidstone",
+      "has_reactions": false
+    },
+    {
+      "id": "f30aaac8-60b1-47c1-903f-8395e6532b29",
+      "title": "Payday",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "payday",
+      "has_reactions": false
+    },
+    {
+      "id": "4067c670-0b61-4ef1-be2e-b18a6501d008",
+      "title": "The Man Who Fell to Earth",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-fell-to-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "d284895c-0ae2-4cb0-a963-80e3f730b4f5",
+      "title": "The Private Files of J. Edgar Hoover",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-private-files-of-j-edgar-hoover",
+      "has_reactions": false
+    },
+    {
+      "id": "139f4a04-1f31-4a84-bf51-f51b198c6572",
+      "title": "Nasty Habits",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "nasty-habits",
+      "has_reactions": false
+    },
+    {
+      "id": "10a65f82-ebad-412e-8ca2-2eac755a33ce",
+      "title": "Steel Cowboy",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "steel-cowboy",
+      "has_reactions": false
+    },
+    {
+      "id": "d245dd3a-3179-4e4f-b620-ef50bba0817b",
+      "title": "The Seduction of Joe Tynan",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-seduction-of-joe-tynan",
+      "has_reactions": false
+    },
+    {
+      "id": "b105c113-8118-4f69-bada-d0626b62a5f9",
+      "title": "One Trick Pony",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "one-trick-pony",
+      "has_reactions": false
+    },
+    {
+      "id": "9d02b49d-3a04-432d-b363-1c72117173f7",
+      "title": "First Family",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "first-family",
+      "has_reactions": false
+    },
+    {
+      "id": "8319fc14-b30e-40ea-9558-4ec5b6212449",
+      "title": "Heartland",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "heartland",
+      "has_reactions": false
+    },
+    {
+      "id": "8ad57b4e-dc13-49e9-9215-311fc518b5e7",
+      "title": "Airplane II: The Sequel",
+      "release_year": 1982,
+      "studio_label": "Paramount Pictures",
+      "slug": "airplane-ii-the-sequel",
+      "has_reactions": true
+    },
+    {
+      "id": "c17f34cd-5568-40bc-b06e-00363234c726",
+      "title": "The Beastmaster",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-beastmaster",
+      "has_reactions": false
+    },
+    {
+      "id": "531a38c2-2fa6-4c84-86fa-206c556223c4",
+      "title": "A Stranger Is Watching",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "a-stranger-is-watching",
+      "has_reactions": false
+    },
+    {
+      "id": "59489163-1f90-4676-86f8-52b53f67dd73",
+      "title": "Jinxed!",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "jinxed",
+      "has_reactions": false
+    },
+    {
+      "id": "19bc48fd-b0c7-4646-a000-4b690f04008a",
+      "title": "Cross Creek",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "cross-creek",
+      "has_reactions": false
+    },
+    {
+      "id": "47fff3f7-244a-4256-9b5c-ab127ef2d51a",
+      "title": "Misunderstood",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "misunderstood",
+      "has_reactions": false
+    },
+    {
+      "id": "50628cd4-e1c6-4acf-b114-b588e250fe1b",
+      "title": "Flashpoint",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "flashpoint",
+      "has_reactions": false
+    },
+    {
+      "id": "5a46d40b-534a-47d1-a5b9-670ff1a273fa",
+      "title": "Scarab",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "scarab",
+      "has_reactions": false
+    },
+    {
+      "id": "c12f32ca-b7d5-49bd-b63d-167f8893d509",
+      "title": "Songwriter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "songwriter",
+      "has_reactions": false
+    },
+    {
+      "id": "81c8824d-db92-4d19-b4df-fd3272b8250e",
+      "title": "Summer Rental",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "summer-rental",
+      "has_reactions": false
+    },
+    {
+      "id": "bef5fc34-2e96-40e0-89df-07440aba2310",
+      "title": "Beer",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "beer",
+      "has_reactions": false
+    },
+    {
+      "id": "bd1b12d7-0ca2-4ae2-a2de-157d23545bb3",
+      "title": "The Execution",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-execution",
+      "has_reactions": false
+    },
+    {
+      "id": "c8131e64-ae64-44b1-81d7-4985cac75fab",
+      "title": "J. Edgar Hoover",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "j-edgar-hoover",
+      "has_reactions": false
+    },
+    {
+      "id": "bd5d98dc-40a1-4ba7-9cb1-996a6f17cb46",
+      "title": "The King of Love",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-king-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "07e34a9b-24e5-4e14-9f60-8e22dbd82a7b",
+      "title": "Hit List",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "hit-list",
+      "has_reactions": false
+    },
+    {
+      "id": "b2bac843-c7c8-4809-ae93-ff4eca83b3b1",
+      "title": "Silence Like Glass",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "silence-like-glass",
+      "has_reactions": false
+    },
+    {
+      "id": "e4b24be0-fd2a-4c8d-9415-e51b266dcca5",
+      "title": "By Dawn's Early Light",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "by-dawn-s-early-light",
+      "has_reactions": false
+    },
+    {
+      "id": "7caf7037-ac1c-4227-a4d5-7df0ab7c8066",
+      "title": "Pair of Aces",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "pair-of-aces",
+      "has_reactions": false
+    },
+    {
+      "id": "8df52589-5176-4fa3-9a7a-fcdb21b6d02d",
+      "title": "Dolly Dearest",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dolly-dearest",
+      "has_reactions": false
+    },
+    {
+      "id": "f668d24e-71a5-4a90-9958-8f1908672822",
+      "title": "Another Pair of Aces: Three of a Kind",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "another-pair-of-aces-three-of-a-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "6b49b7ed-9fc6-4272-9808-1dc0732e935a",
+      "title": "Defending Your Life",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "defending-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "eb3ad2be-0be8-458a-bb94-d1d626a21743",
+      "title": "Dead Ahead: The Exxon Valdez Disaster",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "dead-ahead-the-exxon-valdez-disaster",
+      "has_reactions": false
+    },
+    {
+      "id": "2bfb58ce-7da3-4cc9-9240-b78522966a8a",
+      "title": "RoboCop 3",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "robocop-3",
+      "has_reactions": false
+    },
+    {
+      "id": "7f080ae3-8526-4ac1-9365-b6f289ea837c",
+      "title": "Where the Rivers Flow North",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "where-the-rivers-flow-north",
+      "has_reactions": false
+    },
+    {
+      "id": "44d8d1da-ccd5-46ea-9888-df273ad1bc98",
+      "title": "Beyond the Law",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-law",
+      "has_reactions": false
+    },
+    {
+      "id": "f225e08f-8854-48ec-a8dc-f33a0649ed46",
+      "title": "Canadian Bacon",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "canadian-bacon",
+      "has_reactions": false
+    },
+    {
+      "id": "d3ffe1fd-5c15-4561-9470-c323e4ce2e51",
+      "title": "Men in Black",
+      "release_year": 1997,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black",
+      "has_reactions": true
+    },
+    {
+      "id": "9ef09c9f-3160-4d1b-ae22-d57f6392b0d6",
+      "title": "Hercules",
+      "release_year": 1997,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "hercules",
+      "has_reactions": true
+    },
+    {
+      "id": "47b36d9e-4663-4851-a18c-128970752448",
+      "title": "Senseless",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "senseless",
+      "has_reactions": false
+    },
+    {
+      "id": "b549eaf4-c689-49a3-a0ef-896467249bf0",
+      "title": "The Insider",
+      "release_year": 1999,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-insider",
+      "has_reactions": true
+    },
+    {
+      "id": "883c342c-1fe0-47ba-aa2b-47cb3fb7ba6b",
+      "title": "Balloon Farm",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "balloon-farm",
+      "has_reactions": false
+    },
+    {
+      "id": "c54a65fa-8f21-4b57-8c56-d92c7640b429",
+      "title": "The Almost Perfect Bank Robbery",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-almost-perfect-bank-robbery",
+      "has_reactions": false
+    },
+    {
+      "id": "c9189415-5665-4ba6-aa51-7a6218886e38",
+      "title": "Passing Glory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "passing-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "0b03f003-d813-48df-b0a6-74846f204dfb",
+      "title": "Wonder Boys",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "wonder-boys",
+      "has_reactions": true
+    },
+    {
+      "id": "d88b9d23-3423-4af2-8ac7-6572518a801e",
+      "title": "Freddy Got Fingered",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "freddy-got-fingered",
+      "has_reactions": false
+    },
+    {
+      "id": "eced2810-b1ea-407f-8a82-abfe873524db",
+      "title": "Men in Black II",
+      "release_year": 2002,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "6ce11711-67ca-4745-ac2c-7ad656a1fe08",
+      "title": "DodgeBall: A True Underdog Story",
+      "release_year": 2004,
+      "studio_label": "20th Century Fox",
+      "slug": "dodgeball-a-true-underdog-story",
+      "has_reactions": true
+    },
+    {
+      "id": "acc6222d-12f7-45fc-97c1-1ae0f15fdfab",
+      "title": "Welcome to Mooseport",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-mooseport",
+      "has_reactions": false
+    },
+    {
+      "id": "7ff39971-a3b4-45a8-988d-f01974a1e2a0",
+      "title": "Love Object",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "love-object",
+      "has_reactions": false
+    },
+    {
+      "id": "b64c78aa-6402-4a9b-906d-5416164a8733",
+      "title": "Eulogy",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "eulogy",
+      "has_reactions": false
+    },
+    {
+      "id": "8ba7d53b-3268-46d7-b34a-02b7d289ef99",
+      "title": "The Sisters",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "baed2701-b3c4-4eba-86c3-aa25b358d847",
+      "title": "Forty Shades of Blue",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "forty-shades-of-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "5432b02e-67ab-48ae-b9c5-f272d9cfc233",
+      "title": "Yours, Mine & Ours",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "yours-mine-ours",
+      "has_reactions": false
+    },
+    {
+      "id": "5df1d5cb-13aa-49e6-90e3-56ef2805fd65",
+      "title": "Marie Antoinette",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "marie-antoinette",
+      "has_reactions": false
+    },
+    {
+      "id": "8128cad7-1fca-4c7d-a60c-b5e684d54e12",
+      "title": "Zoom",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "zoom",
+      "has_reactions": false
+    },
+    {
+      "id": "bcc1b5a0-007b-47ae-b6a2-2e1e5eadc1d8",
+      "title": "Bee Movie",
+      "release_year": 2007,
+      "studio_label": "Columbus 81 Productions",
+      "slug": "bee-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "b72e32fa-bbd4-4124-ad09-0cf0c389c63b",
+      "title": "The Making of Marie Antoinette",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-marie-antoinette",
+      "has_reactions": false
+    },
+    {
+      "id": "926a2076-5bc1-4f42-971d-4bb7b9ac0eea",
+      "title": "Three Days to Vegas",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "three-days-to-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "7474f0ea-7afb-465a-a1fa-dabc3cdb8c79",
+      "title": "Turn the River",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "turn-the-river",
+      "has_reactions": false
+    },
+    {
+      "id": "9898ff52-10e9-4219-ad2a-1eac712d9fe4",
+      "title": "Happy Tears",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "happy-tears",
+      "has_reactions": false
+    },
+    {
+      "id": "a67b37ec-7e60-49ac-9620-6324e0f67f36",
+      "title": "The Afterlight",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-afterlight",
+      "has_reactions": false
+    },
+    {
+      "id": "17f77c84-3563-4f27-aa13-752763705df3",
+      "title": "National Lampoon's The Legend of Awesomest Maximus",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "national-lampoon-s-the-legend-of-awesomest-maximus",
+      "has_reactions": false
+    },
+    {
+      "id": "fb760025-4074-450a-87c8-06fe82dbb82c",
+      "title": "Norman Mailer: The American",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "norman-mailer-the-american",
+      "has_reactions": false
+    },
+    {
+      "id": "ec04ac17-e889-4f98-b67c-b26d2d64fc9b",
+      "title": "Men in Black 3",
+      "release_year": 2012,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-3",
+      "has_reactions": true
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "id": "5d7401b0-34ba-4572-b103-5cd319249d06",
+  "name": "Fay Wray",
+  "slug": "fay-wray",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/dfpwqfEulBX06hOrX56fLhGSWAz.jpg",
+  "filmography": [
+    {
+      "id": "c3e2b3fb-b892-43c3-b9db-98b4c179006f",
+      "title": "Sweet Daddy",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "sweet-daddy",
+      "has_reactions": false
+    },
+    {
+      "id": "e44a1fa1-009f-4aec-afd6-65a6e87b4a7b",
+      "title": "Just a Good Guy",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "just-a-good-guy",
+      "has_reactions": false
+    },
+    {
+      "id": "3f09c892-c1c8-4b66-b16c-9895668bd0ed",
+      "title": "Madame Sans Jane",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "madame-sans-jane",
+      "has_reactions": false
+    },
+    {
+      "id": "4c3855fd-0e6c-49d7-9695-acf263370cf4",
+      "title": "Unfriendly Enemies",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "unfriendly-enemies",
+      "has_reactions": false
+    },
+    {
+      "id": "b19c5f97-a633-445c-8fa5-6bbec1db5902",
+      "title": "What Price Goofy?",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "what-price-goofy",
+      "has_reactions": false
+    },
+    {
+      "id": "a75c9713-8d12-4d55-b175-9c033980132b",
+      "title": "Thundering Landlords",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "thundering-landlords",
+      "has_reactions": false
+    },
+    {
+      "id": "1e880433-e980-4463-9581-c965272f4a7f",
+      "title": "Your Own Back Yard",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "your-own-back-yard",
+      "has_reactions": false
+    },
+    {
+      "id": "cb0784a8-778f-4877-9215-066650c90b48",
+      "title": "Isn't Life Terrible?",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "isn-t-life-terrible",
+      "has_reactions": false
+    },
+    {
+      "id": "0c8e1b95-35de-449f-a3f2-73388a80ad3e",
+      "title": "Moonlight and Noses",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "moonlight-and-noses",
+      "has_reactions": false
+    },
+    {
+      "id": "1e29b921-54f9-4412-9efb-111941b06e8c",
+      "title": "Chasing the Chaser",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "chasing-the-chaser",
+      "has_reactions": false
+    },
+    {
+      "id": "8256faad-d279-41c7-a02b-7f266f2e0f31",
+      "title": "The Coast Patrol",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "the-coast-patrol",
+      "has_reactions": false
+    },
+    {
+      "id": "b6f3ea9a-6453-4da0-aeb4-bb9ae40d54f9",
+      "title": "In the Grease",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "in-the-grease",
+      "has_reactions": false
+    },
+    {
+      "id": "0bf173bc-1946-462c-8a6d-07a81a8d9b89",
+      "title": "A Lover's Oath",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "a-lover-s-oath",
+      "has_reactions": false
+    },
+    {
+      "id": "90d4aed3-0c5e-4756-a01c-f7a188613e1d",
+      "title": "Sure-Mike!",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "sure-mike",
+      "has_reactions": false
+    },
+    {
+      "id": "58c89221-b971-49a8-8269-a790a892689e",
+      "title": "The Show Cowpuncher",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "the-show-cowpuncher",
+      "has_reactions": false
+    },
+    {
+      "id": "bb8e7f4d-31ed-4d47-9a5b-a00d2ab0d049",
+      "title": "Don't Shoot",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "don-t-shoot",
+      "has_reactions": false
+    },
+    {
+      "id": "65bf8620-fc60-47e9-8f85-4e659f6e5403",
+      "title": "One Wild Time",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "one-wild-time",
+      "has_reactions": false
+    },
+    {
+      "id": "5187ec97-8c36-40c2-ada8-5c6e1c0555d4",
+      "title": "The Saddle Tramp",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "the-saddle-tramp",
+      "has_reactions": false
+    },
+    {
+      "id": "2072774d-b86d-44a1-bf14-c0ef3e3ba09a",
+      "title": "Don Key (Son of Burro)",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "don-key-son-of-burro",
+      "has_reactions": false
+    },
+    {
+      "id": "fa5c4078-3a40-493f-b337-c01e36aa7c81",
+      "title": "Four Square Steve",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "four-square-steve",
+      "has_reactions": false
+    },
+    {
+      "id": "0da92f40-9272-4937-9788-3278c0cfe461",
+      "title": "A One Man Game",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "a-one-man-game",
+      "has_reactions": false
+    },
+    {
+      "id": "90f70b67-a877-4294-8c0e-b72eab980657",
+      "title": "Spurs and Saddles",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "spurs-and-saddles",
+      "has_reactions": false
+    },
+    {
+      "id": "d5ab1ce8-62e1-477a-8b88-d6de37922fd9",
+      "title": "Loco Luck",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "loco-luck",
+      "has_reactions": false
+    },
+    {
+      "id": "c7e23370-ad00-46a3-8f35-44caac6d41cf",
+      "title": "The Wedding March",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-wedding-march",
+      "has_reactions": false
+    },
+    {
+      "id": "f9626456-4b46-47e8-9f51-193d7dcd914e",
+      "title": "The Legion of the Condemned",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-legion-of-the-condemned",
+      "has_reactions": false
+    },
+    {
+      "id": "be3bbf14-2369-458a-9bae-04aa72d37710",
+      "title": "The First Kiss",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-first-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "b1abbab8-3ec8-40f9-8189-1462c6e0309f",
+      "title": "The Four Feathers",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-four-feathers",
+      "has_reactions": false
+    },
+    {
+      "id": "eff2530c-5702-42ed-8274-b3b5c8a9965f",
+      "title": "Pointed Heels",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "pointed-heels",
+      "has_reactions": false
+    },
+    {
+      "id": "ce0aa135-f84c-46b9-a21d-c8f9dd000227",
+      "title": "Thunderbolt",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "thunderbolt",
+      "has_reactions": false
+    },
+    {
+      "id": "00ee087d-9229-4098-b85d-6c7721d61473",
+      "title": "The Honeymoon",
+      "release_year": 1929,
+      "studio_label": "\u2014",
+      "slug": "the-honeymoon",
+      "has_reactions": false
+    },
+    {
+      "id": "fe96498e-127e-4e0a-b4e9-7efbc0a6495d",
+      "title": "The Texan",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-texan",
+      "has_reactions": false
+    },
+    {
+      "id": "e192272d-cec6-46fb-b6fd-9da3981ce66e",
+      "title": "The Sea God",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-sea-god",
+      "has_reactions": false
+    },
+    {
+      "id": "167ef34e-13c1-49d7-af16-f4b81323db10",
+      "title": "Behind the Make-Up",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "behind-the-make-up",
+      "has_reactions": false
+    },
+    {
+      "id": "8d5a78b3-584d-45ea-8707-0151bf29a903",
+      "title": "Captain Thunder",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "captain-thunder",
+      "has_reactions": false
+    },
+    {
+      "id": "c26e47d3-b7b2-4bdd-95cd-def6fb581be3",
+      "title": "The Border Legion",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "the-border-legion",
+      "has_reactions": false
+    },
+    {
+      "id": "478f044d-9fd0-49e0-abb4-b3b39b96be94",
+      "title": "Paramount on Parade",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "paramount-on-parade",
+      "has_reactions": false
+    },
+    {
+      "id": "d8b47ad3-151a-4906-bcb8-eac3f4e5a012",
+      "title": "Dirigible",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "dirigible",
+      "has_reactions": false
+    },
+    {
+      "id": "47d71709-a6d1-4c17-855d-5823687a0bb7",
+      "title": "The Stolen Jools",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-stolen-jools",
+      "has_reactions": false
+    },
+    {
+      "id": "a73e45fc-01d1-4c9b-8359-6d3c22b332a9",
+      "title": "The Unholy Garden",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-unholy-garden",
+      "has_reactions": false
+    },
+    {
+      "id": "1ba8816b-5ea3-4610-886a-7719111d40b0",
+      "title": "The Lawyer's Secret",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-lawyer-s-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "ac01ea81-c7c7-4c01-84a1-471edf32536a",
+      "title": "Three Rogues",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "three-rogues",
+      "has_reactions": false
+    },
+    {
+      "id": "96bd3447-c74a-4a34-83c3-ffc17dd6bd89",
+      "title": "Doctor X",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "doctor-x",
+      "has_reactions": false
+    },
+    {
+      "id": "c0e6e21a-630f-4e77-a326-310b398d2feb",
+      "title": "The Most Dangerous Game",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-most-dangerous-game",
+      "has_reactions": false
+    },
+    {
+      "id": "d4f918de-6767-4d93-9019-bbbe535dcccc",
+      "title": "Stowaway",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "stowaway",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b8d7ea-f718-4f05-a3e6-5ae34f6f7090",
+      "title": "King Kong",
+      "release_year": 1933,
+      "studio_label": "RKO Radio Pictures",
+      "slug": "king-kong",
+      "has_reactions": true
+    },
+    {
+      "id": "6e201779-9f75-49ae-858f-61046b9240a0",
+      "title": "One Sunday Afternoon",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "one-sunday-afternoon",
+      "has_reactions": false
+    },
+    {
+      "id": "fe0ecb30-1f4a-4994-bb6c-f2d1297b37da",
+      "title": "The Vampire Bat",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-vampire-bat",
+      "has_reactions": false
+    },
+    {
+      "id": "c1b7aad3-9857-478f-b0bd-d5b6665439bc",
+      "title": "Mystery of the Wax Museum",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "mystery-of-the-wax-museum",
+      "has_reactions": false
+    },
+    {
+      "id": "50d5584a-595c-42da-99cf-e46ca30084d8",
+      "title": "Ann Carver's Profession",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "ann-carver-s-profession",
+      "has_reactions": false
+    },
+    {
+      "id": "7824b251-e85d-48f9-ae42-d24ed720ce09",
+      "title": "The Son of Kong",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-son-of-kong",
+      "has_reactions": false
+    },
+    {
+      "id": "77e05e67-bd04-4251-bd56-55cd23903231",
+      "title": "Shanghai Madness",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "shanghai-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "3c9448a1-d8b6-432f-a7a3-4c707a01f1f5",
+      "title": "Below the Sea",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "below-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "4183c1de-4131-40e0-ac44-f084d398da92",
+      "title": "The Big Brain",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-big-brain",
+      "has_reactions": false
+    },
+    {
+      "id": "25008217-07a1-4fcd-83f2-e4c9ae31c8eb",
+      "title": "Master of Men",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "master-of-men",
+      "has_reactions": false
+    },
+    {
+      "id": "e201f948-f72f-4976-aac2-a7af381c4f8c",
+      "title": "The Woman I Stole",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-woman-i-stole",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a85ad4-3796-400e-a6ef-6fd14f7484b5",
+      "title": "Black Moon",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "black-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "178b9628-c718-4e12-a389-bbfedb53a9ff",
+      "title": "The Richest Girl in the World",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-richest-girl-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "9c449a36-c9ee-4a9b-b68c-66833bc01cbc",
+      "title": "Woman in the Dark",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "woman-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "a55ec42a-c331-416d-9ae8-79e690eed0ac",
+      "title": "Once to Every Woman",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "once-to-every-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "a3633303-7965-4f23-b992-3f1d9e8b96d7",
+      "title": "Mills of the Gods",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "mills-of-the-gods",
+      "has_reactions": false
+    },
+    {
+      "id": "d635956a-ca8b-4d82-9519-9a6a82f4ec5e",
+      "title": "Madame Spy",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "madame-spy",
+      "has_reactions": false
+    },
+    {
+      "id": "9a6ece2b-30b8-4b00-bf2e-740dd3cfb0ef",
+      "title": "Cheating Cheaters",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "cheating-cheaters",
+      "has_reactions": false
+    },
+    {
+      "id": "95ae4be8-361a-41c4-a7c6-1ea2b7247c8d",
+      "title": "The Clairvoyant",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "the-clairvoyant",
+      "has_reactions": false
+    },
+    {
+      "id": "04f14ef6-97d1-422c-a85d-466a9e34c1ca",
+      "title": "Bulldog Jack",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "bulldog-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "7d30ec73-9b02-4375-b95e-20cf52b7a674",
+      "title": "Come Out of the Pantry",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "come-out-of-the-pantry",
+      "has_reactions": false
+    },
+    {
+      "id": "083ca2a5-a384-4905-9ac0-28cc3e15d279",
+      "title": "White Lies",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "white-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "c9d43ef1-85e3-4d18-b18e-d0b60e40b294",
+      "title": "When Knights Were Bold",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "when-knights-were-bold",
+      "has_reactions": false
+    },
+    {
+      "id": "d3f45ce8-6d4b-4c95-ae29-2cd5968c35c1",
+      "title": "They Met in a Taxi",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "they-met-in-a-taxi",
+      "has_reactions": false
+    },
+    {
+      "id": "17f4f7bb-31ad-4552-a64d-0b7302e47ed0",
+      "title": "It Happened in Hollywood",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "it-happened-in-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "4f8cc1af-9e63-4538-a835-b9db7197e8e1",
+      "title": "Murder in Greenwich Village",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "murder-in-greenwich-village",
+      "has_reactions": false
+    },
+    {
+      "id": "52578bd0-75e4-4151-b127-9a0301122742",
+      "title": "Navy Secrets",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "navy-secrets",
+      "has_reactions": false
+    },
+    {
+      "id": "e072df02-8354-42f0-9ba0-7df07f57d114",
+      "title": "Wildcat Bus",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "wildcat-bus",
+      "has_reactions": false
+    },
+    {
+      "id": "52e4276c-44be-45a4-a433-43b0711ca02e",
+      "title": "Adam Had Four Sons",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "adam-had-four-sons",
+      "has_reactions": false
+    },
+    {
+      "id": "1c0f99c5-8a88-4173-8962-75a86e5d3cc4",
+      "title": "Melody for Three",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "melody-for-three",
+      "has_reactions": false
+    },
+    {
+      "id": "0d7a2a62-0ef2-4c9a-919d-6a356fdac7e6",
+      "title": "Not a Ladies' Man",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "not-a-ladies-man",
+      "has_reactions": false
+    },
+    {
+      "id": "50064b82-5938-446b-a214-dfd9a9175229",
+      "title": "Mighty Joe Young",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "mighty-joe-young",
+      "has_reactions": false
+    },
+    {
+      "id": "c63745cc-8351-4e25-bdfc-a25558e05ead",
+      "title": "Small Town Girl",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "small-town-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "748a1088-8aad-4800-bddb-865229b13902",
+      "title": "Treasure of the Golden Condor",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "treasure-of-the-golden-condor",
+      "has_reactions": false
+    },
+    {
+      "id": "233e5d5b-a563-4e84-8b72-8fdfed060a26",
+      "title": "Queen Bee",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "queen-bee",
+      "has_reactions": false
+    },
+    {
+      "id": "fda4c79c-9cc2-431c-a49a-a8fc20757f79",
+      "title": "The Cobweb",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-cobweb",
+      "has_reactions": false
+    },
+    {
+      "id": "39930844-d217-446d-96d4-e356217f13f3",
+      "title": "Hell on Frisco Bay",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "hell-on-frisco-bay",
+      "has_reactions": false
+    },
+    {
+      "id": "61745657-cdc4-4ed9-90d5-fad184238f7c",
+      "title": "Crime of Passion",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "crime-of-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "55389451-e1ed-4585-8597-2191b95297f8",
+      "title": "Tammy and the Bachelor",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "tammy-and-the-bachelor",
+      "has_reactions": false
+    },
+    {
+      "id": "206decd6-eadb-4772-87e4-1adcc22875d0",
+      "title": "Dragstrip Riot",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "dragstrip-riot",
+      "has_reactions": false
+    },
+    {
+      "id": "94efbc5e-03a5-4348-b02f-1745fe54faff",
+      "title": "Hollywood Blue",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "hollywood-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "50fcad23-bb29-49c1-ac57-b7fd57607989",
+      "title": "Kink\u00f3n",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "kink-n",
+      "has_reactions": false
+    },
+    {
+      "id": "aad15998-6b78-4f42-9ef4-90ed17210602",
+      "title": "Murder by Death",
+      "release_year": 1976,
+      "studio_label": "Rastar Productions",
+      "slug": "murder-by-death",
+      "has_reactions": true
+    },
+    {
+      "id": "45787a22-5f08-4dd4-8ea6-5879eaff1efb",
+      "title": "The Horror Show",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-horror-show",
+      "has_reactions": false
+    },
+    {
+      "id": "eed4c5ff-175d-40c1-9615-1eb513eff181",
+      "title": "Gideon's Trumpet",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "gideon-s-trumpet",
+      "has_reactions": false
+    },
+    {
+      "id": "ee4d3913-8679-41d6-a95d-addbc709ccd5",
+      "title": "Off the Menu: The Last Days of Chasen's",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "off-the-menu-the-last-days-of-chasen-s",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c39b0e-ff88-4e7d-9233-4defb43769c8",
+      "title": "Universal Horror",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "universal-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "19c55b65-3e1e-4a7c-970e-57554c9ecc71",
+      "title": "Broadway: The Golden Age, by the Legends Who Were There",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "broadway-the-golden-age-by-the-legends-who-were-there",
+      "has_reactions": false
+    },
+    {
+      "id": "87c09c17-3743-47e6-9cc3-ce681c8e8c21",
+      "title": "The Lost Spider Pit Sequence",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-lost-spider-pit-sequence",
+      "has_reactions": false
+    }
+  ]
+}

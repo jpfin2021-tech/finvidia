@@ -1,0 +1,232 @@
+{
+  "id": "a22655be-33a9-42c4-839d-3a290d72ee41",
+  "name": "Hulk Hogan",
+  "slug": "hulk-hogan",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/i27iSeP7hhtlFOeVnthRQ9Ox2m4.jpg",
+  "filmography": [
+    {
+      "id": "f14ab31a-afc4-490c-8428-246992bdcff7",
+      "title": "Rocky III",
+      "release_year": 1982,
+      "studio_label": "United Artists",
+      "slug": "rocky-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "28de3881-3272-4027-93b9-a3f22eee1486",
+      "title": "WrestleMania II",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "wrestlemania-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "1fd75071-599b-411c-970c-52cd59b0b013",
+      "title": "WWF Hulkamania 2",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "wwf-hulkamania-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0fba4837-1300-43f0-869f-8d5b736ad964",
+      "title": "No Holds Barred",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "no-holds-barred",
+      "has_reactions": false
+    },
+    {
+      "id": "efb98127-6889-420d-b656-d2e8e4b9de30",
+      "title": "WWE SummerSlam 1989",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "wwe-summerslam-1989",
+      "has_reactions": false
+    },
+    {
+      "id": "2bd5b672-1e0a-4b46-9965-fae107631eb5",
+      "title": "Gremlins 2: The New Batch",
+      "release_year": 1990,
+      "studio_label": "Amblin Entertainment",
+      "slug": "gremlins-2-the-new-batch",
+      "has_reactions": true
+    },
+    {
+      "id": "063d16ec-69b4-439b-968f-6bf8ced23450",
+      "title": "WWE SuperTape: Volume 1",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "wwe-supertape-volume-1",
+      "has_reactions": false
+    },
+    {
+      "id": "e768dfa0-589b-4596-85b0-a1634f2c7fac",
+      "title": "WWE WrestleMania VI",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "wwe-wrestlemania-vi",
+      "has_reactions": false
+    },
+    {
+      "id": "8402d770-a2b8-42e9-a006-44da64e79683",
+      "title": "Suburban Commando",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "suburban-commando",
+      "has_reactions": false
+    },
+    {
+      "id": "147e69fd-6d92-46ff-9fae-490dc56868b1",
+      "title": "WWE WrestleMania VII",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "wwe-wrestlemania-vii",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c1b678-d090-4361-a662-4f1668849b56",
+      "title": "Mr. Nanny",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "mr-nanny",
+      "has_reactions": false
+    },
+    {
+      "id": "f1016475-1f57-478a-9ed9-e8f8521c9978",
+      "title": "Thunder in Paradise",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "thunder-in-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "951ebfa2-f678-4e39-be7b-6487b3a50b02",
+      "title": "The Secret Agent Club",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-secret-agent-club",
+      "has_reactions": false
+    },
+    {
+      "id": "c89daf43-8c7d-4608-8616-05440a21d934",
+      "title": "Assault on Devil's Island",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "assault-on-devil-s-island",
+      "has_reactions": false
+    },
+    {
+      "id": "ad05c7a2-1343-4f8f-b133-f0f17d2271cb",
+      "title": "3 Ninjas: High Noon at Mega Mountain",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "3-ninjas-high-noon-at-mega-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "c981f8fb-9cc4-4f77-bb16-c385feddffad",
+      "title": "WCW Slamboree 2000",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "wcw-slamboree-2000",
+      "has_reactions": false
+    },
+    {
+      "id": "2ce93f0a-b9ea-4d6b-9146-a8f7bbba7bf1",
+      "title": "WWE Backlash 2002",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "wwe-backlash-2002",
+      "has_reactions": false
+    },
+    {
+      "id": "bf161b07-99c5-48f2-8e04-366e7773a155",
+      "title": "WWE Judgment Day 2002",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "wwe-judgment-day-2002",
+      "has_reactions": false
+    },
+    {
+      "id": "9f2d3d1c-e196-41ec-be35-e952a7e6692b",
+      "title": "WWE No Way Out 2003",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "wwe-no-way-out-2003",
+      "has_reactions": false
+    },
+    {
+      "id": "0f4e9080-381e-49c7-8759-e082444db004",
+      "title": "WWE SummerSlam 2005",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "wwe-summerslam-2005",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a04e55-b577-4a72-a077-68f99e6fa9a9",
+      "title": "WWE Backlash 2005",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "wwe-backlash-2005",
+      "has_reactions": false
+    },
+    {
+      "id": "1f44e4eb-f755-43d0-97b4-c466ae7be35e",
+      "title": "WWE: The Spectacular Legacy of the AWA",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wwe-the-spectacular-legacy-of-the-awa",
+      "has_reactions": false
+    },
+    {
+      "id": "db0a77a9-69b9-422a-8727-3560bbffb618",
+      "title": "WWE SummerSlam 2006",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "wwe-summerslam-2006",
+      "has_reactions": false
+    },
+    {
+      "id": "ed774e53-ea6c-4448-8801-644687a2591c",
+      "title": "The Robot Chicken: Star Wars",
+      "release_year": 2007,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-robot-chicken-star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "6e38fd0e-8c8f-4a8b-a586-e753990f0769",
+      "title": "DJ SWB Volume 6 | This Is How We Do",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "dj-swb-volume-6-this-is-how-we-do",
+      "has_reactions": false
+    },
+    {
+      "id": "3e274ffd-340c-453a-b08f-7f3f92e546b2",
+      "title": "WWE Tribute to the Troops 2014",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "wwe-tribute-to-the-troops-2014",
+      "has_reactions": false
+    },
+    {
+      "id": "700ff0d2-1317-4102-9696-cb949a35c187",
+      "title": "The Rock's Most Electrifying Matches",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-rock-s-most-electrifying-matches",
+      "has_reactions": false
+    },
+    {
+      "id": "492343a9-c26b-43b2-b3e6-a973393947be",
+      "title": "American Nightmare: Becoming Cody Rhodes",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "american-nightmare-becoming-cody-rhodes",
+      "has_reactions": false
+    }
+  ]
+}

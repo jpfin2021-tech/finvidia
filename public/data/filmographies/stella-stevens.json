@@ -1,0 +1,672 @@
+{
+  "id": "4a918b37-a6b8-46c0-9aef-5b72ff32b94d",
+  "name": "Stella Stevens",
+  "slug": "stella-stevens",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qtAO54E8URyIKbzpDj3DjX7U9qE.jpg",
+  "filmography": [
+    {
+      "id": "bf59c731-315a-43c4-a831-23e641dcd4a3",
+      "title": "The Blue Angel",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-blue-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "5a323991-b090-4fee-95f6-a8aa8c270dda",
+      "title": "Li'l Abner",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "li-l-abner",
+      "has_reactions": false
+    },
+    {
+      "id": "df72d736-8094-4c34-b65e-b516b06a41b6",
+      "title": "Man-Trap",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "man-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "fcb56312-e504-4a60-8aa5-00a47be81900",
+      "title": "Too Late Blues",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "too-late-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "5645370d-eec9-4ddf-967f-827661a10971",
+      "title": "Girls! Girls! Girls!",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "girls-girls-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "97c3fb9e-07bf-4e5a-a65e-e152044b329d",
+      "title": "The Courtship of Eddie's Father",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-courtship-of-eddie-s-father",
+      "has_reactions": false
+    },
+    {
+      "id": "7dc0b656-51eb-4cb8-a88b-ab11434e98d5",
+      "title": "The Nutty Professor",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-nutty-professor",
+      "has_reactions": false
+    },
+    {
+      "id": "ac9807fc-83ce-4bfc-bb00-d9a4b213938a",
+      "title": "Advance to the Rear",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "advance-to-the-rear",
+      "has_reactions": false
+    },
+    {
+      "id": "95bf6727-6225-47a0-966c-0aa55d4b3ce3",
+      "title": "The Secret of My Success",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-secret-of-my-success",
+      "has_reactions": false
+    },
+    {
+      "id": "2453e7c1-3d06-446b-b507-2fe5fcc87fac",
+      "title": "Synanon",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "synanon",
+      "has_reactions": false
+    },
+    {
+      "id": "2c4b30ea-9b44-4660-8139-a50107de9ea1",
+      "title": "The Silencers",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-silencers",
+      "has_reactions": false
+    },
+    {
+      "id": "32b3b36a-7aed-4563-b630-98d1c84896c7",
+      "title": "Rage",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "rage",
+      "has_reactions": false
+    },
+    {
+      "id": "574a16f2-a6c6-4537-82dd-9017e500fbba",
+      "title": "Sol Madrid",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "sol-madrid",
+      "has_reactions": false
+    },
+    {
+      "id": "9f6590c8-fa26-4ec0-aad8-669b853cfeef",
+      "title": "How to Save a Marriage and Ruin Your Life",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "how-to-save-a-marriage-and-ruin-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "6f83953c-a341-4d05-ac46-ac6af126caa9",
+      "title": "Where Angels Go, Trouble Follows",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "where-angels-go-trouble-follows",
+      "has_reactions": false
+    },
+    {
+      "id": "c0936390-bf13-4134-a0e9-f43592bd9442",
+      "title": "The Ballad of Cable Hogue",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-ballad-of-cable-hogue",
+      "has_reactions": false
+    },
+    {
+      "id": "3a9c4b28-f9cc-4231-94e4-24c4289e607f",
+      "title": "In Broad Daylight",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "in-broad-daylight",
+      "has_reactions": false
+    },
+    {
+      "id": "7efcaf13-15f6-49af-9e5c-32771ea15e85",
+      "title": "The Poseidon Adventure",
+      "release_year": 1972,
+      "studio_label": "Kent Productions",
+      "slug": "the-poseidon-adventure",
+      "has_reactions": true
+    },
+    {
+      "id": "dd29914d-eca6-4dc1-963c-da3273cf3a82",
+      "title": "Stand Up and Be Counted",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "stand-up-and-be-counted",
+      "has_reactions": false
+    },
+    {
+      "id": "fce3e3f0-aee4-474f-9ffe-2f4abd7e06b7",
+      "title": "Climb an Angry Mountain",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "climb-an-angry-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "63970099-a509-49ed-a325-af39c6ad6ac2",
+      "title": "The Day the Earth Moved",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-day-the-earth-moved",
+      "has_reactions": false
+    },
+    {
+      "id": "5ce87ecf-b215-4f3c-bea3-4272f7b9b947",
+      "title": "Honky Tonk",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "honky-tonk",
+      "has_reactions": false
+    },
+    {
+      "id": "11a4abbc-3c67-484d-a99d-6a0500eb91ce",
+      "title": "Las Vegas Lady",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "las-vegas-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "3eecc0ec-8f15-4b2c-b368-f5387cd188e5",
+      "title": "Cleopatra Jones and the Casino of Gold",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "cleopatra-jones-and-the-casino-of-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "5b66a8c8-f78b-49b1-b11c-23aa675fdb44",
+      "title": "Nickelodeon",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "nickelodeon",
+      "has_reactions": false
+    },
+    {
+      "id": "4301c261-a363-465e-a278-d51d5d48e62f",
+      "title": "Wanted: The Sundance Woman",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "wanted-the-sundance-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "a463bc16-fb63-4c0b-bc43-0868061e1303",
+      "title": "Murder in Peyton Place",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "murder-in-peyton-place",
+      "has_reactions": false
+    },
+    {
+      "id": "aec9281a-658a-43a4-afa5-ee3bfe4eb230",
+      "title": "The New Love Boat",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-new-love-boat",
+      "has_reactions": false
+    },
+    {
+      "id": "cce4a704-6cb7-4e6b-b2ff-e2e71f119942",
+      "title": "Mister Deathman",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "mister-deathman",
+      "has_reactions": false
+    },
+    {
+      "id": "4316b1f6-3708-4011-8f8a-404e6d50e56f",
+      "title": "Charlie Cobb: Nice Night for a Hanging",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "charlie-cobb-nice-night-for-a-hanging",
+      "has_reactions": false
+    },
+    {
+      "id": "539392db-d56a-4a2e-961d-0085702674a3",
+      "title": "The Night They Took Miss Beautiful",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-night-they-took-miss-beautiful",
+      "has_reactions": false
+    },
+    {
+      "id": "04ea04ab-8129-44ae-b3cf-a2415fed1a8e",
+      "title": "The Manitou",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-manitou",
+      "has_reactions": false
+    },
+    {
+      "id": "e22b07fb-ec2c-440b-a2df-c4911c0beec4",
+      "title": "Cruise Into Terror",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "cruise-into-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "47375004-eca4-42c1-b967-28c2c33a8f5a",
+      "title": "The Jordan Chance",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-jordan-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "b983c4cf-2546-4b59-8de3-7cd456840d1e",
+      "title": "Express to Terror",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "express-to-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "3754f396-fc01-4974-9916-340319444460",
+      "title": "Friendships, Secrets and Lies",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "friendships-secrets-and-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "15701c9b-c3b0-4a2e-857b-76af4a94d640",
+      "title": "Make Me an Offer",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "make-me-an-offer",
+      "has_reactions": false
+    },
+    {
+      "id": "0056ac45-f380-4dfa-9cd9-4f40e62f81db",
+      "title": "Flamingo Road",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "flamingo-road",
+      "has_reactions": false
+    },
+    {
+      "id": "565a42a2-dc2a-4c8d-98f3-2f25ff58e1fe",
+      "title": "Twirl",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "twirl",
+      "has_reactions": false
+    },
+    {
+      "id": "8277ca26-5da1-4942-b989-e0b71e95d9be",
+      "title": "Chained Heat",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "chained-heat",
+      "has_reactions": false
+    },
+    {
+      "id": "53708ff0-91e3-41b5-b259-75fee6e5e390",
+      "title": "Amazons",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "amazons",
+      "has_reactions": false
+    },
+    {
+      "id": "75c5c34d-567f-41a7-822e-2363358d15be",
+      "title": "No Man's Land",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "no-man-s-land",
+      "has_reactions": false
+    },
+    {
+      "id": "54b88810-622c-4c98-9fbf-9e840048ea3f",
+      "title": "Monster in the Closet",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "monster-in-the-closet",
+      "has_reactions": false
+    },
+    {
+      "id": "ee75e218-9945-4e56-bc06-11ee472229cb",
+      "title": "The Longshot",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-longshot",
+      "has_reactions": false
+    },
+    {
+      "id": "8df2398a-9605-435d-b61c-809ce37138fc",
+      "title": "The History of White People in America: Volume II",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-history-of-white-people-in-america-volume-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "5df9839e-e0ca-4270-a710-f7e7ed6d5586",
+      "title": "A Masterpiece of Murder",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "a-masterpiece-of-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "ec99c04c-5954-4e85-87f0-80f11c22da50",
+      "title": "Fatal Confession: A Father Dowling Mystery",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "fatal-confession-a-father-dowling-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "bbd1ef7a-2e30-4375-a356-ea2a6d5a6224",
+      "title": "Tales from the Hollywood Hills: Natica Jackson",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "tales-from-the-hollywood-hills-natica-jackson",
+      "has_reactions": false
+    },
+    {
+      "id": "38d77ec6-0b99-43e1-9298-681f0b67ab2f",
+      "title": "Man Against the Mob",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "man-against-the-mob",
+      "has_reactions": false
+    },
+    {
+      "id": "6816f3f7-5119-429d-aa82-1bfad31c5f4d",
+      "title": "Hoodwinked",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "hoodwinked",
+      "has_reactions": false
+    },
+    {
+      "id": "850b6320-ce33-4112-97f3-cece39b968dd",
+      "title": "Mom",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mom",
+      "has_reactions": false
+    },
+    {
+      "id": "7387c574-5719-4aa7-a8d7-2ea79f27c5d8",
+      "title": "The Terror Within II",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-terror-within-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "9188b545-9e40-4ee1-9d93-a3d096625aa7",
+      "title": "Last Call",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "last-call",
+      "has_reactions": false
+    },
+    {
+      "id": "1e10253a-aa72-45dc-b2b7-9b934379ceef",
+      "title": "Exiled in America",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "exiled-in-america",
+      "has_reactions": false
+    },
+    {
+      "id": "d09b6a2b-9d32-4598-97b4-9c04b630150a",
+      "title": "South Beach",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "south-beach",
+      "has_reactions": false
+    },
+    {
+      "id": "9f4680f2-fee7-4d84-8ea8-060cbeda0803",
+      "title": "Little Devils: The Birth",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "little-devils-the-birth",
+      "has_reactions": false
+    },
+    {
+      "id": "4ad417f6-ffd8-4ea0-8b95-275f2282a727",
+      "title": "Eye of the Stranger",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "eye-of-the-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "8def0b3d-75e0-44d2-9330-a3f0cd6a4966",
+      "title": "Point of Seduction: Body Chemistry III",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "point-of-seduction-body-chemistry-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "d2a910d3-c7eb-43d5-9fd4-052e421f679d",
+      "title": "Illicit Dreams",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "illicit-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "21a20bfa-30e8-4b92-a9a5-32d7aa4be954",
+      "title": "Attack of the 5 Ft. 2 Women",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "attack-of-the-5-ft-2-women",
+      "has_reactions": false
+    },
+    {
+      "id": "c03c11eb-8796-432d-a436-fb8a0f13d88b",
+      "title": "Molly and Gina",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "molly-and-gina",
+      "has_reactions": false
+    },
+    {
+      "id": "f71abdd3-3bce-457c-b5b4-f0750f0b7bd3",
+      "title": "Hard Drive",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hard-drive",
+      "has_reactions": false
+    },
+    {
+      "id": "05d124fa-9710-45c9-9bd0-da6f658fcff6",
+      "title": "Virtual Combat",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "virtual-combat",
+      "has_reactions": false
+    },
+    {
+      "id": "2201643b-e879-459a-9302-7165e7852700",
+      "title": "The Granny",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-granny",
+      "has_reactions": false
+    },
+    {
+      "id": "26d2f852-c035-4526-84e6-b25e6e6ec257",
+      "title": "Body Chemistry 4: Full Exposure",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "body-chemistry-4-full-exposure",
+      "has_reactions": false
+    },
+    {
+      "id": "738de47e-3ca3-44fe-8338-0f9e9508aae1",
+      "title": "Invisible Mom",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "invisible-mom",
+      "has_reactions": false
+    },
+    {
+      "id": "0965c637-3b80-450d-94e1-731caad9a59f",
+      "title": "Subliminal Seduction",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "subliminal-seduction",
+      "has_reactions": false
+    },
+    {
+      "id": "a6106267-90d7-4c31-9496-06d96e283762",
+      "title": "Bikini Hotel",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "bikini-hotel",
+      "has_reactions": false
+    },
+    {
+      "id": "1e552629-4cd1-41d2-b5c5-784438661216",
+      "title": "The Christmas List",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-list",
+      "has_reactions": false
+    },
+    {
+      "id": "3ee9c4a6-e817-4ce9-97ed-65814c0077b3",
+      "title": "Size 'Em Up",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "size-em-up",
+      "has_reactions": false
+    },
+    {
+      "id": "97700925-bf15-4470-8050-efaa15385881",
+      "title": "By Dawn's Early Light",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "by-dawn-s-early-light",
+      "has_reactions": false
+    },
+    {
+      "id": "d5843405-3e4e-4f90-9ec9-c34fe053d691",
+      "title": "The Long Ride Home",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-long-ride-home",
+      "has_reactions": false
+    },
+    {
+      "id": "e5621b1c-a7ec-4f49-9ed8-0bad239872ba",
+      "title": "Cult Culture: The Poseidon Adventure",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "cult-culture-the-poseidon-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "32040809-5c82-4e1c-838d-7a84968bc145",
+      "title": "Blessed",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "blessed",
+      "has_reactions": false
+    },
+    {
+      "id": "fe90436f-1d6e-471a-88fc-9d4f19fb2ed2",
+      "title": "Hell to Pay",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hell-to-pay",
+      "has_reactions": false
+    },
+    {
+      "id": "a1bbdda8-e133-41c3-ac05-074dce40b404",
+      "title": "Glass Trap",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "glass-trap",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f0d2bc-c264-40f3-bd0e-f303512b422f",
+      "title": "Popstar",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "popstar",
+      "has_reactions": false
+    },
+    {
+      "id": "91f5cf91-442e-4f35-b50a-e7450aa3aa76",
+      "title": "Elvis: #1 Hit Performances",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "elvis-1-hit-performances",
+      "has_reactions": false
+    },
+    {
+      "id": "5cd0c02a-bc79-49a4-b6ec-379c4fe23d76",
+      "title": "Elvis: The King of Rock 'n' Roll",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "elvis-the-king-of-rock-n-roll",
+      "has_reactions": false
+    },
+    {
+      "id": "e896b5c9-1b08-4ce3-b30b-5e32c7e37d8c",
+      "title": "Western Legenden - Made in Hollywood",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "western-legenden-made-in-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "84cc98c0-fcd8-4ac4-89bd-d16e62d397c6",
+      "title": "Megaconda",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "megaconda",
+      "has_reactions": false
+    },
+    {
+      "id": "3ce4dbd2-7883-450a-86c0-d27898d280f9",
+      "title": "Indiana Jones: The Search for the Lost Golden Age",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "indiana-jones-the-search-for-the-lost-golden-age",
+      "has_reactions": false
+    },
+    {
+      "id": "e542608b-632b-40d5-b270-4433f572b6f6",
+      "title": "Stella Stevens: The Last Starlet",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "stella-stevens-the-last-starlet",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "id": "60918d24-a182-43c7-91fe-323c4c840ed7",
+  "name": "Bruce Willis",
+  "slug": "bruce-willis",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
+  "filmography": [
+    {
+      "id": "ff50a479-8c7a-4b45-bf9a-1391505e42e8",
+      "title": "Blind Date",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "blind-date",
+      "has_reactions": false
+    },
+    {
+      "id": "cbbe3627-c860-4505-ba5b-4920936e3cc6",
+      "title": "Die Hard",
+      "release_year": 1988,
+      "studio_label": "Gordon Company",
+      "slug": "die-hard",
+      "has_reactions": true
+    },
+    {
+      "id": "e4044e01-468c-455c-afae-c1059c3a3a04",
+      "title": "Look Who's Talking",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking",
+      "has_reactions": false
+    },
+    {
+      "id": "395c4f13-203b-4b25-a45e-fc5236a32684",
+      "title": "Die Hard 2",
+      "release_year": 1990,
+      "studio_label": "Gordon Company",
+      "slug": "die-hard-2",
+      "has_reactions": true
+    },
+    {
+      "id": "b4c05bb4-d39d-4d9d-87b2-3eca473883cc",
+      "title": "Seriously... Phil Collins",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "seriously-phil-collins",
+      "has_reactions": false
+    },
+    {
+      "id": "9c7fb1c2-0507-4ad9-8ebf-33e8b9a8b693",
+      "title": "The Bonfire of the Vanities",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-bonfire-of-the-vanities",
+      "has_reactions": false
+    },
+    {
+      "id": "774d7326-f4fc-4f8d-8a70-af4a0897f910",
+      "title": "Look Who's Talking Too",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "look-who-s-talking-too",
+      "has_reactions": false
+    },
+    {
+      "id": "46fedb15-fa35-46e5-83d9-2110be9cadcb",
+      "title": "The Last Boy Scout",
+      "release_year": 1991,
+      "studio_label": "Geffen Pictures",
+      "slug": "the-last-boy-scout",
+      "has_reactions": true
+    },
+    {
+      "id": "0c8cce4d-3fbc-4f71-8f20-95e3f4ae9609",
+      "title": "Mortal Thoughts",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mortal-thoughts",
+      "has_reactions": false
+    },
+    {
+      "id": "5f94e83c-f5af-4712-9504-76530387b099",
+      "title": "Death Becomes Her",
+      "release_year": 1992,
+      "studio_label": "Universal Pictures",
+      "slug": "death-becomes-her",
+      "has_reactions": true
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "d4f3cc06-7e37-4bd2-9e1a-f8dac763c11e",
+      "title": "Striking Distance",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "striking-distance",
+      "has_reactions": false
+    },
+    {
+      "id": "02f6cb25-8cd0-4d04-95cc-81e44d6721f1",
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "studio_label": "Miramax",
+      "slug": "pulp-fiction",
+      "has_reactions": true
+    },
+    {
+      "id": "81fdf049-f4bf-473e-be43-647a0c7d07b1",
+      "title": "North",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "north",
+      "has_reactions": false
+    },
+    {
+      "id": "aa6854bb-74d5-4b5c-b9b5-79624f05b8f3",
+      "title": "Die Hard: With a Vengeance",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "die-hard-with-a-vengeance",
+      "has_reactions": true
+    },
+    {
+      "id": "3aa31beb-b5c1-49f5-847a-9a0632b065d8",
+      "title": "Four Rooms",
+      "release_year": 1995,
+      "studio_label": "Miramax",
+      "slug": "four-rooms",
+      "has_reactions": true
+    },
+    {
+      "id": "30f0abef-4474-47d9-a701-d9a54b56ef2f",
+      "title": "Beavis and Butt-Head Do America",
+      "release_year": 1996,
+      "studio_label": "Paramount Pictures",
+      "slug": "beavis-and-butt-head-do-america",
+      "has_reactions": true
+    },
+    {
+      "id": "ced30efe-f279-4398-b354-8d35050b7a03",
+      "title": "The Fifth Element",
+      "release_year": 1997,
+      "studio_label": "Gaumont",
+      "slug": "the-fifth-element",
+      "has_reactions": true
+    },
+    {
+      "id": "4bbe5b7c-b0ee-44ee-8cd3-603369346084",
+      "title": "Armageddon",
+      "release_year": 1998,
+      "studio_label": "Touchstone Pictures",
+      "slug": "armageddon",
+      "has_reactions": true
+    },
+    {
+      "id": "4821a0f2-9132-4415-a060-72435bf7f0ad",
+      "title": "Mercury Rising",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "mercury-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "25a63629-984b-43a9-ac81-c70c6ab7bfb0",
+      "title": "The Siege",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-siege",
+      "has_reactions": false
+    },
+    {
+      "id": "88a96aa3-efc6-4c2f-a6c3-caaa696f6cd1",
+      "title": "The Sixth Sense",
+      "release_year": 1999,
+      "studio_label": "Spyglass Entertainment",
+      "slug": "the-sixth-sense",
+      "has_reactions": true
+    },
+    {
+      "id": "874f4d45-6a19-4493-8098-d81243b5331b",
+      "title": "The Story of Us",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-us",
+      "has_reactions": false
+    },
+    {
+      "id": "16e91ae5-cc4e-470a-9cb1-c0ea1106d4d7",
+      "title": "Unbreakable",
+      "release_year": 2000,
+      "studio_label": "Barry Mendel Productions",
+      "slug": "unbreakable",
+      "has_reactions": true
+    },
+    {
+      "id": "19270a38-2e1d-4598-99fd-b414003e9d20",
+      "title": "The Whole Nine Yards",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-whole-nine-yards",
+      "has_reactions": false
+    },
+    {
+      "id": "c71bc3b4-ea47-4270-b83c-77272293bc75",
+      "title": "The Kid",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "02a8ad6f-6cc2-4e98-aa95-b39ea9fa0f38",
+      "title": "Bandits",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "bandits",
+      "has_reactions": false
+    },
+    {
+      "id": "40a5e944-111f-4e42-849c-b1801b4c92fe",
+      "title": "Hart's War",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hart-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "38167605-7352-42c4-99d2-7037d108dff0",
+      "title": "Tears of the Sun",
+      "release_year": 2003,
+      "studio_label": "Revolution Studios",
+      "slug": "tears-of-the-sun",
+      "has_reactions": true
+    },
+    {
+      "id": "fd800102-46ff-42a6-9e3f-ae0fc39c859b",
+      "title": "The Whole Ten Yards",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-whole-ten-yards",
+      "has_reactions": false
+    },
+    {
+      "id": "cb3ed41d-3284-453c-8dbf-5ef5e07e5e3b",
+      "title": "Grand Champion",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "grand-champion",
+      "has_reactions": false
+    },
+    {
+      "id": "ecc1f604-5417-40b0-9d2a-930d0f0634b8",
+      "title": "Ocean's Twelve",
+      "release_year": 2004,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "ocean-s-twelve",
+      "has_reactions": true
+    },
+    {
+      "id": "85244853-2589-4cb7-937e-43795a2e96ec",
+      "title": "Sin City",
+      "release_year": 2005,
+      "studio_label": "Dimension Films",
+      "slug": "sin-city",
+      "has_reactions": true
+    },
+    {
+      "id": "ab487cb3-2ba8-4103-a5dc-7a7a7c6cea26",
+      "title": "Hostage",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hostage",
+      "has_reactions": false
+    },
+    {
+      "id": "654b8505-4cef-438f-8c4b-82e5b8e98301",
+      "title": "Lucky Number Slevin",
+      "release_year": 2006,
+      "studio_label": "FilmEngine",
+      "slug": "lucky-number-slevin",
+      "has_reactions": true
+    },
+    {
+      "id": "1b567500-c954-40bc-81d0-58a2943ef533",
+      "title": "16 Blocks",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "16-blocks",
+      "has_reactions": false
+    },
+    {
+      "id": "dadde2fc-3c5b-478f-aa92-d7372658021a",
+      "title": "Fast Food Nation",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "fast-food-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "56c38ccc-695c-4b17-813d-491f051e6d8a",
+      "title": "Planet Terror",
+      "release_year": 2007,
+      "studio_label": "Dimension Films",
+      "slug": "planet-terror",
+      "has_reactions": true
+    },
+    {
+      "id": "f1f2ad43-885c-44b4-a472-58af8d985f30",
+      "title": "Live Free or Die Hard",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "live-free-or-die-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "6e9580db-b5c9-4350-9478-ee2536eb2b93",
+      "title": "RED",
+      "release_year": 2010,
+      "studio_label": "di Bonaventura Pictures",
+      "slug": "red",
+      "has_reactions": true
+    },
+    {
+      "id": "e945580b-a2dd-4d15-9685-3c59e4c53973",
+      "title": "The Expendables",
+      "release_year": 2010,
+      "studio_label": "Nimar Studios",
+      "slug": "the-expendables",
+      "has_reactions": true
+    },
+    {
+      "id": "a1e7ca40-3f34-4c87-92c3-fb7ca3331ce5",
+      "title": "Cop Out",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "cop-out",
+      "has_reactions": false
+    },
+    {
+      "id": "c05c39e0-fe3b-4da0-99fc-5eda1f2158ee",
+      "title": "Looper",
+      "release_year": 2012,
+      "studio_label": "Endgame Entertainment",
+      "slug": "looper",
+      "has_reactions": false
+    },
+    {
+      "id": "53e3ecf3-24ca-42d0-8df9-65ab7423b8cf",
+      "title": "B.B. King: The Life of Riley",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "b-b-king-the-life-of-riley",
+      "has_reactions": false
+    },
+    {
+      "id": "4dd3c2b5-5fa9-4e26-bc72-6ad7941888de",
+      "title": "G.I. Joe: Retaliation",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "g-i-joe-retaliation",
+      "has_reactions": false
+    },
+    {
+      "id": "e8456cfc-ef05-4600-84f7-2c0e2c77abf0",
+      "title": "A Good Day to Die Hard",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-good-day-to-die-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "817e068b-50de-4d80-b05b-83afffb9c955",
+      "title": "Rock the Kasbah",
+      "release_year": 2015,
+      "studio_label": "Shangri-La Entertainment",
+      "slug": "rock-the-kasbah",
+      "has_reactions": false
+    },
+    {
+      "id": "7b18d51a-5ede-4433-b41b-744ed60dd25c",
+      "title": "Once Upon a Time in Venice",
+      "release_year": 2017,
+      "studio_label": "Voltage Pictures",
+      "slug": "once-upon-a-time-in-venice",
+      "has_reactions": false
+    },
+    {
+      "id": "49f265cb-c8f8-461e-bcfc-079afb66b625",
+      "title": "Glass",
+      "release_year": 2019,
+      "studio_label": "Blinding Edge Pictures",
+      "slug": "glass",
+      "has_reactions": true
+    },
+    {
+      "id": "672872d4-2bb9-4f89-9a8e-4213975fa15d",
+      "title": "Corrective Measures",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "corrective-measures",
+      "has_reactions": false
+    },
+    {
+      "id": "048bedba-f57b-482f-baeb-c2106549cf0a",
+      "title": "Gasoline Alley",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "gasoline-alley",
+      "has_reactions": false
+    },
+    {
+      "id": "49a4d25f-3262-41dd-9b72-e9769e7a91d7",
+      "title": "Fortress: Sniper's Eye",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "fortress-sniper-s-eye",
+      "has_reactions": false
+    }
+  ]
+}

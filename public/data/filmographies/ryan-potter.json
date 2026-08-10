@@ -1,0 +1,48 @@
+{
+  "id": "bd2801a8-e6b2-4dae-bd85-3ebc0867f860",
+  "name": "Ryan Potter",
+  "slug": "ryan-potter",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/f5AwjHKCWFD5K6YbesbMGSHEchs.jpg",
+  "filmography": [
+    {
+      "id": "724a9f44-9c97-429e-9f68-d4514e0447a3",
+      "title": "Big Hero 6",
+      "release_year": 2014,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "big-hero-6",
+      "has_reactions": true
+    },
+    {
+      "id": "186bf65b-59a5-4a23-a7ac-b0ae4b89ddd0",
+      "title": "Underdog Kids",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "underdog-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "e843fa75-256d-4778-a75d-5d76e17db28d",
+      "title": "Senior Project",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "senior-project",
+      "has_reactions": false
+    },
+    {
+      "id": "a11a3b9f-e1fe-4ca0-bcbd-7ca04172d39c",
+      "title": "Running for Grace",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "running-for-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "21e19847-0e6a-4247-9cb6-0e693caf22f3",
+      "title": "Stuck",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "stuck",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "id": "3ecd5a33-1d94-4592-b2fb-ab0662abaf64",
+  "name": "Humphrey Bogart",
+  "slug": "humphrey-bogart",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg",
+  "filmography": [
+    {
+      "id": "38f82d48-65e0-4323-ae9e-b391c6654d35",
+      "title": "Up the River",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "up-the-river",
+      "has_reactions": false
+    },
+    {
+      "id": "b1c29bd6-86f5-4865-b05d-1f7ebc9209f6",
+      "title": "A Holy Terror",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "a-holy-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "bc7636bb-6281-407c-8613-f7a88367b17f",
+      "title": "Love Affair",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "love-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "3f4d3dc8-d4ad-4d32-95cb-034199858e99",
+      "title": "Midnight",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "712811c9-6fa5-4cd2-bdd1-805317cce093",
+      "title": "Bullets or Ballots",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "bullets-or-ballots",
+      "has_reactions": false
+    },
+    {
+      "id": "6e13537f-80d2-41f8-b6d6-b763cbcaf9db",
+      "title": "The Petrified Forest",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-petrified-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "dc594867-f546-4ecb-bf19-eb88510b5413",
+      "title": "China Clipper",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "china-clipper",
+      "has_reactions": false
+    },
+    {
+      "id": "62d75a7d-9ac8-48b2-9a6e-81395a0d7f5b",
+      "title": "Black Legion",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "black-legion",
+      "has_reactions": false
+    },
+    {
+      "id": "f9b77fdd-2604-4664-87ba-b23213eb1e20",
+      "title": "Marked Woman",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "marked-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "d6fee03d-d741-4ce2-954d-30f2eff66792",
+      "title": "Kid Galahad",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "kid-galahad",
+      "has_reactions": false
+    },
+    {
+      "id": "9a86322a-5ec7-48a2-adeb-94e51b4872fe",
+      "title": "San Quentin",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "san-quentin",
+      "has_reactions": false
+    },
+    {
+      "id": "ffa77bc0-303e-436b-a07a-5474cdf5363b",
+      "title": "The Great O'Malley",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "the-great-o-malley",
+      "has_reactions": false
+    },
+    {
+      "id": "5243656b-0c21-439e-9aad-235bc2efad16",
+      "title": "Angels with Dirty Faces",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "angels-with-dirty-faces",
+      "has_reactions": false
+    },
+    {
+      "id": "4c8dece3-a1fa-42a4-a58d-fbd41ecbe9fc",
+      "title": "Crime School",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "crime-school",
+      "has_reactions": false
+    },
+    {
+      "id": "a4467ce8-66f2-4e84-8f13-a20071a3068f",
+      "title": "Racket Busters",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "racket-busters",
+      "has_reactions": false
+    },
+    {
+      "id": "e20c3624-11d5-47be-95bd-5af05a015732",
+      "title": "Swing Your Lady",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "swing-your-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "97881ff3-9961-4957-82f2-3b53a0fdee75",
+      "title": "King of the Underworld",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "king-of-the-underworld",
+      "has_reactions": false
+    },
+    {
+      "id": "75a452d4-8e0f-4ac2-b25a-34afbb2a9398",
+      "title": "The Return of Doctor X",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-doctor-x",
+      "has_reactions": false
+    },
+    {
+      "id": "8f05ae2f-bd6c-4a16-91f5-1663491c0a0a",
+      "title": "Dark Victory",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "dark-victory",
+      "has_reactions": false
+    },
+    {
+      "id": "cca1588e-c80e-443d-9e60-621096903c7f",
+      "title": "The Oklahoma Kid",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-oklahoma-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "f93f3ba4-184c-4237-b06e-a1bb6dffdd61",
+      "title": "Brother Orchid",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "brother-orchid",
+      "has_reactions": false
+    },
+    {
+      "id": "6bfbeb70-f01b-4d1a-8fdc-ed3b221bff2d",
+      "title": "It All Came True",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "it-all-came-true",
+      "has_reactions": false
+    },
+    {
+      "id": "237566dc-6402-44e5-ae1d-10c689f5a801",
+      "title": "Virginia City",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "virginia-city",
+      "has_reactions": false
+    },
+    {
+      "id": "e58fb1a0-5210-4fa5-9b86-17e0d698bff4",
+      "title": "The Maltese Falcon",
+      "release_year": 1941,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-maltese-falcon",
+      "has_reactions": true
+    },
+    {
+      "id": "d78d92fc-de2a-4f2f-a0c9-61ffcc2e9e03",
+      "title": "High Sierra",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "high-sierra",
+      "has_reactions": false
+    },
+    {
+      "id": "9964b7ea-be64-4544-a4c7-7ea060d276ab",
+      "title": "Breakdowns of 1941",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "breakdowns-of-1941",
+      "has_reactions": false
+    },
+    {
+      "id": "4882dbd7-9f30-48da-93a8-3e4063b0db79",
+      "title": "The Wagons Roll at Night",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-wagons-roll-at-night",
+      "has_reactions": false
+    },
+    {
+      "id": "4e80c7f0-d5b0-4d98-a59d-ec78ee122c2f",
+      "title": "Across the Pacific",
+      "release_year": 1942,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "across-the-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "0383b3d9-1276-4287-a9cb-7a40486f3d55",
+      "title": "All Through the Night",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "all-through-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "c830024f-7ff9-4fa1-ba87-091722c689ee",
+      "title": "The Big Shot",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-big-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "2d314b80-0844-44dd-a332-f7107428e703",
+      "title": "Casablanca",
+      "release_year": 1943,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "casablanca",
+      "has_reactions": true
+    },
+    {
+      "id": "d3000f23-aac0-45ff-b3fc-6ba150997510",
+      "title": "Thank Your Lucky Stars",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "thank-your-lucky-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "8a52a91e-30a1-4573-ad28-4ffaee60d97c",
+      "title": "Sahara",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "sahara",
+      "has_reactions": false
+    },
+    {
+      "id": "e679810b-e926-4219-83c5-71d89dabcff6",
+      "title": "I Am an American",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "i-am-an-american",
+      "has_reactions": false
+    },
+    {
+      "id": "28a37730-0f78-4d61-a857-93ef2f668b42",
+      "title": "Conflict",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "conflict",
+      "has_reactions": false
+    },
+    {
+      "id": "26185671-796c-4e2b-be48-9241d63643de",
+      "title": "To Have and Have Not",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "to-have-and-have-not",
+      "has_reactions": false
+    },
+    {
+      "id": "456f11cc-5d7c-48fd-8c40-c6ec025ce812",
+      "title": "The Big Sleep",
+      "release_year": 1946,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-big-sleep",
+      "has_reactions": true
+    },
+    {
+      "id": "d695422b-6a49-482d-8904-4c015347f6ad",
+      "title": "Dead Reckoning",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "dead-reckoning",
+      "has_reactions": false
+    },
+    {
+      "id": "5520853c-cfbc-4167-8833-d8bf4cae237d",
+      "title": "Two Guys from Milwaukee",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "two-guys-from-milwaukee",
+      "has_reactions": false
+    },
+    {
+      "id": "6afdd4a8-8c1d-48f6-9f63-06f1e0b21d08",
+      "title": "Never Say Goodbye",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "never-say-goodbye",
+      "has_reactions": false
+    },
+    {
+      "id": "d6e2b3bb-d997-404a-91db-830b92ae85c9",
+      "title": "Dark Passage",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "dark-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9d8766-c234-41fb-8726-992ae9e3e7a4",
+      "title": "Always Together",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "always-together",
+      "has_reactions": false
+    },
+    {
+      "id": "04e73b4d-2fbe-4fa4-9da0-74c238fc653f",
+      "title": "The Two Mrs. Carrolls",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-two-mrs-carrolls",
+      "has_reactions": false
+    },
+    {
+      "id": "0fbfba50-af1a-4239-9271-6c7e03a767ef",
+      "title": "The Treasure of the Sierra Madre",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-treasure-of-the-sierra-madre",
+      "has_reactions": false
+    },
+    {
+      "id": "c7cfdf47-0fda-4b08-a8e3-eb71691a4e3d",
+      "title": "Key Largo",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "key-largo",
+      "has_reactions": false
+    },
+    {
+      "id": "3168e093-4c33-4572-b4ce-c62aaacfd30c",
+      "title": "Knock on Any Door",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "knock-on-any-door",
+      "has_reactions": false
+    },
+    {
+      "id": "423ddc10-95ac-4c1e-89ec-5d7d9a0457d9",
+      "title": "The Hollywood Ten",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-hollywood-ten",
+      "has_reactions": false
+    },
+    {
+      "id": "b453f82b-d5a5-455b-a11c-a775afe41fb1",
+      "title": "In a Lonely Place",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "in-a-lonely-place",
+      "has_reactions": false
+    },
+    {
+      "id": "e2bb7efe-a78d-42f0-9277-c03cf06dd7df",
+      "title": "Sirocco",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "sirocco",
+      "has_reactions": false
+    },
+    {
+      "id": "5f20060b-6cc6-48cc-a84f-496857f7d038",
+      "title": "The African Queen",
+      "release_year": 1952,
+      "studio_label": "Romulus Films",
+      "slug": "the-african-queen",
+      "has_reactions": true
+    },
+    {
+      "id": "a4a0365c-c388-450d-9412-ac6e5b2dfda7",
+      "title": "The Caine Mutiny",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-caine-mutiny",
+      "has_reactions": false
+    },
+    {
+      "id": "dc68df08-5f4e-43fa-85c3-63a66f62b481",
+      "title": "The Barefoot Contessa",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-barefoot-contessa",
+      "has_reactions": false
+    },
+    {
+      "id": "559b5263-2d59-4d95-9b62-3a9a865a15ca",
+      "title": "The Left Hand of God",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-left-hand-of-god",
+      "has_reactions": false
+    },
+    {
+      "id": "d86fe87c-0240-453a-8b2d-c185d5755b9b",
+      "title": "The Desperate Hours",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-desperate-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "ba18761d-71be-4b31-b8ee-de7cef741523",
+      "title": "The Harder They Fall",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-harder-they-fall",
+      "has_reactions": false
+    },
+    {
+      "id": "830cd37d-b41e-4acb-9983-bca0c0363e7c",
+      "title": "Dead Men Don't Wear Plaid",
+      "release_year": 1982,
+      "studio_label": "Universal Pictures",
+      "slug": "dead-men-don-t-wear-plaid",
+      "has_reactions": true
+    },
+    {
+      "id": "b2cecb04-1a2f-42aa-b4bb-33d43bff89f2",
+      "title": "Showbiz Goes to War",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "showbiz-goes-to-war",
+      "has_reactions": false
+    },
+    {
+      "id": "73fc7962-a6cd-49c2-8e32-7cd766ec3885",
+      "title": "Hollywood Out-takes and Rare Footage",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hollywood-out-takes-and-rare-footage",
+      "has_reactions": false
+    },
+    {
+      "id": "9c8116b1-e1bd-45a7-88a1-5e1a8bcb1494",
+      "title": "Happy Birthday, Bob: 50 Stars Salute Your 50 Years with NBC",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "happy-birthday-bob-50-stars-salute-your-50-years-with-nbc",
+      "has_reactions": false
+    },
+    {
+      "id": "e943ff33-9ace-4ba0-b5ba-19560ef1ecc0",
+      "title": "Movie Tough Guys",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "movie-tough-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "928fdc1f-a8be-4078-8ffc-212da83c8585",
+      "title": "You Must Remember This: A Tribute to 'Casablanca'",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "you-must-remember-this-a-tribute-to-casablanca",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a05985-ce75-4905-88c7-7e9c960b065d",
+      "title": "Ingrid Bergman Remembered",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ingrid-bergman-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "e7afb9b3-5076-4c7d-b959-e51191f9a773",
+      "title": "Humphrey Bogart on Film",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "humphrey-bogart-on-film",
+      "has_reactions": false
+    },
+    {
+      "id": "63f6baf9-0dc9-4b66-8f31-23950be0899e",
+      "title": "'In a Lonely Place' Revisited",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "in-a-lonely-place-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "f494f12a-c1bd-4a17-9d26-671a8b08de6b",
+      "title": "As Time Goes By: The Children Remember",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "as-time-goes-by-the-children-remember",
+      "has_reactions": false
+    },
+    {
+      "id": "d8f18d1d-f940-4b03-993e-05999ef93a05",
+      "title": "A Love Story: The Story of 'To Have and Have Not'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "a-love-story-the-story-of-to-have-and-have-not",
+      "has_reactions": false
+    },
+    {
+      "id": "4492a9ef-baa2-48f8-adc7-1445823dd57f",
+      "title": "Discovering Treasure: The Story of 'The Treasure of the Sierra Madre'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "discovering-treasure-the-story-of-the-treasure-of-the-sierra-madre",
+      "has_reactions": false
+    },
+    {
+      "id": "0422c128-a558-4148-b9ed-59062901c20b",
+      "title": "Hold Your Breath and Cross Your Fingers: The Story of 'Dark Passage'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hold-your-breath-and-cross-your-fingers-the-story-of-dark-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "8f4c7b53-d972-41b2-a0da-692b6bd57434",
+      "title": "Biography: Humphrey Bogart",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "biography-humphrey-bogart",
+      "has_reactions": false
+    },
+    {
+      "id": "23375058-b29d-47d6-bfd3-fcd791ac178a",
+      "title": "The Petrified Forest: Menace in the Desert",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-petrified-forest-menace-in-the-desert",
+      "has_reactions": false
+    },
+    {
+      "id": "01f3a325-763a-44bf-ac79-15c49b55f5b2",
+      "title": "Angels with Dirty Faces: Whaddya Hear? Whaddya Say?",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "angels-with-dirty-faces-whaddya-hear-whaddya-say",
+      "has_reactions": false
+    },
+    {
+      "id": "078eddb1-59c1-4de8-a953-1f3ea3bc2bab",
+      "title": "The Maltese Falcon: One Magnificent Bird",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-maltese-falcon-one-magnificent-bird",
+      "has_reactions": false
+    },
+    {
+      "id": "f1e20155-766f-4a6d-b063-9d9623f67218",
+      "title": "Julie Andrews Forever",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "julie-andrews-forever",
+      "has_reactions": false
+    }
+  ]
+}

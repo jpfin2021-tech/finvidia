@@ -1,0 +1,376 @@
+{
+  "id": "3a179d7c-dee9-4ca3-8119-ca0d161fb9a6",
+  "name": "Oprah Winfrey",
+  "slug": "oprah-winfrey",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg",
+  "filmography": [
+    {
+      "id": "1ed925f0-7c45-4fd6-a374-7ad668b5297c",
+      "title": "The Color Purple",
+      "release_year": 1985,
+      "studio_label": "Amblin Entertainment",
+      "slug": "the-color-purple",
+      "has_reactions": true
+    },
+    {
+      "id": "ab39b904-9edb-4833-a68e-0fc6ff3b4503",
+      "title": "Native Son",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "native-son",
+      "has_reactions": false
+    },
+    {
+      "id": "8d4184a0-55a5-407a-9b20-ac15b96d96ce",
+      "title": "Throw Momma from the Train",
+      "release_year": 1987,
+      "studio_label": "Orion Pictures",
+      "slug": "throw-momma-from-the-train",
+      "has_reactions": true
+    },
+    {
+      "id": "6b620d57-a945-4d5b-ba12-bf5d764c711c",
+      "title": "Pee-wee's Playhouse Christmas Special",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "pee-wee-s-playhouse-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "ecb99d16-d3ab-48bd-adfe-76187c301206",
+      "title": "The Women of Brewster Place",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-women-of-brewster-place",
+      "has_reactions": false
+    },
+    {
+      "id": "9deacc0e-beec-4a73-91fe-35c7cd13a56d",
+      "title": "Michael Jackson Talks... to Oprah",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "michael-jackson-talks-to-oprah",
+      "has_reactions": false
+    },
+    {
+      "id": "81a07262-d49d-4d15-bbd0-4b40fa793c1f",
+      "title": "Shades of a Single Protein",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "shades-of-a-single-protein",
+      "has_reactions": false
+    },
+    {
+      "id": "c34707ce-f6c3-4619-b9d6-3aa66ef3ae56",
+      "title": "Beloved",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "beloved",
+      "has_reactions": false
+    },
+    {
+      "id": "098d8b9e-0989-48a9-9a29-38a9d137b1a8",
+      "title": "Our Friend, Martin",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "our-friend-martin",
+      "has_reactions": false
+    },
+    {
+      "id": "80181ca4-0e18-45a7-82c8-7dc888d9f479",
+      "title": "Unchained Memories: Readings from the Slave Narratives",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "unchained-memories-readings-from-the-slave-narratives",
+      "has_reactions": false
+    },
+    {
+      "id": "bcc1b5a0-007b-47ae-b6a2-2e1e5eadc1d8",
+      "title": "Bee Movie",
+      "release_year": 2007,
+      "studio_label": "Columbus 81 Productions",
+      "slug": "bee-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "97b4223c-5109-4132-a12d-74a650c78cd9",
+      "title": "The Princess and the Frog",
+      "release_year": 2009,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "the-princess-and-the-frog",
+      "has_reactions": true
+    },
+    {
+      "id": "39b6af25-abf6-4579-baa6-b05b4e01c985",
+      "title": "Are All Men Pedophiles?",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "are-all-men-pedophiles",
+      "has_reactions": false
+    },
+    {
+      "id": "b35f8b75-aba7-40d3-9dd5-b88d861b13d6",
+      "title": "Selma",
+      "release_year": 2014,
+      "studio_label": "Plan B Entertainment",
+      "slug": "selma",
+      "has_reactions": true
+    },
+    {
+      "id": "c3f5a2a0-548b-4cb0-b406-6022ba3160e4",
+      "title": "National Museum of African American History and Culture Grand Opening Ceremony",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "national-museum-of-african-american-history-and-culture-grand-opening-ceremony",
+      "has_reactions": false
+    },
+    {
+      "id": "15320931-132a-4a0b-8b6f-d9085ead5943",
+      "title": "Whitney: Can I Be Me",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "whitney-can-i-be-me",
+      "has_reactions": false
+    },
+    {
+      "id": "508bea6a-2eec-4674-9878-a0e47b258310",
+      "title": "Get Me Roger Stone",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "get-me-roger-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "fe3b0b62-4958-4fab-957a-1a8d923f04ce",
+      "title": "The Star",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-star",
+      "has_reactions": false
+    },
+    {
+      "id": "41c4f027-6b21-4ede-b8ff-572238f657fa",
+      "title": "A Wrinkle in Time",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "a-wrinkle-in-time",
+      "has_reactions": false
+    },
+    {
+      "id": "bddca24b-2073-4267-9929-fe4128733199",
+      "title": "Crow: The Legend",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "crow-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "799c6694-00b4-4ab2-ac42-95056297cd0d",
+      "title": "Q85: A Musical Celebration for Quincy Jones",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "q85-a-musical-celebration-for-quincy-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "1b0c330b-b970-45a3-a8a6-f1e7a8123b84",
+      "title": "Quincy",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "quincy",
+      "has_reactions": false
+    },
+    {
+      "id": "09190c2e-e683-475c-9d83-ad55a85cc4d9",
+      "title": "Oprah Winfrey Presents: After Neverland",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "oprah-winfrey-presents-after-neverland",
+      "has_reactions": false
+    },
+    {
+      "id": "920b3312-6569-45da-ad09-ae663af1915d",
+      "title": "The Accidental President",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-accidental-president",
+      "has_reactions": false
+    },
+    {
+      "id": "36d7fd53-3603-4f64-b441-ffceeacb9bd2",
+      "title": "Chadwick Boseman: A Tribute for a King",
+      "release_year": 2020,
+      "studio_label": "ABC News",
+      "slug": "chadwick-boseman-a-tribute-for-a-king",
+      "has_reactions": false
+    },
+    {
+      "id": "76adaab7-2fef-4568-a897-cbf74edd4745",
+      "title": "You Cannot Kill David Arquette",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "you-cannot-kill-david-arquette",
+      "has_reactions": false
+    },
+    {
+      "id": "a48f5f24-98dc-4d57-b7b0-4812a1e0df03",
+      "title": "Becoming",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "becoming",
+      "has_reactions": false
+    },
+    {
+      "id": "87fb161a-7300-488e-bbf0-53441cb5e84b",
+      "title": "The Choice 2020: Trump vs. Biden",
+      "release_year": 2020,
+      "studio_label": "Kirk Documentary Group",
+      "slug": "the-choice-2020-trump-vs-biden",
+      "has_reactions": false
+    },
+    {
+      "id": "119d0088-9725-4b2d-bd7d-25fd30c3f2cb",
+      "title": "The Perfect Victim",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-victim",
+      "has_reactions": false
+    },
+    {
+      "id": "622f8a4c-5358-4ade-86fd-e022b43667b0",
+      "title": "Oprah with Meghan and Harry: A CBS Primetime Special",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "oprah-with-meghan-and-harry-a-cbs-primetime-special",
+      "has_reactions": false
+    },
+    {
+      "id": "ec311b4a-a00e-49cd-8b70-a44935e19254",
+      "title": "The United States vs. Billie Holiday Special: Lee Daniels and Cast Interviewed by Oprah Winfrey",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-united-states-vs-billie-holiday-special-lee-daniels-and-cast-interviewed-by-oprah-winfrey",
+      "has_reactions": false
+    },
+    {
+      "id": "56b871bf-5840-4b97-abde-aa639a60d164",
+      "title": "Parkinson at 50",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "parkinson-at-50",
+      "has_reactions": false
+    },
+    {
+      "id": "bb817168-786e-40d4-aec5-e5840c263524",
+      "title": "Oprah + Viola: A Netflix Special Event",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "oprah-viola-a-netflix-special-event",
+      "has_reactions": false
+    },
+    {
+      "id": "3544f6f5-e73b-4bd8-a08a-9f7f4b46b9e5",
+      "title": "Homeward Bound: A Grammy Salute to the Songs of Paul Simon",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "homeward-bound-a-grammy-salute-to-the-songs-of-paul-simon",
+      "has_reactions": false
+    },
+    {
+      "id": "50a9bbc7-38c1-431d-9faa-adde6d5b7454",
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "whitney-houston-i-wanna-dance-with-somebody",
+      "has_reactions": false
+    },
+    {
+      "id": "d4b517f4-042d-41c4-b17e-19e4c7ffd2f9",
+      "title": "Oprah & The Color Purple Journey",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "oprah-the-color-purple-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "66eee3e2-94f3-4cc1-85c8-32f682f7f4dd",
+      "title": "Carol Burnett: 90 Years of Laughter + Love",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "carol-burnett-90-years-of-laughter-love",
+      "has_reactions": false
+    },
+    {
+      "id": "b7a06164-12d2-4c13-91a6-d0666efa4eb2",
+      "title": "Unstuffed: A Build-A-Bear Story",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "unstuffed-a-build-a-bear-story",
+      "has_reactions": false
+    },
+    {
+      "id": "238eeaf2-1d77-4cc3-83da-17f203fb6c4a",
+      "title": "OWN Spotlight: Oprah & Angela Bassett",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "own-spotlight-oprah-angela-bassett",
+      "has_reactions": false
+    },
+    {
+      "id": "126c518e-e04a-4aec-9a50-b33f07fc0892",
+      "title": "An Oprah Special: The Presleys - Elvis, Lisa Marie and Riley",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "an-oprah-special-the-presleys-elvis-lisa-marie-and-riley",
+      "has_reactions": false
+    },
+    {
+      "id": "da00a66d-ad27-4fd3-aa5e-dc6ab0cffc8d",
+      "title": "Robert Downey Jr.: High Altitude",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "robert-downey-jr-high-altitude",
+      "has_reactions": false
+    },
+    {
+      "id": "b9c16e5e-eeaa-44a0-95ea-f6c6f9beaa9b",
+      "title": "AI and the Future of Us: An Oprah Winfrey Special",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "ai-and-the-future-of-us-an-oprah-winfrey-special",
+      "has_reactions": false
+    },
+    {
+      "id": "a70d9854-fe05-482b-877f-43f57588d38d",
+      "title": "The Choice 2024: Harris vs. Trump",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-choice-2024-harris-vs-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "9e1715de-6600-4c21-bc6a-b9eaa4e25f7d",
+      "title": "South Park: The End of Obesity",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "south-park-the-end-of-obesity",
+      "has_reactions": false
+    },
+    {
+      "id": "1d8ef205-4348-481e-8902-cb687a3be99e",
+      "title": "The Six Triple Eight",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-six-triple-eight",
+      "has_reactions": false
+    },
+    {
+      "id": "99038224-febf-43dc-b798-37aa99bf1d54",
+      "title": "Barbara Walters: Tell Me Everything",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "barbara-walters-tell-me-everything",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "id": "51010d72-bbe1-4432-b1ac-1791a2283682",
+  "name": "Thomas Rosales Jr.",
+  "slug": "thomas-rosales-jr-",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg",
+  "filmography": [
+    {
+      "id": "9cf262e6-2dc7-4313-bb78-f5a065252925",
+      "title": "Billy: Portrait of a Street Kid",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "billy-portrait-of-a-street-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "636dcb74-94a5-498c-a2cc-5cfa5fb9ab6f",
+      "title": "Sunnyside",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "sunnyside",
+      "has_reactions": false
+    },
+    {
+      "id": "9478cb6e-9814-45ea-968c-c3a6b43743a2",
+      "title": "Detour to Terror",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "detour-to-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "e997d23b-d5aa-43fd-9d15-3ec9a86dd307",
+      "title": "The Hunter",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-hunter",
+      "has_reactions": false
+    },
+    {
+      "id": "2fa993de-793d-4ccf-904e-4684f4ccea6f",
+      "title": "The Sword and the Sorcerer",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-sword-and-the-sorcerer",
+      "has_reactions": false
+    },
+    {
+      "id": "6f2e271c-3237-4e11-953a-d592ac546bf5",
+      "title": "Blue Thunder",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "blue-thunder",
+      "has_reactions": false
+    },
+    {
+      "id": "a7286b54-43e8-4da8-8fcc-0534d7fdc057",
+      "title": "The Lost Empire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-lost-empire",
+      "has_reactions": false
+    },
+    {
+      "id": "ca4a1068-3bd6-43a1-92a0-f7474a01ecb2",
+      "title": "Stand Alone",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "stand-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "ee04f9fa-73b1-4e59-8890-c4a6a18c3d48",
+      "title": "Commando",
+      "release_year": 1985,
+      "studio_label": "SLM Production Group",
+      "slug": "commando",
+      "has_reactions": true
+    },
+    {
+      "id": "15952848-1b52-4f88-9111-847b968ce635",
+      "title": "Stick",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "stick",
+      "has_reactions": false
+    },
+    {
+      "id": "6bcba985-0429-4666-87bf-964345309f71",
+      "title": "Omega Syndrome",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "omega-syndrome",
+      "has_reactions": false
+    },
+    {
+      "id": "c0fe8bfc-7a2f-4ae8-9053-619f0eeb95f6",
+      "title": "Raw Deal",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "raw-deal",
+      "has_reactions": false
+    },
+    {
+      "id": "2201df80-8493-4fd6-a90a-dc610dfe559b",
+      "title": "The Running Man",
+      "release_year": 1987,
+      "studio_label": "Braveworld Productions",
+      "slug": "the-running-man",
+      "has_reactions": true
+    },
+    {
+      "id": "bf951f15-30fb-459f-a799-7ce249806d63",
+      "title": "Deadly Stranger",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "deadly-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "991c532c-7fa6-4c2a-87f9-e59738ee8981",
+      "title": "Bail Out",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "bail-out",
+      "has_reactions": false
+    },
+    {
+      "id": "f95c0c32-0aba-4802-878c-c91ad5f580df",
+      "title": "Kindergarten Cop",
+      "release_year": 1990,
+      "studio_label": "Universal Pictures",
+      "slug": "kindergarten-cop",
+      "has_reactions": true
+    },
+    {
+      "id": "632e8ce6-cedd-4090-b8e0-12b3980b83d2",
+      "title": "RoboCop 2",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "robocop-2",
+      "has_reactions": false
+    },
+    {
+      "id": "2878e360-a691-4acb-bb00-35441ec27925",
+      "title": "Predator 2",
+      "release_year": 1990,
+      "studio_label": "Davis Entertainment",
+      "slug": "predator-2",
+      "has_reactions": true
+    },
+    {
+      "id": "2e400036-632a-495a-b524-f4e54a10110c",
+      "title": "Rush",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "rush",
+      "has_reactions": false
+    },
+    {
+      "id": "f48b75ba-2b88-4f73-978a-89f8b5ebcd04",
+      "title": "One Good Cop",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "one-good-cop",
+      "has_reactions": false
+    },
+    {
+      "id": "a3d6fb66-96c2-41a3-a3fe-3dc3b6ecbabc",
+      "title": "The Owl",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-owl",
+      "has_reactions": false
+    },
+    {
+      "id": "a13d5694-576e-4d2a-b396-21020f856966",
+      "title": "The Perfect Weapon",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-perfect-weapon",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf5ec1f-2ed6-49bf-b348-8e8f821c43fa",
+      "title": "Ricochet",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "ricochet",
+      "has_reactions": false
+    },
+    {
+      "id": "8e09b436-b817-4eaf-a99b-af56a536467d",
+      "title": "Universal Soldier",
+      "release_year": 1992,
+      "studio_label": "Carolco Pictures",
+      "slug": "universal-soldier",
+      "has_reactions": true
+    },
+    {
+      "id": "a8d02110-c525-4546-9b43-b271fd795d90",
+      "title": "Trancers III",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "trancers-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "309d3b2c-6c51-4522-a640-3e6a6394c6e1",
+      "title": "Last Action Hero",
+      "release_year": 1993,
+      "studio_label": "Oak Productions",
+      "slug": "last-action-hero",
+      "has_reactions": true
+    },
+    {
+      "id": "cfaa2098-6bfe-4412-88e0-43d71197f2f9",
+      "title": "Nowhere to Run",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "nowhere-to-run",
+      "has_reactions": false
+    },
+    {
+      "id": "4d0a5142-dbd1-42b0-a31c-ebb415ee43a8",
+      "title": "Speed",
+      "release_year": 1994,
+      "studio_label": "20th Century Fox",
+      "slug": "speed",
+      "has_reactions": true
+    },
+    {
+      "id": "850fe208-aec6-4f07-97df-1996198776bb",
+      "title": "Jimmy Hollywood",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "jimmy-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "e647d34f-41f0-4f7f-846e-c985258a767b",
+      "title": "The Crow",
+      "release_year": 1994,
+      "studio_label": "Entertainment Media Investment",
+      "slug": "the-crow",
+      "has_reactions": true
+    },
+    {
+      "id": "0614d4be-2533-4e70-99a8-7c260cba4278",
+      "title": "Naked Gun 33\u2153: The Final Insult",
+      "release_year": 1994,
+      "studio_label": "Paramount Pictures",
+      "slug": "naked-gun-33-the-final-insult",
+      "has_reactions": true
+    },
+    {
+      "id": "876cc649-0d3a-4d37-9801-a1cccf275f20",
+      "title": "A Low Down Dirty Shame",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-low-down-dirty-shame",
+      "has_reactions": false
+    },
+    {
+      "id": "c84c6e0a-246f-4d04-bf84-e7fe9553fd57",
+      "title": "CyberTracker",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "cybertracker",
+      "has_reactions": false
+    },
+    {
+      "id": "ebcf8d5f-bde6-4379-8fb4-0cd849a3365a",
+      "title": "See Jane Run",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "see-jane-run",
+      "has_reactions": false
+    },
+    {
+      "id": "87c97f61-41ea-40b9-a022-36a9f44be9b1",
+      "title": "Heat",
+      "release_year": 1995,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "heat",
+      "has_reactions": true
+    },
+    {
+      "id": "2e4b6cc1-d55c-4f83-9083-7e2eb545c2f0",
+      "title": "Rough Magic",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "rough-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "3d35e085-69f7-4c62-9550-0fba0ff25187",
+      "title": "Tremors 2: Aftershocks",
+      "release_year": 1996,
+      "studio_label": "Stampede Entertainment",
+      "slug": "tremors-2-aftershocks",
+      "has_reactions": true
+    },
+    {
+      "id": "4123d0fb-a8ef-4e21-8c74-01d0f4fef30f",
+      "title": "Escape from L.A.",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "escape-from-l-a",
+      "has_reactions": false
+    },
+    {
+      "id": "f532d066-a2c9-4ddd-ac83-47fc31450e43",
+      "title": "Blackout",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "3b6fdb58-dceb-4985-9a41-cc248b8514d0",
+      "title": "L.A. Confidential",
+      "release_year": 1997,
+      "studio_label": "Regency Enterprises",
+      "slug": "l-a-confidential",
+      "has_reactions": true
+    },
+    {
+      "id": "9aac9984-f03f-4739-8699-33c78d2d38d1",
+      "title": "Con Air",
+      "release_year": 1997,
+      "studio_label": "Touchstone Pictures",
+      "slug": "con-air",
+      "has_reactions": true
+    },
+    {
+      "id": "dfae3502-0c52-4375-b9c7-fe35eb8de50d",
+      "title": "The Lost World: Jurassic Park",
+      "release_year": 1997,
+      "studio_label": "Universal Pictures",
+      "slug": "the-lost-world-jurassic-park",
+      "has_reactions": true
+    },
+    {
+      "id": "7dea0578-9ea3-4a30-aa66-476159306615",
+      "title": "Face/Off",
+      "release_year": 1997,
+      "studio_label": "WCG Entertainment Productions",
+      "slug": "face-off",
+      "has_reactions": true
+    },
+    {
+      "id": "f17d94aa-691c-4b99-9f14-ecc4c59d245d",
+      "title": "U.S. Marshals",
+      "release_year": 1998,
+      "studio_label": "Kopelson Entertainment",
+      "slug": "u-s-marshals",
+      "has_reactions": true
+    },
+    {
+      "id": "0b553401-a031-46e1-9be4-435c93f1172f",
+      "title": "Letters from a Killer",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "letters-from-a-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "69dae175-33c6-4fc5-8ca8-bbc68779ef62",
+      "title": "Deep Impact",
+      "release_year": 1998,
+      "studio_label": "Paramount Pictures",
+      "slug": "deep-impact",
+      "has_reactions": true
+    },
+    {
+      "id": "02dedb3c-4680-4687-a710-577e8cf2cfc8",
+      "title": "Foolish",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "foolish",
+      "has_reactions": false
+    },
+    {
+      "id": "5c1a6c80-18bb-450f-8a35-9e56da254ee0",
+      "title": "Judgment Day",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "judgment-day",
+      "has_reactions": false
+    },
+    {
+      "id": "0cb4c8cd-caad-4cf7-a113-9878ab7a8eb8",
+      "title": "The Crew",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-crew",
+      "has_reactions": false
+    },
+    {
+      "id": "93f092a8-4a83-4d1d-aa2f-45327ba3855a",
+      "title": "Traffic",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "traffic",
+      "has_reactions": false
+    },
+    {
+      "id": "889630a1-9904-4e25-a2a2-c70e7734a28d",
+      "title": "Shadow Hours",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "shadow-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "0af204ae-8b3d-41a9-873e-5b08693e9555",
+      "title": "The President's Man",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-president-s-man",
+      "has_reactions": false
+    },
+    {
+      "id": "0131564c-6dec-4c5f-853a-df8350f651d5",
+      "title": "Tomcats",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "tomcats",
+      "has_reactions": false
+    },
+    {
+      "id": "477f02b5-bfe2-49a4-915d-2e6afe34fa60",
+      "title": "Double Bang",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "double-bang",
+      "has_reactions": false
+    },
+    {
+      "id": "d1d423e1-1940-45de-b622-cd19c9b9ab22",
+      "title": "Ocean's Eleven",
+      "release_year": 2001,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "ocean-s-eleven",
+      "has_reactions": true
+    },
+    {
+      "id": "324d1d01-5cc9-4a8b-8f74-2b0e0b6ce19e",
+      "title": "Stealing Harvard",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "stealing-harvard",
+      "has_reactions": false
+    },
+    {
+      "id": "eced2810-b1ea-407f-8a82-abfe873524db",
+      "title": "Men in Black II",
+      "release_year": 2002,
+      "studio_label": "Columbia Pictures",
+      "slug": "men-in-black-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "3a6b14de-66eb-4387-ba8f-1996d269ba74",
+      "title": "Hulk",
+      "release_year": 2003,
+      "studio_label": "Marvel Enterprises",
+      "slug": "hulk",
+      "has_reactions": true
+    },
+    {
+      "id": "bb55ac59-bc13-4e41-a56f-9086204abb4a",
+      "title": "Once Upon a Time in Mexico",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "13bf5d96-bb54-49ce-b02d-7b2d386f3310",
+      "title": "Collateral",
+      "release_year": 2004,
+      "studio_label": "Paramount Pictures",
+      "slug": "collateral",
+      "has_reactions": true
+    },
+    {
+      "id": "299854ee-8807-479d-b6ae-6cbc75858bbc",
+      "title": "Unknown",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "unknown",
+      "has_reactions": false
+    },
+    {
+      "id": "33a06f18-46e2-4107-9426-0ed3b75380be",
+      "title": "Bottoms Up",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bottoms-up",
+      "has_reactions": false
+    },
+    {
+      "id": "7e4efdd9-6379-435b-bea2-d5913d2e213f",
+      "title": "Running Scared",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "running-scared",
+      "has_reactions": false
+    },
+    {
+      "id": "5f5da1d8-0e1d-4cb7-a97a-a893b29d9942",
+      "title": "The Death and Life of Bobby Z",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-death-and-life-of-bobby-z",
+      "has_reactions": false
+    },
+    {
+      "id": "8c278e78-d9f9-454d-a321-cdd634e82b4e",
+      "title": "Delta Farce",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "delta-farce",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3c8199-4347-47a8-9f23-339f2155264a",
+      "title": "Superhero Movie",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "superhero-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "b6a483e8-3721-4833-9c5f-b2aa1e6c4cde",
+      "title": "Br\u00fcno",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "br-no",
+      "has_reactions": false
+    },
+    {
+      "id": "bfb895cc-b4aa-4047-9c26-5b95ba6c9d01",
+      "title": "Act of Valor",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "act-of-valor",
+      "has_reactions": false
+    },
+    {
+      "id": "ae363e52-a7f8-4576-bd1e-8b94d7bdc25c",
+      "title": "Bad Ass",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "bad-ass",
+      "has_reactions": false
+    },
+    {
+      "id": "32ce43e6-15f2-4ef0-a828-fb984fd2be6b",
+      "title": "Dawn of the Planet of the Apes",
+      "release_year": 2014,
+      "studio_label": "TSG Entertainment",
+      "slug": "dawn-of-the-planet-of-the-apes",
+      "has_reactions": true
+    },
+    {
+      "id": "f4d92f58-25ce-4ca0-91cb-828b22d53627",
+      "title": "No Name and Dynamite",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "no-name-and-dynamite",
+      "has_reactions": false
+    }
+  ]
+}

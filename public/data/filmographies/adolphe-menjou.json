@@ -1,0 +1,584 @@
+{
+  "id": "f4efb55c-b42c-46cf-a6ed-957a8109426b",
+  "name": "Adolphe Menjou",
+  "slug": "adolphe-menjou",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg",
+  "filmography": [
+    {
+      "id": "631cb1c4-5259-4c6a-b8af-3fcdebbd8dea",
+      "title": "Nearly a King",
+      "release_year": 1916,
+      "studio_label": "\u2014",
+      "slug": "nearly-a-king",
+      "has_reactions": false
+    },
+    {
+      "id": "09046a0f-2f8e-4447-9ae9-d915b27a4f96",
+      "title": "The Habit of Happiness",
+      "release_year": 1916,
+      "studio_label": "\u2014",
+      "slug": "the-habit-of-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "31050968-ffc5-4ca2-914b-93af9021de59",
+      "title": "Manhattan Madness",
+      "release_year": 1916,
+      "studio_label": "\u2014",
+      "slug": "manhattan-madness",
+      "has_reactions": false
+    },
+    {
+      "id": "4142daab-c1f6-4f83-82a1-9fc138184b47",
+      "title": "The Blue Envelope Mystery",
+      "release_year": 1916,
+      "studio_label": "\u2014",
+      "slug": "the-blue-envelope-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "a66e96d1-4d26-4557-9184-aa6345c6828b",
+      "title": "The Three Musketeers",
+      "release_year": 1921,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "c9bc66bc-7df5-4ca4-ba1a-c02574a5ea38",
+      "title": "The Faith Healer",
+      "release_year": 1921,
+      "studio_label": "\u2014",
+      "slug": "the-faith-healer",
+      "has_reactions": false
+    },
+    {
+      "id": "662e24d3-154d-49c2-9d5a-cffd3e783ffd",
+      "title": "Clarence",
+      "release_year": 1922,
+      "studio_label": "\u2014",
+      "slug": "clarence",
+      "has_reactions": false
+    },
+    {
+      "id": "9fffaeea-ce3b-4de1-8cd3-46992a17e138",
+      "title": "Head Over Heels",
+      "release_year": 1922,
+      "studio_label": "\u2014",
+      "slug": "head-over-heels",
+      "has_reactions": false
+    },
+    {
+      "id": "efaa03f3-6f49-4d22-ab82-a1591104c0b3",
+      "title": "A Woman of Paris: A Drama of Fate",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "a-woman-of-paris-a-drama-of-fate",
+      "has_reactions": false
+    },
+    {
+      "id": "5ab8d5ea-bee8-4d41-8c3f-cb54825805b0",
+      "title": "Rupert of Hentzau",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "rupert-of-hentzau",
+      "has_reactions": false
+    },
+    {
+      "id": "81874dd4-1605-4c7b-ab67-1402d0fa6ffd",
+      "title": "Bella Donna",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "bella-donna",
+      "has_reactions": false
+    },
+    {
+      "id": "fe5c16d4-07d0-435f-8575-0778fbd92b82",
+      "title": "The Spanish Dancer",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "the-spanish-dancer",
+      "has_reactions": false
+    },
+    {
+      "id": "f95b8267-ed4e-492b-beb0-5a3a85f87a68",
+      "title": "The World's Applause",
+      "release_year": 1923,
+      "studio_label": "\u2014",
+      "slug": "the-world-s-applause",
+      "has_reactions": false
+    },
+    {
+      "id": "5a2a6847-30e3-4a51-ba0d-f7e3897cf02b",
+      "title": "Broken Barriers",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "broken-barriers",
+      "has_reactions": false
+    },
+    {
+      "id": "1c3c4cb7-538e-446a-81e4-a3c9c2bcef84",
+      "title": "Sinners in Silk",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "sinners-in-silk",
+      "has_reactions": false
+    },
+    {
+      "id": "4b8dfb8c-a446-496d-a994-02d0d2d5b00f",
+      "title": "The Marriage Circle",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "the-marriage-circle",
+      "has_reactions": false
+    },
+    {
+      "id": "7c42bf83-5320-4c63-a735-52f7b705674f",
+      "title": "Forbidden Paradise",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "forbidden-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "e45ada91-8c27-4d81-8009-7f8f4d6d9c79",
+      "title": "The Fast Set",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "the-fast-set",
+      "has_reactions": false
+    },
+    {
+      "id": "0148ddc6-9489-4810-8df5-1f54e6ea5a53",
+      "title": "Broadway After Dark",
+      "release_year": 1924,
+      "studio_label": "\u2014",
+      "slug": "broadway-after-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "8ec253d1-772d-4dca-aa53-243da69130ef",
+      "title": "A Kiss in the Dark",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "a-kiss-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "d6299acf-4d50-43e6-8415-ea7e5afa8a98",
+      "title": "The Swan",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "the-swan",
+      "has_reactions": false
+    },
+    {
+      "id": "4ede8197-750d-4e38-97b5-5db3166ae2b6",
+      "title": "The King On Main Street",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "the-king-on-main-street",
+      "has_reactions": false
+    },
+    {
+      "id": "270787e0-6aa4-4066-9608-cc190b29ecad",
+      "title": "Are Parents People?",
+      "release_year": 1925,
+      "studio_label": "\u2014",
+      "slug": "are-parents-people",
+      "has_reactions": false
+    },
+    {
+      "id": "da70ebf9-7885-4bb3-ab22-c0650ab20e2f",
+      "title": "The Grand Duchess and the Waiter",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "the-grand-duchess-and-the-waiter",
+      "has_reactions": false
+    },
+    {
+      "id": "da5ddd37-bcbc-44aa-8a1a-ed7a6c032fd9",
+      "title": "The Sorrows of Satan",
+      "release_year": 1926,
+      "studio_label": "\u2014",
+      "slug": "the-sorrows-of-satan",
+      "has_reactions": false
+    },
+    {
+      "id": "c4092ace-cbcd-4b4d-80ba-9fea5416052c",
+      "title": "Serenade",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "serenade",
+      "has_reactions": false
+    },
+    {
+      "id": "25fb37cb-17c0-49ea-983f-e1788c7cb120",
+      "title": "Blonde or Brunette",
+      "release_year": 1927,
+      "studio_label": "\u2014",
+      "slug": "blonde-or-brunette",
+      "has_reactions": false
+    },
+    {
+      "id": "93990fcb-0085-4ca9-9a00-e5d20209b469",
+      "title": "A Night of Mystery",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "a-night-of-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "effe5931-4359-47e6-b992-46e45c120224",
+      "title": "The Circus: Premiere",
+      "release_year": 1928,
+      "studio_label": "\u2014",
+      "slug": "the-circus-premiere",
+      "has_reactions": false
+    },
+    {
+      "id": "9f530028-d81e-46ed-9040-7b3d4abee5a5",
+      "title": "Morocco",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "morocco",
+      "has_reactions": false
+    },
+    {
+      "id": "06c40a21-de93-46cb-949f-2fc9e35a1ce1",
+      "title": "New Moon",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "new-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "2d76922a-0984-4973-96e3-cd97cf39d517",
+      "title": "Bold Love",
+      "release_year": 1930,
+      "studio_label": "\u2014",
+      "slug": "bold-love",
+      "has_reactions": false
+    },
+    {
+      "id": "b676db68-24a3-48bf-836e-4ecf328d3d43",
+      "title": "Men Call It Love",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "men-call-it-love",
+      "has_reactions": false
+    },
+    {
+      "id": "7b3fd46e-cdf6-496b-805e-5ce54032d081",
+      "title": "The Great Lover",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-great-lover",
+      "has_reactions": false
+    },
+    {
+      "id": "d01c3ff5-2aba-488f-8c2f-11f0dbfe4121",
+      "title": "Friends and Lovers",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "friends-and-lovers",
+      "has_reactions": false
+    },
+    {
+      "id": "d4152191-3d3f-482b-9033-847da3f6812b",
+      "title": "We\u2019re Switching to Hollywood",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "we-re-switching-to-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "81b296f3-1e8b-45db-80f3-69e6743019b1",
+      "title": "The Easiest Way",
+      "release_year": 1931,
+      "studio_label": "\u2014",
+      "slug": "the-easiest-way",
+      "has_reactions": false
+    },
+    {
+      "id": "60266a0d-9aa1-4a7d-a49e-77f120c0cdbc",
+      "title": "Forbidden",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "forbidden",
+      "has_reactions": false
+    },
+    {
+      "id": "fe0521b0-c508-4ab4-a8ff-be25acbd8d27",
+      "title": "Bachelor's Affairs",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "bachelor-s-affairs",
+      "has_reactions": false
+    },
+    {
+      "id": "f7bb3dad-0064-4dcb-9dd4-6d66ba208f8a",
+      "title": "The Night Club Lady",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-night-club-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "503fede4-1012-4ab6-a3fa-d7b25af72f08",
+      "title": "The Circus Queen Murder",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-circus-queen-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "229eea1a-d81b-4007-bcb0-0a2738b231b2",
+      "title": "The Mighty Barnum",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-mighty-barnum",
+      "has_reactions": false
+    },
+    {
+      "id": "92e19584-a527-4b11-9ce3-c7c46884a975",
+      "title": "Journal of a Crime",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "journal-of-a-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "eed38551-ec5e-4755-9e72-0db3b2d10189",
+      "title": "Broadway Gondolier",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "broadway-gondolier",
+      "has_reactions": false
+    },
+    {
+      "id": "46a1cd06-08c5-4f4e-8e6a-af4e71b13d1e",
+      "title": "Gold Diggers of 1935",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "gold-diggers-of-1935",
+      "has_reactions": false
+    },
+    {
+      "id": "e4ea7774-6165-41a2-80d6-f15f4099f1ea",
+      "title": "Sing, Baby, Sing",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "sing-baby-sing",
+      "has_reactions": false
+    },
+    {
+      "id": "2d011ede-7db2-4509-8647-d58f5d4e0cd8",
+      "title": "One Hundred Men and a Girl",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "one-hundred-men-and-a-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "6deaac85-ade8-4a78-8779-87fcb989b5a9",
+      "title": "One in a Million",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "one-in-a-million",
+      "has_reactions": false
+    },
+    {
+      "id": "57fea787-f158-42d0-bbc2-41b11cdab94e",
+      "title": "A Star Is Born",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born",
+      "has_reactions": false
+    },
+    {
+      "id": "1409a328-466f-4276-92bd-3f18df4fa807",
+      "title": "Caf\u00e9 Metropole",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "caf-metropole",
+      "has_reactions": false
+    },
+    {
+      "id": "3fc229ff-26e7-4353-a9ed-272c1f6f4a09",
+      "title": "Letter of Introduction",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "letter-of-introduction",
+      "has_reactions": false
+    },
+    {
+      "id": "5c631a96-8197-4bd0-9b31-a3432488a7be",
+      "title": "Thanks for Everything",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "thanks-for-everything",
+      "has_reactions": false
+    },
+    {
+      "id": "f50061fd-d7dc-4e8f-8104-6fa842419623",
+      "title": "That's Right \u2013 You're Wrong",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "that-s-right-you-re-wrong",
+      "has_reactions": false
+    },
+    {
+      "id": "7f735d87-a4ed-46c8-a558-f68244156465",
+      "title": "The Housekeeper's Daughter",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-housekeeper-s-daughter",
+      "has_reactions": false
+    },
+    {
+      "id": "3084f28e-eb4c-4b10-9ccb-c1653fe65080",
+      "title": "A Bill of Divorcement",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "a-bill-of-divorcement",
+      "has_reactions": false
+    },
+    {
+      "id": "b7988bcd-4f53-4187-b084-1d2d0c00459b",
+      "title": "Road Show",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "road-show",
+      "has_reactions": false
+    },
+    {
+      "id": "c2c85c4a-fa55-40d4-94ae-325055a834bb",
+      "title": "Roxie Hart",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "roxie-hart",
+      "has_reactions": false
+    },
+    {
+      "id": "e7c7efbe-ba58-4344-a4e6-34abb0c4793b",
+      "title": "Hi Diddle Diddle",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "hi-diddle-diddle",
+      "has_reactions": false
+    },
+    {
+      "id": "b7b4c20b-cbf3-46dc-a84b-24b708f96664",
+      "title": "Sweet Rosie O'Grady",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "sweet-rosie-o-grady",
+      "has_reactions": false
+    },
+    {
+      "id": "af88faff-1f2c-4296-a980-666e6a334e6d",
+      "title": "Step Lively",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "step-lively",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c0fab3-f307-457f-b5b0-90d286e528be",
+      "title": "Man Alive",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "man-alive",
+      "has_reactions": false
+    },
+    {
+      "id": "4ee03e21-531f-414a-abfe-e53549c34d9d",
+      "title": "The Bachelor's Daughters",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "the-bachelor-s-daughters",
+      "has_reactions": false
+    },
+    {
+      "id": "eb45214e-3db4-4dda-ab93-7327b28f1a47",
+      "title": "Mr. District Attorney",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "mr-district-attorney",
+      "has_reactions": false
+    },
+    {
+      "id": "0a7213da-c9f3-4377-a997-e34644d8d956",
+      "title": "The Hucksters",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-hucksters",
+      "has_reactions": false
+    },
+    {
+      "id": "91bb0b7d-7825-48b9-93a6-0a6089a22cc7",
+      "title": "State of the Union",
+      "release_year": 1948,
+      "studio_label": "Liberty Films",
+      "slug": "state-of-the-union",
+      "has_reactions": false
+    },
+    {
+      "id": "1a13b862-cd20-42c8-a707-8c9110dc449c",
+      "title": "My Dream Is Yours",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "my-dream-is-yours",
+      "has_reactions": false
+    },
+    {
+      "id": "658d2b6d-2254-41d1-990d-3c0e0eac02bf",
+      "title": "To Please a Lady",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "to-please-a-lady",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c0963a-041a-4584-b874-735beab675df",
+      "title": "Across the Wide Missouri",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "across-the-wide-missouri",
+      "has_reactions": false
+    },
+    {
+      "id": "5aa6cab2-c860-4eb0-a2d3-c9c9ff80106d",
+      "title": "Man on a Tightrope",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "man-on-a-tightrope",
+      "has_reactions": false
+    },
+    {
+      "id": "e38bc8be-8972-4f33-ba66-cdaa9c8ac237",
+      "title": "Bundle of Joy",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "bundle-of-joy",
+      "has_reactions": false
+    },
+    {
+      "id": "3eb2da61-c060-4646-80f4-ca3037ae4ed3",
+      "title": "I Married a Woman",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "i-married-a-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "babe3616-50d9-442e-8c06-586df959a347",
+      "title": "Pollyanna",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "pollyanna",
+      "has_reactions": false
+    }
+  ]
+}

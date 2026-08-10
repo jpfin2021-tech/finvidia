@@ -1,0 +1,360 @@
+{
+  "id": "442c89a8-1f39-4b78-981f-1d3e1b238efb",
+  "name": "Jack Nicholson",
+  "slug": "jack-nicholson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+  "filmography": [
+    {
+      "id": "fc91b036-51db-4a12-948b-de7b9bda8c2b",
+      "title": "Ensign Pulver",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "ensign-pulver",
+      "has_reactions": false
+    },
+    {
+      "id": "59565ed3-4f7b-468a-a326-02e14eb6636a",
+      "title": "Hells Angels on Wheels",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "hells-angels-on-wheels",
+      "has_reactions": false
+    },
+    {
+      "id": "2ebe4f2f-1405-4f14-b155-e8d4d275a005",
+      "title": "The St. Valentine's Day Massacre",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-st-valentine-s-day-massacre",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa2b02-7878-49ac-bc16-2d457aff7cb9",
+      "title": "The Movie Orgy",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-movie-orgy",
+      "has_reactions": false
+    },
+    {
+      "id": "ac503001-54ae-4680-a76c-ba1844aafac5",
+      "title": "Psych-Out",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "psych-out",
+      "has_reactions": false
+    },
+    {
+      "id": "68e0bd8a-c8a3-463e-af4c-edf6527b5ef1",
+      "title": "Head",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "head",
+      "has_reactions": false
+    },
+    {
+      "id": "292cdbc4-d5af-4c5a-8cef-08dc1a7b9ca1",
+      "title": "Carnal Knowledge",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "carnal-knowledge",
+      "has_reactions": false
+    },
+    {
+      "id": "782c18c1-f1c3-4a14-955e-b2fecf4925b0",
+      "title": "A Safe Place",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "a-safe-place",
+      "has_reactions": false
+    },
+    {
+      "id": "2827a726-6874-46ca-a2b4-deb411d605a6",
+      "title": "Yoko Ono: This Is Not Here",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "yoko-ono-this-is-not-here",
+      "has_reactions": false
+    },
+    {
+      "id": "861f8844-b666-4fda-8c8f-e28f18e4dcfd",
+      "title": "The King of Marvin Gardens",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-king-of-marvin-gardens",
+      "has_reactions": false
+    },
+    {
+      "id": "911cf3e2-7fb9-42aa-8ac9-c9db8f40c0b3",
+      "title": "The Last Detail",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-last-detail",
+      "has_reactions": false
+    },
+    {
+      "id": "99aad31f-2e04-45c6-91dc-6207eca5d138",
+      "title": "Chinatown",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "chinatown",
+      "has_reactions": false
+    },
+    {
+      "id": "435bb86e-b3d3-4efd-8445-accc3893b9ee",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "release_year": 1975,
+      "studio_label": "Fantasy Films",
+      "slug": "one-flew-over-the-cuckoo-s-nest",
+      "has_reactions": true
+    },
+    {
+      "id": "58ecf4e3-a316-4b01-bb60-3287e16e2350",
+      "title": "TVTV Looks at the Oscars",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "tvtv-looks-at-the-oscars",
+      "has_reactions": false
+    },
+    {
+      "id": "ae47b7d5-1c59-4ffb-853b-1a07e3c9db00",
+      "title": "Goin' South",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "goin-south",
+      "has_reactions": false
+    },
+    {
+      "id": "a06cd01a-f53d-4881-bf03-43daca28c20b",
+      "title": "The Shining",
+      "release_year": 1980,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-shining",
+      "has_reactions": true
+    },
+    {
+      "id": "a8dabe7f-d60d-4416-b9d5-963c4ccd5480",
+      "title": "The Postman Always Rings Twice",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-postman-always-rings-twice",
+      "has_reactions": false
+    },
+    {
+      "id": "c8915509-adfa-43db-b6f2-4bed955923b4",
+      "title": "Reds",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "reds",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa66136-5ca7-4522-b694-77e43ae6109b",
+      "title": "The Border",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-border",
+      "has_reactions": false
+    },
+    {
+      "id": "da8a7214-f9a7-4e8d-98c0-65c3392e7c12",
+      "title": "Live Aid",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "live-aid",
+      "has_reactions": false
+    },
+    {
+      "id": "8c720fe8-b3f5-421e-a300-46c513c2d8cb",
+      "title": "Heartburn",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "heartburn",
+      "has_reactions": false
+    },
+    {
+      "id": "e1ef30f6-9fa5-4ec6-8aa2-c20d97473532",
+      "title": "Barbra Streisand: One Voice",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-one-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "6e9c6125-4f46-4d91-b23c-68068f67b45e",
+      "title": "Broadcast News",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "broadcast-news",
+      "has_reactions": false
+    },
+    {
+      "id": "a725eb1c-c543-4e7e-a593-c0a38bd7977e",
+      "title": "The Witches of Eastwick",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-witches-of-eastwick",
+      "has_reactions": false
+    },
+    {
+      "id": "62822c55-d7e2-479d-a30a-dcf2d8848113",
+      "title": "Batman",
+      "release_year": 1989,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman",
+      "has_reactions": true
+    },
+    {
+      "id": "34a6073e-df3d-4fb4-80d3-f994bd47d220",
+      "title": "A Few Good Men",
+      "release_year": 1992,
+      "studio_label": "David Brown Productions",
+      "slug": "a-few-good-men",
+      "has_reactions": true
+    },
+    {
+      "id": "408ffe15-21f0-43a3-a21d-5bcc868b2773",
+      "title": "Wolf",
+      "release_year": 1994,
+      "studio_label": "Columbia Pictures",
+      "slug": "wolf",
+      "has_reactions": true
+    },
+    {
+      "id": "a6c094b6-e319-4bb2-8b1b-3706ffaf4f16",
+      "title": "The Crossing Guard",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-crossing-guard",
+      "has_reactions": false
+    },
+    {
+      "id": "3c9bf078-54b4-4857-b2a7-5a7bd8020db6",
+      "title": "Mars Attacks!",
+      "release_year": 1996,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "mars-attacks",
+      "has_reactions": true
+    },
+    {
+      "id": "87848b96-d55e-4f40-95cc-4ae23613e6f3",
+      "title": "The Evening Star",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-evening-star",
+      "has_reactions": false
+    },
+    {
+      "id": "a3040ea5-5c33-4680-a315-f3754a788c55",
+      "title": "Blood and Wine",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "blood-and-wine",
+      "has_reactions": false
+    },
+    {
+      "id": "4e459206-814a-4b73-a896-b610ce7971eb",
+      "title": "Shirley Maclaine: Kicking Up Her Heels",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "shirley-maclaine-kicking-up-her-heels",
+      "has_reactions": false
+    },
+    {
+      "id": "4467d08a-3377-4923-a88f-a3b2c0e5a0ab",
+      "title": "As Good as It Gets",
+      "release_year": 1997,
+      "studio_label": "TriStar Pictures",
+      "slug": "as-good-as-it-gets",
+      "has_reactions": true
+    },
+    {
+      "id": "d250b31b-8c27-44c0-88b6-a234a23a8b35",
+      "title": "Stanley Kubrick: A Life in Pictures",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "stanley-kubrick-a-life-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae42808-0099-4104-b241-2fe6b98fea63",
+      "title": "Paul McCartney: Back in the U.S.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-back-in-the-u-s",
+      "has_reactions": false
+    },
+    {
+      "id": "002a10be-3770-42c5-a489-695407d109e4",
+      "title": "About Schmidt",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "about-schmidt",
+      "has_reactions": false
+    },
+    {
+      "id": "fe259e62-e4c2-4bb7-8ea3-1ce281d90e6c",
+      "title": "Something's Gotta Give",
+      "release_year": 2003,
+      "studio_label": "Columbia Pictures",
+      "slug": "something-s-gotta-give",
+      "has_reactions": true
+    },
+    {
+      "id": "722b2073-68d8-4601-b7ce-1819196572e5",
+      "title": "Shelter from the Storm: A Concert for the Gulf Coast",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "shelter-from-the-storm-a-concert-for-the-gulf-coast",
+      "has_reactions": false
+    },
+    {
+      "id": "14b2c0b5-f95a-449f-82dd-b69f76cae389",
+      "title": "The Departed",
+      "release_year": 2006,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-departed",
+      "has_reactions": true
+    },
+    {
+      "id": "560012a2-b97c-4017-b290-c886a9d52aba",
+      "title": "The Bucket List",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-bucket-list",
+      "has_reactions": false
+    },
+    {
+      "id": "73f2d02b-057b-47af-84af-eaa527e5aa08",
+      "title": "Roman Polanski: Wanted and Desired",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "roman-polanski-wanted-and-desired",
+      "has_reactions": false
+    },
+    {
+      "id": "c020a0bb-3b8e-4b07-ab87-d0e690902e6b",
+      "title": "How Do You Know",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "how-do-you-know",
+      "has_reactions": false
+    },
+    {
+      "id": "ac38edc6-f701-465f-8527-deecd3472654",
+      "title": "Stardust",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "stardust",
+      "has_reactions": false
+    },
+    {
+      "id": "f6017c6e-d59c-4051-859a-80bd8976ec9e",
+      "title": "40 Years of Rocky: The Birth of a Classic",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "40-years-of-rocky-the-birth-of-a-classic",
+      "has_reactions": false
+    }
+  ]
+}

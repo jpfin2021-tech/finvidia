@@ -1,0 +1,608 @@
+{
+  "id": "6c053ffe-6c40-4250-b46c-e7624932d7fc",
+  "name": "Mike Tyson",
+  "slug": "mike-tyson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg",
+  "filmography": [
+    {
+      "id": "71b94047-9d8f-44f5-a4cc-6553aacf054b",
+      "title": "Mike Tyson vs. Hector Mercedes",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-hector-mercedes",
+      "has_reactions": false
+    },
+    {
+      "id": "ae94d323-5889-4d9d-bf15-63f8a0ef2fe4",
+      "title": "Mike Tyson vs. Alfonzo Ratliff",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-alfonzo-ratliff",
+      "has_reactions": false
+    },
+    {
+      "id": "c16e4ce5-b0a9-4a59-b19f-d1d4140054e0",
+      "title": "Mike Tyson vs. Pinklon Thomas",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-pinklon-thomas",
+      "has_reactions": false
+    },
+    {
+      "id": "307579f1-ceff-42b2-93e3-7c56d2fcfa9f",
+      "title": "Mike Tyson vs. Michael Spinks",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-michael-spinks",
+      "has_reactions": false
+    },
+    {
+      "id": "c1a69678-a751-4753-ae80-ea6567d65e1b",
+      "title": "Mike Tyson vs Carl Williams",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-carl-williams",
+      "has_reactions": false
+    },
+    {
+      "id": "8bddc94b-f685-46c0-b2f9-72a03cc97e3a",
+      "title": "Great Sports Moments of the 80's",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "great-sports-moments-of-the-80-s",
+      "has_reactions": false
+    },
+    {
+      "id": "04745f4d-96bd-4e96-9f60-c1e734191855",
+      "title": "Mike Tyson vs Frank Bruno",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-frank-bruno",
+      "has_reactions": false
+    },
+    {
+      "id": "0d62d8c4-eb06-416e-a19d-788cbc21954d",
+      "title": "Mike Tyson vs. Alex Stewart",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-alex-stewart",
+      "has_reactions": false
+    },
+    {
+      "id": "a7bba0c2-2bd3-4e9f-a1bf-b87821011c2b",
+      "title": "Spike Lee Presents Mike Tyson",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "spike-lee-presents-mike-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "8ea0ac33-eb8f-452e-a665-667c175c3f44",
+      "title": "Superstar: The Life and Times of Andy Warhol",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "superstar-the-life-and-times-of-andy-warhol",
+      "has_reactions": false
+    },
+    {
+      "id": "a6eba7bc-1639-4093-b21b-769bcd3e609a",
+      "title": "Mike Tyson vs. Buster Douglas",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-buster-douglas",
+      "has_reactions": false
+    },
+    {
+      "id": "7ff5532d-70f8-4368-9af4-c0477dae2566",
+      "title": "Fallen Champ: The Untold Story of Mike Tyson",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "fallen-champ-the-untold-story-of-mike-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "30ad3c63-9878-4485-a8c4-41016595b9ee",
+      "title": "Kings of The Ring - History of Heavyweight Boxing 1919-1990",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "kings-of-the-ring-history-of-heavyweight-boxing-1919-1990",
+      "has_reactions": false
+    },
+    {
+      "id": "f81e5bdd-12eb-4cc9-a3b3-2ac0bd6111d1",
+      "title": "Mike Tyson vs Buster Mathis, Jr.",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-buster-mathis-jr",
+      "has_reactions": false
+    },
+    {
+      "id": "9f77c135-87c1-447b-84eb-5fde25c168f1",
+      "title": "Mike Tyson vs Bruce Seldon",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-bruce-seldon",
+      "has_reactions": false
+    },
+    {
+      "id": "642811f3-46fa-4364-897a-de519b48d2b3",
+      "title": "Mike Tyson vs. Evander Holyfield I",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-evander-holyfield-i",
+      "has_reactions": false
+    },
+    {
+      "id": "2b11b711-3d3b-4bf5-aac8-d4654a8a5d3b",
+      "title": "Austin 3:16 Uncensored",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "austin-3-16-uncensored",
+      "has_reactions": false
+    },
+    {
+      "id": "97ce3dcc-0c67-47f8-802d-b1333f952ba9",
+      "title": "The Mike Tyson Story",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-mike-tyson-story",
+      "has_reactions": false
+    },
+    {
+      "id": "908c1bdd-b65f-4f3a-bc4c-063efc8fa4d0",
+      "title": "Play It to the Bone",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "play-it-to-the-bone",
+      "has_reactions": false
+    },
+    {
+      "id": "3ade18f9-db63-424c-adc2-ee7dd83e4876",
+      "title": "Mike Tyson vs Andrew Golota",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-andrew-golota",
+      "has_reactions": false
+    },
+    {
+      "id": "abe40230-587c-4c57-a9b2-21607fb89497",
+      "title": "Mike Tyson vs Brian Nielsen",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-brian-nielsen",
+      "has_reactions": false
+    },
+    {
+      "id": "998e000a-7cbb-406e-b3d5-e6a78da71b67",
+      "title": "Killer Instinct - The Rise and Fall of Mike Tyson",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "killer-instinct-the-rise-and-fall-of-mike-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "fc37bce4-5b1b-443f-b8dc-10941a4375d7",
+      "title": "Bolivia",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "bolivia",
+      "has_reactions": false
+    },
+    {
+      "id": "85693a63-6c00-4b34-b755-97b6d3b4b6a6",
+      "title": "Mike Tyson vs Clifford Etienne",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-clifford-etienne",
+      "has_reactions": false
+    },
+    {
+      "id": "326e9962-a650-4180-86da-88e2c5ec5832",
+      "title": "Planet Max 19",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "planet-max-19",
+      "has_reactions": false
+    },
+    {
+      "id": "c2c3f1ad-d146-4f86-917c-645e2a2b6d6d",
+      "title": "When Will I Be Loved",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "when-will-i-be-loved",
+      "has_reactions": false
+    },
+    {
+      "id": "be0120c6-fed1-441c-9d8b-26ab5cc42f3f",
+      "title": "Mike Tyson vs. McBride",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-mcbride",
+      "has_reactions": false
+    },
+    {
+      "id": "fb86f3dd-a625-4270-b490-224e0452b11c",
+      "title": "ESPN Classic Ringside: Mike Tyson",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "espn-classic-ringside-mike-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "7b6b0efc-f704-4d78-b231-492176f4df11",
+      "title": "Mike Tyson vs Corey Sanders",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-vs-corey-sanders",
+      "has_reactions": false
+    },
+    {
+      "id": "c7df89ce-0591-4948-8211-197b01f524f9",
+      "title": "Rocky Balboa",
+      "release_year": 2006,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "rocky-balboa",
+      "has_reactions": true
+    },
+    {
+      "id": "4467479b-e03a-4197-ac8c-c3ff9b9c9785",
+      "title": "Fool N Final",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fool-n-final",
+      "has_reactions": false
+    },
+    {
+      "id": "c7f51662-321b-4cfa-b299-c5cc907b498d",
+      "title": "Tyson",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "72d8626b-7b7b-4ddc-847f-764e92f3eb17",
+      "title": "Jason Marriner Football Hooligan",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jason-marriner-football-hooligan",
+      "has_reactions": false
+    },
+    {
+      "id": "77ed1e35-b80a-4817-84b9-bd260bf45194",
+      "title": "The Hangover",
+      "release_year": 2009,
+      "studio_label": "Legendary Pictures",
+      "slug": "the-hangover",
+      "has_reactions": true
+    },
+    {
+      "id": "b13ad213-1214-4095-ac3d-ad079ab9c5e3",
+      "title": "Tyson: Unleashed",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "tyson-unleashed",
+      "has_reactions": false
+    },
+    {
+      "id": "0e333bef-d47d-4aa9-b00a-1d00f981ec66",
+      "title": "Comedy Central Roast of Charlie Sheen",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-charlie-sheen",
+      "has_reactions": false
+    },
+    {
+      "id": "7925572e-45a8-4a9c-b41a-b7d2aa312789",
+      "title": "The Cookout 2",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-cookout-2",
+      "has_reactions": false
+    },
+    {
+      "id": "1489628d-7c1f-48ed-bd0c-26d54eec00bd",
+      "title": "The Hangover Part II",
+      "release_year": 2011,
+      "studio_label": "Legendary Pictures",
+      "slug": "the-hangover-part-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "331fa0c7-d720-473f-bb85-11b28c6b1f9d",
+      "title": "When Harry Met Sally 2 with Billy Crystal & Helen Mirren",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "when-harry-met-sally-2-with-billy-crystal-helen-mirren",
+      "has_reactions": false
+    },
+    {
+      "id": "caa8a283-81b6-4966-b03a-fb01e8209a93",
+      "title": "WWE Hall Of Fame 2012",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "wwe-hall-of-fame-2012",
+      "has_reactions": false
+    },
+    {
+      "id": "4ca7d550-02a9-44b1-9835-13f0435846da",
+      "title": "Scary Movie 5",
+      "release_year": 2013,
+      "studio_label": "Dimension Films",
+      "slug": "scary-movie-5",
+      "has_reactions": true
+    },
+    {
+      "id": "1e9a9348-ec9b-42a2-8b6a-3487c0a8d6f9",
+      "title": "Mike Tyson: Undisputed Truth",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "mike-tyson-undisputed-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "7aee760b-a2b9-43ce-a82a-f99498b52ca1",
+      "title": "Sport in America: Our Defining Stories",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sport-in-america-our-defining-stories",
+      "has_reactions": false
+    },
+    {
+      "id": "655ff319-eefc-4b9d-bc22-7519a18f7b67",
+      "title": "No M\u00e1s",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "no-m-s",
+      "has_reactions": false
+    },
+    {
+      "id": "c7b3259b-e645-4ad2-a961-b1b5267380f9",
+      "title": "Ip Man 3",
+      "release_year": 2015,
+      "studio_label": "Dreams Salon Entertainment Culture",
+      "slug": "ip-man-3",
+      "has_reactions": true
+    },
+    {
+      "id": "c7b8a1a2-55d5-4558-9b60-d49f15a7e95f",
+      "title": "Champs",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "champs",
+      "has_reactions": false
+    },
+    {
+      "id": "37bdbab9-292a-45be-95cc-365941f21c8f",
+      "title": "Brand: A Second Coming",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "brand-a-second-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "ab7608da-f402-4951-87ac-2563b6688988",
+      "title": "The Making of Trump",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-trump",
+      "has_reactions": false
+    },
+    {
+      "id": "94c5e7f1-4356-4f92-9500-a16511c5a663",
+      "title": "Gates of the Sun",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "gates-of-the-sun",
+      "has_reactions": false
+    },
+    {
+      "id": "18c7c5fc-3bf2-40a5-8b0d-c43ddf0d7c7a",
+      "title": "Chasing Tyson",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "chasing-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "731634a8-9777-4a94-9aaf-38d836af63b5",
+      "title": "Nine Legends",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "nine-legends",
+      "has_reactions": false
+    },
+    {
+      "id": "6ab43be1-b263-4288-83db-6a2f62b9ff3f",
+      "title": "Meet the Blacks",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "meet-the-blacks",
+      "has_reactions": false
+    },
+    {
+      "id": "599fc4e0-dc8b-42c6-9f87-e858eb53b313",
+      "title": "I Am JFK Jr.",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "i-am-jfk-jr",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a48ec0-5fd5-4a97-8e88-c6721496e0b2",
+      "title": "Chris Brown: Welcome to My Life",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "chris-brown-welcome-to-my-life",
+      "has_reactions": false
+    },
+    {
+      "id": "15320931-132a-4a0b-8b6f-d9085ead5943",
+      "title": "Whitney: Can I Be Me",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "whitney-can-i-be-me",
+      "has_reactions": false
+    },
+    {
+      "id": "ec345a1c-c2a8-4b3b-8447-8b3917ef9bab",
+      "title": "China Salesman",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "china-salesman",
+      "has_reactions": false
+    },
+    {
+      "id": "8070a4fe-b1fc-41a0-915a-42a989b09766",
+      "title": "Kickboxer: Retaliation",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "kickboxer-retaliation",
+      "has_reactions": false
+    },
+    {
+      "id": "0d9684ff-8494-422a-b703-a274f930c955",
+      "title": "Girls vs Gangsters",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "girls-vs-gangsters",
+      "has_reactions": false
+    },
+    {
+      "id": "d4371d86-0a95-431e-a2d8-60448895f4b1",
+      "title": "Public Disturbance",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "public-disturbance",
+      "has_reactions": false
+    },
+    {
+      "id": "9ad61a41-eb90-4fbf-9767-34142e85ecb5",
+      "title": "42 to 1",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "42-to-1",
+      "has_reactions": false
+    },
+    {
+      "id": "e2b6200d-b18e-4bc0-859c-1385a9d0a503",
+      "title": "Pariah: The Lives and Deaths of Sonny Liston",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "pariah-the-lives-and-deaths-of-sonny-liston",
+      "has_reactions": false
+    },
+    {
+      "id": "82b942f9-c31d-4638-a03e-abcfbf3bd28f",
+      "title": "A Madea Family Funeral",
+      "release_year": 2019,
+      "studio_label": "Tyler Perry Studios",
+      "slug": "a-madea-family-funeral",
+      "has_reactions": true
+    },
+    {
+      "id": "698c6391-d4b8-480c-a83f-dc2e58f19f18",
+      "title": "One Night: Joshua vs. Ruiz",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "one-night-joshua-vs-ruiz",
+      "has_reactions": false
+    },
+    {
+      "id": "ebb90b2b-0ec5-43e8-a81e-a462cee197bc",
+      "title": "TYSON",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "1a3e92d0-f1d5-4e4a-b7cc-56636310c5ff",
+      "title": "I Am Dur\u00e1n",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "i-am-dur-n",
+      "has_reactions": false
+    },
+    {
+      "id": "dc70cc87-5ce4-489a-950c-49ded37140e0",
+      "title": "Pharaoh's War",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "pharaoh-s-war",
+      "has_reactions": false
+    },
+    {
+      "id": "3be76708-0bf3-4e7d-9533-f4f54a2e91aa",
+      "title": "Reality Queen!",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "reality-queen",
+      "has_reactions": false
+    },
+    {
+      "id": "77f2dd85-1dee-42ee-b453-b3a9f3d30ffa",
+      "title": "Crack: Cocaine, Corruption & Conspiracy",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "crack-cocaine-corruption-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "fd51f3af-b672-47ab-a37b-0612543aa323",
+      "title": "Woooooo! Becoming Ric Flair",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "woooooo-becoming-ric-flair",
+      "has_reactions": false
+    },
+    {
+      "id": "47c66fc0-2d15-44dd-a5a6-b33e138fa614",
+      "title": "Liger",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "liger",
+      "has_reactions": false
+    },
+    {
+      "id": "fce00bcc-ca38-4804-9944-3855d73a21f8",
+      "title": "Once Within a Time",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "once-within-a-time",
+      "has_reactions": false
+    },
+    {
+      "id": "b7a06164-12d2-4c13-91a6-d0666efa4eb2",
+      "title": "Unstuffed: A Build-A-Bear Story",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "unstuffed-a-build-a-bear-story",
+      "has_reactions": false
+    },
+    {
+      "id": "19c5f0b4-8d52-41da-9494-a9db06bc2ced",
+      "title": "Stand",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "stand",
+      "has_reactions": false
+    },
+    {
+      "id": "7cc2e879-5cfa-48a6-96fb-25591519f7ee",
+      "title": "Jake Paul vs. Mike Tyson",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "jake-paul-vs-mike-tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "db9e476b-9e80-4811-91a5-3362f88d9c73",
+      "title": "Teofilo: Boxing's Most Revolutionary Champion",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "teofilo-boxing-s-most-revolutionary-champion",
+      "has_reactions": false
+    }
+  ]
+}

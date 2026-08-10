@@ -1,0 +1,576 @@
+{
+  "id": "ef12f0ee-2cba-4a06-8cfa-97ab767d56ae",
+  "name": "George C. Scott",
+  "slug": "george-c-scott",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/iZON8v2ExgNzY943W0UDWXeRZrz.jpg",
+  "filmography": [
+    {
+      "id": "9c5338fc-f362-4642-b31f-b9235b3403fa",
+      "title": "Anatomy of a Murder",
+      "release_year": 1959,
+      "studio_label": "Carlyle Productions",
+      "slug": "anatomy-of-a-murder",
+      "has_reactions": true
+    },
+    {
+      "id": "bfbfbe85-76b1-471a-bffa-5ec3ef321700",
+      "title": "Winterset",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "winterset",
+      "has_reactions": false
+    },
+    {
+      "id": "f3c0b4e1-99d3-48ce-8aa3-889fd6513b78",
+      "title": "The Hanging Tree",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-hanging-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "9f864484-e0bc-4a63-be4a-c3fe6259ef56",
+      "title": "The Picture of Dorian Gray",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-picture-of-dorian-gray",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce667d4-c6d2-4a34-9116-6fbd97cfdaad",
+      "title": "The List of Adrian Messenger",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-list-of-adrian-messenger",
+      "has_reactions": false
+    },
+    {
+      "id": "40953c5a-558e-4010-a0cb-15172a55591d",
+      "title": "The Power and the Glory",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-power-and-the-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "8a609416-e91a-4aaa-8eda-97316e5e795c",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "release_year": 1964,
+      "studio_label": "Hawk Films",
+      "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+      "has_reactions": true
+    },
+    {
+      "id": "a11a7ba0-a31c-497c-908e-2bb22360c473",
+      "title": "The Yellow Rolls-Royce",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-yellow-rolls-royce",
+      "has_reactions": false
+    },
+    {
+      "id": "099eab65-fb09-4e6e-ba7f-ea8dc3db4b95",
+      "title": "The Brazen Bell",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-brazen-bell",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c39966-d6cf-4556-99ec-16468476636e",
+      "title": "The Car That Became a Star",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-car-that-became-a-star",
+      "has_reactions": false
+    },
+    {
+      "id": "47c888cf-243e-44e7-8a7e-4e7fca051e75",
+      "title": "The Bible: In the Beginning...",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-bible-in-the-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "e0d9206f-44e0-40b0-89b9-311fd10a4abd",
+      "title": "Not With My Wife, You Don't!",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "not-with-my-wife-you-don-t",
+      "has_reactions": false
+    },
+    {
+      "id": "008c0e96-94d6-468e-9ffa-1e2197c7642d",
+      "title": "The Flim-Flam Man",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-flim-flam-man",
+      "has_reactions": false
+    },
+    {
+      "id": "746ac5d6-6c3e-489c-ab94-f17f29cae5a4",
+      "title": "The Crucible",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-crucible",
+      "has_reactions": false
+    },
+    {
+      "id": "ddd134ba-8604-409d-ada8-08dc215d0855",
+      "title": "Petulia",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "petulia",
+      "has_reactions": false
+    },
+    {
+      "id": "55fd1720-b865-4982-9e5f-0d1e4637c3e2",
+      "title": "Petulia: The Uncommon Movie",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "petulia-the-uncommon-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "ffd8c76c-2d66-43f8-a345-255b61f60f65",
+      "title": "This Savage Land",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "this-savage-land",
+      "has_reactions": false
+    },
+    {
+      "id": "6a3cfdb2-6d8e-48b8-895d-d861e3ac07e6",
+      "title": "Mirror, Mirror Off the Wall",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "mirror-mirror-off-the-wall",
+      "has_reactions": false
+    },
+    {
+      "id": "5f6fde4f-4484-46a4-8183-5e333d64439d",
+      "title": "Patton",
+      "release_year": 1970,
+      "studio_label": "20th Century Fox",
+      "slug": "patton",
+      "has_reactions": true
+    },
+    {
+      "id": "484039a8-af8f-431a-80be-ad5cf406ca1c",
+      "title": "Friars Club Roast of Don Rickles",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "friars-club-roast-of-don-rickles",
+      "has_reactions": false
+    },
+    {
+      "id": "dbb1aa9c-72fe-4dbf-8851-2576e9a5d2c0",
+      "title": "They Might Be Giants",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "they-might-be-giants",
+      "has_reactions": false
+    },
+    {
+      "id": "11753283-6220-43ea-92fc-b663027a5159",
+      "title": "The Last Run",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-last-run",
+      "has_reactions": false
+    },
+    {
+      "id": "542dd1af-a0f3-4f09-9a15-840ac41b4dd0",
+      "title": "The Price",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-price",
+      "has_reactions": false
+    },
+    {
+      "id": "5593453d-d7a2-45f0-8357-0182541993ea",
+      "title": "A Man Named Lombardi",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "a-man-named-lombardi",
+      "has_reactions": false
+    },
+    {
+      "id": "2c7d6b20-6efb-45bb-9814-c07a604cdd0c",
+      "title": "Rage",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "rage",
+      "has_reactions": false
+    },
+    {
+      "id": "b45760d7-e01e-4d43-900d-c11c4337c818",
+      "title": "The New Centurions",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-new-centurions",
+      "has_reactions": false
+    },
+    {
+      "id": "7b3b36d1-d488-40ee-9ca2-2069dd4a6b6e",
+      "title": "The Trouble With People",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-trouble-with-people",
+      "has_reactions": false
+    },
+    {
+      "id": "f8d8ba2a-c795-4669-9e35-735795996600",
+      "title": "The Flim Flam Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-flim-flam-man",
+      "has_reactions": false
+    },
+    {
+      "id": "4c0459da-5026-4f71-b9cb-4cf8e916880e",
+      "title": "Oklahoma Crude",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "oklahoma-crude",
+      "has_reactions": false
+    },
+    {
+      "id": "cf094fc1-860d-4387-9a88-c3474252a1d8",
+      "title": "The Day of the Dolphin",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-day-of-the-dolphin",
+      "has_reactions": false
+    },
+    {
+      "id": "d1d5ffcb-7a30-4e78-a378-d7408861424e",
+      "title": "The Savage Is Loose",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-savage-is-loose",
+      "has_reactions": false
+    },
+    {
+      "id": "c5438f9c-50d7-4f5e-827a-47bb5a63ed74",
+      "title": "Fear on Trial",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "fear-on-trial",
+      "has_reactions": false
+    },
+    {
+      "id": "afdbff6f-789a-4a6b-a434-66237457e58f",
+      "title": "The Hindenburg",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-hindenburg",
+      "has_reactions": false
+    },
+    {
+      "id": "5de01b40-ad90-4cc7-b09f-370c3409c14f",
+      "title": "Beauty and the Beast",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "beauty-and-the-beast",
+      "has_reactions": false
+    },
+    {
+      "id": "8d01edc9-0ae8-4eb1-b677-153f110c6e7a",
+      "title": "NBC: The First Fifty Years",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "nbc-the-first-fifty-years",
+      "has_reactions": false
+    },
+    {
+      "id": "d2a990e5-5b9c-499b-8331-b7e7b6b38949",
+      "title": "The Prince and the Pauper",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-prince-and-the-pauper",
+      "has_reactions": false
+    },
+    {
+      "id": "d1993136-574b-4561-8a49-b4db37555146",
+      "title": "Islands in the Stream",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "islands-in-the-stream",
+      "has_reactions": false
+    },
+    {
+      "id": "b93ebf6c-6f5f-4ecb-af06-3e61562f62ef",
+      "title": "Movie Movie",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "movie-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "75255e25-257a-4850-9703-1dc74c09738e",
+      "title": "Hardcore",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "hardcore",
+      "has_reactions": false
+    },
+    {
+      "id": "bac95c66-f900-44aa-bd21-7de63d4bbf59",
+      "title": "Arthur Miller on Home Ground",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "arthur-miller-on-home-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "e121d9c4-7f73-4325-a361-f6e0f78a1238",
+      "title": "The Formula",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-formula",
+      "has_reactions": false
+    },
+    {
+      "id": "61cee112-d5a7-4b55-aeb9-2a756889eb7e",
+      "title": "The Changeling",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-changeling",
+      "has_reactions": false
+    },
+    {
+      "id": "77b5cdae-ce82-465e-8cb4-e3f02b63d06f",
+      "title": "Casey Stengel",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "casey-stengel",
+      "has_reactions": false
+    },
+    {
+      "id": "e5e238cd-9075-41d1-98e9-ae3ade6e1ea0",
+      "title": "Oliver Twist",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "oliver-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "04e91fec-4a92-4d24-a274-6e6d34e4d60c",
+      "title": "China Rose",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "china-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "ba03486f-6466-44e9-b073-a56843f6a2ab",
+      "title": "The Indomitable Teddy Roosevelt",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-indomitable-teddy-roosevelt",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a6d46d-1127-4412-a4ef-14495c8e43a1",
+      "title": "A Christmas Carol",
+      "release_year": 1984,
+      "studio_label": "Entertainment Partners Ltd.",
+      "slug": "a-christmas-carol",
+      "has_reactions": true
+    },
+    {
+      "id": "49da25e2-c241-486d-90a8-ecfebb7e6168",
+      "title": "Firestarter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "firestarter",
+      "has_reactions": false
+    },
+    {
+      "id": "19d78d6a-5ecd-4d15-bd3d-6521e0a7e2c3",
+      "title": "The Last Days of Patton",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-last-days-of-patton",
+      "has_reactions": false
+    },
+    {
+      "id": "d309df44-34d6-493a-bd40-f0af915f8bcb",
+      "title": "Choices",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "choices",
+      "has_reactions": false
+    },
+    {
+      "id": "ecacad9f-e67a-4148-83f4-8aa63751a00d",
+      "title": "Pals",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "pals",
+      "has_reactions": false
+    },
+    {
+      "id": "e35edad8-c8f5-4bbc-bbf3-6cfd241ae808",
+      "title": "The Ryan White Story",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-ryan-white-story",
+      "has_reactions": false
+    },
+    {
+      "id": "757cfc82-962b-47e5-b1cf-711c9a1f0e79",
+      "title": "The Exorcist III",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-exorcist-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "60314498-6c1b-4cdd-8469-00f8e1665e52",
+      "title": "Cartoon All-Stars to the Rescue",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cartoon-all-stars-to-the-rescue",
+      "has_reactions": false
+    },
+    {
+      "id": "2ba518f0-349f-4543-b782-a1860b91247d",
+      "title": "The Rescuers Down Under",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-rescuers-down-under",
+      "has_reactions": false
+    },
+    {
+      "id": "24856eec-72c4-4861-b40d-dad3e7f175f0",
+      "title": "Descending Angel",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "descending-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "1f1294a3-ccaa-46f3-a215-ec7bbcc07ed0",
+      "title": "Finding the Way Home",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "finding-the-way-home",
+      "has_reactions": false
+    },
+    {
+      "id": "f4458316-8d3e-4c79-a500-f43076e52597",
+      "title": "Malice",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "malice",
+      "has_reactions": false
+    },
+    {
+      "id": "aa542bd8-4564-4fa9-a933-8f571e305824",
+      "title": "Cura\u00e7ao",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "cura-ao",
+      "has_reactions": false
+    },
+    {
+      "id": "2af2d68d-3135-47e8-9ea8-187ccd9ea773",
+      "title": "In the Heat of the Night: A Matter of Justice",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "in-the-heat-of-the-night-a-matter-of-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "092644d3-f46a-43ac-a676-034ee18262bd",
+      "title": "The Whipping Boy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-whipping-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "5168e335-706f-4eea-9b1e-953fc54b9c87",
+      "title": "Angus",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "angus",
+      "has_reactions": false
+    },
+    {
+      "id": "4d9c1340-2e4b-4358-b86f-283fb3650166",
+      "title": "Tyson",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "tyson",
+      "has_reactions": false
+    },
+    {
+      "id": "4e459206-814a-4b73-a896-b610ce7971eb",
+      "title": "Shirley Maclaine: Kicking Up Her Heels",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "shirley-maclaine-kicking-up-her-heels",
+      "has_reactions": false
+    },
+    {
+      "id": "181a0f51-e767-408b-9789-e333137512d5",
+      "title": "Family Rescue",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "family-rescue",
+      "has_reactions": false
+    },
+    {
+      "id": "17de714f-857a-4da6-a959-7378c70c3dc9",
+      "title": "Patton: A Tribute to Franklin J. Schaffner",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "patton-a-tribute-to-franklin-j-schaffner",
+      "has_reactions": false
+    },
+    {
+      "id": "9eb4dc42-6a80-400d-983a-dad8fe0271fc",
+      "title": "12 Angry Men",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "12-angry-men",
+      "has_reactions": false
+    },
+    {
+      "id": "c594de42-9277-4e72-ab06-4b864315207d",
+      "title": "Gary Cooper: The Face of a Hero",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "gary-cooper-the-face-of-a-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "3e675d90-dbd5-484c-965d-f64f669968b3",
+      "title": "Gloria",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "gloria",
+      "has_reactions": false
+    },
+    {
+      "id": "136b99be-b2fe-4b88-a88a-0a020d6e668c",
+      "title": "Rocky Marciano",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "rocky-marciano",
+      "has_reactions": false
+    },
+    {
+      "id": "7119bedd-ab32-4055-8893-ee216a3845fe",
+      "title": "Inherit the Wind",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "inherit-the-wind",
+      "has_reactions": false
+    }
+  ]
+}

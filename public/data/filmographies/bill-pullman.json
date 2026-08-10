@@ -1,0 +1,536 @@
+{
+  "id": "02e96c01-e958-4852-ac48-5d4f32a994a7",
+  "name": "Bill Pullman",
+  "slug": "bill-pullman",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg",
+  "filmography": [
+    {
+      "id": "4cdd99b5-38eb-46b6-bb8d-90e025125531",
+      "title": "Famous",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "famous",
+      "has_reactions": false
+    },
+    {
+      "id": "7e372cf8-36e7-46ea-92ad-d4f700d9fc07",
+      "title": "Spaceballs",
+      "release_year": 1987,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "spaceballs",
+      "has_reactions": true
+    },
+    {
+      "id": "bebe4873-ca30-4c47-9621-e6a1f0e2bafb",
+      "title": "The Accidental Tourist",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-accidental-tourist",
+      "has_reactions": false
+    },
+    {
+      "id": "71effd61-90f1-4280-a4d7-d0d9aab5d5fc",
+      "title": "The Serpent and the Rainbow",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-serpent-and-the-rainbow",
+      "has_reactions": false
+    },
+    {
+      "id": "97e6d1a2-cd70-4998-ab45-2868d4011d89",
+      "title": "Rocket Gibraltar",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "rocket-gibraltar",
+      "has_reactions": false
+    },
+    {
+      "id": "22063957-e8ab-4df1-ba5d-dac46a775c0b",
+      "title": "Sibling Rivalry",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "sibling-rivalry",
+      "has_reactions": false
+    },
+    {
+      "id": "6be89f0a-0de0-465f-adc4-a043876038b5",
+      "title": "Liebestraum",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "liebestraum",
+      "has_reactions": false
+    },
+    {
+      "id": "2aa421e0-6691-4a65-934e-1126ea4d1346",
+      "title": "Going Under",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "going-under",
+      "has_reactions": false
+    },
+    {
+      "id": "519395e3-59cb-47a5-a430-11ebf5475eba",
+      "title": "Blood Drips Heavily on Newsie Square",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "blood-drips-heavily-on-newsie-square",
+      "has_reactions": false
+    },
+    {
+      "id": "b5f5b312-6c37-496c-b3a6-454dfc78ea5d",
+      "title": "Phone",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "phone",
+      "has_reactions": false
+    },
+    {
+      "id": "df25dc36-2e5b-4a86-9f0d-39664b29868f",
+      "title": "Crazy in Love",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "crazy-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "58495462-bbff-4585-a961-1f2a2db0cab4",
+      "title": "A League of Their Own",
+      "release_year": 1992,
+      "studio_label": "Columbia Pictures",
+      "slug": "a-league-of-their-own",
+      "has_reactions": true
+    },
+    {
+      "id": "e8018de7-69ba-462a-95d8-f23dc1e4ab69",
+      "title": "Sleepless in Seattle",
+      "release_year": 1993,
+      "studio_label": "TriStar Pictures",
+      "slug": "sleepless-in-seattle",
+      "has_reactions": true
+    },
+    {
+      "id": "1d7a6148-9985-440e-a58f-b7e4f6131de3",
+      "title": "Sommersby",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "sommersby",
+      "has_reactions": false
+    },
+    {
+      "id": "f4458316-8d3e-4c79-a500-f43076e52597",
+      "title": "Malice",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "malice",
+      "has_reactions": false
+    },
+    {
+      "id": "b2a05489-777b-473e-8fbc-ac75ae176f9a",
+      "title": "Wyatt Earp",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "wyatt-earp",
+      "has_reactions": false
+    },
+    {
+      "id": "727b2ea7-eb19-4fa0-912e-20568fec7b95",
+      "title": "The Last Seduction",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-last-seduction",
+      "has_reactions": false
+    },
+    {
+      "id": "c0f19268-bd98-47f9-a2ed-d4cc57e982d8",
+      "title": "While You Were Sleeping",
+      "release_year": 1995,
+      "studio_label": "Caravan Pictures",
+      "slug": "while-you-were-sleeping",
+      "has_reactions": true
+    },
+    {
+      "id": "bed635c6-5011-42fb-826e-c49b2465d57c",
+      "title": "Casper",
+      "release_year": 1995,
+      "studio_label": "The Harvey Entertainment Company",
+      "slug": "casper",
+      "has_reactions": true
+    },
+    {
+      "id": "569286cd-9069-4492-b679-d998e77fd748",
+      "title": "Independence Day",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "independence-day",
+      "has_reactions": true
+    },
+    {
+      "id": "9ead458b-f337-450a-9728-42486ac0ab98",
+      "title": "Mistrial",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mistrial",
+      "has_reactions": false
+    },
+    {
+      "id": "6398344a-993d-40ed-a237-6c3777ef9c8b",
+      "title": "The Making of 'Independence Day'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-independence-day",
+      "has_reactions": false
+    },
+    {
+      "id": "4e855a93-8366-428b-a72f-28bdee81156f",
+      "title": "Mr. Wrong",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mr-wrong",
+      "has_reactions": false
+    },
+    {
+      "id": "cb24fe4e-b73b-44a5-b181-2c155f2309c6",
+      "title": "Independence Day: The ID4 Invasion",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "independence-day-the-id4-invasion",
+      "has_reactions": false
+    },
+    {
+      "id": "64717993-f1d8-499e-992f-41b769909c34",
+      "title": "Merry Christmas, George Bailey",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "merry-christmas-george-bailey",
+      "has_reactions": false
+    },
+    {
+      "id": "4bb8cddc-bdf4-4fe3-84fb-1e03a0743701",
+      "title": "Lost Highway",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "lost-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "e78124a6-fada-4fa8-baa4-7fd0a14d0115",
+      "title": "Pretty as a Picture: The Art of David Lynch",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pretty-as-a-picture-the-art-of-david-lynch",
+      "has_reactions": false
+    },
+    {
+      "id": "03f2fcb1-6c02-427c-8dd7-6aa4564b96fc",
+      "title": "Zero Effect",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "zero-effect",
+      "has_reactions": false
+    },
+    {
+      "id": "e3d23e41-9378-405d-a0e0-0ecbcc3e8f48",
+      "title": "Spy Games",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "spy-games",
+      "has_reactions": false
+    },
+    {
+      "id": "c54832dd-4934-401e-9f09-dc61e63c6538",
+      "title": "Lake Placid",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "lake-placid",
+      "has_reactions": false
+    },
+    {
+      "id": "f727ef0e-fc31-4551-b944-4e5fd175dc35",
+      "title": "The Virginian",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-virginian",
+      "has_reactions": false
+    },
+    {
+      "id": "5531c0e4-8172-4a61-853c-d74014708afd",
+      "title": "Lucky Numbers",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lucky-numbers",
+      "has_reactions": false
+    },
+    {
+      "id": "8e55c5d9-c9fb-422e-9c80-2a588231a28e",
+      "title": "A Man Is Mostly Water",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "a-man-is-mostly-water",
+      "has_reactions": false
+    },
+    {
+      "id": "89a73191-3fc6-4318-8555-63104662e647",
+      "title": "29 Palms",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "29-palms",
+      "has_reactions": false
+    },
+    {
+      "id": "d0495bf9-495d-4cd2-a680-ffdcf2215124",
+      "title": "Ignition",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ignition",
+      "has_reactions": false
+    },
+    {
+      "id": "85a3013e-9f59-4372-8238-5be1f6329a2b",
+      "title": "Igby Goes Down",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "igby-goes-down",
+      "has_reactions": false
+    },
+    {
+      "id": "e796e43a-3b1f-48ac-b463-1e37866d04ef",
+      "title": "The Grudge",
+      "release_year": 2004,
+      "studio_label": "Ghost House Pictures",
+      "slug": "the-grudge",
+      "has_reactions": true
+    },
+    {
+      "id": "2e92d942-13ff-452c-b830-75628970b241",
+      "title": "Tiger Cruise",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "tiger-cruise",
+      "has_reactions": false
+    },
+    {
+      "id": "c9246840-d54f-4ea1-8342-d24a2b4ebde6",
+      "title": "Dear Wendy",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "dear-wendy",
+      "has_reactions": false
+    },
+    {
+      "id": "b5358d6e-e2d1-4afa-8726-75a2d4dc1a56",
+      "title": "John Candy: Comic Spirit",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "john-candy-comic-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "59c5bea9-72c6-40a2-8097-40b5f68ab183",
+      "title": "Scary Movie 4",
+      "release_year": 2006,
+      "studio_label": "Dimension Films",
+      "slug": "scary-movie-4",
+      "has_reactions": true
+    },
+    {
+      "id": "4869c7ba-85a8-4f37-b517-d79104377507",
+      "title": "Nobel Son",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "nobel-son",
+      "has_reactions": false
+    },
+    {
+      "id": "dc2b4fd2-21fe-4017-877e-59a580d3737c",
+      "title": "Surveillance",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "surveillance",
+      "has_reactions": false
+    },
+    {
+      "id": "96f89f23-6542-4b8d-b809-38056c400e2d",
+      "title": "Rio Sex Comedy",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "rio-sex-comedy",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3b6c16-25d5-4ed7-8f2f-f07f1ae780d8",
+      "title": "Innocent",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "innocent",
+      "has_reactions": false
+    },
+    {
+      "id": "92015dd4-c9f4-48f6-82c3-aeabca9c72cb",
+      "title": "Too Big to Fail",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "too-big-to-fail",
+      "has_reactions": false
+    },
+    {
+      "id": "c7f50821-f080-4245-9c53-908ccbe77629",
+      "title": "Bringing Up Bobby",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "bringing-up-bobby",
+      "has_reactions": false
+    },
+    {
+      "id": "0ec27068-24ed-4007-bae2-1f6308c013d4",
+      "title": "The Fruit Hunters",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-fruit-hunters",
+      "has_reactions": false
+    },
+    {
+      "id": "d8a5a5bd-c033-45d7-a5e6-df7d4f8468cd",
+      "title": "The Equalizer",
+      "release_year": 2014,
+      "studio_label": "Lonetree Entertainment",
+      "slug": "the-equalizer",
+      "has_reactions": true
+    },
+    {
+      "id": "e8f87a38-dd94-4d7b-ada3-85286f5a1dd8",
+      "title": "Red Sky",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "red-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "42879c72-9b93-4bfe-a417-8d50dd794bad",
+      "title": "May in the Summer",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "may-in-the-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "5c2e8ac7-44be-4f9b-9acc-1c943d2be97b",
+      "title": "Parables of War",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "parables-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "c49de1ae-6d09-4a76-b793-b250b3533ac2",
+      "title": "Brother Nature",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "brother-nature",
+      "has_reactions": false
+    },
+    {
+      "id": "dae32123-a1f0-4bbd-877e-fc34099ac752",
+      "title": "Another Day: The Making of 'Independence Day: Resurgence'",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "another-day-the-making-of-independence-day-resurgence",
+      "has_reactions": false
+    },
+    {
+      "id": "b57b2893-4535-4e7d-b19e-6a1dced3c7c7",
+      "title": "Independence Day: Resurgence",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "independence-day-resurgence",
+      "has_reactions": false
+    },
+    {
+      "id": "6d1d3bb2-6202-4d54-ac13-f99d95f3a2b7",
+      "title": "A Thousand Junkies",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "a-thousand-junkies",
+      "has_reactions": false
+    },
+    {
+      "id": "3df8cb92-dd3e-44cc-87a9-5fa5c36ca61f",
+      "title": "LBJ",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "lbj",
+      "has_reactions": false
+    },
+    {
+      "id": "6e6f9e06-0bc1-4149-9544-2a9a966f9119",
+      "title": "Battle of the Sexes",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "battle-of-the-sexes",
+      "has_reactions": false
+    },
+    {
+      "id": "626a4107-b607-4110-b472-6a880e548060",
+      "title": "The Equalizer 2",
+      "release_year": 2018,
+      "studio_label": "Lonetree Entertainment",
+      "slug": "the-equalizer-2",
+      "has_reactions": true
+    },
+    {
+      "id": "92c96e2c-11fa-4b23-8c5b-7a629c61ce34",
+      "title": "Dark Waters",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dark-waters",
+      "has_reactions": false
+    },
+    {
+      "id": "7277df31-5461-4659-90e7-ebcdd9ac49dd",
+      "title": "The Coldest Game",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-coldest-game",
+      "has_reactions": false
+    },
+    {
+      "id": "8a94833a-2bc6-496e-9314-6f6c5b2a7abe",
+      "title": "Dark Waters: The Cost of Being a Hero",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "dark-waters-the-cost-of-being-a-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "bf029b37-ad87-4201-8ea2-ff383dd4b218",
+      "title": "Yellowstone",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "yellowstone",
+      "has_reactions": false
+    },
+    {
+      "id": "22fd6554-0787-40a5-a0d9-f93b5cc79379",
+      "title": "American Horses",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "american-horses",
+      "has_reactions": false
+    },
+    {
+      "id": "a8abdf1b-3eec-4dd9-b2b0-bc98e468dba4",
+      "title": "Killing Faith",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "killing-faith",
+      "has_reactions": false
+    },
+    {
+      "id": "0906a2ca-3c5b-45ae-afda-2d079dadb2ce",
+      "title": "Everybody Digs Bill Evans",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "everybody-digs-bill-evans",
+      "has_reactions": false
+    }
+  ]
+}

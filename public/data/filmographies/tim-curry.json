@@ -1,0 +1,632 @@
+{
+  "id": "6cc6a5b9-2055-48ed-860c-a086bb0ebd2e",
+  "name": "Tim Curry",
+  "slug": "tim-curry",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+  "filmography": [
+    {
+      "id": "ca2a0726-ca0d-4476-a748-e3987b64e146",
+      "title": "Schmoedipus",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "schmoedipus",
+      "has_reactions": false
+    },
+    {
+      "id": "bbe46a6e-e62a-4c29-b02d-584fe861219b",
+      "title": "The Rocky Horror Picture Show",
+      "release_year": 1975,
+      "studio_label": "20th Century Fox",
+      "slug": "the-rocky-horror-picture-show",
+      "has_reactions": true
+    },
+    {
+      "id": "cd008d08-bf97-4a30-a83a-7e1a377adf4a",
+      "title": "Three Men in a Boat",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "three-men-in-a-boat",
+      "has_reactions": false
+    },
+    {
+      "id": "e5e238cd-9075-41d1-98e9-ae3ade6e1ea0",
+      "title": "Oliver Twist",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "oliver-twist",
+      "has_reactions": false
+    },
+    {
+      "id": "0fd1c959-4b0e-46b9-a638-f2faea07a6cf",
+      "title": "Clue",
+      "release_year": 1985,
+      "studio_label": "Debra Hill Productions",
+      "slug": "clue",
+      "has_reactions": true
+    },
+    {
+      "id": "60db850b-2e0b-45fe-ae6b-fa0379200177",
+      "title": "Ligmalion: Or How to Help Yourself in Self-Help Britain",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "ligmalion-or-how-to-help-yourself-in-self-help-britain",
+      "has_reactions": false
+    },
+    {
+      "id": "0c42b3da-d045-4c63-96f4-45a11c779732",
+      "title": "Legend",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "legend",
+      "has_reactions": false
+    },
+    {
+      "id": "5056b36e-e6b1-4ba2-8031-9bd65248276e",
+      "title": "Blue Money",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "blue-money",
+      "has_reactions": false
+    },
+    {
+      "id": "3a560bf3-abb9-473d-980c-cf5b99f8edf7",
+      "title": "The Worst Witch",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-worst-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "0381bc19-12ba-4f4a-896a-037467e91b42",
+      "title": "Pass the Ammo",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "pass-the-ammo",
+      "has_reactions": false
+    },
+    {
+      "id": "cb18d92f-94a2-477e-aaf8-3100169ad710",
+      "title": "Abel's Island",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "abel-s-island",
+      "has_reactions": false
+    },
+    {
+      "id": "e921c578-a4ed-4b17-ba3a-e0254bf04d12",
+      "title": "The Hunt for Red October",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-hunt-for-red-october",
+      "has_reactions": true
+    },
+    {
+      "id": "a5b7dd8e-2951-48cf-ac74-9b33a0e06f12",
+      "title": "The Marzipan Pig",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-marzipan-pig",
+      "has_reactions": false
+    },
+    {
+      "id": "0ca59a94-dc31-491b-908a-792be26ba98b",
+      "title": "The Easter Story",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-easter-story",
+      "has_reactions": false
+    },
+    {
+      "id": "1e288f2c-b114-4a2b-9e82-3188b64f9b7d",
+      "title": "Oscar",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "oscar",
+      "has_reactions": false
+    },
+    {
+      "id": "7f6cd7a5-890a-425f-bbbc-3db25a988560",
+      "title": "Timeless Tales: The Steadfast Tin Soldier",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "timeless-tales-the-steadfast-tin-soldier",
+      "has_reactions": false
+    },
+    {
+      "id": "d31628b7-3cb7-481b-8a88-6325587d05f0",
+      "title": "Darkwing Duck: Darkly Dawns The Duck",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "darkwing-duck-darkly-dawns-the-duck",
+      "has_reactions": false
+    },
+    {
+      "id": "c99c4928-afa3-496a-a2e0-8e9278fb5269",
+      "title": "Home Alone 2: Lost in New York",
+      "release_year": 1992,
+      "studio_label": "20th Century Fox",
+      "slug": "home-alone-2-lost-in-new-york",
+      "has_reactions": true
+    },
+    {
+      "id": "d33a5bd1-ddad-487c-ac8c-d2d3d7b91030",
+      "title": "FernGully: The Last Rainforest",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "ferngully-the-last-rainforest",
+      "has_reactions": false
+    },
+    {
+      "id": "42921c0c-d396-4e22-8bb0-12b1a9bbf2f2",
+      "title": "Defenders of Dynatron City",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "defenders-of-dynatron-city",
+      "has_reactions": false
+    },
+    {
+      "id": "874f9b89-9c8a-4d4e-95af-374674b255c3",
+      "title": "Passed Away",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "passed-away",
+      "has_reactions": false
+    },
+    {
+      "id": "62841885-3841-4fe2-92f8-b9a6d16d1f68",
+      "title": "The Three Musketeers",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "259931b5-6d14-455e-a544-b99d5467a045",
+      "title": "Superhuman Samurai Syber-Squad: The Glitch That Stole Christmas",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "superhuman-samurai-syber-squad-the-glitch-that-stole-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "4036d5c5-a94c-46a1-8f0d-1fdc5672d631",
+      "title": "The Shadow",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-shadow",
+      "has_reactions": false
+    },
+    {
+      "id": "18299a03-a542-48bf-88c6-50931cc3cfa0",
+      "title": "Daisy-Head Mayzie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "daisy-head-mayzie",
+      "has_reactions": false
+    },
+    {
+      "id": "e139a283-cd32-4783-8d9c-3096e859ef67",
+      "title": "The Pebble and the Penguin",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-pebble-and-the-penguin",
+      "has_reactions": false
+    },
+    {
+      "id": "842aa460-8d61-440c-9ed0-9ad3f49234f2",
+      "title": "Muppet Treasure Island",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "muppet-treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "86023f8d-6002-4c07-ab21-da1273836507",
+      "title": "Lover's Knot",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "lover-s-knot",
+      "has_reactions": false
+    },
+    {
+      "id": "4c65d7c6-d1a0-4cf1-96f6-8fa5fdf946a9",
+      "title": "The Story of Santa Claus",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-santa-claus",
+      "has_reactions": false
+    },
+    {
+      "id": "65867440-77ff-4466-b43d-666e049acb9b",
+      "title": "A Christmas Carol",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "814c9322-0d3a-4bae-8209-4e8df8aa36a6",
+      "title": "Super Nova",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "super-nova",
+      "has_reactions": false
+    },
+    {
+      "id": "377d0478-9300-4cdf-a179-0c4be4cd5c26",
+      "title": "Bruno the Kid: The Animated Movie",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "bruno-the-kid-the-animated-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "66f5f901-421d-46a0-9a00-54153c97a2e6",
+      "title": "Addams Family Reunion",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "addams-family-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "dcad3336-7407-439e-b878-1f5b3c389b6d",
+      "title": "The Rugrats Movie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-rugrats-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "acfdf704-d3ce-4c09-8578-51c8eed615e3",
+      "title": "Bartok the Magnificent",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "bartok-the-magnificent",
+      "has_reactions": false
+    },
+    {
+      "id": "70184c98-2e5b-4b2e-b1a7-83bbb9a1096f",
+      "title": "Pirates of the Plain",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "pirates-of-the-plain",
+      "has_reactions": false
+    },
+    {
+      "id": "f117ebc6-ba2a-4a21-80fd-877f3344c860",
+      "title": "Behind the Music: The Rocky Horror Picture Show",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "behind-the-music-the-rocky-horror-picture-show",
+      "has_reactions": false
+    },
+    {
+      "id": "49964ae0-4906-4741-be8b-d66495c4abd8",
+      "title": "Charlie's Angels",
+      "release_year": 2000,
+      "studio_label": "Columbia Pictures",
+      "slug": "charlie-s-angels",
+      "has_reactions": true
+    },
+    {
+      "id": "969557fd-3c7b-4b34-9eb9-33c94becc9cf",
+      "title": "Four Dogs Playing Poker",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "four-dogs-playing-poker",
+      "has_reactions": false
+    },
+    {
+      "id": "254d36a2-7799-4cae-bdbe-7d5d137a5146",
+      "title": "Rugrats in Paris: The Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rugrats-in-paris-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "f4aa2885-8379-4458-9317-f3772ea49f99",
+      "title": "Sorted",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "sorted",
+      "has_reactions": false
+    },
+    {
+      "id": "d0e6231c-2031-43aa-afaf-3a1216f60616",
+      "title": "Lion of Oz",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lion-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "587f9f05-433f-4a4f-a308-20e66b21dd03",
+      "title": "The Wild Thornberrys: The Origin of Donnie",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-wild-thornberrys-the-origin-of-donnie",
+      "has_reactions": false
+    },
+    {
+      "id": "281431e6-f3d8-4643-bf16-221386c1ecf7",
+      "title": "Scary Movie 2",
+      "release_year": 2001,
+      "studio_label": "Brad Grey Pictures",
+      "slug": "scary-movie-2",
+      "has_reactions": true
+    },
+    {
+      "id": "ae66b56e-b670-4d2b-b1d6-ca5ecd1c671c",
+      "title": "Wolf Girl",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "wolf-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "b0c2537f-9622-46b5-b186-6f4f236b82b9",
+      "title": "Barbie in the Nutcracker",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "barbie-in-the-nutcracker",
+      "has_reactions": false
+    },
+    {
+      "id": "2a41ec7d-faf9-4cfd-a01b-264b41afa84a",
+      "title": "The Scoundrel's Wife",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-scoundrel-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "0074f984-1cf3-4d36-ba1a-c51bedc67c15",
+      "title": "I Love Muppets",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "i-love-muppets",
+      "has_reactions": false
+    },
+    {
+      "id": "5960a88b-d88f-4614-ad2d-77dfe9458cc5",
+      "title": "I, Crocodile",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "i-crocodile",
+      "has_reactions": false
+    },
+    {
+      "id": "99b88932-dace-4844-a66f-090989d2297f",
+      "title": "Creating a Myth... the Memories of 'Legend'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "creating-a-myth-the-memories-of-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "6e531ac0-1065-4755-b7f0-5d4ef1e3ad34",
+      "title": "The Not So Golden Calf: Commandments 1-2",
+      "release_year": 2003,
+      "studio_label": "NEST Family Entertainment",
+      "slug": "the-not-so-golden-calf-commandments-1-2",
+      "has_reactions": false
+    },
+    {
+      "id": "b9528b5a-f1a1-435f-9939-42dfaf960af9",
+      "title": "Mucha Lucha: The Return of El Malefico",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mucha-lucha-the-return-of-el-malefico",
+      "has_reactions": false
+    },
+    {
+      "id": "f24abc2d-4f73-454a-b3b8-e2980855b018",
+      "title": "Queer Duck: The Movie",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "queer-duck-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "310d895c-2576-4d3d-9b46-b75a4c8a77d1",
+      "title": "Little Miss Christmas",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "little-miss-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e23e1ea9-3d0d-41fb-8826-a33533658603",
+      "title": "Jimmy Timmy Power Hour 2: When Nerds Collide",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jimmy-timmy-power-hour-2-when-nerds-collide",
+      "has_reactions": false
+    },
+    {
+      "id": "378d9bd2-4616-49ef-a55d-496c56e6a23a",
+      "title": "A Sesame Street Christmas Carol",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "a-sesame-street-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "29572095-454a-4982-8da7-a81497fa7b84",
+      "title": "The Chosen One",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-chosen-one",
+      "has_reactions": false
+    },
+    {
+      "id": "87895461-0608-4c53-a8ea-02a5e698475d",
+      "title": "Christmas in Wonderland",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "christmas-in-wonderland",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d72342-0941-4611-b7c0-fcac561613f9",
+      "title": "Scooby-Doo! and the Goblin King",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-goblin-king",
+      "has_reactions": false
+    },
+    {
+      "id": "1be477f9-002c-4b16-baf1-6ab1784dfc8e",
+      "title": "Fly Me to the Moon",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "fly-me-to-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "5ffc53f0-6360-41fc-9c81-707c714f3633",
+      "title": "Barbie and the Three Musketeers",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "barbie-and-the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "99ef1183-f0eb-4d93-9b1c-e7ba61370226",
+      "title": "The Secret of Moonacre",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-secret-of-moonacre",
+      "has_reactions": false
+    },
+    {
+      "id": "6a958245-fcaa-4bc3-b769-50746307cba4",
+      "title": "Curious George 2: Follow That Monkey!",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "curious-george-2-follow-that-monkey",
+      "has_reactions": false
+    },
+    {
+      "id": "464b117c-302b-49c5-88c8-16e669676840",
+      "title": "The North Star",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-north-star",
+      "has_reactions": false
+    },
+    {
+      "id": "7dad2658-cccb-41d6-8a46-dd34b246da3f",
+      "title": "Burke & Hare",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "burke-hare",
+      "has_reactions": false
+    },
+    {
+      "id": "4cfe1ae3-ac31-4700-afff-0410f28b664c",
+      "title": "The Voyages of Young Doctor Dolittle",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-voyages-of-young-doctor-dolittle",
+      "has_reactions": false
+    },
+    {
+      "id": "5a0da434-438f-4b6d-a731-c27c7dc1bfe0",
+      "title": "The Outback",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-outback",
+      "has_reactions": false
+    },
+    {
+      "id": "7b7dd532-36ea-4a28-b5b4-1c3764e6ac31",
+      "title": "Strange Frame",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "strange-frame",
+      "has_reactions": false
+    },
+    {
+      "id": "94afc6fb-5f95-4ca8-8c3d-b65a3b878e13",
+      "title": "What About Dick?",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "what-about-dick",
+      "has_reactions": false
+    },
+    {
+      "id": "c8d25a33-519a-42f4-937a-80b3496a63c1",
+      "title": "Axel: The Biggest Little Hero",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "axel-the-biggest-little-hero",
+      "has_reactions": false
+    },
+    {
+      "id": "c674852f-f545-4ada-ab27-c763bfa95750",
+      "title": "Gingerclown",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "gingerclown",
+      "has_reactions": false
+    },
+    {
+      "id": "9d1787fd-3f6c-4fa4-8b2f-83bbb8f2100a",
+      "title": "Ribbit",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ribbit",
+      "has_reactions": false
+    },
+    {
+      "id": "d8030b51-1016-41af-b407-679296441cb8",
+      "title": "Meat Loaf: In and Out of Hell",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "meat-loaf-in-and-out-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "c1d8af4e-3f88-4682-b209-db84472d628e",
+      "title": "The Rocky Horror Picture Show: Let's Do the Time Warp Again",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-rocky-horror-picture-show-let-s-do-the-time-warp-again",
+      "has_reactions": false
+    },
+    {
+      "id": "4e47f118-4f49-4489-aa00-8217697d408a",
+      "title": "Rocky Horror 45: The Movie",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "rocky-horror-45-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "27d2b105-93fe-47ca-9183-8a2e10ef0587",
+      "title": "Meat Loaf - A Celebration Of Life",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "meat-loaf-a-celebration-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "b85d7fb7-608c-4187-8425-100793123f9d",
+      "title": "King on Screen",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "king-on-screen",
+      "has_reactions": false
+    },
+    {
+      "id": "b71c3fe9-47eb-4730-be27-fcf491e608ec",
+      "title": "Stream",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "stream",
+      "has_reactions": false
+    }
+  ]
+}

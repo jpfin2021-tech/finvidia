@@ -1,0 +1,600 @@
+{
+  "id": "a8b16b23-6210-43e5-a645-d55f0b99c0d8",
+  "name": "Robert Patrick",
+  "slug": "robert-patrick",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qRv2Es9rZoloullTbzss3I5j1Mp.jpg",
+  "filmography": [
+    {
+      "id": "27a77abd-4a61-48e5-9dc8-4259a05cf92f",
+      "title": "Future Hunters",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "future-hunters",
+      "has_reactions": false
+    },
+    {
+      "id": "541bd983-92c3-47ab-9168-ee5cafd46942",
+      "title": "Warlords from Hell",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "warlords-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "f1861b68-355f-4aae-a269-e872adbbe0cf",
+      "title": "Hollywood Boulevard II",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "hollywood-boulevard-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "395c4f13-203b-4b25-a45e-fc5236a32684",
+      "title": "Die Hard 2",
+      "release_year": 1990,
+      "studio_label": "Gordon Company",
+      "slug": "die-hard-2",
+      "has_reactions": true
+    },
+    {
+      "id": "12da38f9-2c2c-4ffc-83b5-9e161a2ff643",
+      "title": "Terminator 2: Judgment Day",
+      "release_year": 1991,
+      "studio_label": "Carolco Pictures",
+      "slug": "terminator-2-judgment-day",
+      "has_reactions": true
+    },
+    {
+      "id": "906897e7-0362-4193-a3fe-8819408f77dc",
+      "title": "Wayne's World",
+      "release_year": 1992,
+      "studio_label": "Paramount Pictures",
+      "slug": "wayne-s-world",
+      "has_reactions": true
+    },
+    {
+      "id": "6b143ac6-d2d1-4fd0-b8a5-838387472e45",
+      "title": "Fire in the Sky",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "fire-in-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "309d3b2c-6c51-4522-a640-3e6a6394c6e1",
+      "title": "Last Action Hero",
+      "release_year": 1993,
+      "studio_label": "Oak Productions",
+      "slug": "last-action-hero",
+      "has_reactions": true
+    },
+    {
+      "id": "1979bb7f-b87e-4cf6-afdd-7fcf7131f3e8",
+      "title": "The Cool Surface",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-cool-surface",
+      "has_reactions": false
+    },
+    {
+      "id": "b905702b-c66b-4ac3-bfc1-37d28fc54203",
+      "title": "Zero Tolerance",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "zero-tolerance",
+      "has_reactions": false
+    },
+    {
+      "id": "061d4f7e-32e9-4a97-887c-111608132861",
+      "title": "Hong Kong 97",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hong-kong-97",
+      "has_reactions": false
+    },
+    {
+      "id": "4c61ac61-e846-4016-b283-4577ab6a910d",
+      "title": "Body Language",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "body-language",
+      "has_reactions": false
+    },
+    {
+      "id": "597c6e54-6121-4fc5-941a-6053f57ab309",
+      "title": "Decoy",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "decoy",
+      "has_reactions": false
+    },
+    {
+      "id": "af11bf39-1ec2-408e-a0e5-892d567f8ad4",
+      "title": "Last Gasp",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "last-gasp",
+      "has_reactions": false
+    },
+    {
+      "id": "0e665962-d762-4ded-8c76-3a7a374934ed",
+      "title": "Striptease",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "striptease",
+      "has_reactions": false
+    },
+    {
+      "id": "8b38f6ef-0b55-439d-9dee-b06a86c45f7b",
+      "title": "Cop Land",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "cop-land",
+      "has_reactions": false
+    },
+    {
+      "id": "db53aeac-a3d0-4ec8-a6a0-e0378abf3731",
+      "title": "Asylum",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "asylum",
+      "has_reactions": false
+    },
+    {
+      "id": "f1ab9008-d045-4555-8c00-bb9bbea12da8",
+      "title": "The Only Thrill",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-only-thrill",
+      "has_reactions": false
+    },
+    {
+      "id": "5af6bce8-8302-49d0-b0fe-9e38239eb489",
+      "title": "Sink Or Swim",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "sink-or-swim",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fb41fd-4d9e-42e0-87aa-fd4f08304ab2",
+      "title": "The Faculty",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-faculty",
+      "has_reactions": false
+    },
+    {
+      "id": "3f7cfe45-d4dc-4e1d-aff2-026dd06a41bd",
+      "title": "Tactical Assault",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "tactical-assault",
+      "has_reactions": false
+    },
+    {
+      "id": "1546e93d-96e9-4df0-a376-f716b8d9485f",
+      "title": "Ambushed",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "ambushed",
+      "has_reactions": false
+    },
+    {
+      "id": "6bb05994-6861-4953-8197-b0cc00262d56",
+      "title": "Rag and Bone",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "rag-and-bone",
+      "has_reactions": false
+    },
+    {
+      "id": "5935bfd9-7ce1-40ac-bd22-bd101c88efab",
+      "title": "From Dusk Till Dawn 2: Texas Blood Money",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "from-dusk-till-dawn-2-texas-blood-money",
+      "has_reactions": false
+    },
+    {
+      "id": "14a33bbe-b4ce-448b-9de8-d8eadf410c26",
+      "title": "The Vivero Letter",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-vivero-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "95ac067d-7129-4481-aeaf-0e86a4e78c59",
+      "title": "Mexico City",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mexico-city",
+      "has_reactions": false
+    },
+    {
+      "id": "8d0010c1-ca05-4c8d-a2b4-af7e302d2b11",
+      "title": "Texas Rangers",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "texas-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "81dc053d-4def-4f8a-96c0-1ba630978a09",
+      "title": "Spy Kids",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "spy-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "922a613d-16a5-43ba-b69a-20784be8c054",
+      "title": "Backflash",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "backflash",
+      "has_reactions": false
+    },
+    {
+      "id": "baa6a0f5-6b6c-49fd-90ee-106441977b80",
+      "title": "Ticker",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ticker",
+      "has_reactions": false
+    },
+    {
+      "id": "e17ff259-ed2d-4f54-a61b-3243dc6e56d8",
+      "title": "First to Die",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "first-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "ce96a8c0-48ff-456a-82fd-4102d502c94c",
+      "title": "Ladder 49",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ladder-49",
+      "has_reactions": false
+    },
+    {
+      "id": "dab3591b-e76e-489c-a563-906573e35c5d",
+      "title": "Bad Apple",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "bad-apple",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d36a82-53d1-4c18-84c4-060ecdd8abc2",
+      "title": "Supercross",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "supercross",
+      "has_reactions": false
+    },
+    {
+      "id": "1c5b6616-e7da-4fb5-b795-4f45d4783715",
+      "title": "Firewall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "firewall",
+      "has_reactions": false
+    },
+    {
+      "id": "ec7edd10-389d-407b-b6d4-44cc1bcb35fd",
+      "title": "The Marine",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-marine",
+      "has_reactions": false
+    },
+    {
+      "id": "f285f741-2d45-491f-8b62-b61e65bddcc5",
+      "title": "Flags of Our Fathers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "flags-of-our-fathers",
+      "has_reactions": false
+    },
+    {
+      "id": "39733eaf-2245-46e3-b47a-a97b740dd477",
+      "title": "The Making of 'The Marine'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-marine",
+      "has_reactions": false
+    },
+    {
+      "id": "5d9f6e6a-5cf9-47ce-9595-2b837cd22afb",
+      "title": "We Are Marshall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "we-are-marshall",
+      "has_reactions": false
+    },
+    {
+      "id": "a0d80696-134d-49c0-bc46-7718773ca0d3",
+      "title": "Bridge to Terabithia",
+      "release_year": 2007,
+      "studio_label": "Lauren Levine Productions Inc.",
+      "slug": "bridge-to-terabithia",
+      "has_reactions": true
+    },
+    {
+      "id": "f2b42c74-c6a1-4df0-b28e-ea59dec37a6a",
+      "title": "Autopsy",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "autopsy",
+      "has_reactions": false
+    },
+    {
+      "id": "54bf25f5-70ae-456e-b397-94f91fde68dc",
+      "title": "Strange Wilderness",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "strange-wilderness",
+      "has_reactions": false
+    },
+    {
+      "id": "1be477f9-002c-4b16-baf1-6ab1784dfc8e",
+      "title": "Fly Me to the Moon",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "fly-me-to-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "9dd74633-ca45-48f5-b1e5-cf08308f3826",
+      "title": "Alien Trespass",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "alien-trespass",
+      "has_reactions": false
+    },
+    {
+      "id": "e923d3b1-26c4-42fc-9c6c-29cbae33a8d7",
+      "title": "The Men Who Stare at Goats",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-men-who-stare-at-goats",
+      "has_reactions": false
+    },
+    {
+      "id": "3b9d0f73-7032-4812-b200-a3218347e73e",
+      "title": "Kill Speed",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kill-speed",
+      "has_reactions": false
+    },
+    {
+      "id": "7cd0d56a-3bbe-4ea0-93ee-085be00bd91f",
+      "title": "The Black Waters of Echo's Pond",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-black-waters-of-echo-s-pond",
+      "has_reactions": false
+    },
+    {
+      "id": "b647c068-c164-43fb-ab0e-ced65f1146c2",
+      "title": "The Wrath of Cain",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-wrath-of-cain",
+      "has_reactions": false
+    },
+    {
+      "id": "6881916c-f843-41f1-b097-815ec734adb4",
+      "title": "Five Minarets in New York",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "five-minarets-in-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "371182e8-1a06-4a9a-ba01-37eb9bb34b9a",
+      "title": "Good Day for It",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "good-day-for-it",
+      "has_reactions": false
+    },
+    {
+      "id": "fe3572d7-3666-4658-a4bf-4344daa19dba",
+      "title": "Red Faction: Origins",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "red-faction-origins",
+      "has_reactions": false
+    },
+    {
+      "id": "5f3e1035-ef91-4931-9269-b11bc3b244b1",
+      "title": "Mafia",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mafia",
+      "has_reactions": false
+    },
+    {
+      "id": "21caed79-b6e7-4d7e-837b-a6668cc8e5c1",
+      "title": "D-Minus",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "d-minus",
+      "has_reactions": false
+    },
+    {
+      "id": "1c897903-23d2-4faa-9e96-6ddd9119bf74",
+      "title": "Safe House",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "safe-house",
+      "has_reactions": false
+    },
+    {
+      "id": "425b1d5b-cb14-4317-a7c6-5ec844c8e536",
+      "title": "Lovelace",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "lovelace",
+      "has_reactions": false
+    },
+    {
+      "id": "d4f2b85f-a417-4a05-ad8a-f28da2b79591",
+      "title": "Identity Thief",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "identity-thief",
+      "has_reactions": false
+    },
+    {
+      "id": "42bd349a-b30f-40a4-a8e0-359ee74be011",
+      "title": "Ask Me Anything",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "ask-me-anything",
+      "has_reactions": false
+    },
+    {
+      "id": "e33a3b83-206a-4b3f-8263-660ddd61c1c8",
+      "title": "Holbrook/Twain: An American Odyssey",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "holbrook-twain-an-american-odyssey",
+      "has_reactions": false
+    },
+    {
+      "id": "b389767c-b8f0-4edb-879b-d777d7653219",
+      "title": "Endless Love",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "endless-love",
+      "has_reactions": false
+    },
+    {
+      "id": "7128e0ce-8aa4-4394-9098-b0bd2377bcae",
+      "title": "Lost After Dark",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "lost-after-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "ca745412-bebb-4151-aa67-c21b6211ca4b",
+      "title": "Hollywood Adventures",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hollywood-adventures",
+      "has_reactions": false
+    },
+    {
+      "id": "24fc983d-c2d3-43c2-a028-d6af81f1770b",
+      "title": "Hellions",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "hellions",
+      "has_reactions": false
+    },
+    {
+      "id": "37fe85e9-cfe6-4cd8-ab51-08fe2dc5f2c9",
+      "title": "Sinatra 100: An All-Star Grammy Concert",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "sinatra-100-an-all-star-grammy-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "db58a125-8eb7-4061-9274-051ce80c99bc",
+      "title": "Street Level",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "street-level",
+      "has_reactions": false
+    },
+    {
+      "id": "f660e484-11e4-4f74-9e9f-7434315df5de",
+      "title": "Eloise",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "eloise",
+      "has_reactions": false
+    },
+    {
+      "id": "91b36179-1d2f-4b17-928f-59c0600f0380",
+      "title": "Last Rampage",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "last-rampage",
+      "has_reactions": false
+    },
+    {
+      "id": "4ae31989-e0e7-4312-973c-994724c273ca",
+      "title": "T2: Reprogramming The Terminator",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "t2-reprogramming-the-terminator",
+      "has_reactions": false
+    },
+    {
+      "id": "e29a4d41-ca27-467d-9249-ead3ac53303d",
+      "title": "The Poison Rose",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-poison-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "818ce9f0-027e-47d4-a22f-fb37a83d12c5",
+      "title": "Back Roads",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "back-roads",
+      "has_reactions": false
+    },
+    {
+      "id": "b26e87ff-cda2-4117-a63a-c7b0baf08171",
+      "title": "The Laundromat",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-laundromat",
+      "has_reactions": false
+    },
+    {
+      "id": "a05392ee-8cda-4641-8af8-27771e7ac79b",
+      "title": "Troubled Waters",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "troubled-waters",
+      "has_reactions": false
+    },
+    {
+      "id": "d3d0dd62-fadb-4eb3-a74c-9b305d0bf21a",
+      "title": "Dark Asset",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dark-asset",
+      "has_reactions": false
+    },
+    {
+      "id": "04585909-2bfb-47ba-9551-11d11d4785c8",
+      "title": "Shelter in Solitude",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "shelter-in-solitude",
+      "has_reactions": false
+    },
+    {
+      "id": "68b3e283-361f-409d-b6e4-fa031a98b078",
+      "title": "Hounds of War",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hounds-of-war",
+      "has_reactions": false
+    }
+  ]
+}

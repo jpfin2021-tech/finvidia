@@ -1,0 +1,592 @@
+{
+  "id": "7ec4e1e2-2005-4560-b7ed-548191f4452d",
+  "name": "Kengo Kora",
+  "slug": "kengo-kora",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg",
+  "filmography": [
+    {
+      "id": "6a7ff323-00a1-439a-9563-0121a7d057e5",
+      "title": "M",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "m",
+      "has_reactions": false
+    },
+    {
+      "id": "325a1802-214d-4d92-87e2-5b0e08420c3a",
+      "title": "Riding the Metro",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "riding-the-metro",
+      "has_reactions": false
+    },
+    {
+      "id": "f34416f3-a49d-48f0-ae78-d2059071fcf8",
+      "title": "The Summer of Stickleback",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-summer-of-stickleback",
+      "has_reactions": false
+    },
+    {
+      "id": "99aa0ded-8fbe-49cc-9e4a-d63797f37b97",
+      "title": "Sad Vacation",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "sad-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "f5f64f45-797a-4c03-ae2b-67931d15a705",
+      "title": "Fuckin' Runaway",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fuckin-runaway",
+      "has_reactions": false
+    },
+    {
+      "id": "a90d7f90-030d-4067-94c8-8fdc923fe5de",
+      "title": "Snakes and Earrings",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "snakes-and-earrings",
+      "has_reactions": false
+    },
+    {
+      "id": "06c27cbf-d27c-4a06-bd73-0a3304df1541",
+      "title": "108",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "108",
+      "has_reactions": false
+    },
+    {
+      "id": "52ecc8d0-32a9-43be-bd77-18ba91dfd1fb",
+      "title": "Fish Story",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "fish-story",
+      "has_reactions": false
+    },
+    {
+      "id": "2065804c-7308-4765-b31a-ad20d9622dc5",
+      "title": "Kanik\u00f4sen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "kanik-sen",
+      "has_reactions": false
+    },
+    {
+      "id": "e1ac61f5-9556-405c-8c41-428a8b404854",
+      "title": "Zen",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "zen",
+      "has_reactions": false
+    },
+    {
+      "id": "02748973-c1ad-4d8b-8929-9d8cd59655bc",
+      "title": "The Chef of South Polar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-chef-of-south-polar",
+      "has_reactions": false
+    },
+    {
+      "id": "c92c783a-3f89-4b6d-b6ea-907cb0948aca",
+      "title": "The Vulture",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-vulture",
+      "has_reactions": false
+    },
+    {
+      "id": "6a31339a-a327-457d-831e-7b5360eafe44",
+      "title": "We'll Keep Walking, That's All",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "we-ll-keep-walking-that-s-all",
+      "has_reactions": false
+    },
+    {
+      "id": "b0078c2d-fbba-477c-9b2f-4f15a2a8067f",
+      "title": "Norwegian Wood",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "norwegian-wood",
+      "has_reactions": false
+    },
+    {
+      "id": "b4fd8e56-d9d4-4684-9edb-4c4751359a0c",
+      "title": "A Crowd of Three",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "a-crowd-of-three",
+      "has_reactions": false
+    },
+    {
+      "id": "d454fa1a-5e24-428e-b87e-9941729bee38",
+      "title": "Solanin",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "solanin",
+      "has_reactions": false
+    },
+    {
+      "id": "5ec5a9d2-2631-4c8e-886b-bc0873dfd826",
+      "title": "Women Play Twice",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "women-play-twice",
+      "has_reactions": false
+    },
+    {
+      "id": "f0d5922f-dd01-422b-ad0b-5c619872bedb",
+      "title": "Bandage",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "bandage",
+      "has_reactions": false
+    },
+    {
+      "id": "f1f0ad07-1538-4dc9-b346-9ca9f37c73d5",
+      "title": "Fireworks from the Heart",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "fireworks-from-the-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "3e51018b-0442-48a5-a854-e16b23db16b7",
+      "title": "The Lightning Tree",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-lightning-tree",
+      "has_reactions": false
+    },
+    {
+      "id": "8dd31e27-3558-46ad-9528-0b975106351a",
+      "title": "Box!",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "box",
+      "has_reactions": false
+    },
+    {
+      "id": "a038e684-352b-49c7-8b24-754568f4c253",
+      "title": "The Egoists",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-egoists",
+      "has_reactions": false
+    },
+    {
+      "id": "cc0b5963-4b49-40b8-bec2-88ba7f0805d0",
+      "title": "Tada's Do-It-All House",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "tada-s-do-it-all-house",
+      "has_reactions": false
+    },
+    {
+      "id": "84ea0fcf-8686-425b-a24b-b4e11d42b6d8",
+      "title": "The Drudgery Train",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-drudgery-train",
+      "has_reactions": false
+    },
+    {
+      "id": "811c9e25-4dba-44b4-9a1b-92d731a8b657",
+      "title": "The Woodsman and the Rain",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-woodsman-and-the-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "3cfd7161-4a87-49bf-9a55-f6a4c101c780",
+      "title": "Signal",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "signal",
+      "has_reactions": false
+    },
+    {
+      "id": "2b902aa2-5c9a-449e-827d-b38d408b5291",
+      "title": "The Millennial Rapture",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-millennial-rapture",
+      "has_reactions": false
+    },
+    {
+      "id": "9e8f01f2-b765-4ef0-bf0c-b77113f1e0d9",
+      "title": "A Story of Yonosuke",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-story-of-yonosuke",
+      "has_reactions": false
+    },
+    {
+      "id": "9a66e9c7-7c97-429d-9807-cf3628c1f6a3",
+      "title": "Beyond the Memories",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "72ad2c47-dcd6-4a8f-b57e-dbbae9c4f4e2",
+      "title": "RoomMate",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "roommate",
+      "has_reactions": false
+    },
+    {
+      "id": "b11c1680-89ee-4c9f-bf9b-462b3a5f90b7",
+      "title": "A Tale of Samurai Cooking",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "a-tale-of-samurai-cooking",
+      "has_reactions": false
+    },
+    {
+      "id": "c5d39cd3-6883-4101-b45b-c71a4e1b9862",
+      "title": "The Tale of The Princess Kaguya",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-tale-of-the-princess-kaguya",
+      "has_reactions": false
+    },
+    {
+      "id": "4b7db4cb-523d-4f9c-8514-bd4a3629e6e0",
+      "title": "Hospitality Department",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "hospitality-department",
+      "has_reactions": false
+    },
+    {
+      "id": "8918d987-3fd5-4639-b578-2fdaba557cb9",
+      "title": "The Extreme Sukiyaki",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-extreme-sukiyaki",
+      "has_reactions": false
+    },
+    {
+      "id": "bcdb1b21-ee11-464b-9e2f-807faeb17cc0",
+      "title": "Yellow Elephant",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "yellow-elephant",
+      "has_reactions": false
+    },
+    {
+      "id": "26d92f20-9f2f-461a-bc20-b38f79004bf1",
+      "title": "Disconcerto",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "disconcerto",
+      "has_reactions": false
+    },
+    {
+      "id": "59e23a1d-f546-497b-a423-461a3e98a135",
+      "title": "Isao Takahata and His Tale of The Princess Kaguya",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "isao-takahata-and-his-tale-of-the-princess-kaguya",
+      "has_reactions": false
+    },
+    {
+      "id": "78979079-f21f-4a1f-82cf-d03c4a0904c1",
+      "title": "My Man",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "my-man",
+      "has_reactions": false
+    },
+    {
+      "id": "5d78efd1-2a97-470e-bca9-891baafda4b3",
+      "title": "The Mourner",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-mourner",
+      "has_reactions": false
+    },
+    {
+      "id": "31b353e1-8c69-4131-8fb5-fd84d40f8c3e",
+      "title": "Miss Hokusai",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "miss-hokusai",
+      "has_reactions": false
+    },
+    {
+      "id": "148614a2-e8a0-498b-9d69-e7a3e47d0a77",
+      "title": "Being Good",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "being-good",
+      "has_reactions": false
+    },
+    {
+      "id": "835fa3b5-c291-46c5-b01d-c64eaed2cf31",
+      "title": "Shin Godzilla",
+      "release_year": 2016,
+      "studio_label": "Toho Pictures",
+      "slug": "shin-godzilla",
+      "has_reactions": true
+    },
+    {
+      "id": "d201c697-35a4-4be0-bd3a-c34c54973ca5",
+      "title": "Bitter Honey",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "bitter-honey",
+      "has_reactions": false
+    },
+    {
+      "id": "d30947ad-983d-4908-a93f-88961d2a64e9",
+      "title": "The Gift of Memory",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-gift-of-memory",
+      "has_reactions": false
+    },
+    {
+      "id": "21718480-9f3e-4c1b-bf9a-ed8e9a4d9d3e",
+      "title": "Side Job",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "side-job",
+      "has_reactions": false
+    },
+    {
+      "id": "f5e761d5-c759-455b-b9b2-db7cabb3a896",
+      "title": "Moon and Thunder",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "moon-and-thunder",
+      "has_reactions": false
+    },
+    {
+      "id": "a43ec45f-d3e1-4fb0-b636-101ba9ea03dc",
+      "title": "Dare to Stop Us",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "dare-to-stop-us",
+      "has_reactions": false
+    },
+    {
+      "id": "861ba535-acc7-4611-a522-179c301fe673",
+      "title": "Utsukushii hito saba?",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "utsukushii-hito-saba",
+      "has_reactions": false
+    },
+    {
+      "id": "c53b0f00-aa67-4810-827e-df88f5d8e16f",
+      "title": "Natsume's Book of Friends the Movie: Ephemeral Bond",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "natsume-s-book-of-friends-the-movie-ephemeral-bond",
+      "has_reactions": false
+    },
+    {
+      "id": "ff07a82e-bad1-48ef-9e06-78ab23284204",
+      "title": "Under Your Bed",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "under-your-bed",
+      "has_reactions": false
+    },
+    {
+      "id": "01b48197-e6d1-4810-84b5-3cc7a450a643",
+      "title": "Wolf's Calling",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "wolf-s-calling",
+      "has_reactions": false
+    },
+    {
+      "id": "256a3707-ac9d-4c25-a164-27f8b5d983e8",
+      "title": "No Longer Human",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "no-longer-human",
+      "has_reactions": false
+    },
+    {
+      "id": "462a8a08-1dfa-4b89-907d-d2ae3e1d7857",
+      "title": "Talking the Pictures",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "talking-the-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "9a5f4538-bc81-42a4-8c1c-8d3e1c537ae2",
+      "title": "Love's Twisting Path",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "love-s-twisting-path",
+      "has_reactions": false
+    },
+    {
+      "id": "1d8cee27-62f4-4b63-ba28-74bc388bc3e2",
+      "title": "The Master of Funerals",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-master-of-funerals",
+      "has_reactions": false
+    },
+    {
+      "id": "a208ed8c-d2c8-4ec8-895d-25941a81ee3a",
+      "title": "Town Without Sea",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "town-without-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "afb99c7b-b604-45a3-81ed-177cc22a15ea",
+      "title": "Child of the Stars",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "child-of-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "6a22dbc2-58d0-42ab-9dd6-e62ed5d15a06",
+      "title": "London no Yamamoto Isoroku",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "london-no-yamamoto-isoroku",
+      "has_reactions": false
+    },
+    {
+      "id": "7cb21b50-02cd-492c-8dd6-d9fb4799a023",
+      "title": "Aristocrats",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "aristocrats",
+      "has_reactions": false
+    },
+    {
+      "id": "90ac7bbb-423b-4185-84fc-d76b37b98d64",
+      "title": "Remain In Twilight",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "remain-in-twilight",
+      "has_reactions": false
+    },
+    {
+      "id": "a662a839-6698-4362-ba78-a3a703fe33d9",
+      "title": "Photograph of Memories",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "photograph-of-memories",
+      "has_reactions": false
+    },
+    {
+      "id": "b5d44374-9d17-426e-b739-c41d8d0d189c",
+      "title": "Snow Country",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "snow-country",
+      "has_reactions": false
+    },
+    {
+      "id": "97516ae0-c181-4c3a-b891-9c7466eb14d3",
+      "title": "The Three Sisters of Tenmasou Inn",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-three-sisters-of-tenmasou-inn",
+      "has_reactions": false
+    },
+    {
+      "id": "c6ec0476-4d7f-4964-acfd-e9b9e672bb38",
+      "title": "BiSH presents PCR is PAiPAi CHiNCHiN ROCK'N'ROLL",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "bish-presents-pcr-is-paipai-chinchin-rock-n-roll",
+      "has_reactions": false
+    },
+    {
+      "id": "6f4661ae-4c80-4470-aa1c-c36a3e785d2f",
+      "title": "The Water Flows to the Sea",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-water-flows-to-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "761f2573-ea74-4208-8bc8-e623e16a79ba",
+      "title": "G-Men",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "g-men",
+      "has_reactions": false
+    },
+    {
+      "id": "453c4243-31ac-4a34-81a6-3114a4b0ff0a",
+      "title": "The War of Announcers",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-war-of-announcers",
+      "has_reactions": false
+    },
+    {
+      "id": "358cc9b6-0f5e-4ee3-988d-7f2d3955b636",
+      "title": "Masked Hearts",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "masked-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "6654c85c-5313-4685-b52c-31902e22f7e7",
+      "title": "Sin and Evil",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "sin-and-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "a6f10f17-5b39-4185-bfac-e2bee7c7238c",
+      "title": "Route29",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "route29",
+      "has_reactions": false
+    },
+    {
+      "id": "d0a55b98-fc90-4107-b783-d1387177495f",
+      "title": "Rainy Blue",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "rainy-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "0ca4972a-6676-4414-aef5-8b57f32fc821",
+      "title": "Seaside Serendipity",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "seaside-serendipity",
+      "has_reactions": false
+    },
+    {
+      "id": "95adb4a0-6e9b-47e9-9472-e0d2c21d45ed",
+      "title": "BREAK SHOT",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "break-shot",
+      "has_reactions": false
+    }
+  ]
+}

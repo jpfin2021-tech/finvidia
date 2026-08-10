@@ -1,0 +1,592 @@
+{
+  "id": "fe8029fc-32c5-45ac-9aca-1492f1b257b6",
+  "name": "Orson Welles",
+  "slug": "orson-welles",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+  "filmography": [
+    {
+      "id": "6d84d2bc-d96b-47e3-8411-5144562823d7",
+      "title": "The Spanish Earth",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "the-spanish-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "ce0e6177-f560-40d1-85c5-d51a240cc17f",
+      "title": "Citizen Kane",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "citizen-kane",
+      "has_reactions": false
+    },
+    {
+      "id": "a4fb2f71-69df-4e2c-a636-b56cc07a3337",
+      "title": "The Magnificent Ambersons",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-magnificent-ambersons",
+      "has_reactions": false
+    },
+    {
+      "id": "8369be67-4112-482a-b970-92fb917cb89e",
+      "title": "Journey into Fear",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "journey-into-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "cc6fb15c-890b-4c46-ba10-a5e56f5fa481",
+      "title": "The Stranger",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "the-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "88d8359d-6015-410c-89f9-d3503ad7bb84",
+      "title": "The Lady from Shanghai",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "the-lady-from-shanghai",
+      "has_reactions": false
+    },
+    {
+      "id": "f2a7c42b-5326-4134-942a-ac4923a63c59",
+      "title": "Macbeth",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "macbeth",
+      "has_reactions": false
+    },
+    {
+      "id": "1133ae12-7c27-4114-bea2-d32574f92c95",
+      "title": "Prince of Foxes",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "prince-of-foxes",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a5aee2-ada8-4e70-95dc-2a2cdc4ac366",
+      "title": "The Third Man",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-third-man",
+      "has_reactions": false
+    },
+    {
+      "id": "0be675a7-9067-4020-9968-04d35ec1714a",
+      "title": "Black Magic",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "black-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "1481a0c1-49a1-477e-8627-b80eef84623a",
+      "title": "Othello",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "othello",
+      "has_reactions": false
+    },
+    {
+      "id": "25810120-29dd-4f0e-997b-a8235ed25f68",
+      "title": "Return to Glennascaul",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "return-to-glennascaul",
+      "has_reactions": false
+    },
+    {
+      "id": "a0a5432a-a4f5-4d55-af32-579f8b9b9cb1",
+      "title": "Trent's Last Case",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "trent-s-last-case",
+      "has_reactions": false
+    },
+    {
+      "id": "60bc860b-e69f-4f40-bc89-c549c5daeada",
+      "title": "Man, Beast and Virtue",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "man-beast-and-virtue",
+      "has_reactions": false
+    },
+    {
+      "id": "8c58919f-2e6c-4f87-b746-2969add96d21",
+      "title": "Royal Affairs in Versailles",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "royal-affairs-in-versailles",
+      "has_reactions": false
+    },
+    {
+      "id": "7af5f3f5-af4f-4f2f-8652-de9bef7a3cf0",
+      "title": "Trouble in the Glen",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "trouble-in-the-glen",
+      "has_reactions": false
+    },
+    {
+      "id": "46cc97b0-8211-4021-8dc3-c5f6bb8ed661",
+      "title": "Mr. Arkadin",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "mr-arkadin",
+      "has_reactions": false
+    },
+    {
+      "id": "e2f24e97-99e4-471c-afab-0d45674351c0",
+      "title": "Three Cases of Murder",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "three-cases-of-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "93551571-13a6-4408-b32c-8a23e92487ee",
+      "title": "Touch of Evil",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "touch-of-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "c60c7ace-e277-4c78-95f6-be7214d9a024",
+      "title": "The Fountain of Youth",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "the-fountain-of-youth",
+      "has_reactions": false
+    },
+    {
+      "id": "40665f13-7679-4d62-916c-d9e04cc67ba3",
+      "title": "David and Goliath",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "david-and-goliath",
+      "has_reactions": false
+    },
+    {
+      "id": "e4c98998-ec70-4b25-a15e-00b03a308d67",
+      "title": "The Trial",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "the-trial",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b1520b-26d0-4261-b524-1d2604274440",
+      "title": "Ro.Go.Pa.G.",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "ro-go-pa-g",
+      "has_reactions": false
+    },
+    {
+      "id": "45121c65-3c8f-41d0-a71f-bb8c278e9540",
+      "title": "The V.I.P.s",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-v-i-p-s",
+      "has_reactions": false
+    },
+    {
+      "id": "cc89bd14-1dec-4839-bef1-544bc1727c6b",
+      "title": "Miss Goodall and the Wild Chimpanzees",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "miss-goodall-and-the-wild-chimpanzees",
+      "has_reactions": false
+    },
+    {
+      "id": "90ca4086-f7cc-402e-8433-be55e7e9b7d7",
+      "title": "Marco the Magnificent",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "marco-the-magnificent",
+      "has_reactions": false
+    },
+    {
+      "id": "1cc1264f-57bb-4fe0-b373-8ec520e6d680",
+      "title": "A Man for All Seasons",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "a-man-for-all-seasons",
+      "has_reactions": false
+    },
+    {
+      "id": "8dfac658-5fd5-4a88-9940-b480a9d31473",
+      "title": "Is Paris Burning?",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "is-paris-burning",
+      "has_reactions": false
+    },
+    {
+      "id": "7a6ada5f-f833-4c05-b362-6d28f14cd0ea",
+      "title": "House of Cards",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "house-of-cards",
+      "has_reactions": false
+    },
+    {
+      "id": "b7621170-ce83-4a22-b603-47c8035a8dea",
+      "title": "The Immortal Story",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-immortal-story",
+      "has_reactions": false
+    },
+    {
+      "id": "c62219f1-9b7f-4b89-bf7d-570215f845dc",
+      "title": "Tepepa",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "tepepa",
+      "has_reactions": false
+    },
+    {
+      "id": "6d6d463d-6351-42ff-9fcf-dd369ed7616f",
+      "title": "The Battle of Neretva",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-battle-of-neretva",
+      "has_reactions": false
+    },
+    {
+      "id": "9cc7f4bc-3fc9-47be-838f-32b6285149ae",
+      "title": "Twelve Plus One",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "twelve-plus-one",
+      "has_reactions": false
+    },
+    {
+      "id": "fb9c4034-cab3-49d5-ae05-6ba7b512a5db",
+      "title": "The Kremlin Letter",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-kremlin-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "8d714426-17dc-4a7c-8d73-e6ba0c9610e4",
+      "title": "Is It Always Right to Be Right?",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "is-it-always-right-to-be-right",
+      "has_reactions": false
+    },
+    {
+      "id": "782c18c1-f1c3-4a14-955e-b2fecf4925b0",
+      "title": "A Safe Place",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "a-safe-place",
+      "has_reactions": false
+    },
+    {
+      "id": "c4e83d69-014d-4d57-b91b-fd591c1658db",
+      "title": "Ten Days' Wonder",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "ten-days-wonder",
+      "has_reactions": false
+    },
+    {
+      "id": "72425589-1198-413b-bf4e-8770dfce64d1",
+      "title": "Future Shock",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "future-shock",
+      "has_reactions": false
+    },
+    {
+      "id": "69179d25-a244-4ce5-8eac-37626e5edb9a",
+      "title": "Necromancy",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "necromancy",
+      "has_reactions": false
+    },
+    {
+      "id": "82451df5-269a-4760-bc9e-ba599299ef50",
+      "title": "Malpertuis",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "malpertuis",
+      "has_reactions": false
+    },
+    {
+      "id": "2975e2d5-b560-422c-8cfc-b5d82b6eca43",
+      "title": "Treasure Island",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "51289e89-4d74-47b9-bb1e-5195bc62f29e",
+      "title": "F for Fake",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "f-for-fake",
+      "has_reactions": false
+    },
+    {
+      "id": "039a8338-1feb-49fc-aa1b-8c8dc4c6388b",
+      "title": "The Cave: a parable told by Orson Welles",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-cave-a-parable-told-by-orson-welles",
+      "has_reactions": false
+    },
+    {
+      "id": "49e4457a-c499-4718-b39b-59e74451bd8e",
+      "title": "And Then There Were None",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "and-then-there-were-none",
+      "has_reactions": false
+    },
+    {
+      "id": "66ceb078-dc86-4007-bb1d-5302858b27ed",
+      "title": "Rikki-Tikki-Tavi",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "rikki-tikki-tavi",
+      "has_reactions": false
+    },
+    {
+      "id": "72cb5e9a-9619-4ee6-9b66-5a0091453f05",
+      "title": "Voyage of the Damned",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "voyage-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "e616775d-435d-42cd-a0d9-d1cbffb99da2",
+      "title": "Hot Tomorrows",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "hot-tomorrows",
+      "has_reactions": false
+    },
+    {
+      "id": "350b7389-04fb-4191-a40f-ed26fd8fb524",
+      "title": "The Force Beyond",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-force-beyond",
+      "has_reactions": false
+    },
+    {
+      "id": "9cb584af-3e04-400d-a12f-a5388c041463",
+      "title": "The Biggest Battle",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-biggest-battle",
+      "has_reactions": false
+    },
+    {
+      "id": "4bd12ae5-f04a-46b5-8056-42a968f367a5",
+      "title": "Mysterious Castles of Clay",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "mysterious-castles-of-clay",
+      "has_reactions": false
+    },
+    {
+      "id": "e3d027d9-e7f7-402f-97a8-f4f17d0685b3",
+      "title": "The Late Great Planet Earth",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-late-great-planet-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "3a442c18-20b4-4ee2-bf97-a67de4234426",
+      "title": "Filming Othello",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "filming-othello",
+      "has_reactions": false
+    },
+    {
+      "id": "41028a6f-9845-40cd-a24c-7ea4a9f3e9e9",
+      "title": "History of the World: Part I",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "history-of-the-world-part-i",
+      "has_reactions": false
+    },
+    {
+      "id": "01fe5aaf-7e2c-4a6d-bb83-50ea5d660671",
+      "title": "The Man Who Saw Tomorrow",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-saw-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "6ddb6cb1-235f-406b-a775-e7f25fe7f8de",
+      "title": "Slapstick of Another Kind",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "slapstick-of-another-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "dbd618b8-94ed-4675-aec8-8f79bb53515c",
+      "title": "The Witching",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-witching",
+      "has_reactions": false
+    },
+    {
+      "id": "c7302f2e-7f99-442b-a776-ac300a49d1a0",
+      "title": "Hot Money",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hot-money",
+      "has_reactions": false
+    },
+    {
+      "id": "f80d3c37-2d52-405a-a98d-231363f19288",
+      "title": "The Road to Bresson",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-bresson",
+      "has_reactions": false
+    },
+    {
+      "id": "8d4f5a2a-a0cd-401c-ac0d-4162a81e2313",
+      "title": "The Transformers: The Movie",
+      "release_year": 1986,
+      "studio_label": "Marvel Productions",
+      "slug": "the-transformers-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "5828455d-bb93-4dcf-b4a5-5205b0a0f9eb",
+      "title": "Someone to Love",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "someone-to-love",
+      "has_reactions": false
+    },
+    {
+      "id": "299c4751-f6ed-429e-a4ce-3eac830b24f4",
+      "title": "Welles' Language",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "welles-language",
+      "has_reactions": false
+    },
+    {
+      "id": "bf5c358c-d2a1-4fa4-916e-406c3031b962",
+      "title": "Don Quixote",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "don-quixote",
+      "has_reactions": false
+    },
+    {
+      "id": "a4d825fa-e161-42b1-9716-b70ebd0ad734",
+      "title": "Orson Welles: The One-Man Band",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "orson-welles-the-one-man-band",
+      "has_reactions": false
+    },
+    {
+      "id": "f4e8a0b2-1dd9-4dc9-8b9e-c09ddb28fab4",
+      "title": "Celebra\u00e7\u00e3o - 100 Anos do Cinema Nacional",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "celebra-o-100-anos-do-cinema-nacional",
+      "has_reactions": false
+    },
+    {
+      "id": "e14d7718-38c2-4a20-a1a5-2f6698987f78",
+      "title": "It's All Brazil",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "it-s-all-brazil",
+      "has_reactions": false
+    },
+    {
+      "id": "3adda113-a7f1-4cf3-9cc2-d6b147e4703c",
+      "title": "According to Occam's Razor",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "according-to-occam-s-razor",
+      "has_reactions": false
+    },
+    {
+      "id": "bc7bd8b1-7f84-40d3-89a9-15ed0b048445",
+      "title": "The Dominici Affair by Orson Welles",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-dominici-affair-by-orson-welles",
+      "has_reactions": false
+    },
+    {
+      "id": "823659d2-e729-4d68-97d1-2d4f6a40413c",
+      "title": "The Deep",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-deep",
+      "has_reactions": false
+    },
+    {
+      "id": "92805ba3-9c62-43fc-93da-d500ad29e774",
+      "title": "Too Much Johnson",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "too-much-johnson",
+      "has_reactions": false
+    },
+    {
+      "id": "9abaddf9-dd8f-4e8d-a270-78a1e56ca4c3",
+      "title": "Emergency: Donald Trump\u2019s \"Touch of Evil\"",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "emergency-donald-trump-s-touch-of-evil",
+      "has_reactions": false
+    },
+    {
+      "id": "74fb232e-96ff-4399-a608-2b16bfa3d951",
+      "title": "Street Gang: How We Got to Sesame Street",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "street-gang-how-we-got-to-sesame-street",
+      "has_reactions": false
+    },
+    {
+      "id": "56b871bf-5840-4b97-abde-aa639a60d164",
+      "title": "Parkinson at 50",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "parkinson-at-50",
+      "has_reactions": false
+    },
+    {
+      "id": "0afea0f3-70c2-4b60-b498-58ee04040b2d",
+      "title": "From Introduction to Orson Welles\u2019s Falstaff: Chimes at Midnight",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "from-introduction-to-orson-welles-s-falstaff-chimes-at-midnight",
+      "has_reactions": false
+    }
+  ]
+}

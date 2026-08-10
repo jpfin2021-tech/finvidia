@@ -1,0 +1,592 @@
+{
+  "id": "2488211d-e3da-47b1-a264-286fc4e3c9ec",
+  "name": "Bai Ling",
+  "slug": "bai-ling",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/PXbFNTUbC3aoLrquCzFaxdF2ev.jpg",
+  "filmography": [
+    {
+      "id": "5af75258-09b1-4784-9522-c06f73677310",
+      "title": "My Quarantine Romance with Toilet Paper",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "my-quarantine-romance-with-toilet-paper",
+      "has_reactions": false
+    },
+    {
+      "id": "255a59fd-969d-4cfd-bf6e-776341f49250",
+      "title": "Mistletoe Massacre",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "mistletoe-massacre",
+      "has_reactions": false
+    },
+    {
+      "id": "fe55a685-c602-4326-a402-89818bd1d9db",
+      "title": "Mirror Cookie",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "mirror-cookie",
+      "has_reactions": false
+    },
+    {
+      "id": "5dbe0fc3-7a57-4899-a6b0-cc95f26f125e",
+      "title": "Zits",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "zits",
+      "has_reactions": false
+    },
+    {
+      "id": "8497d5a4-cce1-426b-8480-a6ff9393d710",
+      "title": "Yue Yue",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "yue-yue",
+      "has_reactions": false
+    },
+    {
+      "id": "595ce41b-ab2a-4b83-8a9c-16ce42b019e4",
+      "title": "The Shining Arc",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-shining-arc",
+      "has_reactions": false
+    },
+    {
+      "id": "e647d34f-41f0-4f7f-846e-c985258a767b",
+      "title": "The Crow",
+      "release_year": 1994,
+      "studio_label": "Entertainment Media Investment",
+      "slug": "the-crow",
+      "has_reactions": true
+    },
+    {
+      "id": "7ddf08b2-266a-446a-ad8d-2ee866317e45",
+      "title": "Dead Weekend",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "dead-weekend",
+      "has_reactions": false
+    },
+    {
+      "id": "56dc1fcf-6f29-4c3e-b48c-6e655e1ea518",
+      "title": "Nobody's Girls: Five Women of the West",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "nobody-s-girls-five-women-of-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "270617c6-aa14-4a9d-ada9-958a38a78bb2",
+      "title": "Somewhere in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "somewhere-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "69e15219-3263-401c-9e15-37d4f455e567",
+      "title": "Anna and the King",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "anna-and-the-king",
+      "has_reactions": false
+    },
+    {
+      "id": "7db42147-35d8-44ea-a91a-7a49d168ec09",
+      "title": "Row Your Boat",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "row-your-boat",
+      "has_reactions": false
+    },
+    {
+      "id": "952f90b6-cde4-4363-88d5-be51b3766832",
+      "title": "The Breed",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-breed",
+      "has_reactions": false
+    },
+    {
+      "id": "a26fe11f-f5a7-4781-be60-6880ed2e5bb4",
+      "title": "Storm Watch",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "storm-watch",
+      "has_reactions": false
+    },
+    {
+      "id": "e656f925-2c02-47e8-a931-403511f6c028",
+      "title": "Point of Origin",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "point-of-origin",
+      "has_reactions": false
+    },
+    {
+      "id": "cf7ee444-6430-41fb-9bb5-87f5eb958969",
+      "title": "Taxi 3",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "taxi-3",
+      "has_reactions": false
+    },
+    {
+      "id": "74910db0-d5b7-4be2-967d-6041b2b920c6",
+      "title": "Paris",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "paris",
+      "has_reactions": false
+    },
+    {
+      "id": "6f812f78-a6a2-4b07-8455-4c1d70b4b451",
+      "title": "Three... Extremes",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "three-extremes",
+      "has_reactions": false
+    },
+    {
+      "id": "b8b44c74-ea26-45d3-9199-f21b4242aa5d",
+      "title": "Dumplings",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dumplings",
+      "has_reactions": false
+    },
+    {
+      "id": "8fbaf5e8-e37e-4b0a-94d8-48b25b97374b",
+      "title": "Man About Town",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "man-about-town",
+      "has_reactions": false
+    },
+    {
+      "id": "75e05095-e249-470a-b211-572feb8b6282",
+      "title": "Crank",
+      "release_year": 2006,
+      "studio_label": "Lakeshore Entertainment",
+      "slug": "crank",
+      "has_reactions": true
+    },
+    {
+      "id": "341b2df5-1045-4d8c-aa25-bd0beec930e9",
+      "title": "The Gene Generation",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-gene-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "a05c9aea-9983-407a-ba77-e03307c992ec",
+      "title": "Shanghai Baby",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "shanghai-baby",
+      "has_reactions": false
+    },
+    {
+      "id": "69cf0e3b-174e-4595-994b-32c229d33cd0",
+      "title": "In the Mood for Doyle",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "in-the-mood-for-doyle",
+      "has_reactions": false
+    },
+    {
+      "id": "9387a8d8-40e4-4a79-91f8-9ca79879af23",
+      "title": "Living & Dying",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "living-dying",
+      "has_reactions": false
+    },
+    {
+      "id": "1e9b7e3c-9ff0-4e0a-94b6-852e2c202cc2",
+      "title": "Dim Sum Funeral",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dim-sum-funeral",
+      "has_reactions": false
+    },
+    {
+      "id": "44441fc1-6a29-4919-b4c5-b1f911d100b5",
+      "title": "USIDent TV: Surveilling the Southland",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "usident-tv-surveilling-the-southland",
+      "has_reactions": false
+    },
+    {
+      "id": "45148f5e-b670-4acf-8136-0cfd40a4a259",
+      "title": "Toxic",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "toxic",
+      "has_reactions": false
+    },
+    {
+      "id": "f3e40332-d54f-4828-ab55-c71480567657",
+      "title": "Crank: High Voltage",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "crank-high-voltage",
+      "has_reactions": false
+    },
+    {
+      "id": "d2c5b0fb-73aa-49f8-8f52-41a40233e176",
+      "title": "Magic Man",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "magic-man",
+      "has_reactions": false
+    },
+    {
+      "id": "98615fa4-f721-4cfa-bc9a-f44706c2b7aa",
+      "title": "A Beautiful Life",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "a-beautiful-life",
+      "has_reactions": false
+    },
+    {
+      "id": "5595908d-d402-4e61-b0eb-aa82256b67d3",
+      "title": "The Lazarus Papers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-lazarus-papers",
+      "has_reactions": false
+    },
+    {
+      "id": "a4b67f73-7d3e-40b2-941c-69826c4e7202",
+      "title": "The Bad Penny",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-bad-penny",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc183d9-473f-40af-ab03-0e8d5c25c5d7",
+      "title": "Locked Down",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "locked-down",
+      "has_reactions": false
+    },
+    {
+      "id": "95a4bae3-e493-4188-ac42-1b0c094d4412",
+      "title": "Petty Cash",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "petty-cash",
+      "has_reactions": false
+    },
+    {
+      "id": "6d95e80b-e6a4-4db7-8f82-ebf3abd5f62e",
+      "title": "Chain Letter",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "chain-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "d4961830-708e-4dde-b70c-91035b71536e",
+      "title": "The Confidant",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-confidant",
+      "has_reactions": false
+    },
+    {
+      "id": "3bc5c9f0-7d0a-4f6d-9e7f-897de7b13281",
+      "title": "Love Ranch",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "love-ranch",
+      "has_reactions": false
+    },
+    {
+      "id": "6821b52f-732d-4bd4-a1c0-c594f85e1492",
+      "title": "Circle of Pain",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "circle-of-pain",
+      "has_reactions": false
+    },
+    {
+      "id": "369ed390-1daa-4381-ae5f-7550e4528881",
+      "title": "Comedy Makes You Cry",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "comedy-makes-you-cry",
+      "has_reactions": false
+    },
+    {
+      "id": "bafb9de9-90bd-4d44-bd6d-d5b4803cd990",
+      "title": "Clash of the Empires",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "clash-of-the-empires",
+      "has_reactions": false
+    },
+    {
+      "id": "7e437587-00d4-4f4a-a9f8-b34b76f49e69",
+      "title": "The Gauntlet",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-gauntlet",
+      "has_reactions": false
+    },
+    {
+      "id": "1416db3a-a157-4b33-bb30-2c862fde1a2c",
+      "title": "Blood Shed",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "blood-shed",
+      "has_reactions": false
+    },
+    {
+      "id": "ab75e5bd-a3f2-46c9-851d-350041d97ad3",
+      "title": "Beyond the Game",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "beyond-the-game",
+      "has_reactions": false
+    },
+    {
+      "id": "5e646aef-a08e-4956-9df8-efe35b91766a",
+      "title": "The Key",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-key",
+      "has_reactions": false
+    },
+    {
+      "id": "3a8374e5-6c28-40aa-9d5e-c5c3ee329970",
+      "title": "Vultures in the Void",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "vultures-in-the-void",
+      "has_reactions": false
+    },
+    {
+      "id": "fade5275-54fa-4f1a-a0ba-57f5a36792a8",
+      "title": "Samurai Cop 2: Deadly Vengeance",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "samurai-cop-2-deadly-vengeance",
+      "has_reactions": false
+    },
+    {
+      "id": "5c9ce4a2-b894-4bbe-96da-0b232cd2c0cc",
+      "title": "Assassin's Game",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "assassin-s-game",
+      "has_reactions": false
+    },
+    {
+      "id": "e127b194-80b4-4923-bea3-e63d7bb76e8a",
+      "title": "ABCs of Superheroes",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "abcs-of-superheroes",
+      "has_reactions": false
+    },
+    {
+      "id": "3ebb9b75-a766-45de-8a0b-43de8a2afc67",
+      "title": "Call Me King",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "call-me-king",
+      "has_reactions": false
+    },
+    {
+      "id": "ebfd0b66-77e0-49e8-8199-130173cf985e",
+      "title": "Everlasting",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "everlasting",
+      "has_reactions": false
+    },
+    {
+      "id": "da4ae7c5-3418-4cb9-af25-bb333edcd172",
+      "title": "Sharknado 5: Global Swarming",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "sharknado-5-global-swarming",
+      "has_reactions": false
+    },
+    {
+      "id": "04bc3425-8665-4758-bccb-58ac55fcc9ae",
+      "title": "Andover",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "andover",
+      "has_reactions": false
+    },
+    {
+      "id": "ed20ce12-fe2a-4e0c-903d-bf573338b0f7",
+      "title": "Speed Dragon",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "speed-dragon",
+      "has_reactions": false
+    },
+    {
+      "id": "6cf288b3-c90f-4d8b-82e6-a707179c968d",
+      "title": "Banned, Exploited & Blacklisted: The Underground Work of Controversial Filmmaker Shane Ryan",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "banned-exploited-blacklisted-the-underground-work-of-controversial-filmmaker-shane-ryan",
+      "has_reactions": false
+    },
+    {
+      "id": "ef5e7277-49a5-4596-bac3-cf21d2af6413",
+      "title": "Banking on Love",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "banking-on-love",
+      "has_reactions": false
+    },
+    {
+      "id": "fcfd45a7-d5d5-4e88-aaf7-ee923aa5a1a5",
+      "title": "Night Caller",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "night-caller",
+      "has_reactions": false
+    },
+    {
+      "id": "cdb35882-88ac-48da-81bb-0d8fab2ed1d3",
+      "title": "Jack Be Nimble",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jack-be-nimble",
+      "has_reactions": false
+    },
+    {
+      "id": "aeff92de-f2dc-4df0-a904-b9fd214650c3",
+      "title": "Buckle Up",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "buckle-up",
+      "has_reactions": false
+    },
+    {
+      "id": "4bb4558c-264e-4243-a834-0a7b952a6845",
+      "title": "Necronomicon",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "necronomicon",
+      "has_reactions": false
+    },
+    {
+      "id": "64c77bd7-a272-413f-aa67-79b696f93cc9",
+      "title": "The Keepers of the 5 Kingdoms",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-keepers-of-the-5-kingdoms",
+      "has_reactions": false
+    },
+    {
+      "id": "ff0c5298-74cd-4094-93cb-36fbf3128c50",
+      "title": "Mega Ape",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mega-ape",
+      "has_reactions": false
+    },
+    {
+      "id": "06955b4e-d9e2-42e8-bc90-2a240fa20584",
+      "title": "Phoenix",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "phoenix",
+      "has_reactions": false
+    },
+    {
+      "id": "7dbdc824-dbab-4be0-898f-175fcb6bedc9",
+      "title": "Down Below",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "down-below",
+      "has_reactions": false
+    },
+    {
+      "id": "370403ad-f6e1-43db-8635-a2fff30814de",
+      "title": "Desert Fiends",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "desert-fiends",
+      "has_reactions": false
+    },
+    {
+      "id": "fc8e7d0a-9cea-4c00-adc4-cd5d1e33a68e",
+      "title": "The Omicron Killer",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-omicron-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "3da0d3b7-949f-494f-ade3-d083c152f5c8",
+      "title": "The Haunted Studio",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-haunted-studio",
+      "has_reactions": false
+    },
+    {
+      "id": "70faefcb-6d1a-46b9-9cb6-09f3966ee53c",
+      "title": "Them, Behind the Door",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "them-behind-the-door",
+      "has_reactions": false
+    },
+    {
+      "id": "f30a55b0-c8a4-4e22-8a13-c39b60324124",
+      "title": "Kung Fu Slayers",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "kung-fu-slayers",
+      "has_reactions": false
+    },
+    {
+      "id": "7d3ae8e7-5d87-41f9-addf-2fee01e51c04",
+      "title": "Werewolf Game",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "werewolf-game",
+      "has_reactions": false
+    },
+    {
+      "id": "df5a23e2-3d11-4ff5-b0b4-bbd1d06b2b78",
+      "title": "Things Like This",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "things-like-this",
+      "has_reactions": false
+    },
+    {
+      "id": "3aba88c7-7880-4a86-ad9f-9940cac39166",
+      "title": "A Hard Place",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "a-hard-place",
+      "has_reactions": false
+    },
+    {
+      "id": "5e437ed5-15c9-4ada-9d2c-8abb8ebbfcbd",
+      "title": "Someone Dies Tonight",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "someone-dies-tonight",
+      "has_reactions": false
+    }
+  ]
+}

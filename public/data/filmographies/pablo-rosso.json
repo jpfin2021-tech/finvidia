@@ -1,0 +1,32 @@
+{
+  "id": "5c18ff54-0c79-434f-bdb8-63fca13deff8",
+  "name": "Pablo Rosso",
+  "slug": "pablo-rosso",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "de452b29-e10c-4160-a51d-785cac8be165",
+      "title": "[REC]",
+      "release_year": 2007,
+      "studio_label": "Castelao Productions",
+      "slug": "rec",
+      "has_reactions": true
+    },
+    {
+      "id": "0c7eea78-02e1-4830-9d7b-f294b5bfce92",
+      "title": "[REC]\u00b2",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "rec",
+      "has_reactions": false
+    },
+    {
+      "id": "81cbdf20-2727-4a02-a5a2-9ccb1910ec96",
+      "title": "[REC]: Horror Without Pause",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rec-horror-without-pause",
+      "has_reactions": false
+    }
+  ]
+}

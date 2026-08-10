@@ -1,0 +1,472 @@
+{
+  "id": "e0a9724a-6615-41da-97cf-5b566f784c6d",
+  "name": "John Wayne",
+  "slug": "john-wayne",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/4VmiGmCwSnratHtYmT2AyXrdQ64.jpg",
+  "filmography": [
+    {
+      "id": "55d08806-75e9-46b5-9786-071c43fda307",
+      "title": "The Shadow of the Eagle",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-shadow-of-the-eagle",
+      "has_reactions": false
+    },
+    {
+      "id": "b7af3f30-062c-4355-8bfb-56129e1fdf91",
+      "title": "Sagebrush Trail",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "sagebrush-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "d52ac30a-fc1a-4359-ab4e-a677ae10e726",
+      "title": "Baby Face",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "baby-face",
+      "has_reactions": false
+    },
+    {
+      "id": "3deb5238-7b6f-4df2-ad3f-2a55a4f5eb11",
+      "title": "Riders of Destiny",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "riders-of-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "eaa9a5ef-abf6-4747-936f-9730448ce1ef",
+      "title": "West of the Divide",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "west-of-the-divide",
+      "has_reactions": false
+    },
+    {
+      "id": "b6120295-5e42-434c-b2d7-bc54b27e53ab",
+      "title": "The Trail Beyond",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-trail-beyond",
+      "has_reactions": false
+    },
+    {
+      "id": "c3e33a4b-5331-463c-ab09-c00efc847842",
+      "title": "Randy Rides Alone",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "randy-rides-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "bf8ba933-4583-4a7d-8caa-e313a5345d9e",
+      "title": "The Lucky Texan",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "the-lucky-texan",
+      "has_reactions": false
+    },
+    {
+      "id": "9ae86c6f-17a5-47f7-a570-c968d6d0c450",
+      "title": "Paradise Canyon",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "paradise-canyon",
+      "has_reactions": false
+    },
+    {
+      "id": "f7d56c3b-16a4-4102-800f-b044111d1f8d",
+      "title": "Texas Terror",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "texas-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "e152223e-540f-4561-a91c-94bfe1781c81",
+      "title": "Winds of the Wasteland",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "winds-of-the-wasteland",
+      "has_reactions": false
+    },
+    {
+      "id": "e4d4887b-390b-46d3-a9bd-94c41fc115a8",
+      "title": "Stagecoach",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "stagecoach",
+      "has_reactions": false
+    },
+    {
+      "id": "59bd7a37-5a65-439d-8d4f-3cdb14d7866b",
+      "title": "Three Faces West",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "three-faces-west",
+      "has_reactions": false
+    },
+    {
+      "id": "cf791db0-4fde-467c-a1fa-14c7fb75a672",
+      "title": "Seven Sinners",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "seven-sinners",
+      "has_reactions": false
+    },
+    {
+      "id": "4351e8f0-66e4-4512-88d0-aac713e9bece",
+      "title": "Dark Command",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "dark-command",
+      "has_reactions": false
+    },
+    {
+      "id": "c1409acf-1529-4cbe-87ce-c6f656275b10",
+      "title": "A Man Betrayed",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "a-man-betrayed",
+      "has_reactions": false
+    },
+    {
+      "id": "ba3f133a-01c4-4f13-b0ab-ea4f9a2e624f",
+      "title": "The Shepherd of the Hills",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-shepherd-of-the-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "f21fbfb0-150c-4509-93df-5f3169352879",
+      "title": "Lady for a Night",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "lady-for-a-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e928b737-d50f-4dbd-b0b3-d0deb5bfede4",
+      "title": "Flying Tigers",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "flying-tigers",
+      "has_reactions": false
+    },
+    {
+      "id": "54d361a8-6e8e-4348-a39a-a64a4fe64b58",
+      "title": "In Old Oklahoma",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "in-old-oklahoma",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b889d7-0ca2-45bd-878e-973e60674251",
+      "title": "The Fighting Seabees",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "the-fighting-seabees",
+      "has_reactions": false
+    },
+    {
+      "id": "3c189b80-c26e-46a6-a87b-530fe3b91cca",
+      "title": "Tall in the Saddle",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "tall-in-the-saddle",
+      "has_reactions": false
+    },
+    {
+      "id": "160bc88b-d9ba-4e8d-b45a-795a9270a58a",
+      "title": "Flame of Barbary Coast",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "flame-of-barbary-coast",
+      "has_reactions": false
+    },
+    {
+      "id": "2a13a5cd-634a-4aad-b3c4-d251a6b233ed",
+      "title": "Without Reservations",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "without-reservations",
+      "has_reactions": false
+    },
+    {
+      "id": "9d38deeb-44d8-44bd-aeb7-e9f47d81eb27",
+      "title": "Angel and the Badman",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "angel-and-the-badman",
+      "has_reactions": false
+    },
+    {
+      "id": "38ce6992-85ed-4f42-90ff-3ec6552c4d01",
+      "title": "Red River",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "red-river",
+      "has_reactions": false
+    },
+    {
+      "id": "6aee02d3-cfe6-43c0-83f5-9fb5fcfee2a3",
+      "title": "3 Godfathers",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "3-godfathers",
+      "has_reactions": false
+    },
+    {
+      "id": "0fb2fe6a-2430-4230-adba-5d7248b77fc2",
+      "title": "Fort Apache",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "fort-apache",
+      "has_reactions": false
+    },
+    {
+      "id": "1aff07c8-630f-4653-a0fb-12047ab2a282",
+      "title": "Rio Grande",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "rio-grande",
+      "has_reactions": false
+    },
+    {
+      "id": "b3b6881b-d6ff-4755-97c0-5374f60b8f5c",
+      "title": "Operation Pacific",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "operation-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "1962e379-56a5-4854-a8b2-9ca00553e910",
+      "title": "The Quiet Man",
+      "release_year": 1952,
+      "studio_label": "Republic Pictures",
+      "slug": "the-quiet-man",
+      "has_reactions": true
+    },
+    {
+      "id": "21249523-16b8-4f1d-8a9f-43e6fd38596c",
+      "title": "Big Jim McLain",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "big-jim-mclain",
+      "has_reactions": false
+    },
+    {
+      "id": "cae6606d-28ec-4518-83eb-5b7a737c1183",
+      "title": "Island in the Sky",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "island-in-the-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "b36d7e43-7ee8-47c1-aa43-c5e0a49db3f5",
+      "title": "Trouble Along the Way",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "trouble-along-the-way",
+      "has_reactions": false
+    },
+    {
+      "id": "e6a4d39e-79fc-45d3-a420-26ce3b376e6e",
+      "title": "Hondo",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "hondo",
+      "has_reactions": false
+    },
+    {
+      "id": "da9fa8c1-733b-4a1b-90b7-29429f7466ab",
+      "title": "The Sea Chase",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-sea-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "d772a062-6abd-4dc4-af00-aa39fc753223",
+      "title": "The Searchers",
+      "release_year": 1956,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-searchers",
+      "has_reactions": true
+    },
+    {
+      "id": "67bb38a6-41df-4485-ba79-161fa7f44dc8",
+      "title": "The Conqueror",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-conqueror",
+      "has_reactions": false
+    },
+    {
+      "id": "65937dc0-d734-4f02-bf68-d0e9f0d848a7",
+      "title": "Legend of the Lost",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "legend-of-the-lost",
+      "has_reactions": false
+    },
+    {
+      "id": "3eb2da61-c060-4646-80f4-ca3037ae4ed3",
+      "title": "I Married a Woman",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "i-married-a-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "0cd9918e-b0ae-403a-b5da-8592e15af33c",
+      "title": "Rio Bravo",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "rio-bravo",
+      "has_reactions": false
+    },
+    {
+      "id": "c553c212-785b-4299-902a-d618042ee127",
+      "title": "The Alamo",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-alamo",
+      "has_reactions": false
+    },
+    {
+      "id": "b027471f-a576-4b69-8199-8ccf1fcef2f1",
+      "title": "North to Alaska",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "north-to-alaska",
+      "has_reactions": false
+    },
+    {
+      "id": "c0480e5f-df32-46d5-b5ad-03905390a53c",
+      "title": "The Comancheros",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-comancheros",
+      "has_reactions": false
+    },
+    {
+      "id": "711bc9ff-fb44-40db-a2e4-d5ea7bf5e43a",
+      "title": "Hatari!",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "hatari",
+      "has_reactions": false
+    },
+    {
+      "id": "02cda42d-4466-4d7b-9f90-fa9eb83e74d6",
+      "title": "El Dorado",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "el-dorado",
+      "has_reactions": false
+    },
+    {
+      "id": "14eb0449-d7f9-4d95-9e7a-4973d1c5a5c0",
+      "title": "A Nation Builds Under Fire",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "a-nation-builds-under-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "421ba7d2-f749-49f9-8e38-dbf446a1c2bd",
+      "title": "The War Wagon",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-war-wagon",
+      "has_reactions": false
+    },
+    {
+      "id": "a87cfb4e-4f78-406e-afd3-cfa819856d65",
+      "title": "Hellfighters",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "hellfighters",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa2b02-7878-49ac-bc16-2d457aff7cb9",
+      "title": "The Movie Orgy",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-movie-orgy",
+      "has_reactions": false
+    },
+    {
+      "id": "c4baa02a-d127-4cfb-87c8-45dffb69aca1",
+      "title": "Rio Lobo",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "rio-lobo",
+      "has_reactions": false
+    },
+    {
+      "id": "e534f655-823a-47ca-bb6d-35a35c063508",
+      "title": "The Cowboys",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-cowboys",
+      "has_reactions": false
+    },
+    {
+      "id": "5c4d3cb1-bf5d-49c1-a8f4-21e9ec107b0b",
+      "title": "The Train Robbers",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-train-robbers",
+      "has_reactions": false
+    },
+    {
+      "id": "0f7dba0e-417f-49fb-b26a-db74941646c3",
+      "title": "Wayne Train",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "wayne-train",
+      "has_reactions": false
+    },
+    {
+      "id": "68f8af84-499f-4c9d-ab1c-7191a60cf5fb",
+      "title": "McQ",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "mcq",
+      "has_reactions": false
+    },
+    {
+      "id": "cf8942bf-d368-4745-a34a-c3e3d78914a6",
+      "title": "Brannigan",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "brannigan",
+      "has_reactions": false
+    },
+    {
+      "id": "70f7a3c6-c9b9-4e46-af98-f4e39b2668e2",
+      "title": "Perry Como's Early American Christmas",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "perry-como-s-early-american-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e943ff33-9ace-4ba0-b5ba-19560ef1ecc0",
+      "title": "Movie Tough Guys",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "movie-tough-guys",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "13e8c0b4-1143-46d9-9638-155b60d0f8fc",
+  "name": "Stefan Grube",
+  "slug": "stefan-grube",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg",
+  "filmography": [
+    {
+      "id": "c0483cce-3e03-45ae-bf9f-df5f8616234a",
+      "title": "Star Wars: The Force Awakens",
+      "release_year": 2015,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-force-awakens",
+      "has_reactions": true
+    },
+    {
+      "id": "1104e2ca-899a-496e-9352-548ee99371bc",
+      "title": "The Skywalker Legacy",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-skywalker-legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "1fd030fc-1e17-4307-bf00-5dfccad0a46c",
+      "title": "Predator: Badlands",
+      "release_year": 2025,
+      "studio_label": "20th Century Studios",
+      "slug": "predator-badlands",
+      "has_reactions": true
+    },
+    {
+      "id": "11fbbc54-10e5-49b7-a2c5-34b941f8c89c",
+      "title": "Predator: Killer of Killers",
+      "release_year": 2025,
+      "studio_label": "20th Century Studios",
+      "slug": "predator-killer-of-killers",
+      "has_reactions": true
+    }
+  ]
+}

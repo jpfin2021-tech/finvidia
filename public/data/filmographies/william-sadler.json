@@ -1,0 +1,584 @@
+{
+  "id": "3efb8c4e-f8c1-4031-8d77-faf07c080a99",
+  "name": "William Sadler",
+  "slug": "william-sadler",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg",
+  "filmography": [
+    {
+      "id": "70f07e1b-35b9-4982-ad26-76da76f707c1",
+      "title": "The Great Wallendas",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-great-wallendas",
+      "has_reactions": false
+    },
+    {
+      "id": "67c01325-b253-462f-a0a3-73f927c6c826",
+      "title": "Charlie and the Great Balloon Chase",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "charlie-and-the-great-balloon-chase",
+      "has_reactions": false
+    },
+    {
+      "id": "729da86d-f366-4142-a1ff-b45eea77f46a",
+      "title": "Project X",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "project-x",
+      "has_reactions": false
+    },
+    {
+      "id": "7a53ce5e-a524-494d-a288-46d399456cd9",
+      "title": "K-9",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "k-9",
+      "has_reactions": false
+    },
+    {
+      "id": "38d6971f-8f2f-4bda-8c76-2cecb8a6a6a2",
+      "title": "Unconquered",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "unconquered",
+      "has_reactions": false
+    },
+    {
+      "id": "395c4f13-203b-4b25-a45e-fc5236a32684",
+      "title": "Die Hard 2",
+      "release_year": 1990,
+      "studio_label": "Gordon Company",
+      "slug": "die-hard-2",
+      "has_reactions": true
+    },
+    {
+      "id": "bb634a0e-d9ab-4043-b770-eaf03f7c5f76",
+      "title": "The Hot Spot",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-hot-spot",
+      "has_reactions": false
+    },
+    {
+      "id": "d8add79d-c528-4449-b635-75224409a911",
+      "title": "Hard to Kill",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "hard-to-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "42199fbf-aae4-4c79-abd8-9159c77f68e3",
+      "title": "Bill & Ted's Bogus Journey",
+      "release_year": 1991,
+      "studio_label": "Nelson Entertainment",
+      "slug": "bill-ted-s-bogus-journey",
+      "has_reactions": true
+    },
+    {
+      "id": "2e400036-632a-495a-b524-f4e54a10110c",
+      "title": "Rush",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "rush",
+      "has_reactions": false
+    },
+    {
+      "id": "87a03d27-e357-4f7e-bc87-5a1ba62b45d0",
+      "title": "Tagget",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "tagget",
+      "has_reactions": false
+    },
+    {
+      "id": "72d2cb2e-f945-4f43-a089-9618f5abdbfb",
+      "title": "The Last to Go",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-last-to-go",
+      "has_reactions": false
+    },
+    {
+      "id": "c40b50f0-c828-4f1c-83ea-0029facad4ee",
+      "title": "Trespass",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "trespass",
+      "has_reactions": false
+    },
+    {
+      "id": "19c469a9-3954-4436-9e9a-b67e3f40256f",
+      "title": "The Shawshank Redemption",
+      "release_year": 1994,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "the-shawshank-redemption",
+      "has_reactions": true
+    },
+    {
+      "id": "3a61d2fd-20c8-49da-a567-690288d64cb9",
+      "title": "Bermuda Grace",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "bermuda-grace",
+      "has_reactions": false
+    },
+    {
+      "id": "ac239582-ff82-455e-be5c-f138931ea59e",
+      "title": "The Omen",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-omen",
+      "has_reactions": false
+    },
+    {
+      "id": "58219c8c-b23c-4bc9-8e59-22578b4a159d",
+      "title": "Bordello of Blood",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "bordello-of-blood",
+      "has_reactions": false
+    },
+    {
+      "id": "a18e1648-c8cb-4e85-8714-9799e89e170e",
+      "title": "RocketMan",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "rocketman",
+      "has_reactions": false
+    },
+    {
+      "id": "1546e93d-96e9-4df0-a376-f716b8d9485f",
+      "title": "Ambushed",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "ambushed",
+      "has_reactions": false
+    },
+    {
+      "id": "cb52f54d-ee35-4599-890f-134ee131fb6c",
+      "title": "Reach the Rock",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "reach-the-rock",
+      "has_reactions": false
+    },
+    {
+      "id": "9ffea2e7-5251-4294-95ae-793bd2cece44",
+      "title": "Stealth Fighter",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "stealth-fighter",
+      "has_reactions": false
+    },
+    {
+      "id": "8eb4d941-f098-42ef-9eca-d3083726a0ca",
+      "title": "Witness Protection",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "witness-protection",
+      "has_reactions": false
+    },
+    {
+      "id": "5d475649-8388-4cd9-8006-098a5b302c21",
+      "title": "The Green Mile",
+      "release_year": 1999,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "the-green-mile",
+      "has_reactions": true
+    },
+    {
+      "id": "8009d501-6f24-4377-bfe2-02d7d243185a",
+      "title": "Walking the Mile: The Making of The Green Mile",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "walking-the-mile-the-making-of-the-green-mile",
+      "has_reactions": false
+    },
+    {
+      "id": "8fd116b1-8458-47f2-8553-81afd2c976d4",
+      "title": "Another Life",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "another-life",
+      "has_reactions": false
+    },
+    {
+      "id": "acdb4ed1-8108-4ee7-9bd7-d82f3c6e3c6f",
+      "title": "Confess",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "confess",
+      "has_reactions": false
+    },
+    {
+      "id": "cfb0672c-dbb8-46fd-b87b-a2357b6e57c1",
+      "title": "Purple Heart",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "purple-heart",
+      "has_reactions": false
+    },
+    {
+      "id": "b3f66d6e-ef8b-4c99-9670-27372aea216b",
+      "title": "DeVour",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "devour",
+      "has_reactions": false
+    },
+    {
+      "id": "22390da9-8cec-40bc-9d61-a16d5c1a8bac",
+      "title": "Premium",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "premium",
+      "has_reactions": false
+    },
+    {
+      "id": "1adb2b86-f795-40ea-a11e-11cf54861c40",
+      "title": "Jimmy and Judy",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jimmy-and-judy",
+      "has_reactions": false
+    },
+    {
+      "id": "c357b776-2f06-4a4f-81e0-6a53ef33adca",
+      "title": "The Good Student",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-good-student",
+      "has_reactions": false
+    },
+    {
+      "id": "35639ad6-aadb-40ab-8293-e705089e85a0",
+      "title": "The Mist",
+      "release_year": 2007,
+      "studio_label": "Darkwoods Productions",
+      "slug": "the-mist",
+      "has_reactions": true
+    },
+    {
+      "id": "25a95727-a749-4d87-9213-433a39f94c25",
+      "title": "August Rush",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "august-rush",
+      "has_reactions": false
+    },
+    {
+      "id": "086cd462-a16b-48f7-9f62-9ae25349b8d4",
+      "title": "Jesse Stone: Sea Change",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "jesse-stone-sea-change",
+      "has_reactions": false
+    },
+    {
+      "id": "6045ec96-a300-48dc-9c8f-d2bfa6e67358",
+      "title": "A New Wave",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "a-new-wave",
+      "has_reactions": false
+    },
+    {
+      "id": "d28efe91-d307-41ed-b391-3f8768b57081",
+      "title": "When Darkness Came: The Making of 'The Mist'",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "when-darkness-came-the-making-of-the-mist",
+      "has_reactions": false
+    },
+    {
+      "id": "e02631b6-8b40-45af-a4f5-809652b3dbb4",
+      "title": "Shadowheart",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "shadowheart",
+      "has_reactions": false
+    },
+    {
+      "id": "59307773-3b68-459e-b823-968ff8ed2df1",
+      "title": "Jesse Stone: Thin Ice",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jesse-stone-thin-ice",
+      "has_reactions": false
+    },
+    {
+      "id": "445cf941-c061-4501-a36b-2cbe1c6334e5",
+      "title": "Stream",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "stream",
+      "has_reactions": false
+    },
+    {
+      "id": "806349b3-44e6-4804-b4dd-0df80e0364f7",
+      "title": "The Hills Run Red",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-hills-run-red",
+      "has_reactions": false
+    },
+    {
+      "id": "d32286bc-8638-4169-b916-606c2b97c211",
+      "title": "Last Day of Summer",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "last-day-of-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "f38fa5c1-f778-46ab-88d3-9020a942c5eb",
+      "title": "It's Not Real Until You Shoot It: Making THE HILLS RUN RED",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "it-s-not-real-until-you-shoot-it-making-the-hills-run-red",
+      "has_reactions": false
+    },
+    {
+      "id": "a1fc81f1-0acd-44ce-8687-5ea080713b8f",
+      "title": "Beyond All Boundaries",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "beyond-all-boundaries",
+      "has_reactions": false
+    },
+    {
+      "id": "eb8b788b-09a0-46d8-a9e0-ead37a51970d",
+      "title": "Jesse Stone: No Remorse",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jesse-stone-no-remorse",
+      "has_reactions": false
+    },
+    {
+      "id": "96931107-d5b8-4618-a188-d95a7d0229ad",
+      "title": "Jesse Stone: Innocents Lost",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "jesse-stone-innocents-lost",
+      "has_reactions": false
+    },
+    {
+      "id": "f48e81db-3aa9-4e3d-a3a9-a3e658e90946",
+      "title": "Silent but Deadly",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "silent-but-deadly",
+      "has_reactions": false
+    },
+    {
+      "id": "6e7c2d04-fbae-494c-8286-4f7464dad314",
+      "title": "Restitution",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "restitution",
+      "has_reactions": false
+    },
+    {
+      "id": "8006bcc9-8494-45d8-8494-6509b06f3bbc",
+      "title": "Nothing Sacred",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "nothing-sacred",
+      "has_reactions": false
+    },
+    {
+      "id": "6354dd1d-da2c-420d-bb44-c9736c9a8ea0",
+      "title": "Jesse Stone: Benefit of the Doubt",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jesse-stone-benefit-of-the-doubt",
+      "has_reactions": false
+    },
+    {
+      "id": "6aa5ccb0-d55c-4ef4-9d65-3c65a70bda2a",
+      "title": "Future Weather",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "future-weather",
+      "has_reactions": false
+    },
+    {
+      "id": "0c554930-114b-4ffe-87ed-385261009489",
+      "title": "See Girl Run",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "see-girl-run",
+      "has_reactions": false
+    },
+    {
+      "id": "78df52a8-24c0-4dbe-b436-0ef90696fc77",
+      "title": "Machete Kills",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "machete-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "18636c2a-674a-4fd5-b60a-3d63868afe0a",
+      "title": "Greetings from Tim Buckley",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "greetings-from-tim-buckley",
+      "has_reactions": false
+    },
+    {
+      "id": "dc84464a-3820-484a-8aa1-2c3bb22fd2b2",
+      "title": "Onion News Empire",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "onion-news-empire",
+      "has_reactions": false
+    },
+    {
+      "id": "eee6f982-2eca-45bc-bb12-3b27179debeb",
+      "title": "Iron Man 3",
+      "release_year": 2013,
+      "studio_label": "Marvel Studios",
+      "slug": "iron-man-3",
+      "has_reactions": true
+    },
+    {
+      "id": "44a10d67-8fe4-4c4a-95ff-84795b36c421",
+      "title": "The Suspect",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-suspect",
+      "has_reactions": false
+    },
+    {
+      "id": "3d86f0d6-8135-44ac-a0c2-7f932d4307d2",
+      "title": "Gilded Lilys",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "gilded-lilys",
+      "has_reactions": false
+    },
+    {
+      "id": "f55d548a-171f-4d78-8cd9-cab1cb43a725",
+      "title": "That Guy Dick Miller",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "that-guy-dick-miller",
+      "has_reactions": false
+    },
+    {
+      "id": "eb6adb90-cd27-40e9-8cf6-51b357957a85",
+      "title": "The Historian",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-historian",
+      "has_reactions": false
+    },
+    {
+      "id": "0b6575ba-281f-4316-ba0b-14b5c40c0138",
+      "title": "Frank the Bastard",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "frank-the-bastard",
+      "has_reactions": false
+    },
+    {
+      "id": "454b6ce8-f56e-4e50-9fc8-34254c6970d2",
+      "title": "Freeheld",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "freeheld",
+      "has_reactions": false
+    },
+    {
+      "id": "5a96d288-12ba-4ee9-82d7-932b7151da49",
+      "title": "Ava's Possessions",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "ava-s-possessions",
+      "has_reactions": false
+    },
+    {
+      "id": "d5524077-6fed-41ff-a792-e922cfa0125e",
+      "title": "Edge",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "edge",
+      "has_reactions": false
+    },
+    {
+      "id": "ef553a7f-8cce-40d9-89c2-c9cb01755276",
+      "title": "The Duel",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-duel",
+      "has_reactions": false
+    },
+    {
+      "id": "4b259d6e-189e-424c-94ec-c2a42944a9ae",
+      "title": "The Hollow",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-hollow",
+      "has_reactions": false
+    },
+    {
+      "id": "252f13f0-4502-4fa5-9fdd-ff7f161d8fe9",
+      "title": "Living Among Us",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "living-among-us",
+      "has_reactions": false
+    },
+    {
+      "id": "a007fd6e-4510-479d-bf9c-f0c9462fab49",
+      "title": "Deadly Crush",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "deadly-crush",
+      "has_reactions": false
+    },
+    {
+      "id": "7b99732d-f0ef-4e9d-ba68-20464c2ffa91",
+      "title": "The Grudge",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-grudge",
+      "has_reactions": false
+    },
+    {
+      "id": "fb49889c-e3ad-4dae-98b6-1853ce528030",
+      "title": "Alice Fades Away",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "alice-fades-away",
+      "has_reactions": false
+    },
+    {
+      "id": "969db2b7-6b8d-4c0e-9dfc-85fa924de516",
+      "title": "She Came from the Woods",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "she-came-from-the-woods",
+      "has_reactions": false
+    },
+    {
+      "id": "e33f5a23-e4ec-4096-8df2-d3f2e7c5595d",
+      "title": "A Stage of Twilight",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "a-stage-of-twilight",
+      "has_reactions": false
+    },
+    {
+      "id": "fd02ac80-f4ed-4433-af05-70c3f18c2d77",
+      "title": "The Evolution of Horror Cinema Worldwide",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-evolution-of-horror-cinema-worldwide",
+      "has_reactions": false
+    }
+  ]
+}

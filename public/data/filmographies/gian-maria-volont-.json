@@ -1,0 +1,600 @@
+{
+  "id": "9365637e-121e-46c9-828a-1d3bca991d5a",
+  "name": "Gian Maria Volont\u00e9",
+  "slug": "gian-maria-volont-",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/xPwxiUgSnvqMvPTm2TlqTUskOJ.jpg",
+  "filmography": [
+    {
+      "id": "68eb48c2-5bba-4842-9a26-d8001007de8e",
+      "title": "Phaedra",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "phaedra",
+      "has_reactions": false
+    },
+    {
+      "id": "4688d82e-363d-4d77-99e6-f97a96809a67",
+      "title": "Saul",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "saul",
+      "has_reactions": false
+    },
+    {
+      "id": "80932dc8-7e72-46b4-a261-c927a50d8237",
+      "title": "Under Ten Flags",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "under-ten-flags",
+      "has_reactions": false
+    },
+    {
+      "id": "ac0935b0-b32f-42b3-8d0d-b73970f983ab",
+      "title": "Journey Beneath the Desert",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "journey-beneath-the-desert",
+      "has_reactions": false
+    },
+    {
+      "id": "656060a6-a138-41c1-957b-88d315f93553",
+      "title": "Hercules and the Captive Women",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "hercules-and-the-captive-women",
+      "has_reactions": false
+    },
+    {
+      "id": "4242ec82-b2b4-4be9-af84-44d7f591d50d",
+      "title": "Girl with a Suitcase",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "girl-with-a-suitcase",
+      "has_reactions": false
+    },
+    {
+      "id": "85f746c9-91d3-423d-b8f4-e5eab9294ddc",
+      "title": "On the Tiger's Back",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "on-the-tiger-s-back",
+      "has_reactions": false
+    },
+    {
+      "id": "a6fcc305-7ce4-4184-bbe1-08d81f6ddde2",
+      "title": "The Four Days of Naples",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "the-four-days-of-naples",
+      "has_reactions": false
+    },
+    {
+      "id": "e8533698-7b30-42ec-b6ee-7c2001eda6f0",
+      "title": "A Man for Burning",
+      "release_year": 1962,
+      "studio_label": "\u2014",
+      "slug": "a-man-for-burning",
+      "has_reactions": false
+    },
+    {
+      "id": "ff8d8f49-fdd1-4170-bab4-fddf51a4e849",
+      "title": "The Felling of the Forest",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-felling-of-the-forest",
+      "has_reactions": false
+    },
+    {
+      "id": "1d37f76f-c6a8-4ace-b08f-d4666cc28574",
+      "title": "The Terrorist",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "the-terrorist",
+      "has_reactions": false
+    },
+    {
+      "id": "0c778d3a-a969-4b5b-91c0-29758407a605",
+      "title": "Summer Night",
+      "release_year": 1963,
+      "studio_label": "\u2014",
+      "slug": "summer-night",
+      "has_reactions": false
+    },
+    {
+      "id": "acbf6ef1-6648-4f98-80ad-a41b2e98c7c5",
+      "title": "A Fistful of Dollars",
+      "release_year": 1964,
+      "studio_label": "Jolly Film",
+      "slug": "a-fistful-of-dollars",
+      "has_reactions": true
+    },
+    {
+      "id": "75b1f4d6-fac8-4167-8ea4-52353d861d9d",
+      "title": "The Magnificent Cuckold",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-magnificent-cuckold",
+      "has_reactions": false
+    },
+    {
+      "id": "48f75954-94b6-4fd1-a027-a11afe5bb8f5",
+      "title": "La strada pi\u00f9 lunga",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "la-strada-pi-lunga",
+      "has_reactions": false
+    },
+    {
+      "id": "3ff62ba2-2ef0-4e54-83b3-073cc4bf0532",
+      "title": "The Witch",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "the-witch",
+      "has_reactions": false
+    },
+    {
+      "id": "e0c3fb8d-fed9-4edb-bbb8-4298fc5a4082",
+      "title": "Seasons of Our Love",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "seasons-of-our-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1f89e99b-c874-4683-9aeb-186f56a90024",
+      "title": "For Love and Gold",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "for-love-and-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "b8592719-46cc-4e1f-892c-345f0adffb84",
+      "title": "Wake Up and Die",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "wake-up-and-die",
+      "has_reactions": false
+    },
+    {
+      "id": "e199a629-b2c5-4df8-a7ae-33e7d7a1cab8",
+      "title": "A Gangstergirl",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "a-gangstergirl",
+      "has_reactions": false
+    },
+    {
+      "id": "c6b9bd6b-1541-4336-830f-71c1ec99baef",
+      "title": "Caravaggio",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "caravaggio",
+      "has_reactions": false
+    },
+    {
+      "id": "a2802181-4003-461b-a39f-bea2ecf08663",
+      "title": "We Still Kill the Old Way",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "we-still-kill-the-old-way",
+      "has_reactions": false
+    },
+    {
+      "id": "ee87f570-7568-4def-8952-0c8f65101bfc",
+      "title": "Face to Face",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "face-to-face",
+      "has_reactions": false
+    },
+    {
+      "id": "109d714c-0425-4f0f-b63e-bf01ac43a3b4",
+      "title": "A Bullet for the General",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "a-bullet-for-the-general",
+      "has_reactions": false
+    },
+    {
+      "id": "155fdecc-1dda-4df1-a318-5d2b1e7f60f0",
+      "title": "The Violent Four",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-violent-four",
+      "has_reactions": false
+    },
+    {
+      "id": "b65157ca-da5c-40e2-9f20-c7d3241343c5",
+      "title": "The Seven Cervi Brothers",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-seven-cervi-brothers",
+      "has_reactions": false
+    },
+    {
+      "id": "4109c5e3-adfd-4825-b4ff-18ae78132d32",
+      "title": "Summit",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "summit",
+      "has_reactions": false
+    },
+    {
+      "id": "b508efb7-594b-4a3f-8282-bf64065a6610",
+      "title": "Under the Sign of Scorpio",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "under-the-sign-of-scorpio",
+      "has_reactions": false
+    },
+    {
+      "id": "a79b092c-918a-41be-a9d7-49f11a0f61c8",
+      "title": "The Bandit",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-bandit",
+      "has_reactions": false
+    },
+    {
+      "id": "c7e7f58c-5d03-44f8-8242-67d2f1df56f7",
+      "title": "Apollon: una fabbrica occupata",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "apollon-una-fabbrica-occupata",
+      "has_reactions": false
+    },
+    {
+      "id": "adff715c-a5f5-4f6e-b6ab-0eb279c89858",
+      "title": "Ipotesi sulla morte di G. Pinelli",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "ipotesi-sulla-morte-di-g-pinelli",
+      "has_reactions": false
+    },
+    {
+      "id": "46e1723c-327d-4a87-9a5f-8a8140772c2e",
+      "title": "Many Wars Ago",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "many-wars-ago",
+      "has_reactions": false
+    },
+    {
+      "id": "7f44cee8-4048-4a1b-b760-b3852d1a917e",
+      "title": "Wind from the East",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "wind-from-the-east",
+      "has_reactions": false
+    },
+    {
+      "id": "967bac2c-ed52-4adb-817b-9e1912c05169",
+      "title": "Documents on Giuseppe Pinelli",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "documents-on-giuseppe-pinelli",
+      "has_reactions": false
+    },
+    {
+      "id": "17dd6eeb-ceb0-461c-9eae-6d01a35a7fe5",
+      "title": "Investigation of a Citizen Above Suspicion",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "investigation-of-a-citizen-above-suspicion",
+      "has_reactions": false
+    },
+    {
+      "id": "fa46bd6a-0d40-4142-9a81-c9da2bcc2d2d",
+      "title": "Le Cercle Rouge",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "le-cercle-rouge",
+      "has_reactions": false
+    },
+    {
+      "id": "8088940b-0318-40b9-8f65-3b500255a58e",
+      "title": "Sacco & Vanzetti",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "sacco-vanzetti",
+      "has_reactions": false
+    },
+    {
+      "id": "73e86a26-0cc1-4d2f-bad7-99087b3e50e0",
+      "title": "The Working Class Goes to Heaven",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-working-class-goes-to-heaven",
+      "has_reactions": false
+    },
+    {
+      "id": "2a7bb85e-637e-41fb-b4c9-19950b1c16e7",
+      "title": "The Mattei Affair",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-mattei-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "019bee67-d68b-4d39-b24b-fd9ddf380657",
+      "title": "The Assassination",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-assassination",
+      "has_reactions": false
+    },
+    {
+      "id": "68a86b18-5caa-4f37-9b4f-2826d23ade90",
+      "title": "Slap the Monster on Page One",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "slap-the-monster-on-page-one",
+      "has_reactions": false
+    },
+    {
+      "id": "174ee7be-6883-4cec-82bb-60d775df5056",
+      "title": "La tenda in piazza",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "la-tenda-in-piazza",
+      "has_reactions": false
+    },
+    {
+      "id": "fd8829b5-4d1d-43e2-828f-df0ab308333b",
+      "title": "Festival dell\u2019Unit\u00e0 1972",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "festival-dell-unit-1972",
+      "has_reactions": false
+    },
+    {
+      "id": "751ad018-5a10-42a0-a106-303db397827a",
+      "title": "Giordano Bruno",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "giordano-bruno",
+      "has_reactions": false
+    },
+    {
+      "id": "596f2dc7-47b3-4728-8a7b-426b93fd0cbb",
+      "title": "Lucky Luciano",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "lucky-luciano",
+      "has_reactions": false
+    },
+    {
+      "id": "b14a3695-30c9-42a8-ac08-92d25f08ff34",
+      "title": "Letters from Marusia",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "letters-from-marusia",
+      "has_reactions": false
+    },
+    {
+      "id": "27729e19-0548-4da2-bdca-389b31c2934f",
+      "title": "The Suspect",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-suspect",
+      "has_reactions": false
+    },
+    {
+      "id": "8f44d6b2-775a-48b2-bfb7-d53f005ae0e0",
+      "title": "One Way or Another",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "one-way-or-another",
+      "has_reactions": false
+    },
+    {
+      "id": "3fc63f76-1c13-4c1d-b61c-b4ad3faa3df5",
+      "title": "I Am Afraid",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "i-am-afraid",
+      "has_reactions": false
+    },
+    {
+      "id": "1c2f0795-6f99-4aa6-9d8b-132ddb20bf67",
+      "title": "Reflections on a Political Cinema",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "reflections-on-a-political-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "1c2bca57-1e3a-4268-97bf-5efd125a146e",
+      "title": "Christ Stopped at Eboli",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "christ-stopped-at-eboli",
+      "has_reactions": false
+    },
+    {
+      "id": "c9bcf9d9-f266-4e88-a3e0-825425ee76dd",
+      "title": "Operation Ogre",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "operation-ogre",
+      "has_reactions": false
+    },
+    {
+      "id": "57155529-0d9c-45ad-b9ef-bedb7f44c5cb",
+      "title": "Stark System",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "stark-system",
+      "has_reactions": false
+    },
+    {
+      "id": "706f84bc-a601-4ef6-8032-b425e9bf3286",
+      "title": "Lady of the Camelias",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "lady-of-the-camelias",
+      "has_reactions": false
+    },
+    {
+      "id": "246069bd-d328-46a4-92ce-0b78e5f597bd",
+      "title": "The Death of Mario Ricci",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-death-of-mario-ricci",
+      "has_reactions": false
+    },
+    {
+      "id": "47b33577-8280-49c6-9a69-fc33461b4d73",
+      "title": "The Moro Affair",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-moro-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "4d3efc30-8a60-4719-8219-1b0ef1115d8b",
+      "title": "A Boy from Calabria",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "a-boy-from-calabria",
+      "has_reactions": false
+    },
+    {
+      "id": "cef8fc7c-3759-4af3-83ee-bb6540dc5d92",
+      "title": "Chronicle of a Death Foretold",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "chronicle-of-a-death-foretold",
+      "has_reactions": false
+    },
+    {
+      "id": "ba7e71c1-aee0-452d-99ab-5fba202afad1",
+      "title": "The Abyss",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-abyss",
+      "has_reactions": false
+    },
+    {
+      "id": "224e4b06-ea0d-4a2a-9297-15d2d8a5eea7",
+      "title": "Pestalozzi's Mountain",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "pestalozzi-s-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "6992d654-b063-4908-9020-b2e19748026c",
+      "title": "Tre colonne in cronaca",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tre-colonne-in-cronaca",
+      "has_reactions": false
+    },
+    {
+      "id": "b93e31b9-1271-455c-a322-4385d873b4fd",
+      "title": "Open Doors",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "open-doors",
+      "has_reactions": false
+    },
+    {
+      "id": "6ef5d7f9-0bb1-4141-8c96-4b2d54cd239a",
+      "title": "A Simple Story",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "a-simple-story",
+      "has_reactions": false
+    },
+    {
+      "id": "539988e3-d580-4ee1-8b54-f7a16ce3c140",
+      "title": "Funes, a Great Love",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "funes-a-great-love",
+      "has_reactions": false
+    },
+    {
+      "id": "bbb38819-c2e7-4167-9ba3-4a44ec038a47",
+      "title": "Banderas, the Tyrant",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "banderas-the-tyrant",
+      "has_reactions": false
+    },
+    {
+      "id": "c2548272-efda-40a6-8417-77e1799422eb",
+      "title": "Investigation of a Citizen Named Volont\u00e9",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "investigation-of-a-citizen-named-volont",
+      "has_reactions": false
+    },
+    {
+      "id": "73f147f4-4b2e-4455-b052-e633c8bd758a",
+      "title": "Un attore contro - Gian Maria Volont\u00e9",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "un-attore-contro-gian-maria-volont",
+      "has_reactions": false
+    },
+    {
+      "id": "6bc63162-804f-4894-8335-0e2301d71832",
+      "title": "Elio Petri: Notes About a Filmmaker",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "elio-petri-notes-about-a-filmmaker",
+      "has_reactions": false
+    },
+    {
+      "id": "f1c8de60-0f21-4dde-99bd-93bef270f3c7",
+      "title": "Spanish Western",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "spanish-western",
+      "has_reactions": false
+    },
+    {
+      "id": "24b60e4d-7acd-43f5-93e3-e44a9bd87b84",
+      "title": "Forgotten Activism",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "forgotten-activism",
+      "has_reactions": false
+    },
+    {
+      "id": "fc980506-0435-4c31-a131-48d29a27fe84",
+      "title": "Z\u00e9non the Rebel",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "z-non-the-rebel",
+      "has_reactions": false
+    },
+    {
+      "id": "6d28bbba-fd72-4753-8022-313830631c5c",
+      "title": "We Are Cinema",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "we-are-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "07805d58-4183-431f-a47d-af0e564fcc9f",
+      "title": "Rosi About Eboli",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rosi-about-eboli",
+      "has_reactions": false
+    },
+    {
+      "id": "e288e79c-74ee-481d-a09a-cc84e85c5b93",
+      "title": "Volont\u00e9: The Man of a Thousand Faces",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "volont-the-man-of-a-thousand-faces",
+      "has_reactions": false
+    }
+  ]
+}

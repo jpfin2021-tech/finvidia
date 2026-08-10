@@ -1,0 +1,40 @@
+{
+  "id": "436f2a65-76d2-44fe-956b-72f4620f20c8",
+  "name": "Elliott Fullam",
+  "slug": "elliott-fullam",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/dNsFLihmWfA2KCENbZCtq9AjSob.jpg",
+  "filmography": [
+    {
+      "id": "ce78d768-937e-410f-91a3-eecc028c8dc6",
+      "title": "Terrifier 2",
+      "release_year": 2022,
+      "studio_label": "Dark Age Cinema",
+      "slug": "terrifier-2",
+      "has_reactions": true
+    },
+    {
+      "id": "ab152470-72e7-4e63-bde7-90a2ed317c46",
+      "title": "Terrifier 3",
+      "release_year": 2024,
+      "studio_label": "Dark Age Cinema",
+      "slug": "terrifier-3",
+      "has_reactions": true
+    },
+    {
+      "id": "e2af85d5-6290-4f6a-a1ce-7c66ce5e42ce",
+      "title": "Wolf In Crown",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "wolf-in-crown",
+      "has_reactions": false
+    },
+    {
+      "id": "9b81efe6-fcf3-4b4b-89cd-9afbc4efc1d7",
+      "title": "The Pitchfork Retreat",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-pitchfork-retreat",
+      "has_reactions": false
+    }
+  ]
+}

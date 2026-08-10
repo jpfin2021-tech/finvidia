@@ -1,0 +1,528 @@
+{
+  "id": "0ea9c491-2392-4428-bc57-80fc8fc0fcf9",
+  "name": "Frank Grillo",
+  "slug": "frank-grillo",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/kuEco4vo1xrsM8DyrNSZUEi593P.jpg",
+  "filmography": [
+    {
+      "id": "7bac7712-2288-432b-a02f-2efac19a2e77",
+      "title": "Untitled Purge Sequel",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "untitled-purge-sequel",
+      "has_reactions": false
+    },
+    {
+      "id": "6f5deb12-269a-4b40-981b-54ab89c713e5",
+      "title": "The Dagon",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-dagon",
+      "has_reactions": false
+    },
+    {
+      "id": "9cb66f1f-63f7-49cf-86d5-cf4edd5c24fd",
+      "title": "Dirty",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "dirty",
+      "has_reactions": false
+    },
+    {
+      "id": "eb50fcb5-e5ae-4751-870f-fbf59be13177",
+      "title": "Override",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "override",
+      "has_reactions": false
+    },
+    {
+      "id": "bb155927-d10d-4c13-abf8-6ab38b926e40",
+      "title": "Branded",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "branded",
+      "has_reactions": false
+    },
+    {
+      "id": "884ecc05-50c1-4d8a-8163-70a895889473",
+      "title": "Deadly Rivals",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "deadly-rivals",
+      "has_reactions": false
+    },
+    {
+      "id": "d45ca197-1cfc-4255-b016-d46f0a68d712",
+      "title": "Deadly Charades",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "deadly-charades",
+      "has_reactions": false
+    },
+    {
+      "id": "5117df7d-0c41-4302-9f7f-0055b9dcc55c",
+      "title": "The Sweetest Thing",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-sweetest-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "79b59334-fd9d-4291-9403-2836db849f14",
+      "title": "Hunter: Return to Justice",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hunter-return-to-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "5b2a3d65-ed56-4b76-84e7-a199a64d554a",
+      "title": "Minority Report",
+      "release_year": 2002,
+      "studio_label": "Digital Image Associates",
+      "slug": "minority-report",
+      "has_reactions": true
+    },
+    {
+      "id": "79f70eec-ac1e-449e-a101-69ab07b6ee8b",
+      "title": "Hunter: Back in Force",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hunter-back-in-force",
+      "has_reactions": false
+    },
+    {
+      "id": "e87b547e-707b-494c-8a3f-918d182c452f",
+      "title": "April's Shower",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "april-s-shower",
+      "has_reactions": false
+    },
+    {
+      "id": "9a0fe71e-881a-489d-8fe1-b953a75bdee4",
+      "title": "The Shield: Wrap Day",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-shield-wrap-day",
+      "has_reactions": false
+    },
+    {
+      "id": "90922713-e90e-4829-b892-86e57e3bc0e5",
+      "title": "Hollis & Rae",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "hollis-rae",
+      "has_reactions": false
+    },
+    {
+      "id": "98374210-1716-4216-98df-20af149f9275",
+      "title": "Pride and Glory",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "pride-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "2b1b6576-93f6-4b70-9aeb-d46ccee2a43c",
+      "title": "iMurders",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "imurders",
+      "has_reactions": false
+    },
+    {
+      "id": "2f496e72-ae22-47c5-8ab5-91540bf77e28",
+      "title": "Edge of Darkness",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "edge-of-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "953b85c0-9484-425d-b457-0558fb93dbc7",
+      "title": "Blue Eyes",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "blue-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "c132d890-c416-4a11-96f8-5a57f8101460",
+      "title": "Mother's Day",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mother-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "d7072c22-8fe9-4780-a2e7-58e7f951cdb9",
+      "title": "Warrior",
+      "release_year": 2011,
+      "studio_label": "Lionsgate",
+      "slug": "warrior",
+      "has_reactions": true
+    },
+    {
+      "id": "446da942-19b4-423c-8959-f395b83e242c",
+      "title": "Redemption: Bringing Warrior to Life",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "redemption-bringing-warrior-to-life",
+      "has_reactions": false
+    },
+    {
+      "id": "1edbd618-aa7d-47f8-a430-0d8db81644ef",
+      "title": "End of Watch",
+      "release_year": 2012,
+      "studio_label": "5150 Action",
+      "slug": "end-of-watch",
+      "has_reactions": true
+    },
+    {
+      "id": "f423db77-ba39-4d3a-b731-af2b4b38e31c",
+      "title": "The Grey",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-grey",
+      "has_reactions": false
+    },
+    {
+      "id": "5be1e458-ad90-4713-9582-32cc9b2d6892",
+      "title": "Zero Dark Thirty",
+      "release_year": 2012,
+      "studio_label": "Annapurna Pictures",
+      "slug": "zero-dark-thirty",
+      "has_reactions": true
+    },
+    {
+      "id": "4adb39f9-48d1-423c-b0fc-de3b0d4d19c4",
+      "title": "Homefront",
+      "release_year": 2013,
+      "studio_label": "Open Road Films",
+      "slug": "homefront",
+      "has_reactions": true
+    },
+    {
+      "id": "84409f32-8cd8-4058-a391-c32209adecc8",
+      "title": "Disconnect",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "disconnect",
+      "has_reactions": false
+    },
+    {
+      "id": "cb9d067b-9dbb-4837-be70-947335316e1c",
+      "title": "Collision",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "collision",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a5dcbd-023f-4ecf-963e-fb73b79fff10",
+      "title": "Captain America: The Winter Soldier",
+      "release_year": 2014,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-the-winter-soldier",
+      "has_reactions": true
+    },
+    {
+      "id": "1d3c015d-7199-4291-ac28-3a729a8e7181",
+      "title": "The Purge: Anarchy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-purge-anarchy",
+      "has_reactions": false
+    },
+    {
+      "id": "be64cf41-8ede-404c-bb44-e4e5b181d8dd",
+      "title": "Demonic",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "demonic",
+      "has_reactions": false
+    },
+    {
+      "id": "8f3ba409-6d5e-48b3-b173-763a545f1200",
+      "title": "The Purge: Election Year",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-purge-election-year",
+      "has_reactions": false
+    },
+    {
+      "id": "6d7749d6-94b6-4166-9f95-9e5339d8f4a7",
+      "title": "Captain America: Civil War",
+      "release_year": 2016,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-civil-war",
+      "has_reactions": true
+    },
+    {
+      "id": "d274d8f4-5ba5-4765-9754-c10988bb5952",
+      "title": "Wheelman",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "wheelman",
+      "has_reactions": false
+    },
+    {
+      "id": "9296cc96-188d-4229-9468-d254626bd619",
+      "title": "Wolf Warrior 2",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "wolf-warrior-2",
+      "has_reactions": false
+    },
+    {
+      "id": "37279ab5-3fa5-41d4-9d8f-2c478f1a3b33",
+      "title": "The Crash",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-crash",
+      "has_reactions": false
+    },
+    {
+      "id": "1cf40484-bb3e-4ca1-84aa-fe99af3514f9",
+      "title": "Reprisal",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "reprisal",
+      "has_reactions": false
+    },
+    {
+      "id": "d1b00dd3-ccf6-48c6-9656-6bc66566ce60",
+      "title": "Into the Ashes",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "into-the-ashes",
+      "has_reactions": false
+    },
+    {
+      "id": "f5e39430-9a96-45cc-abf6-cb2784983d77",
+      "title": "Hell on the Border",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "hell-on-the-border",
+      "has_reactions": false
+    },
+    {
+      "id": "d9002057-e449-47e4-aa9b-c6244dcfcf55",
+      "title": "Avengers: Endgame",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-endgame",
+      "has_reactions": true
+    },
+    {
+      "id": "40622220-02d6-447a-a8f9-f032f360f445",
+      "title": "Point Blank",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "point-blank",
+      "has_reactions": false
+    },
+    {
+      "id": "1e6e1292-2213-450f-886f-fb1504575209",
+      "title": "Jiu Jitsu",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "jiu-jitsu",
+      "has_reactions": false
+    },
+    {
+      "id": "00d984e1-0389-491f-af6b-2576d95e371f",
+      "title": "Ida Red",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "ida-red",
+      "has_reactions": false
+    },
+    {
+      "id": "2b76cac8-6201-4137-b3f2-a477aa809aea",
+      "title": "Body Brokers",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "body-brokers",
+      "has_reactions": false
+    },
+    {
+      "id": "85a9c26e-f550-4d9c-b3d1-467f6d4add61",
+      "title": "Cosmic Sin",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "cosmic-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "debfc651-e9ee-4be9-bc34-476edc97280e",
+      "title": "This Is the Night",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "this-is-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "3f130ec9-cd35-40d5-8e25-87cf3bd921d5",
+      "title": "The Gateway",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-gateway",
+      "has_reactions": false
+    },
+    {
+      "id": "e486f774-bf70-4fc8-9b77-f312475e5ec5",
+      "title": "Shattered",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "shattered",
+      "has_reactions": false
+    },
+    {
+      "id": "32b196fe-1a22-4346-9546-4f70e2d201a6",
+      "title": "A Day to Die",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "a-day-to-die",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a1f389-e020-4931-bf46-9b111d83ee2c",
+      "title": "Lamborghini: The Man Behind the Legend",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "lamborghini-the-man-behind-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "f793bb86-5170-4b5f-9b78-0167a4492cc6",
+      "title": "Paradise Highway",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "paradise-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "b5a05980-cfe9-4188-8eda-60fb2f233229",
+      "title": "Operation Seawolf",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "operation-seawolf",
+      "has_reactions": false
+    },
+    {
+      "id": "1b3c0b5d-3e01-4122-91f8-219b0befecfd",
+      "title": "Little Dixie",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "little-dixie",
+      "has_reactions": false
+    },
+    {
+      "id": "b5afe56d-b497-4c34-bba6-5989e27ae2ad",
+      "title": "One Day as a Lion",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "one-day-as-a-lion",
+      "has_reactions": false
+    },
+    {
+      "id": "ed20824e-df8c-4f37-8cf1-d99020007519",
+      "title": "The Resurrection of Charles Manson",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-resurrection-of-charles-manson",
+      "has_reactions": false
+    },
+    {
+      "id": "f41a3b7c-35b7-4e29-a29b-cdb2c0cd5c8b",
+      "title": "Justice League: Warworld",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "justice-league-warworld",
+      "has_reactions": false
+    },
+    {
+      "id": "db946bf9-ddca-4380-b106-89692a214675",
+      "title": "Black Lotus",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "black-lotus",
+      "has_reactions": false
+    },
+    {
+      "id": "08ae1375-caa2-4793-baf5-35ec832d0580",
+      "title": "MR-9: Do or Die",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "mr-9-do-or-die",
+      "has_reactions": false
+    },
+    {
+      "id": "68b3e283-361f-409d-b6e4-fa031a98b078",
+      "title": "Hounds of War",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hounds-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "2a4a996a-a210-4409-9746-194e4b30d5d8",
+      "title": "Long Gone Heroes",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "long-gone-heroes",
+      "has_reactions": false
+    },
+    {
+      "id": "764f6309-36b9-4b0c-a346-119ebe1b14c6",
+      "title": "Die Alone",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "die-alone",
+      "has_reactions": false
+    },
+    {
+      "id": "3df1cb03-c15c-44d0-9ab2-e7ff4ce73266",
+      "title": "Werewolves",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "werewolves",
+      "has_reactions": false
+    },
+    {
+      "id": "3f87fe7b-164f-4679-af4e-316fda62acc7",
+      "title": "Lights Out",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lights-out",
+      "has_reactions": false
+    },
+    {
+      "id": "6022b84b-1aa3-4e39-bc0d-6c3ba27ff9a7",
+      "title": "Superman",
+      "release_year": 2025,
+      "studio_label": "Troll Court Entertainment",
+      "slug": "superman",
+      "has_reactions": true
+    },
+    {
+      "id": "f30687f9-343b-4797-ac82-10f8242a474a",
+      "title": "Misdirection",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "misdirection",
+      "has_reactions": false
+    },
+    {
+      "id": "5abbed2b-bf46-4136-87e8-d233bff50d35",
+      "title": "Man of Tomorrow",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "man-of-tomorrow",
+      "has_reactions": false
+    }
+  ]
+}

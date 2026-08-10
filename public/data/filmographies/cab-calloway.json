@@ -1,0 +1,416 @@
+{
+  "id": "f8adb015-e050-487b-ad27-81d407591b7f",
+  "name": "Cab Calloway",
+  "slug": "cab-calloway",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nFz0J0hRCqk5NdNYRpBuTXpqQax.jpg",
+  "filmography": [
+    {
+      "id": "542cc982-9cbd-4d7c-910f-6feb1485bd2d",
+      "title": "Ebony Parade",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "ebony-parade",
+      "has_reactions": false
+    },
+    {
+      "id": "fd85f303-5e4f-4778-8d20-6bb79e244d43",
+      "title": "The Big Broadcast",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "the-big-broadcast",
+      "has_reactions": false
+    },
+    {
+      "id": "fea63ea0-67ac-4438-b971-0b56a2da12c9",
+      "title": "Minnie the Moocher",
+      "release_year": 1932,
+      "studio_label": "\u2014",
+      "slug": "minnie-the-moocher",
+      "has_reactions": false
+    },
+    {
+      "id": "7c7e294b-023b-4534-afc6-e467d8a45380",
+      "title": "The Old Man of the Mountain",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "the-old-man-of-the-mountain",
+      "has_reactions": false
+    },
+    {
+      "id": "f0f0940f-e475-4c70-923f-56ed28083e7d",
+      "title": "Snow-White",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "snow-white",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf94bce-57e3-4408-876d-94a3029d876a",
+      "title": "International House",
+      "release_year": 1933,
+      "studio_label": "\u2014",
+      "slug": "international-house",
+      "has_reactions": false
+    },
+    {
+      "id": "e9bbf5c2-fc01-42a6-b611-3157ae5ea5c2",
+      "title": "Betty Boop's Rise to Fame",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "betty-boop-s-rise-to-fame",
+      "has_reactions": false
+    },
+    {
+      "id": "77940e4d-f15d-4ef5-9aba-b419740c314c",
+      "title": "Cab Calloway's Hi-De-Ho",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-s-hi-de-ho",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae4e95a-82c1-4606-9b6b-262333cd82e2",
+      "title": "Jazz Icons: Cab Calloway",
+      "release_year": 1934,
+      "studio_label": "\u2014",
+      "slug": "jazz-icons-cab-calloway",
+      "has_reactions": false
+    },
+    {
+      "id": "95fb9d80-c707-488c-9dde-7a5c6fa79164",
+      "title": "Cab Calloway's Jitterbug Party",
+      "release_year": 1935,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-s-jitterbug-party",
+      "has_reactions": false
+    },
+    {
+      "id": "051f5e14-4df6-4442-9ab9-526cb011964a",
+      "title": "The Singing Kid",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "the-singing-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "0cb97da9-9a0a-4884-addb-9d1b91ed086f",
+      "title": "Hi-De-Ho",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "hi-de-ho",
+      "has_reactions": false
+    },
+    {
+      "id": "d6edfc63-e0c3-4f27-974d-26eff7a1b5b8",
+      "title": "Manhattan Merry-Go-Round",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "manhattan-merry-go-round",
+      "has_reactions": false
+    },
+    {
+      "id": "277daa6e-f125-4481-af7e-34c7dbe14466",
+      "title": "The Skunk Song",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-skunk-song",
+      "has_reactions": false
+    },
+    {
+      "id": "8807ba5a-8f2b-4d27-8d92-2979af120ccf",
+      "title": "Minnie the Moocher",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "minnie-the-moocher",
+      "has_reactions": false
+    },
+    {
+      "id": "7e837395-8470-415b-bf02-ac5a19e6013d",
+      "title": "Blues in the Night",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "blues-in-the-night",
+      "has_reactions": false
+    },
+    {
+      "id": "42f06ec2-16f5-4b73-afa5-d06f2f145859",
+      "title": "Stormy Weather",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "stormy-weather",
+      "has_reactions": false
+    },
+    {
+      "id": "8fd06cac-1807-4dbc-b2e6-85210b746d0f",
+      "title": "Sensations of 1945",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "sensations-of-1945",
+      "has_reactions": false
+    },
+    {
+      "id": "404afac1-6320-47de-90dc-d2f1d3cb0e4d",
+      "title": "Walking with My Honey",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "walking-with-my-honey",
+      "has_reactions": false
+    },
+    {
+      "id": "d8e9fe22-4259-418e-a4a0-284b565728e3",
+      "title": "We the Cats Shall Hep Ya",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "we-the-cats-shall-hep-ya",
+      "has_reactions": false
+    },
+    {
+      "id": "412b689c-9e35-43f7-ac8c-f48d377afe88",
+      "title": "Foo a Little Bally-Hoo",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "foo-a-little-bally-hoo",
+      "has_reactions": false
+    },
+    {
+      "id": "df357db5-4242-4545-b117-276468434241",
+      "title": "Blowtop Blues",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "blowtop-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "788b7882-2457-4c6c-b612-999b81348120",
+      "title": "Caldonia",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "caldonia",
+      "has_reactions": false
+    },
+    {
+      "id": "2db1beef-8be8-40a6-ad13-a14d1d3b9511",
+      "title": "I Was Here When You Left Me",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "i-was-here-when-you-left-me",
+      "has_reactions": false
+    },
+    {
+      "id": "a8a19df2-e1f8-4849-803c-83621742659c",
+      "title": "Hi-De-Ho",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "hi-de-ho",
+      "has_reactions": false
+    },
+    {
+      "id": "cd852ae7-bef2-4955-88d5-628345ab1f61",
+      "title": "Cab Calloway Home Movies",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "5900397e-d002-4d5c-9da0-8612b6ad27e3",
+      "title": "Cab Calloway Home Movie #5",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-5",
+      "has_reactions": false
+    },
+    {
+      "id": "db2a6531-00e2-4784-9f10-e6e447257bc4",
+      "title": "Cab Calloway Home Movie #2",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-2",
+      "has_reactions": false
+    },
+    {
+      "id": "62603cdd-eca9-4720-8e4f-59630d2f3347",
+      "title": "Cab Calloway Home Movie #4",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-4",
+      "has_reactions": false
+    },
+    {
+      "id": "0e935d74-156e-47f1-a357-ece9cbbb9a16",
+      "title": "Cab Calloway Home Movie: Haiti",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-haiti",
+      "has_reactions": false
+    },
+    {
+      "id": "f5f2dfb6-74ba-42e7-8da1-6e788d27ba88",
+      "title": "Cab Calloway Home Movie #1",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-1",
+      "has_reactions": false
+    },
+    {
+      "id": "6d66dd1d-e84f-472e-bd7d-33d3e648fb5d",
+      "title": "Cab Calloway Home Movie #3",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-home-movie-3",
+      "has_reactions": false
+    },
+    {
+      "id": "8198680d-2c23-4344-a190-ac1f4a9223d1",
+      "title": "Porgy and Bess in Wien",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "porgy-and-bess-in-wien",
+      "has_reactions": false
+    },
+    {
+      "id": "2cb7b238-e7b7-435f-8817-2d27b42f74fa",
+      "title": "Rhythm and Blues Revue",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "rhythm-and-blues-revue",
+      "has_reactions": false
+    },
+    {
+      "id": "ef765040-0496-49f0-aaeb-647de2e98d83",
+      "title": "Jazz Ball",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "jazz-ball",
+      "has_reactions": false
+    },
+    {
+      "id": "b9df40a7-2ce8-4c43-b1ab-2c3bbd772ff8",
+      "title": "St. Louis Blues",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "st-louis-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "d33c4dc6-ba4c-4fc6-b2ba-1f0e73456cbc",
+      "title": "Schlager-Raketen",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "schlager-raketen",
+      "has_reactions": false
+    },
+    {
+      "id": "3c5d95da-1522-4cc3-a694-52a201129a61",
+      "title": "The Cincinnati Kid",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "the-cincinnati-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "0c0437e6-2f43-41a9-9d51-057f713ed571",
+      "title": "Triumph Over Violence",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "triumph-over-violence",
+      "has_reactions": false
+    },
+    {
+      "id": "9e180399-77e1-4ab9-91ad-fcebb77ab0a6",
+      "title": "The Littlest Angel",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-littlest-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "b98b9dc0-9cc3-4df1-b63c-e0e530bc5b3c",
+      "title": "Black Shadows on a Silver Screen",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "black-shadows-on-a-silver-screen",
+      "has_reactions": false
+    },
+    {
+      "id": "89ef8b00-16a7-4a13-a2bc-7e44a5b48958",
+      "title": "The Great Balloon Race",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-great-balloon-race",
+      "has_reactions": false
+    },
+    {
+      "id": "cc88403a-4e4c-4251-bb60-219c25136916",
+      "title": "The Blues Brothers",
+      "release_year": 1980,
+      "studio_label": "Universal Pictures",
+      "slug": "the-blues-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "fc52b09a-8a74-47d9-90c4-879130736b2c",
+      "title": "Night of 100 Stars III",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "night-of-100-stars-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "ee779044-7d09-48c2-a367-895f368bc8cd",
+      "title": "Betty Boop: Queen of the Cartoons",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "betty-boop-queen-of-the-cartoons",
+      "has_reactions": false
+    },
+    {
+      "id": "67258202-6640-4c3b-a61f-fe3604e83016",
+      "title": "Grass",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "grass",
+      "has_reactions": false
+    },
+    {
+      "id": "3a02d889-c419-4b11-9ca2-efd70b961452",
+      "title": "Piano Blues",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "piano-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "cf7c11c3-19db-4fd9-82e5-2f8e72ed5898",
+      "title": "The Harlem Renaissance",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-harlem-renaissance",
+      "has_reactions": false
+    },
+    {
+      "id": "545ae0b2-0dfe-4cd8-a900-2f542912444c",
+      "title": "Cab Calloway: Sketches",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "cab-calloway-sketches",
+      "has_reactions": false
+    },
+    {
+      "id": "fec5c904-b5a1-4671-a76c-bdfacd638f53",
+      "title": "Everything's Fine",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "everything-s-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "3a2ad12e-4257-4bc0-b48f-b64b7b81011f",
+      "title": "Fleischer Cartoons: The Art & Inventions of Max Fleischer",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "fleischer-cartoons-the-art-inventions-of-max-fleischer",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "id": "6acaa152-b6df-4b38-9634-5ff54e912c3a",
+  "name": "Daniel Roebuck",
+  "slug": "daniel-roebuck",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/y40aX3SdvUZwE7feNq77UMg3zge.jpg",
+  "filmography": [
+    {
+      "id": "7658f101-9d69-4e40-a037-47e35a120404",
+      "title": "13 Girls",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "13-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "0aaa48ea-fa64-4a5b-a13e-b9c121daf6b6",
+      "title": "Campfire",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "campfire",
+      "has_reactions": false
+    },
+    {
+      "id": "0a1bb759-a3c3-4658-b8aa-2bad1d9870dd",
+      "title": "Cavegirl",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "cavegirl",
+      "has_reactions": false
+    },
+    {
+      "id": "bc1647f5-5a40-45b0-8292-56b60e2bf45d",
+      "title": "River's Edge",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "river-s-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "dfd08685-0993-4513-b45e-78359388c568",
+      "title": "Dudes",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "dudes",
+      "has_reactions": false
+    },
+    {
+      "id": "52eddfe8-af64-4f5f-ae33-de6a3cc1e128",
+      "title": "Disorganized Crime",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "disorganized-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "4dbe8936-a7ac-4008-a403-7f80a5ee9ca0",
+      "title": "Terror Eyes",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "terror-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "43d8ed04-59d2-4fbe-85c6-8deff838a391",
+      "title": "Lookwell",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "lookwell",
+      "has_reactions": false
+    },
+    {
+      "id": "167e9298-3fd1-4042-9300-a8c9da1cad41",
+      "title": "The Killing Mind",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-killing-mind",
+      "has_reactions": false
+    },
+    {
+      "id": "557e347b-837f-419f-ba1a-4a7cbdb25ef5",
+      "title": "The Fugitive",
+      "release_year": 1993,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "the-fugitive",
+      "has_reactions": true
+    },
+    {
+      "id": "49727f7e-2d68-4151-b706-e7e57dbe96ce",
+      "title": "Abducted: A Father's Love",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "abducted-a-father-s-love",
+      "has_reactions": false
+    },
+    {
+      "id": "2b87e6b3-ee49-4c64-9b7e-80621c5dd50f",
+      "title": "Halloween... The Happy Haunting of America!",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "halloween-the-happy-haunting-of-america",
+      "has_reactions": false
+    },
+    {
+      "id": "aaf5b091-8890-4d98-ab58-4a442cbc60a2",
+      "title": "Stir",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "stir",
+      "has_reactions": false
+    },
+    {
+      "id": "f17d94aa-691c-4b99-9f14-ecc4c59d245d",
+      "title": "U.S. Marshals",
+      "release_year": 1998,
+      "studio_label": "Kopelson Entertainment",
+      "slug": "u-s-marshals",
+      "has_reactions": true
+    },
+    {
+      "id": "5cb88775-cf7b-455b-b74d-491240d79a24",
+      "title": "Driven",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "driven",
+      "has_reactions": false
+    },
+    {
+      "id": "e0a4fcba-b79c-4d56-be85-81d2136f7d60",
+      "title": "Sweet Jane",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "sweet-jane",
+      "has_reactions": false
+    },
+    {
+      "id": "d34bdbd6-f5fa-4690-81dc-ca93e9db30e2",
+      "title": "Final Destination",
+      "release_year": 2000,
+      "studio_label": "Zide-Perry Productions",
+      "slug": "final-destination",
+      "has_reactions": true
+    },
+    {
+      "id": "95ac067d-7129-4481-aeaf-0e86a4e78c59",
+      "title": "Mexico City",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "mexico-city",
+      "has_reactions": false
+    },
+    {
+      "id": "157bd9d9-fa2f-4415-91c9-08fc15353498",
+      "title": "Quints",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "quints",
+      "has_reactions": false
+    },
+    {
+      "id": "915a7136-506f-413a-8400-0b9f1cac0e0d",
+      "title": "The Vampire Hunters Club",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-vampire-hunters-club",
+      "has_reactions": false
+    },
+    {
+      "id": "c4a1ac69-2f7b-44a1-a787-2426d6b92bb4",
+      "title": "A Glimpse of Hell",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-glimpse-of-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "228a9279-3b9d-4c4b-9246-821bde12f047",
+      "title": "A Mother's Testimony",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-mother-s-testimony",
+      "has_reactions": false
+    },
+    {
+      "id": "66963ea1-704e-45ab-acf1-f1814bb8e7e8",
+      "title": "Double Take",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "double-take",
+      "has_reactions": false
+    },
+    {
+      "id": "85950698-727a-4bda-bc88-c109f9d74c5c",
+      "title": "Hansel & Gretel",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "hansel-gretel",
+      "has_reactions": false
+    },
+    {
+      "id": "5e8c24ee-4e35-4bd3-ad11-3d385949ffb7",
+      "title": "Mary Christmas",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mary-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "1549baee-6498-461d-8e03-bd6b1f5887b1",
+      "title": "Bubba Ho-tep",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "bubba-ho-tep",
+      "has_reactions": false
+    },
+    {
+      "id": "10678766-957b-4a36-b96b-95cde836d5cb",
+      "title": "We Were Soldiers",
+      "release_year": 2002,
+      "studio_label": "Wheelhouse Entertainment",
+      "slug": "we-were-soldiers",
+      "has_reactions": true
+    },
+    {
+      "id": "05d965f8-0234-45fc-9ea4-55e98e48f9e7",
+      "title": "Miracle Dogs",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "miracle-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "195ddbda-9a1c-4d1b-be0e-45a37c397e88",
+      "title": "Agent Cody Banks",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "agent-cody-banks",
+      "has_reactions": false
+    },
+    {
+      "id": "27da36a3-1c2b-48c6-9f0d-32d6e18cd3ac",
+      "title": "Behind the Camera: The Unauthorized Story of 'Three's Company'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "behind-the-camera-the-unauthorized-story-of-three-s-company",
+      "has_reactions": false
+    },
+    {
+      "id": "9f732912-fa2a-47b3-90c8-b40300fe91a2",
+      "title": "Straight Into Darkness",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "straight-into-darkness",
+      "has_reactions": false
+    },
+    {
+      "id": "fc2f8ba6-a954-4005-b914-4f0ca0057f09",
+      "title": "Agent Cody Banks 2: Destination London",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "agent-cody-banks-2-destination-london",
+      "has_reactions": false
+    },
+    {
+      "id": "414dbb36-889d-489a-8d0e-56722fae90f4",
+      "title": "Monsterama: A Tribute to Horror Hosts",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "monsterama-a-tribute-to-horror-hosts",
+      "has_reactions": false
+    },
+    {
+      "id": "f9104899-95ea-4d9a-8b80-9263f37fd81f",
+      "title": "Blowing Smoke",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "blowing-smoke",
+      "has_reactions": false
+    },
+    {
+      "id": "3cdf5790-d67a-4614-a6fa-111c6c44e710",
+      "title": "Creature Feature: 50 Years of the Gill-Man",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "creature-feature-50-years-of-the-gill-man",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6c1644-5f20-4109-9186-c13fefbeeb2f",
+      "title": "American Black Beauty",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "american-black-beauty",
+      "has_reactions": false
+    },
+    {
+      "id": "69ed26bb-dc38-468d-b350-6c82a89ecb65",
+      "title": "The Naked Monster",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-naked-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "53b37604-909f-431a-aba0-57bc7e46f75d",
+      "title": "Confessions of a Sociopathic Social Climber",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "confessions-of-a-sociopathic-social-climber",
+      "has_reactions": false
+    },
+    {
+      "id": "a0062efb-6c61-4d37-9593-fe6ba1ad950c",
+      "title": "Murder at the Presidio",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "murder-at-the-presidio",
+      "has_reactions": false
+    },
+    {
+      "id": "f3d36a82-53d1-4c18-84c4-060ecdd8abc2",
+      "title": "Supercross",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "supercross",
+      "has_reactions": false
+    },
+    {
+      "id": "f9e15a71-016f-4ac7-8720-cc6f42f92764",
+      "title": "Behind the Camera: The Unauthorized Story of 'Mork & Mindy'",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "behind-the-camera-the-unauthorized-story-of-mork-mindy",
+      "has_reactions": false
+    },
+    {
+      "id": "11c762e0-ea4f-4ebe-9c3a-f01fda4cd787",
+      "title": "Graves End",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "graves-end",
+      "has_reactions": false
+    },
+    {
+      "id": "77ddd031-a2da-4408-8c8f-4ff40f0f6ff3",
+      "title": "I Was a Teenage Movie Maker: Don Glut's Amateur Movies",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "i-was-a-teenage-movie-maker-don-glut-s-amateur-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "1db5a911-937a-4621-ad11-4c7b9685bab4",
+      "title": "Red Riding Hood",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "red-riding-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "b240d34d-911a-4113-ba33-687e9041d21f",
+      "title": "Witch's Dungeon: 40 Years of Chills",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "witch-s-dungeon-40-years-of-chills",
+      "has_reactions": false
+    },
+    {
+      "id": "b0f129ff-ca1d-4dec-9555-e98ed6f8e6b3",
+      "title": "Flourish",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "flourish",
+      "has_reactions": false
+    },
+    {
+      "id": "d97c1a01-071e-4afd-ad88-779c10abb81c",
+      "title": "LA Blues",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "la-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "9bbb00b7-0940-4f24-b0f0-fb41f1f3e4f6",
+      "title": "Christmas Is Here Again",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "christmas-is-here-again",
+      "has_reactions": false
+    },
+    {
+      "id": "12d54235-c174-4bfe-a399-048c600cd933",
+      "title": "Shredderman Rules",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "shredderman-rules",
+      "has_reactions": false
+    },
+    {
+      "id": "5acb5980-6fa3-4bfd-881b-9f584cdcca1d",
+      "title": "A Family Lost",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "a-family-lost",
+      "has_reactions": false
+    },
+    {
+      "id": "77cf13ad-5a03-4c98-b2e2-58e565d05d10",
+      "title": "Halloween",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "216dfdaf-6f67-493a-bf18-20a014d7f877",
+      "title": "Trail of the Screaming Forehead",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "trail-of-the-screaming-forehead",
+      "has_reactions": false
+    },
+    {
+      "id": "2643b63d-4ad7-462e-a43a-96b5f1cd8a27",
+      "title": "Bryan Loves You",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "bryan-loves-you",
+      "has_reactions": false
+    },
+    {
+      "id": "fa87c744-c63f-4bc3-a35e-8953160883f1",
+      "title": "Rex",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "rex",
+      "has_reactions": false
+    },
+    {
+      "id": "bd4d8426-a895-401a-9c30-a617c20ed4a4",
+      "title": "Flash of Genius",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "flash-of-genius",
+      "has_reactions": false
+    },
+    {
+      "id": "edcbfeb9-8a75-4cd2-a74c-811d6fdef793",
+      "title": "How My Dad Killed Dracula",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "how-my-dad-killed-dracula",
+      "has_reactions": false
+    },
+    {
+      "id": "d63e2225-9fe0-4c44-b1a5-6a7760603fe1",
+      "title": "The Face is Familiar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-face-is-familiar",
+      "has_reactions": false
+    },
+    {
+      "id": "1b2c9db2-1b8f-4e18-a444-a6d5977b9165",
+      "title": "Jack and the Beanstalk",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "jack-and-the-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "09042b1c-d420-4fdf-ae31-2e364b0d80a6",
+      "title": "Halloween II",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halloween-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "c241e1a9-56fc-45d9-8672-6329c7c65b6b",
+      "title": "A Fork in the Road",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "a-fork-in-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "fc15ff52-d5df-49d1-b44a-daea276205d9",
+      "title": "One for the Road",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "one-for-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "59bb4418-71be-4645-8e95-b504c73824c6",
+      "title": "InSight",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "insight",
+      "has_reactions": false
+    },
+    {
+      "id": "f0175ed8-493b-4b66-bad4-c3beef3e8443",
+      "title": "Night Club",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "night-club",
+      "has_reactions": false
+    },
+    {
+      "id": "338151cc-cc45-49bf-a516-1b0568780014",
+      "title": "John Dies at the End",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "john-dies-at-the-end",
+      "has_reactions": false
+    },
+    {
+      "id": "7409ab9b-2473-4f9c-9e71-7ccacfb7752a",
+      "title": "Cave Girl, A Second Journey Back in Time",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "cave-girl-a-second-journey-back-in-time",
+      "has_reactions": false
+    },
+    {
+      "id": "d27e0504-422e-4b68-b2fc-c6619b34adaf",
+      "title": "Lionhead",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "lionhead",
+      "has_reactions": false
+    },
+    {
+      "id": "d27da2c1-87b6-4432-b3ed-1dc548436a04",
+      "title": "Grumpy Cat's Worst Christmas Ever",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "grumpy-cat-s-worst-christmas-ever",
+      "has_reactions": false
+    },
+    {
+      "id": "7447e898-fc81-4b2c-a8cc-bf5cf66edb62",
+      "title": "At the Devil's Door",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "at-the-devil-s-door",
+      "has_reactions": false
+    },
+    {
+      "id": "fda47857-43b9-4ec7-8758-b8218d6199b7",
+      "title": "The Flag",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-flag",
+      "has_reactions": false
+    },
+    {
+      "id": "8640e723-a9e6-4a93-b14b-cbb8160fd941",
+      "title": "Soaked in Bleach",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "soaked-in-bleach",
+      "has_reactions": false
+    },
+    {
+      "id": "8370e2dc-5723-406c-8c78-97f29252169b",
+      "title": "A Fighting Chance",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "a-fighting-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "6de5e2c4-932e-4962-98d5-1210afdb49a9",
+      "title": "Phantasm: Ravager",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "phantasm-ravager",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb0035c-9a08-4329-850c-71b1e902cc06",
+      "title": "31",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "31",
+      "has_reactions": false
+    },
+    {
+      "id": "d4291ef4-05d5-4175-9c45-99b1cd547fa1",
+      "title": "Second Thoughts",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "second-thoughts",
+      "has_reactions": false
+    },
+    {
+      "id": "c46a4b96-8da3-4eac-9722-1c44d396d14e",
+      "title": "Built by Jedi - The Making of Star Wars Jedi: Fallen Order",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "built-by-jedi-the-making-of-star-wars-jedi-fallen-order",
+      "has_reactions": false
+    },
+    {
+      "id": "73a55170-ab33-404e-9934-49b977af8a7b",
+      "title": "Disrupted",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "disrupted",
+      "has_reactions": false
+    },
+    {
+      "id": "2c505ed7-e5ff-47d4-b958-668a530ee8cc",
+      "title": "Uncommon Negotiator",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "uncommon-negotiator",
+      "has_reactions": false
+    },
+    {
+      "id": "63cc5340-df3a-4e8d-80e4-1c0a52a30a98",
+      "title": "The Munsters: Return to Mockingbird Lane",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-munsters-return-to-mockingbird-lane",
+      "has_reactions": false
+    },
+    {
+      "id": "b62d9af1-01b0-4f55-8af1-dcbd5c93af58",
+      "title": "Miracle at Manchester",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "miracle-at-manchester",
+      "has_reactions": false
+    },
+    {
+      "id": "dddf3d21-430c-43e6-9ed2-166109524c15",
+      "title": "Las Vegas Frankenstein",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "las-vegas-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "e2ee24ba-b248-41aa-9cda-e49903458fab",
+      "title": "I Can",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "i-can",
+      "has_reactions": false
+    },
+    {
+      "id": "769f9686-4960-4888-b1ae-867330c1e384",
+      "title": "Lucky Louie",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "lucky-louie",
+      "has_reactions": false
+    },
+    {
+      "id": "c7d1b113-00f7-4ff6-9113-d3ac68f60e8e",
+      "title": "Suffrage",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "suffrage",
+      "has_reactions": false
+    },
+    {
+      "id": "83d17ea3-6e97-4627-95c1-363dd45ee3ec",
+      "title": "Hunting for the Hag",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hunting-for-the-hag",
+      "has_reactions": false
+    },
+    {
+      "id": "64796a09-230f-4f67-a2e3-dd4ff3e7b1da",
+      "title": "Fear and Love: The Story of The Exorcist",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "fear-and-love-the-story-of-the-exorcist",
+      "has_reactions": false
+    },
+    {
+      "id": "f7fb4cce-110b-4193-af66-1d5f1f173fca",
+      "title": "Finger Laced Crown",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "finger-laced-crown",
+      "has_reactions": false
+    },
+    {
+      "id": "eea1d5e6-de73-45ff-9bd8-30dbc33eb8f3",
+      "title": "12 to Midnight",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "12-to-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "d3f019f1-9872-4c1f-b88c-8ab966c4c276",
+      "title": "Colonials",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "colonials",
+      "has_reactions": false
+    },
+    {
+      "id": "07793d51-853f-49fc-8da9-06e7ee788002",
+      "title": "The Horror-ble World of Daniel Roebuck",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-horror-ble-world-of-daniel-roebuck",
+      "has_reactions": false
+    },
+    {
+      "id": "160584a7-d6b9-452c-a8ce-892e71990ed2",
+      "title": "Saint Nick of Bethlehem",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "saint-nick-of-bethlehem",
+      "has_reactions": false
+    },
+    {
+      "id": "e48e8f16-0c0c-4710-9778-ae83081c2c2a",
+      "title": "I Feel Fine.",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "i-feel-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "f5d89294-06fe-411e-a499-a38a85a2f6a2",
+      "title": "Crust",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "crust",
+      "has_reactions": false
+    },
+    {
+      "id": "ab152470-72e7-4e63-bde7-90a2ed317c46",
+      "title": "Terrifier 3",
+      "release_year": 2024,
+      "studio_label": "Dark Age Cinema",
+      "slug": "terrifier-3",
+      "has_reactions": true
+    },
+    {
+      "id": "0c53fd4f-4418-4b5d-bfe3-5454cf9c18c7",
+      "title": "Bonhoeffer: Holy Traitor",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "bonhoeffer-holy-traitor",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "id": "58fd86ca-cdf8-4f13-b562-aa1e9faabf55",
+  "name": "Seth Green",
+  "slug": "seth-green",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg",
+  "filmography": [
+    {
+      "id": "a1e16cbd-1480-4c55-844f-c214ae9a3afb",
+      "title": "The Hotel New Hampshire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-hotel-new-hampshire",
+      "has_reactions": false
+    },
+    {
+      "id": "45d5661c-53c6-4ad5-9c3a-7b4e5d224387",
+      "title": "I Want to Go Home",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "i-want-to-go-home",
+      "has_reactions": false
+    },
+    {
+      "id": "e54b9b35-ba52-4865-ae49-d9a097ce3893",
+      "title": "Can't Buy Me Love",
+      "release_year": 1987,
+      "studio_label": "Apollo Pictures",
+      "slug": "can-t-buy-me-love",
+      "has_reactions": true
+    },
+    {
+      "id": "b1510bf2-73bf-4c09-9d33-7fbd9ad149a7",
+      "title": "Radio Days",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "radio-days",
+      "has_reactions": false
+    },
+    {
+      "id": "efd58096-6b1f-43c1-b485-a6fc19818395",
+      "title": "My Stepmother Is an Alien",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "my-stepmother-is-an-alien",
+      "has_reactions": false
+    },
+    {
+      "id": "db1b6859-8272-4622-8911-6646cce930de",
+      "title": "Pump Up the Volume",
+      "release_year": 1990,
+      "studio_label": "New Line Cinema",
+      "slug": "pump-up-the-volume",
+      "has_reactions": true
+    },
+    {
+      "id": "0320750a-63f9-4863-8cfb-b8f7215f3623",
+      "title": "Airborne",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "airborne",
+      "has_reactions": false
+    },
+    {
+      "id": "b89b2814-e65f-492a-a09c-ca08f527baf9",
+      "title": "Ticks",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "ticks",
+      "has_reactions": false
+    },
+    {
+      "id": "afa9c05b-959a-4552-a0de-e25b39f7f66c",
+      "title": "White Man's Burden",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "white-man-s-burden",
+      "has_reactions": false
+    },
+    {
+      "id": "ee149d54-668d-48a3-9c46-0457f8f7ab4b",
+      "title": "Austin Powers: International Man of Mystery",
+      "release_year": 1997,
+      "studio_label": "New Line Cinema",
+      "slug": "austin-powers-international-man-of-mystery",
+      "has_reactions": true
+    },
+    {
+      "id": "ce94741e-50ec-450c-9540-1cec0b65c697",
+      "title": "Boys Life 2",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "boys-life-2",
+      "has_reactions": false
+    },
+    {
+      "id": "a5f93b25-e0fe-4d17-bbf0-398ad49e1b3f",
+      "title": "Can't Hardly Wait",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "can-t-hardly-wait",
+      "has_reactions": false
+    },
+    {
+      "id": "ffb7d002-e9ea-4c95-97ce-0a3a2c348e6c",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "release_year": 1999,
+      "studio_label": "New Line Cinema",
+      "slug": "austin-powers-the-spy-who-shagged-me",
+      "has_reactions": true
+    },
+    {
+      "id": "db76e3fb-697e-4355-bb4d-84c9d48c27bc",
+      "title": "Idle Hands",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "idle-hands",
+      "has_reactions": false
+    },
+    {
+      "id": "6f0cc5ca-8561-4ec2-a3c6-5ec44b1bf16c",
+      "title": "Josie and the Pussycats",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "josie-and-the-pussycats",
+      "has_reactions": false
+    },
+    {
+      "id": "6dcb5b26-36cb-4414-9ea5-8d51c5d5e52a",
+      "title": "Playboy Mansion Parties Uncensored",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "playboy-mansion-parties-uncensored",
+      "has_reactions": false
+    },
+    {
+      "id": "81d4582a-3a79-4a41-95f8-8b2a501f8211",
+      "title": "Knockaround Guys",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "knockaround-guys",
+      "has_reactions": false
+    },
+    {
+      "id": "584875d5-d4c8-42f4-a0c4-f5487c2770d8",
+      "title": "America's Sweethearts",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "america-s-sweethearts",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa5d919-249d-4306-921b-209f9781473f",
+      "title": "Austin Powers in Goldmember",
+      "release_year": 2002,
+      "studio_label": "Eric's Boy",
+      "slug": "austin-powers-in-goldmember",
+      "has_reactions": true
+    },
+    {
+      "id": "e1ca90ce-3632-40ff-ab72-c0ad26b7abcb",
+      "title": "The Italian Job",
+      "release_year": 2003,
+      "studio_label": "De Line Pictures",
+      "slug": "the-italian-job",
+      "has_reactions": true
+    },
+    {
+      "id": "92e9c570-83d5-48f2-abe6-469412843549",
+      "title": "Party Monster",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "party-monster",
+      "has_reactions": false
+    },
+    {
+      "id": "99d48b12-b388-4763-926d-ca873466b4df",
+      "title": "Scooby-Doo 2: Monsters Unleashed",
+      "release_year": 2004,
+      "studio_label": "Mosaic Media Group",
+      "slug": "scooby-doo-2-monsters-unleashed",
+      "has_reactions": true
+    },
+    {
+      "id": "836b451e-4d08-4e4f-8ce6-f91a07d237cc",
+      "title": "Without a Paddle",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "without-a-paddle",
+      "has_reactions": false
+    },
+    {
+      "id": "dc917117-0caf-4c47-b9ff-c25dcd1d8d78",
+      "title": "Be Cool",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "be-cool",
+      "has_reactions": false
+    },
+    {
+      "id": "b99197dc-bf06-4560-ac01-b1f9b5670d2f",
+      "title": "Robot Chicken's Christmas Special",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "robot-chicken-s-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "2de42e04-432e-498e-ac52-e8ce5a046e4a",
+      "title": "The Secret Policeman's Ball: The Ball in the Hall",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-secret-policeman-s-ball-the-ball-in-the-hall",
+      "has_reactions": false
+    },
+    {
+      "id": "0571d255-b4bf-4172-979d-c84a54519457",
+      "title": "'Weird Al' Yankovic: White & Nerdy",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "weird-al-yankovic-white-nerdy",
+      "has_reactions": false
+    },
+    {
+      "id": "ed774e53-ea6c-4448-8801-644687a2591c",
+      "title": "The Robot Chicken: Star Wars",
+      "release_year": 2007,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-robot-chicken-star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "21eba98d-c5be-44f7-b0dd-f9d65fc790da",
+      "title": "Electric Apricot",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "electric-apricot",
+      "has_reactions": false
+    },
+    {
+      "id": "a62848d0-15c2-4912-a69b-38fbefa92644",
+      "title": "Robot Chicken's Half-Assed Christmas Special",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "robot-chicken-s-half-assed-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "80b493eb-5f3c-47c8-87cb-718fbec36456",
+      "title": "The Robot Chicken: Star Wars Episode II",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-star-wars-episode-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "b9116a0f-bbdc-4bea-bc5a-4f66aa982603",
+      "title": "Old Dogs",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "old-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "b60d5f5c-7127-4138-a2fe-c91b4ec4ff80",
+      "title": "Dear Consumer (Robot Chicken's Full-Assed Christmas Special)",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "dear-consumer-robot-chicken-s-full-assed-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "08dec03e-07d3-427e-a66d-ff73e663b5eb",
+      "title": "The Robot Chicken: Star Wars Episode III",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-star-wars-episode-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "d14e7827-f45d-49bb-a93f-b8280f31d68d",
+      "title": "Mars Needs Moms",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mars-needs-moms",
+      "has_reactions": false
+    },
+    {
+      "id": "66949fdd-a948-47d5-9a00-63410b4c4265",
+      "title": "The Robot Chicken Born Again Virgin Christmas Special",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-born-again-virgin-christmas-special",
+      "has_reactions": false
+    },
+    {
+      "id": "6db38a2e-5ae5-45bf-946c-54c6e75a77ae",
+      "title": "Robot Chicken DC Comics Special II: Villains in Paradise",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "robot-chicken-dc-comics-special-ii-villains-in-paradise",
+      "has_reactions": false
+    },
+    {
+      "id": "5fd863ea-bbc5-41f8-92d3-f8329389bc18",
+      "title": "Yellowbird",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "yellowbird",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "4d4aba97-370e-4164-809b-ac4ac917d639",
+      "title": "Guardians of the Galaxy",
+      "release_year": 2014,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy",
+      "has_reactions": true
+    },
+    {
+      "id": "2433fb2e-c567-419f-970b-b95f64e81d72",
+      "title": "Teenage Mutant Ninja Turtles: Pulverizer Power",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-pulverizer-power",
+      "has_reactions": false
+    },
+    {
+      "id": "69bc36a0-ad76-4b27-bc04-25718ca3d04a",
+      "title": "Teenage Mutant Ninja Turtles: Renegade Rampage",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "teenage-mutant-ninja-turtles-renegade-rampage",
+      "has_reactions": false
+    },
+    {
+      "id": "46928285-2f1d-4a35-b06e-46b0c33dfcd2",
+      "title": "The Robot Chicken DC Comics Special III: Magical Friendship",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-dc-comics-special-iii-magical-friendship",
+      "has_reactions": false
+    },
+    {
+      "id": "a71e990e-4e0a-404b-9b98-14f96b97c27d",
+      "title": "The Robot Chicken Christmas Special: The X-Mas United",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-robot-chicken-christmas-special-the-x-mas-united",
+      "has_reactions": false
+    },
+    {
+      "id": "97b091ac-6cb1-4c2c-afc8-840bb784d672",
+      "title": "Ice Age: The Great Egg-Scapade",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ice-age-the-great-egg-scapade",
+      "has_reactions": false
+    },
+    {
+      "id": "11d0fec0-b968-4e40-a30a-53ca95948cdc",
+      "title": "Tales of the Teenage Mutant Ninja Turtles: Super Shredder",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "tales-of-the-teenage-mutant-ninja-turtles-super-shredder",
+      "has_reactions": false
+    },
+    {
+      "id": "2264ac4f-d524-41c6-a234-52e9936f9ee5",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "release_year": 2017,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy-vol-2",
+      "has_reactions": true
+    },
+    {
+      "id": "ec2acd28-b36a-4b6b-85f5-327481fe044b",
+      "title": "The Robot Chicken Walking Dead Special: Look Who's Walking",
+      "release_year": 2017,
+      "studio_label": "Williams Street",
+      "slug": "the-robot-chicken-walking-dead-special-look-who-s-walking",
+      "has_reactions": true
+    },
+    {
+      "id": "5690ea78-2da3-4072-ab6e-35aead54b07b",
+      "title": "The Lego Batman Movie",
+      "release_year": 2017,
+      "studio_label": "Lin Pictures",
+      "slug": "the-lego-batman-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "a468e37d-2808-41ce-97f8-c5721de597aa",
+      "title": "Wolfman's Got Nards",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "wolfman-s-got-nards",
+      "has_reactions": false
+    },
+    {
+      "id": "f0ad7664-596f-4254-9077-c9350938c622",
+      "title": "Celebrating Marvel's Stan Lee",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "celebrating-marvel-s-stan-lee",
+      "has_reactions": false
+    },
+    {
+      "id": "8ccb670e-e749-4732-8b91-df2a239beca2",
+      "title": "Pennywise: The Story of \u2018It\u2019",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "pennywise-the-story-of-it",
+      "has_reactions": false
+    },
+    {
+      "id": "3a168414-8798-46a2-b818-943fa458c63c",
+      "title": "Scooby-Doo, Where Are You Now!",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-where-are-you-now",
+      "has_reactions": false
+    },
+    {
+      "id": "237e43b1-3cd8-4652-a6c1-37a5322093e0",
+      "title": "Dirty Daddy: The Bob Saget Tribute",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dirty-daddy-the-bob-saget-tribute",
+      "has_reactions": false
+    },
+    {
+      "id": "7cca08cb-d832-4910-94bd-6084e9a6e570",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "guardians-of-the-galaxy-vol-3",
+      "has_reactions": true
+    },
+    {
+      "id": "764604a6-62bf-49c7-a400-e1609a94511e",
+      "title": "A Disturbance in the Force: How the Star Wars Holiday Special Happened",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "a-disturbance-in-the-force-how-the-star-wars-holiday-special-happened",
+      "has_reactions": false
+    },
+    {
+      "id": "fe952355-dc2f-4c53-9b5e-6c4279c563b8",
+      "title": "Little Death",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "little-death",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "id": "2a058a88-3c31-417a-994f-971cf7103c93",
+  "name": "Tom Wright",
+  "slug": "tom-wright",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/lJ4L5fdXBeNr528gBB4eMTdvfd4.jpg",
+  "filmography": [
+    {
+      "id": "df5487c8-2850-465b-9950-ed68658b8b53",
+      "title": "Tomcats",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "tomcats",
+      "has_reactions": false
+    },
+    {
+      "id": "f6273bfa-4977-4c8a-8572-b8b0a5ff1a8c",
+      "title": "Underground U.S.A.",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "underground-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc92f8c-1a65-43a9-a5c1-64751fdaee42",
+      "title": "Subway Riders",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "subway-riders",
+      "has_reactions": false
+    },
+    {
+      "id": "8d1fe989-573f-40ab-a286-436a380d19b8",
+      "title": "The Soldier",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-soldier",
+      "has_reactions": false
+    },
+    {
+      "id": "16d0a796-89cd-443b-9929-faf22b131237",
+      "title": "I Ought to Be in Pictures",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "i-ought-to-be-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "4e63a76a-e57a-4b2c-a22c-75cc717aa3a2",
+      "title": "OK Today Tomorrow",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "ok-today-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "c6f41a06-32bd-4648-8ec0-b09ed3fe66f6",
+      "title": "Delta Pi",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "delta-pi",
+      "has_reactions": false
+    },
+    {
+      "id": "436319ce-9806-4e33-8e0f-d802bea1ca8b",
+      "title": "Exterminator 2",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "exterminator-2",
+      "has_reactions": false
+    },
+    {
+      "id": "f2cc3947-f6b0-4b71-95c4-32de9855c8f8",
+      "title": "Alphabet City",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "alphabet-city",
+      "has_reactions": false
+    },
+    {
+      "id": "c8ae789f-edb9-4de3-b513-658f847f9bf5",
+      "title": "Streetwalkin'",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "streetwalkin",
+      "has_reactions": false
+    },
+    {
+      "id": "31776510-79fb-476d-aac8-6f005e071285",
+      "title": "Johnny Bull",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "johnny-bull",
+      "has_reactions": false
+    },
+    {
+      "id": "19418c70-ad1c-456b-a69d-2d0f76f3a69d",
+      "title": "Troop Beverly Hills",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "troop-beverly-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "e7cc6b20-befd-4b83-be02-16031d09a58f",
+      "title": "Vietnam War Story: The Last Days",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "vietnam-war-story-the-last-days",
+      "has_reactions": false
+    },
+    {
+      "id": "7344c7de-a0dd-4ffb-a967-7b3ee30bc103",
+      "title": "Marked for Death",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "marked-for-death",
+      "has_reactions": false
+    },
+    {
+      "id": "692b76de-4ee4-4acc-80a4-e0b85b5b91dc",
+      "title": "Murder in Black and White",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "murder-in-black-and-white",
+      "has_reactions": false
+    },
+    {
+      "id": "e66bdf32-94e4-4f85-b5bf-5af97cdcd3db",
+      "title": "Reversal of Fortune",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "reversal-of-fortune",
+      "has_reactions": false
+    },
+    {
+      "id": "54369143-f45c-4636-b145-5d8318b7fb8a",
+      "title": "Dead in the Water",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dead-in-the-water",
+      "has_reactions": false
+    },
+    {
+      "id": "56aef82b-35f0-46ef-aed8-89827e1deb2b",
+      "title": "Weekend at Bernie's II",
+      "release_year": 1993,
+      "studio_label": "Artimm",
+      "slug": "weekend-at-bernie-s-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "ace7ed2a-90a1-4b50-aca7-169cf280d76b",
+      "title": "Amityville: A New Generation",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "amityville-a-new-generation",
+      "has_reactions": false
+    },
+    {
+      "id": "34980ebf-affb-40fb-9e6f-e7ed40f17b65",
+      "title": "Acting on Impulse",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "acting-on-impulse",
+      "has_reactions": false
+    },
+    {
+      "id": "7173c7a2-eaf8-4e3c-acc7-26f1c8b9382b",
+      "title": "Men of War",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "men-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "03bf6404-21b1-456c-bb95-932a4a85ada0",
+      "title": "Vault of Horror I",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "vault-of-horror-i",
+      "has_reactions": false
+    },
+    {
+      "id": "e4bd364a-cb11-4fa4-ae47-d223656eb4ec",
+      "title": "Tales from the Hood",
+      "release_year": 1995,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "tales-from-the-hood",
+      "has_reactions": true
+    },
+    {
+      "id": "afa9c05b-959a-4552-a0de-e25b39f7f66c",
+      "title": "White Man's Burden",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "white-man-s-burden",
+      "has_reactions": false
+    },
+    {
+      "id": "1526559a-6655-49a8-afe0-b1a9546726eb",
+      "title": "Excessive Force II: Force on Force",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "excessive-force-ii-force-on-force",
+      "has_reactions": false
+    },
+    {
+      "id": "56301548-3d37-40bf-bac9-0481f4650f57",
+      "title": "Forget Paris",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "forget-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "580638ce-3434-4f19-9f7c-dd52919bd698",
+      "title": "Playing Dangerous 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "playing-dangerous-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7cabbba6-ac11-477c-90c7-0d93f3f9cf93",
+      "title": "My Fellow Americans",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "my-fellow-americans",
+      "has_reactions": false
+    },
+    {
+      "id": "5c76d8a8-6fcd-4de5-9d3c-ab497c3cb8a7",
+      "title": "Weapons of Mass Distraction",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "weapons-of-mass-distraction",
+      "has_reactions": false
+    },
+    {
+      "id": "5f337986-ea43-481a-9304-690239d7c571",
+      "title": "The Pentagon Wars",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-pentagon-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "d9ecbc7a-9d1e-4dab-99b4-be21d3e3d191",
+      "title": "Palmetto",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "palmetto",
+      "has_reactions": false
+    },
+    {
+      "id": "c8dec671-d0d9-4ab2-a2a6-ad870ef30cf9",
+      "title": "Funny Valentines",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "funny-valentines",
+      "has_reactions": false
+    },
+    {
+      "id": "b0db95b0-0731-44d7-844d-4ccc7e1cd6bd",
+      "title": "Alex in Wonder",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "alex-in-wonder",
+      "has_reactions": false
+    },
+    {
+      "id": "f6e72f87-5d40-49c5-b71b-953e88088f01",
+      "title": "Pursuit of Happiness",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "pursuit-of-happiness",
+      "has_reactions": false
+    },
+    {
+      "id": "86f105a3-aff4-42e9-9373-9bcc4c4d2022",
+      "title": "The Prime Gig",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-prime-gig",
+      "has_reactions": false
+    },
+    {
+      "id": "de77c821-3ce7-40cf-ade7-474990e1b888",
+      "title": "Layover",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "layover",
+      "has_reactions": false
+    },
+    {
+      "id": "332ae593-3e16-49e0-874b-a660793881bf",
+      "title": "Sunshine State",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sunshine-state",
+      "has_reactions": false
+    },
+    {
+      "id": "58f35c5f-50d5-4f45-8a73-7fa73715fa2d",
+      "title": "Barbershop",
+      "release_year": 2002,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "barbershop",
+      "has_reactions": true
+    },
+    {
+      "id": "5b6126d5-e057-4b2b-a1cb-01d60ae73043",
+      "title": "P.S. Your Cat is Dead!",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "p-s-your-cat-is-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "4078c4b0-a815-4c7a-9dca-4c7e44bd55e2",
+      "title": "The Keyman",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-keyman",
+      "has_reactions": false
+    },
+    {
+      "id": "41e88f6a-e6ff-48dc-8562-aedb7b1c07a4",
+      "title": "Hangman's Curse",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "hangman-s-curse",
+      "has_reactions": false
+    },
+    {
+      "id": "c9a82394-516b-4c7c-8b2d-e0121fd6d4d0",
+      "title": "In Your Eyes",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "in-your-eyes",
+      "has_reactions": false
+    },
+    {
+      "id": "c2c1eed9-f8fa-4819-9f79-e2db03386f3c",
+      "title": "Barbershop 2: Back in Business",
+      "release_year": 2004,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "barbershop-2-back-in-business",
+      "has_reactions": true
+    },
+    {
+      "id": "e433c6f8-94e1-4523-912b-8ff5f81a630b",
+      "title": "World Trade Center",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "world-trade-center",
+      "has_reactions": false
+    },
+    {
+      "id": "3864786b-7ace-44d8-8eaf-2ea11052f5b8",
+      "title": "Striking Range",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "striking-range",
+      "has_reactions": false
+    },
+    {
+      "id": "fcce9454-cf23-47ce-8a6d-63688b2d79f2",
+      "title": "Rampage: The Hillside Strangler Murders",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "rampage-the-hillside-strangler-murders",
+      "has_reactions": false
+    },
+    {
+      "id": "42fd4292-9c23-4c36-b954-bd65e537e381",
+      "title": "Honeydripper",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "honeydripper",
+      "has_reactions": false
+    },
+    {
+      "id": "1efac600-affc-4b19-a34e-eb4767f564e7",
+      "title": "Sinner",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "sinner",
+      "has_reactions": false
+    },
+    {
+      "id": "57bc4e15-6767-4136-84be-8faf932ce744",
+      "title": "The Darwin Awards",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-darwin-awards",
+      "has_reactions": false
+    },
+    {
+      "id": "014ca0bb-4e65-4a98-8ec9-2b2821fc9e32",
+      "title": "The Imposter",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-imposter",
+      "has_reactions": false
+    },
+    {
+      "id": "dcd31d35-2ac9-4941-b403-a0c454ac6e40",
+      "title": "The Cursed",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-cursed",
+      "has_reactions": false
+    },
+    {
+      "id": "f9d9000d-6a6b-4352-bccd-49a7c2bbac3d",
+      "title": "Burning Palms",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "burning-palms",
+      "has_reactions": false
+    },
+    {
+      "id": "1625e092-8bfa-418c-984c-6622f647009f",
+      "title": "Breakdance Academy",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "breakdance-academy",
+      "has_reactions": false
+    },
+    {
+      "id": "f90062b3-ae6f-4c9f-8361-b3758e44e96b",
+      "title": "Rift",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "rift",
+      "has_reactions": false
+    },
+    {
+      "id": "0ae14069-2761-4e9f-844b-89ed38989831",
+      "title": "A Beautiful Soul",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "a-beautiful-soul",
+      "has_reactions": false
+    },
+    {
+      "id": "021efc58-1db6-44ef-ac67-ef08954e8525",
+      "title": "Things Never Said",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "things-never-said",
+      "has_reactions": false
+    },
+    {
+      "id": "9a98cd58-fa5b-4de7-a1e3-2113537f4b14",
+      "title": "Starting from Scratch",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "starting-from-scratch",
+      "has_reactions": false
+    },
+    {
+      "id": "cc412321-f1f2-4b56-b63e-9cee0cb575cb",
+      "title": "Beyond the Lights",
+      "release_year": 2014,
+      "studio_label": "Black Entertainment Television",
+      "slug": "beyond-the-lights",
+      "has_reactions": true
+    },
+    {
+      "id": "f1e4c3d7-7d31-425e-9484-14acc82d7086",
+      "title": "Runaway Island",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "runaway-island",
+      "has_reactions": false
+    },
+    {
+      "id": "83e5b2b9-f8c7-45bf-abcb-f1f4f126d0dc",
+      "title": "Stockholm, Pennsylvania",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "stockholm-pennsylvania",
+      "has_reactions": false
+    },
+    {
+      "id": "68409fab-1ea7-4921-b757-f97259cde877",
+      "title": "South32",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "south32",
+      "has_reactions": false
+    },
+    {
+      "id": "3cf1817c-3c53-4f01-a1fa-e330c999b4f8",
+      "title": "Within",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "within",
+      "has_reactions": false
+    },
+    {
+      "id": "fe5ab4a0-6349-4b7b-9990-7d88c418ed41",
+      "title": "The Secrets of Emily Blair",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-secrets-of-emily-blair",
+      "has_reactions": false
+    },
+    {
+      "id": "08eefea2-11b6-43bc-905a-6e11ef366e79",
+      "title": "The Neighborhood",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-neighborhood",
+      "has_reactions": false
+    },
+    {
+      "id": "7285927b-4516-4532-a12e-f6e9fc8be0a4",
+      "title": "Message from the King",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "message-from-the-king",
+      "has_reactions": false
+    },
+    {
+      "id": "e2deb213-c45e-4e52-bb25-75c2af72c279",
+      "title": "Transformers: The Last Knight",
+      "release_year": 2017,
+      "studio_label": "Paramount Pictures",
+      "slug": "transformers-the-last-knight",
+      "has_reactions": true
+    },
+    {
+      "id": "504250cb-a0bf-4e10-bdbc-ac1df7a48154",
+      "title": "Higher Power",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "higher-power",
+      "has_reactions": false
+    },
+    {
+      "id": "2279ae0f-8b34-4d78-9aa3-314cc9d6fbcc",
+      "title": "Spell",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "spell",
+      "has_reactions": false
+    },
+    {
+      "id": "5b012f99-65f0-49f5-8b79-dc98dd9cb346",
+      "title": "The Divorce Party",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-divorce-party",
+      "has_reactions": false
+    },
+    {
+      "id": "7d0e9cb9-cb32-4f8d-8116-b8e4bedb7eba",
+      "title": "#truth",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "truth",
+      "has_reactions": false
+    },
+    {
+      "id": "0f81f7ef-cba1-4085-ac0c-87ca953cce4e",
+      "title": "A Brother's Honor",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "a-brother-s-honor",
+      "has_reactions": false
+    },
+    {
+      "id": "552f84be-f15f-4d63-a351-5788f9ee8b15",
+      "title": "Still Happy",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "still-happy",
+      "has_reactions": false
+    },
+    {
+      "id": "e3fa65dc-ba12-4098-990c-b8b938632fbd",
+      "title": "The Beanfield",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-beanfield",
+      "has_reactions": false
+    },
+    {
+      "id": "affa84b8-75b6-4e1e-8f81-09dce63172c5",
+      "title": "Gully",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "gully",
+      "has_reactions": false
+    },
+    {
+      "id": "6eda3a79-16cd-4724-a08d-cc0002ef1475",
+      "title": "That's Amor",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "that-s-amor",
+      "has_reactions": false
+    },
+    {
+      "id": "688013bc-523d-4183-97c8-4a2092d7a9d1",
+      "title": "The Locksmith",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-locksmith",
+      "has_reactions": false
+    },
+    {
+      "id": "cd156da2-e9e5-49bb-9bae-461fa3a83d81",
+      "title": "Summer Camp",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "summer-camp",
+      "has_reactions": false
+    }
+  ]
+}

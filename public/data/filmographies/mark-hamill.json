@@ -1,0 +1,632 @@
+{
+  "id": "b426456c-313b-46c0-ac4f-52a7aa1e9d7e",
+  "name": "Mark Hamill",
+  "slug": "mark-hamill",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+  "filmography": [
+    {
+      "id": "beee853c-67e7-4b32-b20f-4cf37e4a8da6",
+      "title": "Delancey Street: The Crisis Within",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "delancey-street-the-crisis-within",
+      "has_reactions": false
+    },
+    {
+      "id": "e3fa3601-3b3d-4fef-8345-ff62a73da736",
+      "title": "Sarah T. - Portrait of a Teenage Alcoholic",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "sarah-t-portrait-of-a-teenage-alcoholic",
+      "has_reactions": false
+    },
+    {
+      "id": "cd06b223-bbac-4962-b513-70a887a5671e",
+      "title": "Mallory: Circumstantial Evidence",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "mallory-circumstantial-evidence",
+      "has_reactions": false
+    },
+    {
+      "id": "a9123561-2f3a-4f51-875a-1796ed15b0fc",
+      "title": "Star Wars",
+      "release_year": 1977,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "ba97e225-6c90-49d2-a67c-09fd6f98370a",
+      "title": "The City",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "cb58f121-0e43-4dd5-8c2d-b8810e8dae30",
+      "title": "Corvette Summer",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "corvette-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "c9d34021-ea5c-44c6-bba6-3dd98d690bae",
+      "title": "The Empire Strikes Back",
+      "release_year": 1980,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-empire-strikes-back",
+      "has_reactions": true
+    },
+    {
+      "id": "ecd69814-2f86-4abe-b952-0bbf4a680d00",
+      "title": "The Big Red One",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-big-red-one",
+      "has_reactions": false
+    },
+    {
+      "id": "6e6c8b4b-cfd4-442f-bf8f-7c04e08de268",
+      "title": "Britannia Hospital",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "britannia-hospital",
+      "has_reactions": false
+    },
+    {
+      "id": "5dbc1063-4727-4233-a57f-dae64d6011c3",
+      "title": "Return of the Jedi",
+      "release_year": 1983,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "return-of-the-jedi",
+      "has_reactions": true
+    },
+    {
+      "id": "7254affb-25b1-4b90-915e-ff653c36a1f7",
+      "title": "From Star Wars to Jedi: The Making of a Saga",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "from-star-wars-to-jedi-the-making-of-a-saga",
+      "has_reactions": false
+    },
+    {
+      "id": "97a9737b-cfc5-44a2-ab3e-3fb3517ea6f1",
+      "title": "Night of the Eagles",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-eagles",
+      "has_reactions": false
+    },
+    {
+      "id": "1ead879b-3abe-426f-9878-44b00456e1f7",
+      "title": "Midnight Ride",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "midnight-ride",
+      "has_reactions": false
+    },
+    {
+      "id": "814888b7-eb7e-48a9-9c8d-ddb321a0e1cf",
+      "title": "The Flash II: Revenge of the Trickster",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-flash-ii-revenge-of-the-trickster",
+      "has_reactions": false
+    },
+    {
+      "id": "84343eb1-80ad-4cf7-b019-a8c9d49e6e6d",
+      "title": "Earth Angel",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "earth-angel",
+      "has_reactions": false
+    },
+    {
+      "id": "ea881bb9-4be6-4b35-991a-12812c020ff0",
+      "title": "Body Bags",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "body-bags",
+      "has_reactions": false
+    },
+    {
+      "id": "986fc23d-2764-4076-8c99-54a61242ad00",
+      "title": "Batman: Mask of the Phantasm",
+      "release_year": 1993,
+      "studio_label": "Warner Bros. Family Entertainment",
+      "slug": "batman-mask-of-the-phantasm",
+      "has_reactions": true
+    },
+    {
+      "id": "8dfda63c-fd2a-41e6-b1b6-42482fb47fc6",
+      "title": "Time Runner",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "time-runner",
+      "has_reactions": false
+    },
+    {
+      "id": "ad747737-a41c-4030-bc87-c2aa57202b8d",
+      "title": "Silk Degrees",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "silk-degrees",
+      "has_reactions": false
+    },
+    {
+      "id": "294c01dd-5453-42cd-8c19-0c5a0033253c",
+      "title": "Phantom 2040: The Ghost Who Walks",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "phantom-2040-the-ghost-who-walks",
+      "has_reactions": false
+    },
+    {
+      "id": "01b494df-f6ec-4891-b743-4a2c3267dcff",
+      "title": "The Batman/Superman Movie: World's Finest",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-batman-superman-movie-world-s-finest",
+      "has_reactions": false
+    },
+    {
+      "id": "70123bfc-390f-4896-8195-78c19028a90e",
+      "title": "Laserhawk",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "laserhawk",
+      "has_reactions": false
+    },
+    {
+      "id": "377d0478-9300-4cdf-a179-0c4be4cd5c26",
+      "title": "Bruno the Kid: The Animated Movie",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "bruno-the-kid-the-animated-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c219d7-9e67-4c2a-9c48-4496e5808d47",
+      "title": "Scooby-Doo on Zombie Island",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-on-zombie-island",
+      "has_reactions": false
+    },
+    {
+      "id": "ea604cf7-4f46-4de3-90c5-5eb344e29812",
+      "title": "Hamilton",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "hamilton",
+      "has_reactions": false
+    },
+    {
+      "id": "7ed1e456-7553-4551-916f-25c59f0a0531",
+      "title": "Gen\u00b9\u00b3",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "gen",
+      "has_reactions": false
+    },
+    {
+      "id": "cfbaa5b6-8518-48cf-801f-49cd90b7a174",
+      "title": "Watchers Reborn",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "watchers-reborn",
+      "has_reactions": false
+    },
+    {
+      "id": "d2a7abac-21ef-4e64-b081-a8e978be6ffc",
+      "title": "Classic Commercials: Volume 3",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "classic-commercials-volume-3",
+      "has_reactions": false
+    },
+    {
+      "id": "a0031b88-102b-43eb-950b-84fd132464b6",
+      "title": "The Very Best of the Muppet Show",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-very-best-of-the-muppet-show",
+      "has_reactions": false
+    },
+    {
+      "id": "c89097c0-dc24-4921-bd83-993ab9076ab2",
+      "title": "The Crippled Lamb",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-crippled-lamb",
+      "has_reactions": false
+    },
+    {
+      "id": "254a76a9-ea53-4ae6-b98c-550220d2ec80",
+      "title": "Earth Day",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "earth-day",
+      "has_reactions": false
+    },
+    {
+      "id": "ac1f73ca-5892-4591-a1b9-31ccd52f631a",
+      "title": "Joseph: King of Dreams",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "joseph-king-of-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "d4d549c8-b432-475d-b52f-00c07c8f490a",
+      "title": "Scooby-Doo and the Alien Invaders",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-alien-invaders",
+      "has_reactions": false
+    },
+    {
+      "id": "eac74d10-12c7-46ea-a4f8-0d6e4e45af56",
+      "title": "Jay and Silent Bob Strike Back",
+      "release_year": 2001,
+      "studio_label": "Dimension Films",
+      "slug": "jay-and-silent-bob-strike-back",
+      "has_reactions": true
+    },
+    {
+      "id": "f66a7ae8-af4e-4325-ba8b-a21ecae4bc50",
+      "title": "Night of the Living Doo",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "night-of-the-living-doo",
+      "has_reactions": false
+    },
+    {
+      "id": "21c295ea-9340-4323-8a5b-6493ac76945b",
+      "title": "Thank You, Good Night",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "thank-you-good-night",
+      "has_reactions": false
+    },
+    {
+      "id": "e73ea6ba-e63f-4c1c-84b3-8fbe3a908068",
+      "title": "Ferret and Parrot",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ferret-and-parrot",
+      "has_reactions": false
+    },
+    {
+      "id": "5a4cf671-263d-4482-b807-bcb0f1287bf4",
+      "title": "Baxter and Bananas in Monkey See Monkey Don't",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "baxter-and-bananas-in-monkey-see-monkey-don-t",
+      "has_reactions": false
+    },
+    {
+      "id": "8083153a-7437-4ba9-b7f1-7c12d9c00896",
+      "title": "Aero-Troopers: The Nemeclous Crusade",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "aero-troopers-the-nemeclous-crusade",
+      "has_reactions": false
+    },
+    {
+      "id": "fa5393f4-f24c-410c-80b5-01b0752a213f",
+      "title": "Comic Book: The Movie",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "comic-book-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "74caca80-a5e9-48fe-a178-65adf037a7df",
+      "title": "Oh, What a Lovely Tea Party",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "oh-what-a-lovely-tea-party",
+      "has_reactions": false
+    },
+    {
+      "id": "374a3cb2-761d-489c-81d1-fb97a55e1908",
+      "title": "Thru the Moebius Strip",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "thru-the-moebius-strip",
+      "has_reactions": false
+    },
+    {
+      "id": "1f291541-5378-410c-a836-17f03a6608e2",
+      "title": "The Big Red One: The Reconstruction",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-big-red-one-the-reconstruction",
+      "has_reactions": false
+    },
+    {
+      "id": "4c2e27fd-72e8-4f6e-9d38-030e9f2a1474",
+      "title": "The Real Glory: Reconstructing 'The Big Red One'",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-real-glory-reconstructing-the-big-red-one",
+      "has_reactions": false
+    },
+    {
+      "id": "139c6a6d-9a60-48fa-9140-3d424bf20501",
+      "title": "Legends of the Dark Knight: The History of Batman",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "legends-of-the-dark-knight-the-history-of-batman",
+      "has_reactions": false
+    },
+    {
+      "id": "949521a8-1d1c-4bea-ac1b-2cc8cd11bee4",
+      "title": "Best Ever Muppet Moments",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "best-ever-muppet-moments",
+      "has_reactions": false
+    },
+    {
+      "id": "3cde9e4b-4c49-43a9-94e4-4a132ee72395",
+      "title": "Tom and Jerry: Shiver Me Whiskers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-shiver-me-whiskers",
+      "has_reactions": false
+    },
+    {
+      "id": "812551f0-6dd3-4f64-a440-91cd389867b4",
+      "title": "Robotech: The Shadow Chronicles",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "robotech-the-shadow-chronicles",
+      "has_reactions": false
+    },
+    {
+      "id": "f24abc2d-4f73-454a-b3b8-e2980855b018",
+      "title": "Queer Duck: The Movie",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "queer-duck-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "ed774e53-ea6c-4448-8801-644687a2591c",
+      "title": "The Robot Chicken: Star Wars",
+      "release_year": 2007,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "the-robot-chicken-star-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "c6de29c5-3a7d-44d8-9f9e-913584e7f49b",
+      "title": "Afro Samurai: Resurrection",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "afro-samurai-resurrection",
+      "has_reactions": false
+    },
+    {
+      "id": "5bfff463-474a-4667-aef4-29b52ca9c057",
+      "title": "The People vs. George Lucas",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-people-vs-george-lucas",
+      "has_reactions": false
+    },
+    {
+      "id": "97f4286b-d8c4-48f2-b8f5-2cf4889f2a10",
+      "title": "Dante's Inferno: An Animated Epic",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dante-s-inferno-an-animated-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "d243e386-49ac-47ad-82b0-72c18b3e7a88",
+      "title": "LEGO Star Wars: The Padawan Menace",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "lego-star-wars-the-padawan-menace",
+      "has_reactions": false
+    },
+    {
+      "id": "5e70d629-a15a-46c0-9c84-1601ea6ab5d9",
+      "title": "Scooby Doo and The Zombies",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-zombies",
+      "has_reactions": false
+    },
+    {
+      "id": "9b4f5b44-3286-42ea-9450-f5cae526b241",
+      "title": "Sushi Girl",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "5b3bea65-b5c5-4084-a055-ef0ed07db0e6",
+      "title": "Back to the Sea",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "back-to-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "8d164569-adcf-42d4-a215-c26cc780fb21",
+      "title": "Airborne",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "airborne",
+      "has_reactions": false
+    },
+    {
+      "id": "e39e5598-0421-4a86-a4d4-2a787d04d9d1",
+      "title": "Virtually Heroes",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "virtually-heroes",
+      "has_reactions": false
+    },
+    {
+      "id": "1b907f5e-2a35-457b-bdd4-672dd7ea929c",
+      "title": "Sushi Girl: A Documentary",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sushi-girl-a-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "03b68cf9-8199-47b9-9bc1-27a45ad11000",
+      "title": "Metalocalypse: The Doomstar Requiem - A Klok Opera",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "metalocalypse-the-doomstar-requiem-a-klok-opera",
+      "has_reactions": false
+    },
+    {
+      "id": "3d66b710-5593-4186-b442-0986903e5035",
+      "title": "Tom and Jerry Santa's Little Helpers",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-santa-s-little-helpers",
+      "has_reactions": false
+    },
+    {
+      "id": "d964baad-eb62-46ab-82ca-ada038cf81d5",
+      "title": "Elf: Buddy's Musical Christmas",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "elf-buddy-s-musical-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "c0483cce-3e03-45ae-bf9f-df5f8616234a",
+      "title": "Star Wars: The Force Awakens",
+      "release_year": 2015,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-force-awakens",
+      "has_reactions": true
+    },
+    {
+      "id": "87ab29e4-cacc-45e1-a3fa-a0ee8b1afec4",
+      "title": "Star Wars at the BBC",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "star-wars-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "22860258-7003-4ed0-948f-85e49bc98884",
+      "title": "Kingsman: The Secret Service",
+      "release_year": 2015,
+      "studio_label": "20th Century Fox",
+      "slug": "kingsman-the-secret-service",
+      "has_reactions": true
+    },
+    {
+      "id": "3ee45d50-82ba-4631-9d6b-f5015ff2e63d",
+      "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "lego-dc-comics-super-heroes-justice-league-attack-of-the-legion-of-doom",
+      "has_reactions": false
+    },
+    {
+      "id": "a5976f59-3991-41c7-b508-8f74ecf60003",
+      "title": "Regular Show: The Movie",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "regular-show-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "7c11c96c-6e24-49e9-a591-48ddd10c2a9c",
+      "title": "Star Wars: The Last Jedi",
+      "release_year": 2017,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-last-jedi",
+      "has_reactions": true
+    },
+    {
+      "id": "3f240e82-8a44-4fe1-83d7-7972c8db30cf",
+      "title": "We Brought Back MST3K",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "we-brought-back-mst3k",
+      "has_reactions": false
+    },
+    {
+      "id": "634fd175-d874-4fd2-b2c7-907fb56e97c6",
+      "title": "The Force of Sound",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-force-of-sound",
+      "has_reactions": false
+    },
+    {
+      "id": "8d1e5ede-3cd6-43c9-989c-10cdc154ec63",
+      "title": "Star Wars: The Rise of Skywalker",
+      "release_year": 2019,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-rise-of-skywalker",
+      "has_reactions": true
+    },
+    {
+      "id": "8548ca0b-a9b4-4388-a8fc-3d09165a715a",
+      "title": "Svengoolie Uncrypted",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "svengoolie-uncrypted",
+      "has_reactions": false
+    },
+    {
+      "id": "ecc2ae5e-de5f-42d2-9b46-e630c1bfdd25",
+      "title": "No One Asked You",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "no-one-asked-you",
+      "has_reactions": false
+    },
+    {
+      "id": "18012905-9f6c-4da0-9b31-9220f63e8a48",
+      "title": "Metalocalypse: Army of the Doomstar",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metalocalypse-army-of-the-doomstar",
+      "has_reactions": false
+    },
+    {
+      "id": "86a480c0-36f3-4156-a431-d4da1f7e1e79",
+      "title": "The Machine",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-machine",
+      "has_reactions": false
+    },
+    {
+      "id": "2e306f91-d1e3-42c6-9d48-93c4c4ee0373",
+      "title": "The Wild Robot",
+      "release_year": 2024,
+      "studio_label": "DreamWorks Animation",
+      "slug": "the-wild-robot",
+      "has_reactions": true
+    },
+    {
+      "id": "96866fad-c545-40ec-a1bb-07fc17a7f137",
+      "title": "The Life of Chuck",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-life-of-chuck",
+      "has_reactions": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c43d28d4-3994-42e4-bfcf-8907c5bdf4c9",
+  "name": "Kyle Vogt",
+  "slug": "kyle-vogt",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/15EYzMZvxJzvSGKPpO5kMEbDjnb.jpg",
+  "filmography": [
+    {
+      "id": "cdca03ee-d68d-4b52-9cf0-cd62cd6dca6d",
+      "title": "The Room",
+      "release_year": 2003,
+      "studio_label": "Chloe Productions",
+      "slug": "the-room",
+      "has_reactions": true
+    },
+    {
+      "id": "184303e0-0f7d-4151-ba02-077fae51fd54",
+      "title": "Monarch of the Moon",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "monarch-of-the-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "65107f19-4d72-405d-a331-c28fe87d000e",
+      "title": "Charlie Wilson's War",
+      "release_year": 2007,
+      "studio_label": "Universal Pictures",
+      "slug": "charlie-wilson-s-war",
+      "has_reactions": true
+    },
+    {
+      "id": "b4f5da3d-24a7-4b5e-a471-c0bc342e83b0",
+      "title": "Room Full of Spoons",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "room-full-of-spoons",
+      "has_reactions": false
+    }
+  ]
+}

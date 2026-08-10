@@ -1,0 +1,32 @@
+{
+  "id": "5b01335b-5fd9-463d-8cd7-09d50fd09ded",
+  "name": "Lera Abova",
+  "slug": "lera-abova",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/nXeb2aQ2joeZaiFzMwFDANFfCjp.jpg",
+  "filmography": [
+    {
+      "id": "fc96bba3-3a79-40c7-b054-8c325703308f",
+      "title": "Anna",
+      "release_year": 2019,
+      "studio_label": "EuropaCorp",
+      "slug": "anna",
+      "has_reactions": true
+    },
+    {
+      "id": "9f6c82bc-af6c-4029-958b-a5ec02f2aed3",
+      "title": "Honey Don't!",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "honey-don-t",
+      "has_reactions": false
+    },
+    {
+      "id": "8d1ad9f0-c885-48d4-aea4-7a6898c82cb2",
+      "title": "Exterritorial",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "exterritorial",
+      "has_reactions": false
+    }
+  ]
+}

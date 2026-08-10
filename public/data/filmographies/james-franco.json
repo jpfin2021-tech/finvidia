@@ -1,0 +1,496 @@
+{
+  "id": "00e8930c-6035-4671-bb35-d41d420a4a08",
+  "name": "James Franco",
+  "slug": "james-franco",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/bjmAntHGiibLZixH8nTNVBzaFQn.jpg",
+  "filmography": [
+    {
+      "id": "12af66b3-4f03-43a5-9d1a-4a1fb49cb944",
+      "title": "Naya: Legend of the Golden Dolphin",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "naya-legend-of-the-golden-dolphin",
+      "has_reactions": false
+    },
+    {
+      "id": "d56068cd-1079-4971-a529-05852f9f8472",
+      "title": "The Long Home",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-long-home",
+      "has_reactions": false
+    },
+    {
+      "id": "4b3042a5-6887-47b4-ba30-31cfbefc4815",
+      "title": "Never Been Kissed",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "never-been-kissed",
+      "has_reactions": false
+    },
+    {
+      "id": "ce701ee5-ef2e-4641-a36e-3efe305daa19",
+      "title": "Mean People Suck",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "mean-people-suck",
+      "has_reactions": false
+    },
+    {
+      "id": "5b4ab85a-b950-442a-9a97-573af5bf0931",
+      "title": "James Dean",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "james-dean",
+      "has_reactions": false
+    },
+    {
+      "id": "5a774fb6-df42-4214-adf3-266f6e66ca9e",
+      "title": "Spider-Man",
+      "release_year": 2002,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man",
+      "has_reactions": true
+    },
+    {
+      "id": "2ed35e5c-4183-47f8-96c7-24440c7bc615",
+      "title": "Mother Ghost",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mother-ghost",
+      "has_reactions": false
+    },
+    {
+      "id": "ea702a4e-32ac-48bd-97dc-16551ef5e290",
+      "title": "The Company",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-company",
+      "has_reactions": false
+    },
+    {
+      "id": "e037f032-b71c-4058-8b71-99e0222a47af",
+      "title": "Spider-Man 2",
+      "release_year": 2004,
+      "studio_label": "Marvel Enterprises",
+      "slug": "spider-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "584dd371-aa7e-434b-9de5-ff944d79de2b",
+      "title": "Fool's Gold",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "fool-s-gold",
+      "has_reactions": false
+    },
+    {
+      "id": "45ab1f14-e1b3-456d-8143-181b1cadd850",
+      "title": "The Great Raid",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-great-raid",
+      "has_reactions": false
+    },
+    {
+      "id": "94f81e97-0344-450f-bb68-3f2ef81230ac",
+      "title": "The Ape",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-ape",
+      "has_reactions": false
+    },
+    {
+      "id": "b920a3a5-6c09-447c-816b-8c1e855dbad7",
+      "title": "Flyboys",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "flyboys",
+      "has_reactions": false
+    },
+    {
+      "id": "0f9b62dd-2562-4934-9380-48b043e5cb36",
+      "title": "Tristan & Isolde",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "tristan-isolde",
+      "has_reactions": false
+    },
+    {
+      "id": "b8a9eb6a-c231-4643-a6a6-2cf5ffbf0958",
+      "title": "The Wicker Man",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-wicker-man",
+      "has_reactions": false
+    },
+    {
+      "id": "32ae572b-114a-4e72-9e4c-baf6c83f0fec",
+      "title": "Annapolis",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "annapolis",
+      "has_reactions": false
+    },
+    {
+      "id": "12c625ef-3ba3-4821-9392-d08e3636bcdf",
+      "title": "Spider-Man 3",
+      "release_year": 2007,
+      "studio_label": "Laura Ziskin Productions",
+      "slug": "spider-man-3",
+      "has_reactions": true
+    },
+    {
+      "id": "b62ed2fb-bb2b-43ef-a77a-080a53b7a688",
+      "title": "Interview",
+      "release_year": 2007,
+      "studio_label": "Kiss the Cactus",
+      "slug": "interview",
+      "has_reactions": false
+    },
+    {
+      "id": "237d80c5-1a1c-414f-af08-4a0914ef8262",
+      "title": "Knocked Up",
+      "release_year": 2007,
+      "studio_label": "Apatow Productions",
+      "slug": "knocked-up",
+      "has_reactions": true
+    },
+    {
+      "id": "745a3db7-1e88-4eaa-8ded-c4eb90d29240",
+      "title": "The Hills with James Franco and Mila Kunis",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-hills-with-james-franco-and-mila-kunis",
+      "has_reactions": false
+    },
+    {
+      "id": "df615b9c-ed86-4356-92f2-d4307ad89f10",
+      "title": "Pineapple Express",
+      "release_year": 2008,
+      "studio_label": "Columbia Pictures",
+      "slug": "pineapple-express",
+      "has_reactions": true
+    },
+    {
+      "id": "b1d7eaa2-080b-4bfb-b7e5-bd12b02f3a4a",
+      "title": "Camille",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "camille",
+      "has_reactions": false
+    },
+    {
+      "id": "27b935ce-e096-4371-b5ae-aa3bbbc5377c",
+      "title": "Good Time Max",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "good-time-max",
+      "has_reactions": false
+    },
+    {
+      "id": "5190211d-3762-4339-aa07-c1ff97276441",
+      "title": "Erased James Franco",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "erased-james-franco",
+      "has_reactions": false
+    },
+    {
+      "id": "8121256f-eedf-42f4-aef6-9144bbb05f46",
+      "title": "SNL Presents: A Very Gilly Christmas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "snl-presents-a-very-gilly-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "996992b7-7b23-4adc-bee6-e3c2c222197e",
+      "title": "127 Hours",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "127-hours",
+      "has_reactions": false
+    },
+    {
+      "id": "8729be7a-4cc8-4094-8afb-668a79342d28",
+      "title": "Date Night",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "date-night",
+      "has_reactions": false
+    },
+    {
+      "id": "4e42aaa2-efcd-41a4-af77-86dbc2dd0c19",
+      "title": "Eat Pray Love",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "eat-pray-love",
+      "has_reactions": false
+    },
+    {
+      "id": "10f31f74-65a6-43b4-8afa-dadbca1460dc",
+      "title": "Love and Distrust",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "love-and-distrust",
+      "has_reactions": false
+    },
+    {
+      "id": "37ba947d-d219-4741-9b1a-a6f932e29ad0",
+      "title": "Rise of the Planet of the Apes",
+      "release_year": 2011,
+      "studio_label": "Dune Entertainment",
+      "slug": "rise-of-the-planet-of-the-apes",
+      "has_reactions": true
+    },
+    {
+      "id": "77db8f5d-b1b9-43dc-b5fa-98266a08b4c8",
+      "title": "Eames: The Architect and the Painter",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "eames-the-architect-and-the-painter",
+      "has_reactions": false
+    },
+    {
+      "id": "a2c817d3-c08f-4d64-99dd-cd7e87eee58c",
+      "title": "Maladies",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "maladies",
+      "has_reactions": false
+    },
+    {
+      "id": "cbc84d8c-b260-40b7-aeda-a1005502337d",
+      "title": "About Cherry",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "about-cherry",
+      "has_reactions": false
+    },
+    {
+      "id": "061dc947-d4fd-47bf-a52f-a806d0057c92",
+      "title": "Hart Crane: An Exegesis",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "hart-crane-an-exegesis",
+      "has_reactions": false
+    },
+    {
+      "id": "8eea7dee-a4ee-4f2b-9698-01f7c189ae67",
+      "title": "The Letter",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-letter",
+      "has_reactions": false
+    },
+    {
+      "id": "4adb39f9-48d1-423c-b0fc-de3b0d4d19c4",
+      "title": "Homefront",
+      "release_year": 2013,
+      "studio_label": "Open Road Films",
+      "slug": "homefront",
+      "has_reactions": true
+    },
+    {
+      "id": "45604915-9e4b-4666-aaa2-78ae91d8c4f0",
+      "title": "This Is the End",
+      "release_year": 2013,
+      "studio_label": "Columbia Pictures",
+      "slug": "this-is-the-end",
+      "has_reactions": true
+    },
+    {
+      "id": "a80d7b02-c898-427c-a91f-5c15c578c0e0",
+      "title": "As I Lay Dying",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "as-i-lay-dying",
+      "has_reactions": false
+    },
+    {
+      "id": "31811ae0-a549-4f4a-8192-e1f9e58fd6cf",
+      "title": "Interior. Leather Bar.",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "interior-leather-bar",
+      "has_reactions": false
+    },
+    {
+      "id": "759f018e-c197-4f56-ba85-7558cfe1e660",
+      "title": "Comedy Central Roast of James Franco",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "comedy-central-roast-of-james-franco",
+      "has_reactions": false
+    },
+    {
+      "id": "425b1d5b-cb14-4317-a7c6-5ec844c8e536",
+      "title": "Lovelace",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "lovelace",
+      "has_reactions": false
+    },
+    {
+      "id": "874b616a-500c-41cd-8562-5aa95a923e63",
+      "title": "Spring Breakers",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "spring-breakers",
+      "has_reactions": false
+    },
+    {
+      "id": "60436b75-a950-49ce-87c6-73e80aeb5924",
+      "title": "Sal",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "sal",
+      "has_reactions": false
+    },
+    {
+      "id": "a43ec162-d2ac-4e8b-ace3-373cf3ca2b03",
+      "title": "Veronica Mars",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "veronica-mars",
+      "has_reactions": false
+    },
+    {
+      "id": "5dcb1853-b023-4441-9b76-e05da5d0ab84",
+      "title": "Dave Skylark's Very Special VMA Special",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "dave-skylark-s-very-special-vma-special",
+      "has_reactions": false
+    },
+    {
+      "id": "7ddd8c03-88e3-4878-b4ec-123c646cd5c3",
+      "title": "Child of God",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "child-of-god",
+      "has_reactions": false
+    },
+    {
+      "id": "5f8850ee-b993-430a-9919-6dabf6a70bd4",
+      "title": "National Theatre Live: Of Mice and Men",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "national-theatre-live-of-mice-and-men",
+      "has_reactions": false
+    },
+    {
+      "id": "cb80ebd8-72b0-4d59-95a2-586d81faf780",
+      "title": "The Heyday of the Insensitive Bastards",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-heyday-of-the-insensitive-bastards",
+      "has_reactions": false
+    },
+    {
+      "id": "68e0e812-9241-429a-805a-38da09531344",
+      "title": "The Sound and the Fury",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-sound-and-the-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "60b6e877-445d-428d-bc67-7772f7f57873",
+      "title": "Every Thing Will Be Fine",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "every-thing-will-be-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "535de2a3-aa67-475f-b812-3d297c8101e4",
+      "title": "Queen of the Desert",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "queen-of-the-desert",
+      "has_reactions": false
+    },
+    {
+      "id": "c26cfbca-afbe-4c55-b1a7-454fa7433bd4",
+      "title": "Don Quixote: The Ingenious Gentleman of La Mancha",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "don-quixote-the-ingenious-gentleman-of-la-mancha",
+      "has_reactions": false
+    },
+    {
+      "id": "0b1682be-a87b-4fbe-82ea-3c0a88d1dd8f",
+      "title": "I Am Michael",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "i-am-michael",
+      "has_reactions": false
+    },
+    {
+      "id": "48e034f8-2fb1-4fd6-965e-8f762e256d0a",
+      "title": "Sausage Party",
+      "release_year": 2016,
+      "studio_label": "Columbia Pictures",
+      "slug": "sausage-party",
+      "has_reactions": true
+    },
+    {
+      "id": "0907f2ea-305e-4416-ae9d-9896316b2a1d",
+      "title": "The Adderall Diaries",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-adderall-diaries",
+      "has_reactions": false
+    },
+    {
+      "id": "21d86ec3-a17a-4301-b59f-5e8170494602",
+      "title": "Yosemite",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "yosemite",
+      "has_reactions": false
+    },
+    {
+      "id": "af76dcb6-a2df-4a90-8c21-854cfa48df3b",
+      "title": "Burn Country",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "burn-country",
+      "has_reactions": false
+    },
+    {
+      "id": "9429db11-fd12-4f24-a245-4d7b5e8e0c59",
+      "title": "In Dubious Battle",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "in-dubious-battle",
+      "has_reactions": false
+    },
+    {
+      "id": "f560c9ef-6316-45f1-9fc8-24ab737573b7",
+      "title": "The Disaster Artist",
+      "release_year": 2017,
+      "studio_label": "New Line Cinema",
+      "slug": "the-disaster-artist",
+      "has_reactions": true
+    },
+    {
+      "id": "649a65d1-f82e-472e-bb31-18c50e8602cd",
+      "title": "Largo Winch: The Price of Money",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "largo-winch-the-price-of-money",
+      "has_reactions": false
+    },
+    {
+      "id": "c544aab2-87e6-433c-bfb0-6869bcae2522",
+      "title": "Hey Joe",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hey-joe",
+      "has_reactions": false
+    }
+  ]
+}

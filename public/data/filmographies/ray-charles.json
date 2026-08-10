@@ -1,0 +1,512 @@
+{
+  "id": "8f4a6be2-bfcc-4e38-b7e4-0fbb3a981cfe",
+  "name": "Ray Charles",
+  "slug": "ray-charles",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/AaWYS66DoFqTaPdXJ65PxXg2m7Y.jpg",
+  "filmography": [
+    {
+      "id": "ae6621c2-63d2-4cc3-8b3b-33497bf72559",
+      "title": "Say Hello to Our Good Friend Paul Shaffer",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "say-hello-to-our-good-friend-paul-shaffer",
+      "has_reactions": false
+    },
+    {
+      "id": "f4d3a20d-2824-47e1-8304-98010ac960ef",
+      "title": "Ballad in Blue",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "ballad-in-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "93c7b85c-e60b-487a-aec6-80340cb3aec9",
+      "title": "Ray Charles - La Salle Pleyel, Paris",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-la-salle-pleyel-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "4982a811-0eef-455e-9338-f69eb06ebb86",
+      "title": "Barbra Streisand... and Other Musical Instruments",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "barbra-streisand-and-other-musical-instruments",
+      "has_reactions": false
+    },
+    {
+      "id": "dec5c9ae-d4be-41f2-b999-339ac8f197db",
+      "title": "The Beatles Forever",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-beatles-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "f009720c-1acb-4aad-b5d8-77a386da3932",
+      "title": "Ray Charles: Angels Keep Watching Over Me",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-angels-keep-watching-over-me",
+      "has_reactions": false
+    },
+    {
+      "id": "cc88403a-4e4c-4251-bb60-219c25136916",
+      "title": "The Blues Brothers",
+      "release_year": 1980,
+      "studio_label": "Universal Pictures",
+      "slug": "the-blues-brothers",
+      "has_reactions": true
+    },
+    {
+      "id": "1c01e875-824b-4e79-91f5-eb28d97dd726",
+      "title": "John Schneider: Back Home",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "john-schneider-back-home",
+      "has_reactions": false
+    },
+    {
+      "id": "61a9a7bd-a2fd-46f9-ae76-be98703ad410",
+      "title": "Ray Charles At The North Sea Jazz Festival",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-at-the-north-sea-jazz-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "a4da606c-141b-46ba-b276-5b44b7e00c21",
+      "title": "Lynda Carter's Celebration",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "lynda-carter-s-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "3072b606-5673-4b94-a326-d792df963796",
+      "title": "Ray Charles Live - In Concert with the Edmonton Symphony",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-live-in-concert-with-the-edmonton-symphony",
+      "has_reactions": false
+    },
+    {
+      "id": "76d154fc-4dd9-4db8-a2a0-58e6a05926d9",
+      "title": "Ray Charles: A Man & His Soul",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-a-man-his-soul",
+      "has_reactions": false
+    },
+    {
+      "id": "8c806324-55ef-41af-92c8-4e62cfd2679b",
+      "title": "Hallelujah Gospel",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hallelujah-gospel",
+      "has_reactions": false
+    },
+    {
+      "id": "5e915cbc-7a1d-41c3-8893-cb9c7ab57d7c",
+      "title": "I Love Quincy",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "i-love-quincy",
+      "has_reactions": false
+    },
+    {
+      "id": "15821329-8e6a-4c09-87a8-19e397d3edae",
+      "title": "The Statue of Liberty",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-statue-of-liberty",
+      "has_reactions": false
+    },
+    {
+      "id": "ffaff9fd-9609-431b-9710-7f242025c4ff",
+      "title": "Billy Joel: Building the Bridge",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "billy-joel-building-the-bridge",
+      "has_reactions": false
+    },
+    {
+      "id": "5e045c06-bda5-47cc-8910-0ce333380bca",
+      "title": "The Muppets: A Celebration of 30 Years",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-a-celebration-of-30-years",
+      "has_reactions": false
+    },
+    {
+      "id": "10231807-2079-4092-b543-319769628c9a",
+      "title": "The Beach Boys: 25 Years Together - A Celebration In Waikiki",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-beach-boys-25-years-together-a-celebration-in-waikiki",
+      "has_reactions": false
+    },
+    {
+      "id": "6cdb55f0-52b2-4197-aae3-84036e13caf0",
+      "title": "Irving Berlin's 100th Birthday Celebration",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "irving-berlin-s-100th-birthday-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "f012521d-f8d6-44c7-b3d8-603b5aa86a85",
+      "title": "Legends of Rock 'n' Roll",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "legends-of-rock-n-roll",
+      "has_reactions": false
+    },
+    {
+      "id": "f6e92ab8-2dd9-4a9f-9127-20a8b4ddee18",
+      "title": "Limit Up",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "limit-up",
+      "has_reactions": false
+    },
+    {
+      "id": "ebfeefac-9d3f-4da0-be32-727cd98b10b0",
+      "title": "Sesame Street: 20 Years & Still Counting! 1969-1989",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "sesame-street-20-years-still-counting-1969-1989",
+      "has_reactions": false
+    },
+    {
+      "id": "052979c8-f653-4221-9170-6162fef48d8d",
+      "title": "The Muppets Celebrate Jim Henson",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-celebrate-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "8b3e3a71-07c6-4ca3-b471-930302f60d56",
+      "title": "Listen Up: The Lives of Quincy Jones",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "listen-up-the-lives-of-quincy-jones",
+      "has_reactions": false
+    },
+    {
+      "id": "e95854c1-62ac-455c-bf52-ca003b7cc11b",
+      "title": "Montreux Jazz Festival 1991",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "montreux-jazz-festival-1991",
+      "has_reactions": false
+    },
+    {
+      "id": "446a7749-2f78-464a-9bfb-aadcb0f3e981",
+      "title": "Willie Nelson: The Big Six-O",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-the-big-six-o",
+      "has_reactions": false
+    },
+    {
+      "id": "30033633-af1f-4db5-a675-c6e83d485a99",
+      "title": "The World of Jim Henson",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-world-of-jim-henson",
+      "has_reactions": false
+    },
+    {
+      "id": "3fbef190-f403-4829-8593-f54b5039db76",
+      "title": "Ray Alexander: A Taste For Justice",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "ray-alexander-a-taste-for-justice",
+      "has_reactions": false
+    },
+    {
+      "id": "e128db8d-92a1-4b48-954c-bb74193f4a96",
+      "title": "Spy Hard",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "spy-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "9136a103-8064-484d-9e75-c2d8c71d7d4c",
+      "title": "Blue's Big Musical Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "blue-s-big-musical-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "3513903d-49fc-4f19-963f-1c3d171eed7a",
+      "title": "Ray Charles - In Concert",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-in-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "1049122d-8b8f-4cb5-a94d-47b56c6a1d74",
+      "title": "Ray Charles: Live: Montreux Jazz Festival",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-live-montreux-jazz-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "a38af3f4-caf7-4b82-9125-d30f84dcc0cd",
+      "title": "The Willie Nelson Special - With Special Guest Ray Charles",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-willie-nelson-special-with-special-guest-ray-charles",
+      "has_reactions": false
+    },
+    {
+      "id": "3a02d889-c419-4b11-9ca2-efd70b961452",
+      "title": "Piano Blues",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "piano-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "fad06154-1b6e-4f13-8153-be6c1bdb755b",
+      "title": "Ray Charles: O-Genio - Live In Brazil 1963",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-o-genio-live-in-brazil-1963",
+      "has_reactions": false
+    },
+    {
+      "id": "15319e7a-0962-4c4f-9ee9-322af627d382",
+      "title": "Tom Dowd & The Language of Music",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "tom-dowd-the-language-of-music",
+      "has_reactions": false
+    },
+    {
+      "id": "79d815cb-c12a-414e-9eee-2bfb27d559c9",
+      "title": "Hank Williams: Honky Tonk Blues",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hank-williams-honky-tonk-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "95787f62-7630-45f5-ba50-d4ebde25b393",
+      "title": "Ray Charles: Soul of the Holy Land",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-soul-of-the-holy-land",
+      "has_reactions": false
+    },
+    {
+      "id": "cbe222f1-48e1-4ffa-bbc8-7ad636e4158e",
+      "title": "Rockin' Pianos",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "rockin-pianos",
+      "has_reactions": false
+    },
+    {
+      "id": "6c84957f-cf48-4ab0-8c40-e743f67eb489",
+      "title": "Ray Charles: Genius Loves Company",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-genius-loves-company",
+      "has_reactions": false
+    },
+    {
+      "id": "daae0183-fde4-4abd-af4f-3bcd7ee3c336",
+      "title": "The Blues Brothers: Transposing The Music",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-blues-brothers-transposing-the-music",
+      "has_reactions": false
+    },
+    {
+      "id": "64f1e224-58ae-4f24-9de0-93c363ac8eae",
+      "title": "Ray Charles: Live at the Olympia",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-live-at-the-olympia",
+      "has_reactions": false
+    },
+    {
+      "id": "ad44959d-a174-4563-b0a5-c96a4daa175f",
+      "title": "Ray Charles with the Voices of Jubilation Choir",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-with-the-voices-of-jubilation-choir",
+      "has_reactions": false
+    },
+    {
+      "id": "a08083df-0a4d-49f0-88a9-80c77b6e44d5",
+      "title": "Burt Sugarman's The Midnight Special: 1976",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "burt-sugarman-s-the-midnight-special-1976",
+      "has_reactions": false
+    },
+    {
+      "id": "f796b3bb-8b47-41db-8ac0-dab6e75c7e23",
+      "title": "Glen Campbell | Good Times Again",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "glen-campbell-good-times-again",
+      "has_reactions": false
+    },
+    {
+      "id": "f28abbe9-ff53-4fb3-87e0-0bb823e32d90",
+      "title": "Rolling With the Blues",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "rolling-with-the-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "e113fa3f-3a8b-4bd7-8ca4-bd0b025f344d",
+      "title": "Fats Domino: Walking to New Orleans",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fats-domino-walking-to-new-orleans",
+      "has_reactions": false
+    },
+    {
+      "id": "b492672f-0ef0-4341-b522-24497837d2ca",
+      "title": "Atlantic Records: The House That Ahmet Built",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "atlantic-records-the-house-that-ahmet-built",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb0c3bc-6267-478f-ae48-b3cb546f1f25",
+      "title": "Fats and Friends",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fats-and-friends",
+      "has_reactions": false
+    },
+    {
+      "id": "f3ebf403-0207-4955-8d9a-001d9142e487",
+      "title": "Ray Charles: Live At Montreux 1997",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-live-at-montreux-1997",
+      "has_reactions": false
+    },
+    {
+      "id": "11f6828d-0242-46d2-b9e2-3aa594fb85be",
+      "title": "Ray Charles: The Legend Lives On",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-the-legend-lives-on",
+      "has_reactions": false
+    },
+    {
+      "id": "bec52a9a-47a6-4edf-83d5-83c1f588c100",
+      "title": "Jazz Evolution",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "jazz-evolution",
+      "has_reactions": false
+    },
+    {
+      "id": "8269e233-7a0d-4a0a-87d1-7f0744453ad9",
+      "title": "O Melhor do Flash Back - 92 Clipes Para Recordar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "o-melhor-do-flash-back-92-clipes-para-recordar",
+      "has_reactions": false
+    },
+    {
+      "id": "2ade5a9e-4b5c-40b8-9820-dab89987a466",
+      "title": "Ray Charles - Live in France 1961",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "ray-charles-live-in-france-1961",
+      "has_reactions": false
+    },
+    {
+      "id": "dbaac98a-0fe3-4ad8-a820-1b2fb987401c",
+      "title": "Jazzline - Ray Charles & Orchestra",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "jazzline-ray-charles-orchestra",
+      "has_reactions": false
+    },
+    {
+      "id": "ba6a6bd0-a3ee-4545-9815-f2ec9006dfb6",
+      "title": "Face of Unity",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "face-of-unity",
+      "has_reactions": false
+    },
+    {
+      "id": "40e58fa8-9e3c-4c58-a200-20a0dfe6ccb3",
+      "title": "Piano Greats at the BBC",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "piano-greats-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "4ab81278-c937-4db1-b38e-9570f1605edd",
+      "title": "Rat Pack",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "rat-pack",
+      "has_reactions": false
+    },
+    {
+      "id": "66eee3e2-94f3-4cc1-85c8-32f682f7f4dd",
+      "title": "Carol Burnett: 90 Years of Laughter + Love",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "carol-burnett-90-years-of-laughter-love",
+      "has_reactions": false
+    },
+    {
+      "id": "cb3e0696-4252-4331-b6f9-2ac9ca1e7dbf",
+      "title": "They All Came Out to Montreux",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "they-all-came-out-to-montreux",
+      "has_reactions": false
+    },
+    {
+      "id": "f1758ccb-c353-439d-ac23-db7e0f7537ad",
+      "title": "Quincy Jones, Music Man",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "quincy-jones-music-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f5b7c616-a7fc-4919-bdf1-50ba1f11e3a3",
+      "title": "Merci Doroth\u00e9e !",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "merci-doroth-e",
+      "has_reactions": false
+    },
+    {
+      "id": "aafd08ab-9494-4d7f-9a8f-b09321d105a0",
+      "title": "Ladies & Gentlemen... 50 Years of SNL Music",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "ladies-gentlemen-50-years-of-snl-music",
+      "has_reactions": false
+    }
+  ]
+}

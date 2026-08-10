@@ -1,0 +1,720 @@
+{
+  "id": "350a0cf8-e77d-4af5-8d3d-395cba9e4a85",
+  "name": "Antonio Banderas",
+  "slug": "antonio-banderas",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/fce7zl6elUzsv7wudHFc7RgFtjD.jpg",
+  "filmography": [
+    {
+      "id": "eee0ad77-f49d-41b7-9413-2468b661d6c8",
+      "title": "Labyrinth of Passion",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "labyrinth-of-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "fcfb11a7-fc88-4c57-9224-99855843ad56",
+      "title": "Pesta\u00f1as postizas",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "pesta-as-postizas",
+      "has_reactions": false
+    },
+    {
+      "id": "a1cb6db8-3eef-44f6-99ec-50e0b8ffbe18",
+      "title": "El caso Almer\u00eda",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "el-caso-almer-a",
+      "has_reactions": false
+    },
+    {
+      "id": "d44c8edc-671a-41b9-b4e5-649491f3afb5",
+      "title": "The Court of the Pharaoh",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-court-of-the-pharaoh",
+      "has_reactions": false
+    },
+    {
+      "id": "c00474f8-3b5c-467c-9134-40b26ba832a8",
+      "title": "Caso cerrado",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "caso-cerrado",
+      "has_reactions": false
+    },
+    {
+      "id": "840147ab-cc8a-4026-9d03-04917cd5abd5",
+      "title": "Matador",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "matador",
+      "has_reactions": false
+    },
+    {
+      "id": "759e7135-4751-4570-921c-15c8802910a6",
+      "title": "Law of Desire",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "law-of-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "f87412aa-a5d3-43be-9119-bb37c2a5e9e9",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "women-on-the-verge-of-a-nervous-breakdown",
+      "has_reactions": false
+    },
+    {
+      "id": "874cd4b9-3429-4270-a69a-a22098e11a28",
+      "title": "El placer de matar",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "el-placer-de-matar",
+      "has_reactions": false
+    },
+    {
+      "id": "45cf6ce2-026b-4bed-bc4d-7e35ae075ccd",
+      "title": "Baton Rouge",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "baton-rouge",
+      "has_reactions": false
+    },
+    {
+      "id": "4f424155-e21b-4abf-ae01-b0c371c66143",
+      "title": "If They Tell You I Fell",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "if-they-tell-you-i-fell",
+      "has_reactions": false
+    },
+    {
+      "id": "43f7be3b-f260-4854-a31f-32757270ad24",
+      "title": "Going Down in Morocco",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "going-down-in-morocco",
+      "has_reactions": false
+    },
+    {
+      "id": "dde21754-3d15-48e3-a1d8-22e4cf99db3f",
+      "title": "Tie Me Up! Tie Me Down!",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "tie-me-up-tie-me-down",
+      "has_reactions": false
+    },
+    {
+      "id": "1b6126a3-74c7-4f0e-9518-966109c84f48",
+      "title": "Terra Nova",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "terra-nova",
+      "has_reactions": false
+    },
+    {
+      "id": "78fcdbc2-b8c4-4e77-bed9-03bf9dc6f73f",
+      "title": "The Mambo Kings",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "the-mambo-kings",
+      "has_reactions": false
+    },
+    {
+      "id": "a7690ee5-0215-43c5-a781-6f71efd5c854",
+      "title": "Una mujer bajo la lluvia",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "una-mujer-bajo-la-lluvia",
+      "has_reactions": false
+    },
+    {
+      "id": "04eef7b5-2afe-4834-8333-caaa9cdfa245",
+      "title": "Philadelphia",
+      "release_year": 1993,
+      "studio_label": "TriStar Pictures",
+      "slug": "philadelphia",
+      "has_reactions": true
+    },
+    {
+      "id": "a452678b-7686-4e42-8727-95286c3a716f",
+      "title": "The House of the Spirits",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-house-of-the-spirits",
+      "has_reactions": false
+    },
+    {
+      "id": "95e37157-a037-4896-b5d2-7839b1e9ef49",
+      "title": "Outrage",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "outrage",
+      "has_reactions": false
+    },
+    {
+      "id": "6cacd36d-8d1c-4e26-bafe-ae24c3366ad4",
+      "title": "Interview with the Vampire",
+      "release_year": 1994,
+      "studio_label": "Geffen Pictures",
+      "slug": "interview-with-the-vampire",
+      "has_reactions": true
+    },
+    {
+      "id": "34b0dd1c-09e7-4c87-947b-5f779f4a0520",
+      "title": "Of Love and Shadows",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "of-love-and-shadows",
+      "has_reactions": false
+    },
+    {
+      "id": "7a3c6b18-fff3-494e-bae9-15ec2882190a",
+      "title": "Desperado",
+      "release_year": 1995,
+      "studio_label": "Columbia Pictures",
+      "slug": "desperado",
+      "has_reactions": true
+    },
+    {
+      "id": "3aa31beb-b5c1-49f5-847a-9a0632b065d8",
+      "title": "Four Rooms",
+      "release_year": 1995,
+      "studio_label": "Miramax",
+      "slug": "four-rooms",
+      "has_reactions": true
+    },
+    {
+      "id": "612a920d-3beb-46a9-b79b-aa4b15f3f245",
+      "title": "Assassins",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "assassins",
+      "has_reactions": false
+    },
+    {
+      "id": "a634dd4f-9865-493d-910b-3819fecb32a8",
+      "title": "Two Much",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "two-much",
+      "has_reactions": false
+    },
+    {
+      "id": "809687cf-77ba-42d5-beec-6da77959d19c",
+      "title": "Miami Rhapsody",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "miami-rhapsody",
+      "has_reactions": false
+    },
+    {
+      "id": "2992e071-cba9-4c23-95ff-3f4523380508",
+      "title": "Evita",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "evita",
+      "has_reactions": false
+    },
+    {
+      "id": "1e98cfba-3162-41bf-bcff-2702ae4278a4",
+      "title": "A New Madonna: The Making of 'Evita'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-new-madonna-the-making-of-evita",
+      "has_reactions": false
+    },
+    {
+      "id": "a644e62e-5d8b-4688-a359-a9d733fb5dcf",
+      "title": "The Mask of Zorro",
+      "release_year": 1998,
+      "studio_label": "TriStar Pictures",
+      "slug": "the-mask-of-zorro",
+      "has_reactions": true
+    },
+    {
+      "id": "0336f777-3420-4d00-bd85-d8c80d2551d1",
+      "title": "The 13th Warrior",
+      "release_year": 1999,
+      "studio_label": "Touchstone Pictures",
+      "slug": "the-13th-warrior",
+      "has_reactions": true
+    },
+    {
+      "id": "908c1bdd-b65f-4f3a-bc4c-063efc8fa4d0",
+      "title": "Play It to the Bone",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "play-it-to-the-bone",
+      "has_reactions": false
+    },
+    {
+      "id": "a2619aff-84fa-408c-87a4-843c8a58a8d6",
+      "title": "The White River Kid",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-white-river-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "81dc053d-4def-4f8a-96c0-1ba630978a09",
+      "title": "Spy Kids",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "spy-kids",
+      "has_reactions": false
+    },
+    {
+      "id": "fcb03fa9-aab9-47eb-bd00-694efa0b44a7",
+      "title": "The Body",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-body",
+      "has_reactions": false
+    },
+    {
+      "id": "f9597bfd-a0c1-4abb-ae8f-989293648324",
+      "title": "Original Sin",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "original-sin",
+      "has_reactions": false
+    },
+    {
+      "id": "718c49e0-32d0-4abe-9ad0-486b73e033be",
+      "title": "Ballistic: Ecks vs. Sever",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "ballistic-ecks-vs-sever",
+      "has_reactions": false
+    },
+    {
+      "id": "cd85b5af-4167-47ba-aaab-a1affffc8bc8",
+      "title": "Frida",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "frida",
+      "has_reactions": false
+    },
+    {
+      "id": "7999118a-edef-4b63-97cc-f868f4b90160",
+      "title": "Spy Kids 2: The Island of Lost Dreams",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-2-the-island-of-lost-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "0999eb2c-e9e1-403a-9375-4c7360219e0d",
+      "title": "Searching for Debra Winger",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "searching-for-debra-winger",
+      "has_reactions": false
+    },
+    {
+      "id": "35c89288-9793-4f08-8314-9633b1ad3259",
+      "title": "Femme Fatale",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "femme-fatale",
+      "has_reactions": false
+    },
+    {
+      "id": "bb55ac59-bc13-4e41-a56f-9086204abb4a",
+      "title": "Once Upon a Time in Mexico",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-time-in-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "15b917d2-0253-4f85-b76f-90acf26a3179",
+      "title": "And Starring Pancho Villa as Himself",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "and-starring-pancho-villa-as-himself",
+      "has_reactions": false
+    },
+    {
+      "id": "89e4bfe3-dca3-4cee-b08c-cb9e8241f057",
+      "title": "Spy Kids 3-D: Game Over",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "spy-kids-3-d-game-over",
+      "has_reactions": false
+    },
+    {
+      "id": "68ba2d50-3afb-4279-b61d-a0a177dfb66e",
+      "title": "Femme Fatale: Dream Within a Dream",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "femme-fatale-dream-within-a-dream",
+      "has_reactions": false
+    },
+    {
+      "id": "89d9b26a-a29f-4199-99d6-75f6f8c037d9",
+      "title": "Shrek 2",
+      "release_year": 2004,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-2",
+      "has_reactions": true
+    },
+    {
+      "id": "f4595d32-f7fc-44d3-83e9-82a1ff195e4f",
+      "title": "The Legend of Zorro",
+      "release_year": 2005,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-legend-of-zorro",
+      "has_reactions": true
+    },
+    {
+      "id": "dbd09b64-9f8c-4424-b58d-7c81a2674d07",
+      "title": "Shrek the Third",
+      "release_year": 2007,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-the-third",
+      "has_reactions": true
+    },
+    {
+      "id": "69cbb3fb-3764-4ff4-b6a1-96682da61c87",
+      "title": "Bordertown",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "bordertown",
+      "has_reactions": false
+    },
+    {
+      "id": "fe5a43ef-0ba3-4a54-bcdf-44882530975c",
+      "title": "My Mom's New Boyfriend",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "my-mom-s-new-boyfriend",
+      "has_reactions": false
+    },
+    {
+      "id": "bdc1be0a-56e7-4898-999e-ddd410c996db",
+      "title": "The Other Man",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-other-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f492df43-df5b-473c-9933-d267fbf0b847",
+      "title": "Y el cine marcha",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "y-el-cine-marcha",
+      "has_reactions": false
+    },
+    {
+      "id": "215297ca-9723-4fb0-ac44-232b742c9cae",
+      "title": "Chevolution",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "chevolution",
+      "has_reactions": false
+    },
+    {
+      "id": "045ee64b-c90b-47e9-a7c7-8aaa6667ee91",
+      "title": "Thick as Thieves",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "thick-as-thieves",
+      "has_reactions": false
+    },
+    {
+      "id": "8137b93a-7dcf-4c07-aa9c-228706c6c063",
+      "title": "Shrek Forever After",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "shrek-forever-after",
+      "has_reactions": true
+    },
+    {
+      "id": "0d3b1865-412f-4251-890e-17e3cde9eb56",
+      "title": "Scared Shrekless",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "scared-shrekless",
+      "has_reactions": false
+    },
+    {
+      "id": "05dc3cfe-d708-4235-9b4a-4e74665b2888",
+      "title": "Puss in Boots",
+      "release_year": 2011,
+      "studio_label": "DreamWorks Animation",
+      "slug": "puss-in-boots",
+      "has_reactions": true
+    },
+    {
+      "id": "b36034e0-a9e8-4bfb-b10a-1b020db2d173",
+      "title": "Haywire",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "haywire",
+      "has_reactions": false
+    },
+    {
+      "id": "1464e9c2-cfa2-4530-81ea-c6d7a5f2dba9",
+      "title": "The Skin I Live In",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-skin-i-live-in",
+      "has_reactions": false
+    },
+    {
+      "id": "c06191e5-6709-4fcb-9efe-f997e4eeba67",
+      "title": "The Big Bang",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "the-big-bang",
+      "has_reactions": false
+    },
+    {
+      "id": "79f0fd7f-cd5f-4689-9936-47c46cfeba7b",
+      "title": "Puss in Boots: The Three Diablos",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "puss-in-boots-the-three-diablos",
+      "has_reactions": false
+    },
+    {
+      "id": "b545bada-dbc7-4dbd-b6cc-fa90dfc17781",
+      "title": "The Making of The Skin I Live In",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-the-skin-i-live-in",
+      "has_reactions": false
+    },
+    {
+      "id": "f5110923-846a-4a23-a129-ac1ff2366403",
+      "title": "Ruby Sparks",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ruby-sparks",
+      "has_reactions": false
+    },
+    {
+      "id": "b1d9b7aa-45ab-453e-a5cc-32f41bf9073a",
+      "title": "Justin and the Knights of Valour",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "justin-and-the-knights-of-valour",
+      "has_reactions": false
+    },
+    {
+      "id": "435fba7c-463d-4879-8e55-35fac4d0fd88",
+      "title": "I'm So Excited!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "i-m-so-excited",
+      "has_reactions": false
+    },
+    {
+      "id": "047fa015-a9c3-4679-baf6-44a474650130",
+      "title": "Mundos virtuales",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "mundos-virtuales",
+      "has_reactions": false
+    },
+    {
+      "id": "78df52a8-24c0-4dbe-b436-0ef90696fc77",
+      "title": "Machete Kills",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "machete-kills",
+      "has_reactions": false
+    },
+    {
+      "id": "90843dae-cd56-438f-bae3-93e493597de0",
+      "title": "Untied! Reflections on Tie Me Up! Tie Me Down!",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "untied-reflections-on-tie-me-up-tie-me-down",
+      "has_reactions": false
+    },
+    {
+      "id": "0c8763b5-2100-4288-9246-fac55c7dabbe",
+      "title": "Automata",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "automata",
+      "has_reactions": false
+    },
+    {
+      "id": "90f48196-3ef6-4514-8821-f6059adfaf2f",
+      "title": "Knight of Cups",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "knight-of-cups",
+      "has_reactions": false
+    },
+    {
+      "id": "8a4d828c-1461-497e-9d3c-807c6dfbdb36",
+      "title": "The 33",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-33",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c6caae-69c4-4bcd-84a3-7befa0b73af0",
+      "title": "The SpongeBob Movie: Sponge Out of Water",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-spongebob-movie-sponge-out-of-water",
+      "has_reactions": false
+    },
+    {
+      "id": "c9de2fc3-88b2-4683-95a4-b53b66096862",
+      "title": "Finding Altamira",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "finding-altamira",
+      "has_reactions": false
+    },
+    {
+      "id": "65d58716-aee5-466c-ac30-4331127d2f33",
+      "title": "The Great Illusion",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-great-illusion",
+      "has_reactions": false
+    },
+    {
+      "id": "f5adadbf-ad0c-43c8-a3a7-8422ec73506d",
+      "title": "SpongeBob SquarePants: Sea Side Story",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "spongebob-squarepants-sea-side-story",
+      "has_reactions": false
+    },
+    {
+      "id": "53c1f42f-7518-4603-966b-e55670f20aa5",
+      "title": "Pain and Glory",
+      "release_year": 2019,
+      "studio_label": "El Deseo",
+      "slug": "pain-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "e9905aa7-11ea-4489-8548-1caf3a4d98cc",
+      "title": "The Making of Pain and Glory",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-pain-and-glory",
+      "has_reactions": false
+    },
+    {
+      "id": "bd37509d-d317-4369-b3c9-4648d89ac931",
+      "title": "Puss in Boots: The Last Wish",
+      "release_year": 2022,
+      "studio_label": "DreamWorks Animation",
+      "slug": "puss-in-boots-the-last-wish",
+      "has_reactions": true
+    },
+    {
+      "id": "18d66336-9744-420a-8a83-27878457cd58",
+      "title": "Uncharted",
+      "release_year": 2022,
+      "studio_label": "Columbia Pictures",
+      "slug": "uncharted",
+      "has_reactions": false
+    },
+    {
+      "id": "58cd966a-0552-4929-bf3a-2246e90c796c",
+      "title": "Code Name Banshee",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "code-name-banshee",
+      "has_reactions": false
+    },
+    {
+      "id": "c2bc1e5c-aa32-4301-a8e9-789793c71841",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "release_year": 2023,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "indiana-jones-and-the-dial-of-destiny",
+      "has_reactions": true
+    },
+    {
+      "id": "e49dd42e-e94a-42f9-a122-a4f42c8e96c7",
+      "title": "El viaje de Julieta",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "el-viaje-de-julieta",
+      "has_reactions": false
+    },
+    {
+      "id": "e038c154-271e-4826-a484-3b9a361b77f1",
+      "title": "Journey to Bethlehem",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "journey-to-bethlehem",
+      "has_reactions": false
+    },
+    {
+      "id": "2bc91abc-5476-4a1f-b34d-b2795fc35ae8",
+      "title": "The Making of Indiana Jones and the Dial of Destiny",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-indiana-jones-and-the-dial-of-destiny",
+      "has_reactions": false
+    },
+    {
+      "id": "2dde7b87-d163-4a64-a780-7e7338ef2cbf",
+      "title": "Timeless Heroes: Indiana Jones and Harrison Ford",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "timeless-heroes-indiana-jones-and-harrison-ford",
+      "has_reactions": false
+    },
+    {
+      "id": "11be23f6-b840-4cec-b769-ec3f23d7261d",
+      "title": "Paddington in Peru",
+      "release_year": 2024,
+      "studio_label": "Kinoshita Group",
+      "slug": "paddington-in-peru",
+      "has_reactions": true
+    },
+    {
+      "id": "0170ff79-37d3-498f-932a-1e4851ff9675",
+      "title": "The Clean Up Crew",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-clean-up-crew",
+      "has_reactions": false
+    },
+    {
+      "id": "42d7409a-a689-490c-8f76-c4b2ef81c2a8",
+      "title": "Babygirl",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "babygirl",
+      "has_reactions": false
+    },
+    {
+      "id": "3976cf8f-ee7c-43bd-ac7d-13aa62510310",
+      "title": "Cult Killer",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "cult-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "d27b1be1-1ebf-40a7-b233-2964f13fc34b",
+      "title": "Hermanos, una historia de sangre",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "hermanos-una-historia-de-sangre",
+      "has_reactions": false
+    }
+  ]
+}

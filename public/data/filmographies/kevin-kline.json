@@ -1,0 +1,536 @@
+{
+  "id": "fe5bbd39-bc3d-4bc9-bb99-cab2ca8e923c",
+  "name": "Kevin Kline",
+  "slug": "kevin-kline",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg",
+  "filmography": [
+    {
+      "id": "9b695836-ed65-474f-87ae-29143c2a8cf0",
+      "title": "The Diary",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "the-diary",
+      "has_reactions": false
+    },
+    {
+      "id": "ac97ce92-2ba6-424a-907f-9b627e7c3311",
+      "title": "The Time of Your Life",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-time-of-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "ba834b5c-f559-4722-97d6-f7e156632630",
+      "title": "The Pirates of Penzance",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "the-pirates-of-penzance",
+      "has_reactions": false
+    },
+    {
+      "id": "8ade678d-5d96-446d-8045-dd9a16d0ef59",
+      "title": "Sophie's Choice",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "sophie-s-choice",
+      "has_reactions": false
+    },
+    {
+      "id": "f9cf8b19-6ecd-489c-8758-947229581318",
+      "title": "The Pirates of Penzance",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-pirates-of-penzance",
+      "has_reactions": false
+    },
+    {
+      "id": "0825b98d-77c7-487c-a8d6-a37b2972f074",
+      "title": "He Makes Me Feel Like Dancin'",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "he-makes-me-feel-like-dancin",
+      "has_reactions": false
+    },
+    {
+      "id": "407e5783-485c-4661-9efe-cb45c3b07c4c",
+      "title": "Silverado",
+      "release_year": 1985,
+      "studio_label": "Columbia Pictures",
+      "slug": "silverado",
+      "has_reactions": true
+    },
+    {
+      "id": "60564089-bc2e-463c-beb9-d6d570123afa",
+      "title": "Violets Are Blue",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "violets-are-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "49d0a483-5f5e-4dc3-b011-244e35d1cac8",
+      "title": "Cry Freedom",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "cry-freedom",
+      "has_reactions": false
+    },
+    {
+      "id": "391bebbc-0b11-422b-9505-ac208b909503",
+      "title": "The Grand Knockout Tournament",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-grand-knockout-tournament",
+      "has_reactions": false
+    },
+    {
+      "id": "6760e248-b577-4308-93fb-6f10d14b071a",
+      "title": "A Fish Called Wanda",
+      "release_year": 1988,
+      "studio_label": "Prominent Features",
+      "slug": "a-fish-called-wanda",
+      "has_reactions": true
+    },
+    {
+      "id": "26f4d2ce-4d4d-488a-8f27-9ab4f1fdde12",
+      "title": "John Cleese's First Farewell Performance",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "john-cleese-s-first-farewell-performance",
+      "has_reactions": false
+    },
+    {
+      "id": "b1865684-2b5d-4b4a-b9d2-b2d23c2d241c",
+      "title": "I Love You to Death",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "i-love-you-to-death",
+      "has_reactions": false
+    },
+    {
+      "id": "f0d10cd3-1a5a-4d83-aba2-d327a63c1d96",
+      "title": "William Shakespeare's Hamlet",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "william-shakespeare-s-hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "d0ed5944-2d4e-4fec-8a78-e680051c34b4",
+      "title": "Grand Canyon",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "grand-canyon",
+      "has_reactions": false
+    },
+    {
+      "id": "e7350650-03d5-48ba-9162-9410619d46bf",
+      "title": "Merlin and the Dragons",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "merlin-and-the-dragons",
+      "has_reactions": false
+    },
+    {
+      "id": "aaed93c0-edad-4326-b6b1-4cb437e905d8",
+      "title": "Chaplin",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "chaplin",
+      "has_reactions": false
+    },
+    {
+      "id": "e9977b0c-756c-4fb3-b2a3-bf6deec675da",
+      "title": "Consenting Adults",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "consenting-adults",
+      "has_reactions": false
+    },
+    {
+      "id": "7f7c18ef-cea8-4285-83c4-089eb3349902",
+      "title": "Dave",
+      "release_year": 1993,
+      "studio_label": "Donner/Shuler-Donner Productions",
+      "slug": "dave",
+      "has_reactions": true
+    },
+    {
+      "id": "33540381-b1ee-4fea-b46b-222db7f7fd1f",
+      "title": "The Nutcracker",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-nutcracker",
+      "has_reactions": false
+    },
+    {
+      "id": "3fd47100-1583-4935-801a-1b096041a8c5",
+      "title": "Princess Caraboo",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "princess-caraboo",
+      "has_reactions": false
+    },
+    {
+      "id": "112dfd9d-c317-43c2-9165-5610bd38340c",
+      "title": "French Kiss",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "french-kiss",
+      "has_reactions": false
+    },
+    {
+      "id": "0b965081-f9b3-4284-9a51-a90ed569f45b",
+      "title": "The Hunchback of Notre Dame",
+      "release_year": 1996,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-hunchback-of-notre-dame",
+      "has_reactions": true
+    },
+    {
+      "id": "f8cd2d92-6928-46a3-84b5-fca9263dd647",
+      "title": "In & Out",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "in-out",
+      "has_reactions": false
+    },
+    {
+      "id": "423e7b94-effb-4c9b-b8db-b94ebdf58e92",
+      "title": "Fierce Creatures",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "fierce-creatures",
+      "has_reactions": false
+    },
+    {
+      "id": "75512c45-cc50-417e-b0f0-a8bf1af19236",
+      "title": "The Making of Silverado",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-silverado",
+      "has_reactions": false
+    },
+    {
+      "id": "edea4551-3b67-4c7c-a355-d492264c5f31",
+      "title": "The Big Chill: A Reunion",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-big-chill-a-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "c247db44-5bd5-4cb5-8693-38b1b44fa1c9",
+      "title": "Wild Wild West: Good Guys Gadgets",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-good-guys-gadgets",
+      "has_reactions": false
+    },
+    {
+      "id": "a0b422eb-5177-40ab-a040-97c3581ae870",
+      "title": "It's a Whole New West: The Making of 'Wild, Wild West'",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "it-s-a-whole-new-west-the-making-of-wild-wild-west",
+      "has_reactions": false
+    },
+    {
+      "id": "08089e31-35a9-43a9-a168-f05f13a1f96f",
+      "title": "Wild Wild West: Wardrobes of the West",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "wild-wild-west-wardrobes-of-the-west",
+      "has_reactions": false
+    },
+    {
+      "id": "b1f2728b-067d-4630-a213-1cfbd4d94a86",
+      "title": "The Road to El Dorado",
+      "release_year": 2000,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "the-road-to-el-dorado",
+      "has_reactions": true
+    },
+    {
+      "id": "3927d68a-7ddb-4a51-b2c4-4120b7d4a781",
+      "title": "The Anniversary Party",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-anniversary-party",
+      "has_reactions": false
+    },
+    {
+      "id": "86aec3c7-a533-4517-973f-e37a637301af",
+      "title": "The Emperor's Club",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-emperor-s-club",
+      "has_reactions": false
+    },
+    {
+      "id": "4fe2d472-9c5d-46bd-90c2-f6540b9a9a3a",
+      "title": "Orange County",
+      "release_year": 2002,
+      "studio_label": "MTV Films",
+      "slug": "orange-county",
+      "has_reactions": true
+    },
+    {
+      "id": "8b6ffb5b-4c31-4211-a40e-f1b9f1bb88ba",
+      "title": "Life as a House: From the Ground Up",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "life-as-a-house-from-the-ground-up",
+      "has_reactions": false
+    },
+    {
+      "id": "db6aceaf-b750-46b5-b601-125c90e35e82",
+      "title": "The Shakespeare Sessions",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-shakespeare-sessions",
+      "has_reactions": false
+    },
+    {
+      "id": "3696b3e2-5428-47ce-8f3e-457e2b47d6be",
+      "title": "De-Lovely",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "de-lovely",
+      "has_reactions": false
+    },
+    {
+      "id": "bcd10fad-5914-4915-9c84-69d146e30be9",
+      "title": "Mary Engelbreit's The Night Before Christmas",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mary-engelbreit-s-the-night-before-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "ac3610a5-e4f7-4380-b6de-e2f8eb8e6562",
+      "title": "The Pink Panther",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-pink-panther",
+      "has_reactions": false
+    },
+    {
+      "id": "4d2b3360-dc5f-43c1-967a-0efcc41e3700",
+      "title": "Bringing Balanchine Back",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "bringing-balanchine-back",
+      "has_reactions": false
+    },
+    {
+      "id": "d61684f9-8bf8-4fe6-9dfd-15c8c1a8315d",
+      "title": "The Gateway Arch: A Reflection of America",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-gateway-arch-a-reflection-of-america",
+      "has_reactions": false
+    },
+    {
+      "id": "27a86d2c-2a65-4370-bd63-891780c588da",
+      "title": "Trade",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "trade",
+      "has_reactions": false
+    },
+    {
+      "id": "b74bcee3-404c-460e-a4ad-6a4a87478455",
+      "title": "The Tale of Despereaux",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-tale-of-despereaux",
+      "has_reactions": false
+    },
+    {
+      "id": "9046dc71-350f-4619-8c70-8f55e9b75ad4",
+      "title": "The Last Ghost of War",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-last-ghost-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "956e8bde-2e8c-41a1-9e82-e469298e8309",
+      "title": "Theater of War",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "theater-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "b095100b-caad-44b7-8fa8-5e6e448f100b",
+      "title": "Cyrano de Bergerac",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cyrano-de-bergerac",
+      "has_reactions": false
+    },
+    {
+      "id": "42920dfd-9826-48e4-afb3-d7fbac129799",
+      "title": "Cyrano de Bergerac",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "cyrano-de-bergerac",
+      "has_reactions": false
+    },
+    {
+      "id": "7b5b8ec4-4fbd-4c61-8681-c922a5bee189",
+      "title": "Queen to Play",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "queen-to-play",
+      "has_reactions": false
+    },
+    {
+      "id": "1c1353f4-60f7-4543-9523-67086f270c6e",
+      "title": "Still on the Road",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "still-on-the-road",
+      "has_reactions": false
+    },
+    {
+      "id": "4c6cf061-1e81-492b-9fc2-5b97eaf8d735",
+      "title": "No Strings Attached",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "no-strings-attached",
+      "has_reactions": false
+    },
+    {
+      "id": "d8fa9bc3-3ebd-44c7-a710-b016aaf238f1",
+      "title": "Olmsted and America's Urban Parks",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "olmsted-and-america-s-urban-parks",
+      "has_reactions": false
+    },
+    {
+      "id": "67621725-7e5f-44e9-958c-c259543082cf",
+      "title": "Oscar Etiquette",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "oscar-etiquette",
+      "has_reactions": false
+    },
+    {
+      "id": "92e8b453-0c6c-482f-b5c5-8552a597f83a",
+      "title": "Darling Companion",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "darling-companion",
+      "has_reactions": false
+    },
+    {
+      "id": "e662f178-50fc-4fcc-aa77-3200893f7cc7",
+      "title": "The Last of Robin Hood",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-last-of-robin-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "82e9ad10-d88b-4651-a253-050daed84088",
+      "title": "Last Vegas",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "last-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "778cfe00-dfa9-41bf-9fd8-563dcc8f20ff",
+      "title": "Ricki and the Flash",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "ricki-and-the-flash",
+      "has_reactions": false
+    },
+    {
+      "id": "98f3cc2c-04ff-4677-b632-d3418fa026ef",
+      "title": "Dean",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dean",
+      "has_reactions": false
+    },
+    {
+      "id": "34cee025-d600-4626-a1d8-ecbbcb91ea24",
+      "title": "Beauty and the Beast",
+      "release_year": 2017,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "beauty-and-the-beast",
+      "has_reactions": true
+    },
+    {
+      "id": "242d31d1-6d5d-428d-8947-1c57680fdd53",
+      "title": "Nature: Yosemite",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "nature-yosemite",
+      "has_reactions": false
+    },
+    {
+      "id": "c71f465d-fb1b-4cd5-98c3-3cd3eb375026",
+      "title": "No\u00ebl Coward's Present Laughter",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "no-l-coward-s-present-laughter",
+      "has_reactions": false
+    },
+    {
+      "id": "5157a916-dcf2-494e-b2d2-e4251ba4973b",
+      "title": "Linda Ronstadt: The Sound of My Voice",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "linda-ronstadt-the-sound-of-my-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "3950dc65-d199-4fe0-9ae1-3fb4d0559a15",
+      "title": "The Good House",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-good-house",
+      "has_reactions": false
+    },
+    {
+      "id": "082b3261-e53a-42ce-8dbc-248b60038732",
+      "title": "Dear Elizabeth",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "dear-elizabeth",
+      "has_reactions": false
+    },
+    {
+      "id": "5cf8db0b-c7b8-4cf8-99a9-678ef8d348a2",
+      "title": "Here Today",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "here-today",
+      "has_reactions": false
+    },
+    {
+      "id": "b9f31db8-b08b-4495-be9e-8691cc5bb28e",
+      "title": "The Bob's Burgers Movie",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-bob-s-burgers-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "e43f7f16-e004-4d85-9f2c-3d21cd7ebc07",
+      "title": "PERFUMANIA",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "perfumania",
+      "has_reactions": false
+    }
+  ]
+}

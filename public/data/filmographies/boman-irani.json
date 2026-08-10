@@ -1,0 +1,680 @@
+{
+  "id": "50b520c6-f0fc-4825-b556-384db8f7129c",
+  "name": "Boman Irani",
+  "slug": "boman-irani",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+  "filmography": [
+    {
+      "id": "75fef27b-0115-4c33-a566-da7974a2e42b",
+      "title": "Everybody Says I'm Fine!",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "everybody-says-i-m-fine",
+      "has_reactions": false
+    },
+    {
+      "id": "7afe3189-b063-46ff-9bfb-325288bafd60",
+      "title": "Let's Talk",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "let-s-talk",
+      "has_reactions": false
+    },
+    {
+      "id": "7225bc6e-eb0e-43b8-9aec-061bdf86e354",
+      "title": "Darna Mana Hai",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "darna-mana-hai",
+      "has_reactions": false
+    },
+    {
+      "id": "fb18cd9c-5009-4f8d-b3fb-f77816bdf7bd",
+      "title": "Boom",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "boom",
+      "has_reactions": false
+    },
+    {
+      "id": "7d9e6208-b03a-4d23-9599-b2f17d272875",
+      "title": "Munna Bhai M.B.B.S.",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "munna-bhai-m-b-b-s",
+      "has_reactions": false
+    },
+    {
+      "id": "d2a4bac9-cd64-45a9-bf5d-13cdac434f52",
+      "title": "Veer-Zaara",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "veer-zaara",
+      "has_reactions": false
+    },
+    {
+      "id": "8f7ab4c6-dbb2-4b89-a876-5cfa9fc23bcf",
+      "title": "Lakshya",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "lakshya",
+      "has_reactions": false
+    },
+    {
+      "id": "ad104fb2-4c7c-40b5-8d44-e7f151b8fa34",
+      "title": "Page 3",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "page-3",
+      "has_reactions": false
+    },
+    {
+      "id": "86d3a885-8863-481b-b3b5-3f3fae6a8a66",
+      "title": "My Wife's Murder",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "my-wife-s-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "42388077-c356-4506-a8c4-ccffb0e7a55a",
+      "title": "Kal: Yesterday and Tomorrow",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "kal-yesterday-and-tomorrow",
+      "has_reactions": false
+    },
+    {
+      "id": "6266adcd-b919-4d23-b280-fdf2947222eb",
+      "title": "Waqt",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "waqt",
+      "has_reactions": false
+    },
+    {
+      "id": "35ff006d-f25e-4c4f-98c9-73ff02ebe8cd",
+      "title": "No Entry",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "no-entry",
+      "has_reactions": false
+    },
+    {
+      "id": "ae085d35-943b-40f9-a4f2-f5f636cb1304",
+      "title": "Home Delivery",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "home-delivery",
+      "has_reactions": false
+    },
+    {
+      "id": "f08a7817-e045-4fc8-b28f-16b2ee027142",
+      "title": "Bluffmaster!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "bluffmaster",
+      "has_reactions": false
+    },
+    {
+      "id": "31d363ad-11f0-4244-8965-87d849734914",
+      "title": "Lage Raho Munna Bhai",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "lage-raho-munna-bhai",
+      "has_reactions": false
+    },
+    {
+      "id": "5274a4fe-377a-4a27-99bb-d203692b3e73",
+      "title": "Don",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "don",
+      "has_reactions": false
+    },
+    {
+      "id": "e91a4bcc-5d39-42c8-960e-8858541cc602",
+      "title": "Pyare Mohan",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "pyare-mohan",
+      "has_reactions": false
+    },
+    {
+      "id": "aab47f14-56a2-4245-96bd-dde7008c0e05",
+      "title": "Yun Hota To Kya Hota",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "yun-hota-to-kya-hota",
+      "has_reactions": false
+    },
+    {
+      "id": "c9e1d2eb-71db-46ae-ab84-6f91d8783ea8",
+      "title": "I See You",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "i-see-you",
+      "has_reactions": false
+    },
+    {
+      "id": "e125fdc5-94cc-4612-b9d1-9c829e84e3b0",
+      "title": "Khosla Ka Ghosla!",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "khosla-ka-ghosla",
+      "has_reactions": false
+    },
+    {
+      "id": "653ff41b-a059-4e74-b4af-53482e72969d",
+      "title": "Honeymoon Travels Pvt. Ltd.",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "honeymoon-travels-pvt-ltd",
+      "has_reactions": false
+    },
+    {
+      "id": "b2c4283d-137f-4054-a613-558c4c5e518d",
+      "title": "Eklavya: The Royal Guard",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "eklavya-the-royal-guard",
+      "has_reactions": false
+    },
+    {
+      "id": "b31d1882-06d6-4a41-b3ec-d9423e3ed699",
+      "title": "Heyy Babyy",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "heyy-babyy",
+      "has_reactions": false
+    },
+    {
+      "id": "bfe882cd-ff89-42b8-9eef-eb83632b9d68",
+      "title": "Cash",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "cash",
+      "has_reactions": false
+    },
+    {
+      "id": "1e48c4ca-2377-42df-b147-94ad9fbdbc92",
+      "title": "Positive",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "positive",
+      "has_reactions": false
+    },
+    {
+      "id": "fe439856-4c66-422b-81cc-66125eb015f8",
+      "title": "Dhan Dhana Dhan Goal",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "dhan-dhana-dhan-goal",
+      "has_reactions": false
+    },
+    {
+      "id": "8a3b7ff0-b687-427f-a547-f33d83e69df7",
+      "title": "Sorry Bhai",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "sorry-bhai",
+      "has_reactions": false
+    },
+    {
+      "id": "c240ca31-576e-4e93-88bb-9ba74408f314",
+      "title": "Yuvvraaj",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "yuvvraaj",
+      "has_reactions": false
+    },
+    {
+      "id": "af267edb-793a-4678-b757-6aaa1714ae31",
+      "title": "Woodstock Villa",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "woodstock-villa",
+      "has_reactions": false
+    },
+    {
+      "id": "934066ab-5c28-4aff-8f52-30ca8adc5fbf",
+      "title": "Love Story 2050",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "love-story-2050",
+      "has_reactions": false
+    },
+    {
+      "id": "c492a311-f8b8-445d-b2a5-2f2a142c7aa2",
+      "title": "Dostana",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dostana",
+      "has_reactions": false
+    },
+    {
+      "id": "fda06028-7f35-47ca-8b74-3267c1d128aa",
+      "title": "Little Zizou",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "little-zizou",
+      "has_reactions": false
+    },
+    {
+      "id": "9e80372a-98ca-45d7-ac84-a7fddcf7a359",
+      "title": "Kismat Konnection",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kismat-konnection",
+      "has_reactions": false
+    },
+    {
+      "id": "af9e3dd1-e7fc-4aaf-81a0-5cb42c388a23",
+      "title": "3 Idiots",
+      "release_year": 2009,
+      "studio_label": "Vidhu Vinod Chopra Productions",
+      "slug": "3-idiots",
+      "has_reactions": true
+    },
+    {
+      "id": "05eb7d0a-7af1-4705-83cc-ea58c169445d",
+      "title": "99",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "99",
+      "has_reactions": false
+    },
+    {
+      "id": "d060816c-29d8-490f-9c76-8538ebd62e70",
+      "title": "Fruit & Nut",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "fruit-nut",
+      "has_reactions": false
+    },
+    {
+      "id": "a5fceb8b-4d63-4735-b05e-daf0f6914f49",
+      "title": "Kambakkht Ishq",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "kambakkht-ishq",
+      "has_reactions": false
+    },
+    {
+      "id": "57d3d33f-2dcf-41d7-891e-3acc3b5e7a94",
+      "title": "Perfect Mismatch",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "perfect-mismatch",
+      "has_reactions": false
+    },
+    {
+      "id": "42f557a2-40ab-4baa-b515-e9fd2fe36a90",
+      "title": "Jaane Kahan Se Aayi Hai",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "jaane-kahan-se-aayi-hai",
+      "has_reactions": false
+    },
+    {
+      "id": "d913d4a5-160f-408f-9c70-1291abdc5f8d",
+      "title": "Hum Tum Aur Ghost",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hum-tum-aur-ghost",
+      "has_reactions": false
+    },
+    {
+      "id": "f02c04b0-4a80-427c-a343-4fbe7da10984",
+      "title": "Well Done Abba",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "well-done-abba",
+      "has_reactions": false
+    },
+    {
+      "id": "6a5d9fb8-b1fd-4d5a-b868-74601ec01e2b",
+      "title": "Mirch",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mirch",
+      "has_reactions": false
+    },
+    {
+      "id": "20efdbed-ddb3-4d99-9d23-6d543eee05e3",
+      "title": "Love Breakups Zindagi",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "love-breakups-zindagi",
+      "has_reactions": false
+    },
+    {
+      "id": "d2771dc9-9f56-4fbf-9c30-0ae2e4b3cc0c",
+      "title": "F.A.L.T.U.",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "f-a-l-t-u",
+      "has_reactions": false
+    },
+    {
+      "id": "8acdbdcd-bd98-43a1-9d08-ade27baae189",
+      "title": "Don 2",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "don-2",
+      "has_reactions": false
+    },
+    {
+      "id": "1bcc7cbb-55d0-426f-a1e6-3fb65c01ef9c",
+      "title": "Game",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "game",
+      "has_reactions": false
+    },
+    {
+      "id": "55e44d18-e2d2-4608-8fc5-38b0d7bfecee",
+      "title": "Housefull 2",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "housefull-2",
+      "has_reactions": false
+    },
+    {
+      "id": "4e50af3e-13a1-4e14-a8c2-6893cd2f05b7",
+      "title": "Shirin Farhad Ki Toh Nikal Padi",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "shirin-farhad-ki-toh-nikal-padi",
+      "has_reactions": false
+    },
+    {
+      "id": "77999e74-63ea-4e98-bb12-0c299873c268",
+      "title": "Ek Main Aur Ekk Tu",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "ek-main-aur-ekk-tu",
+      "has_reactions": false
+    },
+    {
+      "id": "6d70b553-8098-4525-b9ff-2240e4da4ae3",
+      "title": "Tezz",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "tezz",
+      "has_reactions": false
+    },
+    {
+      "id": "443c47ef-a596-4c02-9e72-c3ca623079af",
+      "title": "Student Of The Year",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "student-of-the-year",
+      "has_reactions": false
+    },
+    {
+      "id": "4e4db3f5-bd6f-4e7a-9a51-42a1aa48f491",
+      "title": "Atharintiki Daaredi",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "atharintiki-daaredi",
+      "has_reactions": false
+    },
+    {
+      "id": "f385c050-4620-4f7b-8cb1-3a8b18c15032",
+      "title": "Jolly LLB",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "jolly-llb",
+      "has_reactions": false
+    },
+    {
+      "id": "467af7ba-0725-45df-8015-d73058d79d5a",
+      "title": "Youngistaan",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "youngistaan",
+      "has_reactions": false
+    },
+    {
+      "id": "8900b4bf-80bf-460a-bf5b-165dbd74ee36",
+      "title": "Happy New Year",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "happy-new-year",
+      "has_reactions": false
+    },
+    {
+      "id": "9c588ab4-ae94-4345-a548-687d8974faf8",
+      "title": "PK",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "pk",
+      "has_reactions": false
+    },
+    {
+      "id": "26114f58-cc46-468f-8d40-761bf20276c5",
+      "title": "Bhoothnath Returns",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "bhoothnath-returns",
+      "has_reactions": false
+    },
+    {
+      "id": "116f9078-941e-4e26-9e2b-0345ad95a871",
+      "title": "The Legend of Michael Mishra",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-michael-mishra",
+      "has_reactions": false
+    },
+    {
+      "id": "31cd69f1-db24-4d45-82a0-40f487ec5857",
+      "title": "Ventilator",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ventilator",
+      "has_reactions": false
+    },
+    {
+      "id": "4e4ed45e-a840-46a8-a86b-b88c4b0b5e28",
+      "title": "Housefull 3",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "housefull-3",
+      "has_reactions": false
+    },
+    {
+      "id": "2b464719-fef8-464f-8bd3-8c616217baf5",
+      "title": "Force 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "force-2",
+      "has_reactions": false
+    },
+    {
+      "id": "67ce759f-1685-4d3e-a6c0-c5736b37fd1a",
+      "title": "Santa Banta Pvt Ltd",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "santa-banta-pvt-ltd",
+      "has_reactions": false
+    },
+    {
+      "id": "7af31620-cbab-47c8-8880-f6f0a936d5d2",
+      "title": "Khajoor Pe Atke",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "khajoor-pe-atke",
+      "has_reactions": false
+    },
+    {
+      "id": "b3d2ffa1-70e1-4266-b041-441eea9b613f",
+      "title": "Welcome to New York",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "welcome-to-new-york",
+      "has_reactions": false
+    },
+    {
+      "id": "f03d8dce-e382-4be7-8d40-214046aab87c",
+      "title": "Agnyaathavaasi",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "agnyaathavaasi",
+      "has_reactions": false
+    },
+    {
+      "id": "0401345c-089b-4487-b597-65cc7828041f",
+      "title": "Naa Peru Surya - Naa Illu India",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "naa-peru-surya-naa-illu-india",
+      "has_reactions": false
+    },
+    {
+      "id": "02d40907-3fef-431d-9f6c-48003c49fef2",
+      "title": "Parmanu: The Story of Pokhran",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "parmanu-the-story-of-pokhran",
+      "has_reactions": false
+    },
+    {
+      "id": "e76ad14d-5c77-4837-937f-110812b86b52",
+      "title": "Jhalki",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "jhalki",
+      "has_reactions": false
+    },
+    {
+      "id": "edee36a8-fa9f-4a84-89e4-6c996073d2dd",
+      "title": "PM Narendra Modi",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "pm-narendra-modi",
+      "has_reactions": false
+    },
+    {
+      "id": "3b3e7df2-3a93-450b-95a0-0d1349d3c945",
+      "title": "Total Dhamaal",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "total-dhamaal",
+      "has_reactions": false
+    },
+    {
+      "id": "a8c61b21-05b3-4531-b7ff-727b10a8517b",
+      "title": "Kaappaan",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "kaappaan",
+      "has_reactions": false
+    },
+    {
+      "id": "6f7c1276-7333-46ab-a127-623049cd21a9",
+      "title": "Made In China",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "made-in-china",
+      "has_reactions": false
+    },
+    {
+      "id": "5ce53d54-4135-4e81-afc4-0856372dc415",
+      "title": "Yeh Ballet",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "yeh-ballet",
+      "has_reactions": false
+    },
+    {
+      "id": "258fcfbc-aa12-49b0-a016-4b28fd66090b",
+      "title": "Maska",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "maska",
+      "has_reactions": false
+    },
+    {
+      "id": "ccdf64d5-6343-4a49-818a-e4338b48d3a4",
+      "title": "83",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "83",
+      "has_reactions": false
+    },
+    {
+      "id": "c9eb01e7-dfc7-4c85-ba2a-942cd6726b5a",
+      "title": "Uunchai",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "uunchai",
+      "has_reactions": false
+    },
+    {
+      "id": "c38df392-5571-482d-8e12-64732ff500c0",
+      "title": "Jayeshbhai Jordaar",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jayeshbhai-jordaar",
+      "has_reactions": false
+    },
+    {
+      "id": "53552c3e-600d-424a-8520-f7cff80d0bb0",
+      "title": "Runway 34",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "runway-34",
+      "has_reactions": false
+    },
+    {
+      "id": "2280cb85-2bdb-4e96-b43b-2156932b16c1",
+      "title": "Dunki",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "dunki",
+      "has_reactions": false
+    },
+    {
+      "id": "67d580a2-fd1c-42a8-b632-4663faafbf61",
+      "title": "1947: Brexit India",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "1947-brexit-india",
+      "has_reactions": false
+    },
+    {
+      "id": "07a23f0c-5c4f-4b4a-af82-01195501b180",
+      "title": "The Mehta Boys",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-mehta-boys",
+      "has_reactions": false
+    },
+    {
+      "id": "e20634af-cb93-4a81-8afa-e15c813ff737",
+      "title": "Sarzameen",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "sarzameen",
+      "has_reactions": false
+    },
+    {
+      "id": "17cf29ca-d4bf-485d-8dea-20ee11a34bae",
+      "title": "Tanvi the Great",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "tanvi-the-great",
+      "has_reactions": false
+    },
+    {
+      "id": "f1689fc7-0ca5-48f1-8fbd-3ac99a6204bd",
+      "title": "Love and War",
+      "release_year": 2027,
+      "studio_label": "\u2014",
+      "slug": "love-and-war",
+      "has_reactions": false
+    }
+  ]
+}

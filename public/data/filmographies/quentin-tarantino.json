@@ -1,0 +1,576 @@
+{
+  "id": "1e08e1b3-684f-4ddc-9168-d9d5551e5ac9",
+  "name": "Quentin Tarantino",
+  "slug": "quentin-tarantino",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+  "filmography": [
+    {
+      "id": "44e15f18-a1fe-4796-b095-28a49da7bef0",
+      "title": "Invisible Women",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "invisible-women",
+      "has_reactions": false
+    },
+    {
+      "id": "fe916c10-a8c8-474c-9c91-af6855432ecf",
+      "title": "Vegetables",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "vegetables",
+      "has_reactions": false
+    },
+    {
+      "id": "a79fd2b9-506c-4b8d-816f-c28967e112b9",
+      "title": "Reservoir Dogs",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "reservoir-dogs",
+      "has_reactions": false
+    },
+    {
+      "id": "0c0cecf0-a1d8-408b-9ec2-46081c3eee16",
+      "title": "Reservoir Dogs",
+      "release_year": 1992,
+      "studio_label": "Live Entertainment",
+      "slug": "reservoir-dogs",
+      "has_reactions": true
+    },
+    {
+      "id": "469b5df4-0691-4689-accf-c6b446423771",
+      "title": "Eddie Presley",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "eddie-presley",
+      "has_reactions": false
+    },
+    {
+      "id": "02f6cb25-8cd0-4d04-95cc-81e44d6721f1",
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "studio_label": "Miramax",
+      "slug": "pulp-fiction",
+      "has_reactions": true
+    },
+    {
+      "id": "b611e487-c5d1-4820-b3a6-ab548dc400c3",
+      "title": "Quentin Tarantino: Hollywood's Boy Wonder",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "quentin-tarantino-hollywood-s-boy-wonder",
+      "has_reactions": false
+    },
+    {
+      "id": "011cc660-3eae-4d5b-8a6e-c6005e02e149",
+      "title": "The Coriolis Effect",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-coriolis-effect",
+      "has_reactions": false
+    },
+    {
+      "id": "91467bd3-f5cf-4cd9-b6d0-7dcbe5a5668c",
+      "title": "Sleep with Me",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "sleep-with-me",
+      "has_reactions": false
+    },
+    {
+      "id": "c560d272-6385-4408-aa98-658cbd6f53e4",
+      "title": "You Talkin' to Me?",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "you-talkin-to-me",
+      "has_reactions": false
+    },
+    {
+      "id": "3aa31beb-b5c1-49f5-847a-9a0632b065d8",
+      "title": "Four Rooms",
+      "release_year": 1995,
+      "studio_label": "Miramax",
+      "slug": "four-rooms",
+      "has_reactions": true
+    },
+    {
+      "id": "7a3c6b18-fff3-494e-bae9-15ec2882190a",
+      "title": "Desperado",
+      "release_year": 1995,
+      "studio_label": "Columbia Pictures",
+      "slug": "desperado",
+      "has_reactions": true
+    },
+    {
+      "id": "7c836d27-6c20-4bde-9aa4-0d0d61891ae4",
+      "title": "Destiny Turns on the Radio",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "destiny-turns-on-the-radio",
+      "has_reactions": false
+    },
+    {
+      "id": "91281682-ee6c-4b07-a02e-f2799c1ff6ac",
+      "title": "From Dusk Till Dawn",
+      "release_year": 1996,
+      "studio_label": "Los Hooligans Productions",
+      "slug": "from-dusk-till-dawn",
+      "has_reactions": true
+    },
+    {
+      "id": "5b5d2f4f-e625-4453-901b-0874a3a97a7f",
+      "title": "Curdled",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "curdled",
+      "has_reactions": false
+    },
+    {
+      "id": "db314437-0dbd-45ab-8e80-9f8b7c356a36",
+      "title": "The Typewriter, the Rifle & the Movie Camera",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-typewriter-the-rifle-the-movie-camera",
+      "has_reactions": false
+    },
+    {
+      "id": "a0061e38-356a-4264-a546-f0233e9a8445",
+      "title": "Jackie Brown",
+      "release_year": 1997,
+      "studio_label": "Miramax",
+      "slug": "jackie-brown",
+      "has_reactions": true
+    },
+    {
+      "id": "4738dbfa-4c3a-4397-8195-1e32935fdbd2",
+      "title": "God Said, 'Ha!'",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "god-said-ha",
+      "has_reactions": false
+    },
+    {
+      "id": "ee4d3913-8679-41d6-a95d-addbc709ccd5",
+      "title": "Off the Menu: The Last Days of Chasen's",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "off-the-menu-the-last-days-of-chasen-s",
+      "has_reactions": false
+    },
+    {
+      "id": "33c9ab70-c14c-4622-9e50-03086a53fde3",
+      "title": "Full Tilt Boogie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "full-tilt-boogie",
+      "has_reactions": false
+    },
+    {
+      "id": "abb131a9-fed0-4dc3-9809-51d3002899d2",
+      "title": "Kisses in the Dark",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "kisses-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "1612ad35-1608-4389-96b6-bbc428ed82ab",
+      "title": "Forever Hollywood",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "forever-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "43a63799-beeb-42fb-a14a-b7e60ecc6ce5",
+      "title": "Little Nicky",
+      "release_year": 2000,
+      "studio_label": "New Line Cinema",
+      "slug": "little-nicky",
+      "has_reactions": true
+    },
+    {
+      "id": "3fd520ec-bb16-49a7-aed6-16d3312417b7",
+      "title": "All the Love You Cannes!",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "all-the-love-you-cannes",
+      "has_reactions": false
+    },
+    {
+      "id": "3b4b3d57-450e-485c-82d8-93344cfaafb0",
+      "title": "Pulp Fiction: Behind The Scenes Montages",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "pulp-fiction-behind-the-scenes-montages",
+      "has_reactions": false
+    },
+    {
+      "id": "a5ec919b-83d1-44b8-9829-83f117cfeeef",
+      "title": "Sundance 20",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "sundance-20",
+      "has_reactions": false
+    },
+    {
+      "id": "35d63afe-f02c-4680-a88a-89f82a4d272e",
+      "title": "Jackie Brown: How It Went Down",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "jackie-brown-how-it-went-down",
+      "has_reactions": false
+    },
+    {
+      "id": "e196fcf4-869f-4b75-a5ec-e0771fb59dc5",
+      "title": "Pulp Fiction: The Facts",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "pulp-fiction-the-facts",
+      "has_reactions": false
+    },
+    {
+      "id": "755ba1f4-5286-4b94-842b-0c8a3a3af552",
+      "title": "The Making of 'Kill Bill Vol. 1'",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-kill-bill-vol-1",
+      "has_reactions": false
+    },
+    {
+      "id": "e78189e9-3604-4014-9ed6-45fea589abde",
+      "title": "Z Channel: A Magnificent Obsession",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "z-channel-a-magnificent-obsession",
+      "has_reactions": false
+    },
+    {
+      "id": "b556310f-c1d8-424e-b4bb-2a2bc51d4b9d",
+      "title": "The Making of 'Kill Bill Vol. 2'",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-kill-bill-vol-2",
+      "has_reactions": false
+    },
+    {
+      "id": "307c5bea-ce5f-4987-8781-3df1ecf748d3",
+      "title": "Double Dare",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "double-dare",
+      "has_reactions": false
+    },
+    {
+      "id": "fdd6f18c-8df5-437e-a392-0dedf68440be",
+      "title": "Celluloid Horror",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "celluloid-horror",
+      "has_reactions": false
+    },
+    {
+      "id": "2d0cd971-b1e8-465a-9c58-51aca795b172",
+      "title": "Kill Bill: Vol. 2",
+      "release_year": 2004,
+      "studio_label": "Super Cool ManChu",
+      "slug": "kill-bill-vol-2",
+      "has_reactions": true
+    },
+    {
+      "id": "c472824e-b689-4bea-8856-7507c7959572",
+      "title": "Mario Bava: Operazione paura",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mario-bava-operazione-paura",
+      "has_reactions": false
+    },
+    {
+      "id": "fdb1b423-b1e1-4cd8-8a19-370f75f1a200",
+      "title": "Reservoir Dogs Revisited",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "reservoir-dogs-revisited",
+      "has_reactions": false
+    },
+    {
+      "id": "33c16f6c-c923-46ae-b96b-fbaca293ae79",
+      "title": "The Muppets' Wizard of Oz",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-muppets-wizard-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "2cf431ec-e8a8-4a29-b9ad-290c6e9d1073",
+      "title": "Back to the Well: 'Clerks II'",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "back-to-the-well-clerks-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "eedc0acd-3e02-48a2-bb7f-d2123f730b53",
+      "title": "Death Proof",
+      "release_year": 2007,
+      "studio_label": "Dimension Films",
+      "slug": "death-proof",
+      "has_reactions": true
+    },
+    {
+      "id": "100c6486-4b2b-4859-895a-898ca68c9efd",
+      "title": "Sukiyaki Western Django",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "sukiyaki-western-django",
+      "has_reactions": false
+    },
+    {
+      "id": "79726555-83bf-47d8-87a9-a5b83019a096",
+      "title": "Diary of the Dead",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "diary-of-the-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "56c38ccc-695c-4b17-813d-491f051e6d8a",
+      "title": "Planet Terror",
+      "release_year": 2007,
+      "studio_label": "Dimension Films",
+      "slug": "planet-terror",
+      "has_reactions": true
+    },
+    {
+      "id": "9ef5c5d5-28db-4a9b-9ba8-fc56d6ccf014",
+      "title": "Not Quite Hollywood",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "not-quite-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "2edff7c7-dddb-43ee-8ecb-cf957d6baad2",
+      "title": "Inglourious Basterds",
+      "release_year": 2009,
+      "studio_label": "Universal Pictures",
+      "slug": "inglourious-basterds",
+      "has_reactions": true
+    },
+    {
+      "id": "ddeead40-c0cc-4631-9ae8-5f16aadbfcd6",
+      "title": "Quentin Tarantino: A Life in Pictures",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "quentin-tarantino-a-life-in-pictures",
+      "has_reactions": false
+    },
+    {
+      "id": "008db38f-847b-4115-b568-258a28e9a052",
+      "title": "Nightmare Factory",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "nightmare-factory",
+      "has_reactions": false
+    },
+    {
+      "id": "ad23aa01-f81d-4bd0-a2c7-c84336453f0d",
+      "title": "POM Wonderful Presents: The Greatest Movie Ever Sold",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "pom-wonderful-presents-the-greatest-movie-ever-sold",
+      "has_reactions": false
+    },
+    {
+      "id": "6848a258-6490-49fd-8a39-db6dbfc66e4a",
+      "title": "Django Unchained",
+      "release_year": 2012,
+      "studio_label": "The Weinstein Company",
+      "slug": "django-unchained",
+      "has_reactions": true
+    },
+    {
+      "id": "ce2b8a67-05ae-431f-a190-7ea3c28549fe",
+      "title": "I Tarantiniani",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "i-tarantiniani",
+      "has_reactions": false
+    },
+    {
+      "id": "5fd2b281-3940-4548-be4b-998fc19bd6c2",
+      "title": "A Christmas Eve Conversation With Quentin Tarantino & Paul Thomas Anderson",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "a-christmas-eve-conversation-with-quentin-tarantino-paul-thomas-anderson",
+      "has_reactions": false
+    },
+    {
+      "id": "a5456d76-65f6-487e-ae01-bf2537b7e12e",
+      "title": "The Legend of the Palme d'Or",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-the-palme-d-or",
+      "has_reactions": false
+    },
+    {
+      "id": "8a9a6e7c-e669-4b83-acf3-13ba2674b745",
+      "title": "The Hateful Eight",
+      "release_year": 2015,
+      "studio_label": "The Weinstein Company",
+      "slug": "the-hateful-eight",
+      "has_reactions": true
+    },
+    {
+      "id": "452cf559-878f-44e8-bc4c-160fe673cd13",
+      "title": "John Travolta, le miracul\u00e9 d'Hollywood",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "john-travolta-le-miracul-d-hollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "9084b241-9b56-406d-9367-87d9b69cfe62",
+      "title": "Plankton Salesmen",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "plankton-salesmen",
+      "has_reactions": false
+    },
+    {
+      "id": "1b1a74af-2bd5-406e-833e-b8cde2237a00",
+      "title": "Once Upon a Time... in Hollywood",
+      "release_year": 2019,
+      "studio_label": "Heyday Films",
+      "slug": "once-upon-a-time-in-hollywood",
+      "has_reactions": true
+    },
+    {
+      "id": "ee938691-8b00-4231-a440-d58ac850f6f7",
+      "title": "QT8: The First Eight",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "qt8-the-first-eight",
+      "has_reactions": false
+    },
+    {
+      "id": "1b50cdb9-04f1-4af7-9503-fcf1b10342b8",
+      "title": "What She Said: The Art of Pauline Kael",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "what-she-said-the-art-of-pauline-kael",
+      "has_reactions": false
+    },
+    {
+      "id": "eba1d66b-97d6-4546-9d1c-a2173af0abf1",
+      "title": "A Love Letter To Making Movies",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "a-love-letter-to-making-movies",
+      "has_reactions": false
+    },
+    {
+      "id": "1b8f792c-e0bf-4baf-86e4-be6169bd9421",
+      "title": "Quentin Tarantino: From a Movie Buff to a Hollywood Legend",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "quentin-tarantino-from-a-movie-buff-to-a-hollywood-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "cadf84e8-fdbc-433d-ac5d-cb3f9a585b4a",
+      "title": "Django & Django: Sergio Corbucci Unchained",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "django-django-sergio-corbucci-unchained",
+      "has_reactions": false
+    },
+    {
+      "id": "6d28bbba-fd72-4753-8022-313830631c5c",
+      "title": "We Are Cinema",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "we-are-cinema",
+      "has_reactions": false
+    },
+    {
+      "id": "868f5e98-08fa-4090-b96c-846832d23c3c",
+      "title": "Splice Here: A Projected Odyssey",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "splice-here-a-projected-odyssey",
+      "has_reactions": false
+    },
+    {
+      "id": "3bc1bab1-353c-4ca5-b05b-d027b6a21bf2",
+      "title": "Ennio",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ennio",
+      "has_reactions": false
+    },
+    {
+      "id": "56121490-49b4-4505-b501-21df75fa2f08",
+      "title": "Michael Cimino, God Bless America",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "michael-cimino-god-bless-america",
+      "has_reactions": false
+    },
+    {
+      "id": "7bb46fa9-38d9-464e-8d6f-a4787db52972",
+      "title": "Shoot to Live",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "shoot-to-live",
+      "has_reactions": false
+    },
+    {
+      "id": "ebd7d1ab-c011-49a1-a26c-c90209f129b2",
+      "title": "Burt Reynolds: The Last Interview",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "burt-reynolds-the-last-interview",
+      "has_reactions": false
+    },
+    {
+      "id": "b3c7ee17-f9d6-493a-b4b9-dfa2ffb37091",
+      "title": "The Moviemakers: Tarantino",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-moviemakers-tarantino",
+      "has_reactions": false
+    },
+    {
+      "id": "e542608b-632b-40d5-b270-4433f572b6f6",
+      "title": "Stella Stevens: The Last Starlet",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "stella-stevens-the-last-starlet",
+      "has_reactions": false
+    },
+    {
+      "id": "806f6493-09f5-49f2-a739-6095489ee4bb",
+      "title": "When We Went MAD!",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "when-we-went-mad",
+      "has_reactions": false
+    },
+    {
+      "id": "d86e2f3f-5ab0-4b4d-bde9-ccf014dda719",
+      "title": "The Lost Chapter: Yuki's Revenge",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-lost-chapter-yuki-s-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "5ada2ea4-a6a7-450e-a025-6969cc79e01d",
+      "title": "Only What We Carry",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "only-what-we-carry",
+      "has_reactions": false
+    }
+  ]
+}

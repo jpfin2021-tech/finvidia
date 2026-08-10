@@ -1,0 +1,672 @@
+{
+  "id": "af5e6430-b70d-434a-81e7-b680a58edc50",
+  "name": "E. G. Daily",
+  "slug": "e-g-daily",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg",
+  "filmography": [
+    {
+      "id": "5a78f1ec-1e70-4acd-a008-ee39fa538e15",
+      "title": "Street Music",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "street-music",
+      "has_reactions": false
+    },
+    {
+      "id": "b58d58f5-debd-4104-b969-2e4dc5f4649a",
+      "title": "The Escape Artist",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-escape-artist",
+      "has_reactions": false
+    },
+    {
+      "id": "26ee39f8-f4d5-4e1c-991a-15dc7c2fdd30",
+      "title": "One Dark Night",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "one-dark-night",
+      "has_reactions": false
+    },
+    {
+      "id": "df67816b-7142-4134-a417-f34b244d4f18",
+      "title": "Ladies and Gentlemen, the Fabulous Stains",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "ladies-and-gentlemen-the-fabulous-stains",
+      "has_reactions": false
+    },
+    {
+      "id": "ead6d34b-22fc-465d-a680-47326452ff69",
+      "title": "Funny Money",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "funny-money",
+      "has_reactions": false
+    },
+    {
+      "id": "7f442691-89a0-4cc1-870e-c10f7444517c",
+      "title": "Valley Girl",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "valley-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "c5035a6b-67ec-45bb-81cb-7cbe65cb4536",
+      "title": "Streets of Fire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "streets-of-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "62a8b76a-7178-401b-afb6-410af4274d1f",
+      "title": "No Small Affair",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "no-small-affair",
+      "has_reactions": false
+    },
+    {
+      "id": "2b044a4c-83f3-4520-9783-cc10220a7d35",
+      "title": "Pee-wee's Big Adventure",
+      "release_year": 1985,
+      "studio_label": "Aspen Film Society",
+      "slug": "pee-wee-s-big-adventure",
+      "has_reactions": true
+    },
+    {
+      "id": "fc7371d9-3755-4763-9c60-69dc05095714",
+      "title": "Better Off Dead...",
+      "release_year": 1985,
+      "studio_label": "A&M Films",
+      "slug": "better-off-dead",
+      "has_reactions": true
+    },
+    {
+      "id": "f8cde71d-7747-4a06-a3e7-64586cbd2935",
+      "title": "Fandango",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "fandango",
+      "has_reactions": false
+    },
+    {
+      "id": "51affe35-07f9-4d41-80a7-20a7d76c02fb",
+      "title": "The Orkly Kid",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-orkly-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "fb5c8c38-4749-479c-809f-ecafaffadabd",
+      "title": "Bad Dreams",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "bad-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "94b680ae-b37f-4df2-87bf-d6cfa3e7e8c0",
+      "title": "Loverboy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "loverboy",
+      "has_reactions": false
+    },
+    {
+      "id": "4dbbf68e-8571-4c5f-87f7-25fb986e06f0",
+      "title": "Dutch",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dutch",
+      "has_reactions": false
+    },
+    {
+      "id": "73804e75-c780-44d0-a20b-9255d65c758b",
+      "title": "Dogfight",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "dogfight",
+      "has_reactions": false
+    },
+    {
+      "id": "1e5d5565-35c9-4531-a532-ce5a1a90d75c",
+      "title": "Lorenzo's Oil",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "lorenzo-s-oil",
+      "has_reactions": false
+    },
+    {
+      "id": "d4cba3a4-3ed6-496e-acf9-633b24d5ae75",
+      "title": "Condition: Critical",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "condition-critical",
+      "has_reactions": false
+    },
+    {
+      "id": "e4e8569b-dee8-418e-ab3f-90fe24d05bed",
+      "title": "P.J.'s Unfunnybunny Christmas",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "p-j-s-unfunnybunny-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "9e6063a1-dc4a-4b8b-8a6e-7a3facaf7c39",
+      "title": "The Little Rascals",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-little-rascals",
+      "has_reactions": false
+    },
+    {
+      "id": "01157f39-9ef8-4555-a87c-20bfebda4d0b",
+      "title": "A Rugrats Passover",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "a-rugrats-passover",
+      "has_reactions": false
+    },
+    {
+      "id": "759b16c0-54cb-42e6-89be-c193a27f9022",
+      "title": "Powerpuff Girls : Meat Fuzzy Lumpkins",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "powerpuff-girls-meat-fuzzy-lumpkins",
+      "has_reactions": false
+    },
+    {
+      "id": "7a55bff6-3ddc-4911-b8fd-35368e64df9b",
+      "title": "Precious Moments: Little Sparrow",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "precious-moments-little-sparrow",
+      "has_reactions": false
+    },
+    {
+      "id": "f54bd663-f6af-49de-95cc-b3e8d7079895",
+      "title": "A Goofy Movie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "a-goofy-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "768a038a-e7bc-44bc-9ab5-4639b2a9092c",
+      "title": "Jungle Cubs (Volume 1): Born to be Wild",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jungle-cubs-volume-1-born-to-be-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "9346c64e-6732-40ac-a8c2-97dc1b84576c",
+      "title": "A Rugrats Chanukah",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "a-rugrats-chanukah",
+      "has_reactions": false
+    },
+    {
+      "id": "883c13d9-42d2-4d76-976f-8c7659c1e59e",
+      "title": "Edith Ann's Christmas (Just Say No\u00ebl)",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "edith-ann-s-christmas-just-say-no-l",
+      "has_reactions": false
+    },
+    {
+      "id": "ed4441fb-3001-4ce0-8a37-e75aaf3fdfdb",
+      "title": "Fakin' Da Funk",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "fakin-da-funk",
+      "has_reactions": false
+    },
+    {
+      "id": "6b7aa294-66de-4cf3-9ee6-a08d8f06eaed",
+      "title": "A Rugrats Vacation",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "a-rugrats-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "7ed1e456-7553-4551-916f-25c59f0a0531",
+      "title": "Gen\u00b9\u00b3",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "gen",
+      "has_reactions": false
+    },
+    {
+      "id": "deac3060-bed4-4650-bd85-82d32e020280",
+      "title": "Storybook Friends: A Little Christmas Magic",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "storybook-friends-a-little-christmas-magic",
+      "has_reactions": false
+    },
+    {
+      "id": "2b61a552-0101-49e2-ba5f-3aaa8f4797eb",
+      "title": "Babe: Pig in the City",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "babe-pig-in-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "dcad3336-7407-439e-b878-1f5b3c389b6d",
+      "title": "The Rugrats Movie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-rugrats-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "ba80be6f-a816-4acb-bc56-5fffd090effa",
+      "title": "We Wish You a Merry Christmas",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "we-wish-you-a-merry-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "d2e01589-8af8-476d-ac52-8f264b5d68d7",
+      "title": "Rat Bastard",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rat-bastard",
+      "has_reactions": false
+    },
+    {
+      "id": "75c4a480-b7ce-47ef-9ee3-74fbe8f1b2f4",
+      "title": "Beaver Trilogy",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "beaver-trilogy",
+      "has_reactions": false
+    },
+    {
+      "id": "254d36a2-7799-4cae-bdbe-7d5d137a5146",
+      "title": "Rugrats in Paris: The Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "rugrats-in-paris-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "920476c4-1425-45f7-a6af-28a259690878",
+      "title": "Bob's Video",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "bob-s-video",
+      "has_reactions": false
+    },
+    {
+      "id": "58042f6a-8ab3-4c0e-9682-5d320360c4b4",
+      "title": "Aladdin and the Adventure of All Time",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "aladdin-and-the-adventure-of-all-time",
+      "has_reactions": false
+    },
+    {
+      "id": "f1a0516f-f3f7-424d-9465-22cb85068d87",
+      "title": "Alvin and the Chipmunks Meet the Wolfman",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "alvin-and-the-chipmunks-meet-the-wolfman",
+      "has_reactions": false
+    },
+    {
+      "id": "4f5807c1-320b-4e0d-ace4-b72564f28a25",
+      "title": "Lazarus Lives",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "lazarus-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "2e106a27-f9a8-45ec-bc92-18fbc576a5f4",
+      "title": "Rugrats: All Growed Up",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "rugrats-all-growed-up",
+      "has_reactions": false
+    },
+    {
+      "id": "f2e8f2e2-f63d-4f59-8504-89010f94be63",
+      "title": "Lord, I Believe",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "lord-i-believe",
+      "has_reactions": false
+    },
+    {
+      "id": "53aa2cb4-f927-4248-acb7-85f681b7b19e",
+      "title": "The Powerpuff Girls: The Mane Event",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-the-mane-event",
+      "has_reactions": false
+    },
+    {
+      "id": "8b2a86bd-51f3-4a9d-aa07-3f2b85b785a7",
+      "title": "Rugrats: Still Babies After All These Years",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "rugrats-still-babies-after-all-these-years",
+      "has_reactions": false
+    },
+    {
+      "id": "fe8e20b0-5027-4982-921c-5ae6d3cbbfe4",
+      "title": "The Lord\u2019s Prayer",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-lord-s-prayer",
+      "has_reactions": false
+    },
+    {
+      "id": "75efa5c4-eabf-4b16-a014-7b7ee8bcc142",
+      "title": "A Rugrats Kwanzaa",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "a-rugrats-kwanzaa",
+      "has_reactions": false
+    },
+    {
+      "id": "9dc44e32-2192-4c9c-b21c-93bbf5bac494",
+      "title": "Rugrats: Babies in Toyland",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "rugrats-babies-in-toyland",
+      "has_reactions": false
+    },
+    {
+      "id": "ddd9e526-8562-4488-bfe4-8f23fdf602be",
+      "title": "The Powerpuff Girls Movie",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "26585147-0335-4c90-8edc-3317a8ec15fa",
+      "title": "The Making and Meaning of 'We Are Family'",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-making-and-meaning-of-we-are-family",
+      "has_reactions": false
+    },
+    {
+      "id": "98edb166-1dfc-4654-bc6b-cc4bcaf8b92b",
+      "title": "The Powerpuff Girls: 'Twas the Fight Before Christmas",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-twas-the-fight-before-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "e045a6cf-c59e-4156-b5a3-f1bc1e2f6987",
+      "title": "Recess: Taking the Fifth Grade",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "recess-taking-the-fifth-grade",
+      "has_reactions": false
+    },
+    {
+      "id": "82c77108-644a-4ef0-9122-7f9cff35873c",
+      "title": "Valley Girl: 20 Totally Tubular Years Later",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "valley-girl-20-totally-tubular-years-later",
+      "has_reactions": false
+    },
+    {
+      "id": "a1eb53f3-0ac6-4ea8-88a3-d9f51af6d66e",
+      "title": "The Music of Valley Girl",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-music-of-valley-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "79962483-f000-4866-85cd-1824fd28e923",
+      "title": "Cartoon Network Christmas: Yuletide Follies",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "cartoon-network-christmas-yuletide-follies",
+      "has_reactions": false
+    },
+    {
+      "id": "5c592c9e-2ae3-4a91-b14d-82b59c6119d7",
+      "title": "Rugrats: Tales from the Crib: Snow White",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "rugrats-tales-from-the-crib-snow-white",
+      "has_reactions": false
+    },
+    {
+      "id": "610523d4-8b7b-4c54-bd79-22984308a8f0",
+      "title": "Disney's Christmas Favorites",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "disney-s-christmas-favorites",
+      "has_reactions": false
+    },
+    {
+      "id": "728f2987-796d-4028-9751-eecdfdf0dffc",
+      "title": "Mustang Sally's Horror House",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "mustang-sally-s-horror-house",
+      "has_reactions": false
+    },
+    {
+      "id": "c4bfc336-0f1f-43cc-9aec-afb1eb1f00a4",
+      "title": "Nick Picks Christmas: Nickelodeon Festive Tales",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "nick-picks-christmas-nickelodeon-festive-tales",
+      "has_reactions": false
+    },
+    {
+      "id": "3f44c30f-84c6-48f1-8c45-d781aa6d7b59",
+      "title": "Rugrats: Tales from the Crib: Three Jacks & A Beanstalk",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "rugrats-tales-from-the-crib-three-jacks-a-beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "d11a5df8-9ddb-4497-94c1-a425dbc89183",
+      "title": "Cutting Room",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "cutting-room",
+      "has_reactions": false
+    },
+    {
+      "id": "19d59e61-0e43-4606-b6c5-8af8d6d08c71",
+      "title": "Potheads: The Movie",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "potheads-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "f573e33f-5111-4b3f-99bd-4ab1daa3de02",
+      "title": "White Air",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "white-air",
+      "has_reactions": false
+    },
+    {
+      "id": "4eb3e6bd-c6fb-4845-9508-3c3955839d0d",
+      "title": "Pledge This!",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "pledge-this",
+      "has_reactions": false
+    },
+    {
+      "id": "d4520825-b3ab-4fc3-ad56-cdabb9d7cdbf",
+      "title": "What's Wrong with Ruth?",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "what-s-wrong-with-ruth",
+      "has_reactions": false
+    },
+    {
+      "id": "7df5c4fa-793b-41c9-abec-89a318bb6ca1",
+      "title": "The Powerpuff Girls Rule!!!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-rule",
+      "has_reactions": false
+    },
+    {
+      "id": "01655a0c-dba0-4b59-b2e0-315d399c65ad",
+      "title": "Curious George: A Very Monkey Christmas",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "curious-george-a-very-monkey-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "890365bb-a3d9-47f9-a8dc-c342ef54e6d0",
+      "title": "The Powerpuff Girls: Who, What, Where, How, Why... Who Cares?",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-who-what-where-how-why-who-cares",
+      "has_reactions": false
+    },
+    {
+      "id": "2eef45fd-21ea-4b94-afab-e146d88209a0",
+      "title": "Boy Toy",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "boy-toy",
+      "has_reactions": false
+    },
+    {
+      "id": "75d6592b-bfb2-4228-90df-a4c7f73318e4",
+      "title": "Wreck-It Ralph",
+      "release_year": 2012,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "wreck-it-ralph",
+      "has_reactions": true
+    },
+    {
+      "id": "edb04d86-f316-4a00-900c-e0e39a2bcdd4",
+      "title": "Curious George Swings into Spring",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "curious-george-swings-into-spring",
+      "has_reactions": false
+    },
+    {
+      "id": "37cf21fd-3349-4d16-9d1d-a81745b8d5de",
+      "title": "The Powerpuff Girls: Dance Pantsed",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-dance-pantsed",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "6615fb98-0ea3-41bb-8873-8b47e6da87da",
+      "title": "Second Chance Christmas",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "second-chance-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb0035c-9a08-4329-850c-71b1e902cc06",
+      "title": "31",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "31",
+      "has_reactions": false
+    },
+    {
+      "id": "10ddc47a-4949-4b6e-b062-3fdaac8f3138",
+      "title": "Mothers and Daughters",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "mothers-and-daughters",
+      "has_reactions": false
+    },
+    {
+      "id": "6a5cdeb4-1b23-402f-b914-b4d8b46d2576",
+      "title": "The Emoji Movie",
+      "release_year": 2017,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-emoji-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "a89ae9c3-7806-4d58-ab22-276546170b75",
+      "title": "The Litch",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-litch",
+      "has_reactions": false
+    },
+    {
+      "id": "c5dda0e9-6176-4ef5-805c-bea0e4067196",
+      "title": "Curious George: Royal Monkey",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "curious-george-royal-monkey",
+      "has_reactions": false
+    },
+    {
+      "id": "2c1eedb9-be5e-48a4-9a77-b3e17b93bd29",
+      "title": "Time Warp Vol. 3: Comedy and Camp",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "time-warp-vol-3-comedy-and-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "b8920fa6-1fa7-4ab9-a569-fc9dfbd448e4",
+      "title": "Valley Girl",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "valley-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "366fde42-ad50-45d6-a57d-da125281b93d",
+      "title": "The Blonde Experiment",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-blonde-experiment",
+      "has_reactions": false
+    },
+    {
+      "id": "5720c7a7-e1ab-46ed-ac96-bbab09928768",
+      "title": "Skin: A History of Nudity in the Movies",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "skin-a-history-of-nudity-in-the-movies",
+      "has_reactions": false
+    }
+  ]
+}

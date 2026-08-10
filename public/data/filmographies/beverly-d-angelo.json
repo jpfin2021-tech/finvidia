@@ -1,0 +1,640 @@
+{
+  "id": "5c365bc1-9520-4b48-982e-d018e5185a6d",
+  "name": "Beverly D'Angelo",
+  "slug": "beverly-d-angelo",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg",
+  "filmography": [
+    {
+      "id": "a50d7213-f740-4490-a97c-87d1b0c409a9",
+      "title": "Masha's Mushrooms",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "masha-s-mushrooms",
+      "has_reactions": false
+    },
+    {
+      "id": "0b4bfa5c-5bc1-4395-95f5-20865239e3f4",
+      "title": "Unfriendly Fire",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "unfriendly-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "578d059e-e18b-4b07-a32c-b6d05996bc7b",
+      "title": "First Love",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "first-love",
+      "has_reactions": false
+    },
+    {
+      "id": "8329f9ef-1628-439b-af6d-195ab57a6629",
+      "title": "The Sentinel",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-sentinel",
+      "has_reactions": false
+    },
+    {
+      "id": "de50529a-eac8-4916-ac63-10ba628fb626",
+      "title": "Annie Hall",
+      "release_year": 1977,
+      "studio_label": "Jack Rollins & Charles H. Joffe Productions",
+      "slug": "annie-hall",
+      "has_reactions": true
+    },
+    {
+      "id": "e6918e0e-2b43-46c2-afe9-6988a245f88a",
+      "title": "Hair",
+      "release_year": 1979,
+      "studio_label": "CIP Filmproduktion GmbH",
+      "slug": "hair",
+      "has_reactions": true
+    },
+    {
+      "id": "a478a3e8-4cc2-4f0e-ae7d-efc142d0c551",
+      "title": "Paternity",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "paternity",
+      "has_reactions": false
+    },
+    {
+      "id": "d2b6ed6e-e7d6-42fa-a6b8-ca87a572d592",
+      "title": "National Lampoon's Vacation",
+      "release_year": 1983,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "national-lampoon-s-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "468dc22e-8e40-4004-bcf7-c59b2f9a5a5d",
+      "title": "Sleeping Beauty",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "sleeping-beauty",
+      "has_reactions": false
+    },
+    {
+      "id": "50b162dd-b094-44a8-8844-84ba7bb6783a",
+      "title": "Finders Keepers",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "finders-keepers",
+      "has_reactions": false
+    },
+    {
+      "id": "bc755373-82e4-43b0-afee-b6016b91419c",
+      "title": "Highpoint",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "highpoint",
+      "has_reactions": false
+    },
+    {
+      "id": "0975193b-4751-4755-a7c5-21e426ff392c",
+      "title": "A Streetcar Named Desire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-streetcar-named-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "0d735b3e-3197-4c41-a353-bc1c4e90765c",
+      "title": "Get Out of My Room",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "get-out-of-my-room",
+      "has_reactions": false
+    },
+    {
+      "id": "33c65ace-c70e-449e-b450-fe839db94ec1",
+      "title": "The Legend of Sleepy Hollow",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-legend-of-sleepy-hollow",
+      "has_reactions": false
+    },
+    {
+      "id": "a7605492-e138-4141-82a0-f5528b39ea67",
+      "title": "Doubletake",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "doubletake",
+      "has_reactions": false
+    },
+    {
+      "id": "e9553cc1-0d06-4d62-94ae-1360e95539da",
+      "title": "Big Trouble",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "big-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "f4d1d541-57f7-4e87-b704-2f674deca606",
+      "title": "Slow Burn",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "slow-burn",
+      "has_reactions": false
+    },
+    {
+      "id": "3274c0fd-f418-4299-8f3d-2116b4d198ca",
+      "title": "Aria",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "aria",
+      "has_reactions": false
+    },
+    {
+      "id": "28a9347b-67d6-46a7-bdc1-54bc83a3c5fc",
+      "title": "The Man Who Fell to Earth",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-fell-to-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "ca51102d-ea1e-4ce0-9835-791e5387d13d",
+      "title": "In the Mood",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "in-the-mood",
+      "has_reactions": false
+    },
+    {
+      "id": "cfc145fc-ba45-4293-a834-b7b111a95942",
+      "title": "Hands of a Stranger",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "hands-of-a-stranger",
+      "has_reactions": false
+    },
+    {
+      "id": "72e51385-81d1-4c9a-ad1f-161c8a4d7841",
+      "title": "High Spirits",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "high-spirits",
+      "has_reactions": false
+    },
+    {
+      "id": "5b46db29-b6eb-4aea-88a9-5213631557dc",
+      "title": "Trading Hearts",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "trading-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "2d81bed7-226c-4c24-92b9-aac62f356242",
+      "title": "National Lampoon's Christmas Vacation",
+      "release_year": 1989,
+      "studio_label": "Hughes Entertainment",
+      "slug": "national-lampoon-s-christmas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "8a84ab14-26be-43f7-9b11-d6d3fd15879b",
+      "title": "Cold Front",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "cold-front",
+      "has_reactions": false
+    },
+    {
+      "id": "44a5c81f-5a22-4ad5-8e51-5c173cd1bae6",
+      "title": "Pacific Heights",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "pacific-heights",
+      "has_reactions": false
+    },
+    {
+      "id": "50503fd1-acde-489b-b55b-0dcd28c52d2a",
+      "title": "Lonely Hearts",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "lonely-hearts",
+      "has_reactions": false
+    },
+    {
+      "id": "310b32c7-185c-4b91-9a98-c955144f1a31",
+      "title": "The Miracle",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-miracle",
+      "has_reactions": false
+    },
+    {
+      "id": "e5c09252-62aa-41ec-9d25-edd2a38f193a",
+      "title": "The Pope Must Die",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "the-pope-must-die",
+      "has_reactions": false
+    },
+    {
+      "id": "5a2f2a75-af7d-45dd-ac81-218da7814808",
+      "title": "A Child Lost Forever: The Jerry Sherwood Story",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "a-child-lost-forever-the-jerry-sherwood-story",
+      "has_reactions": false
+    },
+    {
+      "id": "b9424e69-16f2-47fb-b034-0a2610bca7ea",
+      "title": "Trial: The Price of Passion",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "trial-the-price-of-passion",
+      "has_reactions": false
+    },
+    {
+      "id": "a62eedca-75b5-49d1-b00b-0cfd295235f1",
+      "title": "Judgment Day: The John List Story",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "judgment-day-the-john-list-story",
+      "has_reactions": false
+    },
+    {
+      "id": "e2b0302e-46d9-4aa3-90c0-9093e6b4e632",
+      "title": "The Switch",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-switch",
+      "has_reactions": false
+    },
+    {
+      "id": "9c460adb-4a9d-4bd6-871f-290f58869602",
+      "title": "Jonathan Stone: Threat of Innocence",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "jonathan-stone-threat-of-innocence",
+      "has_reactions": false
+    },
+    {
+      "id": "0d242ac3-e2be-457d-8b96-974b3b106cea",
+      "title": "The Crazysitter",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-crazysitter",
+      "has_reactions": false
+    },
+    {
+      "id": "72cd72c6-0eee-41cb-a425-3eaf413a9698",
+      "title": "Lightning Jack",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "lightning-jack",
+      "has_reactions": false
+    },
+    {
+      "id": "fbe364cc-2742-4f0e-bcf8-3bfcf16ceb6e",
+      "title": "Menendez: A Killing in Beverly Hills",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "menendez-a-killing-in-beverly-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "bb079863-2ce6-44e5-87b0-356bbcf0be31",
+      "title": "Talking With",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "talking-with",
+      "has_reactions": false
+    },
+    {
+      "id": "a0181476-355e-4785-9287-42defd42cccb",
+      "title": "Sweet Temptation",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "sweet-temptation",
+      "has_reactions": false
+    },
+    {
+      "id": "234ab6b3-f6dc-49b9-91fa-cf5673d9ead9",
+      "title": "Edie & Pen",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "edie-pen",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf9cdcc-a5c1-425a-8621-3ef69f387d9e",
+      "title": "Vegas Vacation",
+      "release_year": 1997,
+      "studio_label": "Jerry Weintraub Productions",
+      "slug": "vegas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "0fccc92e-b16f-4a68-863b-874be501a730",
+      "title": "Nowhere",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "3e139c2e-b752-4d60-aa01-a3005ecbaf58",
+      "title": "Pterodactyl Woman from Beverly Hills",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pterodactyl-woman-from-beverly-hills",
+      "has_reactions": false
+    },
+    {
+      "id": "439ed89d-83b8-4a56-81b2-3b2606e1207f",
+      "title": "Love Always",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "love-always",
+      "has_reactions": false
+    },
+    {
+      "id": "96157d11-9e37-44ac-b92d-ec612615eb79",
+      "title": "American History X",
+      "release_year": 1998,
+      "studio_label": "New Line Cinema",
+      "slug": "american-history-x",
+      "has_reactions": true
+    },
+    {
+      "id": "e4190730-5d3d-499a-80a4-f1b188e44901",
+      "title": "Illuminata",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "illuminata",
+      "has_reactions": false
+    },
+    {
+      "id": "ddfa77f1-58ff-4924-8503-b88bcf62a76e",
+      "title": "A Rat's Tale",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-rat-s-tale",
+      "has_reactions": false
+    },
+    {
+      "id": "9eed973b-552a-4725-a050-4595dce245f4",
+      "title": "With Friends Like These",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "with-friends-like-these",
+      "has_reactions": false
+    },
+    {
+      "id": "ccc1c462-90a0-4da5-b7e3-ed1b03b0635c",
+      "title": "Merchants of Venus",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "merchants-of-venus",
+      "has_reactions": false
+    },
+    {
+      "id": "8da35b39-ac1f-43c5-b93d-a3e749734e78",
+      "title": "Sam Kinison: Why Did We Laugh?",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "sam-kinison-why-did-we-laugh",
+      "has_reactions": false
+    },
+    {
+      "id": "d186089c-e15f-45b5-907e-67d9819bbbbf",
+      "title": "Women in Film",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "women-in-film",
+      "has_reactions": false
+    },
+    {
+      "id": "b693c650-6008-434f-ad62-7966e4eef54a",
+      "title": "Summer Catch",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "summer-catch",
+      "has_reactions": false
+    },
+    {
+      "id": "c798616b-0ecd-4ff9-80b3-6b5ce04fe9f7",
+      "title": "Hair High",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "hair-high",
+      "has_reactions": false
+    },
+    {
+      "id": "8462325f-6094-400b-ac59-220325aa6bf7",
+      "title": "Gamers",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "gamers",
+      "has_reactions": false
+    },
+    {
+      "id": "15f9d333-8452-43b1-8bb3-cd8b822420ec",
+      "title": "Game of Life",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "game-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "dcbd17a7-1aad-4089-83a6-c712d49f0b7f",
+      "title": "Family Guy Presents: Blue Harvest",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "family-guy-presents-blue-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "d5a381c6-1ade-405a-8e48-2ab4db588a9a",
+      "title": "The House Bunny",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-house-bunny",
+      "has_reactions": false
+    },
+    {
+      "id": "58e64489-5c52-44f7-bbc6-e5078cf0805e",
+      "title": "Harold & Kumar Escape from Guantanamo Bay",
+      "release_year": 2008,
+      "studio_label": "New Line Cinema",
+      "slug": "harold-kumar-escape-from-guantanamo-bay",
+      "has_reactions": true
+    },
+    {
+      "id": "6b38c54c-a289-40a7-a522-b4cd06c4cf9b",
+      "title": "Aussie and Ted's Great Adventure",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "aussie-and-ted-s-great-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "b089e45d-f96d-4b15-883a-072573cec09d",
+      "title": "Hotel Hell Vacation",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hotel-hell-vacation",
+      "has_reactions": false
+    },
+    {
+      "id": "b8bc5b20-7d52-403e-9c89-4a8a7ebd351e",
+      "title": "I Heart Shakey",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "i-heart-shakey",
+      "has_reactions": false
+    },
+    {
+      "id": "7308b4ee-020f-47b1-b9b7-18dd94b0ff25",
+      "title": "Bounty Killer",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "bounty-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "b118e29d-7cc6-4b75-8da7-bfe105b70853",
+      "title": "All American Christmas Carol",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "all-american-christmas-carol",
+      "has_reactions": false
+    },
+    {
+      "id": "bf0dcdc7-391b-493b-9bb0-83ef936d5a14",
+      "title": "The Michaels",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-michaels",
+      "has_reactions": false
+    },
+    {
+      "id": "334ea675-1cd8-4e14-b20c-b765441274c7",
+      "title": "Vacation",
+      "release_year": 2015,
+      "studio_label": "BenderSpink",
+      "slug": "vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "62295a2e-89f2-492c-bcbc-e93752765121",
+      "title": "The Comments",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-comments",
+      "has_reactions": false
+    },
+    {
+      "id": "3d19f21f-06dd-46ab-a0b1-0a484a827101",
+      "title": "Dreamland",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dreamland",
+      "has_reactions": false
+    },
+    {
+      "id": "dd3a8f3a-cd7b-45d1-abcc-9d8e6dbb5d75",
+      "title": "Under the Bed",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "under-the-bed",
+      "has_reactions": false
+    },
+    {
+      "id": "efa275e0-0f1a-4a3a-9fa6-a479b9df3819",
+      "title": "Lady-Like",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "lady-like",
+      "has_reactions": false
+    },
+    {
+      "id": "d43b481d-90c0-4ba5-a6dc-0bbc1ed7f67f",
+      "title": "Wakefield",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "wakefield",
+      "has_reactions": false
+    },
+    {
+      "id": "5bd54066-da97-4a1b-84bc-57cf5ecf57a5",
+      "title": "When Patsy Cline Was... Crazy",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "when-patsy-cline-was-crazy",
+      "has_reactions": false
+    },
+    {
+      "id": "1ae8507a-d05d-4ec4-b806-4e07af8ea3eb",
+      "title": "Frat Pack",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "frat-pack",
+      "has_reactions": false
+    },
+    {
+      "id": "4bd7ed4d-681b-4069-83b4-fef4c0d31fcf",
+      "title": "The Unicorn",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-unicorn",
+      "has_reactions": false
+    },
+    {
+      "id": "3950dc65-d199-4fe0-9ae1-3fb4d0559a15",
+      "title": "The Good House",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-good-house",
+      "has_reactions": false
+    },
+    {
+      "id": "03443bb5-7c86-4885-9191-5773b2a8971d",
+      "title": "Violent Night",
+      "release_year": 2022,
+      "studio_label": "87North Productions",
+      "slug": "violent-night",
+      "has_reactions": true
+    },
+    {
+      "id": "cd156da2-e9e5-49bb-9bae-461fa3a83d81",
+      "title": "Summer Camp",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "summer-camp",
+      "has_reactions": false
+    },
+    {
+      "id": "7391305f-d353-45e9-b5b3-dcb68e543637",
+      "title": "The Trainer",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-trainer",
+      "has_reactions": false
+    },
+    {
+      "id": "f351b965-0fa4-4652-a296-35d57ce628e3",
+      "title": "No Address",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "no-address",
+      "has_reactions": false
+    },
+    {
+      "id": "a9917079-6388-4170-93a1-950b29d20500",
+      "title": "Capps Crossing: Wrong Side of Dead",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "capps-crossing-wrong-side-of-dead",
+      "has_reactions": false
+    }
+  ]
+}

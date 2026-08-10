@@ -1,0 +1,32 @@
+{
+  "id": "4ddd6d60-cdf2-40ab-b6a1-f927f755a687",
+  "name": "Matt Jones",
+  "slug": "matt-jones",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/x13vFDaJHY1CxNvSPWujYe12bMc.jpg",
+  "filmography": [
+    {
+      "id": "0fe70dda-50bc-44e8-a6c6-6c675b1ca35f",
+      "title": "El Camino: A Breaking Bad Movie",
+      "release_year": 2019,
+      "studio_label": "Sony Pictures Television",
+      "slug": "el-camino-a-breaking-bad-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "d37594b7-e882-402c-bd2f-b7106c244900",
+      "title": "Brightburn",
+      "release_year": 2019,
+      "studio_label": "Troll Court Entertainment",
+      "slug": "brightburn",
+      "has_reactions": true
+    },
+    {
+      "id": "706d0ab0-2e9b-4349-850a-ec4c4ac70118",
+      "title": "The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-el-camino-behind-the-scenes-of-el-camino-a-breaking-bad-movie",
+      "has_reactions": false
+    }
+  ]
+}

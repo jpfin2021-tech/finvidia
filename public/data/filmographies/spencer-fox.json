@@ -1,0 +1,24 @@
+{
+  "id": "11c90bf9-7568-47f5-9886-879660282c87",
+  "name": "Spencer Fox",
+  "slug": "spencer-fox",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg",
+  "filmography": [
+    {
+      "id": "467efbe3-056d-4eb5-a4ca-7e81409dae7e",
+      "title": "The Incredibles",
+      "release_year": 2004,
+      "studio_label": "Pixar",
+      "slug": "the-incredibles",
+      "has_reactions": true
+    },
+    {
+      "id": "5be099dc-5d72-406e-a5da-46f99d96b3bd",
+      "title": "The Pixar Story",
+      "release_year": 2007,
+      "studio_label": "Leslie Iwerks Productions",
+      "slug": "the-pixar-story",
+      "has_reactions": false
+    }
+  ]
+}

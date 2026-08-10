@@ -1,0 +1,32 @@
+{
+  "id": "b0e3ed7f-710b-4765-86d6-8233d4b86314",
+  "name": "Rob Brown",
+  "slug": "rob-brown",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/jVevsp9OsdImQ8YxNjdG3KLYket.jpg",
+  "filmography": [
+    {
+      "id": "d85b9732-468b-4580-b0f4-e858c71cc8ff",
+      "title": "Finding Forrester",
+      "release_year": 2000,
+      "studio_label": "Laurence Mark Productions",
+      "slug": "finding-forrester",
+      "has_reactions": true
+    },
+    {
+      "id": "74a536c6-9356-4c49-977c-61da1871f6fe",
+      "title": "Coach Carter",
+      "release_year": 2005,
+      "studio_label": "Paramount Pictures",
+      "slug": "coach-carter",
+      "has_reactions": true
+    },
+    {
+      "id": "9514d623-4a08-4ba5-a5d8-613999c5e5dc",
+      "title": "The Dark Knight Rises",
+      "release_year": 2012,
+      "studio_label": "Syncopy",
+      "slug": "the-dark-knight-rises",
+      "has_reactions": true
+    }
+  ]
+}

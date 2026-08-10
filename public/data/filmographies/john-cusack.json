@@ -1,0 +1,544 @@
+{
+  "id": "7db81898-bcbc-445f-af62-f0a5314c7d69",
+  "name": "John Cusack",
+  "slug": "john-cusack",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
+  "filmography": [
+    {
+      "id": "41386203-8eaf-4a72-be26-b23d870a925e",
+      "title": "My Only Sunshine",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "my-only-sunshine",
+      "has_reactions": false
+    },
+    {
+      "id": "035b6e7c-1f91-47ec-85f5-2d84991d3580",
+      "title": "Class",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "class",
+      "has_reactions": false
+    },
+    {
+      "id": "e03deece-41b0-4f09-b7eb-3fd1d0b9f154",
+      "title": "Sixteen Candles",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "sixteen-candles",
+      "has_reactions": false
+    },
+    {
+      "id": "b7597cef-4455-4566-a660-699b2c4e4804",
+      "title": "Grandview, U.S.A.",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "grandview-u-s-a",
+      "has_reactions": false
+    },
+    {
+      "id": "fc7371d9-3755-4763-9c60-69dc05095714",
+      "title": "Better Off Dead...",
+      "release_year": 1985,
+      "studio_label": "A&M Films",
+      "slug": "better-off-dead",
+      "has_reactions": true
+    },
+    {
+      "id": "f5297760-7d88-4cae-89df-b28db3a4532b",
+      "title": "The Sure Thing",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-sure-thing",
+      "has_reactions": false
+    },
+    {
+      "id": "331dc960-64b9-4c26-ab0d-c915adb8b5d5",
+      "title": "The Journey of Natty Gann",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-journey-of-natty-gann",
+      "has_reactions": false
+    },
+    {
+      "id": "41990f0d-bc16-42a3-bbd5-c23c5bf38fa0",
+      "title": "Stand by Me",
+      "release_year": 1986,
+      "studio_label": "Act III Productions",
+      "slug": "stand-by-me",
+      "has_reactions": true
+    },
+    {
+      "id": "6e9c6125-4f46-4d91-b23c-68068f67b45e",
+      "title": "Broadcast News",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "broadcast-news",
+      "has_reactions": false
+    },
+    {
+      "id": "87243bc8-f0ff-4b4a-af2b-1c4254ed5edb",
+      "title": "Hot Pursuit",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "hot-pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "e357f3e1-0b8d-4203-b9c8-a2bfa2de5880",
+      "title": "Tapeheads",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "tapeheads",
+      "has_reactions": false
+    },
+    {
+      "id": "22950a24-6618-4518-89e4-077c4f0ad141",
+      "title": "Say Anything...",
+      "release_year": 1989,
+      "studio_label": "Gracie Films",
+      "slug": "say-anything",
+      "has_reactions": true
+    },
+    {
+      "id": "3868f414-7b4c-4b72-8d3d-3a7e82e0d765",
+      "title": "True Colors",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "true-colors",
+      "has_reactions": false
+    },
+    {
+      "id": "c4ff9780-f563-41d6-9ec8-e38064638e11",
+      "title": "The Player",
+      "release_year": 1992,
+      "studio_label": "Avenue Pictures",
+      "slug": "the-player",
+      "has_reactions": true
+    },
+    {
+      "id": "af106598-64f2-4442-a699-eee0c6a81949",
+      "title": "Money for Nothing",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "money-for-nothing",
+      "has_reactions": false
+    },
+    {
+      "id": "6cc2c20f-0199-4868-922f-073e2af851ad",
+      "title": "The Road to Wellville",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-road-to-wellville",
+      "has_reactions": false
+    },
+    {
+      "id": "9adefd21-d98d-4d33-8306-c852a48cdc3f",
+      "title": "Bullets Over Broadway",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "bullets-over-broadway",
+      "has_reactions": false
+    },
+    {
+      "id": "034afc21-5b33-4676-b099-dd725a3db1cb",
+      "title": "Floundering",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "floundering",
+      "has_reactions": false
+    },
+    {
+      "id": "9aac9984-f03f-4739-8699-33c78d2d38d1",
+      "title": "Con Air",
+      "release_year": 1997,
+      "studio_label": "Touchstone Pictures",
+      "slug": "con-air",
+      "has_reactions": true
+    },
+    {
+      "id": "c0521d0e-6ae1-44b8-b42f-a14eef7d2089",
+      "title": "Grosse Pointe Blank",
+      "release_year": 1997,
+      "studio_label": "Caravan Pictures",
+      "slug": "grosse-pointe-blank",
+      "has_reactions": true
+    },
+    {
+      "id": "d184be91-4ea0-4029-8926-6bdc90100f67",
+      "title": "Anastasia",
+      "release_year": 1997,
+      "studio_label": "Fox Animation Studios",
+      "slug": "anastasia",
+      "has_reactions": true
+    },
+    {
+      "id": "88893578-a02f-4ef0-b94a-85263f3fd53a",
+      "title": "Eastwood on Eastwood",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "eastwood-on-eastwood",
+      "has_reactions": false
+    },
+    {
+      "id": "20af31a4-7490-4036-81ca-55f8becbbf10",
+      "title": "The Thin Red Line",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-thin-red-line",
+      "has_reactions": false
+    },
+    {
+      "id": "021cde81-5438-4c80-a41e-e6730c9bec76",
+      "title": "Chicago Cab",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "chicago-cab",
+      "has_reactions": false
+    },
+    {
+      "id": "115eefeb-4c88-49e8-97a6-7a9ba8ce2a23",
+      "title": "Being John Malkovich",
+      "release_year": 1999,
+      "studio_label": "Propaganda Films",
+      "slug": "being-john-malkovich",
+      "has_reactions": true
+    },
+    {
+      "id": "5cb7f1d1-ebc6-4795-b811-e1c26c058e16",
+      "title": "This Is My Father",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "this-is-my-father",
+      "has_reactions": false
+    },
+    {
+      "id": "d1858c83-ff92-46aa-a21a-b7488310f06c",
+      "title": "High Fidelity",
+      "release_year": 2000,
+      "studio_label": "Touchstone Pictures",
+      "slug": "high-fidelity",
+      "has_reactions": true
+    },
+    {
+      "id": "584875d5-d4c8-42f4-a0c4-f5487c2770d8",
+      "title": "America's Sweethearts",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "america-s-sweethearts",
+      "has_reactions": false
+    },
+    {
+      "id": "603fa144-b84c-4ce4-a7ad-9be128224da5",
+      "title": "Max",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "max",
+      "has_reactions": false
+    },
+    {
+      "id": "5ae42808-0099-4104-b241-2fe6b98fea63",
+      "title": "Paul McCartney: Back in the U.S.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "paul-mccartney-back-in-the-u-s",
+      "has_reactions": false
+    },
+    {
+      "id": "31c45fb8-e212-4ef1-ae9e-a9919a51e2fe",
+      "title": "Identity",
+      "release_year": 2003,
+      "studio_label": "Konrad Pictures",
+      "slug": "identity",
+      "has_reactions": true
+    },
+    {
+      "id": "d38e1db6-4c39-4b67-be4b-6f7cc84e03bd",
+      "title": "Runaway Jury",
+      "release_year": 2003,
+      "studio_label": "New Regency Pictures",
+      "slug": "runaway-jury",
+      "has_reactions": true
+    },
+    {
+      "id": "b160fe72-d0e3-4997-9e58-f7fef0f39bdf",
+      "title": "The Ice Harvest",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-ice-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "6ece73b3-1273-44e9-a4b3-5449d26e1ea3",
+      "title": "The Contract",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "ac593540-d797-4659-82f5-140b1b369581",
+      "title": "1408",
+      "release_year": 2007,
+      "studio_label": "Dimension Films",
+      "slug": "1408",
+      "has_reactions": true
+    },
+    {
+      "id": "0a4e3054-351b-4bb1-a0f1-14a1b36c94a5",
+      "title": "Martian Child",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "martian-child",
+      "has_reactions": false
+    },
+    {
+      "id": "ed311c3f-c8eb-4869-90e5-6a34fd547463",
+      "title": "Grace Is Gone",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "grace-is-gone",
+      "has_reactions": false
+    },
+    {
+      "id": "f62e6511-397d-479a-bb43-ccaaf8224471",
+      "title": "Guyville Redux",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "guyville-redux",
+      "has_reactions": false
+    },
+    {
+      "id": "ad589c61-2790-4eb0-9e1e-0adef2ed33ab",
+      "title": "Summerhood",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "summerhood",
+      "has_reactions": false
+    },
+    {
+      "id": "fed8c284-50fa-4ec7-b979-72276d100bf3",
+      "title": "2012",
+      "release_year": 2009,
+      "studio_label": "Columbia Pictures",
+      "slug": "2012",
+      "has_reactions": true
+    },
+    {
+      "id": "cc602a7f-61b0-46ff-9fa4-1643889f2217",
+      "title": "Hot Tub Time Machine",
+      "release_year": 2010,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "hot-tub-time-machine",
+      "has_reactions": true
+    },
+    {
+      "id": "c372f597-da18-448b-8336-2c034f58da34",
+      "title": "Shanghai",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "shanghai",
+      "has_reactions": false
+    },
+    {
+      "id": "78263a69-66f5-4b27-8925-a94bdfc92d6f",
+      "title": "The End of the World: The Actor's Perspective",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-end-of-the-world-the-actor-s-perspective",
+      "has_reactions": false
+    },
+    {
+      "id": "7e18ef27-91e3-43da-bb1e-33bb6185f2e2",
+      "title": "2012: Roland Emmerich - Master of the Modern Epic",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "2012-roland-emmerich-master-of-the-modern-epic",
+      "has_reactions": false
+    },
+    {
+      "id": "87c0fc9a-a6dd-4567-9d50-403b7fadfabe",
+      "title": "Woody Allen: A Documentary",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "woody-allen-a-documentary",
+      "has_reactions": false
+    },
+    {
+      "id": "e4633bb7-1765-4092-9b6a-412dab658e57",
+      "title": "All Noncombatants Please Clear the Set",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "all-noncombatants-please-clear-the-set",
+      "has_reactions": false
+    },
+    {
+      "id": "55e34c27-d67d-4861-9195-64ccaceae31b",
+      "title": "The Paperboy",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-paperboy",
+      "has_reactions": false
+    },
+    {
+      "id": "b800a504-f018-444b-84c4-4ec4618f5e21",
+      "title": "The Factory",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-factory",
+      "has_reactions": false
+    },
+    {
+      "id": "6e25eb55-5dd2-497a-961a-6e27951d996f",
+      "title": "The Raven",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-raven",
+      "has_reactions": false
+    },
+    {
+      "id": "0cae043f-10a8-40f1-996c-24b7890140b4",
+      "title": "The Frozen Ground",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-frozen-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "f9094e72-f394-499d-8b59-70c5930cc6d7",
+      "title": "The Numbers Station",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-numbers-station",
+      "has_reactions": false
+    },
+    {
+      "id": "ddd518f9-4e1e-48ad-9dd4-14a7212432fd",
+      "title": "Grand Piano",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "grand-piano",
+      "has_reactions": false
+    },
+    {
+      "id": "3bf1f93a-f364-4229-a916-5091336dbb28",
+      "title": "The Bag Man",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-bag-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f664de66-eadf-419a-b4e5-a42f153ff4c9",
+      "title": "Adult World",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "adult-world",
+      "has_reactions": false
+    },
+    {
+      "id": "dcf1fd35-0eb7-41bc-a6ad-cbfd3d03cba5",
+      "title": "Drive Hard",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "drive-hard",
+      "has_reactions": false
+    },
+    {
+      "id": "2b720545-8f4c-4bc1-b338-7908b9ee8869",
+      "title": "Maps to the Stars",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "maps-to-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "6172f932-f4b2-4a35-a0b0-bbf7f523aa26",
+      "title": "Boom Bust Boom",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "boom-bust-boom",
+      "has_reactions": false
+    },
+    {
+      "id": "a65a0408-2878-4aaf-bf92-4990c9f5c8c4",
+      "title": "Cell",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "cell",
+      "has_reactions": false
+    },
+    {
+      "id": "45791cb5-6ac5-40e9-a41d-1c71b5ae5226",
+      "title": "The Fog Bowl",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-fog-bowl",
+      "has_reactions": false
+    },
+    {
+      "id": "3f764136-798e-45e7-88b5-ba501f91f894",
+      "title": "Blood Money",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "blood-money",
+      "has_reactions": false
+    },
+    {
+      "id": "474e71c9-784a-43e6-924f-ec834809791f",
+      "title": "Singularity",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "singularity",
+      "has_reactions": false
+    },
+    {
+      "id": "127163d5-7213-4fa9-80a2-1e59f0f7b873",
+      "title": "Arsenal",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "arsenal",
+      "has_reactions": false
+    },
+    {
+      "id": "60710047-259b-4af1-b6dd-6befc7e34229",
+      "title": "River Runs Red",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "river-runs-red",
+      "has_reactions": false
+    },
+    {
+      "id": "84a1430f-9ed3-4047-ba44-bc95a68bf5c7",
+      "title": "Never Grow Old",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "never-grow-old",
+      "has_reactions": false
+    },
+    {
+      "id": "f6cfc288-a1a4-49aa-8719-b2d152b765ea",
+      "title": "Pursuit",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "pursuit",
+      "has_reactions": false
+    },
+    {
+      "id": "f74dfbe8-8910-4c67-91e4-43c9f7843c61",
+      "title": "Decoded",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "decoded",
+      "has_reactions": false
+    },
+    {
+      "id": "d9c42ffa-2daa-4d65-abf7-1fa12081323c",
+      "title": "Fog of War",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "fog-of-war",
+      "has_reactions": false
+    }
+  ]
+}

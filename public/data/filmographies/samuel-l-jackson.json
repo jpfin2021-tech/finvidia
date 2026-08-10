@@ -1,0 +1,584 @@
+{
+  "id": "b0163f2f-6285-4fdd-a9f7-18527957039b",
+  "name": "Samuel L. Jackson",
+  "slug": "samuel-l-jackson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg",
+  "filmography": [
+    {
+      "id": "1ad43801-8a5f-4a98-95aa-81e05d6b39a9",
+      "title": "Ragtime",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "ragtime",
+      "has_reactions": false
+    },
+    {
+      "id": "93f5d69a-39d4-418a-852c-697e463ee869",
+      "title": "Coming to America",
+      "release_year": 1988,
+      "studio_label": "Eddie Murphy Productions",
+      "slug": "coming-to-america",
+      "has_reactions": true
+    },
+    {
+      "id": "48ba7566-81ad-416c-aa35-1200331a4863",
+      "title": "Do the Right Thing",
+      "release_year": 1989,
+      "studio_label": "Universal Pictures",
+      "slug": "do-the-right-thing",
+      "has_reactions": true
+    },
+    {
+      "id": "cc851e26-1906-4e56-a665-922a4be842eb",
+      "title": "GoodFellas",
+      "release_year": 1990,
+      "studio_label": "Winkler Films",
+      "slug": "goodfellas",
+      "has_reactions": true
+    },
+    {
+      "id": "52dc4147-e0f9-4149-a5e4-34e423f1ef50",
+      "title": "Jungle Fever",
+      "release_year": 1991,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "jungle-fever",
+      "has_reactions": true
+    },
+    {
+      "id": "c2526237-29ea-4f6f-88ef-dfbd593f2f2d",
+      "title": "Juice",
+      "release_year": 1992,
+      "studio_label": "Paramount Pictures",
+      "slug": "juice",
+      "has_reactions": true
+    },
+    {
+      "id": "2a3227c2-49de-4c2c-b3a9-4e73db7a8cc4",
+      "title": "Patriot Games",
+      "release_year": 1992,
+      "studio_label": "Paramount Pictures",
+      "slug": "patriot-games",
+      "has_reactions": true
+    },
+    {
+      "id": "c5c3c8e3-3a3b-4a95-a4a6-f1710fdd84b2",
+      "title": "Fathers & Sons",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "fathers-sons",
+      "has_reactions": false
+    },
+    {
+      "id": "67c73ac8-009b-447c-a545-dfe376063b4b",
+      "title": "White Sands",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "white-sands",
+      "has_reactions": false
+    },
+    {
+      "id": "3f38e3ce-3830-4647-b52e-9ad1a2e3162a",
+      "title": "Menace II Society",
+      "release_year": 1993,
+      "studio_label": "New Line Cinema",
+      "slug": "menace-ii-society",
+      "has_reactions": true
+    },
+    {
+      "id": "79e9e08b-9f4c-4587-a792-832b7904ffbd",
+      "title": "True Romance",
+      "release_year": 1993,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "true-romance",
+      "has_reactions": true
+    },
+    {
+      "id": "c20fc27a-be67-4c2d-ae3c-c17c30e8e03c",
+      "title": "Fresh",
+      "release_year": 1994,
+      "studio_label": "Miramax",
+      "slug": "fresh",
+      "has_reactions": true
+    },
+    {
+      "id": "02f6cb25-8cd0-4d04-95cc-81e44d6721f1",
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "studio_label": "Miramax",
+      "slug": "pulp-fiction",
+      "has_reactions": true
+    },
+    {
+      "id": "af2eb04b-bab1-43bc-a4b7-1549c7701044",
+      "title": "The Search for One-eye Jimmy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-search-for-one-eye-jimmy",
+      "has_reactions": false
+    },
+    {
+      "id": "aa6854bb-74d5-4b5c-b9b5-79624f05b8f3",
+      "title": "Die Hard: With a Vengeance",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "die-hard-with-a-vengeance",
+      "has_reactions": true
+    },
+    {
+      "id": "f1fe18f3-5142-48ff-9e32-b480c065da1a",
+      "title": "Kiss of Death",
+      "release_year": 1995,
+      "studio_label": "20th Century Fox",
+      "slug": "kiss-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "1e901ce9-5d15-45ee-8066-e63d4884fa33",
+      "title": "A Time to Kill",
+      "release_year": 1996,
+      "studio_label": "Regency Enterprises",
+      "slug": "a-time-to-kill",
+      "has_reactions": true
+    },
+    {
+      "id": "645c89fd-0efb-4c2e-9ca1-7b3b99765356",
+      "title": "The Great White Hype",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-great-white-hype",
+      "has_reactions": false
+    },
+    {
+      "id": "a0061e38-356a-4264-a546-f0233e9a8445",
+      "title": "Jackie Brown",
+      "release_year": 1997,
+      "studio_label": "Miramax",
+      "slug": "jackie-brown",
+      "has_reactions": true
+    },
+    {
+      "id": "5c8ee758-0fa5-4b68-92ef-6fc38bae6fb1",
+      "title": "Eve's Bayou",
+      "release_year": 1997,
+      "studio_label": "Trimark Pictures",
+      "slug": "eve-s-bayou",
+      "has_reactions": true
+    },
+    {
+      "id": "e0af182a-13e6-49fd-928c-ddda23efb811",
+      "title": "One Eight Seven",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "one-eight-seven",
+      "has_reactions": false
+    },
+    {
+      "id": "3a990582-2a38-40dc-b1df-f21a6355d7f4",
+      "title": "Sphere",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "sphere",
+      "has_reactions": false
+    },
+    {
+      "id": "2abc23ff-1d6b-4238-a1db-42c70482afd6",
+      "title": "The Red Violin",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-red-violin",
+      "has_reactions": false
+    },
+    {
+      "id": "4c0a2fee-9e1e-4f11-b276-345fbee39360",
+      "title": "Out of Sight",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "out-of-sight",
+      "has_reactions": false
+    },
+    {
+      "id": "5a0cc872-ef3d-4741-9935-e9a70f3f8ac5",
+      "title": "Deep Blue Sea",
+      "release_year": 1999,
+      "studio_label": "Riche-Ludwig Productions",
+      "slug": "deep-blue-sea",
+      "has_reactions": true
+    },
+    {
+      "id": "09dc5ec0-fa8e-43f2-9fbe-3f0e05963b3b",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "release_year": 1999,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-i-the-phantom-menace",
+      "has_reactions": true
+    },
+    {
+      "id": "16e91ae5-cc4e-470a-9cb1-c0ea1106d4d7",
+      "title": "Unbreakable",
+      "release_year": 2000,
+      "studio_label": "Barry Mendel Productions",
+      "slug": "unbreakable",
+      "has_reactions": true
+    },
+    {
+      "id": "1d8f1a6a-5d4a-4dfe-b601-4436065fe204",
+      "title": "Shaft",
+      "release_year": 2000,
+      "studio_label": "Paramount Pictures",
+      "slug": "shaft",
+      "has_reactions": true
+    },
+    {
+      "id": "043eb830-2672-4bed-bbea-a4cb6fe8ff8f",
+      "title": "The Caveman's Valentine",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-caveman-s-valentine",
+      "has_reactions": false
+    },
+    {
+      "id": "fd2bfdcd-9cde-405c-9a32-1f9e8984ae00",
+      "title": "The 51st State",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-51st-state",
+      "has_reactions": false
+    },
+    {
+      "id": "22c94e60-b4e6-4633-b66e-c9e5762f78e7",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "release_year": 2002,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-ii-attack-of-the-clones",
+      "has_reactions": true
+    },
+    {
+      "id": "379e497d-82c8-4e1a-ac56-4a3abfec0662",
+      "title": "xXx",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "xxx",
+      "has_reactions": false
+    },
+    {
+      "id": "09ef70b9-10a0-469e-8991-3d7ef93d3b00",
+      "title": "Changing Lanes",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "changing-lanes",
+      "has_reactions": false
+    },
+    {
+      "id": "a7f838f7-560d-45cb-b001-aa8472100f3d",
+      "title": "Basic",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "basic",
+      "has_reactions": false
+    },
+    {
+      "id": "e45ec93e-e2fc-4e9d-8093-3fea9f4e8efe",
+      "title": "S.W.A.T.",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "s-w-a-t",
+      "has_reactions": false
+    },
+    {
+      "id": "467efbe3-056d-4eb5-a4ca-7e81409dae7e",
+      "title": "The Incredibles",
+      "release_year": 2004,
+      "studio_label": "Pixar",
+      "slug": "the-incredibles",
+      "has_reactions": true
+    },
+    {
+      "id": "2d0cd971-b1e8-465a-9c58-51aca795b172",
+      "title": "Kill Bill: Vol. 2",
+      "release_year": 2004,
+      "studio_label": "Super Cool ManChu",
+      "slug": "kill-bill-vol-2",
+      "has_reactions": true
+    },
+    {
+      "id": "bc6610ff-e6dd-4154-8b2f-a9b8f189523a",
+      "title": "Twisted",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "twisted",
+      "has_reactions": false
+    },
+    {
+      "id": "23a9802d-9a23-4542-b415-0acf00c82139",
+      "title": "In My Country",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "in-my-country",
+      "has_reactions": false
+    },
+    {
+      "id": "befddebf-fd48-49ed-b614-1de7ce655723",
+      "title": "Unforgivable Blackness: The Rise and Fall of Jack Johnson",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "unforgivable-blackness-the-rise-and-fall-of-jack-johnson",
+      "has_reactions": false
+    },
+    {
+      "id": "b7432155-23bb-483b-aabc-bfc7d0acf05a",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "release_year": 2005,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-episode-iii-revenge-of-the-sith",
+      "has_reactions": true
+    },
+    {
+      "id": "74a536c6-9356-4c49-977c-61da1871f6fe",
+      "title": "Coach Carter",
+      "release_year": 2005,
+      "studio_label": "Paramount Pictures",
+      "slug": "coach-carter",
+      "has_reactions": true
+    },
+    {
+      "id": "63ec61f2-396c-47b5-a174-c7057a258b3b",
+      "title": "xXx: State of the Union",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "xxx-state-of-the-union",
+      "has_reactions": false
+    },
+    {
+      "id": "d6b185d8-6c2c-4bf3-8ae0-acc17380e685",
+      "title": "Farce of the Penguins",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "farce-of-the-penguins",
+      "has_reactions": false
+    },
+    {
+      "id": "92bc07fc-d1d8-4c28-bb45-1473c8c85139",
+      "title": "Freedomland",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "freedomland",
+      "has_reactions": false
+    },
+    {
+      "id": "ac593540-d797-4659-82f5-140b1b369581",
+      "title": "1408",
+      "release_year": 2007,
+      "studio_label": "Dimension Films",
+      "slug": "1408",
+      "has_reactions": true
+    },
+    {
+      "id": "5f61bd34-4113-44e7-8e57-d62feda8d811",
+      "title": "Cleaner",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "cleaner",
+      "has_reactions": false
+    },
+    {
+      "id": "b8e60f7e-c516-4737-8239-6d837018ab36",
+      "title": "The Spirit",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-spirit",
+      "has_reactions": false
+    },
+    {
+      "id": "b3d0e644-5f7e-48b7-938c-c9e0a39c9300",
+      "title": "Iron Man",
+      "release_year": 2008,
+      "studio_label": "Marvel Studios",
+      "slug": "iron-man",
+      "has_reactions": true
+    },
+    {
+      "id": "f9403789-a29e-4118-8f34-6fc12985ae92",
+      "title": "Star Wars: The Clone Wars",
+      "release_year": 2008,
+      "studio_label": "Lucasfilm Ltd.",
+      "slug": "star-wars-the-clone-wars",
+      "has_reactions": true
+    },
+    {
+      "id": "2edff7c7-dddb-43ee-8ecb-cf957d6baad2",
+      "title": "Inglourious Basterds",
+      "release_year": 2009,
+      "studio_label": "Universal Pictures",
+      "slug": "inglourious-basterds",
+      "has_reactions": true
+    },
+    {
+      "id": "c6de29c5-3a7d-44d8-9f9e-913584e7f49b",
+      "title": "Afro Samurai: Resurrection",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "afro-samurai-resurrection",
+      "has_reactions": false
+    },
+    {
+      "id": "b6ceea4c-ab63-4dc0-9746-6d81c7fe3bc5",
+      "title": "Astro Boy",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "astro-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "b0e8ca34-e5a5-4da6-b89c-71d66d51bfe2",
+      "title": "Iron Man 2",
+      "release_year": 2010,
+      "studio_label": "Marvel Studios",
+      "slug": "iron-man-2",
+      "has_reactions": true
+    },
+    {
+      "id": "3c056a95-f88f-47c5-8495-9f06190594ef",
+      "title": "The Other Guys",
+      "release_year": 2010,
+      "studio_label": "Columbia Pictures",
+      "slug": "the-other-guys",
+      "has_reactions": true
+    },
+    {
+      "id": "94158f5b-4feb-42fd-8ad0-20dba884c964",
+      "title": "Unthinkable",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "unthinkable",
+      "has_reactions": false
+    },
+    {
+      "id": "69f7a5b0-3d81-4184-8da3-f193d0c9920a",
+      "title": "Captain America: The First Avenger",
+      "release_year": 2011,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-the-first-avenger",
+      "has_reactions": true
+    },
+    {
+      "id": "56bf5e92-0e7d-4bb6-970d-a3c24431b671",
+      "title": "Thor",
+      "release_year": 2011,
+      "studio_label": "Marvel Studios",
+      "slug": "thor",
+      "has_reactions": true
+    },
+    {
+      "id": "6848a258-6490-49fd-8a39-db6dbfc66e4a",
+      "title": "Django Unchained",
+      "release_year": 2012,
+      "studio_label": "The Weinstein Company",
+      "slug": "django-unchained",
+      "has_reactions": true
+    },
+    {
+      "id": "59703336-c5dd-4efd-a77f-9284d27263e1",
+      "title": "The Avengers",
+      "release_year": 2012,
+      "studio_label": "Marvel Studios",
+      "slug": "the-avengers",
+      "has_reactions": true
+    },
+    {
+      "id": "b3a5dcbd-023f-4ecf-963e-fb73b79fff10",
+      "title": "Captain America: The Winter Soldier",
+      "release_year": 2014,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-america-the-winter-soldier",
+      "has_reactions": true
+    },
+    {
+      "id": "faa34686-7dbf-4fab-b685-6ed05ffef1b2",
+      "title": "Marvel Studios: Assembling a Universe",
+      "release_year": 2014,
+      "studio_label": "ABC Studios",
+      "slug": "marvel-studios-assembling-a-universe",
+      "has_reactions": false
+    },
+    {
+      "id": "22860258-7003-4ed0-948f-85e49bc98884",
+      "title": "Kingsman: The Secret Service",
+      "release_year": 2015,
+      "studio_label": "20th Century Fox",
+      "slug": "kingsman-the-secret-service",
+      "has_reactions": true
+    },
+    {
+      "id": "8a9a6e7c-e669-4b83-acf3-13ba2674b745",
+      "title": "The Hateful Eight",
+      "release_year": 2015,
+      "studio_label": "The Weinstein Company",
+      "slug": "the-hateful-eight",
+      "has_reactions": true
+    },
+    {
+      "id": "4df992d0-70d8-45ad-bc75-8fada47ac786",
+      "title": "Avengers: Age of Ultron",
+      "release_year": 2015,
+      "studio_label": "Marvel Studios",
+      "slug": "avengers-age-of-ultron",
+      "has_reactions": true
+    },
+    {
+      "id": "4ae329ab-5493-48d8-860f-0d4ba42aed1a",
+      "title": "Kong: Skull Island",
+      "release_year": 2017,
+      "studio_label": "Legendary Pictures",
+      "slug": "kong-skull-island",
+      "has_reactions": true
+    },
+    {
+      "id": "3df76aa1-5f1e-4a74-9184-6d8261f02f23",
+      "title": "xXx: Return of Xander Cage",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "xxx-return-of-xander-cage",
+      "has_reactions": false
+    },
+    {
+      "id": "1ca41d1b-7183-4d33-b945-2f1d57dc7f23",
+      "title": "Incredibles 2",
+      "release_year": 2018,
+      "studio_label": "Pixar",
+      "slug": "incredibles-2",
+      "has_reactions": true
+    },
+    {
+      "id": "1027d72f-f67c-4608-9508-3ff43cb36409",
+      "title": "Spider-Man: Far From Home",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "spider-man-far-from-home",
+      "has_reactions": true
+    },
+    {
+      "id": "c4f037d8-6e98-4546-b5e0-1bd67660cc1a",
+      "title": "Captain Marvel",
+      "release_year": 2019,
+      "studio_label": "Marvel Studios",
+      "slug": "captain-marvel",
+      "has_reactions": true
+    },
+    {
+      "id": "49f265cb-c8f8-461e-bcfc-079afb66b625",
+      "title": "Glass",
+      "release_year": 2019,
+      "studio_label": "Blinding Edge Pictures",
+      "slug": "glass",
+      "has_reactions": true
+    },
+    {
+      "id": "9f907b6a-87d8-46c1-bf76-aafc7265b721",
+      "title": "The Marvels",
+      "release_year": 2023,
+      "studio_label": "Marvel Studios",
+      "slug": "the-marvels",
+      "has_reactions": true
+    }
+  ]
+}

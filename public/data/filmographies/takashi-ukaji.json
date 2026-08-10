@@ -1,0 +1,656 @@
+{
+  "id": "ca1ba0f9-3832-4808-a8bf-086052d5de7b",
+  "name": "Takashi Ukaji",
+  "slug": "takashi-ukaji",
+  "profile_img_url": null,
+  "filmography": [
+    {
+      "id": "00cc058a-8074-4fe3-bdfc-dd028fb88a1e",
+      "title": "Go!! Karate Club",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "go-karate-club",
+      "has_reactions": false
+    },
+    {
+      "id": "fe0d5d7b-9385-4957-bdd8-1fb33e62bc7f",
+      "title": "I Hate You... Not",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "i-hate-you-not",
+      "has_reactions": false
+    },
+    {
+      "id": "a14a4c67-adc2-4881-b0e9-767a55fd5bff",
+      "title": "High School Jingi 2: Taihen yoku dekimashita",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "high-school-jingi-2-taihen-yoku-dekimashita",
+      "has_reactions": false
+    },
+    {
+      "id": "5038589a-fb5d-47bb-9aa1-d8bebb5ff487",
+      "title": "Lady of The Green",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "lady-of-the-green",
+      "has_reactions": false
+    },
+    {
+      "id": "01bddb4c-fc35-4b1a-b8a0-4aefef29580c",
+      "title": "Score",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "score",
+      "has_reactions": false
+    },
+    {
+      "id": "d40c16ba-45aa-4fd6-bd72-3a119e287469",
+      "title": "Be-Bop High School 1",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "be-bop-high-school-1",
+      "has_reactions": false
+    },
+    {
+      "id": "d0c8f4cf-ca91-4d42-a3ca-61a90999e17d",
+      "title": "Be-Bop High School 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "be-bop-high-school-2",
+      "has_reactions": false
+    },
+    {
+      "id": "12b042a3-0ace-43cb-a925-484fc2391736",
+      "title": "Be-Bop High School 12",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "be-bop-high-school-12",
+      "has_reactions": false
+    },
+    {
+      "id": "47d4b22c-75e2-435f-9d3a-9c022f6c0672",
+      "title": "Black Suit Legend",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "black-suit-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "ee01b3c0-b246-415a-9ea1-efc832ecaf3b",
+      "title": "Shura ga Yuku 7",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "shura-ga-yuku-7",
+      "has_reactions": false
+    },
+    {
+      "id": "ae674f9c-11e8-45aa-a318-5ae54c3910d9",
+      "title": "Scorpion: Double Venom",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "scorpion-double-venom",
+      "has_reactions": false
+    },
+    {
+      "id": "5880ec60-51c7-40f9-b00f-8457406d1825",
+      "title": "Furuhata Ninzaburo vs SMAP",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "furuhata-ninzaburo-vs-smap",
+      "has_reactions": false
+    },
+    {
+      "id": "1f984dc6-8614-4bc3-94c1-4de115d0cc79",
+      "title": "Hypnosis",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "hypnosis",
+      "has_reactions": false
+    },
+    {
+      "id": "814601f0-545d-4e26-bd06-0debb41891a4",
+      "title": "GTO: The Movie",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "gto-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "3aef30ec-6f57-4feb-ad7d-8e5551245e55",
+      "title": "Score 2: The Big Fight",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "score-2-the-big-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "9b145bc6-9321-4dda-81c3-a49085e4727e",
+      "title": "Ultraman Gaia Special: Eternal Earth",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ultraman-gaia-special-eternal-earth",
+      "has_reactions": false
+    },
+    {
+      "id": "ff3f19b5-889b-4efe-8ee9-436da4bd36a7",
+      "title": "Ultraman Gaia: Once Again Gaia",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "ultraman-gaia-once-again-gaia",
+      "has_reactions": false
+    },
+    {
+      "id": "5e4ece5b-43ad-4b55-bb20-deceb823a5bb",
+      "title": "Gun Crazy: Episode 1 \u2014 A Woman from Nowhere",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "gun-crazy-episode-1-a-woman-from-nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "508293a7-b856-4e02-ad43-dab15aee6e38",
+      "title": "Kindaichi Kousuke File: The Tragedy of Meiro-so",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "kindaichi-kousuke-file-the-tragedy-of-meiro-so",
+      "has_reactions": false
+    },
+    {
+      "id": "57d05d22-3ef0-4c79-9dde-c7bb9bd0aa50",
+      "title": "Nin x Nin: The Ninja Star Hattori",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "nin-x-nin-the-ninja-star-hattori",
+      "has_reactions": false
+    },
+    {
+      "id": "c785b2b5-b658-41bc-bf67-e2fd243bfb52",
+      "title": "Dad's Backdrop",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dad-s-backdrop",
+      "has_reactions": false
+    },
+    {
+      "id": "a6e6ae7f-c6f6-49d2-8546-3a37c1f5e312",
+      "title": "Fire and Ice",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "fire-and-ice",
+      "has_reactions": false
+    },
+    {
+      "id": "f69e195c-dfd7-4dff-960d-7f3d6b271ffa",
+      "title": "Black Emperor Runaway Legend Shimokitazawa General Headquarters",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "black-emperor-runaway-legend-shimokitazawa-general-headquarters",
+      "has_reactions": false
+    },
+    {
+      "id": "bd6d5d6e-6081-4dd7-bdbf-dde8dcf3eb02",
+      "title": "48 Hours of Terror - When the Clock's Hands Turn into a Knife",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "48-hours-of-terror-when-the-clock-s-hands-turn-into-a-knife",
+      "has_reactions": false
+    },
+    {
+      "id": "287cf1a5-f38c-437d-8b3f-2cd7fb414200",
+      "title": "Eiko",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "eiko",
+      "has_reactions": false
+    },
+    {
+      "id": "1412d84b-9afb-447c-bf12-dd9a49411674",
+      "title": "The Superdry Films",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-superdry-films",
+      "has_reactions": false
+    },
+    {
+      "id": "302b6141-4f4a-4ad7-9d30-1b1916ec2a65",
+      "title": "Fire and Ice 2",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "fire-and-ice-2",
+      "has_reactions": false
+    },
+    {
+      "id": "bfad0a42-7030-441e-b564-fe9d954e1239",
+      "title": "Fist of the North Star: The Legend of the True Savior: Legend of Raoh-Chapter of Death in Love",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "fist-of-the-north-star-the-legend-of-the-true-savior-legend-of-raoh-chapter-of-death-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "338ee254-6783-4bd3-b5e0-9649fb5b3f36",
+      "title": "Hissatsu Shigotonin 2007",
+      "release_year": 2007,
+      "studio_label": "Asahi Broadcasting Corporation",
+      "slug": "hissatsu-shigotonin-2007",
+      "has_reactions": false
+    },
+    {
+      "id": "5e62c3bd-273a-4b6c-9db9-83d5672c86e0",
+      "title": "Fist of the North Star: The Legend of Yuria",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "fist-of-the-north-star-the-legend-of-yuria",
+      "has_reactions": false
+    },
+    {
+      "id": "208c7ea6-da1f-403a-9d50-85f711e1f308",
+      "title": "Fist of the North Star: The Legend of Toki",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "fist-of-the-north-star-the-legend-of-toki",
+      "has_reactions": false
+    },
+    {
+      "id": "f03b3c4a-f7d1-4429-ae8a-2f3358728aac",
+      "title": "20th Century Boys: Beginning of the End",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "20th-century-boys-beginning-of-the-end",
+      "has_reactions": false
+    },
+    {
+      "id": "02748973-c1ad-4d8b-8929-9d8cd59655bc",
+      "title": "The Chef of South Polar",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-chef-of-south-polar",
+      "has_reactions": false
+    },
+    {
+      "id": "c3bd3bf5-c2f3-46f4-8c85-697e6f6d3e7a",
+      "title": "Kamen Rider \u00d7 Kamen Rider OOO & W Featuring Skull: Movie Wars Core",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-kamen-rider-ooo-w-featuring-skull-movie-wars-core",
+      "has_reactions": false
+    },
+    {
+      "id": "374b517f-0d86-4c30-9be4-c95a7b6c7c06",
+      "title": "Hissatsu shigotonin 2010",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hissatsu-shigotonin-2010",
+      "has_reactions": false
+    },
+    {
+      "id": "024926f9-519c-41a4-9359-fb0d3f798de8",
+      "title": "Mesen",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mesen",
+      "has_reactions": false
+    },
+    {
+      "id": "c7944d94-adfd-42a1-ae36-19e852943ef9",
+      "title": "Hissatsu Shigotonin 2010",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hissatsu-shigotonin-2010",
+      "has_reactions": false
+    },
+    {
+      "id": "4791bb0e-442a-4cda-a505-dd12c51fd49b",
+      "title": "Zatoichi: The Last",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "zatoichi-the-last",
+      "has_reactions": false
+    },
+    {
+      "id": "ef6d2a71-77d3-49ab-8b00-bbf17d46fc39",
+      "title": "\u5c31\u6d3b\u6226\u7dda\u7570\u72b6\u3042\u308a",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "5f50a0d5-66fa-452f-be59-c5a862d45a2a",
+      "title": "Wild 7",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "wild-7",
+      "has_reactions": false
+    },
+    {
+      "id": "d67e454e-8b6a-467c-a2bb-33d21f5da65a",
+      "title": "Kamen Rider OOO Wonderful: The Shogun and the 21 Core Medals",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-ooo-wonderful-the-shogun-and-the-21-core-medals",
+      "has_reactions": false
+    },
+    {
+      "id": "159bc03a-1d02-4983-8323-171a61705980",
+      "title": "Kamen Rider x Kamen Rider Fourze & OOO Movie Wars Mega Max",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-x-kamen-rider-fourze-ooo-movie-wars-mega-max",
+      "has_reactions": false
+    },
+    {
+      "id": "be7d5500-f57a-49f0-8d89-85c9408a735c",
+      "title": "Kamen Rider OOO All Stars: The 21 Leading Actors and Core Medals",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-ooo-all-stars-the-21-leading-actors-and-core-medals",
+      "has_reactions": false
+    },
+    {
+      "id": "ce990b9b-f345-4f0f-9cc0-5b359a5bac71",
+      "title": "Tokyo Park",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "tokyo-park",
+      "has_reactions": false
+    },
+    {
+      "id": "a3523b33-297e-4fb9-a828-ded328020d77",
+      "title": "Kamen Rider OOO: Final Episode",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-ooo-final-episode",
+      "has_reactions": false
+    },
+    {
+      "id": "11bb0686-9274-46cb-b77d-9cda157270f0",
+      "title": "Kamen Rider OOO: Final Stage",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-ooo-final-stage",
+      "has_reactions": false
+    },
+    {
+      "id": "4e075ad3-31bc-4cc3-acdb-d651c9aacf6d",
+      "title": "TSY: Time Slip Yankee",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "tsy-time-slip-yankee",
+      "has_reactions": false
+    },
+    {
+      "id": "2e5622b3-a52c-4f1d-b27e-606abbb83520",
+      "title": "Strawberry Night",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "strawberry-night",
+      "has_reactions": false
+    },
+    {
+      "id": "4a44779c-0685-40ee-929c-1a234dc35e97",
+      "title": "The Locked Room Murders SP",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-locked-room-murders-sp",
+      "has_reactions": false
+    },
+    {
+      "id": "eaca7906-e0f6-420c-b0ab-890c40bfaa63",
+      "title": "The Woman Without a Shadow",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-woman-without-a-shadow",
+      "has_reactions": false
+    },
+    {
+      "id": "d07109a9-4ec8-4fa9-b426-f277f997e76e",
+      "title": "Police Precinct Soul",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "police-precinct-soul",
+      "has_reactions": false
+    },
+    {
+      "id": "8a751253-e376-4283-8cb1-9358c43ea47e",
+      "title": "Raia Prays For\u2026",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "raia-prays-for",
+      "has_reactions": false
+    },
+    {
+      "id": "a46e3dab-0544-476b-855f-0cd953473706",
+      "title": "Dr. Hikojiro",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "dr-hikojiro",
+      "has_reactions": false
+    },
+    {
+      "id": "ced223cf-88fa-4350-96cc-9a4c78d2c59e",
+      "title": "Detective Katherine 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "detective-katherine-2",
+      "has_reactions": false
+    },
+    {
+      "id": "925a1ee5-1772-4001-abb3-bc1366a497be",
+      "title": "Strong Man",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "strong-man",
+      "has_reactions": false
+    },
+    {
+      "id": "7e3e4335-b7e4-495d-ad74-aeda2c27d450",
+      "title": "Stop the Old Fox",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "stop-the-old-fox",
+      "has_reactions": false
+    },
+    {
+      "id": "fc2751e0-1dae-465f-886a-d7fccaba0de0",
+      "title": "Strong Man Chapter 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "strong-man-chapter-2",
+      "has_reactions": false
+    },
+    {
+      "id": "0df3ec61-08ff-444c-80b4-0bc9c5ee661d",
+      "title": "Professor Eiko",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "professor-eiko",
+      "has_reactions": false
+    },
+    {
+      "id": "6443e0e6-2a0c-4252-b573-188c63fbaf1f",
+      "title": "Dr. Hikojiro 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "dr-hikojiro-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7886ccc0-421a-4e77-a09c-b983ac4a7162",
+      "title": "\u30cf\u30fc\u30c8\u30ed\u30b9\uff5e\u8679\u306b\u3075\u308c\u305f\u3044\u5973\u305f\u3061\uff5e",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "e6267cd9-343a-4dc3-a509-ab7bef2c47c6",
+      "title": "Kyotaro Nishimura Travel Mystery 66: Kushiro-Obihiro Murder Route",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "kyotaro-nishimura-travel-mystery-66-kushiro-obihiro-murder-route",
+      "has_reactions": false
+    },
+    {
+      "id": "16076203-6f89-427e-afad-51382b4b83f4",
+      "title": "Overlord: Bloodline of Brutality III",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "overlord-bloodline-of-brutality-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "48f859d5-9a92-4e4d-b5bf-f846ef8b68ed",
+      "title": "Strong Man Chapter 3",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "strong-man-chapter-3",
+      "has_reactions": false
+    },
+    {
+      "id": "05ebc0c5-9a7f-4b40-8ab8-ace662b6a350",
+      "title": "Overlord: Bloodline of the Wolf Pack V",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "overlord-bloodline-of-the-wolf-pack-v",
+      "has_reactions": false
+    },
+    {
+      "id": "f981b028-12cf-41cd-9cca-898b70d3c307",
+      "title": "Kyotaro Nishimura's Travel Mystery 67: Murder in Hakone - Leaves & Mountains",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "kyotaro-nishimura-s-travel-mystery-67-murder-in-hakone-leaves-mountains",
+      "has_reactions": false
+    },
+    {
+      "id": "24071f15-f88e-4ffb-8cab-d184750d9b28",
+      "title": "Kyotaro Nishimura Travel Mystery 68: Disappearing Woman in Yamagata",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "kyotaro-nishimura-travel-mystery-68-disappearing-woman-in-yamagata",
+      "has_reactions": false
+    },
+    {
+      "id": "86f86808-88f7-48f6-b3a1-71ff12669be9",
+      "title": "Overlord: Bloodline of Brutality IV",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "overlord-bloodline-of-brutality-iv",
+      "has_reactions": false
+    },
+    {
+      "id": "903a1702-0208-484b-8302-9e3bb9ce6662",
+      "title": "Baseball Players Acting On The Stage!",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "baseball-players-acting-on-the-stage",
+      "has_reactions": false
+    },
+    {
+      "id": "bd3be996-78e9-4487-82ef-9e2640a6e504",
+      "title": "\u5b64\u72ec\u306e\u30b0\u30eb\u30e12019\u5927\u6666\u65e5\u30b9\u30da\u30b7\u30e3\u30eb \u7dca\u6025\u6307\u4ee4\uff01 \u6210\u7530\uff5e\u798f\u5ca1\uff5e\u91dc\u5c71 \u5f3e\u4e38\u51fa\u5f35\u7de8\uff01",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "2019",
+      "has_reactions": false
+    },
+    {
+      "id": "15a541e1-6ccb-41d8-9a2c-8bbee5c8ce3d",
+      "title": "Masquerade Hotel",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "masquerade-hotel",
+      "has_reactions": false
+    },
+    {
+      "id": "2c937365-dcbe-4be2-93cf-a716bd669f7b",
+      "title": "Kingdom",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "kingdom",
+      "has_reactions": false
+    },
+    {
+      "id": "561fb5e9-a323-4f72-bc02-61a4d4fe30ba",
+      "title": "Eien no Nispa",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "eien-no-nispa",
+      "has_reactions": false
+    },
+    {
+      "id": "80bc4b21-6963-4bdd-97aa-b3f5c28bc67f",
+      "title": "J\u014diuchi",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "j-iuchi",
+      "has_reactions": false
+    },
+    {
+      "id": "644fc3b7-7dfb-4eb7-b6c6-94091acd7ea1",
+      "title": "The Full-Time Wife Escapist: New Year's Special",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-full-time-wife-escapist-new-year-s-special",
+      "has_reactions": false
+    },
+    {
+      "id": "07c30027-60ab-4d34-af50-795bb0f5bff2",
+      "title": "Last of the Wolves",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "last-of-the-wolves",
+      "has_reactions": false
+    },
+    {
+      "id": "78f4d4ff-8b54-4eea-837e-1280a7063bc2",
+      "title": "The Supporting Actors in Byplaywood",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "the-supporting-actors-in-byplaywood",
+      "has_reactions": false
+    },
+    {
+      "id": "52744099-6559-47e8-a8ef-40c0b82cf24b",
+      "title": "Kamen Rider OOO: The Birth of Birth X Prologue",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "kamen-rider-ooo-the-birth-of-birth-x-prologue",
+      "has_reactions": false
+    },
+    {
+      "id": "a9995b78-0649-457a-ba08-4060266a199d",
+      "title": "OOO 10th! Kamen Rider Birth: The Secret Birth of Birth X!",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ooo-10th-kamen-rider-birth-the-secret-birth-of-birth-x",
+      "has_reactions": false
+    },
+    {
+      "id": "90cee124-99ed-484c-845c-e33ba6dc15ce",
+      "title": "Jet Black Ten: The Last Story",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "jet-black-ten-the-last-story",
+      "has_reactions": false
+    },
+    {
+      "id": "48e27dd0-d692-4272-ae83-551ecd6684c8",
+      "title": "Sun Expo",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "sun-expo",
+      "has_reactions": false
+    },
+    {
+      "id": "4e3a3238-fcb7-40d6-afd2-2beb6def67c1",
+      "title": "HIGUMA!! The Killer Bear",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "higuma-the-killer-bear",
+      "has_reactions": false
+    }
+  ]
+}

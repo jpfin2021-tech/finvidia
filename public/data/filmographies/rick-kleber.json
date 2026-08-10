@@ -1,0 +1,32 @@
+{
+  "id": "49dae273-db86-43a3-8d04-48a78c86fd4a",
+  "name": "Rick Kleber",
+  "slug": "rick-kleber",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/fONPW02k7NGGRGTctB7hVyvyJVO.jpg",
+  "filmography": [
+    {
+      "id": "ffa684dc-c775-49d8-adb3-db94cbb12e21",
+      "title": "Sole Survivor",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "sole-survivor",
+      "has_reactions": false
+    },
+    {
+      "id": "85a1118a-31ed-424e-847b-84c82584130d",
+      "title": "Ghost",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "ghost",
+      "has_reactions": true
+    },
+    {
+      "id": "c83d2015-913c-485e-a6dd-c656a3f516c8",
+      "title": "Her Minor Thing",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "her-minor-thing",
+      "has_reactions": false
+    }
+  ]
+}

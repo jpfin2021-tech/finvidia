@@ -1,0 +1,648 @@
+{
+  "id": "25caa486-4468-490c-805c-b9eeffa923c8",
+  "name": "Margot Kidder",
+  "slug": "margot-kidder",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg",
+  "filmography": [
+    {
+      "id": "34fd20ce-4468-4b2a-a0ee-41904056dfc3",
+      "title": "The Best Damn Fiddler from Calabogie to Kaladar",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-best-damn-fiddler-from-calabogie-to-kaladar",
+      "has_reactions": false
+    },
+    {
+      "id": "d5b18a6f-fef3-4194-b3c1-1f9ad3271c72",
+      "title": "Quackser Fortune Has a Cousin in the Bronx",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "quackser-fortune-has-a-cousin-in-the-bronx",
+      "has_reactions": false
+    },
+    {
+      "id": "7da1dc20-cce1-4259-b01a-c5c85895fef5",
+      "title": "Suddenly Single",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "suddenly-single",
+      "has_reactions": false
+    },
+    {
+      "id": "b26b0c8a-341a-46c3-a9d5-55825c25a315",
+      "title": "The Bounty Man",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "the-bounty-man",
+      "has_reactions": false
+    },
+    {
+      "id": "b88a8579-9196-41cc-b535-c891ddc534b1",
+      "title": "Sisters",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "sisters",
+      "has_reactions": false
+    },
+    {
+      "id": "ae3a95fc-5d8e-4063-b9a7-fe7d4e96a830",
+      "title": "Such Dust as Dreams Are Made On",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "such-dust-as-dreams-are-made-on",
+      "has_reactions": false
+    },
+    {
+      "id": "fab657b2-3864-4cfe-8cb2-32b6cd646a59",
+      "title": "Black Christmas",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "black-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "966f70f4-3152-40f3-b5d4-b71fe96ae40f",
+      "title": "A Quiet Day in Belfast",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "a-quiet-day-in-belfast",
+      "has_reactions": false
+    },
+    {
+      "id": "fae05f96-b668-426d-972f-495c6a9099df",
+      "title": "The Dion Brothers",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-dion-brothers",
+      "has_reactions": false
+    },
+    {
+      "id": "89db9028-ec9b-4414-ba3e-6116aac14cf0",
+      "title": "The Reincarnation of Peter Proud",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "the-reincarnation-of-peter-proud",
+      "has_reactions": false
+    },
+    {
+      "id": "6149cb7d-000b-4805-b717-84a091d89256",
+      "title": "Superman",
+      "release_year": 1978,
+      "studio_label": "Dovemead Films",
+      "slug": "superman",
+      "has_reactions": true
+    },
+    {
+      "id": "e6a84cd3-38d2-4915-acd7-603319a2bd2e",
+      "title": "Shoot the Sun Down",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "shoot-the-sun-down",
+      "has_reactions": false
+    },
+    {
+      "id": "b8e38359-4a18-43ac-8f1a-cfb56a4551a9",
+      "title": "Mr. Mike's Mondo Video",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "mr-mike-s-mondo-video",
+      "has_reactions": false
+    },
+    {
+      "id": "3cde9da5-a372-420f-82d2-bca7e902eafe",
+      "title": "Superman II",
+      "release_year": 1980,
+      "studio_label": "Dovemead Films",
+      "slug": "superman-ii",
+      "has_reactions": true
+    },
+    {
+      "id": "a6f78dc6-bd68-4a52-893a-8116008d6504",
+      "title": "Willie & Phil",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "willie-phil",
+      "has_reactions": false
+    },
+    {
+      "id": "fb59e912-f446-4f05-a5fb-e6387f4f2dc0",
+      "title": "Heartaches",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "heartaches",
+      "has_reactions": false
+    },
+    {
+      "id": "a5f16069-cb0e-4bd1-b7bd-4faf7f98fa5a",
+      "title": "The Making of 'Superman: The Movie'",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-superman-the-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "ce47828b-5362-4a66-9cf6-8245c33c06cb",
+      "title": "Miss Right",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "miss-right",
+      "has_reactions": false
+    },
+    {
+      "id": "a2b3797b-aaef-4fed-926d-db205bee6e5b",
+      "title": "Superman III",
+      "release_year": 1983,
+      "studio_label": "Dovemead Films",
+      "slug": "superman-iii",
+      "has_reactions": true
+    },
+    {
+      "id": "b97b7117-7c0c-408a-a7ca-0aee42c8a9da",
+      "title": "The Making of 'Superman II'",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-superman-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "6665f681-6ad7-4196-8ba9-adfb8443a63b",
+      "title": "Trenchcoat",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "trenchcoat",
+      "has_reactions": false
+    },
+    {
+      "id": "905fb20c-393b-4008-974c-df8beee28763",
+      "title": "Louisiana",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "louisiana",
+      "has_reactions": false
+    },
+    {
+      "id": "2487b8e5-a9ef-4079-8a46-8c76bd0975dd",
+      "title": "Little Treasure",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "little-treasure",
+      "has_reactions": false
+    },
+    {
+      "id": "d3219d40-a018-4fb5-af23-e74215fd419c",
+      "title": "The Making of 'Superman III'",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-superman-iii",
+      "has_reactions": false
+    },
+    {
+      "id": "5d7be43a-f214-4003-a3f9-9f8f1b043554",
+      "title": "Picking Up the Pieces",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "picking-up-the-pieces",
+      "has_reactions": false
+    },
+    {
+      "id": "e9a15a25-9a39-4690-8e0d-2d4c63b5fc20",
+      "title": "Speaking Our Peace",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "speaking-our-peace",
+      "has_reactions": false
+    },
+    {
+      "id": "6c5bf3f0-6b76-4b70-9634-bcf41c9b42f1",
+      "title": "Vanishing Act",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "vanishing-act",
+      "has_reactions": false
+    },
+    {
+      "id": "096b44db-58ee-4734-842b-3917aaeb6cc8",
+      "title": "The Canadian Conspiracy",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-canadian-conspiracy",
+      "has_reactions": false
+    },
+    {
+      "id": "f3804fe3-579a-4e5b-aa24-157a2fc115ac",
+      "title": "Superman IV: The Quest for Peace",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "superman-iv-the-quest-for-peace",
+      "has_reactions": false
+    },
+    {
+      "id": "932aaa37-9a57-443a-b720-4f04c8830476",
+      "title": "Ozma of Oz",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "ozma-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "2c250405-2204-4b7c-b3de-fde098065274",
+      "title": "The Wonderful Wizard of Oz",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-wonderful-wizard-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "4c927c38-4734-458c-8bd6-5287d9de347e",
+      "title": "The Emerald City of Oz",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-emerald-city-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "58b9438b-3a22-4a87-ab46-a3239aec5942",
+      "title": "Keeping Track",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "keeping-track",
+      "has_reactions": false
+    },
+    {
+      "id": "391bebbc-0b11-422b-9505-ac208b909503",
+      "title": "The Grand Knockout Tournament",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-grand-knockout-tournament",
+      "has_reactions": false
+    },
+    {
+      "id": "c7cf59a9-49fd-48e1-b23d-8c1b30784250",
+      "title": "The Marvelous Land of Oz",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-marvelous-land-of-oz",
+      "has_reactions": false
+    },
+    {
+      "id": "3d8745cd-683d-4c12-b99f-e00b8a2cc87c",
+      "title": "To Catch a Killer",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "to-catch-a-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "3a5a2982-4440-4cd7-8fb4-4784628b8c60",
+      "title": "La Florida",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "la-florida",
+      "has_reactions": false
+    },
+    {
+      "id": "46849ef3-a37e-4bef-a4ad-19addbe67709",
+      "title": "Maverick",
+      "release_year": 1994,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "maverick",
+      "has_reactions": true
+    },
+    {
+      "id": "294c01dd-5453-42cd-8c19-0c5a0033253c",
+      "title": "Phantom 2040: The Ghost Who Walks",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "phantom-2040-the-ghost-who-walks",
+      "has_reactions": false
+    },
+    {
+      "id": "a6691652-6b59-49a0-a058-403b6ee38622",
+      "title": "The Pornographer",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-pornographer",
+      "has_reactions": false
+    },
+    {
+      "id": "c3b080e6-1e07-47c7-8e86-e9840e3e9d43",
+      "title": "Beanstalk",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "beanstalk",
+      "has_reactions": false
+    },
+    {
+      "id": "93dcbbe9-27ad-4623-968f-3dbb3586c3c3",
+      "title": "Henry & Verlin",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "henry-verlin",
+      "has_reactions": false
+    },
+    {
+      "id": "c140b440-7598-49a3-9996-90f6e8a7d830",
+      "title": "WindRunner",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "windrunner",
+      "has_reactions": false
+    },
+    {
+      "id": "abca8863-b750-476c-a6b8-4ed67decbbfa",
+      "title": "Young Ivanhoe",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "young-ivanhoe",
+      "has_reactions": false
+    },
+    {
+      "id": "cdfe0b1a-76f4-4b5a-8d6f-e66924dd02b8",
+      "title": "Bloodknot",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "bloodknot",
+      "has_reactions": false
+    },
+    {
+      "id": "5c7198fd-1291-4eef-8cac-3262b6f07b16",
+      "title": "Silent Cradle",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "silent-cradle",
+      "has_reactions": false
+    },
+    {
+      "id": "5aa0e765-23c6-4c09-a891-9f7a8e377b84",
+      "title": "The Planet of Junior Brown",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-planet-of-junior-brown",
+      "has_reactions": false
+    },
+    {
+      "id": "2f0e3215-1ac3-4950-8c07-056aecbea6d6",
+      "title": "The Teddy Bears' Scare",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-teddy-bears-scare",
+      "has_reactions": false
+    },
+    {
+      "id": "19022683-241c-4f39-b8f2-8f15cb68e849",
+      "title": "Crime in Connecticut: The Story of Alex Kelly",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "crime-in-connecticut-the-story-of-alex-kelly",
+      "has_reactions": false
+    },
+    {
+      "id": "088ef10f-7642-4158-9cf4-964e1d83036e",
+      "title": "The Annihilation of Fish",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-annihilation-of-fish",
+      "has_reactions": false
+    },
+    {
+      "id": "d58d32e4-7706-4182-9ce2-e36c65770fc0",
+      "title": "The Clown at Midnight",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-clown-at-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "1448d030-c705-49a4-a153-57d5412a20e9",
+      "title": "The Hi-Line",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-hi-line",
+      "has_reactions": false
+    },
+    {
+      "id": "8f9200f8-77a5-4c94-ade5-c62c464d7b21",
+      "title": "Tribulation",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "tribulation",
+      "has_reactions": false
+    },
+    {
+      "id": "fd8d69f0-c99a-4da9-b2e2-90b526ff101b",
+      "title": "Common Ground",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "common-ground",
+      "has_reactions": false
+    },
+    {
+      "id": "7b66dcb3-2bed-46c0-a07d-c40349743440",
+      "title": "Someone Is Watching",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "someone-is-watching",
+      "has_reactions": false
+    },
+    {
+      "id": "1c91450d-9648-4ac9-8ddd-7d5bc0867247",
+      "title": "Taking Flight: The Development of 'Superman'",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "taking-flight-the-development-of-superman",
+      "has_reactions": false
+    },
+    {
+      "id": "6b8f891a-2328-4e0b-8f54-3e5ec98e42fe",
+      "title": "Making 'Superman': Filming the Legend",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "making-superman-filming-the-legend",
+      "has_reactions": false
+    },
+    {
+      "id": "1b952a78-1062-434b-bbb9-f3dc78f80020",
+      "title": "Society's Child",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "society-s-child",
+      "has_reactions": false
+    },
+    {
+      "id": "ab00f139-e32a-4695-8f34-684a743f854b",
+      "title": "Angel Blade",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "angel-blade",
+      "has_reactions": false
+    },
+    {
+      "id": "b2bab7bb-ed78-4f39-9c3e-a3e798264059",
+      "title": "I'll Be Seeing You",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "i-ll-be-seeing-you",
+      "has_reactions": false
+    },
+    {
+      "id": "1a69b07e-b0ad-470a-8721-deb73422e55d",
+      "title": "Death 4 Told",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "death-4-told",
+      "has_reactions": false
+    },
+    {
+      "id": "705e3a68-c2d0-45fc-bcc7-78937f32a512",
+      "title": "For God's Sake, Get Out!",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "for-god-s-sake-get-out",
+      "has_reactions": false
+    },
+    {
+      "id": "9811a5eb-088e-4a32-bb83-78e1cd4d3f88",
+      "title": "Chicks with Sticks",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "chicks-with-sticks",
+      "has_reactions": false
+    },
+    {
+      "id": "ce6a2bdc-ac17-4847-b3b9-1743e15bb55a",
+      "title": "Cool Money",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "cool-money",
+      "has_reactions": false
+    },
+    {
+      "id": "9946dd2e-2ea0-4fc0-b921-9ae76ff26e90",
+      "title": "Saturday Night Live: The Best of Dan Aykroyd",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "saturday-night-live-the-best-of-dan-aykroyd",
+      "has_reactions": false
+    },
+    {
+      "id": "4adad770-de45-4bcf-afd7-0a72fce8eb5a",
+      "title": "Superman II: The Richard Donner Cut",
+      "release_year": 2006,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "superman-ii-the-richard-donner-cut",
+      "has_reactions": true
+    },
+    {
+      "id": "4e3439f2-4e09-4079-b2a9-877a6ae78004",
+      "title": "Look, Up in the Sky! The Amazing Story of Superman",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "look-up-in-the-sky-the-amazing-story-of-superman",
+      "has_reactions": false
+    },
+    {
+      "id": "5b6eb833-7e99-40dc-a569-1852405e6252",
+      "title": "On the Other Hand, Death: A Donald Strachey Mystery",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "on-the-other-hand-death-a-donald-strachey-mystery",
+      "has_reactions": false
+    },
+    {
+      "id": "42593543-d0aa-4c3f-ba93-2fc26510aad8",
+      "title": "The Box Collector",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-box-collector",
+      "has_reactions": false
+    },
+    {
+      "id": "09042b1c-d420-4fdf-ae31-2e364b0d80a6",
+      "title": "Halloween II",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halloween-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "0cc3efc8-4cd8-4cde-824e-1ce3330b18d1",
+      "title": "Something Evil Comes",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "something-evil-comes",
+      "has_reactions": false
+    },
+    {
+      "id": "f7d03da7-05ce-46a0-aaf5-805c16349a78",
+      "title": "Martinis and Murder",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "martinis-and-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "30ce7170-b35b-4ace-8167-f9c4936f37f4",
+      "title": "Sarina's Song",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "sarina-s-song",
+      "has_reactions": false
+    },
+    {
+      "id": "edfe427e-9cc1-4b7e-9c37-587c0e112f60",
+      "title": "3 of a Kind",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "3-of-a-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "a948b271-5fa9-4d58-b1b9-1a88d1f6c258",
+      "title": "HENRi",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "henri",
+      "has_reactions": false
+    },
+    {
+      "id": "8238939f-2c01-45ee-b00a-61b4bf08aa30",
+      "title": "Real Gangsters",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "real-gangsters",
+      "has_reactions": false
+    },
+    {
+      "id": "4be34f40-d3dc-45c4-b8d6-49a20034a9ef",
+      "title": "Matt's Chance",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "matt-s-chance",
+      "has_reactions": false
+    },
+    {
+      "id": "a62ab8cd-880d-4b23-8acc-af43decc6929",
+      "title": "The Big Fat Stone",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-big-fat-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "df9734e6-66b3-4b98-8912-13a423f4c65c",
+      "title": "No Deposit",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "no-deposit",
+      "has_reactions": false
+    },
+    {
+      "id": "08eefea2-11b6-43bc-905a-6e11ef366e79",
+      "title": "The Neighborhood",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-neighborhood",
+      "has_reactions": false
+    }
+  ]
+}

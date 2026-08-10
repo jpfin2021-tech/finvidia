@@ -1,0 +1,496 @@
+{
+  "id": "58cfdba3-3846-46b8-ae68-6f0534b79a7e",
+  "name": "Om Puri",
+  "slug": "om-puri",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg",
+  "filmography": [
+    {
+      "id": "01b314a2-882b-4a10-86e0-81b23ccaa287",
+      "title": "Saanch Ko Aanch Nahin",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "saanch-ko-aanch-nahin",
+      "has_reactions": false
+    },
+    {
+      "id": "62dd85f1-fc5f-439a-b797-b7c4337bfb2d",
+      "title": "Sparsh",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "sparsh",
+      "has_reactions": false
+    },
+    {
+      "id": "788905bf-490d-4b5e-af71-e95e21912d3f",
+      "title": "Sadgati",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "sadgati",
+      "has_reactions": false
+    },
+    {
+      "id": "216af077-1d98-4264-b40c-1ecc3e776850",
+      "title": "Gandhi",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "gandhi",
+      "has_reactions": false
+    },
+    {
+      "id": "c27cc6b3-a2e8-4406-bf2e-faab91679345",
+      "title": "Naseeb Ni Balihari",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "naseeb-ni-balihari",
+      "has_reactions": false
+    },
+    {
+      "id": "325bda6c-626a-4181-8ddf-a3dd35f36b10",
+      "title": "Holi",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "holi",
+      "has_reactions": false
+    },
+    {
+      "id": "61dbcafd-5f99-4380-87b9-80f383afbbdd",
+      "title": "Paar",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "paar",
+      "has_reactions": false
+    },
+    {
+      "id": "d8819971-b79e-45b8-8ca4-8ee2963444d3",
+      "title": "Nasoor",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "nasoor",
+      "has_reactions": false
+    },
+    {
+      "id": "21718068-e0d5-471e-b211-a02c471f3be9",
+      "title": "Paththar",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "paththar",
+      "has_reactions": false
+    },
+    {
+      "id": "76dba534-afe5-44a8-af3b-a9623622e16f",
+      "title": "Long Da Lishkara",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "long-da-lishkara",
+      "has_reactions": false
+    },
+    {
+      "id": "dd41c4a5-8575-4a45-9d35-a2d4b69aedb6",
+      "title": "Antaheen",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "antaheen",
+      "has_reactions": false
+    },
+    {
+      "id": "504295c7-28ab-47f9-987d-cc1f0019e03e",
+      "title": "Mirch Masala",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "mirch-masala",
+      "has_reactions": false
+    },
+    {
+      "id": "117e946f-07f4-4b02-a0ac-2239aebe4592",
+      "title": "Susman",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "susman",
+      "has_reactions": false
+    },
+    {
+      "id": "0af9f6dd-0ef0-4826-9a09-caffbb8eef1e",
+      "title": "City of Joy",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "city-of-joy",
+      "has_reactions": false
+    },
+    {
+      "id": "d9b4308a-573c-4375-899b-ef5a7fa07d94",
+      "title": "Raat",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "raat",
+      "has_reactions": false
+    },
+    {
+      "id": "408ffe15-21f0-43a3-a21d-5bcc868b2773",
+      "title": "Wolf",
+      "release_year": 1994,
+      "studio_label": "Columbia Pictures",
+      "slug": "wolf",
+      "has_reactions": true
+    },
+    {
+      "id": "79946720-d3d5-4ee9-a420-93310356f204",
+      "title": "In Custody",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "in-custody",
+      "has_reactions": false
+    },
+    {
+      "id": "61bbc35a-e40a-47e3-b70d-a13f89672158",
+      "title": "Drohkaal",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "drohkaal",
+      "has_reactions": false
+    },
+    {
+      "id": "bc2c7f51-c811-4715-9e4e-9502a32042a0",
+      "title": "Target",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "target",
+      "has_reactions": false
+    },
+    {
+      "id": "d5f9c23b-4303-41a0-8515-b76cdcf0fe3b",
+      "title": "Aatank Hi Aatank",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "aatank-hi-aatank",
+      "has_reactions": false
+    },
+    {
+      "id": "148496c7-e240-45a6-919e-cc256261d8d0",
+      "title": "Zakhmi Sipahi",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "zakhmi-sipahi",
+      "has_reactions": false
+    },
+    {
+      "id": "6e91dc1d-a5b7-4562-9c3c-07419af6006b",
+      "title": "Brothers in Trouble",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "brothers-in-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "1d59243f-fac1-49d9-a9c9-5d3223119183",
+      "title": "The Ghost and the Darkness",
+      "release_year": 1996,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-ghost-and-the-darkness",
+      "has_reactions": true
+    },
+    {
+      "id": "6af4aca5-e9aa-40cb-b94c-78595b3ca421",
+      "title": "Aastha: In the Prison of Spring",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "aastha-in-the-prison-of-spring",
+      "has_reactions": false
+    },
+    {
+      "id": "0f8ef409-fd6a-4c40-af56-79be8e433796",
+      "title": "My Son the Fanatic",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "my-son-the-fanatic",
+      "has_reactions": false
+    },
+    {
+      "id": "a6b7518a-a11d-4a4b-b8fe-e7476c68d6a1",
+      "title": "Pyaar To Hona Hi Tha",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "pyaar-to-hona-hi-tha",
+      "has_reactions": false
+    },
+    {
+      "id": "fe38fe2e-ca93-4f52-a8b5-2eac020b56ee",
+      "title": "China Gate",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "china-gate",
+      "has_reactions": false
+    },
+    {
+      "id": "4e5cd325-51d0-44b9-bf1d-5bc3944f35cf",
+      "title": "Hera Pheri",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "hera-pheri",
+      "has_reactions": false
+    },
+    {
+      "id": "61e479f5-e4ea-487c-9c07-bb46167efa33",
+      "title": "Indian",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "indian",
+      "has_reactions": false
+    },
+    {
+      "id": "c28e1406-57da-4940-a2b1-a765dccaa8b5",
+      "title": "Bollywood Calling",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "bollywood-calling",
+      "has_reactions": false
+    },
+    {
+      "id": "b179b6da-90ec-4ebd-871e-b9faceb8bcf5",
+      "title": "Happy Now",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "happy-now",
+      "has_reactions": false
+    },
+    {
+      "id": "a6407ca2-0102-48e3-8bd1-fa6441561187",
+      "title": "The Zookeeper",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-zookeeper",
+      "has_reactions": false
+    },
+    {
+      "id": "824ca608-1d4b-4377-b45a-188db5d2f701",
+      "title": "Code 46",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "code-46",
+      "has_reactions": false
+    },
+    {
+      "id": "2c6d7c06-e050-4d1c-846a-387e4de8d5a1",
+      "title": "Maqbool",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "maqbool",
+      "has_reactions": false
+    },
+    {
+      "id": "7e17068c-2211-4790-961c-48345d74b756",
+      "title": "Kash Aap Hamare Hote",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "kash-aap-hamare-hote",
+      "has_reactions": false
+    },
+    {
+      "id": "871bbce1-be5e-4fed-97a3-d55a8ba3be57",
+      "title": "Dev",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "dev",
+      "has_reactions": false
+    },
+    {
+      "id": "8a5bd98a-54e1-454f-baf9-052883041840",
+      "title": "King of Bollywood",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "king-of-bollywood",
+      "has_reactions": false
+    },
+    {
+      "id": "edc56b5a-be32-46a5-ae8c-f246341687cd",
+      "title": "Mangal Pandey - The Rising",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mangal-pandey-the-rising",
+      "has_reactions": false
+    },
+    {
+      "id": "9dfecc0b-732a-49d3-92a0-e8f73b0c866e",
+      "title": "Malamaal Weekly",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "malamaal-weekly",
+      "has_reactions": false
+    },
+    {
+      "id": "5274a4fe-377a-4a27-99bb-d203692b3e73",
+      "title": "Don",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "don",
+      "has_reactions": false
+    },
+    {
+      "id": "65107f19-4d72-405d-a331-c28fe87d000e",
+      "title": "Charlie Wilson's War",
+      "release_year": 2007,
+      "studio_label": "Universal Pictures",
+      "slug": "charlie-wilson-s-war",
+      "has_reactions": true
+    },
+    {
+      "id": "a91e5c1d-f102-47b4-9b54-c26a1f34976d",
+      "title": "Welcome",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "welcome",
+      "has_reactions": false
+    },
+    {
+      "id": "f46e4c18-d7e2-4800-ac1a-a4205ace18a8",
+      "title": "Dhol",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "dhol",
+      "has_reactions": false
+    },
+    {
+      "id": "a1e291ba-dc57-4256-b9ab-7c5255a961d5",
+      "title": "Delhii Heights",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "delhii-heights",
+      "has_reactions": false
+    },
+    {
+      "id": "f82a8134-79a3-4813-84fe-67ca1a5da24e",
+      "title": "Mere Baap Pehle Aap",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "mere-baap-pehle-aap",
+      "has_reactions": false
+    },
+    {
+      "id": "9e80372a-98ca-45d7-ac84-a7fddcf7a359",
+      "title": "Kismat Konnection",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kismat-konnection",
+      "has_reactions": false
+    },
+    {
+      "id": "29ea9e98-cedb-45b8-acab-480b131c8839",
+      "title": "Lovesongs",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "lovesongs",
+      "has_reactions": false
+    },
+    {
+      "id": "e18e95a6-2ebd-4417-8ddf-15a2fae8877c",
+      "title": "Chal Chala Chal",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "chal-chala-chal",
+      "has_reactions": false
+    },
+    {
+      "id": "496cc548-94e3-473c-8249-58a4f7f62346",
+      "title": "Billu",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "billu",
+      "has_reactions": false
+    },
+    {
+      "id": "99b3f223-379c-441d-8f84-e276436a05ad",
+      "title": "Kurbaan",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "kurbaan",
+      "has_reactions": false
+    },
+    {
+      "id": "e0171dae-a689-41ba-97cb-6e73095f3599",
+      "title": "Road to Sangam",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "road-to-sangam",
+      "has_reactions": false
+    },
+    {
+      "id": "dcab836e-0802-4c36-8a85-c3a66381866e",
+      "title": "West Is West",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "west-is-west",
+      "has_reactions": false
+    },
+    {
+      "id": "f59f9c75-6493-4559-a5ae-80e54f23fb21",
+      "title": "Dabangg",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "dabangg",
+      "has_reactions": false
+    },
+    {
+      "id": "8acdbdcd-bd98-43a1-9d08-ade27baae189",
+      "title": "Don 2",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "don-2",
+      "has_reactions": false
+    },
+    {
+      "id": "bb3c56f0-4bfd-4c5a-9a2e-7416e653de5f",
+      "title": "Chaar Din Ki Chandni",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "chaar-din-ki-chandni",
+      "has_reactions": false
+    },
+    {
+      "id": "519c9cab-4c3f-491b-b31c-c1dd920d2c66",
+      "title": "Tere Naal Love Ho Gaya",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "tere-naal-love-ho-gaya",
+      "has_reactions": false
+    },
+    {
+      "id": "86f37d3f-bdc4-4834-8d95-9e2889299eb7",
+      "title": "Chakravyuh",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "chakravyuh",
+      "has_reactions": false
+    },
+    {
+      "id": "e7ccaecf-4400-485a-a56f-5348f3b52a84",
+      "title": "Policegiri",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "policegiri",
+      "has_reactions": false
+    },
+    {
+      "id": "3a625328-4fb5-4ef6-acc3-77ef71437fe9",
+      "title": "The Hundred-Foot Journey",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "the-hundred-foot-journey",
+      "has_reactions": false
+    },
+    {
+      "id": "07bdebbd-732d-447d-b60a-f4caa0f7e604",
+      "title": "Leather Life",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "leather-life",
+      "has_reactions": false
+    },
+    {
+      "id": "e026260c-bfff-42e5-98af-398da34a5e9d",
+      "title": "The Silent Crime",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-silent-crime",
+      "has_reactions": false
+    }
+  ]
+}

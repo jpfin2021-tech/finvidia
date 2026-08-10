@@ -1,0 +1,600 @@
+{
+  "id": "c21219e4-f5a0-4163-bc1d-dde9684c2bf2",
+  "name": "Randy Quaid",
+  "slug": "randy-quaid",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rGWvDokcMLIwck10dKIutSoTM9r.jpg",
+  "filmography": [
+    {
+      "id": "be043652-7893-46e7-93f7-b53473a305da",
+      "title": "The Last Picture Show",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "the-last-picture-show",
+      "has_reactions": false
+    },
+    {
+      "id": "29f42478-2b40-4ee2-91a1-6f90a56ae1a2",
+      "title": "What's Up, Doc?",
+      "release_year": 1972,
+      "studio_label": "Saticoy Productions",
+      "slug": "what-s-up-doc",
+      "has_reactions": true
+    },
+    {
+      "id": "65a9768d-1285-4915-a379-87f80481925f",
+      "title": "Getting Away from It All",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "getting-away-from-it-all",
+      "has_reactions": false
+    },
+    {
+      "id": "72533d67-3fae-4cb6-9f5b-26907fb92d0f",
+      "title": "Paper Moon",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "paper-moon",
+      "has_reactions": false
+    },
+    {
+      "id": "911cf3e2-7fb9-42aa-8ac9-c9db8f40c0b3",
+      "title": "The Last Detail",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-last-detail",
+      "has_reactions": false
+    },
+    {
+      "id": "70ed8ee3-1458-40a7-9809-521eca9fece1",
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-apprenticeship-of-duddy-kravitz",
+      "has_reactions": false
+    },
+    {
+      "id": "5d614597-1cf1-4474-91ad-69636a0c0ec7",
+      "title": "The Great Niagara",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-great-niagara",
+      "has_reactions": false
+    },
+    {
+      "id": "9676ca42-cff2-4ec7-b652-2c17dcb908f6",
+      "title": "Three Warriors",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "three-warriors",
+      "has_reactions": false
+    },
+    {
+      "id": "ea699afb-5886-4fd1-8e4d-9def126ee415",
+      "title": "The Choirboys",
+      "release_year": 1977,
+      "studio_label": "\u2014",
+      "slug": "the-choirboys",
+      "has_reactions": false
+    },
+    {
+      "id": "c2df27eb-25f1-4ee1-bb70-e0ee99b194f3",
+      "title": "Midnight Express",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "midnight-express",
+      "has_reactions": false
+    },
+    {
+      "id": "ea0dd7a4-4004-4d6c-981c-b0cb4fd1f9be",
+      "title": "The Last Ride of the Dalton Gang",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-last-ride-of-the-dalton-gang",
+      "has_reactions": false
+    },
+    {
+      "id": "02d19726-f5ed-4c2c-ace9-8b0edd773b00",
+      "title": "To Race the Wind",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "to-race-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "a262f2e2-b00c-44c6-b6af-c57cfd146256",
+      "title": "Foxes",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "foxes",
+      "has_reactions": false
+    },
+    {
+      "id": "a9d570d7-1d07-4ff0-ac57-5850388bb3c3",
+      "title": "Of Mice and Men",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "of-mice-and-men",
+      "has_reactions": false
+    },
+    {
+      "id": "d2b6ed6e-e7d6-42fa-a6b8-ca87a572d592",
+      "title": "National Lampoon's Vacation",
+      "release_year": 1983,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "national-lampoon-s-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "84bbe7e9-68b7-4ab3-a487-c468b068a8bf",
+      "title": "Cowboy",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "cowboy",
+      "has_reactions": false
+    },
+    {
+      "id": "e95115ef-f3f3-40b0-9f9f-b0271e53cd60",
+      "title": "The Wild Life",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-wild-life",
+      "has_reactions": false
+    },
+    {
+      "id": "0975193b-4751-4755-a7c5-21e426ff392c",
+      "title": "A Streetcar Named Desire",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "a-streetcar-named-desire",
+      "has_reactions": false
+    },
+    {
+      "id": "f3cc6d31-a675-4b60-ab2e-6c79666f431b",
+      "title": "The Slugger's Wife",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "the-slugger-s-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa61c91-e719-4a46-9dff-a515753b5eef",
+      "title": "The Wraith",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "the-wraith",
+      "has_reactions": false
+    },
+    {
+      "id": "b751168a-fc8c-4ed7-aea5-805bfa1d9054",
+      "title": "Sweet Country",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "sweet-country",
+      "has_reactions": false
+    },
+    {
+      "id": "5d32cfe1-10de-4b7e-8a5a-024d132e0c5a",
+      "title": "Caddyshack II",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "caddyshack-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "ef5a1123-c018-4dc7-b6d4-8e2bb738f8ec",
+      "title": "Evil in Clear River",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "evil-in-clear-river",
+      "has_reactions": false
+    },
+    {
+      "id": "901042e4-5443-46ee-b6c3-0cbf3d55803b",
+      "title": "Dead Solid Perfect",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "dead-solid-perfect",
+      "has_reactions": false
+    },
+    {
+      "id": "0ef651ab-7a03-4f30-bf27-93acf23f5f81",
+      "title": "Parents",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "parents",
+      "has_reactions": false
+    },
+    {
+      "id": "2d81bed7-226c-4c24-92b9-aac62f356242",
+      "title": "National Lampoon's Christmas Vacation",
+      "release_year": 1989,
+      "studio_label": "Hughes Entertainment",
+      "slug": "national-lampoon-s-christmas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "a986ca7a-4953-4864-833e-a80c81f0d02c",
+      "title": "Martians Go Home",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "martians-go-home",
+      "has_reactions": false
+    },
+    {
+      "id": "bcb9f5e3-a33e-4032-a0d8-7b968b9de012",
+      "title": "Days of Thunder",
+      "release_year": 1990,
+      "studio_label": "Paramount Pictures",
+      "slug": "days-of-thunder",
+      "has_reactions": true
+    },
+    {
+      "id": "615bdbec-090a-415a-be3e-db8b87fd1711",
+      "title": "Texasville",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "texasville",
+      "has_reactions": false
+    },
+    {
+      "id": "7f01010f-e46e-4ce3-adb6-356305342af3",
+      "title": "Quick Change",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "quick-change",
+      "has_reactions": false
+    },
+    {
+      "id": "f5ac287d-2c11-44fc-8bb6-9f3b5fdc5492",
+      "title": "Picture This",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "picture-this",
+      "has_reactions": false
+    },
+    {
+      "id": "f3b31f1d-0035-422c-b92a-7072480b072e",
+      "title": "Frankenstein",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "4c1164e2-9480-4c84-8cdb-28c23ac658a4",
+      "title": "Major League II",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "major-league-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "c5243da1-29f8-4064-9bfc-90f5e0d9faaa",
+      "title": "Curse of the Starving Class",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "curse-of-the-starving-class",
+      "has_reactions": false
+    },
+    {
+      "id": "bb2682ae-6a87-4430-91ba-e54fbf10cedb",
+      "title": "Next Door",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "next-door",
+      "has_reactions": false
+    },
+    {
+      "id": "e269f31d-7d43-49c4-8e07-2c1506332d5f",
+      "title": "Bye Bye Love",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "bye-bye-love",
+      "has_reactions": false
+    },
+    {
+      "id": "ea867ba4-1ac3-4ab5-b336-870dbd2c84f6",
+      "title": "Ed McBain's 87th Precinct: Lightning",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "ed-mcbain-s-87th-precinct-lightning",
+      "has_reactions": false
+    },
+    {
+      "id": "d6162687-191b-4a22-adf0-8148c2dfff50",
+      "title": "Les L\u00e9gendes du Grand Nord",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "les-l-gendes-du-grand-nord",
+      "has_reactions": false
+    },
+    {
+      "id": "569286cd-9069-4492-b679-d998e77fd748",
+      "title": "Independence Day",
+      "release_year": 1996,
+      "studio_label": "20th Century Fox",
+      "slug": "independence-day",
+      "has_reactions": true
+    },
+    {
+      "id": "c4d88562-6925-441a-8af8-216ae7b72628",
+      "title": "Last Dance",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "last-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "ab32d896-79c3-4024-b04e-3ae65fcf40e4",
+      "title": "The Siege at Ruby Ridge",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-siege-at-ruby-ridge",
+      "has_reactions": false
+    },
+    {
+      "id": "d060c8d7-aed0-4e73-a017-54b628592573",
+      "title": "Kingpin",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "kingpin",
+      "has_reactions": false
+    },
+    {
+      "id": "629f2ebb-09ec-428a-84ae-5fa44e3ad34f",
+      "title": "Moonshine Highway",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "moonshine-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "6398344a-993d-40ed-a237-6c3777ef9c8b",
+      "title": "The Making of 'Independence Day'",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-independence-day",
+      "has_reactions": false
+    },
+    {
+      "id": "008f27e4-77e2-4b94-921e-5ee7ac25a87c",
+      "title": "Get on the Bus",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "get-on-the-bus",
+      "has_reactions": false
+    },
+    {
+      "id": "ddf9cdcc-a5c1-425a-8621-3ef69f387d9e",
+      "title": "Vegas Vacation",
+      "release_year": 1997,
+      "studio_label": "Jerry Weintraub Productions",
+      "slug": "vegas-vacation",
+      "has_reactions": true
+    },
+    {
+      "id": "213ef116-8e34-4004-a1b4-7e450489d61a",
+      "title": "Water War",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "water-war",
+      "has_reactions": false
+    },
+    {
+      "id": "cb4fd5f4-7da4-474e-8286-5c070b584340",
+      "title": "Valentine's Day",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "valentine-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "c96321a5-86bf-4541-9669-016cd939c04c",
+      "title": "P.U.N.K.S",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "p-u-n-k-s",
+      "has_reactions": false
+    },
+    {
+      "id": "c70250cb-4cb5-449a-aceb-e038732aea17",
+      "title": "Purgatory",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "purgatory",
+      "has_reactions": false
+    },
+    {
+      "id": "35f42389-e782-430d-a0d9-708a4b5e76cf",
+      "title": "The Thin Blue Lie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-thin-blue-lie",
+      "has_reactions": false
+    },
+    {
+      "id": "77b8bdbf-a1e2-4212-869d-9c6270d62dcc",
+      "title": "Not Another Teen Movie",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "not-another-teen-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "34790401-9bff-4e09-9a8e-03da246e526f",
+      "title": "The Day the World Ended",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-day-the-world-ended",
+      "has_reactions": false
+    },
+    {
+      "id": "fd0c15f1-7128-4fcd-9c96-31679c39c288",
+      "title": "Frank McKlusky, C.I.",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "frank-mcklusky-c-i",
+      "has_reactions": false
+    },
+    {
+      "id": "d844224c-9865-4c0a-94cd-7f61dc9edb98",
+      "title": "The Adventures of Pluto Nash",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-pluto-nash",
+      "has_reactions": false
+    },
+    {
+      "id": "fd6111de-6cd4-496f-a72f-f2b9cdf6aebd",
+      "title": "Black Cadillac",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "black-cadillac",
+      "has_reactions": false
+    },
+    {
+      "id": "ab8ce0ae-8377-451e-9d81-b9e188ee1a49",
+      "title": "Kart Racer",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "kart-racer",
+      "has_reactions": false
+    },
+    {
+      "id": "0f227c6e-3ee2-4320-9d31-f6e4f9045e1e",
+      "title": "Christmas Vacation 2: Cousin Eddie's Island Adventure",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "christmas-vacation-2-cousin-eddie-s-island-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "2697f651-7c62-410e-8b37-e4f91d121b02",
+      "title": "Grind",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "grind",
+      "has_reactions": false
+    },
+    {
+      "id": "e0303aee-9e9e-473c-b961-051c3060d838",
+      "title": "Category 6: Day of Destruction",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "category-6-day-of-destruction",
+      "has_reactions": false
+    },
+    {
+      "id": "13071827-0824-4b65-b7a8-c3313cad3f36",
+      "title": "Brokeback Mountain",
+      "release_year": 2005,
+      "studio_label": "Focus Features",
+      "slug": "brokeback-mountain",
+      "has_reactions": true
+    },
+    {
+      "id": "bb1e3948-f5b1-478f-84cb-c89af3a1eac8",
+      "title": "Once Upon a Halloween",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-halloween",
+      "has_reactions": false
+    },
+    {
+      "id": "eb2eaa3d-a74d-40a7-b2e2-560a2186de84",
+      "title": "Back By Midnight",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "back-by-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "b160fe72-d0e3-4997-9e58-f7fef0f39bdf",
+      "title": "The Ice Harvest",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-ice-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "1b551610-158e-4363-8341-2a62526a91a4",
+      "title": "Treasure Island Kids: The Battle of Treasure Island",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "treasure-island-kids-the-battle-of-treasure-island",
+      "has_reactions": false
+    },
+    {
+      "id": "4fa69a08-eb9d-4d48-91c0-a6848bff466f",
+      "title": "Blade: House of Chthon",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "blade-house-of-chthon",
+      "has_reactions": false
+    },
+    {
+      "id": "7eb2b94e-bad0-40d9-9d8d-9b6e23c7645d",
+      "title": "Stanley's Dinosaur Round-Up",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "stanley-s-dinosaur-round-up",
+      "has_reactions": false
+    },
+    {
+      "id": "e33cb752-b437-4539-8f38-b21c2adbb669",
+      "title": "Goya's Ghosts",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "goya-s-ghosts",
+      "has_reactions": false
+    },
+    {
+      "id": "1120cef9-0f8b-4903-b512-ffdc0aeda01d",
+      "title": "Real Time",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "real-time",
+      "has_reactions": false
+    },
+    {
+      "id": "b19deb42-e7bb-47a3-825f-22a0e771d338",
+      "title": "Balls Out: Gary the Tennis Coach",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "balls-out-gary-the-tennis-coach",
+      "has_reactions": false
+    },
+    {
+      "id": "5d173db1-0ebc-464c-9567-56b4ea3158d6",
+      "title": "Star Whackers",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "star-whackers",
+      "has_reactions": false
+    },
+    {
+      "id": "77cf07a4-e3ff-4da2-ab1d-b2642b5e20ae",
+      "title": "The Randy & Evi Quaid Compilation",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-randy-evi-quaid-compilation",
+      "has_reactions": false
+    },
+    {
+      "id": "edb6543f-1124-49e2-acde-a07efff9cd64",
+      "title": "All You Can Eat",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "all-you-can-eat",
+      "has_reactions": false
+    },
+    {
+      "id": "638265ea-0ea6-4482-80e4-ce66e9f5386b",
+      "title": "The Christmas Letter",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-christmas-letter",
+      "has_reactions": false
+    }
+  ]
+}

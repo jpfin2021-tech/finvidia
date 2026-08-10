@@ -1,0 +1,56 @@
+{
+  "id": "bd44d853-9477-4bb2-a14d-a4b385a55674",
+  "name": "Deezer D",
+  "slug": "deezer-d",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/zIBcfwtnfTAcXDJXuGDQW2Gn2LX.jpg",
+  "filmography": [
+    {
+      "id": "19e64cb2-6fa4-4778-8889-8a77fdca4cf6",
+      "title": "CB4",
+      "release_year": 1993,
+      "studio_label": "Universal Pictures",
+      "slug": "cb4",
+      "has_reactions": true
+    },
+    {
+      "id": "4ef7cd1e-0631-4e00-94a4-ef974373e6d3",
+      "title": "Fear of a Black Hat",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "fear-of-a-black-hat",
+      "has_reactions": false
+    },
+    {
+      "id": "645c89fd-0efb-4c2e-9ca1-7b3b99765356",
+      "title": "The Great White Hype",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-great-white-hype",
+      "has_reactions": false
+    },
+    {
+      "id": "e7a1bb1e-d077-41e1-8d1a-46a7726ac273",
+      "title": "Romy and Michele's High School Reunion",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "romy-and-michele-s-high-school-reunion",
+      "has_reactions": false
+    },
+    {
+      "id": "6f1e1ca8-edf0-4ebc-b36c-890193c00f36",
+      "title": "Bones",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "bones",
+      "has_reactions": false
+    },
+    {
+      "id": "22484c1b-523c-4af6-87aa-4dcdaa76dc18",
+      "title": "Bringing Down the House",
+      "release_year": 2003,
+      "studio_label": "Touchstone Pictures",
+      "slug": "bringing-down-the-house",
+      "has_reactions": true
+    }
+  ]
+}

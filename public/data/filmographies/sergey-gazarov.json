@@ -1,0 +1,592 @@
+{
+  "id": "8a38c381-5e16-405d-8cc0-72ff7b873b43",
+  "name": "Sergey Gazarov",
+  "slug": "sergey-gazarov",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/lgszwQoTt95P2colj9XlbVcMi8W.jpg",
+  "filmography": [
+    {
+      "id": "12d47074-5fe5-4a1c-996c-4afa804e05fc",
+      "title": "Pugowitza",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "pugowitza",
+      "has_reactions": false
+    },
+    {
+      "id": "0e1e1431-cb68-4aaa-912b-2d043177292c",
+      "title": "Kin",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "kin",
+      "has_reactions": false
+    },
+    {
+      "id": "537348b0-6a3f-42f6-bfa8-02ca6f323477",
+      "title": "The Fall of Condor",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-fall-of-condor",
+      "has_reactions": false
+    },
+    {
+      "id": "e064c81e-7dd7-4650-b908-e267733a2403",
+      "title": "It Must Be So",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "it-must-be-so",
+      "has_reactions": false
+    },
+    {
+      "id": "c3b4da62-d1ee-4c25-8dfb-d75a38f019d5",
+      "title": "Romeo and Juliet",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "romeo-and-juliet",
+      "has_reactions": false
+    },
+    {
+      "id": "a7ee8236-0c8a-452e-8f34-596ff3b85885",
+      "title": "\u041c\u043e\u043b\u043e\u0434\u044b\u0435 \u043b\u044e\u0434\u0438",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "be3b2fab-c4f8-46e3-83f9-6f81ef755074",
+      "title": "The Lonely Businessman's Big Score",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "the-lonely-businessman-s-big-score",
+      "has_reactions": false
+    },
+    {
+      "id": "bfab2318-8c02-498f-9d91-ca2b769ba781",
+      "title": "Dancefloor",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "dancefloor",
+      "has_reactions": false
+    },
+    {
+      "id": "5913e89d-0c97-4136-bae7-94f31366a0a6",
+      "title": "We Are Cheerful, Happy, Talented!",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "we-are-cheerful-happy-talented",
+      "has_reactions": false
+    },
+    {
+      "id": "25c38e94-91ed-431d-955d-8c971a280e5b",
+      "title": "Yaguar",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "yaguar",
+      "has_reactions": false
+    },
+    {
+      "id": "47c09432-be00-45ca-9f9c-397de6f3f66c",
+      "title": "Lucky",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "lucky",
+      "has_reactions": false
+    },
+    {
+      "id": "02d4ec1c-2fd4-4bee-a6a9-788eefabb887",
+      "title": "Time to Fly",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "time-to-fly",
+      "has_reactions": false
+    },
+    {
+      "id": "f96d8789-399a-44c0-a2db-0cd848bd680e",
+      "title": "The Story of One Billiard-Room",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-one-billiard-room",
+      "has_reactions": false
+    },
+    {
+      "id": "5fa0db0b-4151-4c57-84f8-a588ef7d7ab3",
+      "title": "A Monster or Someone Else...",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "a-monster-or-someone-else",
+      "has_reactions": false
+    },
+    {
+      "id": "0087a06d-55a2-484c-9e22-9c5205d4276c",
+      "title": "I'm All Right",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "i-m-all-right",
+      "has_reactions": false
+    },
+    {
+      "id": "15084965-b18d-4075-b207-125425f00af3",
+      "title": "White Bone",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "white-bone",
+      "has_reactions": false
+    },
+    {
+      "id": "d617b239-f019-472a-b1aa-55cc87c5d58c",
+      "title": "Limited Life",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "limited-life",
+      "has_reactions": false
+    },
+    {
+      "id": "abaf41d0-a806-4940-af8e-cf572d2bd1e1",
+      "title": "The Gambler",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "the-gambler",
+      "has_reactions": false
+    },
+    {
+      "id": "70b02ab1-e8b3-40c5-b651-cd43d0dd239c",
+      "title": "Mister Perrichon's Trip",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "mister-perrichon-s-trip",
+      "has_reactions": false
+    },
+    {
+      "id": "2853857f-fc25-4327-8a01-a9f6da39717e",
+      "title": "Sanit Zone",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "sanit-zone",
+      "has_reactions": false
+    },
+    {
+      "id": "67299ed7-b39b-4fed-85db-4a2bb65b9427",
+      "title": "The Executioner",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "the-executioner",
+      "has_reactions": false
+    },
+    {
+      "id": "cb7378f1-0c29-4640-be4b-43f4fa0b7cbd",
+      "title": "Entrance to Labyrinth",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "entrance-to-labyrinth",
+      "has_reactions": false
+    },
+    {
+      "id": "bea58a3a-0700-4ae4-93b1-903b647c6143",
+      "title": "Taxi Blues",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "taxi-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "368c1fbb-5894-4359-a934-e1b81a78100e",
+      "title": "Day of Love",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "day-of-love",
+      "has_reactions": false
+    },
+    {
+      "id": "1f4ded4e-9421-4194-90e0-ef738d16204c",
+      "title": "Spanish Actress for Russian Minister",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "spanish-actress-for-russian-minister",
+      "has_reactions": false
+    },
+    {
+      "id": "37ede606-c8af-4afb-a624-347346e085c6",
+      "title": "KGB Agents Also Fall in Love",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "kgb-agents-also-fall-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "e95b7835-f386-4e6a-a22b-1d68373ba760",
+      "title": "Brilliant idea",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "brilliant-idea",
+      "has_reactions": false
+    },
+    {
+      "id": "98a51d78-eadc-41c6-86d4-3183775505a8",
+      "title": "1000 Dollars One Way",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "1000-dollars-one-way",
+      "has_reactions": false
+    },
+    {
+      "id": "262008ec-f60c-4bfc-a046-39e241f0d1a2",
+      "title": "In Search of the Golden Phallus",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "in-search-of-the-golden-phallus",
+      "has_reactions": false
+    },
+    {
+      "id": "9d43a47a-8fd5-4cd0-bfaf-d978fcb991bc",
+      "title": "Russian Pizza Blues",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "russian-pizza-blues",
+      "has_reactions": false
+    },
+    {
+      "id": "4580cb11-001c-446b-be8b-f4b83b8cac72",
+      "title": "A Melodrama with Attempted Murder",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "a-melodrama-with-attempted-murder",
+      "has_reactions": false
+    },
+    {
+      "id": "478f93ef-4183-48f4-b0b7-92f4b04a4703",
+      "title": "Alice and the Bookseller",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "alice-and-the-bookseller",
+      "has_reactions": false
+    },
+    {
+      "id": "164200a9-cde3-4c8e-92a8-87c9a704fe2e",
+      "title": "Rats Corner",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "rats-corner",
+      "has_reactions": false
+    },
+    {
+      "id": "ea1d9672-3bd9-4e05-89dc-3a93568d0198",
+      "title": "Gladiator for Rent",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "gladiator-for-rent",
+      "has_reactions": false
+    },
+    {
+      "id": "b7055e67-6174-463c-83b2-aa3a1929351d",
+      "title": "Makarov",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "makarov",
+      "has_reactions": false
+    },
+    {
+      "id": "76f9dc43-79c3-469f-8603-57be54e3a2f8",
+      "title": "The Italian Contract",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "the-italian-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "ebd01a89-ffa1-4624-aa52-6c041632490a",
+      "title": "The Boundaries",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "the-boundaries",
+      "has_reactions": false
+    },
+    {
+      "id": "32031762-77bc-4130-b168-7a6e4488be54",
+      "title": "Little Lord Fauntleroy",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "little-lord-fauntleroy",
+      "has_reactions": false
+    },
+    {
+      "id": "7b509973-f9c0-47d7-83f4-0c65e5e78dd9",
+      "title": "My Step Brother Frankenstein",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "my-step-brother-frankenstein",
+      "has_reactions": false
+    },
+    {
+      "id": "0879946e-de12-4be2-9be6-31c35f1826ae",
+      "title": "Love Songs",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "love-songs",
+      "has_reactions": false
+    },
+    {
+      "id": "c239e303-2553-4e63-9efe-4820e0d9923b",
+      "title": "The Turkish Gambit",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-turkish-gambit",
+      "has_reactions": false
+    },
+    {
+      "id": "2ca5f139-363f-453c-83e5-b878d24f8dd5",
+      "title": "A Hare over the Abyss",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "a-hare-over-the-abyss",
+      "has_reactions": false
+    },
+    {
+      "id": "5cbd8313-fb3c-47f0-ac43-cd897351aa6d",
+      "title": "12",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "12",
+      "has_reactions": false
+    },
+    {
+      "id": "7715ec1c-4017-44db-af09-86f4b9c1dbe4",
+      "title": "The Apocalypse Code",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-apocalypse-code",
+      "has_reactions": false
+    },
+    {
+      "id": "50dbfbd0-1554-42b3-b36e-c1ba822de3ab",
+      "title": "The Golden Key",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-golden-key",
+      "has_reactions": false
+    },
+    {
+      "id": "c8668c41-4557-4967-8cf2-d219077d5914",
+      "title": "The Pack",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-pack",
+      "has_reactions": false
+    },
+    {
+      "id": "b4b25661-00b8-4f28-bac1-d523ddf79d64",
+      "title": "Crawfishlike",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "crawfishlike",
+      "has_reactions": false
+    },
+    {
+      "id": "0d4f5c53-33ff-4ceb-8f4e-29978a078ead",
+      "title": "A Yakuza's Daughter Never Cries",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "a-yakuza-s-daughter-never-cries",
+      "has_reactions": false
+    },
+    {
+      "id": "7c6e36bf-d00d-400f-b7ef-933ce35884bc",
+      "title": "Who Am I?",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "who-am-i",
+      "has_reactions": false
+    },
+    {
+      "id": "01b6e3c7-65c3-4165-884a-1ca0e0241cfe",
+      "title": "Hooked on the Game 2. The Next Level",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "hooked-on-the-game-2-the-next-level",
+      "has_reactions": false
+    },
+    {
+      "id": "cf98964a-dbc1-4aed-ba4a-603fa84e316c",
+      "title": "\u0421\u043b\u0435\u0434 \u0441\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u044b",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "0b89dbc4-7f75-436e-a44d-be68ae730836",
+      "title": "Antisniper 3: New Level",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "antisniper-3-new-level",
+      "has_reactions": false
+    },
+    {
+      "id": "e0a1316a-e24c-4077-bc33-65b6ac7a9cf6",
+      "title": "Antisniper 4: Shot from the past",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "antisniper-4-shot-from-the-past",
+      "has_reactions": false
+    },
+    {
+      "id": "df9012c1-873b-4f7b-9e44-49c2496a703a",
+      "title": "Rita",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "rita",
+      "has_reactions": false
+    },
+    {
+      "id": "26c440d0-5121-4fbb-b50d-d2d980a748e9",
+      "title": "Kiss through the Wall",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "kiss-through-the-wall",
+      "has_reactions": false
+    },
+    {
+      "id": "c80c0adf-08d1-487e-978f-6a14c92078b7",
+      "title": "Without Men",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "without-men",
+      "has_reactions": false
+    },
+    {
+      "id": "228bf7e5-fb75-477c-8298-468adff6db06",
+      "title": "August. Eighth",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "august-eighth",
+      "has_reactions": false
+    },
+    {
+      "id": "80946875-3463-4c58-8bf5-ceabb0d96eee",
+      "title": "The Spy",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "the-spy",
+      "has_reactions": false
+    },
+    {
+      "id": "d1289a8e-5ce7-46d0-b885-4f773512a572",
+      "title": "Mommies",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mommies",
+      "has_reactions": false
+    },
+    {
+      "id": "2be950ab-6f41-4add-8dae-0e0bcf54596b",
+      "title": "\u041f\u043e\u0434 \u043f\u0440\u0438\u043a\u0440\u044b\u0442\u0438\u0435\u043c",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "",
+      "has_reactions": false
+    },
+    {
+      "id": "797743a2-3325-4347-8f08-1a84618e031f",
+      "title": "Marathon",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "marathon",
+      "has_reactions": false
+    },
+    {
+      "id": "39fa0dd1-e170-421b-b0f6-c6671dd4ee77",
+      "title": "Spikes",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "spikes",
+      "has_reactions": false
+    },
+    {
+      "id": "0f724e4e-9050-46ec-9e6d-8aac4c46b468",
+      "title": "Likes or Dislikes",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "likes-or-dislikes",
+      "has_reactions": false
+    },
+    {
+      "id": "8c5f9a5b-5a2c-47ef-89b5-3a3b8db54342",
+      "title": "Jolly Fellows;)",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "jolly-fellows",
+      "has_reactions": false
+    },
+    {
+      "id": "8cdb0696-7d96-41f2-9a8a-4e37950790d6",
+      "title": "After You're Gone",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "after-you-re-gone",
+      "has_reactions": false
+    },
+    {
+      "id": "a08cb0e6-eb60-4632-a563-c88e3ba23986",
+      "title": "Love and Sax",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "love-and-sax",
+      "has_reactions": false
+    },
+    {
+      "id": "69d1379a-a5b7-4153-aa2a-7e557fa0d947",
+      "title": "Crimean Bridge. Made With Love!",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "crimean-bridge-made-with-love",
+      "has_reactions": false
+    },
+    {
+      "id": "530421f3-02c2-43db-8069-7bd135b8faa3",
+      "title": "Animator",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "animator",
+      "has_reactions": false
+    },
+    {
+      "id": "37c848cf-610f-483a-8cc3-66a8045a5e3c",
+      "title": "Selfi#Selfie",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "selfi-selfie",
+      "has_reactions": false
+    },
+    {
+      "id": "cc735e4e-7f1c-4bc6-a7cf-8702b017faeb",
+      "title": "Kalashnikov AK-47",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "kalashnikov-ak-47",
+      "has_reactions": false
+    },
+    {
+      "id": "9aa69baf-dbf8-4efe-b612-36cc24a7c9ed",
+      "title": "Raiders of the Lost Library",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "raiders-of-the-lost-library",
+      "has_reactions": false
+    },
+    {
+      "id": "64d2cac5-19c0-40f0-ab5f-31ea316b01cd",
+      "title": "Final",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "final",
+      "has_reactions": false
+    },
+    {
+      "id": "6f2e2612-54ac-4c98-be45-98562e2f3ab1",
+      "title": "Hater",
+      "release_year": 2026,
+      "studio_label": "Viking-ST",
+      "slug": "hater",
+      "has_reactions": false
+    }
+  ]
+}

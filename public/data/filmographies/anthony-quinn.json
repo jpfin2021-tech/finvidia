@@ -1,0 +1,616 @@
+{
+  "id": "41423b66-933b-45f6-99e9-aa20ba25a0cc",
+  "name": "Anthony Quinn",
+  "slug": "anthony-quinn",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg",
+  "filmography": [
+    {
+      "id": "3937d648-bf9c-4909-aeb7-bec3873db312",
+      "title": "Swing High, Swing Low",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "swing-high-swing-low",
+      "has_reactions": false
+    },
+    {
+      "id": "c5360b71-e3c7-4ba1-99fd-6fa793720ecb",
+      "title": "Daughter of Shanghai",
+      "release_year": 1937,
+      "studio_label": "\u2014",
+      "slug": "daughter-of-shanghai",
+      "has_reactions": false
+    },
+    {
+      "id": "cd5e939d-e1c7-4a2a-a92f-77cf15562c5c",
+      "title": "The Buccaneer",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "the-buccaneer",
+      "has_reactions": false
+    },
+    {
+      "id": "14cf8106-53bc-4c43-90a4-90304535a2d6",
+      "title": "Bulldog Drummond in Africa",
+      "release_year": 1938,
+      "studio_label": "\u2014",
+      "slug": "bulldog-drummond-in-africa",
+      "has_reactions": false
+    },
+    {
+      "id": "ed0f947c-6920-4afb-8526-dba6ae6c8d01",
+      "title": "City for Conquest",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "city-for-conquest",
+      "has_reactions": false
+    },
+    {
+      "id": "137a6427-f2f1-4858-9bc4-383d9851c407",
+      "title": "The Ghost Breakers",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "the-ghost-breakers",
+      "has_reactions": false
+    },
+    {
+      "id": "6c154d92-79c7-4a26-96fd-1afc672ac918",
+      "title": "Bullets for O'Hara",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "bullets-for-o-hara",
+      "has_reactions": false
+    },
+    {
+      "id": "c1145dfd-ac21-489d-a521-ec3880968d7f",
+      "title": "Blood and Sand",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "blood-and-sand",
+      "has_reactions": false
+    },
+    {
+      "id": "3b941157-1807-4a9b-b2b7-40706d10d20c",
+      "title": "They Died with Their Boots On",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "they-died-with-their-boots-on",
+      "has_reactions": false
+    },
+    {
+      "id": "103bc7b0-df76-42f9-bd13-cf4c2820d931",
+      "title": "Road to Morocco",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "road-to-morocco",
+      "has_reactions": false
+    },
+    {
+      "id": "74d24a9e-4637-4312-a599-2ae018c0666e",
+      "title": "The Black Swan",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-black-swan",
+      "has_reactions": false
+    },
+    {
+      "id": "6b499d37-5e1e-4407-90d2-3ef5a50dfeec",
+      "title": "The Ox-Bow Incident",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "the-ox-bow-incident",
+      "has_reactions": false
+    },
+    {
+      "id": "f557f366-8016-442c-8c35-5a954118807b",
+      "title": "Guadalcanal Diary",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "guadalcanal-diary",
+      "has_reactions": false
+    },
+    {
+      "id": "70c9977e-7901-4f9d-8f1b-6773f2553480",
+      "title": "Ladies of Washington",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "ladies-of-washington",
+      "has_reactions": false
+    },
+    {
+      "id": "b733cb49-510b-459e-bb33-ec97458548c7",
+      "title": "Roger Touhy, Gangster",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "roger-touhy-gangster",
+      "has_reactions": false
+    },
+    {
+      "id": "8f4c91f0-76de-4b82-b431-7f6e0fee8bc3",
+      "title": "Buffalo Bill",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "buffalo-bill",
+      "has_reactions": false
+    },
+    {
+      "id": "dd7b67ac-b54d-4f24-957c-701cc2872432",
+      "title": "China Sky",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "china-sky",
+      "has_reactions": false
+    },
+    {
+      "id": "a3ddfb46-006d-4d00-934d-92ca8df225ac",
+      "title": "Sinbad the Sailor",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "sinbad-the-sailor",
+      "has_reactions": false
+    },
+    {
+      "id": "f8ba76e9-3aea-4354-bda3-d6934da53d6e",
+      "title": "The World in His Arms",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-world-in-his-arms",
+      "has_reactions": false
+    },
+    {
+      "id": "e6262444-1f6a-4199-b155-3a30192afad1",
+      "title": "Viva Zapata!",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "viva-zapata",
+      "has_reactions": false
+    },
+    {
+      "id": "296ec116-2d9c-411f-9c50-82375156afb2",
+      "title": "Against All Flags",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "against-all-flags",
+      "has_reactions": false
+    },
+    {
+      "id": "904d6125-1fe8-4fbf-9132-d21f0a76dd5a",
+      "title": "City Beneath the Sea",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "city-beneath-the-sea",
+      "has_reactions": false
+    },
+    {
+      "id": "d6ad78f8-dff7-4d0c-9e59-b019103dd5ac",
+      "title": "Ride, Vaquero!",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "ride-vaquero",
+      "has_reactions": false
+    },
+    {
+      "id": "7e50fe00-9155-440a-b7fa-04fbedc7c0e9",
+      "title": "Seminole",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "seminole",
+      "has_reactions": false
+    },
+    {
+      "id": "a55dad86-a37d-401a-9219-fa4df70a4a4a",
+      "title": "Attila",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "attila",
+      "has_reactions": false
+    },
+    {
+      "id": "db902346-acaa-43be-8310-1316e0842134",
+      "title": "La Strada",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "la-strada",
+      "has_reactions": false
+    },
+    {
+      "id": "b617bd88-6d3a-489d-8679-a3455268e466",
+      "title": "Ulysses",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "ulysses",
+      "has_reactions": false
+    },
+    {
+      "id": "4da2a2db-7d18-4c34-a977-4f7c6e0a5cc5",
+      "title": "The Long Wait",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "the-long-wait",
+      "has_reactions": false
+    },
+    {
+      "id": "9bc6ccf4-4ba9-4074-8f68-6e78f7cced70",
+      "title": "The Naked Street",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "the-naked-street",
+      "has_reactions": false
+    },
+    {
+      "id": "bb1ff424-afb9-4322-94cb-9faf1ba2c1aa",
+      "title": "Man from Del Rio",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "man-from-del-rio",
+      "has_reactions": false
+    },
+    {
+      "id": "6fe84931-a179-41c0-9256-0d04290821f6",
+      "title": "The Hunchback of Notre Dame",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "the-hunchback-of-notre-dame",
+      "has_reactions": false
+    },
+    {
+      "id": "1ab84f89-682a-4623-8003-d3bbb1e668bd",
+      "title": "The River's Edge",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-river-s-edge",
+      "has_reactions": false
+    },
+    {
+      "id": "ad3d699a-f7c9-4f32-9958-86cc68529187",
+      "title": "Wild Is the Wind",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "wild-is-the-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "af19e21b-a3e5-4da4-9829-30b481efd8b8",
+      "title": "The Ride Back",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "the-ride-back",
+      "has_reactions": false
+    },
+    {
+      "id": "54873552-3c3c-426a-8c7a-20407a26d501",
+      "title": "The Black Orchid",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "the-black-orchid",
+      "has_reactions": false
+    },
+    {
+      "id": "d67e5ada-5966-4c06-8564-f1718886d1e8",
+      "title": "Last Train from Gun Hill",
+      "release_year": 1959,
+      "studio_label": "\u2014",
+      "slug": "last-train-from-gun-hill",
+      "has_reactions": false
+    },
+    {
+      "id": "b0266b05-867a-4549-b2c2-38278fdb2305",
+      "title": "The Savage Innocents",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "the-savage-innocents",
+      "has_reactions": false
+    },
+    {
+      "id": "8be7d947-0a98-4510-ae54-78a9f84f198b",
+      "title": "Heller in Pink Tights",
+      "release_year": 1960,
+      "studio_label": "\u2014",
+      "slug": "heller-in-pink-tights",
+      "has_reactions": false
+    },
+    {
+      "id": "12f55664-f1d8-4762-845f-182dac40e27a",
+      "title": "Barabbas",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "barabbas",
+      "has_reactions": false
+    },
+    {
+      "id": "5f0e8c5d-cbd5-4217-89e4-22ae4f777b1e",
+      "title": "The Guns of Navarone",
+      "release_year": 1961,
+      "studio_label": "\u2014",
+      "slug": "the-guns-of-navarone",
+      "has_reactions": false
+    },
+    {
+      "id": "c3a2c532-f3b2-4203-95e5-e6f00ae65517",
+      "title": "Lawrence of Arabia",
+      "release_year": 1962,
+      "studio_label": "Horizon Pictures",
+      "slug": "lawrence-of-arabia",
+      "has_reactions": true
+    },
+    {
+      "id": "f64295e0-160c-471f-b84f-cc13aa61913c",
+      "title": "The Visit",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "the-visit",
+      "has_reactions": false
+    },
+    {
+      "id": "dbaa1b29-e2aa-4dad-9cdc-357945e44d64",
+      "title": "Zorba the Greek",
+      "release_year": 1964,
+      "studio_label": "\u2014",
+      "slug": "zorba-the-greek",
+      "has_reactions": false
+    },
+    {
+      "id": "90ca4086-f7cc-402e-8433-be55e7e9b7d7",
+      "title": "Marco the Magnificent",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "marco-the-magnificent",
+      "has_reactions": false
+    },
+    {
+      "id": "1e41dd67-6de1-45d5-b14c-7135160d1976",
+      "title": "A High Wind in Jamaica",
+      "release_year": 1965,
+      "studio_label": "\u2014",
+      "slug": "a-high-wind-in-jamaica",
+      "has_reactions": false
+    },
+    {
+      "id": "9a7e3762-fc36-484c-9e5d-2b33edc397fc",
+      "title": "Lost Command",
+      "release_year": 1966,
+      "studio_label": "\u2014",
+      "slug": "lost-command",
+      "has_reactions": false
+    },
+    {
+      "id": "76d9a3df-9d08-4ab8-87fd-215c70a75334",
+      "title": "Guns for San Sebastian",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "guns-for-san-sebastian",
+      "has_reactions": false
+    },
+    {
+      "id": "8aec9478-7d61-4e33-8a1c-f375ba86a30c",
+      "title": "The 25th Hour",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "the-25th-hour",
+      "has_reactions": false
+    },
+    {
+      "id": "f3fa2b02-7878-49ac-bc16-2d457aff7cb9",
+      "title": "The Movie Orgy",
+      "release_year": 1968,
+      "studio_label": "\u2014",
+      "slug": "the-movie-orgy",
+      "has_reactions": false
+    },
+    {
+      "id": "7318c13d-def4-4e28-be22-fb1e13e7ec12",
+      "title": "A Walk in the Spring Rain",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "a-walk-in-the-spring-rain",
+      "has_reactions": false
+    },
+    {
+      "id": "11b6570c-681a-4700-b6da-e23eb5652c94",
+      "title": "The Secret of Santa Vittoria",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "the-secret-of-santa-vittoria",
+      "has_reactions": false
+    },
+    {
+      "id": "de238f07-8223-46d4-ae72-468331867100",
+      "title": "Arruza",
+      "release_year": 1972,
+      "studio_label": "\u2014",
+      "slug": "arruza",
+      "has_reactions": false
+    },
+    {
+      "id": "914e5b27-86c7-43e3-b19a-1861a2534ab0",
+      "title": "The Don Is Dead",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "the-don-is-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "8291afd7-a1fd-47f1-bdb4-213d0a22000f",
+      "title": "Deaf Smith & Johnny Ears",
+      "release_year": 1973,
+      "studio_label": "\u2014",
+      "slug": "deaf-smith-johnny-ears",
+      "has_reactions": false
+    },
+    {
+      "id": "5685da5c-5faa-4a5c-84ba-6fecf652b992",
+      "title": "The Marseille Contract",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "the-marseille-contract",
+      "has_reactions": false
+    },
+    {
+      "id": "0167f5f5-dd73-45ed-81a8-c58b8ea5adac",
+      "title": "The Inheritance",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-inheritance",
+      "has_reactions": false
+    },
+    {
+      "id": "4ead1f27-6d38-4b94-a0e9-96374149ee06",
+      "title": "The Message",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-message",
+      "has_reactions": false
+    },
+    {
+      "id": "d17d7d91-93a4-408d-a4ca-1cac6ef9218f",
+      "title": "The Con Artists",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-con-artists",
+      "has_reactions": false
+    },
+    {
+      "id": "6ab19708-92e8-40c5-b5d6-8983545b218a",
+      "title": "Caravans",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "caravans",
+      "has_reactions": false
+    },
+    {
+      "id": "10089863-3a28-4fc6-87a8-0b11626a09f3",
+      "title": "The Passage",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "the-passage",
+      "has_reactions": false
+    },
+    {
+      "id": "87acbb37-7a0d-44c6-969d-4365ac38f943",
+      "title": "Lion of the Desert",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "lion-of-the-desert",
+      "has_reactions": false
+    },
+    {
+      "id": "608330f2-27df-4cce-81a6-1997331fa948",
+      "title": "High Risk",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "high-risk",
+      "has_reactions": false
+    },
+    {
+      "id": "c37281f1-30ab-4bfb-aa38-17ff2e47c9f1",
+      "title": "Valentina",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "valentina",
+      "has_reactions": false
+    },
+    {
+      "id": "eb6e3946-ef5d-43a8-afda-f08310802ec1",
+      "title": "Onassis: The Richest Man in the World",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "onassis-the-richest-man-in-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "08cbc356-bbbb-4995-a015-7fc50cf789dd",
+      "title": "Gregory Peck: His Own Man",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "gregory-peck-his-own-man",
+      "has_reactions": false
+    },
+    {
+      "id": "a9f1d34d-c532-4254-8143-4c5ccef4a68d",
+      "title": "Only the Lonely",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "only-the-lonely",
+      "has_reactions": false
+    },
+    {
+      "id": "52dc4147-e0f9-4149-a5e4-34e423f1ef50",
+      "title": "Jungle Fever",
+      "release_year": 1991,
+      "studio_label": "40 Acres and a Mule Filmworks",
+      "slug": "jungle-fever",
+      "has_reactions": true
+    },
+    {
+      "id": "309d3b2c-6c51-4522-a640-3e6a6394c6e1",
+      "title": "Last Action Hero",
+      "release_year": 1993,
+      "studio_label": "Oak Productions",
+      "slug": "last-action-hero",
+      "has_reactions": true
+    },
+    {
+      "id": "296d9358-7800-4e46-916c-884c5a27c72a",
+      "title": "Hercules in the Maze of the Minotaur",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hercules-in-the-maze-of-the-minotaur",
+      "has_reactions": false
+    },
+    {
+      "id": "e1983edd-16ed-4026-a901-9d05e7b8a1b3",
+      "title": "Hercules in the Underworld",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hercules-in-the-underworld",
+      "has_reactions": false
+    },
+    {
+      "id": "fbe137f3-2984-4a4a-a099-697ffb070fda",
+      "title": "Hercules and the Amazon Women",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "hercules-and-the-amazon-women",
+      "has_reactions": false
+    },
+    {
+      "id": "aebb22de-7f46-4f1d-a765-c037b08769f4",
+      "title": "A Walk in the Clouds",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "a-walk-in-the-clouds",
+      "has_reactions": false
+    },
+    {
+      "id": "a1ee2c77-1652-4ea8-8b45-0e3267540263",
+      "title": "Seven Servants",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "seven-servants",
+      "has_reactions": false
+    },
+    {
+      "id": "e7624262-255d-450d-8ed7-213fbfd86ad3",
+      "title": "John Cassavetes: To Risk Everything to Express It All",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "john-cassavetes-to-risk-everything-to-express-it-all",
+      "has_reactions": false
+    },
+    {
+      "id": "b3a05985-ce75-4905-88c7-7e9c960b065d",
+      "title": "Ingrid Bergman Remembered",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "ingrid-bergman-remembered",
+      "has_reactions": false
+    },
+    {
+      "id": "57c6101b-4ec9-4f9b-b823-aa751ee0bed5",
+      "title": "Avenging Angelo",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "avenging-angelo",
+      "has_reactions": false
+    }
+  ]
+}

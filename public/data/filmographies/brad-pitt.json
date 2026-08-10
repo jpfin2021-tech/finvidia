@@ -1,0 +1,336 @@
+{
+  "id": "b32649bc-1adc-4aad-b069-eb8cef657fb9",
+  "name": "Brad Pitt",
+  "slug": "brad-pitt",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+  "filmography": [
+    {
+      "id": "ec14179b-c9fe-4c0b-9aa1-03af8b31f444",
+      "title": "Thelma & Louise",
+      "release_year": 1991,
+      "studio_label": "Scott Free Productions",
+      "slug": "thelma-louise",
+      "has_reactions": true
+    },
+    {
+      "id": "79e9e08b-9f4c-4587-a792-832b7904ffbd",
+      "title": "True Romance",
+      "release_year": 1993,
+      "studio_label": "Morgan Creek Entertainment",
+      "slug": "true-romance",
+      "has_reactions": true
+    },
+    {
+      "id": "6cacd36d-8d1c-4e26-bafe-ae24c3366ad4",
+      "title": "Interview with the Vampire",
+      "release_year": 1994,
+      "studio_label": "Geffen Pictures",
+      "slug": "interview-with-the-vampire",
+      "has_reactions": true
+    },
+    {
+      "id": "fe61730e-2ee0-49aa-8994-112aed030965",
+      "title": "Legends of the Fall",
+      "release_year": 1994,
+      "studio_label": "Bedford Falls Productions",
+      "slug": "legends-of-the-fall",
+      "has_reactions": true
+    },
+    {
+      "id": "f5727efa-0f83-457d-9fe6-abfa7d9ca1eb",
+      "title": "Se7en",
+      "release_year": 1995,
+      "studio_label": "New Line Cinema",
+      "slug": "se7en",
+      "has_reactions": true
+    },
+    {
+      "id": "6d1ceb54-2e69-4e25-855e-6cdaef2d6401",
+      "title": "Sleepers",
+      "release_year": 1996,
+      "studio_label": "Propaganda Films",
+      "slug": "sleepers",
+      "has_reactions": true
+    },
+    {
+      "id": "f2f71f6e-2a7a-43db-9ffd-a04feb0d0619",
+      "title": "The Making of Se7en",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-se7en",
+      "has_reactions": false
+    },
+    {
+      "id": "b066d49c-c41d-458c-85ec-add8f6f46cd4",
+      "title": "Meet Joe Black",
+      "release_year": 1998,
+      "studio_label": "Universal Pictures",
+      "slug": "meet-joe-black",
+      "has_reactions": true
+    },
+    {
+      "id": "5347e53a-646a-4d55-9a71-5c20b93418d7",
+      "title": "Fight Club",
+      "release_year": 1999,
+      "studio_label": "Fox 2000 Pictures",
+      "slug": "fight-club",
+      "has_reactions": true
+    },
+    {
+      "id": "115eefeb-4c88-49e8-97a6-7a9ba8ce2a23",
+      "title": "Being John Malkovich",
+      "release_year": 1999,
+      "studio_label": "Propaganda Films",
+      "slug": "being-john-malkovich",
+      "has_reactions": true
+    },
+    {
+      "id": "c64873be-9783-4fc5-9afa-97ee9303d321",
+      "title": "Snatch",
+      "release_year": 2000,
+      "studio_label": "Marv",
+      "slug": "snatch",
+      "has_reactions": true
+    },
+    {
+      "id": "58b10f51-eaa9-45eb-902e-35379a4fe964",
+      "title": "Spy Game",
+      "release_year": 2001,
+      "studio_label": "TOHO",
+      "slug": "spy-game",
+      "has_reactions": true
+    },
+    {
+      "id": "d1d423e1-1940-45de-b622-cd19c9b9ab22",
+      "title": "Ocean's Eleven",
+      "release_year": 2001,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "ocean-s-eleven",
+      "has_reactions": true
+    },
+    {
+      "id": "d8cf885b-8a43-4459-b848-f6dbad03a54e",
+      "title": "Jeff Buckley: Everybody Here Wants You",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "jeff-buckley-everybody-here-wants-you",
+      "has_reactions": false
+    },
+    {
+      "id": "955e7660-aa85-4bab-a56f-a7d921b108ce",
+      "title": "Troy",
+      "release_year": 2004,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "troy",
+      "has_reactions": true
+    },
+    {
+      "id": "ecc1f604-5417-40b0-9d2a-930d0f0634b8",
+      "title": "Ocean's Twelve",
+      "release_year": 2004,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "ocean-s-twelve",
+      "has_reactions": true
+    },
+    {
+      "id": "368a0386-1fa9-45d3-9ceb-e7756fa4bad5",
+      "title": "Mr. & Mrs. Smith",
+      "release_year": 2005,
+      "studio_label": "Regency Enterprises",
+      "slug": "mr-mrs-smith",
+      "has_reactions": true
+    },
+    {
+      "id": "5236fba0-841e-449e-b1de-e28a6fe7ba7a",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "release_year": 2007,
+      "studio_label": "Plan B Entertainment",
+      "slug": "the-assassination-of-jesse-james-by-the-coward-robert-ford",
+      "has_reactions": true
+    },
+    {
+      "id": "79669f24-9e99-48a9-bf0f-d5b417793a01",
+      "title": "Common Ground: Under Construction Notes",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "common-ground-under-construction-notes",
+      "has_reactions": false
+    },
+    {
+      "id": "21ce0270-1fb1-4448-88f5-2b73e4eb83a5",
+      "title": "Voom Portraits",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "voom-portraits",
+      "has_reactions": false
+    },
+    {
+      "id": "4f5bd017-0477-4ebf-964b-bb342c020d78",
+      "title": "The Curious Case of Benjamin Button",
+      "release_year": 2008,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-curious-case-of-benjamin-button",
+      "has_reactions": true
+    },
+    {
+      "id": "8cd1ddaf-95b2-4ba4-9481-12cdf0386d6b",
+      "title": "Burn After Reading",
+      "release_year": 2008,
+      "studio_label": "Focus Features",
+      "slug": "burn-after-reading",
+      "has_reactions": true
+    },
+    {
+      "id": "2edff7c7-dddb-43ee-8ecb-cf957d6baad2",
+      "title": "Inglourious Basterds",
+      "release_year": 2009,
+      "studio_label": "Universal Pictures",
+      "slug": "inglourious-basterds",
+      "has_reactions": true
+    },
+    {
+      "id": "a1fc81f1-0acd-44ce-8687-5ea080713b8f",
+      "title": "Beyond All Boundaries",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "beyond-all-boundaries",
+      "has_reactions": false
+    },
+    {
+      "id": "14e6c226-d37d-4d9d-85eb-52aa3729f4a4",
+      "title": "The Curious Birth of Benjamin Button",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "the-curious-birth-of-benjamin-button",
+      "has_reactions": false
+    },
+    {
+      "id": "ffec4613-a6d0-4e6e-a633-b4c540b6e72b",
+      "title": "Megamind",
+      "release_year": 2010,
+      "studio_label": "DreamWorks Animation",
+      "slug": "megamind",
+      "has_reactions": true
+    },
+    {
+      "id": "bcd658d1-00de-4f81-b8b5-33c526c4dd63",
+      "title": "Exit Through the Gift Shop",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "exit-through-the-gift-shop",
+      "has_reactions": false
+    },
+    {
+      "id": "330e4166-8052-4acd-823e-d3a302bf5efb",
+      "title": "Moneyball",
+      "release_year": 2011,
+      "studio_label": "Scott Rudin Productions",
+      "slug": "moneyball",
+      "has_reactions": true
+    },
+    {
+      "id": "50c6eb0b-503a-4233-a5d4-39e8cccbac7e",
+      "title": "Exploring 'The Tree of Life'",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "exploring-the-tree-of-life",
+      "has_reactions": false
+    },
+    {
+      "id": "7470f971-9f4a-467e-af26-894a233356a2",
+      "title": "La Classe am\u00e9ricaine",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "la-classe-am-ricaine",
+      "has_reactions": false
+    },
+    {
+      "id": "006bea9f-352e-4c56-a23f-c9a9b3f075e0",
+      "title": "World War Z",
+      "release_year": 2013,
+      "studio_label": "GK Films",
+      "slug": "world-war-z",
+      "has_reactions": true
+    },
+    {
+      "id": "32856593-9955-4de3-842a-7f3e3ec49881",
+      "title": "12 Years a Slave",
+      "release_year": 2013,
+      "studio_label": "New Regency Pictures",
+      "slug": "12-years-a-slave",
+      "has_reactions": true
+    },
+    {
+      "id": "8aa74ca2-e1fd-45b4-af3a-7df704293bbd",
+      "title": "Fury",
+      "release_year": 2014,
+      "studio_label": "Columbia Pictures",
+      "slug": "fury",
+      "has_reactions": true
+    },
+    {
+      "id": "6eca3c0c-f218-4c9b-bc13-2cb596addc9e",
+      "title": "The Big Short",
+      "release_year": 2015,
+      "studio_label": "Paramount Pictures",
+      "slug": "the-big-short",
+      "has_reactions": true
+    },
+    {
+      "id": "c71c836a-c248-4b0c-a142-fc30d03f5bc3",
+      "title": "Deadpool 2",
+      "release_year": 2018,
+      "studio_label": "Maximum Effort",
+      "slug": "deadpool-2",
+      "has_reactions": true
+    },
+    {
+      "id": "dbe68c56-9e8c-4837-85ec-1af8f1cb20de",
+      "title": "Once Upon a Deadpool",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-deadpool",
+      "has_reactions": false
+    },
+    {
+      "id": "1b1a74af-2bd5-406e-833e-b8cde2237a00",
+      "title": "Once Upon a Time... in Hollywood",
+      "release_year": 2019,
+      "studio_label": "Heyday Films",
+      "slug": "once-upon-a-time-in-hollywood",
+      "has_reactions": true
+    },
+    {
+      "id": "c73cb4c2-d63b-406f-baa4-1e9d596e1c90",
+      "title": "Ad Astra",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "ad-astra",
+      "has_reactions": false
+    },
+    {
+      "id": "5bbf3050-0f3c-4fa8-a03b-e170319625e1",
+      "title": "Bullet Train",
+      "release_year": 2022,
+      "studio_label": "87North Productions",
+      "slug": "bullet-train",
+      "has_reactions": true
+    },
+    {
+      "id": "853fb5c8-719b-43ea-b43a-298ea45929d1",
+      "title": "Brad Pitt: More Than a Pretty Face",
+      "release_year": 2022,
+      "studio_label": "Temps noir",
+      "slug": "brad-pitt-more-than-a-pretty-face",
+      "has_reactions": false
+    },
+    {
+      "id": "58da2d13-92cd-4e18-8f6d-55a26a8fa586",
+      "title": "The Adventures of Cliff Booth",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-adventures-of-cliff-booth",
+      "has_reactions": false
+    }
+  ]
+}

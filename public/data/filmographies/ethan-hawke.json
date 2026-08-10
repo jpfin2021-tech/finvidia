@@ -1,0 +1,680 @@
+{
+  "id": "996a2c5c-6246-4cf3-b507-1c927589eeaa",
+  "name": "Ethan Hawke",
+  "slug": "ethan-hawke",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/oojD9jSshvUT4t6AUySsBxoekHk.jpg",
+  "filmography": [
+    {
+      "id": "a33bdb09-bf68-4c1e-ad30-8deab766d8a9",
+      "title": "Tonight at Noon",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "tonight-at-noon",
+      "has_reactions": false
+    },
+    {
+      "id": "e4ffff95-14a4-4d21-97d2-ba7c9989241d",
+      "title": "Explorers",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "explorers",
+      "has_reactions": false
+    },
+    {
+      "id": "4f4940c9-213e-4c98-876b-5ea136a15d43",
+      "title": "Lion's Den",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "lion-s-den",
+      "has_reactions": false
+    },
+    {
+      "id": "ad1d1869-7190-4530-a056-baeb1e49f6bd",
+      "title": "Dead Poets Society",
+      "release_year": 1989,
+      "studio_label": "A Steven Haft Production",
+      "slug": "dead-poets-society",
+      "has_reactions": true
+    },
+    {
+      "id": "cc804195-4cdb-425f-9b68-da3818a71e7b",
+      "title": "Dad",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "dad",
+      "has_reactions": false
+    },
+    {
+      "id": "9e2347f2-d094-42b9-b1ba-0984c38ef54b",
+      "title": "White Fang",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "white-fang",
+      "has_reactions": false
+    },
+    {
+      "id": "014cdf01-cf99-428c-83a2-ac52b53235ad",
+      "title": "Mystery Date",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "mystery-date",
+      "has_reactions": false
+    },
+    {
+      "id": "f12c9954-c87b-41d8-804c-a265468fa330",
+      "title": "Waterland",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "waterland",
+      "has_reactions": false
+    },
+    {
+      "id": "1c11ac99-1c6f-4b71-8de4-a2920c3eb3cb",
+      "title": "A Midnight Clear",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "a-midnight-clear",
+      "has_reactions": false
+    },
+    {
+      "id": "0b323980-c941-4dfb-bf9b-68bbcfe09581",
+      "title": "Rich in Love",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "rich-in-love",
+      "has_reactions": false
+    },
+    {
+      "id": "57aa4198-0ce6-4b53-994f-077d845c46cf",
+      "title": "Reality Bites",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "reality-bites",
+      "has_reactions": false
+    },
+    {
+      "id": "7a680036-6642-4f96-a5e7-2c6edba34184",
+      "title": "White Fang 2: Myth of the White Wolf",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "white-fang-2-myth-of-the-white-wolf",
+      "has_reactions": false
+    },
+    {
+      "id": "034afc21-5b33-4676-b099-dd725a3db1cb",
+      "title": "Floundering",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "floundering",
+      "has_reactions": false
+    },
+    {
+      "id": "b549786b-35b6-4960-b22c-ee69c20608ed",
+      "title": "Quiz Show",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "quiz-show",
+      "has_reactions": false
+    },
+    {
+      "id": "1534cf66-e5d5-44e4-9a8a-9ba77322787c",
+      "title": "Before Sunrise",
+      "release_year": 1995,
+      "studio_label": "Castle Rock Entertainment",
+      "slug": "before-sunrise",
+      "has_reactions": true
+    },
+    {
+      "id": "66e6eb40-0ff3-412e-8a35-29353a75f5ef",
+      "title": "Search and Destroy",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "search-and-destroy",
+      "has_reactions": false
+    },
+    {
+      "id": "21b14ec3-3aff-4ce6-99aa-41b0fbc8e946",
+      "title": "At Sundance",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "at-sundance",
+      "has_reactions": false
+    },
+    {
+      "id": "19815465-b267-454f-8c60-bf7e16ae47bb",
+      "title": "Gattaca",
+      "release_year": 1997,
+      "studio_label": "Jersey Films",
+      "slug": "gattaca",
+      "has_reactions": true
+    },
+    {
+      "id": "a1a0e9de-beb5-426c-a70c-45894e55b740",
+      "title": "Snow Falling on Cedars",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "snow-falling-on-cedars",
+      "has_reactions": false
+    },
+    {
+      "id": "23d32196-dea9-41ae-b2f7-26a44ae225c7",
+      "title": "Hamlet",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "hamlet",
+      "has_reactions": false
+    },
+    {
+      "id": "16f030ec-e8a6-4c0c-bf4f-5be7d0aa3f6a",
+      "title": "Training Day",
+      "release_year": 2001,
+      "studio_label": "WV Films II",
+      "slug": "training-day",
+      "has_reactions": true
+    },
+    {
+      "id": "4f767edc-48e2-40d9-b0a8-0ad2c58cbefb",
+      "title": "Tape",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "tape",
+      "has_reactions": false
+    },
+    {
+      "id": "f3df1f92-4d57-4aea-9b67-840ba15e9662",
+      "title": "Waking Life",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "waking-life",
+      "has_reactions": false
+    },
+    {
+      "id": "d570f51c-6c4c-4f3e-915f-eca9b00a68de",
+      "title": "Chelsea Walls",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "chelsea-walls",
+      "has_reactions": false
+    },
+    {
+      "id": "e4a177f8-8d66-4502-8852-369cdc77aec1",
+      "title": "The Jimmy Show",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-jimmy-show",
+      "has_reactions": false
+    },
+    {
+      "id": "bfd7998e-bc69-4150-afb0-ef6b2afdd6ca",
+      "title": "pollyDAYS",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "pollydays",
+      "has_reactions": false
+    },
+    {
+      "id": "ef628fda-fcb5-4b6d-814e-fbc1fd3108c0",
+      "title": "Before Sunset",
+      "release_year": 2004,
+      "studio_label": "Warner Independent Pictures",
+      "slug": "before-sunset",
+      "has_reactions": true
+    },
+    {
+      "id": "04d55cb9-5d6e-499f-a5e7-8fbf7978fcd5",
+      "title": "Taking Lives",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "taking-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "75f3dd57-7657-40ac-83cd-03c0842d1e7a",
+      "title": "The Phoenix Portal",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-phoenix-portal",
+      "has_reactions": false
+    },
+    {
+      "id": "aa774a71-15e2-4e9e-bb6a-9ee3f8d7c1ad",
+      "title": "Assault on Precinct 13",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "assault-on-precinct-13",
+      "has_reactions": false
+    },
+    {
+      "id": "e5a6c33d-2abb-4667-80fd-a3159daf5d84",
+      "title": "Lord of War",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "lord-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "dadde2fc-3c5b-478f-aa92-d7372658021a",
+      "title": "Fast Food Nation",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "fast-food-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "3afed34b-9898-48ad-9434-58d87f724687",
+      "title": "Before the Devil Knows You're Dead",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "before-the-devil-knows-you-re-dead",
+      "has_reactions": false
+    },
+    {
+      "id": "cc632a19-5e06-4636-85ef-1206f460902c",
+      "title": "The Manufacturing of 'Fast Food Nation'",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-manufacturing-of-fast-food-nation",
+      "has_reactions": false
+    },
+    {
+      "id": "d18b7d11-2e33-4b4a-b2b4-e3468a61a246",
+      "title": "The Hottest State",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-hottest-state",
+      "has_reactions": false
+    },
+    {
+      "id": "61a4c2c8-fbe9-4caa-810d-c887a181bc54",
+      "title": "What Doesn't Kill You",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "what-doesn-t-kill-you",
+      "has_reactions": false
+    },
+    {
+      "id": "d27fb358-890d-417c-8bbe-d3de2eba4610",
+      "title": "Chelsea on the Rocks",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "chelsea-on-the-rocks",
+      "has_reactions": false
+    },
+    {
+      "id": "fca5aefe-faa7-4983-baa6-45f9049cb56a",
+      "title": "Directed by Sidney Lumet: How the Devil Was Made",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "directed-by-sidney-lumet-how-the-devil-was-made",
+      "has_reactions": false
+    },
+    {
+      "id": "a6d3557c-94ff-4838-bebb-b10bc5bd3a1a",
+      "title": "Staten Island",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "staten-island",
+      "has_reactions": false
+    },
+    {
+      "id": "c2a1288d-6022-4162-8148-b12722e3ca61",
+      "title": "Daybreakers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "daybreakers",
+      "has_reactions": false
+    },
+    {
+      "id": "a762da07-e3b0-4337-8029-0205fc5c7436",
+      "title": "The Making of Daybreakers",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-making-of-daybreakers",
+      "has_reactions": false
+    },
+    {
+      "id": "b9295656-863e-4cb4-9c81-976a46d384d3",
+      "title": "Sinister",
+      "release_year": 2012,
+      "studio_label": "Automatik Entertainment",
+      "slug": "sinister",
+      "has_reactions": true
+    },
+    {
+      "id": "6b3cdbc0-c6a3-4c95-82e2-8279e1aea90a",
+      "title": "Mea Maxima Culpa: Silence in the House of God",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mea-maxima-culpa-silence-in-the-house-of-god",
+      "has_reactions": false
+    },
+    {
+      "id": "7db5f2fa-93af-409b-86fc-729e41587439",
+      "title": "Getaway",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "getaway",
+      "has_reactions": false
+    },
+    {
+      "id": "77ba6f49-86bd-4c8c-8d35-fd1714161db5",
+      "title": "Before Midnight",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "before-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "7834695d-b3cd-4b0f-897f-8c4391320ddb",
+      "title": "The Purge",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-purge",
+      "has_reactions": false
+    },
+    {
+      "id": "90b55d90-0b79-4d2f-b852-58ce10e7c399",
+      "title": "Welcome Nowhere",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "welcome-nowhere",
+      "has_reactions": false
+    },
+    {
+      "id": "3db5f5ea-b103-4f49-8e82-c65e97c7e575",
+      "title": "Boyhood",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "boyhood",
+      "has_reactions": false
+    },
+    {
+      "id": "2bf74675-febe-45fc-a546-ba7fd45d3ec6",
+      "title": "Predestination",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "predestination",
+      "has_reactions": false
+    },
+    {
+      "id": "e38a77da-18a6-46e6-8f93-78154417ff25",
+      "title": "21 Years: Richard Linklater",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "21-years-richard-linklater",
+      "has_reactions": false
+    },
+    {
+      "id": "d4675162-7823-4211-b029-1c11e7bd1042",
+      "title": "10,000 Saints",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "10-000-saints",
+      "has_reactions": false
+    },
+    {
+      "id": "6b7c15e5-a0d8-4754-8f58-b24ac8f2b3d7",
+      "title": "Good Kill",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "good-kill",
+      "has_reactions": false
+    },
+    {
+      "id": "7d01c340-fbb2-4a8e-9897-9ba1e94dd5ed",
+      "title": "Regression",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "regression",
+      "has_reactions": false
+    },
+    {
+      "id": "38b19153-c2d0-4f16-b622-f80075281893",
+      "title": "Born to Be Blue",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "born-to-be-blue",
+      "has_reactions": false
+    },
+    {
+      "id": "61738d11-b6ea-48ac-ad59-c2c13e24c27c",
+      "title": "All You Zombies: Bringing 'Predestination' to Life",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "all-you-zombies-bringing-predestination-to-life",
+      "has_reactions": false
+    },
+    {
+      "id": "61fba979-e69f-4b61-bb53-3d05f5d6f703",
+      "title": "Seymour: An Introduction",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "seymour-an-introduction",
+      "has_reactions": false
+    },
+    {
+      "id": "8bfb128b-b33a-463e-a185-3d6fbdbf6a0c",
+      "title": "Chattanooga Strong",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "chattanooga-strong",
+      "has_reactions": false
+    },
+    {
+      "id": "c9303b82-7d66-4fd1-8463-4ba546896838",
+      "title": "The Magnificent Seven",
+      "release_year": 2016,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "the-magnificent-seven",
+      "has_reactions": true
+    },
+    {
+      "id": "79d2ffa2-c0ff-4797-803e-ce42eea9a41b",
+      "title": "Invasion!",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "invasion",
+      "has_reactions": false
+    },
+    {
+      "id": "0494b35c-7996-4aeb-a7a3-3d02f46aafc9",
+      "title": "In a Valley of Violence",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "in-a-valley-of-violence",
+      "has_reactions": false
+    },
+    {
+      "id": "306e6c3d-97be-4735-93f6-9ed48d4931a9",
+      "title": "Maggie's Plan",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "maggie-s-plan",
+      "has_reactions": false
+    },
+    {
+      "id": "6735f602-b572-4741-99c1-38dc7bec70ad",
+      "title": "Maudie",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "maudie",
+      "has_reactions": false
+    },
+    {
+      "id": "d5ac1776-22e5-4639-a636-636f83f00fed",
+      "title": "The Phenom",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-phenom",
+      "has_reactions": false
+    },
+    {
+      "id": "17afaadd-7212-4b73-a7dc-1c735eac0406",
+      "title": "Valerian and the City of a Thousand Planets",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "valerian-and-the-city-of-a-thousand-planets",
+      "has_reactions": false
+    },
+    {
+      "id": "aa54c29e-ad2f-4a02-9da5-d1299cd76ba0",
+      "title": "After Before",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "after-before",
+      "has_reactions": false
+    },
+    {
+      "id": "200c7dbe-e028-496f-b049-d673bfe2e070",
+      "title": "24 Hours to Live",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "24-hours-to-live",
+      "has_reactions": false
+    },
+    {
+      "id": "568d92f2-ca78-4110-ba80-ef398fc79699",
+      "title": "The Space in Between",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-space-in-between",
+      "has_reactions": false
+    },
+    {
+      "id": "a44b39e6-f3f8-4a3d-8216-839f7e4332d3",
+      "title": "Let's Dance",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "let-s-dance",
+      "has_reactions": false
+    },
+    {
+      "id": "5921cd1d-18bd-40d3-981d-dd1b2be3fdf4",
+      "title": "The King",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-king",
+      "has_reactions": false
+    },
+    {
+      "id": "5180d36c-7dbe-4156-9afe-7699e91b1ab4",
+      "title": "First Reformed",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "first-reformed",
+      "has_reactions": false
+    },
+    {
+      "id": "fbe4341d-a1c6-4a1b-953d-3fa5d35b24d9",
+      "title": "The Kid",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "96a5c1fc-b382-429a-b876-e4315fa949a7",
+      "title": "Stockholm",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "stockholm",
+      "has_reactions": false
+    },
+    {
+      "id": "ac7c5dbd-8826-4b74-beb9-9b4350ebaec0",
+      "title": "The Truth",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-truth",
+      "has_reactions": false
+    },
+    {
+      "id": "d598e338-87d3-45df-a41e-71d3036e2947",
+      "title": "Adopt a Highway",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "adopt-a-highway",
+      "has_reactions": false
+    },
+    {
+      "id": "630fd938-9c20-4165-85ac-6a537ed7b969",
+      "title": "Before the End",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "before-the-end",
+      "has_reactions": false
+    },
+    {
+      "id": "d01a2d48-bea8-4e00-b587-b485ba452b72",
+      "title": "The Black Phone",
+      "release_year": 2022,
+      "studio_label": "Blumhouse Productions",
+      "slug": "the-black-phone",
+      "has_reactions": true
+    },
+    {
+      "id": "ea20b3c0-9d19-4f40-a353-0af59fc5b465",
+      "title": "The Northman",
+      "release_year": 2022,
+      "studio_label": "Regency Enterprises",
+      "slug": "the-northman",
+      "has_reactions": true
+    },
+    {
+      "id": "0f644acb-a4ea-4096-a7e4-74798fc20158",
+      "title": "Marvel Studios Assembled: The Making of Moon Knight",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "marvel-studios-assembled-the-making-of-moon-knight",
+      "has_reactions": false
+    },
+    {
+      "id": "187a703e-17b8-431a-acff-6d9474ccbc95",
+      "title": "Turn Every Page - The Adventures of Robert Caro and Robert Gottlieb",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "turn-every-page-the-adventures-of-robert-caro-and-robert-gottlieb",
+      "has_reactions": false
+    },
+    {
+      "id": "9f30741a-5979-4150-98e2-6b6b091e8839",
+      "title": "Answering the Call: Behind the Scenes of The Black Phone",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "answering-the-call-behind-the-scenes-of-the-black-phone",
+      "has_reactions": false
+    },
+    {
+      "id": "78e5f684-2f78-41a3-bd88-b8569cc8a415",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "release_year": 2022,
+      "studio_label": "T-Street",
+      "slug": "glass-onion-a-knives-out-mystery",
+      "has_reactions": true
+    },
+    {
+      "id": "85b5513d-94e7-43b1-9d70-6b025b157214",
+      "title": "Leave the World Behind",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "leave-the-world-behind",
+      "has_reactions": false
+    },
+    {
+      "id": "dc3f3f49-17d9-4910-8755-6f152fbb12ee",
+      "title": "Willie Nelson 90: Long Story Short",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-90-long-story-short",
+      "has_reactions": false
+    },
+    {
+      "id": "996ec890-4f98-4bc7-82f9-43d6cc3710b3",
+      "title": "Black Phone 2",
+      "release_year": 2025,
+      "studio_label": "Blumhouse Productions",
+      "slug": "black-phone-2",
+      "has_reactions": true
+    }
+  ]
+}

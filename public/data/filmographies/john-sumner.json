@@ -1,0 +1,48 @@
+{
+  "id": "837790f0-2691-40d4-aff4-1fc3e2adc74b",
+  "name": "John Sumner",
+  "slug": "john-sumner",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg",
+  "filmography": [
+    {
+      "id": "b24922d7-8d64-46da-86ba-bd9f4a711167",
+      "title": "The Frighteners",
+      "release_year": 1996,
+      "studio_label": "WingNut Films",
+      "slug": "the-frighteners",
+      "has_reactions": true
+    },
+    {
+      "id": "40b0db97-101a-4ef6-be53-a6fdc2e41747",
+      "title": "Ready to Run",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "ready-to-run",
+      "has_reactions": false
+    },
+    {
+      "id": "2aca6dff-3472-44ee-a786-587b8ee494fd",
+      "title": "King Kong",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "king-kong",
+      "has_reactions": true
+    },
+    {
+      "id": "06fc46fb-957f-4a61-a814-7f266d590edf",
+      "title": "District 9",
+      "release_year": 2009,
+      "studio_label": "TriStar Pictures",
+      "slug": "district-9",
+      "has_reactions": true
+    },
+    {
+      "id": "05f2a54a-6185-4a7b-b126-34dde9015254",
+      "title": "The Monster of Mangatiti",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-monster-of-mangatiti",
+      "has_reactions": false
+    }
+  ]
+}

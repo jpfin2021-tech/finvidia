@@ -1,0 +1,576 @@
+{
+  "id": "a029bb58-a9a5-4033-b480-fa9985974997",
+  "name": "Michael Murphy",
+  "slug": "michael-murphy",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg",
+  "filmography": [
+    {
+      "id": "7aa7e2e5-41ba-4954-858c-760a06835742",
+      "title": "Double Trouble",
+      "release_year": 1967,
+      "studio_label": "\u2014",
+      "slug": "double-trouble",
+      "has_reactions": false
+    },
+    {
+      "id": "ee5dd572-c203-4eb5-915f-543bdb99db56",
+      "title": "The Arrangement",
+      "release_year": 1969,
+      "studio_label": "\u2014",
+      "slug": "the-arrangement",
+      "has_reactions": false
+    },
+    {
+      "id": "aad1e4b2-a9e2-4529-82cf-3d9b8fa146ab",
+      "title": "Count Yorga, Vampire",
+      "release_year": 1970,
+      "studio_label": "\u2014",
+      "slug": "count-yorga-vampire",
+      "has_reactions": false
+    },
+    {
+      "id": "62f49d7b-e2fd-4c50-9361-0c170d31af7c",
+      "title": "M*A*S*H",
+      "release_year": 1970,
+      "studio_label": "Ingo Preminger Productions",
+      "slug": "m-a-s-h",
+      "has_reactions": false
+    },
+    {
+      "id": "67267eda-87c2-4b31-ba4a-c92ebab71b3f",
+      "title": "Brewster McCloud",
+      "release_year": 1971,
+      "studio_label": "\u2014",
+      "slug": "brewster-mccloud",
+      "has_reactions": false
+    },
+    {
+      "id": "29f42478-2b40-4ee2-91a1-6f90a56ae1a2",
+      "title": "What's Up, Doc?",
+      "release_year": 1972,
+      "studio_label": "Saticoy Productions",
+      "slug": "what-s-up-doc",
+      "has_reactions": true
+    },
+    {
+      "id": "e718f869-2c4e-4463-b9fe-4e25eed3d8cc",
+      "title": "Phase IV",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "phase-iv",
+      "has_reactions": false
+    },
+    {
+      "id": "278b8de6-9f91-4339-94a3-fb7ae1669b82",
+      "title": "Nashville",
+      "release_year": 1975,
+      "studio_label": "\u2014",
+      "slug": "nashville",
+      "has_reactions": false
+    },
+    {
+      "id": "3c3e57ef-92e1-40a1-8238-03c351b66276",
+      "title": "The Front",
+      "release_year": 1976,
+      "studio_label": "\u2014",
+      "slug": "the-front",
+      "has_reactions": false
+    },
+    {
+      "id": "8c3d08b9-01a5-4383-ad78-fad6364ff010",
+      "title": "An Unmarried Woman",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "an-unmarried-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "04771605-e0e5-4c72-ad93-beaa6be30286",
+      "title": "The Great Bank Hoax",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-great-bank-hoax",
+      "has_reactions": false
+    },
+    {
+      "id": "c3fc8e19-93fe-4eb2-841d-742d8f0c03b7",
+      "title": "The Class Of Miss MacMichael",
+      "release_year": 1978,
+      "studio_label": "\u2014",
+      "slug": "the-class-of-miss-macmichael",
+      "has_reactions": false
+    },
+    {
+      "id": "01aa4ab1-ad52-4f41-9afc-7fc85327f439",
+      "title": "Manhattan",
+      "release_year": 1979,
+      "studio_label": "\u2014",
+      "slug": "manhattan",
+      "has_reactions": false
+    },
+    {
+      "id": "7784a157-5c2f-49e1-a7c5-898e0a3b4f87",
+      "title": "Strange Behavior",
+      "release_year": 1981,
+      "studio_label": "\u2014",
+      "slug": "strange-behavior",
+      "has_reactions": false
+    },
+    {
+      "id": "4d342797-bb91-415e-8551-7912a39cd6d1",
+      "title": "The Year of Living Dangerously",
+      "release_year": 1982,
+      "studio_label": "\u2014",
+      "slug": "the-year-of-living-dangerously",
+      "has_reactions": false
+    },
+    {
+      "id": "c7302f2e-7f99-442b-a776-ac300a49d1a0",
+      "title": "Hot Money",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hot-money",
+      "has_reactions": false
+    },
+    {
+      "id": "0264a6b0-693a-4a83-a6a6-e0e920381f02",
+      "title": "Countdown to Looking Glass",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "countdown-to-looking-glass",
+      "has_reactions": false
+    },
+    {
+      "id": "eda4dfa4-5e16-48be-94fe-5d3876534f8c",
+      "title": "Talk to Me",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "talk-to-me",
+      "has_reactions": false
+    },
+    {
+      "id": "8230b3c1-5f19-4895-b0ab-d864bef3858d",
+      "title": "Salvador",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "salvador",
+      "has_reactions": false
+    },
+    {
+      "id": "f4d218ee-86d5-4086-a184-67a5611a2895",
+      "title": "The Caine Mutiny Court-Martial",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "the-caine-mutiny-court-martial",
+      "has_reactions": false
+    },
+    {
+      "id": "1b7e7105-086a-4afc-be76-c6386c31830e",
+      "title": "Shocker",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "shocker",
+      "has_reactions": false
+    },
+    {
+      "id": "a91adac1-df86-4878-8c12-9a9f277c0294",
+      "title": "Tailspin: Behind the Korean Airliner Tragedy",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "tailspin-behind-the-korean-airliner-tragedy",
+      "has_reactions": false
+    },
+    {
+      "id": "666ae76e-461a-47cf-8e56-6f4acd057eea",
+      "title": "Batman Returns",
+      "release_year": 1992,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-returns",
+      "has_reactions": true
+    },
+    {
+      "id": "eb3ad2be-0be8-458a-bb94-d1d626a21743",
+      "title": "Dead Ahead: The Exxon Valdez Disaster",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "dead-ahead-the-exxon-valdez-disaster",
+      "has_reactions": false
+    },
+    {
+      "id": "b9b0d8f6-63ba-4437-a7ce-0f3c051683e0",
+      "title": "Folks!",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "folks",
+      "has_reactions": false
+    },
+    {
+      "id": "64632163-d21c-44b0-a484-dc005fd57403",
+      "title": "Bad Company",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "bad-company",
+      "has_reactions": false
+    },
+    {
+      "id": "7c204e3a-3cbb-4d5e-a76a-32ed3f6f8fc4",
+      "title": "Kansas City",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "kansas-city",
+      "has_reactions": false
+    },
+    {
+      "id": "6a3eb906-41b4-4a47-9d49-bf1ccde256c1",
+      "title": "The Ultimate Lie",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-ultimate-lie",
+      "has_reactions": false
+    },
+    {
+      "id": "e9235de3-aed6-4c0b-8c82-8899587b735d",
+      "title": "Private Parts",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "private-parts",
+      "has_reactions": false
+    },
+    {
+      "id": "142bb714-e240-482b-8d37-2ac95b94f60d",
+      "title": "Breaking the Surface: The Greg Louganis Story",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "breaking-the-surface-the-greg-louganis-story",
+      "has_reactions": false
+    },
+    {
+      "id": "2cfee7a2-2121-46ba-8398-6288bc0bb51a",
+      "title": "Indiscretion of an American Wife",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "indiscretion-of-an-american-wife",
+      "has_reactions": false
+    },
+    {
+      "id": "fcfe36f3-d3f0-41ff-a658-981b730680e3",
+      "title": "Sleeping Dogs Lie",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "sleeping-dogs-lie",
+      "has_reactions": false
+    },
+    {
+      "id": "69df57c5-c329-4ae5-a749-60f79691be4c",
+      "title": "The Art of War",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-war",
+      "has_reactions": false
+    },
+    {
+      "id": "8eacdb5f-ba16-4417-bad5-deed789db8f9",
+      "title": "Enlisted: The Story of 'M*A*S*H'",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "enlisted-the-story-of-m-a-s-h",
+      "has_reactions": false
+    },
+    {
+      "id": "e75d1eb3-b955-42cb-8648-880329fc243c",
+      "title": "The Day Reagan Was Shot",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-day-reagan-was-shot",
+      "has_reactions": false
+    },
+    {
+      "id": "047750bf-5a66-4016-9824-a185405e3acd",
+      "title": "Tart",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "tart",
+      "has_reactions": false
+    },
+    {
+      "id": "919e686c-f5a0-4329-9168-9e358710e05c",
+      "title": "Live from Baghdad",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "live-from-baghdad",
+      "has_reactions": false
+    },
+    {
+      "id": "38663f68-ccd4-45dd-bec0-bbd319aad9ba",
+      "title": "The Transcontinental Railroad",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "the-transcontinental-railroad",
+      "has_reactions": false
+    },
+    {
+      "id": "a806ee3b-c316-4d7d-9a2c-4ace4ad14228",
+      "title": "Footsteps",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "footsteps",
+      "has_reactions": false
+    },
+    {
+      "id": "1d119dc1-b9be-46a1-9e8b-be3717c7642b",
+      "title": "H2O",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "h2o",
+      "has_reactions": false
+    },
+    {
+      "id": "96574aba-cab0-496f-8ae0-cc6faf5de06c",
+      "title": "Tricks",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "tricks",
+      "has_reactions": false
+    },
+    {
+      "id": "1c43741b-4b1c-49e5-aa71-18cf930e5c47",
+      "title": "Childstar",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "childstar",
+      "has_reactions": false
+    },
+    {
+      "id": "b21f2003-21f6-4209-bd1f-4178322c3054",
+      "title": "Silver City",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "silver-city",
+      "has_reactions": false
+    },
+    {
+      "id": "0398dd95-e685-427b-bdab-527fd974e30c",
+      "title": "The Rise & Fall of Penn Station",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-rise-fall-of-penn-station",
+      "has_reactions": false
+    },
+    {
+      "id": "11525ee8-79fc-4ea4-b0d6-cb5e38650866",
+      "title": "Mayday",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "mayday",
+      "has_reactions": false
+    },
+    {
+      "id": "c8b8e5b8-aac4-456f-8626-a6bacec78760",
+      "title": "X-Men: The Last Stand",
+      "release_year": 2006,
+      "studio_label": "The Donners' Company",
+      "slug": "x-men-the-last-stand",
+      "has_reactions": true
+    },
+    {
+      "id": "4cea8544-5647-45fc-9fc9-272c7acc18e5",
+      "title": "Playing House",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "playing-house",
+      "has_reactions": false
+    },
+    {
+      "id": "50f1c2ce-121a-477b-b2e6-ca9db8b6f723",
+      "title": "The Wind in the Willows",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-wind-in-the-willows",
+      "has_reactions": false
+    },
+    {
+      "id": "44237af9-e2ba-40cd-a142-bb2f3e7fa885",
+      "title": "Jesse James",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "jesse-james",
+      "has_reactions": false
+    },
+    {
+      "id": "055b05ac-fd15-4f2e-a011-69a5fc210713",
+      "title": "Away from Her",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "away-from-her",
+      "has_reactions": false
+    },
+    {
+      "id": "5d124f82-6e0e-48ac-be75-125db59c45b0",
+      "title": "Kit Carson",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "kit-carson",
+      "has_reactions": false
+    },
+    {
+      "id": "d73ece51-5ea4-4daa-ba9a-9ceda7852aa9",
+      "title": "Depression: Out of the Shadows",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "depression-out-of-the-shadows",
+      "has_reactions": false
+    },
+    {
+      "id": "280b8527-804c-4352-9939-763c189dc405",
+      "title": "According to Greta",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "according-to-greta",
+      "has_reactions": false
+    },
+    {
+      "id": "23fb6f44-9cd5-4261-83b5-cd14a5050d57",
+      "title": "Dinosaur Wars",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "dinosaur-wars",
+      "has_reactions": false
+    },
+    {
+      "id": "5cfa9be1-3e9f-4a92-a5ac-7cff0f32ec7f",
+      "title": "Triangle Fire",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "triangle-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "5e616aaf-ad75-44e5-9984-754993d7bff1",
+      "title": "Robert E. Lee",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "robert-e-lee",
+      "has_reactions": false
+    },
+    {
+      "id": "a19431b9-325b-47f4-9a8f-216b10bd347e",
+      "title": "Billy the Kid",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "billy-the-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "565aa22a-68c8-4591-b574-6001808b4e22",
+      "title": "Custer's Last Stand",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "custer-s-last-stand",
+      "has_reactions": false
+    },
+    {
+      "id": "3283d53a-29c1-4a2a-aa12-6b133e030e43",
+      "title": "White House Down",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "white-house-down",
+      "has_reactions": false
+    },
+    {
+      "id": "ffb9281e-c18c-4a10-acb9-733414a66f6b",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "butch-cassidy-and-the-sundance-kid",
+      "has_reactions": false
+    },
+    {
+      "id": "16a7e08f-299d-43a4-ab00-d8349af67237",
+      "title": "The Forgotten Plague",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-forgotten-plague",
+      "has_reactions": false
+    },
+    {
+      "id": "54227ed9-8de2-4992-9c80-abdd406b472a",
+      "title": "Space Men",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "space-men",
+      "has_reactions": false
+    },
+    {
+      "id": "a34ef430-9cb3-49fe-8254-12e98665e511",
+      "title": "Close Encounters with Vilmos Zsigmond",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "close-encounters-with-vilmos-zsigmond",
+      "has_reactions": false
+    },
+    {
+      "id": "d645ef80-96a4-4c59-a569-e42ee35b624d",
+      "title": "The Battle Of Chosin",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-battle-of-chosin",
+      "has_reactions": false
+    },
+    {
+      "id": "ea9ded4f-bacf-4b40-b762-e0a304005022",
+      "title": "The Race Underground",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-race-underground",
+      "has_reactions": false
+    },
+    {
+      "id": "37b27fd6-c9ad-4af7-9f24-75927bb27d70",
+      "title": "Indian Horse",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "indian-horse",
+      "has_reactions": false
+    },
+    {
+      "id": "b8da6a48-ed8a-4e2e-bd13-6c10854cffb5",
+      "title": "The Circus",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "the-circus",
+      "has_reactions": false
+    },
+    {
+      "id": "30fcf942-fcbe-44d5-a552-f82bcb38aa8a",
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "rolling-thunder-revue-a-bob-dylan-story-by-martin-scorsese",
+      "has_reactions": false
+    },
+    {
+      "id": "07d49a84-4523-4a0f-be82-b7b855b442e8",
+      "title": "The Man Who Tried to Feed the World",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "the-man-who-tried-to-feed-the-world",
+      "has_reactions": false
+    },
+    {
+      "id": "506e3bbe-3328-4540-98b1-274cf7fc218e",
+      "title": "Cruel, Usual, Necessary: The Passion of Silvio Narizzano",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "cruel-usual-necessary-the-passion-of-silvio-narizzano",
+      "has_reactions": false
+    },
+    {
+      "id": "f3a22d5c-a944-4548-9439-a8e532f18b59",
+      "title": "Evolutions: The Making of Phase IV",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "evolutions-the-making-of-phase-iv",
+      "has_reactions": false
+    }
+  ]
+}

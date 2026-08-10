@@ -1,0 +1,88 @@
+{
+  "id": "94f5a60e-b807-4300-b493-4833c3bc335e",
+  "name": "Paul Newman",
+  "slug": "paul-newman",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg",
+  "filmography": [
+    {
+      "id": "a76cf5fb-19eb-4107-8d9e-2f14600e381e",
+      "title": "Somebody Up There Likes Me",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "somebody-up-there-likes-me",
+      "has_reactions": false
+    },
+    {
+      "id": "7fcda3c9-e059-405a-81e5-58ea84d2e4a1",
+      "title": "Cool Hand Luke",
+      "release_year": 1967,
+      "studio_label": "Warner Bros.-Seven Arts",
+      "slug": "cool-hand-luke",
+      "has_reactions": true
+    },
+    {
+      "id": "45bba403-457a-4a6b-a05b-c450f4549bc2",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "release_year": 1969,
+      "studio_label": "Campanile Productions",
+      "slug": "butch-cassidy-and-the-sundance-kid",
+      "has_reactions": true
+    },
+    {
+      "id": "8f0b917f-2c89-436b-ac63-00b5494bb04f",
+      "title": "The Sting",
+      "release_year": 1973,
+      "studio_label": "Universal Pictures",
+      "slug": "the-sting",
+      "has_reactions": true
+    },
+    {
+      "id": "b526ab44-5115-42bb-9781-d008d9df633d",
+      "title": "The Hudsucker Proxy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "the-hudsucker-proxy",
+      "has_reactions": false
+    },
+    {
+      "id": "9dd441f6-4daa-4a63-92cb-9df117f16927",
+      "title": "Road to Perdition",
+      "release_year": 2002,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "road-to-perdition",
+      "has_reactions": true
+    },
+    {
+      "id": "c8e27c9a-b2d6-4bf2-b61f-cedee8fde5fc",
+      "title": "Cars",
+      "release_year": 2006,
+      "studio_label": "Pixar",
+      "slug": "cars",
+      "has_reactions": true
+    },
+    {
+      "id": "e6cbaf58-d148-4f4e-a580-801f610874bc",
+      "title": "Geared-Up",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "geared-up",
+      "has_reactions": false
+    },
+    {
+      "id": "4cff62a4-91e2-42ad-86ba-1c237fcc7a23",
+      "title": "Mater and the Ghostlight",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "mater-and-the-ghostlight",
+      "has_reactions": false
+    },
+    {
+      "id": "ba1d4240-32ad-4d54-b0a6-8a660c5fba19",
+      "title": "Cars 3",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "cars-3",
+      "has_reactions": false
+    }
+  ]
+}

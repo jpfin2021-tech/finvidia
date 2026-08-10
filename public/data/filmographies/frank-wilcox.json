@@ -1,0 +1,536 @@
+{
+  "id": "ea94a1f1-1e43-4001-bcad-344cdcc7f706",
+  "name": "Frank Wilcox",
+  "slug": "frank-wilcox",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/hlqDTFrYD0l91GhwDaepxaZ2euc.jpg",
+  "filmography": [
+    {
+      "id": "5e71c75e-2831-4675-ba8d-452644cf74c5",
+      "title": "Postal Inspector",
+      "release_year": 1936,
+      "studio_label": "\u2014",
+      "slug": "postal-inspector",
+      "has_reactions": false
+    },
+    {
+      "id": "1745d23e-6308-4cad-92af-ecc6cc3bb6b3",
+      "title": "The Monroe Doctrine",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "the-monroe-doctrine",
+      "has_reactions": false
+    },
+    {
+      "id": "ae04c67b-cd3b-4ffb-b8b8-065d0687f1c4",
+      "title": "Old Hickory",
+      "release_year": 1939,
+      "studio_label": "\u2014",
+      "slug": "old-hickory",
+      "has_reactions": false
+    },
+    {
+      "id": "6c485a4b-f5a0-4db9-9b38-e753c2f9bb33",
+      "title": "Murder in the Air",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-air",
+      "has_reactions": false
+    },
+    {
+      "id": "237566dc-6402-44e5-ae1d-10c689f5a801",
+      "title": "Virginia City",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "virginia-city",
+      "has_reactions": false
+    },
+    {
+      "id": "c30939fe-86d2-4377-b038-28d856468f3c",
+      "title": "Santa Fe Trail",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "santa-fe-trail",
+      "has_reactions": false
+    },
+    {
+      "id": "f449f0cd-58d1-4736-a669-3de064efb9c6",
+      "title": "'Til We Meet Again",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "til-we-meet-again",
+      "has_reactions": false
+    },
+    {
+      "id": "1afc3c06-6980-4400-a608-3344bb00db0f",
+      "title": "Calling Philo Vance",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "calling-philo-vance",
+      "has_reactions": false
+    },
+    {
+      "id": "6882feae-7dca-47e5-bfe0-2114c7c332e2",
+      "title": "Gambling on the High Seas",
+      "release_year": 1940,
+      "studio_label": "\u2014",
+      "slug": "gambling-on-the-high-seas",
+      "has_reactions": false
+    },
+    {
+      "id": "4882dbd7-9f30-48da-93a8-3e4063b0db79",
+      "title": "The Wagons Roll at Night",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-wagons-roll-at-night",
+      "has_reactions": false
+    },
+    {
+      "id": "48e3bce9-bbfd-4a97-a6fe-07c50acc8a4e",
+      "title": "The Tanks Are Coming",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "the-tanks-are-coming",
+      "has_reactions": false
+    },
+    {
+      "id": "3b941157-1807-4a9b-b2b7-40706d10d20c",
+      "title": "They Died with Their Boots On",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "they-died-with-their-boots-on",
+      "has_reactions": false
+    },
+    {
+      "id": "8ddc2d0e-a478-4f1f-91ea-4bf91d221af3",
+      "title": "Affectionately Yours",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "affectionately-yours",
+      "has_reactions": false
+    },
+    {
+      "id": "1350e6d2-3bab-4c0c-91aa-3c978a8284be",
+      "title": "A Shot in the Dark",
+      "release_year": 1941,
+      "studio_label": "\u2014",
+      "slug": "a-shot-in-the-dark",
+      "has_reactions": false
+    },
+    {
+      "id": "4e80c7f0-d5b0-4d98-a59d-ec78ee122c2f",
+      "title": "Across the Pacific",
+      "release_year": 1942,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "across-the-pacific",
+      "has_reactions": false
+    },
+    {
+      "id": "335a767b-d95c-4b33-aed9-d3675e37f62c",
+      "title": "The Daughter of Rosie O'Grady",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-daughter-of-rosie-o-grady",
+      "has_reactions": false
+    },
+    {
+      "id": "dc09dad6-ff39-46c9-a873-a93a3490961a",
+      "title": "Escape from Crime",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "escape-from-crime",
+      "has_reactions": false
+    },
+    {
+      "id": "fbd88b72-da8c-4db4-b7ef-20f8bac4426b",
+      "title": "Secret Enemies",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "secret-enemies",
+      "has_reactions": false
+    },
+    {
+      "id": "e79308ce-1d72-44d6-95fa-79a67bf32471",
+      "title": "Lady Gangster",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "lady-gangster",
+      "has_reactions": false
+    },
+    {
+      "id": "d6ea097d-3666-48dd-b1b5-b4ac6e243e69",
+      "title": "The Hidden Hand",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "the-hidden-hand",
+      "has_reactions": false
+    },
+    {
+      "id": "18a65f85-d25e-499e-9cda-7b63d2ec0e89",
+      "title": "Murder in the Big House",
+      "release_year": 1942,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-big-house",
+      "has_reactions": false
+    },
+    {
+      "id": "46f02480-66b4-4a25-9a0b-87bb668c93f0",
+      "title": "The North Star",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "the-north-star",
+      "has_reactions": false
+    },
+    {
+      "id": "04c5742d-b366-41b9-a39a-94bde0bc28bf",
+      "title": "Truck Busters",
+      "release_year": 1943,
+      "studio_label": "\u2014",
+      "slug": "truck-busters",
+      "has_reactions": false
+    },
+    {
+      "id": "8a4bb708-5dc5-410c-8673-1353b2808958",
+      "title": "Four Jills in a Jeep",
+      "release_year": 1944,
+      "studio_label": "\u2014",
+      "slug": "four-jills-in-a-jeep",
+      "has_reactions": false
+    },
+    {
+      "id": "28a37730-0f78-4d61-a857-93ef2f668b42",
+      "title": "Conflict",
+      "release_year": 1945,
+      "studio_label": "\u2014",
+      "slug": "conflict",
+      "has_reactions": false
+    },
+    {
+      "id": "dd8c8218-9d90-469c-926b-ac735618a107",
+      "title": "Night Editor",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "night-editor",
+      "has_reactions": false
+    },
+    {
+      "id": "9983f7fb-c417-438e-8812-1020f4f0816b",
+      "title": "The Devil's Mask",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "the-devil-s-mask",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b8312b-4510-421f-971c-b295aadf6e0b",
+      "title": "Strange Triangle",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "strange-triangle",
+      "has_reactions": false
+    },
+    {
+      "id": "2a13a5cd-634a-4aad-b3c4-d251a6b233ed",
+      "title": "Without Reservations",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "without-reservations",
+      "has_reactions": false
+    },
+    {
+      "id": "d695422b-6a49-482d-8904-4c015347f6ad",
+      "title": "Dead Reckoning",
+      "release_year": 1946,
+      "studio_label": "\u2014",
+      "slug": "dead-reckoning",
+      "has_reactions": false
+    },
+    {
+      "id": "04dfaacf-8e9e-4ca8-bb23-78d05b271525",
+      "title": "Philo Vance Returns",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "philo-vance-returns",
+      "has_reactions": false
+    },
+    {
+      "id": "7c9d8766-c234-41fb-8726-992ae9e3e7a4",
+      "title": "Always Together",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "always-together",
+      "has_reactions": false
+    },
+    {
+      "id": "a792dec4-66c2-4b42-b2bb-90aaead2c51d",
+      "title": "Philo Vance's Secret Mission",
+      "release_year": 1947,
+      "studio_label": "\u2014",
+      "slug": "philo-vance-s-secret-mission",
+      "has_reactions": false
+    },
+    {
+      "id": "a5fb3914-b063-480c-a403-e96a779c6f1e",
+      "title": "Caged Fury",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "caged-fury",
+      "has_reactions": false
+    },
+    {
+      "id": "2e73839b-a9c4-4ffb-8ee9-464770de1afd",
+      "title": "The Return of October",
+      "release_year": 1948,
+      "studio_label": "\u2014",
+      "slug": "the-return-of-october",
+      "has_reactions": false
+    },
+    {
+      "id": "4b0ab0c4-7ad9-4ec8-aa9b-c0ed7544703e",
+      "title": "House of Strangers",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "house-of-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "f76daedb-939a-40bb-8b1d-ed56cb6ca2b1",
+      "title": "Slightly French",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "slightly-french",
+      "has_reactions": false
+    },
+    {
+      "id": "d9fa6b99-91ea-4998-9f49-f58ef5c73e86",
+      "title": "The Clay Pigeon",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-clay-pigeon",
+      "has_reactions": false
+    },
+    {
+      "id": "a8dc8bac-20c7-486d-8906-1533bd56aaa8",
+      "title": "All the King's Men",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "all-the-king-s-men",
+      "has_reactions": false
+    },
+    {
+      "id": "d79a11dd-b6e1-42c4-a562-bc795669a5ab",
+      "title": "The Mysterious Desperado",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "the-mysterious-desperado",
+      "has_reactions": false
+    },
+    {
+      "id": "3fca8c19-53f5-4694-9ff0-5c8de0feb821",
+      "title": "Masked Raiders",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "masked-raiders",
+      "has_reactions": false
+    },
+    {
+      "id": "81c181a4-5513-4615-b021-7f3a2805afe1",
+      "title": "Samson and Delilah",
+      "release_year": 1949,
+      "studio_label": "\u2014",
+      "slug": "samson-and-delilah",
+      "has_reactions": false
+    },
+    {
+      "id": "4ee81a40-0c98-46fe-8924-468acb232add",
+      "title": "Gambling House",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "gambling-house",
+      "has_reactions": false
+    },
+    {
+      "id": "10a6bb40-e0a9-4248-94eb-607daa327c29",
+      "title": "Key to the City",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "key-to-the-city",
+      "has_reactions": false
+    },
+    {
+      "id": "23696b82-1112-454a-b2d2-4cf60f184e8d",
+      "title": "The Fuller Brush Girl",
+      "release_year": 1950,
+      "studio_label": "\u2014",
+      "slug": "the-fuller-brush-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "ce956906-2e8f-4ee8-b640-f09634073cc5",
+      "title": "Cavalry Scout",
+      "release_year": 1951,
+      "studio_label": "\u2014",
+      "slug": "cavalry-scout",
+      "has_reactions": false
+    },
+    {
+      "id": "d5fdbe9e-32da-4d03-9eb6-62dcbc920250",
+      "title": "Rainbow 'Round My Shoulder",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "rainbow-round-my-shoulder",
+      "has_reactions": false
+    },
+    {
+      "id": "793409af-e5e6-4852-b8e3-35079ed331b5",
+      "title": "Ruby Gentry",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "ruby-gentry",
+      "has_reactions": false
+    },
+    {
+      "id": "50220859-634c-4eca-88ec-d8e3e3cde7e0",
+      "title": "The Duel at Silver Creek",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-duel-at-silver-creek",
+      "has_reactions": false
+    },
+    {
+      "id": "d07f8611-e6b8-484c-89a8-6607ae40d5e2",
+      "title": "The Raiders",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "the-raiders",
+      "has_reactions": false
+    },
+    {
+      "id": "f852bbb0-ecf3-44ee-ad14-a5e6518fe76e",
+      "title": "Trail Guide",
+      "release_year": 1952,
+      "studio_label": "\u2014",
+      "slug": "trail-guide",
+      "has_reactions": false
+    },
+    {
+      "id": "998c19f3-a6e1-4d43-a5ba-985aa26e0011",
+      "title": "Pony Express",
+      "release_year": 1953,
+      "studio_label": "\u2014",
+      "slug": "pony-express",
+      "has_reactions": false
+    },
+    {
+      "id": "cb0849ed-27f0-42ab-a2c5-0d82f9668152",
+      "title": "Dangerous Mission",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "dangerous-mission",
+      "has_reactions": false
+    },
+    {
+      "id": "48ec6d05-81c8-41ac-b5b1-42b90bc36304",
+      "title": "A Star Is Born",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "a-star-is-born",
+      "has_reactions": false
+    },
+    {
+      "id": "ba8fc651-9a95-4796-858f-cc16d63dc516",
+      "title": "Masterson of Kansas",
+      "release_year": 1954,
+      "studio_label": "\u2014",
+      "slug": "masterson-of-kansas",
+      "has_reactions": false
+    },
+    {
+      "id": "7f4ea844-94ed-41e7-96d5-157db410978d",
+      "title": "Carolina Cannonball",
+      "release_year": 1955,
+      "studio_label": "\u2014",
+      "slug": "carolina-cannonball",
+      "has_reactions": false
+    },
+    {
+      "id": "b937ce82-4300-4539-b807-ed9042957a58",
+      "title": "Dance with Me, Henry",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "dance-with-me-henry",
+      "has_reactions": false
+    },
+    {
+      "id": "b0ee1ba0-f9c7-45e5-910a-58f5d989c502",
+      "title": "A Strange Adventure",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "a-strange-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "e426006b-279d-41b0-bf7a-4b30115ba7fc",
+      "title": "Earth vs. the Flying Saucers",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "earth-vs-the-flying-saucers",
+      "has_reactions": false
+    },
+    {
+      "id": "6496a2c4-e01c-4767-ad4b-808ac65b1b1c",
+      "title": "Hollywood or Bust",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "hollywood-or-bust",
+      "has_reactions": false
+    },
+    {
+      "id": "1c8ced11-c41c-4fb6-8647-a55255b24f6d",
+      "title": "Meet Me in Las Vegas",
+      "release_year": 1956,
+      "studio_label": "\u2014",
+      "slug": "meet-me-in-las-vegas",
+      "has_reactions": false
+    },
+    {
+      "id": "315d9320-b3cf-4218-9539-bed36ad1d796",
+      "title": "Kelly and Me",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "kelly-and-me",
+      "has_reactions": false
+    },
+    {
+      "id": "fe333d50-889e-45bb-90c0-d2163abc0009",
+      "title": "Hell's Crossroads",
+      "release_year": 1957,
+      "studio_label": "\u2014",
+      "slug": "hell-s-crossroads",
+      "has_reactions": false
+    },
+    {
+      "id": "ff75fdc7-8d18-4520-96b8-bd9eab53805b",
+      "title": "Johnny Rocco",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "johnny-rocco",
+      "has_reactions": false
+    },
+    {
+      "id": "81c0061c-6074-4a07-aadf-e014b6a32bf1",
+      "title": "No Time at All",
+      "release_year": 1958,
+      "studio_label": "\u2014",
+      "slug": "no-time-at-all",
+      "has_reactions": false
+    },
+    {
+      "id": "4a89b043-79df-4d2a-933e-b7998859904a",
+      "title": "North by Northwest",
+      "release_year": 1959,
+      "studio_label": "Metro-Goldwyn-Mayer",
+      "slug": "north-by-northwest",
+      "has_reactions": true
+    }
+  ]
+}

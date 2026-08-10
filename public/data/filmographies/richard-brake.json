@@ -1,0 +1,464 @@
+{
+  "id": "c1e3ea50-832e-4512-a693-04796bdfa61b",
+  "name": "Richard Brake",
+  "slug": "richard-brake",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+  "filmography": [
+    {
+      "id": "692b0dd8-5eae-405f-bb2d-a267ef99c47b",
+      "title": "Poohniverse: Monsters Assemble",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "poohniverse-monsters-assemble",
+      "has_reactions": false
+    },
+    {
+      "id": "6932c82d-49bf-42dd-919e-44b3a37fb915",
+      "title": "How to Survive the Wild",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "how-to-survive-the-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "d4e01395-4ad4-4d7d-9fb4-659e06d4b70a",
+      "title": "Samodiva",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "samodiva",
+      "has_reactions": false
+    },
+    {
+      "id": "c3a757aa-8542-4502-8bb0-2ff3d35e89ff",
+      "title": "Ascendant",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "ascendant",
+      "has_reactions": false
+    },
+    {
+      "id": "a7c7d8f0-fcb3-4219-b92b-f2482aa210ab",
+      "title": "Subterfuge",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "subterfuge",
+      "has_reactions": false
+    },
+    {
+      "id": "5a4e734d-beb4-452a-9f9d-897f8be2c8e4",
+      "title": "Virtual Terror",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "virtual-terror",
+      "has_reactions": false
+    },
+    {
+      "id": "0a80f148-eb20-44c7-ada0-b25c06d71617",
+      "title": "Cold Mountain",
+      "release_year": 2003,
+      "studio_label": "Miramax",
+      "slug": "cold-mountain",
+      "has_reactions": true
+    },
+    {
+      "id": "cbfb04b6-0301-45a9-8812-7c2ac5ba0121",
+      "title": "Doom",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "doom",
+      "has_reactions": false
+    },
+    {
+      "id": "e0a426d0-fa8e-4560-8775-d09e0891fa7d",
+      "title": "Soul Searcher",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "soul-searcher",
+      "has_reactions": false
+    },
+    {
+      "id": "e7f46e51-fafd-406b-ae43-44238aa4a874",
+      "title": "Batman Begins",
+      "release_year": 2005,
+      "studio_label": "Warner Bros. Pictures",
+      "slug": "batman-begins",
+      "has_reactions": true
+    },
+    {
+      "id": "5d323eb8-08ea-4451-93fe-fd181c04a899",
+      "title": "Munich",
+      "release_year": 2005,
+      "studio_label": "Universal Pictures",
+      "slug": "munich",
+      "has_reactions": true
+    },
+    {
+      "id": "75ee3796-7035-4881-b086-e9247b8f4bd5",
+      "title": "The Black Dahlia",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-black-dahlia",
+      "has_reactions": false
+    },
+    {
+      "id": "4eee4a21-78b0-40fa-a129-614ef25c057b",
+      "title": "Hannibal Rising",
+      "release_year": 2007,
+      "studio_label": "Quinta Communications",
+      "slug": "hannibal-rising",
+      "has_reactions": true
+    },
+    {
+      "id": "1935b096-d250-4dd5-a6ef-5ec5b6123fec",
+      "title": "The Tonto Woman",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-tonto-woman",
+      "has_reactions": false
+    },
+    {
+      "id": "09042b1c-d420-4fdf-ae31-2e364b0d80a6",
+      "title": "Halloween II",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "halloween-ii",
+      "has_reactions": false
+    },
+    {
+      "id": "b1f580e2-5926-4fc5-baa4-25fe1d0d6eb7",
+      "title": "Perkins' 14",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "perkins-14",
+      "has_reactions": false
+    },
+    {
+      "id": "7b6e983f-5138-4680-b0da-21d68ec26daa",
+      "title": "Legacy",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "legacy",
+      "has_reactions": false
+    },
+    {
+      "id": "371182e8-1a06-4a9a-ba01-37eb9bb34b9a",
+      "title": "Good Day for It",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "good-day-for-it",
+      "has_reactions": false
+    },
+    {
+      "id": "53ba966f-fa7b-44f3-ba9e-b18974598de6",
+      "title": "Detention",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "detention",
+      "has_reactions": false
+    },
+    {
+      "id": "e8539736-bb0f-4fd5-95ef-a412b247f1b6",
+      "title": "Asylum Blackout",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "asylum-blackout",
+      "has_reactions": false
+    },
+    {
+      "id": "38fcc8b7-a325-4fc5-9ed1-957c11a45e94",
+      "title": "Thor: The Dark World",
+      "release_year": 2013,
+      "studio_label": "Marvel Studios",
+      "slug": "thor-the-dark-world",
+      "has_reactions": true
+    },
+    {
+      "id": "f9094e72-f394-499d-8b59-70c5930cc6d7",
+      "title": "The Numbers Station",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "the-numbers-station",
+      "has_reactions": false
+    },
+    {
+      "id": "80e41a43-f802-49c8-8ab2-9273f1858232",
+      "title": "Set Fire to the Stars",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "set-fire-to-the-stars",
+      "has_reactions": false
+    },
+    {
+      "id": "80a725f8-fd3e-4044-9c59-5530ea422441",
+      "title": "The Chameleon",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-chameleon",
+      "has_reactions": false
+    },
+    {
+      "id": "22860258-7003-4ed0-948f-85e49bc98884",
+      "title": "Kingsman: The Secret Service",
+      "release_year": 2015,
+      "studio_label": "20th Century Fox",
+      "slug": "kingsman-the-secret-service",
+      "has_reactions": true
+    },
+    {
+      "id": "ed7fa8a0-c1ad-4ff2-b4ab-88f02586c08a",
+      "title": "The Cannibal in the Jungle",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "the-cannibal-in-the-jungle",
+      "has_reactions": false
+    },
+    {
+      "id": "8fb0035c-9a08-4329-850c-71b1e902cc06",
+      "title": "31",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "31",
+      "has_reactions": false
+    },
+    {
+      "id": "63c66a4d-5768-4a31-b867-ff104cc7709a",
+      "title": "Ana",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "ana",
+      "has_reactions": false
+    },
+    {
+      "id": "21b6b202-2235-471b-b84f-049d19e73154",
+      "title": "Bitter Harvest",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "bitter-harvest",
+      "has_reactions": false
+    },
+    {
+      "id": "f2082e29-3451-4d90-bc17-337fe9940245",
+      "title": "The Death of Stalin",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "the-death-of-stalin",
+      "has_reactions": false
+    },
+    {
+      "id": "40f24a94-9804-4cbf-b84f-0bcf3afc0b22",
+      "title": "Mandy",
+      "release_year": 2018,
+      "studio_label": "SpectreVision",
+      "slug": "mandy",
+      "has_reactions": true
+    },
+    {
+      "id": "fe07bd9e-acdf-41b9-bc09-8a60fd662eea",
+      "title": "3 from Hell",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "3-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "8d0a55b8-7083-41ab-bbfc-db984b7d61ee",
+      "title": "Feedback",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "feedback",
+      "has_reactions": false
+    },
+    {
+      "id": "1053afac-8bc4-4cbb-9f1e-29d304b525d5",
+      "title": "The Dare",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "the-dare",
+      "has_reactions": false
+    },
+    {
+      "id": "2034612c-f587-44fd-842a-1ccfc85b9c3f",
+      "title": "To Hell and Back: The Making of 3 From Hell",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "to-hell-and-back-the-making-of-3-from-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "145d7180-c3eb-46ca-89e1-d392e6ebb77f",
+      "title": "Perfect Skin",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "perfect-skin",
+      "has_reactions": false
+    },
+    {
+      "id": "2b2ba9e1-4523-45db-9db7-a5bae27c140e",
+      "title": "Arthur & Merlin: Knights of Camelot",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "arthur-merlin-knights-of-camelot",
+      "has_reactions": false
+    },
+    {
+      "id": "c91448a2-96d6-4c01-a7c9-e26eade26927",
+      "title": "Tremors: Shrieker Island",
+      "release_year": 2020,
+      "studio_label": "\u2014",
+      "slug": "tremors-shrieker-island",
+      "has_reactions": false
+    },
+    {
+      "id": "9e5a7705-c904-4dda-8349-c367f7d36aa3",
+      "title": "Bingo Hell",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "bingo-hell",
+      "has_reactions": false
+    },
+    {
+      "id": "bb46b48b-6a4d-40e4-977b-4edaacff15fb",
+      "title": "Barbarian",
+      "release_year": 2022,
+      "studio_label": "BoulderLight Pictures",
+      "slug": "barbarian",
+      "has_reactions": true
+    },
+    {
+      "id": "b082abe9-a42b-400e-b1f2-245bb4eeb979",
+      "title": "Vesper",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "vesper",
+      "has_reactions": false
+    },
+    {
+      "id": "de2215af-fd47-4a0f-a923-472689b79d4c",
+      "title": "R.I.P.D. 2: Rise of the Damned",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "r-i-p-d-2-rise-of-the-damned",
+      "has_reactions": false
+    },
+    {
+      "id": "055c4fff-5cf1-4d03-873b-b5b5a6129851",
+      "title": "The Munsters",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-munsters",
+      "has_reactions": false
+    },
+    {
+      "id": "63cc5340-df3a-4e8d-80e4-1c0a52a30a98",
+      "title": "The Munsters: Return to Mockingbird Lane",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-munsters-return-to-mockingbird-lane",
+      "has_reactions": false
+    },
+    {
+      "id": "b4960e9b-a4ed-4e13-af65-91f0cd672f71",
+      "title": "Offseason",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "offseason",
+      "has_reactions": false
+    },
+    {
+      "id": "2ace09c1-e9eb-4c6f-9e20-435dfc99120f",
+      "title": "Hammarskj\u00f6ld: Fight for Peace",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "hammarskj-ld-fight-for-peace",
+      "has_reactions": false
+    },
+    {
+      "id": "55af99c7-4435-4b7c-9e8e-e514d0739dd3",
+      "title": "The Strangers: Chapter 1",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-strangers-chapter-1",
+      "has_reactions": false
+    },
+    {
+      "id": "8d620c78-ab69-470b-8def-79a047f16b46",
+      "title": "The Last Stop in Yuma County",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-last-stop-in-yuma-county",
+      "has_reactions": false
+    },
+    {
+      "id": "5f70c271-8cfb-4f77-931b-277e16c5dd3c",
+      "title": "Lore",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "lore",
+      "has_reactions": false
+    },
+    {
+      "id": "86b46694-f15d-4363-b4c5-d8562e63c4fa",
+      "title": "The Strangers: Chapter 2",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "the-strangers-chapter-2",
+      "has_reactions": false
+    },
+    {
+      "id": "643df82b-d945-4e4f-b8a4-f5c90a0ca74a",
+      "title": "Sisu: Road to Revenge",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "sisu-road-to-revenge",
+      "has_reactions": false
+    },
+    {
+      "id": "77624380-76b7-40db-8f61-7a48131c602a",
+      "title": "Altered",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "altered",
+      "has_reactions": false
+    },
+    {
+      "id": "da416c76-8630-44ef-b751-ab33c1c04f7a",
+      "title": "Pinocchio: Unstrung",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "pinocchio-unstrung",
+      "has_reactions": false
+    },
+    {
+      "id": "17633548-3562-40f5-bc7a-bdc969555bf4",
+      "title": "Cold Storage",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "cold-storage",
+      "has_reactions": false
+    },
+    {
+      "id": "1be6ca04-cb77-4199-993d-5e0c6befebad",
+      "title": "Sell Your House",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "sell-your-house",
+      "has_reactions": false
+    },
+    {
+      "id": "e9cbc8b4-cf52-4f86-9216-f4d2b8b8c2ac",
+      "title": "The Strangers",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-strangers",
+      "has_reactions": false
+    },
+    {
+      "id": "49850f6a-2f18-4582-96ce-31ab1c872a92",
+      "title": "The Strangers: Chapter 3",
+      "release_year": 2026,
+      "studio_label": "\u2014",
+      "slug": "the-strangers-chapter-3",
+      "has_reactions": false
+    }
+  ]
+}

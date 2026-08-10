@@ -1,0 +1,584 @@
+{
+  "id": "f1080ae5-1396-47c8-ac7e-0d411416aa32",
+  "name": "Jim Cummings",
+  "slug": "jim-cummings",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
+  "filmography": [
+    {
+      "id": "29e84882-e6cd-414c-bfc7-340621ed252f",
+      "title": "Kingdom Chums - Little David's Adventure",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "kingdom-chums-little-david-s-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "029c42f4-ac57-4596-95f5-a2805208a27b",
+      "title": "The Treasure of the Golden Suns",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "the-treasure-of-the-golden-suns",
+      "has_reactions": false
+    },
+    {
+      "id": "5d5fce37-ede0-4cfe-9659-29e1a3663ce6",
+      "title": "Scooby-Doo! and the Reluctant Werewolf",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-and-the-reluctant-werewolf",
+      "has_reactions": false
+    },
+    {
+      "id": "e81996f0-5a9d-4f6b-91f9-be866363565c",
+      "title": "Chip 'n' Dale's Rescue Rangers to the Rescue",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-s-rescue-rangers-to-the-rescue",
+      "has_reactions": false
+    },
+    {
+      "id": "8ec843ab-c804-4b1a-8c5b-ac1aa3345b29",
+      "title": "Winnie The Pooh's ABC Of Me",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-s-abc-of-me",
+      "has_reactions": false
+    },
+    {
+      "id": "0f26de68-76d1-4ea1-afc1-ad484a8a92cb",
+      "title": "Talespin: Plunder & Lightning",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "talespin-plunder-lightning",
+      "has_reactions": false
+    },
+    {
+      "id": "eb4b4ffe-77e1-4b8b-8ff4-c15bcb978427",
+      "title": "Disney's Sing-Along Songs: Disneyland Fun",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "disney-s-sing-along-songs-disneyland-fun",
+      "has_reactions": false
+    },
+    {
+      "id": "60314498-6c1b-4cdd-8469-00f8e1665e52",
+      "title": "Cartoon All-Stars to the Rescue",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "cartoon-all-stars-to-the-rescue",
+      "has_reactions": false
+    },
+    {
+      "id": "1a13c75c-e9f9-40dd-b40f-0cee755b4ee2",
+      "title": "Aladdin",
+      "release_year": 1992,
+      "studio_label": "Walt Disney Feature Animation",
+      "slug": "aladdin",
+      "has_reactions": true
+    },
+    {
+      "id": "7af21075-b310-44b5-b5c4-b5ca4ea10d88",
+      "title": "Pinocchio",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "pinocchio",
+      "has_reactions": false
+    },
+    {
+      "id": "2f34749f-d053-4494-8e5b-b9168abf7e39",
+      "title": "The Lion King",
+      "release_year": 1994,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-lion-king",
+      "has_reactions": true
+    },
+    {
+      "id": "f34b1ab3-7bce-4e5b-a151-d04962a5ea5b",
+      "title": "Cabin Boy",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "cabin-boy",
+      "has_reactions": false
+    },
+    {
+      "id": "fa56be36-2e94-404f-a6e1-e59ee9ae7ab4",
+      "title": "Winnie the Pooh: Un-Valentine's Day",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-un-valentine-s-day",
+      "has_reactions": false
+    },
+    {
+      "id": "86668dc2-82a9-4d9e-a905-f34ddffd4170",
+      "title": "Winnie the Pooh: Frankenpooh",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-frankenpooh",
+      "has_reactions": false
+    },
+    {
+      "id": "f194916a-fe42-49ca-abaa-4c103016aec0",
+      "title": "Runaway Brain",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "runaway-brain",
+      "has_reactions": false
+    },
+    {
+      "id": "f54bd663-f6af-49de-95cc-b3e8d7079895",
+      "title": "A Goofy Movie",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "a-goofy-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "18fc13a8-e191-4a6b-8687-9b688f643649",
+      "title": "Mortal Kombat: The Journey Begins",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mortal-kombat-the-journey-begins",
+      "has_reactions": false
+    },
+    {
+      "id": "dd9b50f7-2997-41c3-ac19-55fe05b791f6",
+      "title": "Mickey's Fun Songs: Beach Party at Walt Disney World",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-fun-songs-beach-party-at-walt-disney-world",
+      "has_reactions": false
+    },
+    {
+      "id": "108bd3b5-3be7-470c-939a-d092c00109c9",
+      "title": "Winnie the Pooh: Spookable Pooh",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-spookable-pooh",
+      "has_reactions": false
+    },
+    {
+      "id": "09a5b7ad-a8c5-4a9e-a5d0-929f63bcf80a",
+      "title": "All Dogs Go to Heaven 2",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "all-dogs-go-to-heaven-2",
+      "has_reactions": false
+    },
+    {
+      "id": "768a038a-e7bc-44bc-9ab5-4639b2a9092c",
+      "title": "Jungle Cubs (Volume 1): Born to be Wild",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "jungle-cubs-volume-1-born-to-be-wild",
+      "has_reactions": false
+    },
+    {
+      "id": "72939d5c-bf37-409d-8dc3-bdb80cd0e4dc",
+      "title": "Siegfried & Roy: Masters of the Impossible",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "siegfried-roy-masters-of-the-impossible",
+      "has_reactions": false
+    },
+    {
+      "id": "eab4bbe3-a2aa-4821-a471-dbc5b559afa5",
+      "title": "Dining Out with Timon & Pumbaa",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "dining-out-with-timon-pumbaa",
+      "has_reactions": false
+    },
+    {
+      "id": "0b965081-f9b3-4284-9a51-a90ed569f45b",
+      "title": "The Hunchback of Notre Dame",
+      "release_year": 1996,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "the-hunchback-of-notre-dame",
+      "has_reactions": true
+    },
+    {
+      "id": "fe58862c-8d22-4789-b07b-3314b1f11ae4",
+      "title": "Adventures in Odyssey: Someone to Watch Over Me",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "adventures-in-odyssey-someone-to-watch-over-me",
+      "has_reactions": false
+    },
+    {
+      "id": "36fecb4a-bfbe-439c-ae99-53b0db4bcf22",
+      "title": "Around the World With Timon & Pumbaa",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "around-the-world-with-timon-pumbaa",
+      "has_reactions": false
+    },
+    {
+      "id": "f6fb11e6-e2ce-4845-b704-0a7883996548",
+      "title": "Disney\u2019s Sing-Along Songs: Let's Go To Disneyland Paris!",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "disney-s-sing-along-songs-let-s-go-to-disneyland-paris",
+      "has_reactions": false
+    },
+    {
+      "id": "e8763702-fd08-45c5-9b37-67fdb6b4f854",
+      "title": "Redux Riding Hood",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "redux-riding-hood",
+      "has_reactions": false
+    },
+    {
+      "id": "35be13ff-dbb6-4539-8a45-328a1706a5f2",
+      "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "pooh-s-grand-adventure-the-search-for-christopher-robin",
+      "has_reactions": false
+    },
+    {
+      "id": "cbf8b47a-66b3-4d67-a8c5-92da9b29f2e4",
+      "title": "Pocahontas II: Journey to a New World",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "pocahontas-ii-journey-to-a-new-world",
+      "has_reactions": false
+    },
+    {
+      "id": "c7c219d7-9e67-4c2a-9c48-4496e5808d47",
+      "title": "Scooby-Doo on Zombie Island",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "scooby-doo-on-zombie-island",
+      "has_reactions": false
+    },
+    {
+      "id": "6c6255a2-defa-4f13-94f9-335fe0385959",
+      "title": "The Lion King II: Simba's Pride",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-ii-simba-s-pride",
+      "has_reactions": false
+    },
+    {
+      "id": "c147ed3f-40fc-4fa1-ab00-126a4fa29a9c",
+      "title": "The Wacky Adventures of Ronald McDonald: The Visitors from Outer Space",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-wacky-adventures-of-ronald-mcdonald-the-visitors-from-outer-space",
+      "has_reactions": false
+    },
+    {
+      "id": "af35869b-9e67-4fe1-80fe-6747e1a3fc6c",
+      "title": "Winnie the Pooh: Seasons of Giving",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-seasons-of-giving",
+      "has_reactions": false
+    },
+    {
+      "id": "b1f2728b-067d-4630-a213-1cfbd4d94a86",
+      "title": "The Road to El Dorado",
+      "release_year": 2000,
+      "studio_label": "DreamWorks Pictures",
+      "slug": "the-road-to-el-dorado",
+      "has_reactions": true
+    },
+    {
+      "id": "e6d5f73a-fd37-4e32-9468-84ff854ad309",
+      "title": "The Land Before Time VII: The Stone of Cold Fire",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-land-before-time-vii-the-stone-of-cold-fire",
+      "has_reactions": false
+    },
+    {
+      "id": "58042f6a-8ab3-4c0e-9682-5d320360c4b4",
+      "title": "Aladdin and the Adventure of All Time",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "aladdin-and-the-adventure-of-all-time",
+      "has_reactions": false
+    },
+    {
+      "id": "4c31bb87-f224-4bfc-b70b-edf1d6177ed2",
+      "title": "An Extremely Goofy Movie",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "an-extremely-goofy-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "4aec57a8-81c5-44a5-926c-1af6ed6d03cb",
+      "title": "Winnie the Pooh: Spookable Fun",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-spookable-fun",
+      "has_reactions": false
+    },
+    {
+      "id": "3ffe6e0d-ec3d-451b-9f53-2119f7aff40c",
+      "title": "The Life & Adventures of Santa Claus",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "the-life-adventures-of-santa-claus",
+      "has_reactions": false
+    },
+    {
+      "id": "b1ef2f1a-0e7e-4956-9813-49329c1a55ca",
+      "title": "Shrek",
+      "release_year": 2001,
+      "studio_label": "Pacific Data Images",
+      "slug": "shrek",
+      "has_reactions": true
+    },
+    {
+      "id": "0d578a4d-1ccb-4122-aac0-d017da160404",
+      "title": "Atlantis: The Lost Empire",
+      "release_year": 2001,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "atlantis-the-lost-empire",
+      "has_reactions": true
+    },
+    {
+      "id": "1c27bf5d-0d67-4c97-a228-332b0cfb44a4",
+      "title": "Winnie the Pooh: A Very Merry Pooh Year",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-a-very-merry-pooh-year",
+      "has_reactions": false
+    },
+    {
+      "id": "f464155d-d90a-4898-8bdf-e4ab3cc559c0",
+      "title": "Return to Never Land",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "return-to-never-land",
+      "has_reactions": false
+    },
+    {
+      "id": "1ae06ef2-1c17-4b2d-910a-c5ee132a7723",
+      "title": "Tom and Jerry: The Magic Ring",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "tom-and-jerry-the-magic-ring",
+      "has_reactions": false
+    },
+    {
+      "id": "35b1a73c-e7cd-4e8f-bdd7-4b8135256831",
+      "title": "Mickey's House of Villains",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-house-of-villains",
+      "has_reactions": false
+    },
+    {
+      "id": "65cbcd22-b56f-4d3a-9e04-058ba647444e",
+      "title": "101 Dalmatians II: Patch's London Adventure",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "101-dalmatians-ii-patch-s-london-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "569f5db1-73a0-4a8d-bc77-5e3654de17b5",
+      "title": "Piglet's Big Movie",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "piglet-s-big-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "b5da2f0a-c40c-4931-893d-2d72ee3566f1",
+      "title": "Mickey, Donald, Goofy: The Three Musketeers",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "mickey-donald-goofy-the-three-musketeers",
+      "has_reactions": false
+    },
+    {
+      "id": "e09be016-1f8d-4c42-bcb9-a3ba1a20f427",
+      "title": "The Lion King 1\u00bd",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-lion-king-1",
+      "has_reactions": false
+    },
+    {
+      "id": "84b83c65-3da7-44fd-9b29-f0ceb913dff5",
+      "title": "Winnie the Pooh: 123's",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh-123-s",
+      "has_reactions": false
+    },
+    {
+      "id": "4a7931fc-4860-4716-b426-9b7c98f1fea7",
+      "title": "Pooh's Heffalump Movie",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "pooh-s-heffalump-movie",
+      "has_reactions": false
+    },
+    {
+      "id": "f7b1d88d-9fd0-49aa-819b-7082f6628d44",
+      "title": "The Fox and the Hound 2",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-fox-and-the-hound-2",
+      "has_reactions": false
+    },
+    {
+      "id": "b42ff5af-ea30-4574-9912-0a2310981c72",
+      "title": "Hellboy Animated: Blood and Iron",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "hellboy-animated-blood-and-iron",
+      "has_reactions": false
+    },
+    {
+      "id": "cb6b2ea7-b65e-4e09-83f6-a2793b89f1b8",
+      "title": "Dead Space: Downfall",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "dead-space-downfall",
+      "has_reactions": false
+    },
+    {
+      "id": "7df5c4fa-793b-41c9-abec-89a318bb6ca1",
+      "title": "The Powerpuff Girls Rule!!!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-powerpuff-girls-rule",
+      "has_reactions": false
+    },
+    {
+      "id": "97b4223c-5109-4132-a12d-74a650c78cd9",
+      "title": "The Princess and the Frog",
+      "release_year": 2009,
+      "studio_label": "Walt Disney Animation Studios",
+      "slug": "the-princess-and-the-frog",
+      "has_reactions": true
+    },
+    {
+      "id": "fcf744b0-2443-44cc-b3de-b37975a3f451",
+      "title": "Bionicle: The Legend Reborn",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "bionicle-the-legend-reborn",
+      "has_reactions": false
+    },
+    {
+      "id": "eee7ce20-1ca7-4e81-84af-2d1d121d2f13",
+      "title": "Mickey Mouse Clubhouse: Minnie's Bow-Tique",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-minnie-s-bow-tique",
+      "has_reactions": false
+    },
+    {
+      "id": "6c839396-7dbc-4eb1-a443-b85f207b99d1",
+      "title": "Mickey Mouse Clubhouse: Space Adventure",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-space-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "e0ecedb8-f300-4c91-9ff2-76c505315f83",
+      "title": "Winnie the Pooh",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "winnie-the-pooh",
+      "has_reactions": false
+    },
+    {
+      "id": "f3210a60-90f6-4677-8d0b-ca051f3e3cf1",
+      "title": "Mickey Mouse Clubhouse: Mickey & Donald Have a Farm",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-mickey-donald-have-a-farm",
+      "has_reactions": false
+    },
+    {
+      "id": "1e5a5574-a70d-4625-ae30-3be9b25787a6",
+      "title": "Mickey Mouse Clubhouse: Minnie's The Wizard of Dizz",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-minnie-s-the-wizard-of-dizz",
+      "has_reactions": false
+    },
+    {
+      "id": "ca324e54-58cd-4a2e-b927-80d190bca8b7",
+      "title": "Mickey Mouse Clubhouse: Super Adventure!",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-super-adventure",
+      "has_reactions": false
+    },
+    {
+      "id": "d0fb8804-a48c-49e3-b10d-e3fe50829f2e",
+      "title": "Mickey Mouse Clubhouse: Minnie's Winter Bow Show",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "mickey-mouse-clubhouse-minnie-s-winter-bow-show",
+      "has_reactions": false
+    },
+    {
+      "id": "90c6b6e8-a9f8-498f-a9d1-aef10faf5af1",
+      "title": "Tinker Bell and the Pirate Fairy",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tinker-bell-and-the-pirate-fairy",
+      "has_reactions": false
+    },
+    {
+      "id": "7ce67732-34c1-4b00-87de-061d3ffd97f2",
+      "title": "I Know That Voice",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "i-know-that-voice",
+      "has_reactions": false
+    },
+    {
+      "id": "715b85e6-204b-4de5-892a-ba554c7b5cbc",
+      "title": "101 Dalmatians: The Further Adventures of Thunderbolt",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "101-dalmatians-the-further-adventures-of-thunderbolt",
+      "has_reactions": false
+    },
+    {
+      "id": "49f06412-450d-45be-ae81-b412fbe3b723",
+      "title": "Christopher Robin",
+      "release_year": 2018,
+      "studio_label": "Walt Disney Pictures",
+      "slug": "christopher-robin",
+      "has_reactions": false
+    },
+    {
+      "id": "299c76f3-f7f5-442a-9c5f-dab392031e0d",
+      "title": "Mickey's Tale of Two Witches",
+      "release_year": 2021,
+      "studio_label": "\u2014",
+      "slug": "mickey-s-tale-of-two-witches",
+      "has_reactions": false
+    },
+    {
+      "id": "e38ebd5e-0130-4089-9d45-ffa7dabe2c3c",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "chip-n-dale-rescue-rangers",
+      "has_reactions": false
+    },
+    {
+      "id": "39518ae2-b3ce-4cbb-9241-96ba1cd81df8",
+      "title": "The Wonderful World of Mickey Mouse: Steamboat Silly",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "the-wonderful-world-of-mickey-mouse-steamboat-silly",
+      "has_reactions": false
+    }
+  ]
+}

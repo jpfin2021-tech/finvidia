@@ -1,0 +1,576 @@
+{
+  "id": "edeb0c8c-6434-4353-8480-0bf8309f84e1",
+  "name": "Lochlyn Munro",
+  "slug": "lochlyn-munro",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg",
+  "filmography": [
+    {
+      "id": "b5bd594e-ef47-4d4f-a4e3-f6b215fb8830",
+      "title": "Sylvan Lake Summer",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "sylvan-lake-summer",
+      "has_reactions": false
+    },
+    {
+      "id": "16bbd5d8-7c40-42e7-a9af-aebac42eb648",
+      "title": "Run",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "run",
+      "has_reactions": false
+    },
+    {
+      "id": "03eee861-ee26-410c-9dda-9db8ca048e2d",
+      "title": "Shame",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "shame",
+      "has_reactions": false
+    },
+    {
+      "id": "eb3ad2be-0be8-458a-bb94-d1d626a21743",
+      "title": "Dead Ahead: The Exxon Valdez Disaster",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "dead-ahead-the-exxon-valdez-disaster",
+      "has_reactions": false
+    },
+    {
+      "id": "ebc1b44a-65ae-4bab-8192-8dc7c025f9d4",
+      "title": "Just One of the Girls",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "just-one-of-the-girls",
+      "has_reactions": false
+    },
+    {
+      "id": "e9f0db85-b886-4f9c-8ade-8cb760aebe44",
+      "title": "A Stranger in the Mirror",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "a-stranger-in-the-mirror",
+      "has_reactions": false
+    },
+    {
+      "id": "82c22101-6594-4222-9b64-c2a856b2bda2",
+      "title": "Trancers 4: Jack of Swords",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "trancers-4-jack-of-swords",
+      "has_reactions": false
+    },
+    {
+      "id": "3d944ff6-c70f-4c4c-a254-b2b33258c950",
+      "title": "Wagons East!",
+      "release_year": 1994,
+      "studio_label": "\u2014",
+      "slug": "wagons-east",
+      "has_reactions": false
+    },
+    {
+      "id": "7de65e3f-49f3-4f59-98cb-ea399e7e0d1e",
+      "title": "Stand Against Fear",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "stand-against-fear",
+      "has_reactions": false
+    },
+    {
+      "id": "05e419a8-4fe5-432d-af95-cdc27d952d2c",
+      "title": "Justice for Annie",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "justice-for-annie",
+      "has_reactions": false
+    },
+    {
+      "id": "05d6eba3-75ea-40c5-8bb9-94362ccf812f",
+      "title": "Downhill Willie",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "downhill-willie",
+      "has_reactions": false
+    },
+    {
+      "id": "b4a3da45-83ad-4f50-9a32-2e6cf62e8cf2",
+      "title": "Mother, May I Sleep with Danger?",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "mother-may-i-sleep-with-danger",
+      "has_reactions": false
+    },
+    {
+      "id": "75ab25e7-0e67-4267-ba61-a2fe2b5fb4cf",
+      "title": "One Hot Summer Night",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "one-hot-summer-night",
+      "has_reactions": false
+    },
+    {
+      "id": "a34c8edd-46bb-40eb-9a6a-2edc46625e4e",
+      "title": "A Champion's Fight",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "a-champion-s-fight",
+      "has_reactions": false
+    },
+    {
+      "id": "82ab5f23-8ecd-4b4a-ba3d-936c8317f20d",
+      "title": "Dead Man on Campus",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "dead-man-on-campus",
+      "has_reactions": false
+    },
+    {
+      "id": "4d664ff2-77c5-4372-81b1-56f5ed07b91b",
+      "title": "I Know What You Did",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "i-know-what-you-did",
+      "has_reactions": false
+    },
+    {
+      "id": "bb18d2ad-f20f-4867-9600-3125b5845b60",
+      "title": "Our Guys: Outrage at Glen Ridge",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "our-guys-outrage-at-glen-ridge",
+      "has_reactions": false
+    },
+    {
+      "id": "a4175bc2-65a5-4538-b93a-afe90a7fbbb5",
+      "title": "Scary Movie",
+      "release_year": 2000,
+      "studio_label": "Brad Grey Pictures",
+      "slug": "scary-movie",
+      "has_reactions": true
+    },
+    {
+      "id": "9133083e-2e8c-434a-82d7-bf1fff994400",
+      "title": "Blacktop",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "blacktop",
+      "has_reactions": false
+    },
+    {
+      "id": "c8a9c38a-a314-4c0d-b45f-2f6a542e593a",
+      "title": "Camouflage",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "camouflage",
+      "has_reactions": false
+    },
+    {
+      "id": "5b6fe81d-86b5-4c77-ae17-0fcb42aa3a70",
+      "title": "Knight Club",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "knight-club",
+      "has_reactions": false
+    },
+    {
+      "id": "2bf31799-6011-4727-a2ad-53686a7a2cf7",
+      "title": "Pressure",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "pressure",
+      "has_reactions": false
+    },
+    {
+      "id": "24d2a85b-d44b-445a-ab82-0e5129a2d06a",
+      "title": "The Investigation",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "the-investigation",
+      "has_reactions": false
+    },
+    {
+      "id": "3bfd5865-c959-4efe-8ccb-4b7437917ffa",
+      "title": "Freddy vs. Jason",
+      "release_year": 2003,
+      "studio_label": "Yannix Technology Corporation",
+      "slug": "freddy-vs-jason",
+      "has_reactions": true
+    },
+    {
+      "id": "2c5d3991-0acd-4916-9706-db557ea33472",
+      "title": "White Chicks",
+      "release_year": 2004,
+      "studio_label": "Revolution Studios",
+      "slug": "white-chicks",
+      "has_reactions": true
+    },
+    {
+      "id": "0355b65e-d0f2-4611-ad2d-d055970900d9",
+      "title": "Little Man",
+      "release_year": 2006,
+      "studio_label": "Wayans Bros. Entertainment",
+      "slug": "little-man",
+      "has_reactions": true
+    },
+    {
+      "id": "888c76af-5542-44cf-a471-b7c619f6d565",
+      "title": "The Tooth Fairy",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "the-tooth-fairy",
+      "has_reactions": false
+    },
+    {
+      "id": "e3fdb540-b78b-46e0-bdc6-a6f85f7925f0",
+      "title": "Final Move",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "final-move",
+      "has_reactions": false
+    },
+    {
+      "id": "6660a01a-1187-4b64-b25f-ee45f61fdd6d",
+      "title": "Perfect Child",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "perfect-child",
+      "has_reactions": false
+    },
+    {
+      "id": "87c3ee64-cbc8-441b-a9bf-8411b302f38b",
+      "title": "The Art of War II: Betrayal",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "the-art-of-war-ii-betrayal",
+      "has_reactions": false
+    },
+    {
+      "id": "45148f5e-b670-4acf-8136-0cfd40a4a259",
+      "title": "Toxic",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "toxic",
+      "has_reactions": false
+    },
+    {
+      "id": "2aa0e41a-ec09-451c-8a3e-3019fe9ae80c",
+      "title": "Lies & Illusions",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "lies-illusions",
+      "has_reactions": false
+    },
+    {
+      "id": "653f5607-8bf2-41cf-8af9-f9bfd049cd67",
+      "title": "Nowhere to Hide",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "nowhere-to-hide",
+      "has_reactions": false
+    },
+    {
+      "id": "a1985c01-8504-45ce-bd5c-e9054b29e1c1",
+      "title": "The Penthouse",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-penthouse",
+      "has_reactions": false
+    },
+    {
+      "id": "90695f5c-dadf-4ab8-ac2c-d8defe61d49b",
+      "title": "The Terror Experiment",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-terror-experiment",
+      "has_reactions": false
+    },
+    {
+      "id": "4f81e7e2-4ac9-4895-9b80-86b2af654e63",
+      "title": "Past Obsessions",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "past-obsessions",
+      "has_reactions": false
+    },
+    {
+      "id": "44007bff-c1df-4746-a085-4b2d4c48b3bd",
+      "title": "In the Name of the King 2: Two Worlds",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "in-the-name-of-the-king-2-two-worlds",
+      "has_reactions": false
+    },
+    {
+      "id": "240c78eb-7642-4ed7-8e90-a26a74d37407",
+      "title": "Gone",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "gone",
+      "has_reactions": false
+    },
+    {
+      "id": "4793d235-d58a-4dd5-a40d-1eacd48d42b3",
+      "title": "Seduced by Lies",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "seduced-by-lies",
+      "has_reactions": false
+    },
+    {
+      "id": "951c1f22-6d83-4a13-bc99-086e87aec6bc",
+      "title": "Amy Alyson Fans",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "amy-alyson-fans",
+      "has_reactions": false
+    },
+    {
+      "id": "c87e57a0-9415-44d6-8ec9-1326848582c1",
+      "title": "Dawn Rider",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "dawn-rider",
+      "has_reactions": false
+    },
+    {
+      "id": "4d5d8b7a-4187-4893-8a4e-fa9f20c7c58d",
+      "title": "Blood Alley",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "blood-alley",
+      "has_reactions": false
+    },
+    {
+      "id": "871d579a-80f0-43b9-98fe-01b7f48c6a93",
+      "title": "Vengeance is Mine",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "vengeance-is-mine",
+      "has_reactions": false
+    },
+    {
+      "id": "068510b1-3c12-43f1-95c6-6f8833ece12b",
+      "title": "Recoil",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "recoil",
+      "has_reactions": false
+    },
+    {
+      "id": "97e828e4-8427-47cc-8b8f-64a70b2f9abc",
+      "title": "Violence of Action",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "violence-of-action",
+      "has_reactions": false
+    },
+    {
+      "id": "3a2aa942-5362-4af9-9b18-7ff6c0d755db",
+      "title": "Fatal Call",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "fatal-call",
+      "has_reactions": false
+    },
+    {
+      "id": "f1128486-3f1a-42c1-9e15-7d1da3614941",
+      "title": "Romeo Killer: The Chris Porco Story",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "romeo-killer-the-chris-porco-story",
+      "has_reactions": false
+    },
+    {
+      "id": "895a5a31-3339-487d-a07a-96035ff9b98f",
+      "title": "Secret Liaison",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "secret-liaison",
+      "has_reactions": false
+    },
+    {
+      "id": "8ae675be-0e61-478f-8a5c-f5859429774c",
+      "title": "Hansel and Gretel Get Baked",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "hansel-and-gretel-get-baked",
+      "has_reactions": false
+    },
+    {
+      "id": "0049284c-6261-4fe2-b86e-f4c766334c58",
+      "title": "Dead Drop",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "dead-drop",
+      "has_reactions": false
+    },
+    {
+      "id": "5089da71-3b34-4bd3-8d56-27ad41980c7f",
+      "title": "Angel of Death",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "angel-of-death",
+      "has_reactions": false
+    },
+    {
+      "id": "f7f6a3ef-6ae0-4523-b296-272fc1c408e1",
+      "title": "Assault on Wall Street",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "assault-on-wall-street",
+      "has_reactions": false
+    },
+    {
+      "id": "0103682b-2174-4d41-b613-2233751d2576",
+      "title": "Out of Reach",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "out-of-reach",
+      "has_reactions": false
+    },
+    {
+      "id": "555d3aa8-72f8-46f1-99bd-46e162cd4dae",
+      "title": "Run for Your Life",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "run-for-your-life",
+      "has_reactions": false
+    },
+    {
+      "id": "a63655f5-af2a-4c45-a73d-7352f7798ca3",
+      "title": "Kid Cannabis",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "kid-cannabis",
+      "has_reactions": false
+    },
+    {
+      "id": "b0815eee-e602-4a7a-bc21-354eb276b352",
+      "title": "When Sparks Fly",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "when-sparks-fly",
+      "has_reactions": false
+    },
+    {
+      "id": "c00e4b01-83da-44a5-b350-0e45011f6b54",
+      "title": "Rampage: Capital Punishment",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "rampage-capital-punishment",
+      "has_reactions": false
+    },
+    {
+      "id": "366da4ea-1f2b-4f54-9806-3ce68e349f09",
+      "title": "Poker Night",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "poker-night",
+      "has_reactions": false
+    },
+    {
+      "id": "fe2acae5-ba61-4adb-be31-0a146c15c8f0",
+      "title": "Anatomy of Deception",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "anatomy-of-deception",
+      "has_reactions": false
+    },
+    {
+      "id": "899bb353-defe-46db-baf1-838d01bf9c02",
+      "title": "12 Rounds 3: Lockdown",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "12-rounds-3-lockdown",
+      "has_reactions": false
+    },
+    {
+      "id": "a7ebd5e7-e615-4c0e-8950-f0623f711fab",
+      "title": "Driven Underground",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "driven-underground",
+      "has_reactions": false
+    },
+    {
+      "id": "7b3a6b1a-bea7-46ac-96f9-71832dafa9e2",
+      "title": "Big Sky River",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "big-sky-river",
+      "has_reactions": false
+    },
+    {
+      "id": "9c759e36-d70e-48a2-868c-e46c64d76844",
+      "title": "The Journey Ahead",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "the-journey-ahead",
+      "has_reactions": false
+    },
+    {
+      "id": "bc7a6e5f-412e-42fd-bd68-7550d7656bba",
+      "title": "Curious Caterer: Dying for Chocolate",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "curious-caterer-dying-for-chocolate",
+      "has_reactions": false
+    },
+    {
+      "id": "d38de5fc-ff2a-4948-b2b3-ba5d6602956f",
+      "title": "Until Branches Bend",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "until-branches-bend",
+      "has_reactions": false
+    },
+    {
+      "id": "f8376101-1924-4375-8199-26938a9bb0e9",
+      "title": "Totally Killer",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "totally-killer",
+      "has_reactions": false
+    },
+    {
+      "id": "7e1878cd-2151-49a7-a7bf-6d763ea62335",
+      "title": "Navigating Christmas",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "navigating-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "23b1e115-cad7-4b1a-a72f-b54e51b6b354",
+      "title": "Buddy Games: Spring Awakening",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "buddy-games-spring-awakening",
+      "has_reactions": false
+    },
+    {
+      "id": "0d4ed70c-5f6e-4d72-898d-c0a43d9c268e",
+      "title": "Curious Caterer: Foiled Plans",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "curious-caterer-foiled-plans",
+      "has_reactions": false
+    },
+    {
+      "id": "3d32af6d-ceae-471f-a78c-00b4ddf0befb",
+      "title": "Chapel",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "chapel",
+      "has_reactions": false
+    },
+    {
+      "id": "0b86ff1d-de5c-4c77-af36-2a3bd57283f2",
+      "title": "Tiger Mom",
+      "release_year": 2025,
+      "studio_label": "\u2014",
+      "slug": "tiger-mom",
+      "has_reactions": false
+    }
+  ]
+}

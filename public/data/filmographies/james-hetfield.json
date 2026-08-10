@@ -1,0 +1,608 @@
+{
+  "id": "ff7fe010-720d-482b-a890-77e163fa4744",
+  "name": "James Hetfield",
+  "slug": "james-hetfield",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/1DBDpjWorXCwvMQLZeDIGfDQ5sJ.jpg",
+  "filmography": [
+    {
+      "id": "5aa53ace-9687-49f5-86e8-f9b79dec5fc9",
+      "title": "Metallica: Sick Out Of Studio 2007 Oslo",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "metallica-sick-out-of-studio-2007-oslo",
+      "has_reactions": false
+    },
+    {
+      "id": "21db9736-3c62-4000-abc4-701ebd5bfe90",
+      "title": "Metallica: from the off",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "metallica-from-the-off",
+      "has_reactions": false
+    },
+    {
+      "id": "17ffd2a7-03cd-4db3-acb8-67013ee3e0ee",
+      "title": "Metal Massacre: The Story of the Legendary Album",
+      "release_year": 0,
+      "studio_label": "\u2014",
+      "slug": "metal-massacre-the-story-of-the-legendary-album",
+      "has_reactions": false
+    },
+    {
+      "id": "76b8bece-a3e4-49a6-b218-f1acf42d9f68",
+      "title": "Metallica: [1983] Kiss the Stone",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "metallica-1983-kiss-the-stone",
+      "has_reactions": false
+    },
+    {
+      "id": "a743496a-321e-460d-ab66-03d71d427eac",
+      "title": "Metallica - Kill 'Em All in Chicago 1983",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "metallica-kill-em-all-in-chicago-1983",
+      "has_reactions": false
+    },
+    {
+      "id": "51a212ad-4d07-45c8-8aad-2ded31a9656d",
+      "title": "Metallica: Day on the Green",
+      "release_year": 1985,
+      "studio_label": "\u2014",
+      "slug": "metallica-day-on-the-green",
+      "has_reactions": false
+    },
+    {
+      "id": "4e44466d-4277-4e9c-88db-0be38f9aab3d",
+      "title": "Metallica: [1986] Uniondale, NY",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "metallica-1986-uniondale-ny",
+      "has_reactions": false
+    },
+    {
+      "id": "7b69f7f0-b7da-4b3d-b6d4-4d41ac5d0073",
+      "title": "Metallica: Detroit, Michigan",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "metallica-detroit-michigan",
+      "has_reactions": false
+    },
+    {
+      "id": "847b68ee-e5a3-48c1-ba30-0a9e7e8e64ba",
+      "title": "Metallica - Live at Hammersmith Odeon",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-at-hammersmith-odeon",
+      "has_reactions": false
+    },
+    {
+      "id": "fae3793c-23dc-4acc-b3f7-7c4d41e52a27",
+      "title": "2 of One",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "2-of-one",
+      "has_reactions": false
+    },
+    {
+      "id": "320851b1-bd74-42a4-a876-3a2b78ecf189",
+      "title": "Metallica: [1989] Middletown, NY",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "metallica-1989-middletown-ny",
+      "has_reactions": false
+    },
+    {
+      "id": "21196eff-315a-4ef4-bf56-8735784c1a2a",
+      "title": "Metallica: Newark, Delaware",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "metallica-newark-delaware",
+      "has_reactions": false
+    },
+    {
+      "id": "29db29d1-9717-4bfd-9cd6-4b8d09f57b29",
+      "title": "Metallica: Live Shit - Binge & Purge, Seattle 1989",
+      "release_year": 1989,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-shit-binge-purge-seattle-1989",
+      "has_reactions": false
+    },
+    {
+      "id": "36a017b5-bf0c-4836-b88f-dc6b62eccb82",
+      "title": "Metallica: Live Shit - Binge & Purge, San Diego 1992",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-shit-binge-purge-san-diego-1992",
+      "has_reactions": false
+    },
+    {
+      "id": "8b247657-0029-4a4f-925e-1085f93fd715",
+      "title": "Metallica: [1992] Den Bosch, Netherlands",
+      "release_year": 1992,
+      "studio_label": "\u2014",
+      "slug": "metallica-1992-den-bosch-netherlands",
+      "has_reactions": false
+    },
+    {
+      "id": "3db50bd9-86b5-4495-b8b2-2aff509f613b",
+      "title": "Metallica: [1993] Santiago, Chile",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "metallica-1993-santiago-chile",
+      "has_reactions": false
+    },
+    {
+      "id": "0ba0abd4-b5e1-463a-8d5f-def02ae0e14d",
+      "title": "Metallica: Mexico City, Mexico",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "metallica-mexico-city-mexico",
+      "has_reactions": false
+    },
+    {
+      "id": "d980494e-6e1c-46a9-8a12-760bd5ea343f",
+      "title": "Metallica: [1993] Basel, Switzerland",
+      "release_year": 1993,
+      "studio_label": "\u2014",
+      "slug": "metallica-1993-basel-switzerland",
+      "has_reactions": false
+    },
+    {
+      "id": "eccb2eaa-ca9f-44ef-9644-345854a5bdbe",
+      "title": "Metallica: [1995] Loud But Secret",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "metallica-1995-loud-but-secret",
+      "has_reactions": false
+    },
+    {
+      "id": "35aa8257-c700-4be5-b273-c104659e0990",
+      "title": "Metallica: Live Covers",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-covers",
+      "has_reactions": false
+    },
+    {
+      "id": "f0e9e16b-0f67-491d-be48-f123b8f7c0e1",
+      "title": "Metallica: Cunning Stunts",
+      "release_year": 1998,
+      "studio_label": "\u2014",
+      "slug": "metallica-cunning-stunts",
+      "has_reactions": false
+    },
+    {
+      "id": "36681415-6465-464a-8422-b0c140ef1725",
+      "title": "Metallica: [1999] Plovdiv, Bulgaria",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "metallica-1999-plovdiv-bulgaria",
+      "has_reactions": false
+    },
+    {
+      "id": "6903d4fe-9cf5-4ccf-ab56-5892d5c49544",
+      "title": "Metallica: [2000] Baltimore, Maryland",
+      "release_year": 2000,
+      "studio_label": "\u2014",
+      "slug": "metallica-2000-baltimore-maryland",
+      "has_reactions": false
+    },
+    {
+      "id": "0897b83a-9069-4127-b69c-82e5a22edf1a",
+      "title": "Metallica: St. Anger Rehearsals",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "metallica-st-anger-rehearsals",
+      "has_reactions": false
+    },
+    {
+      "id": "1cf00395-54d4-40c7-8c69-625d563ae28c",
+      "title": "Metallica: MTV Icon",
+      "release_year": 2003,
+      "studio_label": "\u2014",
+      "slug": "metallica-mtv-icon",
+      "has_reactions": false
+    },
+    {
+      "id": "50636d22-f9a1-44f5-a6b1-43881013ff0b",
+      "title": "Hard Rock Treasures",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "hard-rock-treasures",
+      "has_reactions": false
+    },
+    {
+      "id": "d21f6687-7489-4d0d-a4db-1eab5c269142",
+      "title": "Metallica: The Videos 1989-2004",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "metallica-the-videos-1989-2004",
+      "has_reactions": false
+    },
+    {
+      "id": "eeabeb87-b3fa-43c0-8109-b56bc68de6c9",
+      "title": "Metallica: Rock AM Ring 2006",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "metallica-rock-am-ring-2006",
+      "has_reactions": false
+    },
+    {
+      "id": "bdae3bc0-6b40-444c-b79d-fad9d2ef4828",
+      "title": "Metallica: Up Close and Personal",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "metallica-up-close-and-personal",
+      "has_reactions": false
+    },
+    {
+      "id": "bb45ee36-bda2-4581-8948-6574debe8f8d",
+      "title": "Rock Milestones: Metallica: Master of Puppets",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "rock-milestones-metallica-master-of-puppets",
+      "has_reactions": false
+    },
+    {
+      "id": "79410cd2-7a42-46ac-8c79-f483aefb3fd6",
+      "title": "Aural Amphetamine: Metallica and the Dawn of Thrash",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "aural-amphetamine-metallica-and-the-dawn-of-thrash",
+      "has_reactions": false
+    },
+    {
+      "id": "0ece0263-ad80-4ba0-9ba4-8345c259420d",
+      "title": "Metallica Touring Europe",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "metallica-touring-europe",
+      "has_reactions": false
+    },
+    {
+      "id": "11433b1c-b670-4a9d-951c-a421a3ec6d38",
+      "title": "Metallica: Making Magnetic",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "metallica-making-magnetic",
+      "has_reactions": false
+    },
+    {
+      "id": "a4a9ab6c-c418-4d2b-9597-d9a8e2faa707",
+      "title": "Metallica: [2008] Rock en France Festival",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "metallica-2008-rock-en-france-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "2bf811dc-63cc-4c2a-a81d-497c3b01fb06",
+      "title": "Metallica: Fran\u00e7ais pour une nuit",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "metallica-fran-ais-pour-une-nuit",
+      "has_reactions": false
+    },
+    {
+      "id": "0ac87843-d93e-4393-8c0d-34d52646c1ba",
+      "title": "Metallica: Fan Can 6",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "metallica-fan-can-6",
+      "has_reactions": false
+    },
+    {
+      "id": "9bd5732c-93ad-4bf4-96f3-10a5cc551e37",
+      "title": "The Big Four: Live in Sofia",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-big-four-live-in-sofia",
+      "has_reactions": false
+    },
+    {
+      "id": "7d25aa73-dc44-432a-9703-3856af88f7ff",
+      "title": "Metallica: Rock In Rio 2011",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "metallica-rock-in-rio-2011",
+      "has_reactions": false
+    },
+    {
+      "id": "12a00705-2e43-4b85-920a-095f609e8931",
+      "title": "Metallica: The 30th Anniversary Event",
+      "release_year": 2011,
+      "studio_label": "\u2014",
+      "slug": "metallica-the-30th-anniversary-event",
+      "has_reactions": false
+    },
+    {
+      "id": "e9dbaef2-298c-4a10-a412-ccbd47831ed8",
+      "title": "Metallica: Live at Orion Music And More 2012 (1st Night)",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-at-orion-music-and-more-2012-1st-night",
+      "has_reactions": false
+    },
+    {
+      "id": "7a0c0313-baae-4196-8c9e-c1d7ed946eb5",
+      "title": "Metallica: Rock in Rio",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "metallica-rock-in-rio",
+      "has_reactions": false
+    },
+    {
+      "id": "97261c4a-92c0-4d99-b28e-64ddbbfcd7b7",
+      "title": "Metallica: Quebec Magnetic",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "metallica-quebec-magnetic",
+      "has_reactions": false
+    },
+    {
+      "id": "2d05dab5-a1ad-4b1b-a910-67c845926018",
+      "title": "Metallica: Live in Orion Music Festival",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-in-orion-music-festival",
+      "has_reactions": false
+    },
+    {
+      "id": "9d321da2-46fa-489b-9016-dc18f42dc1a3",
+      "title": "Anton Corbijn Inside Out",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "anton-corbijn-inside-out",
+      "has_reactions": false
+    },
+    {
+      "id": "20a5c859-e916-4f4b-9d69-672888409b14",
+      "title": "Metallica: Through the Never",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "metallica-through-the-never",
+      "has_reactions": false
+    },
+    {
+      "id": "afa35291-0b16-43d0-ab03-d6e448a36a7b",
+      "title": "Surfing Your Dreams",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "surfing-your-dreams",
+      "has_reactions": false
+    },
+    {
+      "id": "f062a466-ad63-476a-92a1-563233d4bc4b",
+      "title": "Metallica: Freeze 'Em All - Live in Antarctica",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "metallica-freeze-em-all-live-in-antarctica",
+      "has_reactions": false
+    },
+    {
+      "id": "5f1596f9-7d99-47b4-9152-09c1864602ee",
+      "title": "Metallica: Rock AM Ring 2014",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "metallica-rock-am-ring-2014",
+      "has_reactions": false
+    },
+    {
+      "id": "e8f56749-ad05-4120-8c10-1123c6f7074b",
+      "title": "'Tallica Parking Lot",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "tallica-parking-lot",
+      "has_reactions": false
+    },
+    {
+      "id": "680d11fe-ab45-4e47-8c39-9137323559c9",
+      "title": "Metallica Live at Blizzcon",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-at-blizzcon",
+      "has_reactions": false
+    },
+    {
+      "id": "f8c92417-c261-48b3-a76b-223369b7f20d",
+      "title": "Hit the Lights: The Making of Metallica \"Through the Never\"",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "hit-the-lights-the-making-of-metallica-through-the-never",
+      "has_reactions": false
+    },
+    {
+      "id": "412d61c4-e2bf-4c2f-a0c3-732082cc3a61",
+      "title": "Metallica: Masters of Metal",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "metallica-masters-of-metal",
+      "has_reactions": false
+    },
+    {
+      "id": "27ca586d-87b7-4838-8695-fa1faf25fd3f",
+      "title": "Metallica: This Monster Lives",
+      "release_year": 2014,
+      "studio_label": "\u2014",
+      "slug": "metallica-this-monster-lives",
+      "has_reactions": false
+    },
+    {
+      "id": "27946f32-d3eb-4a3d-8770-44bb7c41c812",
+      "title": "Metallica: [2015] X Games",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "metallica-2015-x-games",
+      "has_reactions": false
+    },
+    {
+      "id": "18387e0b-4bef-443f-8702-2f62c6819a59",
+      "title": "Metallica: Rock in Rio 2015",
+      "release_year": 2015,
+      "studio_label": "\u2014",
+      "slug": "metallica-rock-in-rio-2015",
+      "has_reactions": false
+    },
+    {
+      "id": "835afd16-0617-4a69-9b39-d5fc021f2fd0",
+      "title": "Orchestrating An Upset: The 1996 World Cup of Hockey",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "orchestrating-an-upset-the-1996-world-cup-of-hockey",
+      "has_reactions": false
+    },
+    {
+      "id": "6af6b286-6b0b-4b65-a73c-d06882a49109",
+      "title": "Metallica: The Night Before",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "metallica-the-night-before",
+      "has_reactions": false
+    },
+    {
+      "id": "4dfb7b7c-92fc-4a4c-bef8-134d05587b33",
+      "title": "Metallica: [2016] Rasputin Music, Berkeley",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "metallica-2016-rasputin-music-berkeley",
+      "has_reactions": false
+    },
+    {
+      "id": "0658df14-56ed-4385-8406-9eccc4f5d5a5",
+      "title": "Metallica - Hardwired... To Self-Destruct Videos",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "metallica-hardwired-to-self-destruct-videos",
+      "has_reactions": false
+    },
+    {
+      "id": "a689fa6b-5ba2-4fb2-b706-3d423c71c548",
+      "title": "Metallica: Live from The House of Vans",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-from-the-house-of-vans",
+      "has_reactions": false
+    },
+    {
+      "id": "c4af4bd0-2096-4279-a4f2-74d6226981ca",
+      "title": "Metallica - Live at Rock on the Range, Columbus 2017",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-at-rock-on-the-range-columbus-2017",
+      "has_reactions": false
+    },
+    {
+      "id": "459597a7-7e38-4650-8838-71afac9d4d72",
+      "title": "Addicted to Porn: Chasing the Cardboard Butterfly",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "addicted-to-porn-chasing-the-cardboard-butterfly",
+      "has_reactions": false
+    },
+    {
+      "id": "92816bcb-f4cd-4d44-b713-966dc1b1babe",
+      "title": "Metallica: Lollapalooza Brazil 2017",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "metallica-lollapalooza-brazil-2017",
+      "has_reactions": false
+    },
+    {
+      "id": "4664f376-5465-4eac-8832-06a1daf3fc26",
+      "title": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
+      "release_year": 2019,
+      "studio_label": "\u2014",
+      "slug": "murder-in-the-front-row-the-san-francisco-bay-area-thrash-metal-story",
+      "has_reactions": false
+    },
+    {
+      "id": "b467d886-019a-4bcf-a0fe-33d5b28e320d",
+      "title": "Metallica Live Hellfest 2022",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "metallica-live-hellfest-2022",
+      "has_reactions": false
+    },
+    {
+      "id": "8776abd4-5eac-4ab5-b445-1a9aedd4fa30",
+      "title": "Metallica Presents: The Helping Hands Concert",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "metallica-presents-the-helping-hands-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "292d3ac2-f970-4e2d-b97f-ed52ed326725",
+      "title": "Metallica: Campo Argentino de Polo",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "metallica-campo-argentino-de-polo",
+      "has_reactions": false
+    },
+    {
+      "id": "3bc1bab1-353c-4ca5-b05b-d027b6a21bf2",
+      "title": "Ennio",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "ennio",
+      "has_reactions": false
+    },
+    {
+      "id": "8122a023-410b-4d11-8cc0-b08afeb07b89",
+      "title": "Metallica - Global Citizen Festival 2022",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "metallica-global-citizen-festival-2022",
+      "has_reactions": false
+    },
+    {
+      "id": "56a56c89-e166-46f5-ade4-84261805e920",
+      "title": "Metallica Download Festival Germany",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "metallica-download-festival-germany",
+      "has_reactions": false
+    },
+    {
+      "id": "9a2e34fe-ba79-42f6-8967-69ead29b4c26",
+      "title": "Metallica: 72 Seasons - Global Premiere",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metallica-72-seasons-global-premiere",
+      "has_reactions": false
+    },
+    {
+      "id": "3ae9f538-02c9-46b1-bf0a-d46142ce1db6",
+      "title": "Metallica: M72 World Tour Live in Amsterdam - Night 2",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metallica-m72-world-tour-live-in-amsterdam-night-2",
+      "has_reactions": false
+    },
+    {
+      "id": "7289dc14-8696-4aad-a139-dc9d3d37789b",
+      "title": "Metallica: M72 World Tour Live from Texas - Night 2",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metallica-m72-world-tour-live-from-texas-night-2",
+      "has_reactions": false
+    },
+    {
+      "id": "78856d8a-37c1-4bbc-a5b6-5da5c59d7d72",
+      "title": "Metallica: M72 World Tour Live from Texas - Night 1",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "metallica-m72-world-tour-live-from-texas-night-1",
+      "has_reactions": false
+    },
+    {
+      "id": "448204bc-e1b7-4179-91d2-ba0e51f15cdf",
+      "title": "The Thicket",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "the-thicket",
+      "has_reactions": false
+    }
+  ]
+}

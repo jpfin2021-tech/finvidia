@@ -1,0 +1,472 @@
+{
+  "id": "4a7531dd-d296-43db-8ec5-9ac47f82a0cb",
+  "name": "Willie Nelson",
+  "slug": "willie-nelson",
+  "profile_img_url": "https://image.tmdb.org/t/p/w300/e5rXc3fn4v642bIDVFWUr6UlVM3.jpg",
+  "filmography": [
+    {
+      "id": "c84d4902-76bf-4fdf-bbaa-3b9119c3592d",
+      "title": "A Poem Is a Naked Person",
+      "release_year": 1974,
+      "studio_label": "\u2014",
+      "slug": "a-poem-is-a-naked-person",
+      "has_reactions": false
+    },
+    {
+      "id": "4eeae996-2615-47ce-afe2-c5df1415f94a",
+      "title": "Honeysuckle Rose",
+      "release_year": 1980,
+      "studio_label": "\u2014",
+      "slug": "honeysuckle-rose",
+      "has_reactions": false
+    },
+    {
+      "id": "6f7bf071-78c0-4f20-83c4-01a00a372f44",
+      "title": "Thief",
+      "release_year": 1981,
+      "studio_label": "Mann/Caan Productions",
+      "slug": "thief",
+      "has_reactions": true
+    },
+    {
+      "id": "e7de1f6e-819e-4e90-aef9-47c09fbc3a68",
+      "title": "Playboy Video Magazine, Volume 4",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "playboy-video-magazine-volume-4",
+      "has_reactions": false
+    },
+    {
+      "id": "723f496a-16e4-49fb-a36f-13e1b506bd1b",
+      "title": "Hells Angels Forever",
+      "release_year": 1983,
+      "studio_label": "\u2014",
+      "slug": "hells-angels-forever",
+      "has_reactions": false
+    },
+    {
+      "id": "c12f32ca-b7d5-49bd-b63d-167f8893d509",
+      "title": "Songwriter",
+      "release_year": 1984,
+      "studio_label": "\u2014",
+      "slug": "songwriter",
+      "has_reactions": false
+    },
+    {
+      "id": "904d8d05-b84f-4f2a-8c21-82fb012b3f84",
+      "title": "Stagecoach",
+      "release_year": 1986,
+      "studio_label": "\u2014",
+      "slug": "stagecoach",
+      "has_reactions": false
+    },
+    {
+      "id": "6699811f-bc62-4c08-8658-55e05711886c",
+      "title": "Heartbeat",
+      "release_year": 1987,
+      "studio_label": "\u2014",
+      "slug": "heartbeat",
+      "has_reactions": false
+    },
+    {
+      "id": "2010101d-81f9-44c5-881f-14e065cd43ca",
+      "title": "Once Upon a Texas Train",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "once-upon-a-texas-train",
+      "has_reactions": false
+    },
+    {
+      "id": "6cdb55f0-52b2-4197-aae3-84036e13caf0",
+      "title": "Irving Berlin's 100th Birthday Celebration",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "irving-berlin-s-100th-birthday-celebration",
+      "has_reactions": false
+    },
+    {
+      "id": "fa03b5ad-0303-46e7-aab4-a17e12f0f60b",
+      "title": "Walking After Midnight",
+      "release_year": 1988,
+      "studio_label": "\u2014",
+      "slug": "walking-after-midnight",
+      "has_reactions": false
+    },
+    {
+      "id": "7caf7037-ac1c-4227-a4d5-7df0ab7c8066",
+      "title": "Pair of Aces",
+      "release_year": 1990,
+      "studio_label": "\u2014",
+      "slug": "pair-of-aces",
+      "has_reactions": false
+    },
+    {
+      "id": "f668d24e-71a5-4a90-9958-8f1908672822",
+      "title": "Another Pair of Aces: Three of a Kind",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "another-pair-of-aces-three-of-a-kind",
+      "has_reactions": false
+    },
+    {
+      "id": "1ab531f3-aab8-49d7-bbd6-18db11a3dab0",
+      "title": "Wild Texas Wind",
+      "release_year": 1991,
+      "studio_label": "\u2014",
+      "slug": "wild-texas-wind",
+      "has_reactions": false
+    },
+    {
+      "id": "4730e686-5488-4887-be93-f82dd629b7a8",
+      "title": "Big Dreams & Broken Hearts: The Dottie West Story",
+      "release_year": 1995,
+      "studio_label": "\u2014",
+      "slug": "big-dreams-broken-hearts-the-dottie-west-story",
+      "has_reactions": false
+    },
+    {
+      "id": "e2a974e4-48ff-41e5-bd48-65f48539d7c7",
+      "title": "The Beach Boys: Nashville Sounds",
+      "release_year": 1996,
+      "studio_label": "\u2014",
+      "slug": "the-beach-boys-nashville-sounds",
+      "has_reactions": false
+    },
+    {
+      "id": "0d01d6cd-7a15-4561-9828-fa0395947e81",
+      "title": "Wag the Dog",
+      "release_year": 1997,
+      "studio_label": "\u2014",
+      "slug": "wag-the-dog",
+      "has_reactions": false
+    },
+    {
+      "id": "03b7f8cc-b6cc-45de-95d0-11c75dd40cdd",
+      "title": "Half Baked",
+      "release_year": 1998,
+      "studio_label": "Universal Pictures",
+      "slug": "half-baked",
+      "has_reactions": true
+    },
+    {
+      "id": "fb304f2a-45e8-4170-8142-846087ced8ae",
+      "title": "The Story of Darrell Royal",
+      "release_year": 1999,
+      "studio_label": "\u2014",
+      "slug": "the-story-of-darrell-royal",
+      "has_reactions": false
+    },
+    {
+      "id": "ffb7d002-e9ea-4c95-97ce-0a3a2c348e6c",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "release_year": 1999,
+      "studio_label": "New Line Cinema",
+      "slug": "austin-powers-the-spy-who-shagged-me",
+      "has_reactions": true
+    },
+    {
+      "id": "b1e44044-a950-4390-9ec2-b70a4d888af4",
+      "title": "Kinky Friedman: Proud To Be An Asshole From El Paso",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "kinky-friedman-proud-to-be-an-asshole-from-el-paso",
+      "has_reactions": false
+    },
+    {
+      "id": "a140a64c-db0f-418b-9d65-3f290880b01a",
+      "title": "Willie Nelson: Live in Amsterdam",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-live-in-amsterdam",
+      "has_reactions": false
+    },
+    {
+      "id": "33994ee2-4be0-4a9d-a1ee-ea0db4b17ec6",
+      "title": "The Journeyman",
+      "release_year": 2001,
+      "studio_label": "\u2014",
+      "slug": "the-journeyman",
+      "has_reactions": false
+    },
+    {
+      "id": "95186a98-b350-44ed-be5d-1a87802d59b1",
+      "title": "This Land Is Your Land - Folk Years",
+      "release_year": 2002,
+      "studio_label": "\u2014",
+      "slug": "this-land-is-your-land-folk-years",
+      "has_reactions": false
+    },
+    {
+      "id": "78571798-15f1-4342-944a-f9c2e04f6217",
+      "title": "The Big Bounce",
+      "release_year": 2004,
+      "studio_label": "\u2014",
+      "slug": "the-big-bounce",
+      "has_reactions": false
+    },
+    {
+      "id": "91d3241a-fe2e-4e98-809b-8aa2d5fc77b1",
+      "title": "Farm Aid: 20th Anniversary Concert",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "farm-aid-20th-anniversary-concert",
+      "has_reactions": false
+    },
+    {
+      "id": "101fa472-daf9-476e-acce-da620dbc02bd",
+      "title": "The Dukes of Hazzard",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "the-dukes-of-hazzard",
+      "has_reactions": false
+    },
+    {
+      "id": "db1ec09f-cafa-4d82-b218-658b25a84767",
+      "title": "Tootsie's Orchid Lounge: Where the Music Began",
+      "release_year": 2005,
+      "studio_label": "\u2014",
+      "slug": "tootsie-s-orchid-lounge-where-the-music-began",
+      "has_reactions": false
+    },
+    {
+      "id": "7bcfd7cb-afd4-434a-abff-c90e10d3356e",
+      "title": "Willie Nelson: Live from Austin TX",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-live-from-austin-tx",
+      "has_reactions": false
+    },
+    {
+      "id": "4018f001-b6bb-4350-a498-16a9cf5e903d",
+      "title": "American Revolutions: The Highwaymen",
+      "release_year": 2006,
+      "studio_label": "\u2014",
+      "slug": "american-revolutions-the-highwaymen",
+      "has_reactions": false
+    },
+    {
+      "id": "a7bb5ca3-fb1a-484a-a580-28b274abee89",
+      "title": "The Dukes of Hazzard: The Beginning",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "the-dukes-of-hazzard-the-beginning",
+      "has_reactions": false
+    },
+    {
+      "id": "f796b3bb-8b47-41db-8ac0-dab6e75c7e23",
+      "title": "Glen Campbell | Good Times Again",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "glen-campbell-good-times-again",
+      "has_reactions": false
+    },
+    {
+      "id": "c9a7510f-7134-49e1-ae5c-b8831e496d2e",
+      "title": "Opry Video Classics: Hall of Fame",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "opry-video-classics-hall-of-fame",
+      "has_reactions": false
+    },
+    {
+      "id": "0bb8cc2e-fed2-461f-bc49-16138d5b1948",
+      "title": "Blonde Ambition",
+      "release_year": 2007,
+      "studio_label": "\u2014",
+      "slug": "blonde-ambition",
+      "has_reactions": false
+    },
+    {
+      "id": "8a6344f4-2dcb-41ed-b2b1-72ee81a99399",
+      "title": "Surfer, Dude",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "surfer-dude",
+      "has_reactions": false
+    },
+    {
+      "id": "313b5573-61e6-4a72-8878-e30ac419e354",
+      "title": "Merle Haggard: The Real Deal",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "merle-haggard-the-real-deal",
+      "has_reactions": false
+    },
+    {
+      "id": "5d42b9be-2db8-48f2-9b4d-bb94dbca371b",
+      "title": "Hempsters: Plant the Seed",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "hempsters-plant-the-seed",
+      "has_reactions": false
+    },
+    {
+      "id": "6d92bf32-f9c2-4729-9b2e-4c911f5eae64",
+      "title": "A Colbert Christmas: The Greatest Gift of All!",
+      "release_year": 2008,
+      "studio_label": "\u2014",
+      "slug": "a-colbert-christmas-the-greatest-gift-of-all",
+      "has_reactions": false
+    },
+    {
+      "id": "6ba28768-4327-48ff-af94-6d9aaa7bb62a",
+      "title": "Dolly Parton & Friends: Love Always Live",
+      "release_year": 2009,
+      "studio_label": "\u2014",
+      "slug": "dolly-parton-friends-love-always-live",
+      "has_reactions": false
+    },
+    {
+      "id": "3ae2baaa-9679-4399-87d3-a44d1f9f70d0",
+      "title": "The Greatest Ears in Town: The Arif Mardin Story",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "the-greatest-ears-in-town-the-arif-mardin-story",
+      "has_reactions": false
+    },
+    {
+      "id": "fa94d957-bc02-4f4e-8f81-aa76eda12fba",
+      "title": "OK Buckaroos",
+      "release_year": 2010,
+      "studio_label": "\u2014",
+      "slug": "ok-buckaroos",
+      "has_reactions": false
+    },
+    {
+      "id": "28e0e12e-4ba4-4c08-bfeb-32bf1efc3c24",
+      "title": "John Mellencamp: It's About You",
+      "release_year": 2012,
+      "studio_label": "\u2014",
+      "slug": "john-mellencamp-it-s-about-you",
+      "has_reactions": false
+    },
+    {
+      "id": "4f07b2cc-2b82-4f1e-816b-ceacad266b27",
+      "title": "Supermensch: The Legend of Shep Gordon",
+      "release_year": 2013,
+      "studio_label": "\u2014",
+      "slug": "supermensch-the-legend-of-shep-gordon",
+      "has_reactions": false
+    },
+    {
+      "id": "4f5ca1ab-6245-46f3-a991-fc78d11debd6",
+      "title": "The American Epic Sessions",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-american-epic-sessions",
+      "has_reactions": false
+    },
+    {
+      "id": "439b9789-1dd4-49ca-bada-057e978492c1",
+      "title": "Loretta Lynn: Still a Mountain Girl",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "loretta-lynn-still-a-mountain-girl",
+      "has_reactions": false
+    },
+    {
+      "id": "2785560f-089f-45f0-abf8-f46ba9872e64",
+      "title": "Road to Austin",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "road-to-austin",
+      "has_reactions": false
+    },
+    {
+      "id": "4fba209d-445b-42a3-9192-5af2aadaa6ca",
+      "title": "Zoolander 2",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "zoolander-2",
+      "has_reactions": false
+    },
+    {
+      "id": "f9a35d4d-afed-464a-9973-a15baa893a8f",
+      "title": "The Highwaymen - Live American Outlaws",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-highwaymen-live-american-outlaws",
+      "has_reactions": false
+    },
+    {
+      "id": "f9e97a8e-b884-4916-8b9b-5f4e6c1e53e3",
+      "title": "The Highwaymen: Friends Till the End",
+      "release_year": 2016,
+      "studio_label": "\u2014",
+      "slug": "the-highwaymen-friends-till-the-end",
+      "has_reactions": false
+    },
+    {
+      "id": "63747581-bc0f-45e4-9e06-43b1900df779",
+      "title": "Lost in London",
+      "release_year": 2017,
+      "studio_label": "\u2014",
+      "slug": "lost-in-london",
+      "has_reactions": false
+    },
+    {
+      "id": "e19d7e86-a990-4646-9285-4c352535b8f0",
+      "title": "Also Starring Austin",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "also-starring-austin",
+      "has_reactions": false
+    },
+    {
+      "id": "e9c00905-6789-43b4-b848-35729671e3d2",
+      "title": "Paradox",
+      "release_year": 2018,
+      "studio_label": "\u2014",
+      "slug": "paradox",
+      "has_reactions": false
+    },
+    {
+      "id": "3206d1e5-5c9d-4ffc-990b-9a837faa16fa",
+      "title": "Dolly Parton's Mountain Magic Christmas",
+      "release_year": 2022,
+      "studio_label": "\u2014",
+      "slug": "dolly-parton-s-mountain-magic-christmas",
+      "has_reactions": false
+    },
+    {
+      "id": "dc3f3f49-17d9-4910-8755-6f152fbb12ee",
+      "title": "Willie Nelson 90: Long Story Short",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "willie-nelson-90-long-story-short",
+      "has_reactions": false
+    },
+    {
+      "id": "88b8b8ed-ec3e-4277-8f52-803db7f0a3d2",
+      "title": "Joke Man",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "joke-man",
+      "has_reactions": false
+    },
+    {
+      "id": "f5aeeb19-0ef1-41ba-bc44-c7907a30d7d7",
+      "title": "June",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "june",
+      "has_reactions": false
+    },
+    {
+      "id": "8adf637b-4ed7-41b4-98ce-4c05dde9fc35",
+      "title": "Heartbreakers at the BBC",
+      "release_year": 2023,
+      "studio_label": "\u2014",
+      "slug": "heartbreakers-at-the-bbc",
+      "has_reactions": false
+    },
+    {
+      "id": "b5f0d636-952e-46b5-9838-f79bae96c371",
+      "title": "Willie and Me",
+      "release_year": 2024,
+      "studio_label": "\u2014",
+      "slug": "willie-and-me",
+      "has_reactions": false
+    }
+  ]
+}
