@@ -14,6 +14,7 @@ interface MediaItemSimple {
   release_year: number;
   poster_url?: string;
   studio_label?: string;
+  directors: string[];
   total_views: number;
   reaction_count: number;
 }
@@ -64,6 +65,9 @@ function MoviesContent() {
             release_year,
             poster_url,
             studio_label,
+            media_directors (
+              directors ( name )
+            ),
             videos (id, view_count, verification_status)
           `);
 
@@ -73,6 +77,9 @@ function MoviesContent() {
               (v: any) => v.verification_status === 'verified' || !v.verification_status
             );
             const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+            const directorsList = (m.media_directors || [])
+              .map((md: any) => md.directors?.name)
+              .filter(Boolean);
 
             return {
               id: m.id,
@@ -81,6 +88,7 @@ function MoviesContent() {
               release_year: m.release_year,
               poster_url: m.poster_url,
               studio_label: m.studio_label,
+              directors: directorsList,
               total_views: totalViews,
               reaction_count: verifiedVids.length,
             };
@@ -119,8 +127,9 @@ function MoviesContent() {
       const matchTitle = item.title.toLowerCase().includes(q);
       const matchYear = item.release_year.toString().includes(q);
       const matchStudio = item.studio_label?.toLowerCase().includes(q);
+      const matchDirector = item.directors.some((d) => d.toLowerCase().includes(q));
 
-      if (!matchTitle && !matchYear && !matchStudio) return false;
+      if (!matchTitle && !matchYear && !matchStudio && !matchDirector) return false;
     }
 
     return true;
@@ -218,7 +227,7 @@ function MoviesContent() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
-              placeholder="Search title, studio, or year..."
+              placeholder="Search title, director, studio, or year..."
               value={searchTerm}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"

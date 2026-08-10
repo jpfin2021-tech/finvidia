@@ -52,75 +52,39 @@ export default function MovieHubPage() {
         const targetSlug = generateCleanSlug(mediaIdentifier);
         const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(mediaIdentifier);
 
-        let mediaData: any = null;
+        let query = supabase
+          .from('media_items')
+          .select(`
+            id,
+            media_type,
+            title,
+            release_year,
+            studio_label,
+            synopsis,
+            poster_url,
+            backdrop_url,
+            slug,
+            media_directors (
+              directors (id, name, slug)
+            ),
+            media_actors (
+              actors (id, name, slug)
+            ),
+            media_genres (
+              genres (id, name, slug)
+            )
+          `);
 
         if (isUuid) {
-          const { data } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              media_type,
-              title,
-              release_year,
-              studio_label,
-              synopsis,
-              poster_url,
-              backdrop_url,
-              slug,
-              media_directors (
-                directors (id, name, slug)
-              ),
-              media_actors (
-                actors (id, name, slug)
-              ),
-              media_genres (
-                genres (id, name, slug)
-              )
-            `)
-            .eq('id', mediaIdentifier)
-            .maybeSingle();
-          mediaData = data;
+          query = query.eq('id', mediaIdentifier);
+        } else {
+          query = query.or(`slug.ilike.${targetSlug},title.ilike.${mediaIdentifier.replace(/-/g, ' ')}`);
         }
 
-        if (!mediaData) {
-          const { data: allMedia } = await supabase
-            .from('media_items')
-            .select(`
-              id,
-              media_type,
-              title,
-              release_year,
-              studio_label,
-              synopsis,
-              poster_url,
-              backdrop_url,
-              slug,
-              media_directors (
-                directors (id, name, slug)
-              ),
-              media_actors (
-                actors (id, name, slug)
-              ),
-              media_genres (
-                genres (id, name, slug)
-              )
-            `);
-
-          if (allMedia) {
-            mediaData = allMedia.find((m: any) => {
-              const titleSlug = generateCleanSlug(m.title);
-              const dbSlug = m.slug ? generateCleanSlug(m.slug) : '';
-              return (
-                m.id === mediaIdentifier ||
-                dbSlug === targetSlug ||
-                titleSlug === targetSlug
-              );
-            });
-          }
-        }
+        const { data: mediaData } = await query.limit(1).maybeSingle();
 
         if (!mediaData) {
-          console.error('Error fetching movie page for:', mediaIdentifier);
+          console.error('Movie not found for identifier:', mediaIdentifier);
           setLoading(false);
           return;
         }
@@ -225,8 +189,8 @@ export default function MovieHubPage() {
       <div className="min-h-screen bg-[#09090b] pt-32 px-6 text-center text-zinc-400">
         <h2 className="text-xl font-bold text-white">Movie title not found</h2>
         <button
-          onClick={() => router.push('/browse')}
-          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg"
+          onClick={() => router.push('/movies')}
+          className="mt-4 bg-red-600 text-white text-xs font-bold px-4 py-2 rounded-lg cursor-pointer"
         >
           Return to Movie Index
         </button>
@@ -302,7 +266,7 @@ export default function MovieHubPage() {
             <div className="flex flex-wrap items-center gap-4 text-xs md:text-sm text-zinc-300">
               {media.directors?.[0] && (
                 <Link
-                  href={`/browse?q=${encodeURIComponent(media.directors[0].name)}`}
+                  href={`/movies?q=${encodeURIComponent(media.directors[0].name)}`}
                   className="flex items-center gap-1.5 font-medium hover:text-red-400 transition-colors group"
                 >
                   <User className="w-4 h-4 text-red-500" />
@@ -311,7 +275,7 @@ export default function MovieHubPage() {
               )}
               {media.studio_label && (
                 <Link
-                  href={`/browse?q=${encodeURIComponent(media.studio_label)}`}
+                  href={`/movies?q=${encodeURIComponent(media.studio_label)}`}
                   className="flex items-center gap-1.5 font-medium hover:text-red-400 transition-colors group"
                 >
                   <Building className="w-4 h-4 text-red-500" />
@@ -326,8 +290,8 @@ export default function MovieHubPage() {
                 {media.genres.map((g) => (
                   <Link
                     key={g.id}
-                    href={`/browse?genre=${g.slug}`}
-                    className="bg-zinc-800/80 hover:bg-amber-500 hover:text-black text-zinc-300 text-[11px] font-bold px-2.5 py-0.5 rounded border border-zinc-700/80 transition-all"
+                    href={`/movies?q=${encodeURIComponent(g.name)}`}
+                    className="bg-zinc-800/80 text-zinc-300 hover:text-white text-[11px] font-bold px-2.5 py-0.5 rounded border border-zinc-700/80 transition-colors"
                   >
                     {g.name}
                   </Link>
@@ -373,7 +337,7 @@ export default function MovieHubPage() {
               {media.synopsis || "Explore creator reactions and commentary for this title."}
             </p>
 
-            {/* KEY CAST PILLS -> DIRECT ROUTE TO /actors/[slug] */}
+            {/* Key Cast Pills */}
             {media.actors && media.actors.length > 0 && (
               <div className="pt-1">
                 <p className="text-xs font-bold text-zinc-400 mb-1.5 flex items-center gap-1">
