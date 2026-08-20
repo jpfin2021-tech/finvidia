@@ -18,6 +18,7 @@ interface MediaItemSimple {
   genres: string[];
   total_views: number;
   reaction_count: number;
+  avg_views_per_reaction: number;
 }
 
 function formatViews(views?: number): string {
@@ -62,7 +63,7 @@ function MoviesContent() {
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchQuery] = useState(queryParam);
   const [selectedGenre, setSelectedGenre] = useState<string>(genreParam);
-  const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'year' | 'title'>('views');
+  const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'year' | 'title'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
   // Pagination State
@@ -79,7 +80,6 @@ function MoviesContent() {
         let page = 0;
         let hasMore = true;
 
-        // Fetch all reacted movies across pagination chunks
         while (hasMore) {
           const { data, error } = await supabase
             .from('media_items')
@@ -117,6 +117,7 @@ function MoviesContent() {
             (v: any) => v.verification_status === 'verified' || !v.verification_status
           );
           const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+          const reactionCount = verifiedVids.length;
           
           const directorsList = (m.media_directors || [])
             .map((md: any) => md.directors?.name)
@@ -136,7 +137,8 @@ function MoviesContent() {
             directors: directorsList,
             genres: genresList,
             total_views: totalViews,
-            reaction_count: verifiedVids.length,
+            reaction_count: reactionCount,
+            avg_views_per_reaction: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
           };
         });
 
@@ -201,7 +203,8 @@ function MoviesContent() {
 
   const sortedItems = [...filteredItems].sort((a, b) => {
     let res = 0;
-    if (sortBy === 'reactions') res = b.reaction_count - a.reaction_count;
+    if (sortBy === 'avg_views') res = b.avg_views_per_reaction - a.avg_views_per_reaction;
+    else if (sortBy === 'reactions') res = b.reaction_count - a.reaction_count;
     else if (sortBy === 'year') res = b.release_year - a.release_year;
     else if (sortBy === 'title') res = a.title.localeCompare(b.title);
     else res = b.total_views - a.total_views;
@@ -276,7 +279,7 @@ function MoviesContent() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
-        {/* Title and Search Bar */}
+        {/* Header Title & Updated Subtext */}
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-zinc-800 pb-6">
           <div>
             <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
@@ -284,7 +287,7 @@ function MoviesContent() {
               Movie Reaction Index
             </h1>
             <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-              Browse master reacted movie catalog ({movies.length} titles). Click any film to watch all creator reactions.
+              Click any film to watch all creator reactions
             </p>
           </div>
 
@@ -300,7 +303,7 @@ function MoviesContent() {
           </form>
         </div>
 
-        {/* Clickable Genre Tag Filters */}
+        {/* Clickable Genre Tag Filters & Sort Controls */}
         <div className="my-6 space-y-4">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
             <div className="flex items-center gap-1.5 overflow-x-auto pb-2 scrollbar-thin scrollbar-thumb-zinc-800">
@@ -339,6 +342,7 @@ function MoviesContent() {
                 className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
               >
                 <option value="views">Total Reaction Views</option>
+                <option value="avg_views">Views Per Reaction</option>
                 <option value="reactions">Most Creator Reactions</option>
                 <option value="year">Release Year</option>
                 <option value="title">Alphabetical (A-Z)</option>
@@ -396,7 +400,7 @@ function MoviesContent() {
                     <div className="flex items-center justify-between text-[10px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-2 mt-2">
                       <span className="flex items-center gap-1 text-amber-400">
                         <Eye className="w-3 h-3" />
-                        {formatViews(item.total_views)}
+                        {formatViews(sortBy === 'avg_views' ? item.avg_views_per_reaction : item.total_views)}
                       </span>
                       <span className="flex items-center gap-1 text-zinc-300">
                         <Tv className="w-3 h-3 text-red-500" />
