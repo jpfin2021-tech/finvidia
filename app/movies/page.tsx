@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight, Sparkles } from 'lucide-react';
+import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface MediaItemSimple {
   id: string;
@@ -79,7 +79,7 @@ function MoviesContent() {
         let page = 0;
         let hasMore = true;
 
-        // Fetch all reacted movies without 1000-item truncation
+        // Fetch all reacted movies across pagination chunks
         while (hasMore) {
           const { data, error } = await supabase
             .from('media_items')
@@ -104,8 +104,11 @@ function MoviesContent() {
             hasMore = false;
           } else {
             allRecords = allRecords.concat(data);
-            if (data.length < 1000) hasMore = false;
-            page++;
+            if (data.length < 1000) {
+              hasMore = false;
+            } else {
+              page++;
+            }
           }
         }
 
@@ -171,10 +174,14 @@ function MoviesContent() {
   const filteredItems = movies.filter((item) => {
     // Genre Filter
     if (selectedGenre !== 'All') {
-      const matchGenre = item.genres.some(
-        (g) => g.toLowerCase() === selectedGenre.toLowerCase() ||
-               (selectedGenre === 'Sci-Fi' && (g.toLowerCase().includes('sci') || g.toLowerCase().includes('science')))
-      );
+      const matchGenre = item.genres.some((g) => {
+        const target = selectedGenre.toLowerCase();
+        const current = g.toLowerCase();
+        if (target === 'sci-fi') {
+          return current.includes('sci') || current.includes('science');
+        }
+        return current.includes(target);
+      });
       if (!matchGenre) return false;
     }
 
@@ -269,7 +276,7 @@ function MoviesContent() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
-        {/* Header Title & Search */}
+        {/* Title and Search Bar */}
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-zinc-800 pb-6">
           <div>
             <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
@@ -296,7 +303,6 @@ function MoviesContent() {
         {/* Clickable Genre Tag Filters */}
         <div className="my-6 space-y-4">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
-            {/* Genre Filter Scroll Container */}
             <div className="flex items-center gap-1.5 overflow-x-auto pb-2 scrollbar-thin scrollbar-thumb-zinc-800">
               {FEATURED_GENRES.map((genre) => {
                 const isActive = selectedGenre.toLowerCase() === genre.toLowerCase();
@@ -345,7 +351,9 @@ function MoviesContent() {
 
         {sortedItems.length === 0 ? (
           <div className="py-20 text-center text-zinc-500">
-            <p className="text-base font-bold text-zinc-400">No movies found matching "{selectedGenre !== 'All' ? selectedGenre : ''} {searchTerm}".</p>
+            <p className="text-base font-bold text-zinc-400">
+              No movies found matching {selectedGenre !== 'All' ? `genre "${selectedGenre}"` : ''} {searchTerm.trim() ? `query "${searchTerm.trim()}"` : ''}.
+            </p>
             <button
               onClick={() => { setSearchQuery(''); setSelectedGenre('All'); setCurrentPage(1); setJumpPageInput('1'); }}
               className="mt-3 text-xs text-red-500 font-bold hover:underline cursor-pointer"
