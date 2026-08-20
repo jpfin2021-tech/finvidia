@@ -48,44 +48,42 @@ export default function LeaderboardPage() {
       setLoading(true);
       try {
         const supabase = createClient();
-        let allVerified: any[] = [];
-        let page = 0;
-        let hasMore = true;
 
-        // Query clean verified_movies VIEW
-        while (hasMore) {
-          const { data, error } = await supabase
-            .from('verified_movies')
-            .select('*')
-            .range(page * 1000, (page + 1) * 1000 - 1);
+        const { data: rawMedia } = await supabase
+          .from('media_items')
+          .select(`
+            id,
+            title,
+            slug,
+            release_year,
+            poster_url,
+            studio_label,
+            videos (id, view_count, verification_status)
+          `);
 
-          if (error || !data || data.length === 0) {
-            hasMore = false;
-          } else {
-            allVerified = allVerified.concat(data);
-            if (data.length < 1000) hasMore = false;
-            page++;
-          }
+        if (rawMedia) {
+          const formatted: LeaderboardItem[] = rawMedia.map((m: any) => {
+            const verifiedVids = (m.videos || []).filter(
+              (v: any) => v.verification_status === 'verified' || !v.verification_status
+            );
+            const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+            const reactionCount = verifiedVids.length;
+
+            return {
+              id: m.id,
+              title: m.title,
+              slug: m.slug || generateCleanSlug(m.title),
+              release_year: m.release_year,
+              poster_url: m.poster_url,
+              studio_label: m.studio_label,
+              total_views: totalViews,
+              reaction_count: reactionCount,
+              avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
+            };
+          });
+
+          setItems(formatted);
         }
-
-        const formatted: LeaderboardItem[] = allVerified.map((m: any) => {
-          const totalViews = Number(m.total_views) || 0;
-          const reactionCount = Number(m.reaction_count) || 0;
-
-          return {
-            id: m.id,
-            title: m.title,
-            slug: m.slug || generateCleanSlug(m.title),
-            release_year: m.release_year,
-            poster_url: m.poster_url,
-            studio_label: m.studio_label,
-            total_views: totalViews,
-            reaction_count: reactionCount,
-            avg_views_per_video: reactionCount > 0 ? Math.round(totalViews / reactionCount) : 0,
-          };
-        });
-
-        setItems(formatted);
       } catch (err) {
         console.error('Error loading leaderboard:', err);
       } finally {
@@ -185,7 +183,7 @@ export default function LeaderboardPage() {
               Master Leaderboard
             </h1>
             <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-              Top performing films ranked by aggregate creator reaction viewership.
+              Top performing films ranked by aggregate creator reaction viewership
             </p>
           </div>
 

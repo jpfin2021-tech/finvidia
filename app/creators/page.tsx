@@ -1,21 +1,21 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Suspense } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Users, Tv, Eye, ChevronLeft, ChevronRight, Filter, ArrowUp, ArrowDown } from 'lucide-react';
+import { RefreshCw, Search, Users, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface CreatorItem {
   id: string;
   name: string;
-  handle: string;
+  handle?: string;
   slug: string;
   avatar_url?: string;
-  yt_channel_id: string;
-  video_count: number;
+  total_reactions: number;
   total_views: number;
-  avg_views_per_video: number;
+  avg_views_per_reaction: number;
 }
 
 function formatViews(views?: number): string {
@@ -32,14 +32,18 @@ function generateCleanSlug(name: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-export default function CreatorDirectoryPage() {
+function CreatorsContent() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const queryParam = searchParams.get('q') || '';
+
   const [creators, setCreators] = useState<CreatorItem[]>([]);
   const [loading, setLoading] = useState(true);
-  const [searchTerm, setSearchQuery] = useState('');
+  const [searchTerm, setSearchQuery] = useState(queryParam);
   const [sortBy, setSortBy] = useState<'views' | 'avg_views' | 'reactions' | 'name'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
-  // Pagination State: Updated to 12 per page
+  // Pagination State
   const [currentPage, setCurrentPage] = useState(1);
   const [jumpPageInput, setJumpPageInput] = useState('1');
   const itemsPerPage = 12;
@@ -50,54 +54,45 @@ export default function CreatorDirectoryPage() {
       try {
         const supabase = createClient();
 
-        let allChannels: any[] = [];
-        let page = 0;
-        let hasMore = true;
-
-        while (hasMore) {
-          const { data, error } = await supabase
-            .from('channels')
-            .select(`
+        const { data: channelData } = await supabase
+          .from('channels')
+          .select(`
+            id,
+            name,
+            handle,
+            slug,
+            avatar_url,
+            videos (
               id,
-              name,
-              handle,
-              slug,
-              avatar_url,
-              yt_channel_id,
-              videos (id, view_count)
-            `)
-            .range(page * 1000, (page + 1) * 1000 - 1);
+              view_count,
+              verification_status
+            )
+          `);
 
-          if (error || !data || data.length === 0) {
-            hasMore = false;
-          } else {
-            allChannels = allChannels.concat(data);
-            if (data.length < 1000) hasMore = false;
-            page++;
-          }
+        if (channelData) {
+          const formatted: CreatorItem[] = channelData.map((c: any) => {
+            const verifiedVideos = (c.videos || []).filter(
+              (v: any) => v.verification_status === 'verified' || !v.verification_status
+            );
+            const totalViews = verifiedVideos.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+            const totalReactions = verifiedVideos.length;
+
+            return {
+              id: c.id,
+              name: c.name,
+              handle: c.handle,
+              slug: c.slug || generateCleanSlug(c.name),
+              avatar_url: c.avatar_url,
+              total_reactions: totalReactions,
+              total_views: totalViews,
+              avg_views_per_reaction: totalReactions > 0 ? Math.round(totalViews / totalReactions) : 0,
+            };
+          });
+
+          setCreators(formatted);
         }
-
-        const formatted: CreatorItem[] = allChannels.map((c: any) => {
-          const vids = c.videos || [];
-          const totalViews = vids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
-          const count = vids.length;
-
-          return {
-            id: c.id,
-            name: c.name,
-            handle: c.handle || '@' + generateCleanSlug(c.name),
-            slug: c.slug || generateCleanSlug(c.name),
-            avatar_url: c.avatar_url,
-            yt_channel_id: c.yt_channel_id,
-            video_count: count,
-            total_views: totalViews,
-            avg_views_per_video: count > 0 ? Math.round(totalViews / count) : 0,
-          };
-        });
-
-        setCreators(formatted);
       } catch (err) {
-        console.error('Error loading creator directory:', err);
+        console.error('Error loading creators:', err);
       } finally {
         setLoading(false);
       }
@@ -106,28 +101,41 @@ export default function CreatorDirectoryPage() {
     loadCreators();
   }, []);
 
+  const handleSearchSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    setCurrentPage(1);
+    setJumpPageInput('1');
+    const params = new URLSearchParams();
+    if (searchTerm.trim()) params.set('q', searchTerm.trim());
+    router.push(`/creators?${params.toString()}`);
+  };
+
   const toggleSortDirection = () => {
     setSortDirection((prev) => (prev === 'desc' ? 'asc' : 'desc'));
   };
 
-  const filteredCreators = creators.filter((c) => {
-    if (!searchTerm.trim()) return true;
-    const q = searchTerm.toLowerCase().trim();
-    return c.name.toLowerCase().includes(q) || c.handle.toLowerCase().includes(q);
+  const filteredItems = creators.filter((c) => {
+    if (searchTerm.trim()) {
+      const q = searchTerm.toLowerCase().trim();
+      const matchName = c.name.toLowerCase().includes(q);
+      const matchHandle = c.handle?.toLowerCase().includes(q);
+      if (!matchName && !matchHandle) return false;
+    }
+    return true;
   });
 
-  const sortedCreators = [...filteredCreators].sort((a, b) => {
+  const sortedItems = [...filteredItems].sort((a, b) => {
     let res = 0;
-    if (sortBy === 'avg_views') res = b.avg_views_per_video - a.avg_views_per_video;
-    else if (sortBy === 'reactions') res = b.video_count - a.video_count;
+    if (sortBy === 'avg_views') res = b.avg_views_per_reaction - a.avg_views_per_reaction;
+    else if (sortBy === 'reactions') res = b.total_reactions - a.total_reactions;
     else if (sortBy === 'name') res = a.name.localeCompare(b.name);
     else res = b.total_views - a.total_views;
 
     return sortDirection === 'desc' ? res : -res;
   });
 
-  const totalPages = Math.ceil(sortedCreators.length / itemsPerPage) || 1;
-  const paginatedCreators = sortedCreators.slice(
+  const totalPages = Math.ceil(sortedItems.length / itemsPerPage) || 1;
+  const paginatedItems = sortedItems.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage
   );
@@ -166,7 +174,6 @@ export default function CreatorDirectoryPage() {
         >
           <ChevronLeft className="w-4 h-4" /> Prev
         </button>
-
         <form onSubmit={handlePageJumpSubmit} className="flex items-center gap-1.5 text-xs font-bold text-zinc-400">
           <span>Page</span>
           <input
@@ -180,7 +187,6 @@ export default function CreatorDirectoryPage() {
           />
           <span>of <strong className="text-white">{totalPages}</strong></span>
         </form>
-
         <button
           disabled={currentPage === totalPages}
           onClick={() => handlePageChange(currentPage + 1)}
@@ -195,110 +201,125 @@ export default function CreatorDirectoryPage() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
-        <div className="border-b border-zinc-800 pb-6 mb-6">
-          <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
-            <Users className="w-8 h-8 text-red-600" />
-            Creator Directory ({filteredCreators.length})
-          </h1>
-          <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-            Explore indexed movie reaction channels, video archives, and channel analytics.
-          </p>
-        </div>
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-zinc-800 pb-6 mb-6">
+          <div>
+            <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
+              <Users className="w-8 h-8 text-red-600" />
+              Creator Directory ({creators.length})
+            </h1>
+            <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
+              Explore indexed movie reaction channels, video archives, and channel analytics
+            </p>
+          </div>
 
-        {/* Filter & Sort Controls */}
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-4">
-          <div className="relative w-full md:w-80">
+          <form onSubmit={handleSearchSubmit} className="relative w-full md:w-80">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
             <input
               type="text"
               placeholder="Search creator name or @handle..."
               value={searchTerm}
-              onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
+              onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-zinc-900 border border-zinc-800 text-xs text-white placeholder-zinc-500 rounded-xl pl-9 pr-4 py-2.5 focus:outline-none focus:border-red-600"
             />
-          </div>
+          </form>
+        </div>
 
-          <div className="flex items-center gap-2 text-xs text-zinc-400">
+        <div className="flex items-center justify-end gap-2 text-xs text-zinc-400 mb-6">
+          <button
+            onClick={toggleSortDirection}
+            className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
+            title={`Sort Order: ${sortDirection === 'desc' ? 'Descending' : 'Ascending'}`}
+          >
+            {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+          </button>
+          <Filter className="w-4 h-4 text-red-500" />
+          <span>Sort By:</span>
+          <select
+            value={sortBy}
+            onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
+            className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
+          >
+            <option value="views">Total Reaction Views</option>
+            <option value="avg_views">Views Per Reaction</option>
+            <option value="reactions">Most Reactions</option>
+            <option value="name">Channel Name (A-Z)</option>
+          </select>
+        </div>
+
+        {renderPaginationControl()}
+
+        {sortedItems.length === 0 ? (
+          <div className="py-20 text-center text-zinc-500">
+            <p className="text-base font-bold text-zinc-400">No creators found matching "{searchTerm}".</p>
             <button
-              onClick={toggleSortDirection}
-              className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
-              title={`Sort Order: ${sortDirection === 'desc' ? 'Descending' : 'Ascending'}`}
+              onClick={() => { setSearchQuery(''); setCurrentPage(1); setJumpPageInput('1'); }}
+              className="mt-3 text-xs text-red-500 font-bold hover:underline cursor-pointer"
             >
-              {sortDirection === 'desc' ? <ArrowDown className="w-4 h-4" /> : <ArrowUp className="w-4 h-4" />}
+              Reset Search
             </button>
-
-            <Filter className="w-4 h-4 text-red-500" />
-            <span>Sort By:</span>
-            <select
-              value={sortBy}
-              onChange={(e: any) => { setSortBy(e.target.value); setCurrentPage(1); setJumpPageInput('1'); }}
-              className="bg-zinc-900 border border-zinc-800 text-white text-xs rounded-lg px-3 py-1.5 focus:outline-none focus:border-red-600 cursor-pointer"
-            >
-              <option value="views">Total Reaction Views</option>
-              <option value="avg_views">Views Per Reaction</option>
-              <option value="reactions">Most Reactions</option>
-              <option value="name">Channel Name (A-Z)</option>
-            </select>
           </div>
-        </div>
-
-        {/* Top Pagination Control */}
-        {renderPaginationControl()}
-
-        {/* Creator Grid (12 per page) */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-          {paginatedCreators.map((creator) => (
-            <Link
-              key={creator.id}
-              href={`/creators/${creator.slug}`}
-              className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-2xl p-4 transition-all duration-300 hover:scale-[1.02] shadow-xl flex flex-col justify-between"
-            >
-              <div className="flex items-center gap-3.5 mb-3">
-                <div className="relative w-12 h-12 rounded-full overflow-hidden bg-zinc-800 border border-red-600 flex-none">
-                  {creator.avatar_url ? (
-                    <Image
-                      src={creator.avatar_url}
-                      alt={creator.name}
-                      fill
-                      unoptimized
-                      sizes="48px"
-                      className="object-cover"
-                    />
-                  ) : (
-                    <div className="w-full h-full bg-red-600 text-white font-black text-base flex items-center justify-center">
-                      {creator.name.charAt(0)}
+        ) : (
+          <>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+              {paginatedItems.map((c) => (
+                <Link
+                  key={c.id}
+                  href={`/creators/${c.slug}`}
+                  className="group bg-zinc-900 border border-zinc-800 hover:border-red-600/60 rounded-2xl p-4 transition-all duration-300 hover:scale-[1.02] shadow-xl flex flex-col justify-between"
+                >
+                  <div className="flex items-center gap-3.5 mb-3">
+                    <div className="relative w-12 h-12 rounded-full overflow-hidden bg-zinc-950 border border-zinc-700 flex-none">
+                      <Image
+                        src={c.avatar_url || '/placeholder.png'}
+                        alt={c.name}
+                        fill
+                        sizes="48px"
+                        className="object-cover"
+                      />
                     </div>
-                  )}
-                </div>
+                    <div className="min-w-0 flex-1">
+                      <h3 className="font-extrabold text-sm text-white group-hover:text-red-400 transition-colors truncate">
+                        {c.name}
+                      </h3>
+                      {c.handle && (
+                        <p className="text-[11px] text-zinc-400 font-medium truncate">
+                          {c.handle}
+                        </p>
+                      )}
+                    </div>
+                  </div>
 
-                <div className="min-w-0 flex-1">
-                  <h3 className="font-extrabold text-sm text-white group-hover:text-red-400 transition-colors truncate">
-                    {creator.name}
-                  </h3>
-                  <p className="text-[11px] text-zinc-400 font-medium truncate">
-                    {creator.handle}
-                  </p>
-                </div>
-              </div>
+                  <div className="flex items-center justify-between text-[11px] font-bold text-zinc-400 border-t border-zinc-800/80 pt-3 mt-1">
+                    <span className="flex items-center gap-1 text-zinc-300">
+                      <Tv className="w-3.5 h-3.5 text-red-500" />
+                      {c.total_reactions} Reactions
+                    </span>
+                    <span className="flex items-center gap-1 text-amber-400">
+                      <Eye className="w-3.5 h-3.5" />
+                      {formatViews(sortBy === 'avg_views' ? c.avg_views_per_reaction : c.total_views)}
+                    </span>
+                  </div>
+                </Link>
+              ))}
+            </div>
 
-              <div className="flex items-center justify-between text-[11px] font-bold text-zinc-400 pt-3 border-t border-zinc-800/80">
-                <span className="flex items-center gap-1 text-zinc-300">
-                  <Tv className="w-3.5 h-3.5 text-red-500" />
-                  {creator.video_count} Reactions
-                </span>
-
-                <span className="flex items-center gap-1 text-amber-400">
-                  <Eye className="w-3.5 h-3.5" />
-                  {formatViews(sortBy === 'avg_views' ? creator.avg_views_per_video : creator.total_views)}
-                </span>
-              </div>
-            </Link>
-          ))}
-        </div>
-
-        {/* Bottom Pagination Control */}
-        {renderPaginationControl()}
+            {renderPaginationControl()}
+          </>
+        )}
       </div>
     </div>
+  );
+}
+
+export default function CreatorsPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-[#09090b] pt-32 flex flex-col items-center justify-center text-zinc-400">
+        <RefreshCw className="w-10 h-10 animate-spin text-red-600 mb-4" />
+        <p className="text-sm font-medium">Loading Creator Directory...</p>
+      </div>
+    }>
+      <CreatorsContent />
+    </Suspense>
   );
 }

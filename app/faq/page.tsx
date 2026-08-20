@@ -41,7 +41,7 @@ export default function FAQPage() {
           question: "How are movies added to the catalog?",
           answer: (
             <p>
-              Movies enter our live production catalog as soon as at least one verified reaction video from an indexed creator channel is mapped to the film.
+              Movies enter our live production catalog as soon as at least one verified reaction video from an indexed creator channel is mapped to the film
             </p>
           ),
         },
@@ -54,7 +54,7 @@ export default function FAQPage() {
           question: "How is the Master Leaderboard calculated?",
           answer: (
             <p>
-              The Master Leaderboard ranks films based on total aggregate reaction viewership across all verified creator reaction videos published on YouTube.
+              The Master Leaderboard ranks films based on total aggregate reaction viewership across all verified creator reaction videos published on YouTube
             </p>
           ),
         },
@@ -75,7 +75,7 @@ export default function FAQPage() {
           question: "How does the Search function work?",
           answer: (
             <p>
-              Our search bar indexes movie titles, release years, studio labels, director names, key cast members, and creator handles directly from our database.
+              Our search bar indexes movie titles, release years, studio labels, director names, key cast members, and creator handles directly from our database
             </p>
           ),
         },
@@ -83,7 +83,7 @@ export default function FAQPage() {
           question: "Where can I watch or buy the actual official movie featured in a reaction?",
           answer: (
             <p>
-              Every official Movie Hub page includes direct affiliate links to stream on Prime Video Digital, purchase physical 4K UHD / Blu-ray media on Amazon, or check full streaming availability via JustWatch.
+              Every official Movie Hub page includes direct affiliate links to stream on Prime Video Digital, purchase physical 4K UHD / Blu-ray media on Amazon, or check full streaming availability via JustWatch
             </p>
           ),
         },
@@ -109,7 +109,7 @@ export default function FAQPage() {
             Frequently Asked Questions
           </h1>
           <p className="text-xs md:text-sm text-zinc-400 mt-1 font-medium">
-            Everything you need to know about the FinVIDIA movie reaction platform and index.
+            Everything you need to know about the FinVIDIA movie reaction platform and index
           </p>
         </div>
 
@@ -157,14 +157,14 @@ export default function FAQPage() {
           ))}
         </div>
 
-        {/* Updated Bottom Call To Action */}
+        {/* Bottom Call To Action */}
         <div className="mt-10 bg-zinc-900 border border-zinc-800 rounded-2xl p-6 flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xl">
           <div>
             <h3 className="font-extrabold text-sm text-white uppercase flex items-center gap-2">
               <Film className="w-4 h-4 text-red-500" /> Ready to explore?
             </h3>
             <p className="text-xs text-zinc-400 mt-0.5">
-              Dive into our master directory or check out the current top-performing films.
+              Dive into our master directory or check out the current top-performing films
             </p>
           </div>
 
