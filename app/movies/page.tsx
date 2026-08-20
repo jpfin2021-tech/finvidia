@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight } from 'lucide-react';
+import { RefreshCw, Search, Clapperboard, Filter, Tv, Eye, ArrowUp, ArrowDown, ChevronLeft, ChevronRight, Sparkles } from 'lucide-react';
 
 interface MediaItemSimple {
   id: string;
@@ -15,6 +15,7 @@ interface MediaItemSimple {
   poster_url?: string;
   studio_label?: string;
   directors: string[];
+  genres: string[];
   total_views: number;
   reaction_count: number;
 }
@@ -33,15 +34,34 @@ function generateCleanSlug(name: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
+const FEATURED_GENRES = [
+  'All',
+  'Action',
+  'Adventure',
+  'Animation',
+  'Comedy',
+  'Crime',
+  'Drama',
+  'Fantasy',
+  'Horror',
+  'Mystery',
+  'Romance',
+  'Sci-Fi',
+  'Thriller',
+  'War',
+  'Western'
+];
+
 function MoviesContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const queryParam = searchParams.get('q') || '';
+  const genreParam = searchParams.get('genre') || 'All';
 
   const [movies, setMovies] = useState<MediaItemSimple[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchQuery] = useState(queryParam);
-  const [filterMode, setFilterMode] = useState<'all' | 'multi'>('all');
+  const [selectedGenre, setSelectedGenre] = useState<string>(genreParam);
   const [sortBy, setSortBy] = useState<'views' | 'reactions' | 'year' | 'title'>('views');
   const [sortDirection, setSortDirection] = useState<'desc' | 'asc'>('desc');
 
@@ -55,47 +75,69 @@ function MoviesContent() {
       setLoading(true);
       try {
         const supabase = createClient();
+        let allRecords: any[] = [];
+        let page = 0;
+        let hasMore = true;
 
-        const { data: rawMedia } = await supabase
-          .from('media_items')
-          .select(`
-            id,
-            title,
-            slug,
-            release_year,
-            poster_url,
-            studio_label,
-            media_directors (
-              directors ( name )
-            ),
-            videos (id, view_count, verification_status)
-          `);
+        // Fetch all reacted movies without 1000-item truncation
+        while (hasMore) {
+          const { data, error } = await supabase
+            .from('media_items')
+            .select(`
+              id,
+              title,
+              slug,
+              release_year,
+              poster_url,
+              studio_label,
+              media_directors (
+                directors ( name )
+              ),
+              media_genres (
+                genres ( name, slug )
+              ),
+              videos (id, view_count, verification_status)
+            `)
+            .range(page * 1000, (page + 1) * 1000 - 1);
 
-        if (rawMedia) {
-          const formatted: MediaItemSimple[] = rawMedia.map((m: any) => {
-            const verifiedVids = (m.videos || []).filter(
-              (v: any) => v.verification_status === 'verified' || !v.verification_status
-            );
-            const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
-            const directorsList = (m.media_directors || [])
-              .map((md: any) => md.directors?.name)
-              .filter(Boolean);
-
-            return {
-              id: m.id,
-              title: m.title,
-              slug: m.slug || generateCleanSlug(m.title),
-              release_year: m.release_year,
-              poster_url: m.poster_url,
-              studio_label: m.studio_label,
-              directors: directorsList,
-              total_views: totalViews,
-              reaction_count: verifiedVids.length,
-            };
-          });
-
-          setMovies(formatted);
+          if (error || !data || data.length === 0) {
+            hasMore = false;
+          } else {
+            allRecords = allRecords.concat(data);
+            if (data.length < 1000) hasMore = false;
+            page++;
+          }
         }
+
+        const formatted: MediaItemSimple[] = allRecords.map((m: any) => {
+          const verifiedVids = (m.videos || []).filter(
+            (v: any) => v.verification_status === 'verified' || !v.verification_status
+          );
+          const totalViews = verifiedVids.reduce((sum: number, v: any) => sum + (v.view_count || 0), 0);
+          
+          const directorsList = (m.media_directors || [])
+            .map((md: any) => md.directors?.name)
+            .filter(Boolean);
+
+          const genresList = (m.media_genres || [])
+            .map((mg: any) => mg.genres?.name)
+            .filter(Boolean);
+
+          return {
+            id: m.id,
+            title: m.title,
+            slug: m.slug || generateCleanSlug(m.title),
+            release_year: m.release_year,
+            poster_url: m.poster_url,
+            studio_label: m.studio_label,
+            directors: directorsList,
+            genres: genresList,
+            total_views: totalViews,
+            reaction_count: verifiedVids.length,
+          };
+        });
+
+        setMovies(formatted);
       } catch (err) {
         console.error('Error loading movies directory:', err);
       } finally {
@@ -112,7 +154,14 @@ function MoviesContent() {
     setJumpPageInput('1');
     const params = new URLSearchParams();
     if (searchTerm.trim()) params.set('q', searchTerm.trim());
+    if (selectedGenre !== 'All') params.set('genre', selectedGenre);
     router.push(`/movies?${params.toString()}`);
+  };
+
+  const handleGenreSelect = (genre: string) => {
+    setSelectedGenre(genre);
+    setCurrentPage(1);
+    setJumpPageInput('1');
   };
 
   const toggleSortDirection = () => {
@@ -120,8 +169,16 @@ function MoviesContent() {
   };
 
   const filteredItems = movies.filter((item) => {
-    if (filterMode === 'multi' && item.reaction_count < 2) return false;
+    // Genre Filter
+    if (selectedGenre !== 'All') {
+      const matchGenre = item.genres.some(
+        (g) => g.toLowerCase() === selectedGenre.toLowerCase() ||
+               (selectedGenre === 'Sci-Fi' && (g.toLowerCase().includes('sci') || g.toLowerCase().includes('science')))
+      );
+      if (!matchGenre) return false;
+    }
 
+    // Search Query Filter
     if (searchTerm.trim()) {
       const q = searchTerm.toLowerCase().trim();
       const matchTitle = item.title.toLowerCase().includes(q);
@@ -212,6 +269,7 @@ function MoviesContent() {
   return (
     <div className="pt-20 pb-20 min-h-screen bg-[#09090b]">
       <div className="px-6 md:px-12 max-w-7xl mx-auto my-6">
+        {/* Header Title & Search */}
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-zinc-800 pb-6">
           <div>
             <h1 className="text-2xl md:text-4xl font-black text-white tracking-tight uppercase flex items-center gap-2">
@@ -235,32 +293,31 @@ function MoviesContent() {
           </form>
         </div>
 
+        {/* Clickable Genre Tag Filters */}
         <div className="my-6 space-y-4">
-          <div className="flex flex-wrap items-center justify-between gap-4">
-            <div className="flex items-center gap-2 bg-zinc-900 border border-zinc-800 rounded-xl p-1">
-              <button
-                onClick={() => { setFilterMode('all'); setCurrentPage(1); setJumpPageInput('1'); }}
-                className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                  filterMode === 'all'
-                    ? 'bg-red-600 text-white shadow-md'
-                    : 'text-zinc-400 hover:text-white'
-                }`}
-              >
-                All Reacted Films ({sortedItems.length})
-              </button>
-              <button
-                onClick={() => { setFilterMode('multi'); setCurrentPage(1); setJumpPageInput('1'); }}
-                className={`text-xs font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                  filterMode === 'multi'
-                    ? 'bg-red-600 text-white shadow-md'
-                    : 'text-zinc-400 hover:text-white'
-                }`}
-              >
-                Multi-Reactor Films
-              </button>
+          <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+            {/* Genre Filter Scroll Container */}
+            <div className="flex items-center gap-1.5 overflow-x-auto pb-2 scrollbar-thin scrollbar-thumb-zinc-800">
+              {FEATURED_GENRES.map((genre) => {
+                const isActive = selectedGenre.toLowerCase() === genre.toLowerCase();
+                return (
+                  <button
+                    key={genre}
+                    onClick={() => handleGenreSelect(genre)}
+                    className={`px-3 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all cursor-pointer flex-none ${
+                      isActive
+                        ? 'bg-red-600 text-white shadow-md shadow-red-600/30 scale-105'
+                        : 'bg-zinc-900 hover:bg-zinc-800 text-zinc-400 hover:text-white border border-zinc-800'
+                    }`}
+                  >
+                    {genre === 'All' ? 'All Genres' : genre}
+                  </button>
+                );
+              })}
             </div>
 
-            <div className="flex items-center gap-2 text-xs text-zinc-400">
+            {/* Sort Controls */}
+            <div className="flex items-center gap-2 text-xs text-zinc-400 flex-none self-end lg:self-auto">
               <button
                 onClick={toggleSortDirection}
                 className="p-2 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-red-600 text-red-500 transition-all cursor-pointer"
@@ -288,9 +345,9 @@ function MoviesContent() {
 
         {sortedItems.length === 0 ? (
           <div className="py-20 text-center text-zinc-500">
-            <p className="text-base font-bold text-zinc-400">No movies match your filter criteria.</p>
+            <p className="text-base font-bold text-zinc-400">No movies found matching "{selectedGenre !== 'All' ? selectedGenre : ''} {searchTerm}".</p>
             <button
-              onClick={() => { setSearchQuery(''); setFilterMode('all'); setCurrentPage(1); setJumpPageInput('1'); }}
+              onClick={() => { setSearchQuery(''); setSelectedGenre('All'); setCurrentPage(1); setJumpPageInput('1'); }}
               className="mt-3 text-xs text-red-500 font-bold hover:underline cursor-pointer"
             >
               Reset Filters
